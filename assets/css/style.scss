@@ -6,7 +6,13 @@
   max-width: 1435px;
 }
 
-#markdown-toc {
-  position: absolute;
-  left: 0px;
+@media screen and (min-width: 1300px) {
+  #markdown-toc {
+    position: absolute;
+    left: 0px;
+    top: 350px;
+  }
+  .main-content {  
+    margin-left: 350px;
+  }
 }
