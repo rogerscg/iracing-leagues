@@ -17,24 +17,24 @@ All active leagues with upcoming races this week.
 
 ## Leagues by Car Types
 
-[NASCAR](types/nascar){:target="_blank"}  
-[Oval](types/oval)  
-[Open-Wheel](types/openwheel)  
-[Sports Car](types/sportscar)  
-[Prototype](types/prototype)  
-[Multi-Class](types/multiclass)  
-[Rallycross](types/rallycross)  
-[Dirt Oval](types/dirtoval)  
-[Dirt Road](types/dirtroad)  
+* [NASCAR](types/nascar){:target="_blank"}   
+* [Oval](types/oval)  
+* [Open-Wheel](types/openwheel)  
+* [Sports Car](types/sportscar)  
+* [Prototype](types/prototype)  
+* [Multi-Class](types/multiclass)  
+* [Rallycross](types/rallycross)  
+* [Dirt Oval](types/dirtoval)  
+* [Dirt Road](types/dirtroad)  
 
 ## Leagues by Location  
 
-[Africa](locations/Africa)  
-[Asia](locations/Asia)  
-[Australia-NZ](locations/Australia-NZ)  
-[Europe](locations/Europe)  
-[International](locations/International)  
-[North America](locations/North America)  
-[South America](locations/South America)   
+* [Africa](locations/Africa)  
+* [Asia](locations/Asia)  
+* [Australia-NZ](locations/Australia-NZ)  
+* [Europe](locations/Europe)  
+* [International](locations/International)  
+* [North America](locations/North America)  
+* [South America](locations/South America)   
 
 
