@@ -15,8 +15,8 @@
 
 [Back to Top](#)  
 
-|                                                        League Name                                                        |            Season           |   Location  |# Season Drivers|Average SoF|Upcoming Race|
-|---------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|----------------|-----------|-------------|
-|[TopBox Sim Racing Pro 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"}|TopBoxRacing Pro2 - Pro4 Dash|North America|       36       |    3468   |     None    |
-|        [#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"}       |     TINYTRUCK VI - 2023     |North America|       29       |    1829   |     None    |
+|                                                        League Name                                                        |            Season            |   Location  |# Season Drivers|Average SoF|Upcoming Race|
+|---------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|----------------|-----------|-------------|
+|[TopBox Sim Racing Pro 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"}|TopBoxRacing Pro2 \- Pro4 Dash|North America|       36       |    3468   |     None    |
+|       [\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"}       |     TINYTRUCK VI \- 2023     |North America|       29       |    1829   |     None    |
 
