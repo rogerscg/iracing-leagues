@@ -6,6 +6,14 @@
   max-width: 1435px;
 }
 
+h1 a {
+  color: white
+}
+
+h1 a:hover {
+  text-decoration: none
+}
+
 @media screen and (min-width: 1300px) {
   #markdown-toc {
     position: absolute;
