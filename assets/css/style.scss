@@ -19,6 +19,8 @@ h1 a:hover {
     position: absolute;
     left: 0px;
     top: 435px;
+    border-right: solid 1px #efefef;
+    padding-right: 20px;
   }
   .main-content:has(#markdown-toc) {  
     margin-left: 350px;
