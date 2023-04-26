@@ -1,5 +1,3 @@
-# iRacing League Directory
-
 Welcome to the iRacing League Directory! This is updated weekly to make finding a league that fits your needs more
 easily. It's a simple UI, but it should be easy to navigate.
 
@@ -9,11 +7,11 @@ in a season, the average strength of field, and any upcoming races the league ha
 
 Got any questions? Feel free to message the creator on GitHub, iRacing, or Reddit.
 
-## [Directory](directory)
+## [Click Here for Directory](directory)
 
 All active leagues of more than 10 drivers. Almost 1,000 leagues to choose from.
 
-## [Schedule](schedule)
+## [Click Here for Schedule](schedule)
 
 All active leagues with upcoming races this week.
 
