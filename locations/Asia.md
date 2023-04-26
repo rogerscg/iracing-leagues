@@ -7,17 +7,17 @@
 
 [Back to Top](#)  
 
-|                                  League Name                                 |     Season    |Location|# Season Drivers|Average SoF|Upcoming Race|
-|------------------------------------------------------------------------------|---------------|--------|----------------|-----------|-------------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114)|JP MEETING 2023|  Asia  |       13       |    2192   |     None    |
+|                                           League Name                                          |     Season    |Location|# Season Drivers|Average SoF|Upcoming Race|
+|------------------------------------------------------------------------------------------------|---------------|--------|----------------|-----------|-------------|
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"}|JP MEETING 2023|  Asia  |       13       |    2192   |     None    |
 
 # Sports Car
 
-### Hosted All Cars Class
+### GT3 Class
 
 [Back to Top](#)  
 
-|                                  League Name                                 |   Season   |Location|# Season Drivers|Average SoF|Upcoming Race|
-|------------------------------------------------------------------------------|------------|--------|----------------|-----------|-------------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114)|iRJA GT 2023|  Asia  |       23       |    2933   |     None    |
+|                                           League Name                                          |   Season   |Location|# Season Drivers|Average SoF|Upcoming Race|
+|------------------------------------------------------------------------------------------------|------------|--------|----------------|-----------|-------------|
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"}|iRJA GT 2023|  Asia  |       23       |    2933   |     None    |
 
