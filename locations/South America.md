@@ -9,7 +9,7 @@
 
 |                                                  League Name                                                  |Season|   Location  |# Season Drivers|Average SoF|Upcoming Race|New York|London|Sydney|
 |---------------------------------------------------------------------------------------------------------------|------|-------------|----------------|-----------|-------------|--------|------|------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"}| 2023 |South America|       42       |    2766   |             |        |      |      |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"}| 2023 |South America|       42       |    2799   |             |        |      |      |
 
 # Open-wheel
 
@@ -47,7 +47,7 @@
 
 |                                                      League Name                                                     |           Season           |   Location  |# Season Drivers|Average SoF|        Upcoming Race       |        New York       |         London        |         Sydney         |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|----------------|-----------|----------------------------|-----------------------|-----------------------|------------------------|
-|    [TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"}    |   TK Road Challenge 23S2   |South America|       54       |    2033   |                            |                       |                       |                        |
+|    [TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"}    |   TK Road Challenge 23S2   |South America|       56       |    1993   |                            |                       |                       |                        |
 |      [F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"}      |           2023/1           |South America|       27       |    1852   |                            |                       |                       |                        |
 |[VRB \- Virtual Race Bahia](https://members.iracing.com/membersite/member/LeagueView.do?league=9658){:target="_blank"}|VRB \- Toyota Cup \- 2023\.1|South America|       21       |    1704   |Circuit de Spa-Francorchamps|Tue, May 02 06:00PM EDT|Tue, May 02 11:00PM BST|Wed, May 03 08:00AM AEST|
 |   [BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"}   | BRL TOYOTA GR 86 CUP / 2023|South America|       17       |    1581   |                            |                       |                       |                        |
@@ -59,9 +59,9 @@
 |                                                                  League Name                                                                 |       Season      |   Location  |# Season Drivers|Average SoF|Upcoming Race|New York|London|Sydney|
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|----------------|-----------|-------------|--------|------|------|
 |              [RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"}              |RAV GT3 SERIES 2023|South America|       35       |    1872   |             |        |      |      |
-|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"}|      T2\-2023     |South America|       32       |    3356   |             |        |      |      |
-| [IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"}|      T2\-2023     |South America|       31       |    1698   |             |        |      |      |
-|                 [F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"}                 |       2023/1      |South America|       21       |    2310   |             |        |      |      |
+|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"}|      T2\-2023     |South America|       32       |    3347   |             |        |      |      |
+| [IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"}|      T2\-2023     |South America|       31       |    1701   |             |        |      |      |
+|                 [F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"}                 |       2023/1      |South America|       21       |    2346   |             |        |      |      |
 
 ### Hosted All Cars Class
 
@@ -69,7 +69,7 @@
 
 |                                                          League Name                                                          |                   Season                   |   Location  |# Season Drivers|Average SoF|Upcoming Race|New York|London|Sydney|
 |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|----------------|-----------|-------------|--------|------|------|
-|[Patifarias de quinta \(categoria\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9554){:target="_blank"}|Patifarias de quinta \(categoria\) \- 2023S2|South America|       36       |    2348   |             |        |      |      |
+|[Patifarias de quinta \(categoria\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9554){:target="_blank"}|Patifarias de quinta \(categoria\) \- 2023S2|South America|       40       |    2282   |             |        |      |      |
 
 ### Touring Car
 
@@ -91,9 +91,9 @@
 
 [Back to Top](#)  
 
-|                                                       League Name                                                       | Season |   Location  |# Season Drivers|Average SoF|Upcoming Race|New York|London|Sydney|
-|-------------------------------------------------------------------------------------------------------------------------|--------|-------------|----------------|-----------|-------------|--------|------|------|
-|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"}|T2\-2023|South America|       45       |    2929   |             |        |      |      |
+|                                                       League Name                                                       | Season |   Location  |# Season Drivers|Average SoF|        Upcoming Race        |        New York       |         London        |         Sydney         |
+|-------------------------------------------------------------------------------------------------------------------------|--------|-------------|----------------|-----------|-----------------------------|-----------------------|-----------------------|------------------------|
+|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"}|T2\-2023|South America|       45       |    2929   |Circuit des 24 Heures du Mans|Mon, May 01 05:00PM EDT|Mon, May 01 10:00PM BST|Tue, May 02 07:00AM AEST|
 
 ### Mazda MX-5 Cup 2016
 
@@ -101,8 +101,8 @@
 
 |                                                         League Name                                                         | Season |   Location  |# Season Drivers|Average SoF|Upcoming Race|New York|London|Sydney|
 |-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|----------------|-----------|-------------|--------|------|------|
+|[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"}|T2\-2023|South America|       29       |    2413   |             |        |      |      |
 |          [F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"}          | 2023/1 |South America|       27       |    2237   |             |        |      |      |
-|[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"}|T2\-2023|South America|       27       |    2450   |             |        |      |      |
 
 ### BMW M4 GT3
 
