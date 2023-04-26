@@ -3,6 +3,8 @@ Upcoming league races for this week.
 * TOC  
 {:toc}
 
+# NASCAR
+
 ### Gen 4 Cup
 
 [Back to Top](#)  
@@ -234,6 +236,8 @@ Upcoming league races for this week.
 |------------------------------------------------------------------------------------------------|--------------------------|-------------|----------------|-----------|----------------------------------------------|
 |[Midwest Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8967)|C.O.T. Throwback Thursdays|North America|       11       |    1159   |Atlanta Motor Speedway at 2023-04-28T03:10:00Z|
 
+# Oval
+
 ### Late Model Stock
 
 [Back to Top](#)  
@@ -276,6 +280,8 @@ Upcoming league races for this week.
 |                                           League Name                                           |            Season            |   Location  |# Season Drivers|Average SoF|                  Upcoming Race                 |
 |-------------------------------------------------------------------------------------------------|------------------------------|-------------|----------------|-----------|------------------------------------------------|
 |[MLR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4963)|MLR Short Track Series 2023 Q2|North America|       26       |    2238   |Lanier National Speedway at 2023-04-29T23:00:42Z|
+
+# Dirt Oval
 
 ### Dirt Late Model - Pro
 
@@ -356,6 +362,8 @@ Upcoming league races for this week.
 |--------------------------------------------------------------------------------------------|--------------------------|-------------|----------------|-----------|---------------------------------------------------|
 |[STARS Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8311)|STARS SEASON 2 SUPER LATES|North America|       18       |    3096   |The Dirt Track at Charlotte at 2023-04-27T01:00:41Z|
 
+# Rallycross
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -383,6 +391,8 @@ Upcoming league races for this week.
 |       [SRW - TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995)      |  TOYOSIM Formula 3 Series 2023 Season 2 | Australia-NZ|       12       |    1767   |           Mount Panorama Circuit at 2023-04-26T09:00:01Z           |
 |           [Victorem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9156)          |           VRL GT3/GT4 Season 2          |North America|       12       |    3335   |                Road Atlanta at 2023-05-02T00:00:54Z                |
 |            [FTR Internal Events](https://members.iracing.com/membersite/member/LeagueView.do?league=5766)            |                 Clio Cup                |North America|       11       |    2418   |            Rudskogen Motorsenter at 2023-04-30T21:00:15Z           |
+
+# Open-wheel
 
 ### Dallara F3
 
@@ -426,11 +436,12 @@ Upcoming league races for this week.
 
 [Back to Top](#)  
 
-|                                             League Name                                             |       Season       |   Location  |# Season Drivers|Average SoF|                   Upcoming Race                   |
-|-----------------------------------------------------------------------------------------------------|--------------------|-------------|----------------|-----------|---------------------------------------------------|
-|[ARA Formula 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7167)|      Season 2      |    Europe   |       44       |    2417   | Autodromo Nazionale Monza at 2023-04-28T17:00:29Z |
-|     [TDi League (TDiL)](https://members.iracing.com/membersite/member/LeagueView.do?league=9417)    |  TDi99 IR04 League |    Europe   |       38       |    1858   |Fuji International Speedway at 2023-04-26T20:00:32Z|
-|    [East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380)    |Formula 4 Dash! 23S2|North America|       19       |    1251   | Autodromo Nazionale Monza at 2023-04-27T23:00:37Z |
+|                                             League Name                                             |       Season       |   Location  |# Season Drivers|Average SoF|                    Upcoming Race                   |
+|-----------------------------------------------------------------------------------------------------|--------------------|-------------|----------------|-----------|----------------------------------------------------|
+|[ARA Formula 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7167)|      Season 2      |    Europe   |       44       |    2417   |  Autodromo Nazionale Monza at 2023-04-28T17:00:29Z |
+|     [TDi League (TDiL)](https://members.iracing.com/membersite/member/LeagueView.do?league=9417)    |  TDi99 IR04 League |    Europe   |       38       |    1858   | Fuji International Speedway at 2023-04-26T20:00:32Z|
+|    [East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380)    |Formula 4 Dash! 23S2|North America|       19       |    1251   |  Autodromo Nazionale Monza at 2023-04-27T23:00:37Z |
+|        [GGR iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=6424)       |       GGR F4       |North America|       12       |    1233   |Circuit de Spa-Francorchamps at 2023-05-03T01:30:49Z|
 
 ### Dallara IR18
 
@@ -438,10 +449,8 @@ Upcoming league races for this week.
 
 |                                              League Name                                             |              Season              |   Location  |# Season Drivers|Average SoF|                     Upcoming Race                     |
 |------------------------------------------------------------------------------------------------------|----------------------------------|-------------|----------------|-----------|-------------------------------------------------------|
-|  [Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138)  |       2023 Warm Up 1 Races       |North America|       64       |    2898   |   Watkins Glen International at 2023-04-26T01:40:35Z  |
 |[Lionheart Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3172)|      2023 Open Wheel Season      |North America|       44       |    3191   |        Kansas Speedway at 2023-04-27T01:45:14Z        |
 |    [Formula Indy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5389)    |           Season 2023s1          |North America|       34       |    2500   |   Circuit Gilles Villeneuve at 2023-05-02T23:55:15Z   |
-|[Lionheart Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3172)|          2023 Warm Up 2          |North America|       32       |    2852   |        Kansas Speedway at 2023-04-26T01:45:14Z        |
 | [CA Open-Wheel Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6595) |         IndyCar Season 4         |    Europe   |       29       |    2178   |Michigan International Speedway at 2023-05-01T18:00:00Z|
 |      [F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335)     |              2023/1              |South America|       27       |    2533   |       Kentucky Speedway at 2023-04-26T22:35:56Z       |
 |  [STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970)  |STONECOLD RACING - IndyCar Classic| Australia-NZ|       24       |    1173   |    Circuit of the Americas at 2023-05-02T09:30:12Z    |
@@ -498,6 +507,8 @@ Upcoming league races for this week.
 |---------------------------------------------------------------------------------------------|-------|-------------|----------------|-----------|--------------------------------------------------|
 |[THE SHOW Community](https://members.iracing.com/membersite/member/LeagueView.do?league=9473)|USGP S1|North America|       15       |    1650   |Watkins Glen International at 2023-04-27T23:30:50Z|
 
+# Multi-class
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -513,12 +524,12 @@ Upcoming league races for this week.
 |[Wed. Night F.A.R.R.T. League presented by HIP Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=5548)|             FARRT WINTER 23            |North America|       36       |    1693   |      Circuit of the Americas at 2023-04-26T23:00:00Z     |
 |                     [Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791)                    |    RPR Season 29 - Road to the V8SC    | Australia-NZ|       33       |    2620   |   Circuit de Spa-Francorchamps at 2023-05-02T09:57:01Z   |
 |                   [2023 ESR IMSA Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=4045)                  |ESR IMSA TROPHY 2023 - SPRING - Practice|    Europe   |       32       |    1921   |   Sebring International Raceway at 2023-05-01T15:59:21Z  |
-|           [SRL - RACE22.COM Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8060)          |                Season 3                |North America|       32       |    1729   |        Rockingham Speedway at 2023-05-01T00:30:59Z       |
 |           [Red Solo Cup Series Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5280)           |                Season 5                |North America|       30       |    1511   |       Myrtle Beach Speedway at 2023-04-28T00:30:47Z      |
+|           [SRL - RACE22.COM Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8060)          |                Season 3                |North America|       29       |    1682   |        Rockingham Speedway at 2023-05-01T00:30:59Z       |
 |                      [Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=2689)                     |    Special Events Championship 2023    |    Europe   |       27       |    2442   |        Oulton Park Circuit at 2023-05-02T18:00:36Z       |
 |                   [WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539)                  |                Season 8                |    Africa   |       23       |    1860   |          Lime Rock Park at 2023-04-26T17:30:00Z          |
 |              [Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235)             |       ACiL 2023 Spring Challenge       |North America|       22       |    1927   |      Barber Motorsports Park at 2023-05-02T23:30:08Z     |
-|                       [CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500)                       |         Premier Series Season 9        |North America|       22       |    1682   |     Charlotte Motor Speedway at 2023-05-01T00:45:47Z     |
+|                       [CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500)                       |         Premier Series Season 9        |North America|       22       |    1670   |     Charlotte Motor Speedway at 2023-05-01T00:45:47Z     |
 |              [Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009)             |       2023 Wednesday Night Season      |North America|       22       |    1723   |       Rudskogen Motorsenter at 2023-04-27T00:30:18Z      |
 |              [TDR Monday Nights Sports Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=9477)              |      TDR Sports Cars IMSA Season 1     |North America|       22       |    1483   |    Autódromo José Carlos Pace at 2023-05-02T00:00:00Z    |
 |                [Flanders Racing Team (FRT)](https://members.iracing.com/membersite/member/LeagueView.do?league=8848)               |        Flanders Racing Team 2023       |    Europe   |       21       |    1973   |           Red Bull Ring at 2023-04-28T18:00:20Z          |
@@ -534,6 +545,8 @@ Upcoming league races for this week.
 |                      [Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479)                      |      TBP King of the Hill Season 1     |North America|       13       |    1286   |    Watkins Glen International at 2023-04-27T00:00:20Z    |
 |                   [Field Filler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9117)                   |          Monday Night Iconics          |North America|       12       |    1679   |   New Hampshire Motor Speedway at 2023-04-27T00:15:20Z   |
 |                         [Rob-Car](https://members.iracing.com/membersite/member/LeagueView.do?league=6353)                         |                Season 3                |North America|       12       |    1564   |  Nashville Fairgrounds Speedway at 2023-04-26T23:40:12Z  |
+
+# Sports Car
 
 ### Toyota GR86
 
@@ -725,6 +738,8 @@ Upcoming league races for this week.
 |                                        League Name                                       |    Season   |Location|# Season Drivers|Average SoF|                    Upcoming Race                    |
 |------------------------------------------------------------------------------------------|-------------|--------|----------------|-----------|-----------------------------------------------------|
 |[PCGB Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4489)|PCGB Season 6| Europe |       31       |    1712   |Circuit des 24 Heures du Mans at 2023-04-26T18:30:05Z|
+
+# Prototype
 
 ### Radical SR8
 
