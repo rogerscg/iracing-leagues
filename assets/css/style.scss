@@ -18,12 +18,15 @@ h1 a:hover {
   #markdown-toc {
     position: absolute;
     left: 0px;
-    top: 435px;
+    top: 390px;
     border-right: solid 1px #efefef;
     padding-right: 20px;
   }
   .main-content:has(#markdown-toc) {  
     margin-left: 350px;
     max-width: 90%;
+  }
+  .page-header {
+    padding: 3rem 6rem;
   }
 }
