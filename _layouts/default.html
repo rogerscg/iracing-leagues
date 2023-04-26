@@ -17,7 +17,9 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name"><a href="/iracing-leagues/">{{ page.title | default: site.title | default: site.github.repository_name }}</a></h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">Quickly browse the hundreds of active leagues on iRacing</h2>
+      <a href="/iracing-leagues/directory" class="btn">League Directory</a>
+      <a href="/iracing-leagues/schedule" class="btn">Schedule</a>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
