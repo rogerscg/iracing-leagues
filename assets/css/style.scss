@@ -12,7 +12,8 @@
     left: 0px;
     top: 350px;
   }
-  .main-content {  
+  .main-content:has(#markdown-toc) {  
     margin-left: 350px;
+    min-width: 90%;
   }
 }
