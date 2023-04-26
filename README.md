@@ -17,7 +17,7 @@ All active leagues with upcoming races this week.
 
 ## Leagues by Car Types
 
-[NASCAR](types/nascar)  
+[NASCAR](types/nascar){:target="_blank"}  
 [Oval](types/oval)  
 [Open-Wheel](types/openwheel)  
 [Sports Car](types/sportscar)  
