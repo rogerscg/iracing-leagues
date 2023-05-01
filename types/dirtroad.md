@@ -17,7 +17,6 @@
 
 |                                                        League Name                                                        |            Season            |   Location  |# Season Drivers|Average SoF|Upcoming Race|New York|London|Sydney|
 |---------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|----------------|-----------|-------------|--------|------|------|
-|[TopBox Sim Racing Pro 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"}|TopBoxRacing Pro2 \- Pro4 Dash|North America|       41       |    3338   |             |        |      |      |
-|       [\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"}       |     TINYTRUCK VI \- 2023     |North America|       31       |    1826   |             |        |      |      |
+|[TopBox Sim Racing Pro 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"}|TopBoxRacing Pro2 \- Pro4 Dash|North America|       43       |    3240   |             |        |      |      |
 |         [Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"}         |        STRASS Season 2       |North America|       10       |    1685   |             |        |      |      |
 
