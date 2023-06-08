@@ -9,11 +9,11 @@
 
 |                                           League Name                                          |     Season    |Location|# Season Drivers|Average SoF|Setup|Upcoming Race|New York|London|Sydney|
 |------------------------------------------------------------------------------------------------|---------------|--------|----------------|-----------|-----|-------------|--------|------|------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"}|JP MEETING 2023|  Asia  |       21       |    2233   |     |             |        |      |      |
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"}|JP MEETING 2023|  Asia  |       22       |    2315   |     |             |        |      |      |
 
 # Sports Car
 
-### GT3 Class
+### Hosted All Cars Class
 
 [Back to Top](#)  
 
@@ -25,7 +25,7 @@
 
 [Back to Top](#)  
 
-|                                                          League Name                                                          |           Season           |Location|# Season Drivers|Average SoF|Setup|        Upcoming Race        |        New York       |         London        |         Sydney         |
-|-------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------|----------------|-----------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
-|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"}|NLR 911 Cup Asia League 2023|  Asia  |       30       |    2396   |     |Circuit de Nevers Magny-Cours|Sat, May 27 08:00AM EDT|Sat, May 27 01:00PM BST|Sat, May 27 10:00PM AEST|
+|                                                          League Name                                                          |           Season           |Location|# Season Drivers|Average SoF|Setup|        Upcoming Race        |        New York        |         London         |          Sydney         |
+|-------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------|----------------|-----------|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"}|NLR 911 Cup Asia League 2023|  Asia  |       32       |    2427   |     |Circuit des 24 Heures du Mans|Sat, June 10 08:00AM EDT|Sat, June 10 01:00PM BST|Sat, June 10 10:00PM AEST|
 
