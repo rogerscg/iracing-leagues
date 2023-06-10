@@ -9,7 +9,7 @@
 
 |                                                  League Name                                                  |Season|   Location  |# Season Drivers|Average SoF|Setup|Upcoming Race|New York|London|Sydney|
 |---------------------------------------------------------------------------------------------------------------|------|-------------|----------------|-----------|-----|-------------|--------|------|------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"}| 2023 |South America|       43       |    2919   |     |             |        |      |      |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"}| 2023 |South America|       42       |    3136   |     |             |        |      |      |
 
 # Open-wheel
 
@@ -63,7 +63,7 @@
 
 |                                                      League Name                                                     |           Season           |   Location  |# Season Drivers|Average SoF|Setup|       Upcoming Race      |        New York        |         London         |          Sydney         |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|----------------|-----------|-----|--------------------------|------------------------|------------------------|-------------------------|
-|    [TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"}    |   TK Road Challenge 23S2   |South America|       50       |    2040   |     |                          |                        |                        |                         |
+|    [TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"}    |   TK Road Challenge 23S2   |South America|       44       |    2024   |     |                          |                        |                        |                         |
 |      [F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"}      |           2023/2           |South America|       19       |    1928   |     |                          |                        |                        |                         |
 |[VRB \- Virtual Race Bahia](https://members.iracing.com/membersite/member/LeagueView.do?league=9658){:target="_blank"}|VRB \- Toyota Cup \- 2023\.1|South America|       18       |    1786   |     |Autódromo José Carlos Pace|Tue, June 13 06:00PM EDT|Tue, June 13 11:00PM BST|Wed, June 14 08:00AM AEST|
 |      [F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"}      |           2023/1           |South America|       17       |    2026   |     |                          |                        |                        |                         |
@@ -80,7 +80,7 @@
 |                 [Fera das Pistas](https://members.iracing.com/membersite/member/LeagueView.do?league=9776){:target="_blank"}                 |       Pro Racing Fera das Pistas GT3       |South America|       34       |    3066   |     |Nürburgring Grand-Prix-Strecke|Wed, June 14 07:00PM EDT|Thu, June 15 12:00AM BST|Thu, June 15 09:00AM AEST|
 |        [Patifarias de quinta \(categoria\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9554){:target="_blank"}       |Patifarias de quinta \(categoria\) \- 2023S2|South America|       34       |    2234   |     | Circuit de Spa-Francorchamps |Sat, June 10 01:00PM EDT|Sat, June 10 06:00PM BST|Sun, June 11 03:00AM AEST|
 | [IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"}|                  T2\-2023                  |South America|       31       |    1868   |     |                              |                        |                        |                         |
-|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"}|                  T2\-2023                  |South America|       31       |    3426   |     |                              |                        |                        |                         |
+|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"}|                  T2\-2023                  |South America|       31       |    3418   |     |                              |                        |                        |                         |
 |                 [F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"}                 |                   2023/2                   |South America|       26       |    1856   |     |Nürburgring Grand-Prix-Strecke|Wed, June 14 05:25PM EDT|Wed, June 14 10:25PM BST|Thu, June 15 07:25AM AEST|
 |              [RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"}              |             RAV GT3 SERIES 2023            |South America|       15       |    2002   |     |                              |                        |                        |                         |
 |                 [F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"}                 |                   2023/1                   |South America|       13       |    2454   |     |                              |                        |                        |                         |
@@ -89,10 +89,10 @@
 
 [Back to Top](#)  
 
-|                                                         League Name                                                        | Season |   Location  |# Season Drivers|Average SoF|Setup|        Upcoming Race       |        New York        |         London         |          Sydney         |
-|----------------------------------------------------------------------------------------------------------------------------|--------|-------------|----------------|-----------|-----|----------------------------|------------------------|------------------------|-------------------------|
-|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"}|T2\-2023|South America|       22       |    3360   |     |                            |                        |                        |                         |
-|          [F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"}         | 2023/2 |South America|       19       |    2724   |     |Circuit de Spa-Francorchamps|Thu, June 08 05:20PM EDT|Thu, June 08 10:20PM BST|Fri, June 09 07:20AM AEST|
+|                                                         League Name                                                        | Season |   Location  |# Season Drivers|Average SoF|Setup|Upcoming Race|New York|London|Sydney|
+|----------------------------------------------------------------------------------------------------------------------------|--------|-------------|----------------|-----------|-----|-------------|--------|------|------|
+|          [F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"}         | 2023/2 |South America|       22       |    2766   |     |             |        |      |      |
+|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"}|T2\-2023|South America|       22       |    3360   |     |             |        |      |      |
 
 ### Renault Clio
 

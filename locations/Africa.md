@@ -25,7 +25,7 @@
 
 |                                                   League Name                                                   |Season|Location|# Season Drivers|Average SoF|Setup|Upcoming Race|        New York        |         London         |          Sydney         |
 |-----------------------------------------------------------------------------------------------------------------|------|--------|----------------|-----------|-----|-------------|------------------------|------------------------|-------------------------|
-|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"}| 2023 | Africa |       16       |    1616   |     |Red Bull Ring|Thu, June 08 02:00PM EDT|Thu, June 08 07:00PM BST|Fri, June 09 04:00AM AEST|
+|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"}| 2023 | Africa |       16       |    1616   |     |Red Bull Ring|Mon, June 12 02:00PM EDT|Mon, June 12 07:00PM BST|Tue, June 13 04:00AM AEST|
 
 # Prototype
 
