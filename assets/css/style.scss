@@ -18,6 +18,10 @@ h1 a:hover {
   text-decoration: none
 }
 
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #1e6bb8
+}
+
 @media screen and (min-width: 1300px) {
   #markdown-toc {
     position: absolute;
