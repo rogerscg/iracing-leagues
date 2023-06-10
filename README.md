@@ -1,4 +1,4 @@
-Welcome to the iRacing League Directory! This is updated weekly to make finding a league that fits your needs more
+Welcome to the iRacing League Directory! This is updated daily to make finding a league that fits your needs more
 easily. It's a simple UI, but it should be easy to navigate.
 
 Find a league that interests you by going to any of the pages below based on car type, location, or just scroll through
