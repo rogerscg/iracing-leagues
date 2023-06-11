@@ -288,7 +288,6 @@
 |          [Rebels Retro Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7694){:target="_blank"}         |              Retro Rebels             |North America|   14  |1901|Fixed|                                        |                        |                        |                         |
 |   [Last Man Standing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=3745){:target="_blank"}   |                  oval                 |North America|   13  |1286| Both|        North Wilkesboro Speedway       |Mon, June 12 09:00PM EDT|Tue, June 13 02:00AM BST|Tue, June 13 11:00AM AEST|
 |       [Strange Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8338){:target="_blank"}       |            1987 Winston Cup           |North America|   11  |2376|     |         Talladega Superspeedway        |Tue, June 13 08:30PM EDT|Wed, June 14 01:30AM BST|Wed, June 14 10:30AM AEST|
-| [ISRL \- Iceman's Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7680){:target="_blank"}|                Practice               |North America|   10  |2100|Fixed|                                        |                        |                        |                         |
 |[Trailer Park Motor Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=6552){:target="_blank"}| 1987 Winston Cup League \- Summer 2023|North America|   10  |1722|Fixed|            Richmond Raceway            |Wed, June 14 08:00PM EDT|Thu, June 15 01:00AM BST|Thu, June 15 10:00AM AEST|
 
 ### NASCAR Cup
@@ -697,7 +696,6 @@
 |         [League Zero \- Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"}        |               Season 7              |North America|   30  |2279|Fixed|    Circuit Gilles Villeneuve   |Thu, June 15 08:00PM EDT|Fri, June 16 01:00AM BST|Fri, June 16 10:00AM AEST|
 |        [Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"}        |             O4A 2023 S3             |North America|   23  |1852|Fixed|                                |                        |                        |                         |
 | [The Simpletons Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |The Simpletons Formula 3 Championship|North America|   20  |1833|Fixed|       Silverstone Circuit      |Sat, June 10 02:00PM EDT|Sat, June 10 07:00PM BST|Sun, June 11 04:00AM AEST|
-|        [GM PDT Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6251){:target="_blank"}       |         Formula Race Series         |North America|   17  |1858|     |                                |                        |                        |                         |
 |          [FLANC Formel 3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7592){:target="_blank"}         |        FLANC F3 Serie 2022/23       |    Europe   |   15  |2978| Open|                                |                        |                        |                         |
 
 ### Dallara IR18
@@ -1370,7 +1368,6 @@
 |            [OutCasts](https://members.iracing.com/membersite/member/LeagueView.do?league=9459){:target="_blank"}           |     358 Open Outcast League    |North America|   16  |1592| Both|                    |                        |                        |                         |
 |      [Outlaw Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9087){:target="_blank"}     |              358's             |North America|   13  |2503|     |                    |                        |                        |                         |
 |        [BullRing iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=3123){:target="_blank"}       |   2023\-A BullRing Dirt 358's  |North America|   10  |1248|     |                    |                        |                        |                         |
-|      [Hangover Crew Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4393){:target="_blank"}     |         Hangover 358's         |North America|   10  |1920|Fixed|                    |                        |                        |                         |
 
 ### Dirt Big Block Modified
 
