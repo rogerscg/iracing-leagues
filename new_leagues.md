@@ -1,8 +1,5 @@
 ## New leagues!
 
-* TOC  
-{:toc}
-
 |                                                                   League Name                                                                  |                          Discord                         |
 |------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 |           [358 Small Block Hosted Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9849){:target="_blank"}           |                                                          |
