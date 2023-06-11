@@ -7,9 +7,9 @@
 
 [Back to Top](#)  
 
-|                                                  League Name                                                  |Season|   Location  |Drivers| SoF|Setup|Upcoming Race|New York|London|Sydney|
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"}| 2023 |South America|   42  |3136|     |             |        |      |      |
+|                                                  League Name                                                  |Season|   Location  |Drivers| SoF|Setup| Upcoming Race|        New York        |         London         |          Sydney         |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"}| 2023 |South America|   42  |3136|     |Sonoma Raceway|Mon, June 12 06:00PM EDT|Mon, June 12 11:00PM BST|Tue, June 13 08:00AM AEST|
 
 # Open-wheel
 
