@@ -15,6 +15,15 @@ All active leagues of more than 10 drivers. Almost 1,000 leagues to choose from.
 
 All active leagues with upcoming races this week.
 
+## [Upcoming Seasons](upcoming)
+
+Don't miss out on the latest league seasons! These seasons are starting the next two weeks.
+
+
+## [New Leagues](new_leagues)
+
+Check out newly-created leagues. These may still be in the process of getting set up, but reaching out to new leagues always helps them!
+
 ## Leagues by Car Types
 
 * [NASCAR](types/nascar)   
