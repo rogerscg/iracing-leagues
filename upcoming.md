@@ -33,13 +33,11 @@
 
 [Back to Top](#)  
 
-|                                                        League Name                                                       |                Season               |Setup|         Season Start         |        New York        |         London         |          Sydney         |
-|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|  [American SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5099){:target="_blank"}  |            Special Events           |Fixed|   North Wilkesboro Speedway  |Sun, June 11 07:45PM EDT|Mon, June 12 12:45AM BST|Mon, June 12 09:45AM AEST|
-|   [Racers Elite \- Weekend](https://members.iracing.com/membersite/member/LeagueView.do?league=9514){:target="_blank"}   |Racers Elite \- Sunday Next Gen Fixed|Fixed|   Charlotte Motor Speedway   |Sun, June 11 07:00PM EDT|Mon, June 12 12:00AM BST|Mon, June 12 09:00AM AEST|
-|    [The BSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3791){:target="_blank"}    |             BSC season 9            | Both|Daytona International Speedway|Tue, June 13 07:00PM EDT|Wed, June 14 12:00AM BST|Wed, June 14 09:00AM AEST|
-|        [Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"}       |   BEEF JERKY UNLIMITED Mini Series  | Both|    Talladega Superspeedway   |Mon, June 12 08:00PM EDT|Tue, June 13 01:00AM BST|Tue, June 13 10:00AM AEST|
-|[WTF Racing \- Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5627){:target="_blank"}|     WTF Racing Next Gen Season 6    |Fixed|Daytona International Speedway|Mon, June 12 07:30PM EDT|Tue, June 13 12:30AM BST|Tue, June 13 09:30AM AEST|
+|                                                        League Name                                                       |             Season             |Setup|         Season Start         |        New York        |         London         |          Sydney         |
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|    [The BSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3791){:target="_blank"}    |          BSC season 9          | Both|Daytona International Speedway|Tue, June 13 07:00PM EDT|Wed, June 14 12:00AM BST|Wed, June 14 09:00AM AEST|
+|        [Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"}       |BEEF JERKY UNLIMITED Mini Series| Both|    Talladega Superspeedway   |Mon, June 12 08:00PM EDT|Tue, June 13 01:00AM BST|Tue, June 13 10:00AM AEST|
+|[WTF Racing \- Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5627){:target="_blank"}|  WTF Racing Next Gen Season 6  |Fixed|Daytona International Speedway|Mon, June 12 07:30PM EDT|Tue, June 13 12:30AM BST|Tue, June 13 09:30AM AEST|
 
 ### NASCAR Classic 1987
 
@@ -73,10 +71,9 @@
 
 [Back to Top](#)  
 
-|                                                          League Name                                                         |          Season         |Setup|           Season Start           |        New York        |         London         |          Sydney         |
-|------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
-| [Flying Rockets Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9378){:target="_blank"}|FRSRS Short Track Fun Run|     |Southern National Motorsports Park|Sun, June 18 09:00PM EDT|Mon, June 19 02:00AM BST|Mon, June 19 11:00AM AEST|
-|[No Bull Canadian/ American Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6381){:target="_blank"}| No Bull Can / Am Series |     |     Homestead Miami Speedway     |Sun, June 11 07:30PM EDT|Mon, June 12 12:30AM BST|Mon, June 12 09:30AM AEST|
+|                                                         League Name                                                         |          Season         |Setup|           Season Start           |        New York        |         London         |          Sydney         |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
+|[Flying Rockets Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9378){:target="_blank"}|FRSRS Short Track Fun Run|     |Southern National Motorsports Park|Sun, June 18 09:00PM EDT|Mon, June 19 02:00AM BST|Mon, June 19 11:00AM AEST|
 
 ### Late Model Stock
 
@@ -139,14 +136,6 @@
 |    [Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"}   |    USF2000 Season 2    | Both|Tsukuba Circuit|Sun, June 18 03:00PM EDT|Sun, June 18 08:00PM BST|Mon, June 19 05:00AM AEST|
 
 # Sports Car
-
-### Cadillac CTS-VR
-
-[Back to Top](#)  
-
-|                                                      League Name                                                      |       Season       |Setup|   Season Start   |        New York        |         London         |          Sydney         |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------|-----|------------------|------------------------|------------------------|-------------------------|
-|[Sim Racers Club of America](https://members.iracing.com/membersite/member/LeagueView.do?league=2474){:target="_blank"}|2023 Summer Cadillac| Both|Auto Club Speedway|Sun, June 11 08:00PM EDT|Mon, June 12 01:00AM BST|Mon, June 12 10:00AM AEST|
 
 ### Ferrari 488 GT3 Evo 2020
 
@@ -239,14 +228,6 @@
 
 # Prototype
 
-### Dallara P217
-
-[Back to Top](#)  
-
-|                                                            League Name                                                            | Season |Setup|        Season Start       |        New York        |         London         |          Sydney         |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------|-----|---------------------------|------------------------|------------------------|-------------------------|
-|[\(XSLR\) \- Cross Series League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5860){:target="_blank"}|Season 6| Open|Indianapolis Motor Speedway|Sun, June 11 08:00PM EDT|Mon, June 12 01:00AM BST|Mon, June 12 10:00AM AEST|
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -266,14 +247,6 @@
 |   [GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"}   |GoT \- 2023 S3 \- LMP3 Tournament| Open|   Oulton Park Circuit   |Mon, June 12 01:30PM EDT|Mon, June 12 06:30PM BST|Tue, June 13 03:30AM AEST|
 
 # Dirt Oval
-
-### Dirt Late Model - Pro
-
-[Back to Top](#)  
-
-|                                                 League Name                                                |             Season             |Setup|  Season Start  |        New York        |         London         |          Sydney         |
-|------------------------------------------------------------------------------------------------------------|--------------------------------|-----|----------------|------------------------|------------------------|-------------------------|
-|[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"}|Season 4 \- Pro Dirt Late Models|     |Lincoln Speedway|Sun, June 11 07:48PM EDT|Mon, June 12 12:48AM BST|Mon, June 12 09:48AM AEST|
 
 ### Dirt Midget
 
@@ -306,14 +279,6 @@
 |                                                    League Name                                                   |     Season    |Setup|   Season Start  |        New York        |         London         |          Sydney         |
 |------------------------------------------------------------------------------------------------------------------|---------------|-----|-----------------|------------------------|------------------------|-------------------------|
 |[Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4582){:target="_blank"}|3C 410W Sprints| Both|Knoxville Raceway|Sun, June 11 09:00PM EDT|Mon, June 12 02:00AM BST|Mon, June 12 11:00AM AEST|
-
-### Dirt UMP Modified
-
-[Back to Top](#)  
-
-|                                                    League Name                                                   |   Season  |Setup|   Season Start  |        New York        |         London         |          Sydney         |
-|------------------------------------------------------------------------------------------------------------------|-----------|-----|-----------------|------------------------|------------------------|-------------------------|
-|[Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4582){:target="_blank"}|3C UMP Mods| Both|Knoxville Raceway|Sun, June 11 08:00PM EDT|Mon, June 12 01:00AM BST|Mon, June 12 10:00AM AEST|
 
 # Multi-class/Unclassified
 
