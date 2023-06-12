@@ -7,10 +7,11 @@
 
 [Back to Top](#)  
 
-|                                                           League Name                                                          |            Season            |Location|Drivers| SoF|Setup|Upcoming Race|New York|London|Sydney|
-|--------------------------------------------------------------------------------------------------------------------------------|------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|        [Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"}       |         SEL Prototype        | Europe |   20  |2083|     |             |        |      |      |
-|[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"}|Race Of The Week\! LMP2 S1\-23| Europe |   16  |1902|     |             |        |      |      |
+|                                                            League Name                                                            |            Season            |   Location  |Drivers| SoF|Setup|       Upcoming Race       |        New York        |         London         |          Sydney         |
+|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|---------------------------|------------------------|------------------------|-------------------------|
+|         [Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"}         |         SEL Prototype        |    Europe   |   20  |2083|     |                           |                        |                        |                         |
+|  [Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |Race Of The Week\! LMP2 S1\-23|    Europe   |   16  |1902|     |                           |                        |                        |                         |
+|[\(XSLR\) \- Cross Series League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5860){:target="_blank"}|           Season 6           |North America|   10  |1746| Open|Indianapolis Motor Speedway|Sun, June 18 08:00PM EDT|Mon, June 19 01:00AM BST|Mon, June 19 10:00AM AEST|
 
 ### HPD ARX-01c
 
@@ -24,9 +25,10 @@
 
 [Back to Top](#)  
 
-|                                                 League Name                                                 |            Season           |   Location  |Drivers| SoF|Setup|Upcoming Race|        New York        |         London         |          Sydney         |
-|-------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"}|World Tour 2023 \- SuperProto|North America|   11  |1353|Fixed|Iowa Speedway|Sat, June 10 08:30PM EDT|Sun, June 11 01:30AM BST|Sun, June 11 10:30AM AEST|
+|                                                                         League Name                                                                        |            Season           |   Location  |Drivers| SoF|Setup|Upcoming Race|        New York        |         London         |          Sydney         |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
+|[Wed\. Night F\.A\.R\.R\.T\. League presented by HIP Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=5548){:target="_blank"}|       FARRT WINTER 23       |North America|   27  |1677|Fixed|             |                        |                        |                         |
+|                        [\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"}                       |World Tour 2023 \- SuperProto|North America|   11  |1353|Fixed|Iowa Speedway|Sat, June 10 08:30PM EDT|Sun, June 11 01:30AM BST|Sun, June 11 10:30AM AEST|
 
 ### Radical SR8
 

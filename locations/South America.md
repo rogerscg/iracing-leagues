@@ -27,8 +27,8 @@
 
 |                                                 League Name                                                 |Season|   Location  |Drivers| SoF|Setup|   Upcoming Race  |        New York        |         London         |          Sydney         |
 |-------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------|------------------------|------------------------|-------------------------|
-|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"}|2023/1|South America|   24  |2361|     |                  |                        |                        |                         |
 |[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"}|2023/2|South America|   22  |2477|     |Auto Club Speedway|Wed, June 14 07:35PM EDT|Thu, June 15 12:35AM BST|Thu, June 15 09:35AM AEST|
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"}|2023/1|South America|   21  |2345|     |                  |                        |                        |                         |
 
 ### FIA F4
 
@@ -104,7 +104,7 @@
 
 |                                                        League Name                                                        | Season |   Location  |Drivers| SoF|Setup|Upcoming Race|New York|London|Sydney|
 |---------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"}|T2\-2023|South America|   33  |2998|     |             |        |      |      |
+|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"}|T2\-2023|South America|   32  |3046|     |             |        |      |      |
 
 ### Touring Car
 
@@ -119,11 +119,11 @@
 
 [Back to Top](#)  
 
-|                                                      League Name                                                     |           Season           |   Location  |Drivers| SoF|Setup|       Upcoming Race      |        New York        |         London         |          Sydney         |
-|----------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-|    [TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"}    |   TK Road Challenge 23S2   |South America|   44  |2024|     |                          |                        |                        |                         |
-|      [F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"}      |           2023/2           |South America|   19  |1928|     |                          |                        |                        |                         |
-|[VRB \- Virtual Race Bahia](https://members.iracing.com/membersite/member/LeagueView.do?league=9658){:target="_blank"}|VRB \- Toyota Cup \- 2023\.1|South America|   18  |1786|     |Autódromo José Carlos Pace|Tue, June 13 06:00PM EDT|Tue, June 13 11:00PM BST|Wed, June 14 08:00AM AEST|
-|      [F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"}      |           2023/1           |South America|   17  |2026|     |                          |                        |                        |                         |
-|   [BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"}   | BRL TOYOTA GR 86 CUP / 2023|South America|   11  |1594|     |                          |                        |                        |                         |
+|                                                      League Name                                                     |           Season           |   Location  |Drivers| SoF|Setup|         Upcoming Race        |        New York        |         London         |          Sydney         |
+|----------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|    [TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"}    |   TK Road Challenge 23S2   |South America|   44  |2024|     |                              |                        |                        |                         |
+|      [F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"}      |           2023/2           |South America|   19  |1928|     |Virginia International Raceway|Mon, June 19 05:25PM EDT|Mon, June 19 10:25PM BST|Tue, June 20 07:25AM AEST|
+|[VRB \- Virtual Race Bahia](https://members.iracing.com/membersite/member/LeagueView.do?league=9658){:target="_blank"}|VRB \- Toyota Cup \- 2023\.1|South America|   18  |1786|     |  Autódromo José Carlos Pace  |Tue, June 13 06:00PM EDT|Tue, June 13 11:00PM BST|Wed, June 14 08:00AM AEST|
+|      [F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"}      |           2023/1           |South America|   17  |2026|     |                              |                        |                        |                         |
+|   [BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"}   | BRL TOYOTA GR 86 CUP / 2023|South America|   11  |1594|     |                              |                        |                        |                         |
 
