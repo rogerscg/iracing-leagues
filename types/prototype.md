@@ -30,6 +30,14 @@
 |[Wed\. Night F\.A\.R\.R\.T\. League presented by HIP Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=5548){:target="_blank"}|       FARRT WINTER 23       |North America|   27  |1677|Fixed|             |                        |                        |                         |
 |                        [\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"}                       |World Tour 2023 \- SuperProto|North America|   11  |1353|Fixed|Iowa Speedway|Sat, June 10 08:30PM EDT|Sun, June 11 01:30AM BST|Sun, June 11 10:30AM AEST|
 
+### Ligier JS P320
+
+[Back to Top](#)  
+
+|                                                League Name                                                |              Season             |Location|Drivers| SoF|Setup|       Upcoming Race      |        New York        |         London         |          Sydney         |
+|-----------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"}|GoT \- 2023 S3 \- LMP3 Tournament| Europe |   32  |2632| Open|Watkins Glen International|Mon, June 19 01:30PM EDT|Mon, June 19 06:30PM BST|Tue, June 20 03:30AM AEST|
+
 ### Radical SR8
 
 [Back to Top](#)  
@@ -39,7 +47,7 @@
 | [Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |         SR8 Europe 2023\_2        |    Europe   |   36  |2937|     |                          |                        |                        |                         |
 |            [J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"}            |      J2iRS \- Sprint Season 5     |North America|   31  |1820| Both|                          |                        |                        |                         |
 |  [Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"}  |The Simpit Radical SR8 Championship|North America|   31  |2090|     |Autódromo José Carlos Pace|Sun, June 11 01:00PM EDT|Sun, June 11 06:00PM BST|Mon, June 12 03:00AM AEST|
-|   [UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"}  | Radical Race Series 2023 Season 2 |    Europe   |   25  |2779| Open|                          |                        |                        |                         |
+|   [UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"}  | Radical Race Series 2023 Season 2 |    Europe   |   24  |2741| Open|                          |                        |                        |                         |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"}|        SR8 Americas 2023\_2       |North America|   19  |2845|     |                          |                        |                        |                         |
 |             [MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"}            |        Off season fun races       |North America|   14  |2129|     |                          |                        |                        |                         |
 | [Four Wide Racing Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9060){:target="_blank"}|      Four Wide Road Season 2      |North America|   10  |1306|     |                          |                        |                        |                         |
