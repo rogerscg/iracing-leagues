@@ -7,57 +7,57 @@
 
 [Back to Top](#)  
 
-|                                                            League Name                                                            |            Season            |   Location  |Drivers| SoF|Setup|       Upcoming Race       |        New York        |         London         |          Sydney         |
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|---------------------------|------------------------|------------------------|-------------------------|
-|         [Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"}         |         SEL Prototype        |    Europe   |   20  |2083|     |                           |                        |                        |                         |
-|  [Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |Race Of The Week\! LMP2 S1\-23|    Europe   |   16  |1902|     |                           |                        |                        |                         |
-|[\(XSLR\) \- Cross Series League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5860){:target="_blank"}|           Season 6           |North America|   10  |1746| Open|Indianapolis Motor Speedway|Sun, June 18 08:00PM EDT|Mon, June 19 01:00AM BST|Mon, June 19 10:00AM AEST|
+|[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |SEL Prototype |Europe |20 |2083 | | | | | |
+|[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |Race Of The Week\! LMP2 S1\-23 |Europe |16 |1902 | | | | | |
+|[\(XSLR\) \- Cross Series League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5860){:target="_blank"} |Season 6 |North America |10 |1746 |Open |Indianapolis Motor Speedway |Sun, June 18 08:00PM EDT |Mon, June 19 01:00AM BST |Mon, June 19 10:00AM AEST |
 
 ### HPD ARX-01c
 
 [Back to Top](#)  
 
-|                                                   League Name                                                   |         Season        |Location|Drivers| SoF|Setup|Upcoming Race|New York|London|Sydney|
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"}|Masters Exhibition Race| Africa |   28  |2324|     |             |        |      |      |
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Exhibition Race |Africa |28 |2324 | | | | | |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
-|                                                                         League Name                                                                        |            Season           |   Location  |Drivers| SoF|Setup|Upcoming Race|        New York        |         London         |          Sydney         |
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
-|[Wed\. Night F\.A\.R\.R\.T\. League presented by HIP Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=5548){:target="_blank"}|       FARRT WINTER 23       |North America|   27  |1677|Fixed|             |                        |                        |                         |
-|                        [\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"}                       |World Tour 2023 \- SuperProto|North America|   11  |1353|Fixed|Iowa Speedway|Sat, June 10 08:30PM EDT|Sun, June 11 01:30AM BST|Sun, June 11 10:30AM AEST|
+|[Wed\. Night F\.A\.R\.R\.T\. League presented by HIP Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=5548){:target="_blank"} |FARRT WINTER 23 |North America |27 |1677 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- SuperProto |North America |11 |1353 |Fixed |Iowa Speedway |Sat, June 10 08:30PM EDT |Sun, June 11 01:30AM BST |Sun, June 11 10:30AM AEST |
 
 ### Ligier JS P320
 
 [Back to Top](#)  
 
-|                                                League Name                                                |              Season             |Location|Drivers| SoF|Setup|       Upcoming Race      |        New York        |         London         |          Sydney         |
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"}|GoT \- 2023 S3 \- LMP3 Tournament| Europe |   32  |2632| Open|Watkins Glen International|Mon, June 19 01:30PM EDT|Mon, June 19 06:30PM BST|Tue, June 20 03:30AM AEST|
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |32 |2632 |Open |Watkins Glen International |Mon, June 19 01:30PM EDT |Mon, June 19 06:30PM BST |Tue, June 20 03:30AM AEST |
 
 ### Radical SR8
 
 [Back to Top](#)  
 
-|                                                        League Name                                                       |               Season              |   Location  |Drivers| SoF|Setup|       Upcoming Race      |        New York        |         London         |          Sydney         |
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-| [Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |         SR8 Europe 2023\_2        |    Europe   |   36  |2937|     |                          |                        |                        |                         |
-|            [J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"}            |      J2iRS \- Sprint Season 5     |North America|   31  |1820| Both|                          |                        |                        |                         |
-|  [Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"}  |The Simpit Radical SR8 Championship|North America|   31  |2090|     |Autódromo José Carlos Pace|Sun, June 11 01:00PM EDT|Sun, June 11 06:00PM BST|Mon, June 12 03:00AM AEST|
-|   [UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"}  | Radical Race Series 2023 Season 2 |    Europe   |   24  |2741| Open|                          |                        |                        |                         |
-|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"}|        SR8 Americas 2023\_2       |North America|   19  |2845|     |                          |                        |                        |                         |
-|             [MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"}            |        Off season fun races       |North America|   14  |2129|     |                          |                        |                        |                         |
-| [Four Wide Racing Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9060){:target="_blank"}|      Four Wide Road Season 2      |North America|   10  |1306|     |                          |                        |                        |                         |
+|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |SR8 Europe 2023\_2 |Europe |36 |2937 | | | | | |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |J2iRS \- Sprint Season 5 |North America |31 |1820 |Both | | | | |
+|[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Radical SR8 Championship |North America |31 |2090 | |Autódromo José Carlos Pace |Sun, June 11 01:00PM EDT |Sun, June 11 06:00PM BST |Mon, June 12 03:00AM AEST |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2023 Season 2 |Europe |24 |2741 |Open | | | | |
+|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |SR8 Americas 2023\_2 |North America |19 |2845 | | | | | |
+|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Off season fun races |North America |14 |2129 | | | | | |
+|[Four Wide Racing Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9060){:target="_blank"} |Four Wide Road Season 2 |North America |10 |1306 | | | | | |
 
 ### Spec Racer Ford
 
 [Back to Top](#)  
 
-|                                                              League Name                                                             |           Season          |   Location  |Drivers| SoF|Setup|Upcoming Race|New York|London|Sydney|
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|           [SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"}          |SRF Weekend Warriors 2023S2|    Europe   |   86  |2908| Open|             |        |      |      |
-|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"}|        2023 S2 SRF3       |North America|   32  |2604| Open|             |        |      |      |
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF Weekend Warriors 2023S2 |Europe |86 |2908 |Open | | | | |
+|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 S2 SRF3 |North America |32 |2604 |Open | | | | |
 
