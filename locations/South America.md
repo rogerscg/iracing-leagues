@@ -51,8 +51,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |20 |2490 | | | | | |
+|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
+|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |20 |2490 | |Circuit Gilles Villeneuve |Wed, June 21 05:20PM EDT |Wed, June 21 10:20PM BST |Thu, June 22 07:20AM AEST |
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |19 |2686 | | | | | |
 
 # Sports Car
