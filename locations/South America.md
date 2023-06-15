@@ -27,7 +27,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------|------------------------|------------------------|-------------------------|
-|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/2 |South America |22 |2477 | |Auto Club Speedway |Wed, June 14 07:35PM EDT |Thu, June 15 12:35AM BST |Thu, June 15 09:35AM AEST |
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/2 |South America |23 |2638 | |Auto Club Speedway |Wed, June 14 07:35PM EDT |Thu, June 15 12:35AM BST |Thu, June 15 09:35AM AEST |
 |[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/1 |South America |21 |2345 | | | | | |
 
 ### FIA F4
@@ -53,7 +53,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
 |[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |20 |2490 | |Circuit Gilles Villeneuve |Wed, June 21 05:20PM EDT |Wed, June 21 10:20PM BST |Thu, June 22 07:20AM AEST |
-|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |19 |2686 | | | | | |
+|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |19 |2686 | |Circuit Gilles Villeneuve |Thu, June 15 06:00PM EDT |Thu, June 15 11:00PM BST |Fri, June 16 08:00AM AEST |
 
 # Sports Car
 
@@ -71,13 +71,13 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 T2 2023 |South America |39 |1911 | |Circuit des 24 Heures du Mans |Wed, June 14 06:34PM EDT |Wed, June 14 11:34PM BST |Thu, June 15 08:34AM AEST |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 T2 2023 |South America |44 |1908 | |Circuit des 24 Heures du Mans |Wed, June 14 06:34PM EDT |Wed, June 14 11:34PM BST |Thu, June 15 08:34AM AEST |
 |[Patifarias de quinta \(categoria\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9554){:target="_blank"} |Patifarias de quinta \(categoria\) \- 2023S2 |South America |36 |2248 | |Circuit de Spa-Francorchamps |Sat, June 10 01:00PM EDT |Sat, June 10 06:00PM BST |Sun, June 11 03:00AM AEST |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL EVENTOS ESPECIAIS |South America |35 |1843 | | | | | |
-|[Fera das Pistas](https://members.iracing.com/membersite/member/LeagueView.do?league=9776){:target="_blank"} |Pro Racing Fera das Pistas GT3 |South America |34 |3066 | |Nürburgring Grand-Prix-Strecke |Wed, June 14 07:00PM EDT |Thu, June 15 12:00AM BST |Thu, June 15 09:00AM AEST |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/2 |South America |35 |1956 | |Nürburgring Grand-Prix-Strecke |Wed, June 14 05:25PM EDT |Wed, June 14 10:25PM BST |Thu, June 15 07:25AM AEST |
+|[Fera das Pistas](https://members.iracing.com/membersite/member/LeagueView.do?league=9776){:target="_blank"} |Pro Racing Fera das Pistas GT3 |South America |35 |3114 | |Nürburgring Grand-Prix-Strecke |Wed, June 14 07:00PM EDT |Thu, June 15 12:00AM BST |Thu, June 15 09:00AM AEST |
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T2\-2023 |South America |31 |3418 | | | | | |
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T2\-2023 |South America |29 |1894 | | | | | |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/2 |South America |26 |1856 | |Nürburgring Grand-Prix-Strecke |Wed, June 14 05:25PM EDT |Wed, June 14 10:25PM BST |Thu, June 15 07:25AM AEST |
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/1 |South America |13 |2454 | | | | | |
 
 ### Mazda MX-5 Cup 2016
@@ -111,8 +111,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |22 |2766 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |22 |2766 | |Watkins Glen International |Thu, June 22 05:20PM EDT |Thu, June 22 10:20PM BST |Fri, June 23 07:20AM AEST |
 |[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T2\-2023 |South America |22 |3360 | | | | | |
 
 ### Toyota GR86

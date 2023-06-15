@@ -9,14 +9,14 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Mid\-South iRacing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=7133){:target="_blank"} |2023 Wednesday Night LMSC Summer Series |North America |66 |2098 |Fixed | | | | |
+|[Mid\-South iRacing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=7133){:target="_blank"} |2023 Wednesday Night LMSC Summer Series |North America |67 |2097 |Fixed | | | | |
 |[Mid\-South iRacing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=7133){:target="_blank"} |2023 Sunday Night Street Stock Summer Series |North America |50 |1802 |Fixed | | | | |
-|[MSiRT SLM Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9562){:target="_blank"} |2023 Wednesday Night SLM Summer Series |North America |41 |2502 | | | | | |
+|[MSiRT SLM Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9562){:target="_blank"} |2023 Wednesday Night SLM Summer Series |North America |43 |2507 | | | | | |
 |[\#0 Donut Box Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8942){:target="_blank"} |DBLMS S1 |North America |36 |1525 |Fixed |North Wilkesboro Speedway |Mon, June 12 06:30PM EDT |Mon, June 12 11:30PM BST |Tue, June 13 08:30AM AEST |
 |[BNR SLM/Late Models Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7582){:target="_blank"} |SLM Showdown |North America |29 |1576 | |South Boston Speedway |Mon, June 19 08:00PM EDT |Tue, June 20 01:00AM BST |Tue, June 20 10:00AM AEST |
 |[iNation eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6758){:target="_blank"} |Late Model Challenge |North America |26 |2046 | |Phoenix Raceway |Tue, June 13 08:30PM EDT |Wed, June 14 01:30AM BST |Wed, June 14 10:30AM AEST |
 |[No Bull Canadian/ American Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6381){:target="_blank"} |No Bull Can / Am Series |North America |25 |1361 | |Lime Rock Park |Sun, June 18 07:30PM EDT |Mon, June 19 12:30AM BST |Mon, June 19 09:30AM AEST |
-|[ReScreened LLC Regional LM Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5815){:target="_blank"} |PRACTICE |North America |25 |1810 |Fixed |Nashville Fairgrounds Speedway |Mon, June 19 03:09PM EDT |Mon, June 19 08:09PM BST |Tue, June 20 05:09AM AEST |
+|[ReScreened LLC Regional LM Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5815){:target="_blank"} |PRACTICE |North America |24 |1810 |Fixed |Nashville Fairgrounds Speedway |Mon, June 19 03:09PM EDT |Mon, June 19 08:09PM BST |Tue, June 20 05:09AM AEST |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Oval Series: The Rebirth Season 2 |North America |14 |1546 | |Charlotte Motor Speedway |Mon, June 19 11:00PM EDT |Tue, June 20 04:00AM BST |Tue, June 20 01:00PM AEST |
 |[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |ABP Short Track Spring/Summer2023 \- 20 Week |North America |10 |1207 | |Nashville Fairgrounds Speedway |Thu, June 15 08:00PM EDT |Fri, June 16 01:00AM BST |Fri, June 16 10:00AM AEST |
 |[Import Auto Care](https://members.iracing.com/membersite/member/LeagueView.do?league=4568){:target="_blank"} |Import 22\-23 |North America |10 |1471 | | | | | |
@@ -27,25 +27,25 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |CONTENDER SERIES \- 2023 SPRING SEASON |North America |116 |3691 |Open | | | | |
+|[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |CONTENDER SERIES \- 2023 SPRING SEASON |North America |119 |3706 |Open | | | | |
 |[ITZR Super Late Model Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5321){:target="_blank"} |LMCS Season 6 |North America |66 |2848 |Fixed | | | | |
+|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Late Model Stock Season \#2 |North America |53 |2272 |Both | | | | |
 |[ITZR Late Model Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5012){:target="_blank"} |LMSS Season 10 |North America |53 |4170 |Fixed | | | | |
-|[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |CARS Tour |North America |51 |1567 | | | | | |
-|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Late Model Stock Season \#2 |North America |50 |2240 |Both | | | | |
+|[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |CARS Tour |North America |51 |1567 | |South Boston Speedway |Tue, June 20 07:15PM EDT |Wed, June 21 12:15AM BST |Wed, June 21 09:15AM AEST |
 |[SARA \- Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1412){:target="_blank"} |Super Series \- 2023 Spring Season |North America |47 |5008 |Open | | | | |
 |[DOB LMSC Hickory Weekly](https://members.iracing.com/membersite/member/LeagueView.do?league=3678){:target="_blank"} |2023 Hickory LMSC Series |North America |42 |2355 |Fixed |Hickory Motor Speedway |Sun, June 11 08:30PM EDT |Mon, June 12 01:30AM BST |Mon, June 12 10:30AM AEST |
 |[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |monday LMSC S1 |North America |38 |1780 | |South Boston Speedway |Mon, June 19 08:30PM EDT |Tue, June 20 01:30AM BST |Tue, June 20 10:30AM AEST |
 |[NTRL Late Model Stock](https://members.iracing.com/membersite/member/LeagueView.do?league=8268){:target="_blank"} |NTRL Late Model Stock Season 1 |North America |36 |1619 | | | | | |
+|[South East LMSC Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1259){:target="_blank"} |South East LMSC Season 1 |North America |34 |2498 | | | | | |
 |[Midwest Pavement Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9661){:target="_blank"} |X\-MARS PAVEMENT SERIES 2023A |North America |33 |1709 | | | | | |
 |[ReScreened LLC Regional LM Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5815){:target="_blank"} |S2 ReScreened LLC LM Regional Tour |North America |33 |1884 |Fixed |Nashville Fairgrounds Speedway |Mon, June 19 08:00PM EDT |Tue, June 20 01:00AM BST |Tue, June 20 10:00AM AEST |
-|[South East LMSC Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1259){:target="_blank"} |South East LMSC Season 1 |North America |33 |2565 | | | | | |
-|[OG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6203){:target="_blank"} |OG Late Model Stock \(Fixed\) |North America |32 |1755 |Fixed | | | | |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2023 SEASON 2 LATE MODEL SERIES |North America |32 |1970 | |Martinsville Speedway |Sat, June 17 07:00PM EDT |Sun, June 18 12:00AM BST |Sun, June 18 09:00AM AEST |
 |[RAID iSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |Furniture Mart CARS Late Model Tour 2023 Season 2 |North America |32 |2395 |Fixed | | | | |
-|[Gulf Coast Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4944){:target="_blank"} |2023 Season 2 \- Late Model Stock |North America |30 |2404 | |The Bullring |Wed, June 14 08:00PM EDT |Thu, June 15 01:00AM BST |Thu, June 15 10:00AM AEST |
+|[Gulf Coast Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4944){:target="_blank"} |2023 Season 2 \- Late Model Stock |North America |30 |2440 | |The Bullring |Wed, June 14 08:00PM EDT |Thu, June 15 01:00AM BST |Thu, June 15 10:00AM AEST |
+|[OG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6203){:target="_blank"} |OG Late Model Stock \(Fixed\) |North America |30 |1793 |Fixed | | | | |
 |[National Auto Racing Club \(Pavement\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9577){:target="_blank"} |Accelerator Series 2023\.1 |North America |29 |1753 | | | | | |
 |[Pro American Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9011){:target="_blank"} |PALMS Season \#2 Presented by Harpoon Design |North America |29 |2038 | | | | | |
-|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S22 |North America |28 |2036 |Fixed |South Boston Speedway |Sat, June 10 08:45PM EDT |Sun, June 11 01:45AM BST |Sun, June 11 10:45AM AEST |
+|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S22 |North America |28 |2018 |Fixed |South Boston Speedway |Sat, June 10 08:45PM EDT |Sun, June 11 01:45AM BST |Sun, June 11 10:45AM AEST |
 |[NASRA \(2\) \- Pultz Poppers Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8949){:target="_blank"} |Season One |North America |27 |1797 | | | | | |
 |[ARCS Only Short\-Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=9609){:target="_blank"} |Monday Madness Season 1 |North America |26 |1805 | | | | | |
 |[DLine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4286){:target="_blank"} |DLINE Racing League Presented by Elevated Performance |North America |26 |1545 | |Southern National Motorsports Park |Tue, June 20 08:30PM EDT |Wed, June 21 01:30AM BST |Wed, June 21 10:30AM AEST |
@@ -73,14 +73,15 @@
 |[A:SRC](https://members.iracing.com/membersite/member/LeagueView.do?league=2439){:target="_blank"} |SM Racing Oval Series, S2\-2023 |North America |17 |1967 |Open | | | | |
 |[TDFW Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6850){:target="_blank"} |TDFW Late Model Stocks |North America |17 |1954 |Fixed | | | | |
 |[JLM Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4958){:target="_blank"} |JLM Late Model Stock Series |North America |16 |2512 |Fixed | | | | |
+|[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |Late Model Stocks |North America |16 |1145 | |Nashville Fairgrounds Speedway |Wed, June 21 07:00PM EDT |Thu, June 22 12:00AM BST |Thu, June 22 09:00AM AEST |
+|[L\-TAC Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=9705){:target="_blank"} |Season 1 |North America |15 |2128 |Fixed | | | | |
 |[6B Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9414){:target="_blank"} |LMS SEASON 1 |North America |14 |1583 | |Richmond Raceway |Sun, June 11 08:29PM EDT |Mon, June 12 01:29AM BST |Mon, June 12 10:29AM AEST |
-|[L\-TAC Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=9705){:target="_blank"} |Season 1 |North America |14 |2131 |Fixed | | | | |
 |[Red Solo Cup Series SK Mods/Late Models Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Test Season |North America |14 |1742 |Fixed | | | | |
 |[DW26 Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=8070){:target="_blank"} |SoBo Track Championship |North America |13 |3118 | | | | | |
 |[Southern Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1400){:target="_blank"} |season 1 |North America |13 |1548 |Fixed | | | | |
 |[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |Fun |North America |12 |1435 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- Pro Cup |North America |12 |1763 |Fixed |The Milwaukee Mile |Sat, June 17 08:30PM EDT |Sun, June 18 01:30AM BST |Sun, June 18 10:30AM AEST |
-|[STR racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9420){:target="_blank"} |CARS TOUR IN AMERICA |North America |11 |1629 | |USA International Speedway |Thu, June 15 07:30PM EDT |Fri, June 16 12:30AM BST |Fri, June 16 09:30AM AEST |
+|[STR racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9420){:target="_blank"} |CARS TOUR IN AMERICA |North America |11 |1629 |Fixed |USA International Speedway |Thu, June 15 07:30PM EDT |Fri, June 16 12:30AM BST |Fri, June 16 09:30AM AEST |
 |[Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2732){:target="_blank"} |Reverb Series \- 2023 Season 2: Late Model |North America |11 |2920 |Fixed |Martinsville Speedway |Thu, June 15 11:00PM EDT |Fri, June 16 04:00AM BST |Fri, June 16 01:00PM AEST |
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |SBR LM23 |North America |11 |1224 |Both |Five Flags Speedway |Fri, June 16 08:00PM EDT |Sat, June 17 01:00AM BST |Sat, June 17 10:00AM AEST |
 |[SLIDE JAWB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2894){:target="_blank"} |LMS Series |North America |11 |2232 |Fixed | | | | |
@@ -99,26 +100,25 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|---------------------|------------------------|------------------------|-------------------------|
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |Spring 2023 Legends |North America |29 |1777 |Both | | | | |
-|[MLR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4963){:target="_blank"} |MLR Short Track Series 2023 Q2 |North America |26 |1932 |Fixed | | | | |
+|[MLR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4963){:target="_blank"} |MLR Short Track Series 2023 Q2 |North America |19 |1914 |Fixed | | | | |
 |[AOLL Racing's TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4855){:target="_blank"} |2023 Season 2 \- Legends |North America |15 |1294 |Fixed |Myrtle Beach Speedway |Thu, June 15 06:00PM EDT |Thu, June 15 11:00PM BST |Fri, June 16 08:00AM AEST |
-|[Sidewinder Legends Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6934){:target="_blank"} |Sidewinder Legends Season 5 |North America |15 |1786 |Fixed | | | | |
-|[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |LOL 34s Season 1 |North America |11 |1486 |Fixed |New Smyrna Speedway |Wed, June 14 07:59PM EDT |Thu, June 15 12:59AM BST |Thu, June 15 09:59AM AEST |
+|[Sidewinder Legends Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6934){:target="_blank"} |Sidewinder Legends Season 5 |North America |15 |1897 |Fixed | | | | |
+|[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |LOL 34s Season 1 |North America |14 |1525 |Fixed |Iowa Speedway |Wed, June 21 07:59PM EDT |Thu, June 22 12:59AM BST |Thu, June 22 09:59AM AEST |
 
 ### Street Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|------------------------|------------------------|------------------------|-------------------------|
 |[XCAL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1264){:target="_blank"} |2023 XCAL Racing Web Shop Series |North America |42 |3032 |Both | | | | |
 |[SOG Racing \(Slow Old Guy's\)](https://members.iracing.com/membersite/member/LeagueView.do?league=1586){:target="_blank"} |SEASON \#30 |North America |29 |1598 |Open |Homestead Miami Speedway |Mon, June 19 09:00PM EDT |Tue, June 20 02:00AM BST |Tue, June 20 11:00AM AEST |
-|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S26 |North America |26 |1746 |Fixed |South Boston Speedway |Sat, June 10 07:00PM EDT |Sun, June 11 12:00AM BST |Sun, June 11 09:00AM AEST |
+|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S26 |North America |26 |1748 |Fixed |South Boston Speedway |Sat, June 10 07:00PM EDT |Sun, June 11 12:00AM BST |Sun, June 11 09:00AM AEST |
 |[TDR Friday Nights Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=9476){:target="_blank"} |TDR Friday Night Lights 2023 Season 1 |North America |25 |1714 | | | | | |
-|[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |2023 Scrambler Series |North America |22 |2624 | |Knoxville Raceway |Wed, June 14 08:00PM EDT |Thu, June 15 01:00AM BST |Thu, June 15 10:00AM AEST |
+|[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |2023 Scrambler Series |North America |22 |2542 | |Knoxville Raceway |Wed, June 14 08:00PM EDT |Thu, June 15 01:00AM BST |Thu, June 15 10:00AM AEST |
 |[SOG Racing \(Slow Old Guy's\)](https://members.iracing.com/membersite/member/LeagueView.do?league=1586){:target="_blank"} |S\.O\.G TEAMS RACING SEASON \#1 |North America |20 |1848 |Open | | | | |
 |[Southern Outlaw Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7710){:target="_blank"} |Season 4 \- Southern Style Street Stocks |North America |20 |1957 | | | | | |
 |[TDR Friday Nights Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=9476){:target="_blank"} |TDR Friday Night Lights 2023 Season 2 |North America |19 |1750 | | | | | |
-|[Pretend Racing Online: Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3858){:target="_blank"} |2023A \- Junior Showdown Series |North America |17 |1962 |Fixed | | | | |
 |[FSBRACING\.COM](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |Street Stock iSeries Season 46 |North America |15 |1551 |Fixed |Lanier National Speedway |Sun, June 18 07:30PM EDT |Mon, June 19 12:30AM BST |Mon, June 19 09:30AM AEST |
 |[South East PLM Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9770){:target="_blank"} |Street Stock Season 1 |North America |14 |2344 | | | | | |
 

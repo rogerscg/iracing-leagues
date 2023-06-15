@@ -109,7 +109,6 @@
 |[Supercheap Auto East Coast V8 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3008){:target="_blank"} |Season 6 |Australia-NZ |49 |3521 |Open |Winton Motor Raceway |Mon, June 12 03:06AM EDT |Mon, June 12 08:06AM BST |Mon, June 12 05:06PM AEST |
 |[AOG Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5005){:target="_blank"} |Season 7 |Australia-NZ |47 |3162 |Open | | | | |
 |[Premier Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=8948){:target="_blank"} |Gamer Gear Direct GT3 Endurance Championship:  Season 1 |Australia-NZ |47 |1953 | | | | | |
-|[SuperCars NZ V8 Championship season 1 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |V8 SUPERCARS SEASON ONE 2023 |Australia-NZ |45 |2304 | | | | | |
 |[Aus PRO\-AM Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5223){:target="_blank"} |Season 9 |Australia-NZ |41 |3075 |Fixed | | | | |
 |[NTESERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=4106){:target="_blank"} |2023 Shannons Insurance NTESERIES |Australia-NZ |41 |1558 | |Chicago Street Course |Sun, June 11 05:20AM EDT |Sun, June 11 10:20AM BST |Sun, June 11 07:20PM AEST |
 |[Chequered Flag Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9616){:target="_blank"} |CFR \- Wacky Tin Top Wednesdays |Australia-NZ |40 |2218 | |Circuit Park Zandvoort |Wed, June 14 04:30AM EDT |Wed, June 14 09:30AM BST |Wed, June 14 06:30PM AEST |
@@ -158,15 +157,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
 |[GSRC\.inc V8SC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2023B V8SC Series |Australia-NZ |62 |1880 | |Detroit Grand Prix at Belle Isle |Wed, June 21 05:25AM EDT |Wed, June 21 10:25AM BST |Wed, June 21 07:25PM AEST |
-|[SuperCars NZ V8 Championship season 1 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |SCNZ DIV2 V8 CHAMPIONSHIP |Australia-NZ |43 |1198 | | | | | |
 |[Australasian Supercar eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=5586){:target="_blank"} |Season 5 |Australia-NZ |40 |1730 |Fixed | | | | |
 |[Australasian Supercar eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=5586){:target="_blank"} |Season 6 |Australia-NZ |40 |1832 |Fixed | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday Night V8 series 2 |Australia-NZ |27 |1211 | | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |STONECOLD RACING \- V8 Champions Challenge |Australia-NZ |23 |1290 | |Watkins Glen International |Thu, June 15 05:30AM EDT |Thu, June 15 10:30AM BST |Thu, June 15 07:30PM AEST |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |TGSRCI V ASE |Australia-NZ |23 |1271 |Both | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprint Series V8 Oval 1 |Australia-NZ |20 |1114 | | | | | |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |TGSRCI V ASE |Australia-NZ |20 |1277 |Both | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprint Series V8's Super Cars 5 |Australia-NZ |19 |1079 | | | | | |
 
 ### Touring Car

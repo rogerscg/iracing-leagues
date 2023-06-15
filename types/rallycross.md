@@ -21,7 +21,7 @@
 |[Racecraft Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=6266){:target="_blank"} |RX2 2023 S1 |North America |27 |3190 | | | | | |
 |[Racecraft Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=6266){:target="_blank"} |RX1 2023 S1 |Europe |21 |5396 | | | | | |
 |[Norgesmesterskap Rallycross 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=9838){:target="_blank"} |Norgesmesterskapet Rallycross \- 2023 \- Official |Europe |16 |3283 | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- TINYCAR |North America |12 |1321 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- TINYCAR |North America |11 |1346 |Fixed | | | | |
 
 ### VW Beetle Lite
 
