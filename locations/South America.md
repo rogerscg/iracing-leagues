@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |43 |2988 | |Sonoma Raceway |Mon, June 12 06:00PM EDT |Mon, June 12 11:00PM BST |Tue, June 13 08:00AM AEST |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |43 |2968 | |Sonoma Raceway |Mon, June 12 06:00PM EDT |Mon, June 12 11:00PM BST |Tue, June 13 08:00AM AEST |
 
 # Open-wheel
 
@@ -88,7 +88,6 @@
 |-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T2\-2023 |South America |28 |2659 | | | | | |
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |24 |2065 | |WeatherTech Raceway at Laguna Seca |Mon, June 12 05:25PM EDT |Mon, June 12 10:25PM BST |Tue, June 13 07:25AM AEST |
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/1 |South America |20 |2343 | | | | | |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -96,7 +95,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |T2\-2023 |South America |40 |2948 | | | | | |
+|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |T2\-2023 |South America |38 |2953 | | | | | |
 
 ### Renault Clio
 
@@ -124,5 +123,4 @@
 |[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Road Challenge 23S2 |South America |44 |2024 | | | | | |
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/2 |South America |19 |1928 | |Virginia International Raceway |Mon, June 19 05:25PM EDT |Mon, June 19 10:25PM BST |Tue, June 20 07:25AM AEST |
 |[VRB \- Virtual Race Bahia](https://members.iracing.com/membersite/member/LeagueView.do?league=9658){:target="_blank"} |VRB \- Toyota Cup \- 2023\.1 |South America |18 |1786 | |Autódromo José Carlos Pace |Tue, June 13 06:00PM EDT |Tue, June 13 11:00PM BST |Wed, June 14 08:00AM AEST |
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL TOYOTA GR 86 CUP / 2023 |South America |11 |1594 | | | | | |
 
