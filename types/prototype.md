@@ -37,7 +37,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |32 |2632 |Open |Watkins Glen International |Mon, June 19 01:30PM EDT |Mon, June 19 06:30PM BST |Tue, June 20 03:30AM AEST |
-|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship |Europe |22 |None |Fixed |Autódromo José Carlos Pace |Sat, June 17 01:00PM EDT |Sat, June 17 06:00PM BST |Sun, June 18 03:00AM AEST |
+|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship |Europe |22 |None |Fixed |Autódromo José Carlos Pace |Sun, June 18 02:00PM EDT |Sun, June 18 07:00PM BST |Mon, June 19 04:00AM AEST |
 |[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S03\-2023 LMP3 |Europe |20 |2229 | | | | | |
 
 ### Radical SR10

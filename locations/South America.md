@@ -13,14 +13,6 @@
 
 # Open-wheel
 
-### Dallara DW12
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[TK Oval Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9547){:target="_blank"} |TK Oval Challenge 23S1 |South America |43 |1493 | | | | | |
-
 ### Dallara IR18
 
 [Back to Top](#)  
@@ -112,7 +104,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |22 |2766 | |Watkins Glen International |Thu, June 22 05:20PM EDT |Thu, June 22 10:20PM BST |Fri, June 23 07:20AM AEST |
-|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T2\-2023 |South America |22 |3360 | | | | | |
+|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T2\-2023 |South America |18 |3412 | | | | | |
 
 ### Toyota GR86
 
@@ -122,5 +114,5 @@
 |----------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Road Challenge 23S2 |South America |44 |2024 | | | | | |
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/2 |South America |19 |1928 | |Virginia International Raceway |Mon, June 19 05:25PM EDT |Mon, June 19 10:25PM BST |Tue, June 20 07:25AM AEST |
-|[VRB \- Virtual Race Bahia](https://members.iracing.com/membersite/member/LeagueView.do?league=9658){:target="_blank"} |VRB \- Toyota Cup \- 2023\.1 |South America |18 |1786 | |Autódromo José Carlos Pace |Tue, June 13 06:00PM EDT |Tue, June 13 11:00PM BST |Wed, June 14 08:00AM AEST |
+|[VRB \- Virtual Race Bahia](https://members.iracing.com/membersite/member/LeagueView.do?league=9658){:target="_blank"} |VRB \- Toyota Cup \- 2023\.1 |South America |17 |1804 | |Autódromo José Carlos Pace |Tue, June 13 06:00PM EDT |Tue, June 13 11:00PM BST |Wed, June 14 08:00AM AEST |
 
