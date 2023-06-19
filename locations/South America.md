@@ -30,14 +30,6 @@
 |-----------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[F1BC Formula Heineken 0\.0](https://members.iracing.com/membersite/member/LeagueView.do?league=8629){:target="_blank"} |SEASON 2023/2 |South America |101 |3338 | |Watkins Glen International |Thu, June 15 07:25PM EDT |Fri, June 16 12:25AM BST |Fri, June 16 09:25AM AEST |
 
-### Lotus 79
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Classic 500 \- 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2023 |South America |23 |2299 | | | | | |
-
 ### Mercedes-AMG W13 E Performance
 
 [Back to Top](#)  
@@ -70,24 +62,15 @@
 |[Fera das Pistas](https://members.iracing.com/membersite/member/LeagueView.do?league=9776){:target="_blank"} |Pro Racing Fera das Pistas GT3 |South America |35 |3114 | |Nürburgring Grand-Prix-Strecke |Wed, June 14 07:00PM EDT |Thu, June 15 12:00AM BST |Thu, June 15 09:00AM AEST |
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T2\-2023 |South America |31 |3418 | | | | | |
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T2\-2023 |South America |29 |1894 | | | | | |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/1 |South America |13 |2454 | | | | | |
 
 ### Mazda MX-5 Cup 2016
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T2\-2023 |South America |28 |2659 | | | | | |
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |24 |2065 | |WeatherTech Raceway at Laguna Seca |Mon, June 12 05:25PM EDT |Mon, June 12 10:25PM BST |Tue, June 13 07:25AM AEST |
-
-### Porsche 911 GT3 Cup (992)
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |T2\-2023 |South America |38 |2953 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T2\-2023 |South America |25 |2765 | | | | | |
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |24 |2065 | |Okayama International Circuit |Mon, June 26 05:25PM EDT |Mon, June 26 10:25PM BST |Tue, June 27 07:25AM AEST |
 
 ### Renault Clio
 

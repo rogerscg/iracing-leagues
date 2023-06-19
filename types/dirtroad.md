@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[TopBox Sim Racing Pro 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |TopBoxRacing Pro2 \- Pro4 Dash |North America |36 |2663 | | | | | |
+|[TopBox Sim Racing Pro 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |TopBoxRacing Pro2 \- Pro4 Dash |North America |30 |2716 | | | | | |
 
 ### Pro 2 Truck
 
