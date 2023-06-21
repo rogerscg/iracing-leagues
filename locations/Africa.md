@@ -25,7 +25,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |2023 \- Season 1 \| Raceface\.Pro TCR League |Africa |30 |1862 |Both |Okayama International Circuit |Tue, June 20 02:27PM EDT |Tue, June 20 07:27PM BST |Wed, June 21 04:27AM AEST |
+|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |2023 \- Season 1 \| Raceface\.Pro TCR League |Africa |34 |1923 |Both |Okayama International Circuit |Tue, June 20 02:27PM EDT |Tue, June 20 07:27PM BST |Wed, June 21 04:27AM AEST |
 
 # Prototype
 

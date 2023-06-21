@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------|--------|------|------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |22 |2315 | | | | | |
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |16 |2342 | | | | | |
 
 # Sports Car
 

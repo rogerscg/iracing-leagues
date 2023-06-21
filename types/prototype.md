@@ -55,7 +55,7 @@
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |SR8 Europe 2023\_2 |Europe |30 |2951 | | | | | |
 |[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Radical SR8 Championship |North America |29 |2096 | |Autódromo José Carlos Pace |Sun, June 11 01:00PM EDT |Sun, June 11 06:00PM BST |Mon, June 12 03:00AM AEST |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |J2iRS \- Sprint Season 5 |North America |27 |1783 |Both |Mount Panorama Circuit |Tue, June 20 08:00PM EDT |Wed, June 21 01:00AM BST |Wed, June 21 10:00AM AEST |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |J2iRS \- Sprint Season 5 |North America |27 |1783 |Both |Mount Panorama Circuit |Wed, June 21 07:00PM EDT |Thu, June 22 12:00AM BST |Thu, June 22 09:00AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |SR8 Americas 2023\_2 |North America |19 |2864 | | | | | |
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Off season fun races |North America |14 |2129 | | | | | |
 |[Four Wide Racing Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9060){:target="_blank"} |Four Wide Road Season 2 |North America |10 |1319 | |Long Beach Street Circuit |Wed, June 14 07:00PM EDT |Thu, June 15 12:00AM BST |Thu, June 15 09:00AM AEST |
@@ -67,5 +67,5 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2023S3 |Europe |41 |3036 |Open |Red Bull Ring |Sun, June 25 02:40PM EDT |Sun, June 25 07:40PM BST |Mon, June 26 04:40AM AEST |
-|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 S2 SRF3 |North America |32 |2604 |Open |Road America |Tue, June 20 07:55PM EDT |Wed, June 21 12:55AM BST |Wed, June 21 09:55AM AEST |
+|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 S2 SRF3 |North America |36 |2651 |Open |Road America |Tue, June 20 07:55PM EDT |Wed, June 21 12:55AM BST |Wed, June 21 09:55AM AEST |
 
