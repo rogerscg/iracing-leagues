@@ -28,7 +28,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[F1BC Formula Heineken 0\.0](https://members.iracing.com/membersite/member/LeagueView.do?league=8629){:target="_blank"} |SEASON 2023/2 |South America |101 |3338 | |Watkins Glen International |Thu, June 15 07:25PM EDT |Fri, June 16 12:25AM BST |Fri, June 16 09:25AM AEST |
+|[F1BC Formula Heineken 0\.0](https://members.iracing.com/membersite/member/LeagueView.do?league=8629){:target="_blank"} |SEASON 2023/2 |South America |101 |3338 | |Watkins Glen International |Thu, June 29 07:25PM EDT |Fri, June 30 12:25AM BST |Fri, June 30 09:25AM AEST |
 
 ### Mercedes-AMG W13 E Performance
 
@@ -36,7 +36,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
-|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |20 |2490 | |Circuit Gilles Villeneuve |Wed, June 21 05:20PM EDT |Wed, June 21 10:20PM BST |Thu, June 22 07:20AM AEST |
+|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |21 |2467 | |Circuit Gilles Villeneuve |Wed, June 21 05:20PM EDT |Wed, June 21 10:20PM BST |Thu, June 22 07:20AM AEST |
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |19 |2714 | |Circuit Gilles Villeneuve |Thu, June 15 06:00PM EDT |Thu, June 15 11:00PM BST |Fri, June 16 08:00AM AEST |
 
 # Sports Car

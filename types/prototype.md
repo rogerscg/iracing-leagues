@@ -26,7 +26,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Western Grinding Prototype Progression Series |North America |18 |1245 |Both |Red Bull Ring |Thu, June 22 08:00PM EDT |Fri, June 23 01:00AM BST |Fri, June 23 10:00AM AEST |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- SuperProto |North America |11 |1353 |Fixed |Iowa Speedway |Sat, June 10 08:30PM EDT |Sun, June 11 01:30AM BST |Sun, June 11 10:30AM AEST |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- SuperProto |North America |10 |1358 |Fixed |Iowa Speedway |Sat, June 10 08:30PM EDT |Sun, June 11 01:30AM BST |Sun, June 11 10:30AM AEST |
 
 ### Ligier JS P320
 
@@ -53,12 +53,19 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |SR8 Europe 2023\_2 |Europe |30 |2951 | | | | | |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |J2iRS \- Sprint Season 5 |North America |29 |1820 |Both |Mount Panorama Circuit |Wed, June 21 07:00PM EDT |Thu, June 22 12:00AM BST |Thu, June 22 09:00AM AEST |
 |[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Radical SR8 Championship |North America |29 |2096 | |Autódromo José Carlos Pace |Sun, June 11 01:00PM EDT |Sun, June 11 06:00PM BST |Mon, June 12 03:00AM AEST |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |J2iRS \- Sprint Season 5 |North America |27 |1783 |Both |Mount Panorama Circuit |Wed, June 21 07:00PM EDT |Thu, June 22 12:00AM BST |Thu, June 22 09:00AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |SR8 Americas 2023\_2 |North America |19 |2864 | | | | | |
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Off season fun races |North America |14 |2129 | | | | | |
 |[Four Wide Racing Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9060){:target="_blank"} |Four Wide Road Season 2 |North America |10 |1319 | |Long Beach Street Circuit |Wed, June 14 07:00PM EDT |Thu, June 15 12:00AM BST |Thu, June 15 09:00AM AEST |
+
+### Riley Daytona Prototype
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
+|[Freaky Fast RL: Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6937){:target="_blank"} |Rockhead Designs S223 Riley Prototype |North America |12 |1341 | |Road America |Wed, June 28 07:00PM EDT |Thu, June 29 12:00AM BST |Thu, June 29 09:00AM AEST |
 
 ### Spec Racer Ford
 

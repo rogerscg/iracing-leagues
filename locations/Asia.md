@@ -29,3 +29,13 @@
 |-------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
 |[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |NLR 911 Cup Asia League 2023 |Asia |32 |2458 | |Circuit des 24 Heures du Mans |Sat, June 10 08:00AM EDT |Sat, June 10 01:00PM BST |Sat, June 10 10:00PM AEST |
 
+# Multi-class/Unclassified
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------|-------|----|-----|-------------|--------|------|------|
+|[\[TWEC\]The Weenkend Entertainment Competition](https://members.iracing.com/membersite/member/LeagueView.do?league=9898){:target="_blank"} |TWEC\_TEST\_DRIVE |Asia |10 |1664 | | | | | |
+
