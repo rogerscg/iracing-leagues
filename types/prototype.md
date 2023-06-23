@@ -25,7 +25,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Western Grinding Prototype Progression Series |North America |18 |1245 |Both |Red Bull Ring |Thu, June 22 08:00PM EDT |Fri, June 23 01:00AM BST |Fri, June 23 10:00AM AEST |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Western Grinding Prototype Progression Series |North America |23 |1271 |Both |Road Atlanta |Thu, June 29 08:00PM EDT |Fri, June 30 01:00AM BST |Fri, June 30 10:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- SuperProto |North America |10 |1358 |Fixed |Iowa Speedway |Sat, June 10 08:30PM EDT |Sun, June 11 01:30AM BST |Sun, June 11 10:30AM AEST |
 
 ### Ligier JS P320
@@ -36,7 +36,7 @@
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|--------------------------------------------|------------------------|------------------------|-------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship |Europe |44 |2451 |Fixed |Autodromo Internazionale Enzo e Dino Ferrari |Sat, June 24 01:00PM EDT |Sat, June 24 06:00PM BST |Sun, June 25 03:00AM AEST |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |43 |2580 |Open |Long Beach Street Circuit |Mon, June 26 01:30PM EDT |Mon, June 26 06:30PM BST |Tue, June 27 03:30AM AEST |
-|[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S03\-2023 LMP3 |Europe |20 |2229 | | | | | |
+|[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S03\-2023 LMP3 |Europe |23 |2196 | | | | | |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |16\.1 Sunday |North America |13 |1990 |Both |Mount Panorama Circuit |Sun, June 25 06:40PM EDT |Sun, June 25 11:40PM BST |Mon, June 26 08:40AM AEST |
 
 ### Radical SR10
@@ -45,7 +45,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2023 Season 3 |Europe |18 |2470 |Open |Circuit de Spa-Francorchamps |Thu, June 22 02:15PM EDT |Thu, June 22 07:15PM BST |Fri, June 23 04:15AM AEST |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2023 Season 3 |Europe |23 |2518 |Open |Circuit de Spa-Francorchamps |Thu, June 22 02:15PM EDT |Thu, June 22 07:15PM BST |Fri, June 23 04:15AM AEST |
 
 ### Radical SR8
 
@@ -54,8 +54,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |J2iRS \- Sprint Season 5 |North America |29 |1820 |Both |Mount Panorama Circuit |Wed, June 21 07:00PM EDT |Thu, June 22 12:00AM BST |Thu, June 22 09:00AM AEST |
-|[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Radical SR8 Championship |North America |29 |2096 | |Autódromo José Carlos Pace |Sun, June 11 01:00PM EDT |Sun, June 11 06:00PM BST |Mon, June 12 03:00AM AEST |
-|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |SR8 Americas 2023\_2 |North America |19 |2864 | | | | | |
+|[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Radical SR8 Championship |North America |29 |2106 | |Autódromo José Carlos Pace |Sun, June 11 01:00PM EDT |Sun, June 11 06:00PM BST |Mon, June 12 03:00AM AEST |
+|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |SR8 Americas 2023\_2 |North America |17 |2818 | | | | | |
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Off season fun races |North America |14 |2129 | | | | | |
 |[Four Wide Racing Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9060){:target="_blank"} |Four Wide Road Season 2 |North America |10 |1319 | |Long Beach Street Circuit |Wed, June 14 07:00PM EDT |Thu, June 15 12:00AM BST |Thu, June 15 09:00AM AEST |
 

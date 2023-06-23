@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------|--------|------|------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |20 |2975 | | | | | |
+|------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |20 |2975 | |Oulton Park Circuit |Fri, June 30 08:50AM EDT |Fri, June 30 01:50PM BST |Fri, June 30 10:50PM AEST |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -37,5 +37,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------|-------|----|-----|-------------|--------|------|------|
-|[\[TWEC\]The Weenkend Entertainment Competition](https://members.iracing.com/membersite/member/LeagueView.do?league=9898){:target="_blank"} |TWEC\_TEST\_DRIVE |Asia |10 |1664 | | | | | |
+|[\[TWEC\]The Weenkend Entertainment Competition](https://members.iracing.com/membersite/member/LeagueView.do?league=9898){:target="_blank"} |TWEC\_TEST\_DRIVE |Asia |12 |1772 | | | | | |
 

@@ -49,6 +49,14 @@
 |-----------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[F1BC BMW M Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |SEASON 2023/1 |South America |40 |3487 | | | | | |
 
+### GT3 Class
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL 4Funs |South America |53 |1896 | |Circuit de Spa-Francorchamps |Thu, June 22 06:15PM EDT |Thu, June 22 11:15PM BST |Fri, June 23 08:15AM AEST |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -94,7 +102,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |22 |2766 | |Watkins Glen International |Thu, June 22 05:20PM EDT |Thu, June 22 10:20PM BST |Fri, June 23 07:20AM AEST |
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |22 |2796 | |Watkins Glen International |Thu, June 22 05:20PM EDT |Thu, June 22 10:20PM BST |Fri, June 23 07:20AM AEST |
 |[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T2\-2023 |South America |18 |3412 | | | | | |
 
 ### Toyota GR86
