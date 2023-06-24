@@ -25,9 +25,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|-----------------------|------------------------|------------------------|-------------------------|
-|[ORNL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8532){:target="_blank"} |ORNL Cup Series '23 |Europe |37 |1776 |Open |Nashville Superspeedway |Mon, June 26 02:00PM EDT |Mon, June 26 07:00PM BST |Tue, June 27 04:00AM AEST |
+|[ORNL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8532){:target="_blank"} |ORNL Cup Series '23 |Europe |36 |1787 |Open |Nashville Superspeedway |Mon, June 26 02:00PM EDT |Mon, June 26 07:00PM BST |Tue, June 27 04:00AM AEST |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |SEL Next Gen S5 |Europe |27 |2434 | | | | | |
-|[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |Race Of The Week\! NASCAR Cup S5\-22/23 |Europe |21 |2487 | | | | | |
+|[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |Race Of The Week\! NASCAR Cup S5\-22/23 |Europe |17 |2492 | | | | | |
 
 ### NASCAR Truck Series
 
@@ -44,7 +44,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|--------|-------|----|-----|-----------------------------------------------|------------------------|------------------------|-------------------------|
-|[VSR \- NASCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9177){:target="_blank"} |menjetekkorbe\.hu NASCAR Series \| Powered by Odyssey |Europe |42 |1854 | |[Legacy] Michigan International Speedway - 2009 |Fri, June 23 12:00PM EDT |Fri, June 23 05:00PM BST |Sat, June 24 02:00AM AEST |
+|[VSR \- NASCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9177){:target="_blank"} |menjetekkorbe\.hu NASCAR Series \| Powered by Odyssey |Europe |43 |1851 | |[Legacy] Michigan International Speedway - 2009 |Mon, June 26 12:00PM EDT |Mon, June 26 05:00PM BST |Tue, June 27 02:00AM AEST |
 
 # Open-wheel
 
@@ -54,8 +54,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
-|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |F3 |Europe |39 |2106 |Fixed |Silverstone Circuit |Fri, June 23 03:00PM EDT |Fri, June 23 08:00PM BST |Sat, June 24 05:00AM AEST |
+|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |F3 |Europe |39 |2089 |Fixed |Silverstone Circuit |Sun, June 25 03:00PM EDT |Sun, June 25 08:00PM BST |Mon, June 26 05:00AM AEST |
 |[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2023\-2 |Europe |29 |2127 |Fixed | | | | |
+|[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2023\-3 |Europe |25 |2369 |Fixed | | | | |
 |[FLANC Formel 3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7592){:target="_blank"} |FLANC F3 Serie 2022/23 |Europe |13 |3150 |Open | | | | |
 
 ### Dallara IR18
@@ -65,20 +66,21 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|----------------|--------|-------|----|-----|-------------|--------|------|------|
 |[ORNL 500](https://members.iracing.com/membersite/member/LeagueView.do?league=9724){:target="_blank"} |ORNL 500 '23 |Europe |30 |1841 | | | | | |
-|[CA Open\-Wheel Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6595){:target="_blank"} |IndyCar Season 4 |Europe |20 |2260 |Fixed | | | | |
+|[CA Open\-Wheel Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6595){:target="_blank"} |IndyCar Season 4 |Europe |20 |2259 |Fixed | | | | |
 
 ### FIA F4
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------------|--------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Baby Formula 1\.4](https://members.iracing.com/membersite/member/LeagueView.do?league=7901){:target="_blank"} |Season 1 Split 1 BF1\.4 |Europe |37 |1978 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------|--------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[Baby Formula 1\.4](https://members.iracing.com/membersite/member/LeagueView.do?league=7901){:target="_blank"} |Season 1 Split 1 BF1\.4 |Europe |37 |1978 | |Circuit Gilles Villeneuve |Sat, June 24 02:30PM EDT |Sat, June 24 07:30PM BST |Sun, June 25 04:30AM AEST |
 |[ARA Formula 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7167){:target="_blank"} |Season 2 |Europe |26 |2564 | | | | | |
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |FLANC Club Serie 2022/23 \- F4 |Europe |26 |1650 |Fixed | | | | |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Season 4 |Europe |25 |2384 |Both |Virginia International Raceway |Thu, June 15 02:01PM EDT |Thu, June 15 07:01PM BST |Fri, June 16 04:01AM AEST |
 |[TDi League \(TDiL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9417){:target="_blank"} |TDi99 IR04 League |Europe |23 |2062 |Fixed | | | | |
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |Training |Europe |20 |None |Fixed | | | | |
+|[Evolution Sim Racing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=5229){:target="_blank"} |Evolution Sim Racing \- ESR \- Season 2, 2023 |Europe |11 |1799 |Both | | | | |
 |[PWA Formula iR\-04](https://members.iracing.com/membersite/member/LeagueView.do?league=9271){:target="_blank"} |PWA Formula iR\-04 Season 2 |Europe |11 |3490 | | | | | |
 
 ### Hosted All Cars Class
@@ -113,7 +115,6 @@
 |--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|--------|-------|----|-----|---------------------|------------------------|------------------------|-------------------------|
 |[The Norwegian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8820){:target="_blank"} |Ray FF1600 2023 |Europe |29 |1983 |Open |Rudskogen Motorsenter |Tue, June 20 01:37PM EDT |Tue, June 20 06:37PM BST |Wed, June 21 03:37AM AEST |
 |[NXTGEN FF1600 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9610){:target="_blank"} |FF1600 League Season 1 |Europe |27 |2236 | | | | | |
-|[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |Event specjalny |Europe |14 |2057 |Both | | | | |
 |[iRacing Hrvatska \- Croatian drivers only](https://members.iracing.com/membersite/member/LeagueView.do?league=3785){:target="_blank"} |IRH F1600 CUP \- 2023 \- Croatian league |Europe |10 |2290 | | | | | |
 
 ### Skip Barber Race Series
@@ -121,10 +122,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------------|--------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------|--------|-------|----|-----|---------------------|------------------------|------------------------|-------------------------|
 |[Skip Barber Challenge Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=9160){:target="_blank"} |2023 |Europe |28 |4042 |Open | | | | |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 24 |Europe |20 |2666 |Both | | | | |
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |The Skippy Six |Europe |19 |1638 | |Watkins Glen International |Fri, June 23 04:58PM EDT |Fri, June 23 09:58PM BST |Sat, June 24 06:58AM AEST |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |The Skippy Six |Europe |19 |1653 | |Road Atlanta |Fri, June 30 04:58PM EDT |Fri, June 30 09:58PM BST |Sat, July 01 06:58AM AEST |
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Skip Barber \- Season\#07 |Europe |12 |2040 |Both |Rudskogen Motorsenter |Sun, June 25 12:00PM EDT |Sun, June 25 05:00PM BST |Mon, June 26 02:00AM AEST |
 
 ### USF 2000
@@ -182,10 +183,10 @@
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |NXTCC Season 3 |Europe |62 |2468 |Fixed |Sandown International Motor Raceway |Tue, June 20 02:30PM EDT |Tue, June 20 07:30PM BST |Wed, June 21 04:30AM AEST |
 |[DMSB SimRacing Championship Sprint Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |DSRC\-Sprint \- Main Race |Europe |51 |3153 | | | | | |
 |[DMSB SimRacing Championship Sprint Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |DSRC\-Sprint \- Hyper Sprint Race |Europe |50 |3119 | |Hungaroring |Mon, June 26 12:10PM EDT |Mon, June 26 05:10PM BST |Tue, June 27 02:10AM AEST |
-|[Dahara](https://members.iracing.com/membersite/member/LeagueView.do?league=6798){:target="_blank"} |DGTL Season 4 |Europe |47 |2729 |Open |Red Bull Ring |Tue, June 13 01:00PM EDT |Tue, June 13 06:00PM BST |Wed, June 14 03:00AM AEST |
+|[Dahara](https://members.iracing.com/membersite/member/LeagueView.do?league=6798){:target="_blank"} |DGTL Season 4 |Europe |49 |2729 |Open |Road America |Sat, June 24 01:00PM EDT |Sat, June 24 06:00PM BST |Sun, June 25 03:00AM AEST |
 |[Virtual Skylimit Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4824){:target="_blank"} |Virtual Belcar Skylimit Sprint Cup 2023 |Europe |44 |2083 | |Circuit de Nevers Magny-Cours |Wed, June 14 01:00PM EDT |Wed, June 14 06:00PM BST |Thu, June 15 03:00AM AEST |
-|[WGTC \(World GT Championship\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2193){:target="_blank"} |WGTC \- SEASON 13 |Europe |44 |4258 |Open | | | | |
 |[go\-RILLAS AVL RACETECH NOS Endurance Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9692){:target="_blank"} |NOS Endurance Cup 2023 |Europe |42 |2511 | | | | | |
+|[WGTC \(World GT Championship\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2193){:target="_blank"} |WGTC \- SEASON 13 |Europe |41 |4248 |Open | | | | |
 |[SRL Community TCR League](https://members.iracing.com/membersite/member/LeagueView.do?league=8871){:target="_blank"} |Practice & Pre Season |Europe |40 |2256 | |Donington Park Racing Circuit |Thu, June 22 01:30PM EDT |Thu, June 22 06:30PM BST |Fri, June 23 03:30AM AEST |
 |[ACI ESport Coppa Italia GT](https://members.iracing.com/membersite/member/LeagueView.do?league=8189){:target="_blank"} |Coppa Italia ACI Esport Gran Turismo 2023 |Europe |39 |3071 | |Sebring International Raceway |Tue, June 27 02:30PM EDT |Tue, June 27 07:30PM BST |Wed, June 28 04:30AM AEST |
 |[Performance Link ESports GT3 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8804){:target="_blank"} |GT3 Cup Season 2 |Europe |37 |2459 | |Suzuka International Racing Course |Sun, June 25 12:10PM EDT |Sun, June 25 05:10PM BST |Mon, June 26 02:10AM AEST |
@@ -205,9 +206,9 @@
 |[DMSB SimRacing Championship Sprint Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |DSRC\-Sprint – FP 3 |Europe |22 |2724 | |Hungaroring |Sat, June 17 12:00PM EDT |Sat, June 17 05:00PM BST |Sun, June 18 02:00AM AEST |
 |[FLANC GT3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7591){:target="_blank"} |FLANC GT3 Serie 2022/23 |Europe |22 |3188 |Open | | | | |
 |[Porsche TAG HEUER Esports Supercup All\-Star Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6129){:target="_blank"} |2023 PESC All\-Star Series |Europe |22 |4963 | | | | | |
-|[FLANC GT3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7591){:target="_blank"} |Training |Europe |19 |None |Open | | | | |
 |[GT3 for not so serious](https://members.iracing.com/membersite/member/LeagueView.do?league=3953){:target="_blank"} |2023 Season 2 |Europe |18 |2103 | | | | | |
 |[CAS\- iRacing\- Community](https://members.iracing.com/membersite/member/LeagueView.do?league=9707){:target="_blank"} |GT3 World Championship Tour |Europe |17 |1789 |Both |Autodromo Nazionale Monza |Tue, June 20 12:30PM EDT |Tue, June 20 05:30PM BST |Wed, June 21 02:30AM AEST |
+|[FLANC GT3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7591){:target="_blank"} |Training |Europe |17 |None |Open | | | | |
 |[Varano iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3717){:target="_blank"} |GT3 World Championship S1 |Europe |14 |1491 |Fixed |Circuit de Nevers Magny-Cours |Tue, June 27 02:00PM EDT |Tue, June 27 07:00PM BST |Wed, June 28 04:00AM AEST |
 |[BULERS Off\-season](https://members.iracing.com/membersite/member/LeagueView.do?league=9587){:target="_blank"} |Bulers GT3 Off\-season |Europe |13 |2218 | | | | | |
 |[UK SimRacing Community \- Weekly Practice Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=6871){:target="_blank"} |Specials Event Practice Session |Europe |13 |None | | | | | |
@@ -223,9 +224,9 @@
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------|--------|-------|----|-----|--------------------------------------------|------------------------|------------------------|-------------------------|
 |[Sim Racing Magazine Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7770){:target="_blank"} |SRM GT4 Challenge Season 3 |Europe |35 |2260 | |Daytona International Speedway |Tue, June 27 02:00PM EDT |Tue, June 27 07:00PM BST |Wed, June 28 04:00AM AEST |
 |[JPB GT4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9751){:target="_blank"} |season 1 |Europe |34 |2012 | |Autodromo Internazionale Enzo e Dino Ferrari |Wed, June 28 01:00PM EDT |Wed, June 28 06:00PM BST |Thu, June 29 03:00AM AEST |
-|[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |GT4 FIXED TOUR by NWS |Europe |29 |2592 |Fixed | | | | |
 |[Virtual Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=9774){:target="_blank"} |VRG GT4 Tour \- Season 1 |Europe |25 |2702 |Both |Virginia International Raceway |Thu, June 22 12:45PM EDT |Thu, June 22 05:45PM BST |Fri, June 23 02:45AM AEST |
 |[RRVGT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5707){:target="_blank"} |RRVGT GT Masters \#5 |Europe |25 |2643 | | | | | |
+|[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |GT4 FIXED TOUR by NWS |Europe |22 |2595 |Fixed | | | | |
 
 ### IMSA22
 
@@ -274,12 +275,12 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
 |[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 7 |Europe |43 |3925 | | | | | |
-|[OBS Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=9006){:target="_blank"} |2023 Super Cup |Europe |41 |2825 |Fixed | | | | |
+|[OBS Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=9006){:target="_blank"} |2023 Super Cup |Europe |38 |2839 |Fixed | | | | |
 |[Porsche TAG Heuer Esports Supercup](https://members.iracing.com/membersite/member/LeagueView.do?league=6004){:target="_blank"} |2023 Porsche TAG Heuer Esports Supercup |Europe |29 |8795 | | | | | |
 |[DSRM](https://members.iracing.com/membersite/member/LeagueView.do?league=9407){:target="_blank"} |DSRM2023 |Europe |20 |2920 |Fixed | | | | |
 |[Porsche Esports Carrera Cup Great Britain](https://members.iracing.com/membersite/member/LeagueView.do?league=6219){:target="_blank"} |Season 3 |Europe |16 |5872 | | | | | |
 |[Porsche Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |PCC Euro/Global Season 5 |Europe |13 |3065 | |Mount Panorama Circuit |Sun, June 25 01:30PM EDT |Sun, June 25 06:30PM BST |Mon, June 26 03:30AM AEST |
-|[UK SimRacing Community \- Weekly Practice Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=6871){:target="_blank"} |PCup Practice Session |Europe |13 |3242 | |Road Atlanta |Mon, June 26 02:00PM EDT |Mon, June 26 07:00PM BST |Tue, June 27 04:00AM AEST |
+|[UK SimRacing Community \- Weekly Practice Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=6871){:target="_blank"} |PCup Practice Session |Europe |12 |3380 | |Road Atlanta |Mon, June 26 02:00PM EDT |Mon, June 26 07:00PM BST |Tue, June 27 04:00AM AEST |
 
 ### Porsche 911 RSR
 
@@ -295,15 +296,14 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|--------|-------|----|-----|--------------------|------------------------|------------------------|-------------------------|
-|[Virtual Autosport\.be Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9521){:target="_blank"} |Virtual Autosport\.be Clio Cup 2023 |Europe |55 |2142 | |Circuit Zolder |Wed, June 21 02:00PM EDT |Wed, June 21 07:00PM BST |Thu, June 22 04:00AM AEST |
+|[Virtual Autosport\.be Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9521){:target="_blank"} |Virtual Autosport\.be Clio Cup 2023 |Europe |54 |2142 | |Circuit Zolder |Wed, June 21 02:00PM EDT |Wed, June 21 07:00PM BST |Thu, June 22 04:00AM AEST |
 |[JPB Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9558){:target="_blank"} |Season 2 |Europe |38 |2107 |Open |Snetterton Circuit |Mon, June 26 01:00PM EDT |Mon, June 26 06:00PM BST |Tue, June 27 03:00AM AEST |
-|[JPB Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9558){:target="_blank"} |Season 1 |Europe |36 |1906 |Open | | | | |
+|[JPB Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9558){:target="_blank"} |Season 1 |Europe |33 |1900 |Open | | | | |
 |[Performance Link Hot Hatch League](https://members.iracing.com/membersite/member/LeagueView.do?league=9700){:target="_blank"} |Season 1 |Europe |28 |2250 | |Brands Hatch Circuit |Thu, June 29 02:10PM EDT |Thu, June 29 07:10PM BST |Fri, June 30 04:10AM AEST |
-|[The Racing Line Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9642){:target="_blank"} |RLCC S1 |Europe |24 |3013 | | | | | |
+|[The Racing Line Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9642){:target="_blank"} |RLCC S1 |Europe |24 |3028 | | | | | |
 |[JPB Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9558){:target="_blank"} |Practice sessions |Europe |24 |None |Open |Summit Point Raceway |Thu, June 29 02:00PM EDT |Thu, June 29 07:00PM BST |Fri, June 30 04:00AM AEST |
 |[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Season 1 |Europe |17 |2830 |Fixed | | | | |
-|[Event by Taytous "Clio CUP"](https://members.iracing.com/membersite/member/LeagueView.do?league=8246){:target="_blank"} |Clio CUP S2/2023 |Europe |13 |2083 | | | | | |
-|[BSTV UK Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3851){:target="_blank"} |Clio Cup S1 |Europe |11 |3227 | |Silverstone Circuit |Fri, June 23 02:00PM EDT |Fri, June 23 07:00PM BST |Sat, June 24 04:00AM AEST |
+|[BSTV UK Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3851){:target="_blank"} |Clio Cup S1 |Europe |14 |2938 | |Red Bull Ring |Fri, June 30 02:00PM EDT |Fri, June 30 07:00PM BST |Sat, July 01 04:00AM AEST |
 
 ### Supercars - 2019
 
@@ -320,7 +320,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|-----------------------------|--------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
 |[Virtual Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9493){:target="_blank"} |VTCS Season 2 |Europe |49 |2326 |Fixed |Circuit de Spa-Francorchamps |Mon, June 26 01:15PM EDT |Mon, June 26 06:15PM BST |Tue, June 27 03:15AM AEST |
-|[SRL Community TCR League](https://members.iracing.com/membersite/member/LeagueView.do?league=8871){:target="_blank"} |SRL Friday Night TCR Season 6 |Europe |38 |2380 | |Donington Park Racing Circuit |Fri, June 23 03:15PM EDT |Fri, June 23 08:15PM BST |Sat, June 24 05:15AM AEST |
+|[SRL Community TCR League](https://members.iracing.com/membersite/member/LeagueView.do?league=8871){:target="_blank"} |SRL Friday Night TCR Season 6 |Europe |39 |2338 | |Donington Park Racing Circuit |Fri, June 23 03:15PM EDT |Fri, June 23 08:15PM BST |Sat, June 24 05:15AM AEST |
 |[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |TCR Cup 2023 Season 2 |Europe |15 |None |Both |Sebring International Raceway |Sun, June 11 01:00PM EDT |Sun, June 11 06:00PM BST |Mon, June 12 03:00AM AEST |
 |[PWA Touring Car Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9270){:target="_blank"} |PWA TCC Season 3 |Europe |11 |2475 | | | | | |
 
@@ -333,8 +333,8 @@
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |SUNDAY TOYOTA GR86 |Europe |49 |1798 | |[Legacy] Silverstone Circuit - 2008 |Sun, June 25 03:10PM EDT |Sun, June 25 08:10PM BST |Mon, June 26 05:10AM AEST |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |TANSO PRACTICE THURSDAYS |Europe |38 |1721 | |[Legacy] Silverstone Circuit - 2008 |Thu, June 22 03:10PM EDT |Thu, June 22 08:10PM BST |Fri, June 23 05:10AM AEST |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |TANSO PRACTICE TUESDAYS |Europe |31 |1513 | |[Legacy] Silverstone Circuit - 2008 |Tue, June 20 03:10PM EDT |Tue, June 20 08:10PM BST |Wed, June 21 05:10AM AEST |
-|[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |TRENINGI I PREQ |Europe |31 |2311 |Both | | | | |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |LIGA SPARK S2 FINAL A |Europe |30 |2533 |Both | | | | |
+|[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |TRENINGI I PREQ |Europe |30 |2295 |Both | | | | |
 |[AFvRC](https://members.iracing.com/membersite/member/LeagueView.do?league=8081){:target="_blank"} |AFVRC 23 |Europe |28 |1869 |Open | | | | |
 |[SRL Community GR86 League](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |SRL Friday Night GR86 League |Europe |25 |2261 |Fixed | | | | |
 |[42SimStudio Toyota GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9571){:target="_blank"} |42SimStudio Toyota GR86 Cup Spring Season |Europe |17 |1849 | | | | | |
@@ -388,7 +388,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|--------|-------|----|-----|--------------------------------------------|------------------------|------------------------|-------------------------|
-|[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |NXTCC test session |Europe |58 |2318 |Fixed |Hockenheimring Baden-Württemberg |Mon, June 26 02:30PM EDT |Mon, June 26 07:30PM BST |Tue, June 27 04:30AM AEST |
+|[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |NXTCC test session |Europe |57 |2317 |Fixed |Hockenheimring Baden-Württemberg |Mon, June 26 02:30PM EDT |Mon, June 26 07:30PM BST |Tue, June 27 04:30AM AEST |
 |[Platinum Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=5606){:target="_blank"} |PEC Season 3 |Europe |51 |3157 |Open | | | | |
 |[Club100 / BUKC iRacing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6252){:target="_blank"} |C100/BUKC iRacing Championship 2023 |Europe |41 |2350 | |Circuit de Nevers Magny-Cours |Wed, June 21 01:00PM EDT |Wed, June 21 06:00PM BST |Thu, June 22 03:00AM AEST |
 |[Classic Interdicted Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1381){:target="_blank"} |2023 Season |Europe |33 |2244 |Open |Richmond Raceway |Sat, June 24 02:00PM EDT |Sat, June 24 07:00PM BST |Sun, June 25 04:00AM AEST |
@@ -404,6 +404,7 @@
 |[ORNL Sunday Drivers Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6769){:target="_blank"} |ORNL Sunday Drivers Cup '23 S2 |Europe |18 |1971 | |Virginia International Raceway |Sun, June 11 02:30PM EDT |Sun, June 11 07:30PM BST |Mon, June 12 04:30AM AEST |
 |[Evolution Sim Racing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=5229){:target="_blank"} |Evolution Sim Racing 2023 Season 1 |Europe |17 |1825 |Both | | | | |
 |[RSE PRESENTS SIMSA WORLD CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=5467){:target="_blank"} |pre season testing |Europe |17 |2107 |Fixed |Autódromo José Carlos Pace |Tue, June 20 02:59PM EDT |Tue, June 20 07:59PM BST |Wed, June 21 04:59AM AEST |
+|[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |Event specjalny |Europe |14 |2122 |Both | | | | |
 |[Bavarian Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=7980){:target="_blank"} |2023 Season 2 |Europe |13 |1262 |Fixed | | | | |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |Madness |Europe |13 |1496 |Open | | | | |
 |[Sampsoid GT3 Championship Practice Group](https://members.iracing.com/membersite/member/LeagueView.do?league=9746){:target="_blank"} |Session 1 Sampsoid GT3 Championship Practice Group |Europe |13 |1460 | |Autodromo Internazionale Enzo e Dino Ferrari |Thu, June 22 02:00PM EDT |Thu, June 22 07:00PM BST |Fri, June 23 04:00AM AEST |

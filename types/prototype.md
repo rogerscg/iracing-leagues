@@ -59,14 +59,6 @@
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Off season fun races |North America |14 |2129 | | | | | |
 |[Four Wide Racing Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9060){:target="_blank"} |Four Wide Road Season 2 |North America |10 |1319 | |Long Beach Street Circuit |Wed, June 14 07:00PM EDT |Thu, June 15 12:00AM BST |Thu, June 15 09:00AM AEST |
 
-### Riley Daytona Prototype
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
-|[Freaky Fast RL: Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6937){:target="_blank"} |Rockhead Designs S223 Riley Prototype |North America |12 |1341 | |Road America |Wed, June 28 07:00PM EDT |Thu, June 29 12:00AM BST |Thu, June 29 09:00AM AEST |
-
 ### Spec Racer Ford
 
 [Back to Top](#)  
