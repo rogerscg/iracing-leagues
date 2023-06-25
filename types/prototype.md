@@ -34,7 +34,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|--------------------------------------------|------------------------|------------------------|-------------------------|
-|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship |Europe |44 |2451 |Fixed |Autodromo Internazionale Enzo e Dino Ferrari |Sat, June 24 01:00PM EDT |Sat, June 24 06:00PM BST |Sun, June 25 03:00AM AEST |
+|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship |Europe |44 |2451 |Fixed |Autodromo Internazionale Enzo e Dino Ferrari |Sun, June 25 02:00PM EDT |Sun, June 25 07:00PM BST |Mon, June 26 04:00AM AEST |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |43 |2580 |Open |Long Beach Street Circuit |Mon, June 26 01:30PM EDT |Mon, June 26 06:30PM BST |Tue, June 27 03:30AM AEST |
 |[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S03\-2023 LMP3 |Europe |23 |2196 | | | | | |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |16\.1 Sunday |North America |13 |1990 |Both |Mount Panorama Circuit |Sun, June 25 06:40PM EDT |Sun, June 25 11:40PM BST |Mon, June 26 08:40AM AEST |
