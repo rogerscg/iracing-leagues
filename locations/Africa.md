@@ -24,16 +24,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |2023 \- Season 1 \| Raceface\.Pro TCR League |Africa |34 |1923 |Both |Okayama International Circuit |Tue, June 20 02:27PM EDT |Tue, June 20 07:27PM BST |Wed, June 21 04:27AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
+|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |2023 \- Season 1 \| Raceface\.Pro TCR League |Africa |34 |1923 |Both |Oulton Park Circuit |Tue, July 04 02:27PM EDT |Tue, July 04 07:27PM BST |Wed, July 05 04:27AM AEST |
 
 # Prototype
 
-### HPD ARX-01c
+### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Exhibition Race |Africa |28 |2324 | | | | | |
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Exhibition Race |Africa |36 |2324 | | | | | |
 

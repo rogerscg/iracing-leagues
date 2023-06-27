@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |42 |2952 | |Sonoma Raceway |Mon, June 12 06:00PM EDT |Mon, June 12 11:00PM BST |Tue, June 13 08:00AM AEST |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |42 |2994 | |Sonoma Raceway |Mon, June 12 06:00PM EDT |Mon, June 12 11:00PM BST |Tue, June 13 08:00AM AEST |
 
 # Open-wheel
 
@@ -20,7 +20,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------|------------------------|------------------------|-------------------------|
 |[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/2 |South America |23 |2638 | |Auto Club Speedway |Wed, June 28 07:35PM EDT |Thu, June 29 12:35AM BST |Thu, June 29 09:35AM AEST |
-|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/1 |South America |21 |2345 | | | | | |
 
 ### FIA F4
 
@@ -54,8 +53,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL 4Funs |South America |53 |1896 | |Circuit de Spa-Francorchamps |Thu, June 22 06:15PM EDT |Thu, June 22 11:15PM BST |Fri, June 23 08:15AM AEST |
+|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |30 |4030 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -76,9 +76,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |28 |2092 | |Okayama International Circuit |Mon, June 26 05:25PM EDT |Mon, June 26 10:25PM BST |Tue, June 27 07:25AM AEST |
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T2\-2023 |South America |25 |2765 | | | | | |
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |24 |2065 | |Okayama International Circuit |Mon, June 26 05:25PM EDT |Mon, June 26 10:25PM BST |Tue, June 27 07:25AM AEST |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Campeonato Secreto |South America |15 |1386 | | | | | |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -94,7 +95,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"} |T2\-2023 |South America |32 |3046 | | | | | |
+|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"} |T2\-2023 |South America |30 |3079 | | | | | |
 
 ### Touring Car
 
@@ -110,8 +111,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-------------------------------|------------------------|------------------------|-------------------------|
 |[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Road Challenge 23S2 |South America |40 |2114 | | | | | |
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/2 |South America |21 |1960 | |Virginia International Raceway |Mon, June 19 05:25PM EDT |Mon, June 19 10:25PM BST |Tue, June 20 07:25AM AEST |
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/2 |South America |21 |1960 | |Circuito de Jerez - Ángel Nieto |Mon, July 03 05:25PM EDT |Mon, July 03 10:25PM BST |Tue, July 04 07:25AM AEST |
 |[VRB \- Virtual Race Bahia](https://members.iracing.com/membersite/member/LeagueView.do?league=9658){:target="_blank"} |VRB \- Toyota Cup \- 2023\.1 |South America |17 |1804 | |Autódromo José Carlos Pace |Tue, June 13 06:00PM EDT |Tue, June 13 11:00PM BST |Wed, June 14 08:00AM AEST |
 
