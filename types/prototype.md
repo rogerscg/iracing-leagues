@@ -17,9 +17,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Exhibition Race |Africa |36 |2324 | | | | | |
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Exhibition Race |Africa |37 |2284 | | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Western Grinding Prototype Progression Series |North America |23 |1271 |Both |Road Atlanta |Thu, June 29 08:00PM EDT |Fri, June 30 01:00AM BST |Fri, June 30 10:00AM AEST |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- SuperProto |North America |10 |1358 |Fixed |Iowa Speedway |Sat, June 10 08:30PM EDT |Sun, June 11 01:30AM BST |Sun, June 11 10:30AM AEST |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- SuperProto |North America |10 |1352 |Fixed |Iowa Speedway |Sat, June 10 08:30PM EDT |Sun, June 11 01:30AM BST |Sun, June 11 10:30AM AEST |
 
 ### Ligier JS P320
 
@@ -31,6 +31,7 @@
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |48 |2652 |Open |Canadian Tire Motorsports Park |Mon, July 03 01:30PM EDT |Mon, July 03 06:30PM BST |Tue, July 04 03:30AM AEST |
 |[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S03\-2023 LMP3 |Europe |23 |2196 | | | | | |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |16\.1 Sunday |North America |19 |2027 |Both |Phillip Island Circuit |Sun, July 02 06:40PM EDT |Sun, July 02 11:40PM BST |Mon, July 03 08:40AM AEST |
+|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2023\-S3 Tuesday LMP3 |North America |10 |1583 |Both |Canadian Tire Motorsports Park |Tue, July 04 08:00PM EDT |Wed, July 05 01:00AM BST |Wed, July 05 10:00AM AEST |
 
 ### Radical SR10
 
@@ -59,5 +60,5 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2023S3 |Europe |50 |3060 |Open |Red Bull Ring |Sun, June 25 02:40PM EDT |Sun, June 25 07:40PM BST |Mon, June 26 04:40AM AEST |
-|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 S2 SRF3 |North America |36 |2651 |Open |Road America |Tue, June 20 07:55PM EDT |Wed, June 21 12:55AM BST |Wed, June 21 09:55AM AEST |
+|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 S2 SRF3 |North America |37 |2627 |Open |Road America |Tue, June 20 07:55PM EDT |Wed, June 21 12:55AM BST |Wed, June 21 09:55AM AEST |
 

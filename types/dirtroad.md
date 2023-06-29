@@ -25,6 +25,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
 |[ROUSH Off\-Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5964){:target="_blank"} |Season 4 |North America |37 |3104 | | | | | |
+|[Off\-Road Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8482){:target="_blank"} |2023 iRacing \- Off\-Road Championship |North America |24 |6975 | |Crandon International Raceway |Wed, July 05 08:30PM EDT |Thu, July 06 01:30AM BST |Thu, July 06 10:30AM AEST |
 
