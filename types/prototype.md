@@ -51,7 +51,7 @@
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |J2iRS \- Sprint Season 5 |North America |29 |1820 |Both |Mount Panorama Circuit |Wed, June 21 07:00PM EDT |Thu, June 22 12:00AM BST |Thu, June 22 09:00AM AEST |
 |[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Radical SR8 Championship |North America |28 |2120 | |Autódromo José Carlos Pace |Sun, June 11 01:00PM EDT |Sun, June 11 06:00PM BST |Mon, June 12 03:00AM AEST |
-|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |SR8 Americas 2023\_2 |North America |17 |2818 | | | | | |
+|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |SR8 Americas 2023\_2 |North America |15 |2834 | | | | | |
 
 ### Spec Racer Ford
 

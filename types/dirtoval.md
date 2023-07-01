@@ -27,7 +27,7 @@
 |----------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|---------------------------|------------------------|------------------------|-------------------------|
 |[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |big block mayhem |Australia-NZ |79 |3135 | |The Dirt Track at Charlotte |Sun, June 18 04:27AM EDT |Sun, June 18 09:27AM BST |Sun, June 18 06:27PM AEST |
 |[Sheet Metal Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6185){:target="_blank"} |Big Block Fixed |North America |30 |2572 | | | | | |
-|[Dirt Anarchy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9028){:target="_blank"} |Season 3 Anarchy Big Blocks |North America |19 |2294 | |Knoxville Raceway |Sat, June 10 07:30PM EDT |Sun, June 11 12:30AM BST |Sun, June 11 09:30AM AEST |
+|[Dirt Anarchy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9028){:target="_blank"} |Season 3 Anarchy Big Blocks |North America |19 |2294 | |The Dirt Track at Charlotte |Sat, July 08 07:30PM EDT |Sun, July 09 12:30AM BST |Sun, July 09 09:30AM AEST |
 |[Rolling Thunder Gaming](https://members.iracing.com/membersite/member/LeagueView.do?league=3556){:target="_blank"} |RTG Big Blocks |North America |13 |2750 | | | | | |
 
 ### Dirt Late Model - Limited
@@ -36,7 +36,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|--------------------|------------------------|------------------------|-------------------------|
-|[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |limited late models |North America |23 |1742 | |Lernerville Speedway |Sun, July 02 08:30PM EDT |Mon, July 03 01:30AM BST |Mon, July 03 10:30AM AEST |
+|[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |limited late models |North America |19 |1769 | |Lernerville Speedway |Sun, July 02 08:30PM EDT |Mon, July 03 01:30AM BST |Mon, July 03 10:30AM AEST |
 
 ### Dirt Late Model - Pro
 
@@ -44,9 +44,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|------------------------------------|------------------------|------------------------|-------------------------|
-|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Pro Late Model All Stars Tour 2023 |Australia-NZ |56 |3053 | |Lernerville Speedway |Fri, June 30 06:30AM EDT |Fri, June 30 11:30AM BST |Fri, June 30 08:30PM AEST |
+|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Pro Late Model All Stars Tour 2023 |Australia-NZ |60 |3077 | |Lernerville Speedway |Fri, June 30 06:30AM EDT |Fri, June 30 11:30AM BST |Fri, June 30 08:30PM AEST |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |North America |56 |2440 |Open |Lucas Oil Speedway |Sun, June 18 08:15PM EDT |Mon, June 19 01:15AM BST |Mon, June 19 10:15AM AEST |
-|[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |Summer DIRT Late Models |North America |48 |2613 | | | | | |
+|[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |Summer DIRT Late Models |North America |41 |2628 | | | | | |
 |[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 4 \- Pro Dirt Late Models |North America |41 |2150 | |Cedar Lake Speedway |Sun, July 02 07:48PM EDT |Mon, July 03 12:48AM BST |Mon, July 03 09:48AM AEST |
 |[Ultimate Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7464){:target="_blank"} |NLRA Pro Late Models |Australia-NZ |36 |2899 | | | | | |
 |[Crooked Line Dirt Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=3754){:target="_blank"} |CLR\-SBM Pro Late Model Season 1 |North America |26 |2902 | | | | | |
@@ -192,7 +192,7 @@
 |[STARS Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8311){:target="_blank"} |STARS SEASON 2 UMP'S |North America |22 |3193 |Open | | | | |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |Tuesday FUN League UMP Midwest Tour '23 |North America |20 |1717 |Fixed |Eldora Speedway |Tue, June 27 07:30PM EDT |Wed, June 28 12:30AM BST |Wed, June 28 09:30AM AEST |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |SSR UMP Modifieds |North America |20 |3038 |Open |Fairbury Speedway |Wed, June 28 10:00PM EDT |Thu, June 29 03:00AM BST |Thu, June 29 12:00PM AEST |
-|[Dirt Anarchy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9028){:target="_blank"} |Season 3 Anarchy UMPs |North America |18 |3093 | |Knoxville Raceway |Sat, June 10 08:30PM EDT |Sun, June 11 01:30AM BST |Sun, June 11 10:30AM AEST |
+|[Dirt Anarchy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9028){:target="_blank"} |Season 3 Anarchy UMPs |North America |18 |3093 | |The Dirt Track at Charlotte |Sat, July 08 08:30PM EDT |Sun, July 09 01:30AM BST |Sun, July 09 10:30AM AEST |
 |[Hot Shot E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=2636){:target="_blank"} |UMP Modified Summer Series |North America |17 |2198 |Fixed | | | | |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Tuesday Dirt Ovals |North America |12 |1486 |Both |Eldora Speedway |Tue, July 04 08:15PM EDT |Wed, July 05 01:15AM BST |Wed, July 05 10:15AM AEST |
 

@@ -19,7 +19,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |20 |2975 | |Oulton Park Circuit |Fri, June 30 08:50AM EDT |Fri, June 30 01:50PM BST |Fri, June 30 10:50PM AEST |
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |22 |2932 | |Oulton Park Circuit |Fri, June 30 08:50AM EDT |Fri, June 30 01:50PM BST |Fri, June 30 10:50PM AEST |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -35,7 +35,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |24 |2094 | |WeatherTech Raceway at Laguna Seca |Fri, June 30 09:00AM EDT |Fri, June 30 02:00PM BST |Fri, June 30 11:00PM AEST |
+|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |24 |2094 | |WeatherTech Raceway at Laguna Seca |Sat, July 01 07:00AM EDT |Sat, July 01 12:00PM BST |Sat, July 01 09:00PM AEST |
 
 # Multi-class/Unclassified
 
