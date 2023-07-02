@@ -18,24 +18,24 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |22 |2932 | |Oulton Park Circuit |Fri, June 30 08:50AM EDT |Fri, June 30 01:50PM BST |Fri, June 30 10:50PM AEST |
+|------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------|--------|------|------|
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |22 |2932 | | | | | |
 
 ### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |NLR 911 Cup Asia League 2023 |Asia |32 |2458 | |Circuit des 24 Heures du Mans |Sat, June 10 08:00AM EDT |Sat, June 10 01:00PM BST |Sat, June 10 10:00PM AEST |
+|-------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |NLR 911 Cup Asia League 2023 |Asia |32 |2458 | | | | | |
 
 ### Toyota GR86
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |24 |2094 | |WeatherTech Raceway at Laguna Seca |Sat, July 01 07:00AM EDT |Sat, July 01 12:00PM BST |Sat, July 01 09:00PM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|------------------------|------------------------|------------------------|-------------------------|
+|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |25 |2049 | |Charlotte Motor Speedway |Wed, July 05 08:00AM EDT |Wed, July 05 01:00PM BST |Wed, July 05 10:00PM AEST |
 
 # Multi-class/Unclassified
 
