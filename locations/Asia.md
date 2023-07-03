@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------|--------|------|------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |16 |2342 | | | | | |
+|------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |16 |2342 | |Atlanta Motor Speedway |Fri, July 07 08:30AM EDT |Fri, July 07 01:30PM BST |Fri, July 07 10:30PM AEST |
 
 # Sports Car
 
