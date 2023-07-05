@@ -3,13 +3,13 @@
 
 # Dirt Road
 
-### Hosted All Cars Class
+### Pro 2 Lite Truck
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[TopBox Sim Racing Pro 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |TopBoxRacing Pro2 \- Pro4 Dash |North America |25 |2881 | | | | | |
+|-------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Act III Dirt Tuesdays \- Pro II lite |North America |10 |1800 |Fixed |Sonoma Raceway |Tue, July 11 06:35PM EDT |Tue, July 11 11:35PM BST |Wed, July 12 08:35AM AEST |
 
 ### Pro 2 Truck
 

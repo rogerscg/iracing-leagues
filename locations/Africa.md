@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-------------|--------|------|------|
-|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |14 |1720 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
+|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |14 |1720 | |Autodromo Nazionale Monza |Wed, July 12 01:15PM EDT |Wed, July 12 06:15PM BST |Thu, July 13 03:15AM AEST |
 
 ### Renault Clio
 
@@ -24,8 +24,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
-|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |2023 \- Season 1 \| Raceface\.Pro TCR League |Africa |34 |1923 |Both |Oulton Park Circuit |Tue, July 04 02:27PM EDT |Tue, July 04 07:27PM BST |Wed, July 05 04:27AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |2023 \- Season 1 \| Raceface\.Pro TCR League |Africa |38 |1982 |Both | | | | |
 
 # Prototype
 
