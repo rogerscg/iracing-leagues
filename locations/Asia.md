@@ -34,8 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|------------------------|------------------------|------------------------|-------------------------|
-|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |25 |2049 | |Charlotte Motor Speedway |Sat, July 08 07:00AM EDT |Sat, July 08 12:00PM BST |Sat, July 08 09:00PM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
+|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |25 |2058 | |Lime Rock Park |Wed, July 12 08:00AM EDT |Wed, July 12 01:00PM BST |Wed, July 12 10:00PM AEST |
 
 # Multi-class/Unclassified
 
