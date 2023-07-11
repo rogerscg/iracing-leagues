@@ -17,8 +17,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Racecraft Off\-Road](https://members.iracing.com/membersite/member/LeagueView.do?league=5142){:target="_blank"} |Pro 2 Championship \(Open Class\) |North America |18 |5425 |Open | | | | |
-|[Racecraft Off\-Road Pro Spec](https://members.iracing.com/membersite/member/LeagueView.do?league=9734){:target="_blank"} |Pro Spec 2023 Season 1 |North America |18 |2984 | | | | | |
+|[Racecraft Off\-Road](https://members.iracing.com/membersite/member/LeagueView.do?league=5142){:target="_blank"} |Pro 2 Championship \(Open Class\) |North America |16 |5454 |Open | | | | |
+|[Racecraft Off\-Road Pro Spec](https://members.iracing.com/membersite/member/LeagueView.do?league=9734){:target="_blank"} |Pro Spec 2023 Season 1 |North America |12 |3170 | | | | | |
 
 ### Pro 4 Truck
 

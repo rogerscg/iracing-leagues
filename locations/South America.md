@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |41 |2787 | |Atlanta Motor Speedway |Mon, July 10 06:00PM EDT |Mon, July 10 11:00PM BST |Tue, July 11 08:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |41 |2840 | | | | | |
 
 # Open-wheel
 
@@ -54,8 +54,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|----------------|------------------------|------------------------|-------------------------|
+|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |31 |4146 | | | | | |
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |30 |1733 | |MotorLand Aragón |Tue, July 11 05:00PM EDT |Tue, July 11 10:00PM BST |Wed, July 12 07:00AM AEST |
-|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |30 |4030 | |MotorLand Aragón |Mon, July 10 05:00PM EDT |Mon, July 10 10:00PM BST |Tue, July 11 07:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -72,10 +72,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |28 |2092 | |Okayama International Circuit |Mon, July 10 05:25PM EDT |Mon, July 10 10:25PM BST |Tue, July 11 07:25AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|---------------|------------------------|------------------------|-------------------------|
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |28 |2112 | | | | | |
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T3\-2023 |South America |19 |2665 | |Tsukuba Circuit |Wed, July 12 05:00PM EDT |Wed, July 12 10:00PM BST |Thu, July 13 07:00AM AEST |
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Campeonato Secreto |South America |17 |1366 | |Summit Point Raceway |Mon, July 10 07:40PM EDT |Tue, July 11 12:40AM BST |Tue, July 11 09:40AM AEST |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Campeonato Secreto |South America |18 |1408 | | | | | |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -91,7 +91,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"} |T2\-2023 |South America |30 |3079 | | | | | |
+|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"} |T2\-2023 |South America |27 |3108 | | | | | |
 
 ### Touring Car
 
