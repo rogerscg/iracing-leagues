@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
-|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Act III Dirt Tuesdays \- Pro II lite |North America |10 |1800 |Fixed |Sonoma Raceway |Tue, July 11 06:35PM EDT |Tue, July 11 11:35PM BST |Wed, July 12 08:35AM AEST |
+|-------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Act III Dirt Tuesdays \- Pro II lite |North America |10 |1749 |Fixed |Daytona Rallycross and Dirt Road |Tue, July 18 06:35PM EDT |Tue, July 18 11:35PM BST |Wed, July 19 08:35AM AEST |
 
 ### Pro 2 Truck
 

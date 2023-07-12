@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
-|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |12 |1697 | |Autodromo Nazionale Monza |Tue, July 11 02:00PM EDT |Tue, July 11 07:00PM BST |Wed, July 12 04:00AM AEST |
+|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |13 |1697 | |Autodromo Nazionale Monza |Wed, July 12 01:15PM EDT |Wed, July 12 06:15PM BST |Thu, July 13 03:15AM AEST |
 
 ### Renault Clio
 
