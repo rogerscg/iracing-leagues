@@ -35,7 +35,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
-|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |25 |2058 | |Lime Rock Park |Wed, July 12 08:00AM EDT |Wed, July 12 01:00PM BST |Wed, July 12 10:00PM AEST |
+|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |25 |2058 | |Lime Rock Park |Thu, July 13 10:00AM EDT |Thu, July 13 03:00PM BST |Fri, July 14 12:00AM AEST |
 
 # Multi-class/Unclassified
 
