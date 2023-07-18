@@ -3,14 +3,6 @@
 
 # Prototype
 
-### BMW M Hybrid V8
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[ACI ESport Prototipi](https://members.iracing.com/membersite/member/LeagueView.do?league=6379){:target="_blank"} |Campionato Italiano ACI ESport Prototipi 2023 |Europe |30 |3752 | | | | | |
-
 ### Dallara P217
 
 [Back to Top](#)  
@@ -38,7 +30,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|------------------------------------|------------------------|------------------------|-------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship |Europe |63 |2364 |Fixed |Suzuka International Racing Course |Sat, July 22 01:00PM EDT |Sat, July 22 06:00PM BST |Sun, July 23 03:00AM AEST |
-|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |54 |2749 |Open |Nürburgring Grand-Prix-Strecke |Mon, July 17 01:30PM EDT |Mon, July 17 06:30PM BST |Tue, July 18 03:30AM AEST |
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |54 |2775 |Open |Circuito de Jerez - Ángel Nieto |Mon, July 24 01:30PM EDT |Mon, July 24 06:30PM BST |Tue, July 25 03:30AM AEST |
 |[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S03\-2023 LMP3 |Europe |28 |2296 | | | | | |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |16\.1 Sunday |North America |27 |1921 |Both |Willow Springs International Raceway |Sun, July 23 06:40PM EDT |Sun, July 23 11:40PM BST |Mon, July 24 08:40AM AEST |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2023\-S3 Tuesday LMP3 |North America |11 |1567 |Both |Nürburgring Grand-Prix-Strecke |Tue, July 18 08:00PM EDT |Wed, July 19 01:00AM BST |Wed, July 19 10:00AM AEST |
@@ -60,7 +52,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Radical SR8 Championship |North America |28 |2133 | | | | | |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |J2iRS \- Sprint Season 5 |North America |25 |1851 |Both | | | | |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |J2iRS \- Sprint Season 5 |North America |23 |1838 |Both | | | | |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |SR8 Americas 2023\_2 |North America |11 |2879 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023CD Mountain Men Bathurst 200 Series |Australia-NZ |11 |1830 |Both | | | | |
 

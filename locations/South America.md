@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |40 |2790 | |New Hampshire Motor Speedway |Mon, July 17 06:00PM EDT |Mon, July 17 11:00PM BST |Tue, July 18 08:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |40 |2845 | | | | | |
 
 # Open-wheel
 
@@ -54,7 +54,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
-|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |33 |1762 | | | | | |
+|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |33 |1762 | |Circuit de Spa-Francorchamps |Tue, July 25 05:00PM EDT |Tue, July 25 10:00PM BST |Wed, July 26 07:00AM AEST |
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |31 |4146 | |Circuit de Spa-Francorchamps |Mon, July 24 05:00PM EDT |Mon, July 24 10:00PM BST |Tue, July 25 07:00AM AEST |
 
 ### Hosted All Cars Class
@@ -65,7 +65,7 @@
 |------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 T2 2023 |South America |45 |1865 | | | | | |
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/2 |South America |36 |2023 | | | | | |
-|[Fera das Pistas](https://members.iracing.com/membersite/member/LeagueView.do?league=9776){:target="_blank"} |Pro Racing Fera das Pistas GT3 |South America |35 |3238 | | | | | |
+|[Fera das Pistas](https://members.iracing.com/membersite/member/LeagueView.do?league=9776){:target="_blank"} |Pro Racing Fera das Pistas GT3 |South America |32 |3308 | | | | | |
 
 ### Mazda MX-5 Cup 2016
 
@@ -82,8 +82,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |T3\-2023 |South America |36 |3150 | |Watkins Glen International |Mon, July 17 05:00PM EDT |Mon, July 17 10:00PM BST |Tue, July 18 07:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
+|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |T3\-2023 |South America |36 |3300 | | | | | |
 
 ### Renault Clio
 
@@ -107,9 +107,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Road Challenge 23S2 |South America |31 |2188 | | | | | |
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/2 |South America |22 |1982 | |Okayama International Circuit |Mon, July 17 05:25PM EDT |Mon, July 17 10:25PM BST |Tue, July 18 07:25AM AEST |
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/2 |South America |22 |2005 | | | | | |
 |[VRB \- Virtual Race Bahia](https://members.iracing.com/membersite/member/LeagueView.do?league=9658){:target="_blank"} |VRB \- Toyota Cup \- 2023\.1 |South America |14 |1843 | | | | | |
 
 # Multi-class/Unclassified
