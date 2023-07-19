@@ -34,8 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |26 |2087 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|---------------------|------------------------|------------------------|-------------------------|
+|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |26 |2087 | |Rudskogen Motorsenter |Wed, July 26 08:00AM EDT |Wed, July 26 01:00PM BST |Wed, July 26 10:00PM AEST |
 
 # Multi-class/Unclassified
 

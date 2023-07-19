@@ -12,7 +12,7 @@
 |[Overwatch Specialty Service NASA Rallycross Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |23b |North America |26 |3536 | | | | | |
 |[Norgesmesterskap Rallycross 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=9838){:target="_blank"} |Norgesmesterskapet Rallycross \- 2023 \- Official |Europe |19 |3316 | | | | | |
 |[Overwatch Specialty Service NASA Rallycross Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |23A |North America |19 |3590 | | | | | |
-|[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 5 |Australia-NZ |19 |2742 | | | | | |
+|[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 5 |Australia-NZ |18 |3007 | | | | | |
 
 ### VW Beetle Lite
 
