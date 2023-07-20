@@ -34,8 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
-|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |23 |2462 | |Silverstone Circuit |Wed, July 19 05:20PM EDT |Wed, July 19 10:20PM BST |Thu, July 20 07:20AM AEST |
+|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
+|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |24 |2439 | | | | | |
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |21 |2766 | |Hungaroring |Thu, July 20 06:00PM EDT |Thu, July 20 11:00PM BST |Fri, July 21 08:00AM AEST |
 
 # Sports Car

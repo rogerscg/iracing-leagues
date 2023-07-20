@@ -26,6 +26,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------|------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
 |[ANZCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=2447){:target="_blank"} |2023 ANZCAR Cup Series |Australia-NZ |48 |2318 | | | | | |
+|[Sim Motorsport New Zealand](https://members.iracing.com/membersite/member/LeagueView.do?league=7651){:target="_blank"} |ENSCAR Cup Series S2 2023 |Australia-NZ |42 |1995 | | | | | |
 |[Weekend Warriors ASCC](https://members.iracing.com/membersite/member/LeagueView.do?league=3592){:target="_blank"} |2023 Lucas Oils Cup season |Australia-NZ |41 |1981 |Fixed |Sonoma Raceway |Sat, July 22 04:30AM EDT |Sat, July 22 09:30AM BST |Sat, July 22 06:30PM AEST |
 |[Sim Motorsport New Zealand](https://members.iracing.com/membersite/member/LeagueView.do?league=7651){:target="_blank"} |ENSCAR Cup Series S1 2023 |Australia-NZ |29 |1918 | | | | | |
 |[Sim Motorsport New Zealand](https://members.iracing.com/membersite/member/LeagueView.do?league=7651){:target="_blank"} |ENSCAR Cup Series S1 2022 |Australia-NZ |28 |1756 | | | | | |
@@ -45,8 +46,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------|---------------------|------------|-------|----|-----|-------------------------------|------------------------|------------------------|-------------------------|
-|[ANZCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=2447){:target="_blank"} |2023 Thunder Series 2 |Australia-NZ |54 |2340 | |Michigan International Speedway |Wed, July 19 05:00AM EDT |Wed, July 19 10:00AM BST |Wed, July 19 07:00PM AEST |
+|---------------------------------------------------------------------------------------------------|---------------------|------------|-------|----|-----|-----------------------|------------------------|------------------------|-------------------------|
+|[ANZCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=2447){:target="_blank"} |2023 Thunder Series 2 |Australia-NZ |55 |2352 | |Lucas Oil Raceway (IRP) |Wed, July 26 05:00AM EDT |Wed, July 26 10:00AM BST |Wed, July 26 07:00PM AEST |
 
 # Oval
 
@@ -98,10 +99,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------|-------|----|-----|-----------------|------------------------|------------------------|-------------------------|
-|[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 1 |Australia-NZ |25 |2341 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C Formula Ford Sprint Series |Australia-NZ |35 |2030 |Both |Mid-Ohio Sports Car Course |Wed, July 26 04:23AM EDT |Wed, July 26 09:23AM BST |Wed, July 26 06:23PM AEST |
+|[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 1 |Australia-NZ |25 |2474 | | | | | |
 |[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 2 USA |Australia-NZ |23 |2045 | | | | | |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C Formula Ford Sprint Series |Australia-NZ |23 |2040 |Both |Oran Park Raceway |Wed, July 19 04:23AM EDT |Wed, July 19 09:23AM BST |Wed, July 19 06:23PM AEST |
 |[Aussie Formula Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6368){:target="_blank"} |Formula Ford \- Season 1 |Australia-NZ |20 |1567 |Fixed | | | | |
 
 # Sports Car
@@ -122,22 +123,22 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|------------|-------|----|-----|--------------------------------------------|------------------------|------------------------|-------------------------|
-|[V8 Veterans Season 16](https://members.iracing.com/membersite/member/LeagueView.do?league=6788){:target="_blank"} |Season 16 |Australia-NZ |144 |1697 | |Detroit Grand Prix at Belle Isle |Wed, July 19 03:00AM EDT |Wed, July 19 08:00AM BST |Wed, July 19 05:00PM AEST |
+|[V8 Veterans Season 16](https://members.iracing.com/membersite/member/LeagueView.do?league=6788){:target="_blank"} |Season 16 |Australia-NZ |144 |1697 | |Detroit Grand Prix at Belle Isle |Thu, July 20 05:31AM EDT |Thu, July 20 10:31AM BST |Thu, July 20 07:31PM AEST |
 |[V8 Veterans Season 15](https://members.iracing.com/membersite/member/LeagueView.do?league=6455){:target="_blank"} |Season 15 |Australia-NZ |119 |1838 |Fixed | | | | |
 |[Aussie Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9402){:target="_blank"} |Season 1 |Australia-NZ |66 |1712 | |Tsukuba Circuit |Sun, July 23 02:00AM EDT |Sun, July 23 07:00AM BST |Sun, July 23 04:00PM AEST |
 |[Aussie Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9402){:target="_blank"} |Season 0 \- Pre Season |Australia-NZ |50 |1604 | | | | | |
+|[Logitech G Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8323){:target="_blank"} |2022 |Australia-NZ |50 |4563 | | | | | |
 |[Supercheap Auto East Coast V8 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3008){:target="_blank"} |Season 7 |Australia-NZ |50 |3383 |Open | | | | |
-|[Logitech G Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8323){:target="_blank"} |2022 |Australia-NZ |48 |4438 | |Red Bull Ring |Wed, July 19 05:00AM EDT |Wed, July 19 10:00AM BST |Wed, July 19 07:00PM AEST |
 |[Supercheap Auto East Coast V8 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3008){:target="_blank"} |Season 6 |Australia-NZ |44 |3698 |Open | | | | |
 |[AOG V8 Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9829){:target="_blank"} |Season 1 |Australia-NZ |40 |2861 | |Autodromo Internazionale Enzo e Dino Ferrari |Mon, July 24 05:00AM EDT |Mon, July 24 10:00AM BST |Mon, July 24 07:00PM AEST |
 |[Southern Cross E\-Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=7490){:target="_blank"} |2023 Southern Cross E\-Sports Championship Series |Australia-NZ |40 |2082 | |Road America |Wed, July 26 06:00AM EDT |Wed, July 26 11:00AM BST |Wed, July 26 08:00PM AEST |
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Season 3 Race  |Australia-NZ |39 |1650 |Open | | | | |
 |[NTESERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=4106){:target="_blank"} |2023 Shannons Insurance NTESERIES |Australia-NZ |33 |1546 | | | | | |
 |[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |23S1 \| GT3 Championship |Australia-NZ |32 |2385 |Fixed |Road Atlanta |Wed, July 26 05:00AM EDT |Wed, July 26 10:00AM BST |Wed, July 26 07:00PM AEST |
-|[SCSR](https://members.iracing.com/membersite/member/LeagueView.do?league=2802){:target="_blank"} |Friday Night GT3 2023 Season 12 Championship |Australia-NZ |30 |2136 | | | | | |
 |[AOG Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5005){:target="_blank"} |Season 7 |Australia-NZ |29 |3072 |Open | | | | |
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Amateur V8s Tuesdays PRAC / QUALIFYING |Australia-NZ |26 |1695 |Open | | | | |
 |[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |23S1 \| GR86 Championship |Australia-NZ |25 |2342 |Fixed | | | | |
+|[SCSR](https://members.iracing.com/membersite/member/LeagueView.do?league=2802){:target="_blank"} |Friday Night GT3 2023 Season 12 Championship |Australia-NZ |25 |2146 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C Production Car Challenge |Australia-NZ |23 |1973 |Both |Circuit Gilles Villeneuve |Thu, July 20 04:20AM EDT |Thu, July 20 09:20AM BST |Thu, July 20 06:20PM AEST |
 |[SRW \- CAMMUS Toyota GR86 Series 2023 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |CAMMUS Toyota GR86 Series 2023 Season 2 |Australia-NZ |21 |1894 | | | | | |
 |[Old Mate Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7571){:target="_blank"} |Old Mate Racing Season 8 |Australia-NZ |20 |1602 |Both |Circuit de Spa-Francorchamps |Thu, July 20 05:30AM EDT |Thu, July 20 10:30AM BST |Thu, July 20 07:30PM AEST |
@@ -148,8 +149,8 @@
 |[Old Mate Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7571){:target="_blank"} |Old Mate Season 7 \- GT3 |Australia-NZ |15 |1429 |Both | | | | |
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Amateur V8s Tuesdays TOP 10 SHOOT OUT |Australia-NZ |14 |1935 |Open | | | | |
 |[NTESERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=4106){:target="_blank"} |2023 NTESERIES Development Series |Australia-NZ |14 |1260 | | | | | |
+|[Premier Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=8948){:target="_blank"} |Gamer Gear Direct GT4 Championship |Australia-NZ |13 |None | |Circuit de Barcelona Catalunya |Mon, July 24 05:00AM EDT |Mon, July 24 10:00AM BST |Mon, July 24 07:00PM AEST |
 |[SRW \- TOYOSIM TCR season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8986){:target="_blank"} |TOYOSIM TCR Series Season 2 2023 |Australia-NZ |11 |1709 | | | | | |
-|[Premier Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=8948){:target="_blank"} |Gamer Gear Direct GT4 Championship |Australia-NZ |10 |None | |Circuit de Barcelona Catalunya |Wed, July 19 05:00AM EDT |Wed, July 19 10:00AM BST |Wed, July 19 07:00PM AEST |
 
 ### IMPCGT4 Class
 
@@ -191,8 +192,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|-----------------------------------|------------|-------|----|-----|------------------------|------------------------|------------------------|-------------------------|
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Supercars NZ TCR Championship |Australia-NZ |39 |1479 |Both |Knockhill Racing Circuit |Wed, July 19 03:00AM EDT |Wed, July 19 08:00AM BST |Wed, July 19 05:00PM AEST |
+|----------------------------------------------------------------------------------------------------------------|-----------------------------------|------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Supercars NZ TCR Championship |Australia-NZ |39 |1452 |Both |Nürburgring Grand-Prix-Strecke |Wed, July 26 03:00AM EDT |Wed, July 26 08:00AM BST |Wed, July 26 05:00PM AEST |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Imports \- TCR Championship |Australia-NZ |26 |1556 |Both | | | | |
 
 ### Toyota GR86
@@ -313,14 +314,14 @@
 |[FRG](https://members.iracing.com/membersite/member/LeagueView.do?league=3483){:target="_blank"} |2023 Australian Formula Ford E\-Series |Australia-NZ |128 |2830 |Fixed |Autodromo Nazionale Monza |Tue, July 25 05:15AM EDT |Tue, July 25 10:15AM BST |Tue, July 25 07:15PM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |Monthly Special Events |Australia-NZ |58 |2076 |Both | | | | |
 |[FRG \- S5000](https://members.iracing.com/membersite/member/LeagueView.do?league=5610){:target="_blank"} |2023 Racekraft Simulations S5000 Eseries |Australia-NZ |44 |3658 | | | | | |
-|[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |Season 3 |Australia-NZ |38 |1927 | |Hungaroring |Wed, July 19 03:30AM EDT |Wed, July 19 08:30AM BST |Wed, July 19 05:30PM AEST |
+|[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |Season 3 |Australia-NZ |38 |1919 | | | | | |
 |[FRG \- F4A](https://members.iracing.com/membersite/member/LeagueView.do?league=9819){:target="_blank"} |2023 Motorsport Australia F4 eSports Cup |Australia-NZ |38 |3438 | | | | | |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |RPR Season 29 \- Road to the V8SC |Australia-NZ |32 |2548 |Open |Oran Park Raceway |Tue, July 25 05:58AM EDT |Tue, July 25 10:58AM BST |Tue, July 25 07:58PM AEST |
 |[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Special Events |Australia-NZ |31 |1536 |Both | | | | |
+|[VRace Motorsport Australia Formula Vee National Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9116){:target="_blank"} |Vrace Motorsport Australia 2023 Season |Australia-NZ |30 |2235 | | | | | |
 |[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |F1 Shadow Series |Australia-NZ |29 |1990 | | | | | |
-|[VRace Motorsport Australia Formula Vee National Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9116){:target="_blank"} |Vrace Motorsport Australia 2023 Season |Australia-NZ |29 |2141 | |Barber Motorsports Park |Wed, July 19 06:00AM EDT |Wed, July 19 11:00AM BST |Wed, July 19 08:00PM AEST |
+|[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |23S1 \| Formula Ford Championship |Australia-NZ |23 |2776 |Fixed | | | | |
 |[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |TOYOSIM Formula 3 Series 2023 Season 2 |Australia-NZ |22 |1895 | | | | | |
-|[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |23S1 \| Formula Ford Championship |Australia-NZ |21 |2760 |Fixed |Brands Hatch Circuit |Wed, July 19 04:30AM EDT |Wed, July 19 09:30AM BST |Wed, July 19 06:30PM AEST |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |STONECOLD RACING POP\-UP EVENTS |Australia-NZ |20 |1461 | | | | | |
 |[Retro Karting Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=4488){:target="_blank"} |Cataclysm Computers RKA GT3 Season 1 |Australia-NZ |13 |1242 | | | | | |
 

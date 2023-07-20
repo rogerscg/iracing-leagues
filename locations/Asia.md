@@ -13,14 +13,6 @@
 
 # Sports Car
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------|--------|------|------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |22 |2932 | | | | | |
-
 ### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  
