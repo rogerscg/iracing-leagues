@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 358 DIRT MODS |North America |45 |2243 |Open | | | | |
-|[A\-Main Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9695){:target="_blank"} |A\-Main 358 Dirt Modified Series |North America |42 |2161 |Fixed | | | | |
+|[A\-Main Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9695){:target="_blank"} |A\-Main 358 Dirt Modified Series |North America |42 |2182 |Fixed | | | | |
 |[LSR Dirt Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9082){:target="_blank"} |LSR Dirt Shootout 358 Modifieds |North America |35 |2473 | |Lucas Oil Speedway |Sun, July 23 08:00PM EDT |Mon, July 24 01:00AM BST |Mon, July 24 10:00AM AEST |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |North America |26 |2020 |Open | | | | |
 |[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |358 |North America |20 |1846 | |Chili Bowl |Mon, July 24 08:30PM EDT |Tue, July 25 01:30AM BST |Tue, July 25 10:30AM AEST |
@@ -25,8 +25,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |big block mayhem |Australia-NZ |79 |3135 | | | | | |
-|[Short Bus Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9761){:target="_blank"} |SBSS |North America |32 |2844 |Fixed | | | | |
+|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |big block mayhem |Australia-NZ |76 |3049 | | | | | |
+|[Short Bus Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9761){:target="_blank"} |SBSS |North America |26 |2886 |Fixed | | | | |
 |[Sheet Metal Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6185){:target="_blank"} |Big Block Fixed |North America |21 |2582 | | | | | |
 |[Dirt Anarchy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9028){:target="_blank"} |Season 3 Anarchy Big Blocks |North America |19 |2472 | | | | | |
 
@@ -36,7 +36,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|------------------------------------|------------------------|------------------------|-------------------------|
-|[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |limited late models |North America |19 |1796 | |Federated Auto Parts Raceway at I-55 |Sun, July 23 08:30PM EDT |Mon, July 24 01:30AM BST |Mon, July 24 10:30AM AEST |
+|[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |limited late models |North America |17 |1803 | |Federated Auto Parts Raceway at I-55 |Sun, July 23 08:30PM EDT |Mon, July 24 01:30AM BST |Mon, July 24 10:30AM AEST |
 
 ### Dirt Late Model - Pro
 
@@ -44,10 +44,10 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|------------------------------------|------------------------|------------------------|-------------------------|
-|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Pro Late Model All Stars Tour 2023 |Australia-NZ |67 |3101 | |Cedar Lake Speedway |Fri, July 21 06:30AM EDT |Fri, July 21 11:30AM BST |Fri, July 21 08:30PM AEST |
+|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Pro Late Model All Stars Tour 2023 |Australia-NZ |73 |3075 | |The Dirt Track at Charlotte |Fri, July 28 06:30AM EDT |Fri, July 28 11:30AM BST |Fri, July 28 08:30PM AEST |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |North America |57 |2529 |Open |Weedsport Speedway |Sun, July 23 08:30PM EDT |Mon, July 24 01:30AM BST |Mon, July 24 10:30AM AEST |
 |[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 4 \- Pro Dirt Late Models |North America |51 |2249 | |The Dirt Track at Charlotte |Sun, July 23 07:48PM EDT |Mon, July 24 12:48AM BST |Mon, July 24 09:48AM AEST |
-|[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |Summer DIRT Late Models |North America |43 |2675 | | | | | |
+|[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |Summer DIRT Late Models |North America |42 |2712 | | | | | |
 |[Hammer Down Bandits](https://members.iracing.com/membersite/member/LeagueView.do?league=9930){:target="_blank"} |Summer 2023 |North America |27 |1631 | |Bristol Motor Speedway |Sun, July 23 07:00PM EDT |Mon, July 24 12:00AM BST |Mon, July 24 09:00AM AEST |
 |[Allied Pro Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4617){:target="_blank"} |Allied Pro Late Model Series |North America |24 |1956 |Open |Lincoln Speedway |Thu, July 27 08:30PM EDT |Fri, July 28 01:30AM BST |Fri, July 28 10:30AM AEST |
 |[Over The Limit](https://members.iracing.com/membersite/member/LeagueView.do?league=6425){:target="_blank"} |Season 3 Pro Late Models |North America |24 |2453 | |Port Royal Speedway |Tue, July 25 08:00PM EDT |Wed, July 26 01:00AM BST |Wed, July 26 10:00AM AEST |
@@ -121,9 +121,10 @@
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |Short Summer 360 Narc League |North America |29 |3022 |Open | | | | |
 |[Side Bite Racing League Sponsored by White Knuckle](https://members.iracing.com/membersite/member/LeagueView.do?league=7921){:target="_blank"} |360 Wing Sprints Series |North America |22 |2489 | | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |WEEK 13 \- HIGH LIMIT |North America |21 |2289 |Open | | | | |
-|[The Kohort \- DIRT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9714){:target="_blank"} |Pilot |North America |20 |1887 |Both | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Raiders "C" Division |North America |15 |2170 |Open | | | | |
 |[Turn 3 Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=5270){:target="_blank"} |T3E 360 Winged Sprints |North America |12 |1875 |Open | | | | |
+|[KCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=9075){:target="_blank"} |monstar energy 360 sprintcars |Australia-NZ |11 |1927 |Open | | | | |
+|[The Kohort \- DIRT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9714){:target="_blank"} |Pilot |North America |11 |1848 |Both | | | | |
 
 ### Dirt SprintCar - 360wingless
 
@@ -173,7 +174,7 @@
 |[T&A Motorsports Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7420){:target="_blank"} |T&A Motorsport Dirt Street Stocks 3 |North America |39 |3642 | | | | | |
 |[\#0 5150 Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7269){:target="_blank"} |Three Knotty Tails Street Stock Series |North America |25 |1643 |Fixed | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- STREET STOCKS |North America |24 |2265 |Open | | | | |
-|[Eichstadt Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=4034){:target="_blank"} |Dirt Street Stock Series |North America |18 |3736 | | | | | |
+|[Eichstadt Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=4034){:target="_blank"} |Dirt Street Stock Series |North America |15 |3848 | | | | | |
 |[TWB Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7384){:target="_blank"} |TWB Fixed Street Stocks |North America |14 |2439 |Both | | | | |
 |[Dirt Anarchy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9028){:target="_blank"} |Dirt Anarchy S3 DSS |North America |10 |2369 | | | | | |
 |[Outcast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7861){:target="_blank"} |ORL DIRT TO DAYTONA |North America |10 |1421 | | | | | |
@@ -206,7 +207,7 @@
 |[Extreme Forces DIRTKARS](https://members.iracing.com/membersite/member/LeagueView.do?league=7932){:target="_blank"} |EFRL DIRTKARS SEASON 4 |North America |27 |1940 | |The Dirt Track at Charlotte |Thu, July 27 08:30PM EDT |Fri, July 28 01:30AM BST |Fri, July 28 10:30AM AEST |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |Monday Sprint Series |North America |25 |1506 |Fixed | | | | |
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |DIRT NIGHT \- 2023 SPRING SEASON |North America |22 |2348 |Open | | | | |
-|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Tuesday Dirt Ovals |North America |21 |1475 |Both | | | | |
+|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Tuesday Dirt Ovals |North America |21 |1475 |Both |Knoxville Raceway |Tue, July 25 08:15PM EDT |Wed, July 26 01:15AM BST |Wed, July 26 10:15AM AEST |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |Monday 358/LLM series |North America |20 |1545 |Fixed | | | | |
 |[ARCS Xtreme Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=9326){:target="_blank"} |Dirt 2023 |North America |15 |1420 | | | | | |
 |[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2023 Dirty Thursdays Dirt Oval Racing |North America |15 |1447 |Fixed |Lanier National Speedway |Thu, July 27 09:00PM EDT |Fri, July 28 02:00AM BST |Fri, July 28 11:00AM AEST |
