@@ -17,19 +17,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-------------------------------|------------------------|------------------------|-------------------------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Exhibition Race |Africa |37 |2284 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-------------------------------|------------------------|------------------------|-------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Western Grinding Prototype Progression Series |North America |33 |1302 |Both |Circuito de Jerez - Ángel Nieto |Thu, July 27 08:00PM EDT |Fri, July 28 01:00AM BST |Fri, July 28 10:00AM AEST |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |Vrije Training |Europe |18 |2495 |Open | | | | |
+|[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GTP/LMP3 Practice |North America |17 |None |Open | | | | |
 
 ### Ligier JS P320
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------------------------|------------------------|------------------------|---------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship |Europe |64 |2352 |Fixed |Brands Hatch Circuit |Sat, July 29 02:00PM EDT |Sat, July 29 07:00PM BST |Sun, July 30 04:00AM AEST |
-|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |54 |2775 |Open |Circuito de Jerez - Ángel Nieto |Mon, July 24 01:30PM EDT |Mon, July 24 06:30PM BST |Tue, July 25 03:30AM AEST |
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |55 |2759 |Open |Road America |Mon, July 31 01:30PM EDT |Mon, July 31 06:30PM BST |Tue, August 01 03:30AM AEST |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |16\.1 Sunday |North America |28 |1962 |Both | | | | |
 |[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S03\-2023 LMP3 |Europe |28 |2315 | | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2023\-S3 Tuesday LMP3 |North America |13 |1571 |Both |Circuito de Jerez - Ángel Nieto |Tue, July 25 08:00PM EDT |Wed, July 26 01:00AM BST |Wed, July 26 10:00AM AEST |
@@ -58,7 +58,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2023S3 |Europe |71 |2976 |Open | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2023S3 |Europe |71 |2976 |Open |Autódromo José Carlos Pace |Sun, July 30 02:40PM EDT |Sun, July 30 07:40PM BST |Mon, July 31 04:40AM AEST |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 S2 SRF3 |North America |33 |2561 |Open | | | | |
 

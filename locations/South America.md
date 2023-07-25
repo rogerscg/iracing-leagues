@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |40 |2845 | |Pocono Raceway |Mon, July 24 06:00PM EDT |Mon, July 24 11:00PM BST |Tue, July 25 08:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------|------------------------|------------------------|---------------------------|
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |40 |2890 | |Richmond Raceway |Mon, July 31 06:00PM EDT |Mon, July 31 11:00PM BST |Tue, August 01 08:00AM AEST |
 
 # Open-wheel
 
@@ -35,7 +35,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
-|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |24 |2439 | | | | | |
+|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |21 |2390 | | | | | |
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |21 |2804 | |Circuit de Spa-Francorchamps |Thu, July 27 06:00PM EDT |Thu, July 27 11:00PM BST |Fri, July 28 08:00AM AEST |
 
 # Sports Car
@@ -55,7 +55,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |33 |1762 | |Circuit de Spa-Francorchamps |Tue, July 25 05:00PM EDT |Tue, July 25 10:00PM BST |Wed, July 26 07:00AM AEST |
-|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |31 |4146 | |Circuit de Spa-Francorchamps |Mon, July 24 05:00PM EDT |Mon, July 24 10:00PM BST |Tue, July 25 07:00AM AEST |
+|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |31 |4133 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -73,9 +73,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |28 |2112 | |Okayama International Circuit |Mon, July 24 05:25PM EDT |Mon, July 24 10:25PM BST |Tue, July 25 07:25AM AEST |
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |29 |2177 | | | | | |
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T3\-2023 |South America |22 |2778 | |Virginia International Raceway |Wed, July 26 05:00PM EDT |Wed, July 26 10:00PM BST |Thu, July 27 07:00AM AEST |
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Campeonato Secreto |South America |18 |1408 | | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Campeonato Secreto |South America |19 |1403 | | | | | |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -91,7 +91,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"} |T2\-2023 |South America |27 |3108 | | | | | |
+|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"} |T2\-2023 |South America |18 |3513 | | | | | |
 
 ### Touring Car
 

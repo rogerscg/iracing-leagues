@@ -27,7 +27,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
 |[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |2023 \- Season 1 \| Raceface\.Pro TCR League |Africa |37 |1987 |Both | | | | |
 
-# Prototype
+# Multi-class/Unclassified
 
 ### Hosted All Cars Class
 
@@ -35,5 +35,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Exhibition Race |Africa |37 |2284 | | | | | |
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Exhibition Race |Africa |39 |2284 | | | | | |
 
