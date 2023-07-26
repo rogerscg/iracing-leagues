@@ -34,8 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
-|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |21 |2390 | | | | | |
+|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
+|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |21 |2390 | |Circuit de Spa-Francorchamps |Wed, August 02 05:20PM EDT |Wed, August 02 10:20PM BST |Thu, August 03 07:20AM AEST |
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |21 |2804 | |Circuit de Spa-Francorchamps |Thu, July 27 06:00PM EDT |Thu, July 27 11:00PM BST |Fri, July 28 08:00AM AEST |
 
 # Sports Car
@@ -53,8 +53,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
-|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |33 |1762 | |Circuit de Spa-Francorchamps |Tue, July 25 05:00PM EDT |Tue, July 25 10:00PM BST |Wed, July 26 07:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
+|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |33 |1791 | | | | | |
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |31 |4133 | | | | | |
 
 ### Hosted All Cars Class
@@ -99,7 +99,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |23 |2954 | | | | | |
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |22 |3011 | | | | | |
 |[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T2\-2023 |South America |12 |3509 | | | | | |
 
 ### Toyota GR86
