@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------|--------|------|------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |17 |2378 | | | | | |
+|------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |13 |2348 | |Michigan International Speedway |Fri, August 04 08:30AM EDT |Fri, August 04 01:30PM BST |Fri, August 04 10:30PM AEST |
 
 # Sports Car
 
@@ -19,7 +19,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |NLR 911 Cup Asia League 2023 |Asia |21 |2500 | | | | | |
+|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |NLR 911 Cup Asia League 2023 |Asia |16 |2559 | | | | | |
 
 ### Toyota GR86
 
@@ -27,7 +27,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|---------------------|------------------------|------------------------|-------------------------|
-|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |26 |2087 | |Rudskogen Motorsenter |Wed, July 26 08:00AM EDT |Wed, July 26 01:00PM BST |Wed, July 26 10:00PM AEST |
+|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |27 |2087 | |Rudskogen Motorsenter |Fri, July 28 09:00AM EDT |Fri, July 28 02:00PM BST |Fri, July 28 11:00PM AEST |
 
 # Multi-class/Unclassified
 
