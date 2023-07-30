@@ -8,16 +8,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|------------------------|--------------------------|--------------------------|---------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[League Zero \- Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season 7 |North America |42 |1974 |Fixed |Oulton Park Circuit |Thu, August 03 08:00PM EDT |Fri, August 04 01:00AM BST |Fri, August 04 10:00AM AEST |
 |[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2023\-3 |Europe |32 |2199 |Fixed | | | | |
 |[\#0 Midwest\-Motorsports\.com F3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8054){:target="_blank"} |F3 \- Season 4 |North America |29 |1890 |Fixed |Homestead Miami Speedway |Tue, August 01 07:00PM EDT |Wed, August 02 12:00AM BST |Wed, August 02 09:00AM AEST |
 |[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |F3 |Europe |29 |2118 |Fixed | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C Wings'N'Slicks Formula 3 Series |Australia-NZ |29 |2002 |Both |Knockhill Racing Circuit |Fri, August 04 05:05AM EDT |Fri, August 04 10:05AM BST |Fri, August 04 07:05PM AEST |
-|[Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"} |O4A 2023 S3 |North America |26 |1816 |Fixed | | | | |
-|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |F3 Season 6 |North America |25 |1990 |Open |Hungaroring |Sat, July 29 09:00PM EDT |Sun, July 30 02:00AM BST |Sun, July 30 11:00AM AEST |
+|[Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"} |O4A 2023 S3 |North America |26 |1816 |Fixed |Circuit Park Zandvoort |Wed, August 02 07:00PM EDT |Thu, August 03 12:00AM BST |Thu, August 03 09:00AM AEST |
+|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |F3 Season 6 |North America |25 |1990 |Open |Donington Park Racing Circuit |Sat, August 05 09:00PM EDT |Sun, August 06 02:00AM BST |Sun, August 06 11:00AM AEST |
+|[The Simpletons Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |The Simpletons Formula 3 Championship, Season 2 |North America |12 |2189 |Fixed |Suzuka International Racing Course |Wed, August 02 02:00PM EDT |Wed, August 02 07:00PM BST |Thu, August 03 04:00AM AEST |
 |[Weston's Monday Night Wacky Races\!](https://members.iracing.com/membersite/member/LeagueView.do?league=6367){:target="_blank"} |Season 2023 Dallara F3 |North America |12 |1808 | |Red Bull Ring |Mon, July 31 08:00PM EDT |Tue, August 01 01:00AM BST |Tue, August 01 10:00AM AEST |
-|[The Simpletons Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |The Simpletons Formula 3 Championship, Season 2 |North America |11 |None |Fixed |Circuit Zolder |Sat, July 29 02:00PM EDT |Sat, July 29 07:00PM BST |Sun, July 30 04:00AM AEST |
 
 ### Dallara IR18
 
@@ -29,7 +29,7 @@
 |[SAAC Offseason Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9899){:target="_blank"} |SAAC OFFSEASON SERIES: INDYCAR |North America |39 |2121 |Fixed | | | | |
 |[Lionheart Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3172){:target="_blank"} |2023 Open Wheel Season |North America |37 |3238 |Fixed | | | | |
 |[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Open Wheel Series Practice |North America |35 |None |Fixed | | | | |
-|[Velocity Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5146){:target="_blank"} |IR18 \- SEASON 9 |North America |35 |2201 |Fixed |The Milwaukee Mile |Sat, July 29 01:00PM EDT |Sat, July 29 06:00PM BST |Sun, July 30 03:00AM AEST |
+|[Velocity Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5146){:target="_blank"} |IR18 \- SEASON 9 |North America |35 |2274 |Fixed | | | | |
 |[Area 51/Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |2023 Season 2 |North America |30 |2149 | | | | | |
 |[ABN Open Wheel Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=3837){:target="_blank"} |2023 ABN Champ Car World Series season |North America |29 |1961 |Fixed | | | | |
 |[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/2 |South America |25 |2568 | | | | | |
@@ -37,12 +37,12 @@
 |[Lionheart Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3172){:target="_blank"} |2023 Warm Up 2 |North America |24 |3101 |Fixed | | | | |
 |[Great Lakes Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |IndyCar Summer Series |North America |23 |1997 |Fixed |Pocono Raceway |Tue, August 01 06:23PM EDT |Tue, August 01 11:23PM BST |Wed, August 02 08:23AM AEST |
 |[URL Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4386){:target="_blank"} |Season 2 |North America |19 |1494 |Fixed | | | | |
-|[CA Open\-Wheel Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6595){:target="_blank"} |IndyCar Season 4 |Europe |18 |2260 |Fixed | | | | |
 |[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8424){:target="_blank"} |Season Two |North America |16 |2202 |Fixed | | | | |
+|[CA Open\-Wheel Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6595){:target="_blank"} |IndyCar Season 4 |Europe |14 |2293 |Fixed | | | | |
 |[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |ABP IndyCar S2 |North America |13 |1104 | |Michigan International Speedway |Thu, August 03 09:00PM EDT |Fri, August 04 02:00AM BST |Fri, August 04 11:00AM AEST |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCar July 2023 Championship |North America |12 |1865 | |Kentucky Speedway |Sat, August 05 11:00AM EDT |Sat, August 05 04:00PM BST |Sun, August 06 01:00AM AEST |
 |[Overtake by Burnt Rubber Racing Warehouse](https://members.iracing.com/membersite/member/LeagueView.do?league=9953){:target="_blank"} |Overtake Exhibition Races: Inaugural Season |North America |11 |2728 |Fixed | | | | |
 |[Overtake by Burnt Rubber Racing Warehouse](https://members.iracing.com/membersite/member/LeagueView.do?league=9953){:target="_blank"} |The Inaugural Season of Overtake Presented by BRRW |North America |11 |1843 |Fixed | | | | |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCar July 2023 Championship |North America |11 |1921 | |iRacing Superspeedway |Sat, July 29 11:00AM EDT |Sat, July 29 04:00PM BST |Sun, July 30 01:00AM AEST |
 |[Apollo Racing Club \- IMSARC](https://members.iracing.com/membersite/member/LeagueView.do?league=8952){:target="_blank"} |IR18 season 1 |North America |10 |1799 | | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCar June 2023 |North America |10 |1812 | | | | | |
 
@@ -52,10 +52,10 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|---------------------------------------|--------------------------|--------------------------|---------------------------|
-|[Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5567){:target="_blank"} |F\.A\.R\.T\. IR\-01 2023\-1 |North America |27 |2133 |Fixed | | | | |
+|[Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5567){:target="_blank"} |F\.A\.R\.T\. IR\-01 2023\-1 |North America |27 |2133 |Fixed |World Wide Technology Raceway (Gateway) |Sun, August 06 07:00PM EDT |Mon, August 07 12:00AM BST |Mon, August 07 09:00AM AEST |
 |[FTF Racing FTF1](https://members.iracing.com/membersite/member/LeagueView.do?league=6820){:target="_blank"} |2021 FTF1 |North America |23 |2772 |Fixed | | | | |
+|[CFR \- Supersonic Saturdays](https://members.iracing.com/membersite/member/LeagueView.do?league=9894){:target="_blank"} |Season 1 |Australia-NZ |14 |2128 | |Michigan International Speedway |Sat, August 05 04:30AM EDT |Sat, August 05 09:30AM BST |Sat, August 05 06:30PM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |CCWT IV \- 2023 |North America |13 |2069 |Fixed |World Wide Technology Raceway (Gateway) |Thu, August 03 07:00PM EDT |Fri, August 04 12:00AM BST |Fri, August 04 09:00AM AEST |
-|[CFR \- Supersonic Saturdays](https://members.iracing.com/membersite/member/LeagueView.do?league=9894){:target="_blank"} |Season 1 |Australia-NZ |12 |2017 | |Autódromo José Carlos Pace |Sat, July 29 04:30AM EDT |Sat, July 29 09:30AM BST |Sat, July 29 06:30PM AEST |
 
 ### FIA F4
 
@@ -65,7 +65,7 @@
 |------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-----------------------|--------------------------|--------------------------|---------------------------|
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |16\.1 Tuesday |North America |52 |1820 |Both | | | | |
 |[Alt\-F4 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8481){:target="_blank"} |Season 5 \- The New Dawn |North America |41 |2363 | | | | | |
-|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 8 \- British F4 |Europe |41 |1813 |Both | | | | |
+|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 8 \- British F4 |Europe |41 |1813 |Both |Hungaroring |Sun, August 06 03:00PM EDT |Sun, August 06 08:00PM BST |Mon, August 07 05:00AM AEST |
 |[F1BC Formula Heineken 0\.0](https://members.iracing.com/membersite/member/LeagueView.do?league=8629){:target="_blank"} |SEASON 2023/2 |South America |36 |3212 | | | | | |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Season 4 |Europe |33 |2411 |Both | | | | |
 |[ESOM Formula World Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=9662){:target="_blank"} |ESOM Formula World Cup 2023 |North America |27 |3886 |Fixed | | | | |
@@ -81,17 +81,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |FV WW 2023S3 |North America |36 |2329 |Open |Mid-Ohio Sports Car Course |Sat, July 29 02:30PM EDT |Sat, July 29 07:30PM BST |Sun, July 30 04:30AM AEST |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C Up & Comers Championship |Australia-NZ |15 |1232 |Both | | | | |
+|----------------------------------------------------------------------------------------------------------------|------------|-------------|-------|----|-----|--------------------|--------------------------|--------------------------|---------------------------|
+|[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |FV WW 2023S3 |North America |39 |2326 |Open |Summit Point Raceway |Sat, August 05 02:30PM EDT |Sat, August 05 07:30PM BST |Sun, August 06 04:30AM AEST |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Retro Series Practice |North America |36 |None |Fixed | | | | |
+|--------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------------------------|------------------------|------------------------|-------------------------|
+|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Retro Series Practice |North America |37 |None |Fixed |[Legacy] Phoenix Raceway - 2008 |Sun, July 30 08:00PM EDT |Mon, July 31 01:00AM BST |Mon, July 31 10:00AM AEST |
 
 ### Indy Pro 2000 PM-18
 
@@ -102,7 +101,7 @@
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 27 PM\-18 |North America |37 |1546 |Fixed |Sebring International Raceway |Wed, August 02 02:30PM EDT |Wed, August 02 07:30PM BST |Thu, August 03 04:30AM AEST |
 |[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Indy Pro 23S3 |North America |20 |1298 |Open |Sebring International Raceway |Thu, August 03 07:00PM EDT |Fri, August 04 12:00AM BST |Fri, August 04 09:00AM AEST |
 |[Leading Edge Sim Series: "Where LESS is More\!"](https://members.iracing.com/membersite/member/LeagueView.do?league=4532){:target="_blank"} |Less Pro 2000 \- Season 1 |North America |15 |1943 |Fixed | | | | |
-|[ABN Open Wheel Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=3837){:target="_blank"} |2023 ABN Formula Atlantic season |North America |13 |1896 |Fixed | | | | |
+|[ABN Open Wheel Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=3837){:target="_blank"} |2023 ABN Formula Atlantic season |North America |10 |1921 |Fixed | | | | |
 
 ### Lotus 79
 
@@ -151,23 +150,23 @@
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |RPR Season 29 \- Road to the V8SC |Australia-NZ |32 |2533 |Open |Mid-Ohio Sports Car Course |Tue, August 01 05:58AM EDT |Tue, August 01 10:58AM BST |Tue, August 01 07:58PM AEST |
 |[The Norwegian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8820){:target="_blank"} |Ray FF1600 2023 |Europe |29 |1983 |Open | | | | |
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |2023 S2 |North America |26 |1893 | | | | | |
-|[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 2 USA |Australia-NZ |23 |2045 | |Watkins Glen International |Sat, July 29 10:00PM EDT |Sun, July 30 03:00AM BST |Sun, July 30 12:00PM AEST |
+|[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 2 USA |Australia-NZ |23 |2099 | |Watkins Glen International |Mon, July 31 04:53AM EDT |Mon, July 31 09:53AM BST |Mon, July 31 06:53PM AEST |
 |[Aussie Formula Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6368){:target="_blank"} |Formula Ford \- Season 1 |Australia-NZ |20 |1567 |Fixed | | | | |
 |[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 1 |Australia-NZ |19 |2332 | | | | | |
 |[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2023 Summer Ray FF |North America |16 |1510 |Fixed |Mid-Ohio Sports Car Course |Mon, July 31 08:00PM EDT |Tue, August 01 01:00AM BST |Tue, August 01 10:00AM AEST |
 |[NXTGEN FF1600 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9610){:target="_blank"} |FF1600 League Season 1 |Europe |13 |2200 | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Off\-Road Grand Prix: Super 1600 |North America |12 |2387 |Fixed |Charlotte Motor Speedway |Sat, July 29 08:00PM EDT |Sun, July 30 01:00AM BST |Sun, July 30 10:00AM AEST |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Off\-Road Grand Prix: Super 1600 |North America |12 |2329 |Fixed |Atlanta Motor Speedway |Sat, August 05 08:00PM EDT |Sun, August 06 01:00AM BST |Sun, August 06 10:00AM AEST |
 
 ### Skip Barber Race Series
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|---------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|---------------|--------------------------|--------------------------|---------------------------|
 |[Sunday Night Skippy](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |SUNDAY NIGHT SKIPPY S15 |North America |40 |2970 |Open |Tsukuba Circuit |Sun, July 30 06:00PM EDT |Sun, July 30 11:00PM BST |Mon, July 31 08:00AM AEST |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 24 |Europe |33 |2664 |Both | | | | |
 |[Skip Barber Challenge Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=9160){:target="_blank"} |2023 |Europe |16 |3787 |Open | | | | |
-|[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Skip Barber \- Season\#07 |Europe |14 |1966 |Both | | | | |
+|[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Skip Barber \- Season\#07 |Europe |14 |1966 |Both |Red Bull Ring |Sun, August 06 12:00PM EDT |Sun, August 06 05:00PM BST |Mon, August 07 02:00AM AEST |
 
 ### USF 2000
 
