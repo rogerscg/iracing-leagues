@@ -19,7 +19,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/2 |South America |25 |2568 | | | | | |
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/2 |South America |24 |2590 | | | | | |
 
 ### FIA F4
 
@@ -53,27 +53,27 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------------------------|--------------------------|---------------------------|
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/2 |South America |35 |2106 | | | | | |
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |33 |1791 | | | | | |
-|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |31 |4133 | | | | | |
+|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |31 |4133 | |Road Atlanta |Mon, August 07 05:00PM EDT |Mon, August 07 10:00PM BST |Tue, August 08 07:00AM AEST |
+|[Fera das Pistas](https://members.iracing.com/membersite/member/LeagueView.do?league=9776){:target="_blank"} |Pro Racing Fera das Pistas GT3 |South America |28 |3449 | | | | | |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 T2 2023 |South America |45 |1877 | | | | | |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/2 |South America |37 |2056 | | | | | |
-|[Fera das Pistas](https://members.iracing.com/membersite/member/LeagueView.do?league=9776){:target="_blank"} |Pro Racing Fera das Pistas GT3 |South America |32 |3394 | | | | | |
+|------------------------------------------------------------------------------------------------------------------|---------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 T2 2023 |South America |43 |1869 | | | | | |
 
 ### Mazda MX-5 Cup 2016
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|---------------------|------------------------|--------------------------|---------------------------|
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |29 |2200 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |29 |2200 | |Okayama International Circuit |Mon, August 07 05:25PM EDT |Mon, August 07 10:25PM BST |Tue, August 08 07:25AM AEST |
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T3\-2023 |South America |23 |2821 | | | | | |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Campeonato Secreto |South America |19 |1403 | |Rudskogen Motorsenter |Mon, July 31 07:40PM EDT |Tue, August 01 12:40AM BST |Tue, August 01 09:40AM AEST |
 
@@ -98,9 +98,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------------------------|--------------------------|---------------------------|
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------------------------|--------------------------|---------------------------|
 |[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |22 |3011 | |Road America |Thu, August 03 05:20PM EDT |Thu, August 03 10:20PM BST |Fri, August 04 07:20AM AEST |
-|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T2\-2023 |South America |12 |3509 | | | | | |
 
 ### Toyota GR86
 
@@ -109,7 +108,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-------------------------|------------------------|------------------------|---------------------------|
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/2 |South America |19 |2055 | |Long Beach Street Circuit |Mon, July 31 05:25PM EDT |Mon, July 31 10:25PM BST |Tue, August 01 07:25AM AEST |
-|[VRB \- Virtual Race Bahia](https://members.iracing.com/membersite/member/LeagueView.do?league=9658){:target="_blank"} |VRB \- Toyota Cup \- 2023\.1 |South America |14 |1843 | | | | | |
+|[VRB \- Virtual Race Bahia](https://members.iracing.com/membersite/member/LeagueView.do?league=9658){:target="_blank"} |VRB \- Toyota Cup \- 2023\.1 |South America |13 |1784 | | | | | |
 
 # Multi-class/Unclassified
 
