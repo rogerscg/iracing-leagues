@@ -28,8 +28,8 @@
 |----------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-------------|--------------------------|--------------------------|---------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Western Grinding Prototype Progression Series |North America |35 |1328 |Both |Road America |Thu, August 03 08:00PM EDT |Fri, August 04 01:00AM BST |Fri, August 04 10:00AM AEST |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GTP \+ LMP3 Season 1 |North America |31 |2044 |Open |Road America |Tue, August 01 07:30PM EDT |Wed, August 02 12:30AM BST |Wed, August 02 09:30AM AEST |
+|[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GTP/LMP3 Practice |North America |18 |None |Open | | | | |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |Vrije Training |Europe |18 |2495 |Open | | | | |
-|[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GTP/LMP3 Practice |North America |17 |None |Open |Road America |Mon, July 31 08:30PM EDT |Tue, August 01 01:30AM BST |Tue, August 01 10:30AM AEST |
 
 ### Ligier JS P320
 
@@ -38,8 +38,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|--------------------------|--------------------------|--------------------------|---------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship |Europe |64 |2369 |Fixed |Watkins Glen International |Sat, August 05 01:00PM EDT |Sat, August 05 06:00PM BST |Sun, August 06 03:00AM AEST |
-|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |55 |2759 |Open |Road America |Mon, July 31 01:30PM EDT |Mon, July 31 06:30PM BST |Tue, August 01 03:30AM AEST |
-|[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |16\.1 Sunday |North America |28 |1962 |Both | | | | |
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |55 |2760 |Open |Road Atlanta |Mon, August 07 01:30PM EDT |Mon, August 07 06:30PM BST |Tue, August 08 03:30AM AEST |
 |[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S03\-2023 LMP3 |Europe |28 |2315 | | | | | |
 |[Sampsoid GT3 Championship Practice Group](https://members.iracing.com/membersite/member/LeagueView.do?league=9746){:target="_blank"} |Session 1 Sampsoid GT3 Championship Practice Group |Europe |18 |1597 |Fixed | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2023\-S3 Tuesday LMP3 |North America |13 |1553 |Both |Road America |Tue, August 01 08:00PM EDT |Wed, August 02 01:00AM BST |Wed, August 02 10:00AM AEST |
