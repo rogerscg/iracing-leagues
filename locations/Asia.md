@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |13 |2348 | |Michigan International Speedway |Fri, August 04 08:30AM EDT |Fri, August 04 01:30PM BST |Fri, August 04 10:30PM AEST |
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |13 |2534 | |Michigan International Speedway |Fri, August 04 08:30AM EDT |Fri, August 04 01:30PM BST |Fri, August 04 10:30PM AEST |
 
 # Sports Car
 

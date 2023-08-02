@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-------------|--------|------|------|
-|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |15 |1731 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
+|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |15 |1731 | |Circuit de Spa-Francorchamps |Wed, August 09 01:15PM EDT |Wed, August 09 06:15PM BST |Thu, August 10 03:15AM AEST |
 
 ### Renault Clio
 
@@ -18,6 +18,14 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|-------------|--------|------|------|
 |[iRSA Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7082){:target="_blank"} |Clio Cup \| Season 1 |Africa |28 |2683 |Fixed | | | | |
+
+### Touring Car
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |TCR \| 2023 Season 2 \| Raceface\.Pro |Africa |31 |1957 |Both | | | | |
 
 # Multi-class/Unclassified
 

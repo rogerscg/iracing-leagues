@@ -8,9 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|----------------------|--------------------------|--------------------------|---------------------------|
-|[Minuteman Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9958){:target="_blank"} |MMR Summer Series |North America |23 |2537 |Both | | | | |
-|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Act III Dirt Tuesdays \- Pro II lite |North America |10 |1730 |Fixed |Atlanta Motor Speedway |Tue, August 01 06:35PM EDT |Tue, August 01 11:35PM BST |Wed, August 02 08:35AM AEST |
+|-------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
+|[Minuteman Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9958){:target="_blank"} |MMR Summer Series |North America |25 |2493 |Both | | | | |
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Act III Dirt Tuesdays \- Pro II lite |North America |10 |1748 |Fixed |[Legacy] Phoenix Raceway - 2008 |Tue, August 08 06:35PM EDT |Tue, August 08 11:35PM BST |Wed, August 09 08:35AM AEST |
 
 ### Pro 4 Truck
 
