@@ -21,14 +21,6 @@
 |------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------|--------|------|------|
 |[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |17 |2852 | | | | | |
 
-### Porsche 911 GT3 Cup (992)
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|----------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |NLR 911 Cup Asia League 2023 |Asia |16 |2559 | | | | | |
-
 ### Toyota GR86
 
 [Back to Top](#)  
