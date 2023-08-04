@@ -26,7 +26,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|--------------------------------|--------------------------|--------------------------|---------------------------|
+|[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusTrux S1 |Australia-NZ |26 |2426 | |Wild Horse Pass Motorsports Park |Thu, August 10 05:30AM EDT |Thu, August 10 10:30AM BST |Thu, August 10 07:30PM AEST |
 |[Off\-Road Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8482){:target="_blank"} |2023 iRacing \- Off\-Road Championship |North America |24 |7040 | |Bark River International Raceway |Wed, August 09 08:30PM EDT |Thu, August 10 01:30AM BST |Thu, August 10 10:30AM AEST |
-|[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusTrux S1 |Australia-NZ |20 |2392 | |Bark River International Raceway |Thu, August 03 05:30AM EDT |Thu, August 03 10:30AM BST |Thu, August 03 07:30PM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Off\-Road Grand Prix: Grand National Sport Truck |North America |13 |2442 |Fixed |Atlanta Motor Speedway |Sat, August 05 09:00PM EDT |Sun, August 06 02:00AM BST |Sun, August 06 11:00AM AEST |
 

@@ -98,8 +98,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------------------------|--------------------------|---------------------------|
-|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |22 |3011 | |Road America |Thu, August 03 05:20PM EDT |Thu, August 03 10:20PM BST |Fri, August 04 07:20AM AEST |
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |22 |3122 | | | | | |
 
 ### Toyota GR86
 
