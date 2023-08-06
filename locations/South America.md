@@ -40,14 +40,6 @@
 
 # Sports Car
 
-### BMW M4 GT3
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC BMW M Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |SEASON 2023/1 |South America |28 |3779 | | | | | |
-
 ### GT3 Class
 
 [Back to Top](#)  
