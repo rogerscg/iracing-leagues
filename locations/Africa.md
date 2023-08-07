@@ -9,15 +9,15 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
-|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |15 |1731 | |Circuit de Spa-Francorchamps |Sun, August 06 02:00PM EDT |Sun, August 06 07:00PM BST |Mon, August 07 04:00AM AEST |
+|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |15 |1731 | |Circuit de Spa-Francorchamps |Mon, August 07 02:00PM EDT |Mon, August 07 07:00PM BST |Tue, August 08 04:00AM AEST |
 
 ### Renault Clio
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[iRSA Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7082){:target="_blank"} |Clio Cup \| Season 1 |Africa |28 |2683 |Fixed | | | | |
+|----------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|[iRSA Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7082){:target="_blank"} |Clio Cup \| Season 1 |Africa |28 |2683 |Fixed |Donington Park Racing Circuit |Mon, August 14 01:30PM EDT |Mon, August 14 06:30PM BST |Tue, August 15 03:30AM AEST |
 
 ### Touring Car
 
