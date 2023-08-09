@@ -8,7 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|---------------|-------------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Minuteman Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9958){:target="_blank"} |MMR Summer Series |North America |27 |2254 |Both | | | | |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |STRASS Season 3 |North America |13 |1398 | | | | | |
 
 ### Pro 2 Lite Truck
@@ -16,9 +17,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
-|[Minuteman Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9958){:target="_blank"} |MMR Summer Series |North America |25 |2493 |Both | | | | |
-|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Act III Dirt Tuesdays \- Pro II lite |North America |10 |1748 |Fixed |[Legacy] Phoenix Raceway - 2008 |Tue, August 08 06:35PM EDT |Tue, August 08 11:35PM BST |Wed, August 09 08:35AM AEST |
+|-------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|-----------------------|--------------------------|--------------------------|---------------------------|
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Act III Dirt Tuesdays \- Pro II lite |North America |10 |1762 |Fixed |Lucas Oil Raceway (IRP) |Tue, August 15 06:35PM EDT |Tue, August 15 11:35PM BST |Wed, August 16 08:35AM AEST |
 
 ### Pro 4 Truck
 
