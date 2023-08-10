@@ -38,7 +38,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship |Europe |65 |2358 |Fixed |Barber Motorsports Park |Sat, August 12 01:00PM EDT |Sat, August 12 06:00PM BST |Sun, August 13 03:00AM AEST |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |56 |2727 |Open |Virginia International Raceway |Mon, August 14 01:30PM EDT |Mon, August 14 06:30PM BST |Tue, August 15 03:30AM AEST |
-|[Sampsoid GT3 Championship Practice Group](https://members.iracing.com/membersite/member/LeagueView.do?league=9746){:target="_blank"} |Session 1 Sampsoid GT3 Championship Practice Group |Europe |19 |1603 |Fixed | | | | |
+|[Sampsoid GT3 Championship Practice Group](https://members.iracing.com/membersite/member/LeagueView.do?league=9746){:target="_blank"} |Session 1 Sampsoid GT3 Championship Practice Group |Europe |19 |1603 |Fixed |Barber Motorsports Park |Thu, August 10 01:59PM EDT |Thu, August 10 06:59PM BST |Fri, August 11 03:59AM AEST |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2023\-S3 Tuesday LMP3 |North America |14 |1557 |Both |Virginia International Raceway |Tue, August 15 08:00PM EDT |Wed, August 16 01:00AM BST |Wed, August 16 10:00AM AEST |
 
 ### Radical SR10
