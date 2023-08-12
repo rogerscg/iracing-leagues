@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|---------------------------|--------------------------|--------------------------|---------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |39 |2891 | |Indianapolis Motor Speedway |Mon, August 14 06:00PM EDT |Mon, August 14 11:00PM BST |Tue, August 15 08:00AM AEST |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |38 |3026 | |Indianapolis Motor Speedway |Mon, August 14 06:00PM EDT |Mon, August 14 11:00PM BST |Tue, August 15 08:00AM AEST |
 
 # Open-wheel
 
@@ -65,7 +65,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |29 |2265 | | | | | |
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/2 |South America |27 |2320 | | | | | |
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T3\-2023 |South America |23 |2799 | | | | | |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Campeonato Secreto |South America |19 |1396 | | | | | |
 
