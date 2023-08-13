@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |25 |1932 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |25 |1932 | |WeatherTech Raceway at Laguna Seca |Sun, August 20 02:00PM EDT |Sun, August 20 07:00PM BST |Mon, August 21 04:00AM AEST |
 
 # Sports Car
 
