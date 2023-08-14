@@ -19,7 +19,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/2 |South America |24 |2628 | | | | | |
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/2 |South America |24 |2586 | | | | | |
 
 ### FIA F4
 
@@ -45,11 +45,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/2 |South America |35 |2114 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/2 |South America |35 |2129 | | | | | |
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |33 |1810 | | | | | |
-|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |31 |4140 | | | | | |
-|[Fera das Pistas](https://members.iracing.com/membersite/member/LeagueView.do?league=9776){:target="_blank"} |Pro Racing Fera das Pistas GT3 |South America |28 |3449 | | | | | |
+|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |31 |4140 | |Circuit des 24 Heures du Mans |Mon, August 21 05:00PM EDT |Mon, August 21 10:00PM BST |Tue, August 22 07:00AM AEST |
+|[Fera das Pistas](https://members.iracing.com/membersite/member/LeagueView.do?league=9776){:target="_blank"} |Pro Racing Fera das Pistas GT3 |South America |24 |3530 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -57,7 +57,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|---------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 T2 2023 |South America |44 |1875 | | | | | |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 T2 2023 |South America |42 |1868 | | | | | |
 
 ### Mazda MX-5 Cup 2016
 
