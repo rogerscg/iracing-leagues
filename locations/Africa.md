@@ -27,23 +27,23 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-------------|--------|------|------|
-|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |14 |1765 | | | | | |
+|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |15 |1765 | | | | | |
 
 ### Renault Clio
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
-|[iRSA Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7082){:target="_blank"} |Clio Cup \| Season 1 |Africa |28 |2683 |Fixed |Donington Park Racing Circuit |Mon, August 14 01:30PM EDT |Mon, August 14 06:30PM BST |Tue, August 15 03:30AM AEST |
+|----------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[iRSA Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7082){:target="_blank"} |Clio Cup \| Season 1 |Africa |28 |2212 |Fixed | | | | |
 
 ### Touring Car
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
-|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |TCR \| 2023 Season 2 \| Raceface\.Pro |Africa |34 |1957 |Both |WeatherTech Raceway at Laguna Seca |Tue, August 15 01:00PM EDT |Tue, August 15 06:00PM BST |Wed, August 16 03:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |TCR \| 2023 Season 2 \| Raceface\.Pro |Africa |39 |1952 |Both | | | | |
 
 # Multi-class/Unclassified
 
