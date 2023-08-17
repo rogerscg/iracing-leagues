@@ -34,9 +34,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------|--------------------------|--------------------------|---------------------------|
 |[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |22 |2432 | | | | | |
-|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |20 |2802 | | | | | |
+|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |20 |2802 | |Circuit Park Zandvoort |Thu, August 24 06:00PM EDT |Thu, August 24 11:00PM BST |Fri, August 25 08:00AM AEST |
 
 # Sports Car
 
