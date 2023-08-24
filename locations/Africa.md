@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
-|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |25 |1932 | |WeatherTech Raceway at Laguna Seca |Sun, August 20 02:00PM EDT |Sun, August 20 07:00PM BST |Mon, August 21 04:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |32 |2047 | | | | | |
 
 # Sports Car
 
@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
-|[DML South Africa](https://members.iracing.com/membersite/member/LeagueView.do?league=9549){:target="_blank"} |DML \| SIMX\-5 \| 23S4 |Africa |10 |1442 |Both |Virginia International Raceway |Wed, August 23 02:30PM EDT |Wed, August 23 07:30PM BST |Thu, August 24 04:30AM AEST |
+|-------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|-------------------|--------------------------|--------------------------|---------------------------|
+|[DML South Africa](https://members.iracing.com/membersite/member/LeagueView.do?league=9549){:target="_blank"} |DML \| SIMX\-5 \| 23S4 |Africa |11 |1400 |Both |Oulton Park Circuit |Wed, August 30 02:30PM EDT |Wed, August 30 07:30PM BST |Thu, August 31 04:30AM AEST |
 
 ### Porsche 911 GT3 Cup (992)
 
