@@ -42,8 +42,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |TCR \| 2023 Season 2 \| Raceface\.Pro |Africa |39 |1952 |Both | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------------|--------------------------|--------------------------|---------------------------|
+|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |TCR \| 2023 Season 2 \| Raceface\.Pro |Africa |39 |1952 |Both |Oulton Park Circuit |Tue, August 29 01:00PM EDT |Tue, August 29 06:00PM BST |Wed, August 30 03:00AM AEST |
+
+### Toyota GR86
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|---------------------------|--------------------------|--------------------------|---------------------------|
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |11 |None | |Fuji International Speedway |Mon, August 28 02:00PM EDT |Mon, August 28 07:00PM BST |Tue, August 29 04:00AM AEST |
 
 # Multi-class/Unclassified
 
@@ -53,5 +61,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Exhibition Race |Africa |35 |2108 | | | | | |
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Exhibition Race |Africa |23 |1971 | | | | | |
 

@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|----------------------|--------------------------|--------------------------|---------------------------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |17 |2852 | |Mount Panorama Circuit |Fri, August 25 08:50AM EDT |Fri, August 25 01:50PM BST |Fri, August 25 10:50PM AEST |
+|------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------|--------|------|------|
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |20 |2835 | | | | | |
 
 ### Toyota GR86
 
