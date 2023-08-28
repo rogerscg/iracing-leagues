@@ -19,6 +19,9 @@ All active leagues with upcoming races this week.
 
 Don't miss out on the latest league seasons! These seasons are starting the next two weeks.
 
+## [Largest Leagues](largest_leagues)
+
+The largest active leagues on iRacing.
 
 ## [New Leagues](new_leagues)
 
