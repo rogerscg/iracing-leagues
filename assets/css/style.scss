@@ -30,6 +30,9 @@ h1 a:hover {
     border-right: solid 1px #efefef;
     padding-right: 20px;
   }
+  .main-content:has(table) {
+    max-width: 90%;
+  }
   .main-content:has(#markdown-toc) {  
     margin-left: 350px;
     max-width: 90%;
