@@ -51,5 +51,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|---------------------------|--------------------------|--------------------------|---------------------------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |11 |None | |Fuji International Speedway |Mon, August 28 02:00PM EDT |Mon, August 28 07:00PM BST |Tue, August 29 04:00AM AEST |
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |16 |None | |Fuji International Speedway |Tue, August 29 02:00PM EDT |Tue, August 29 07:00PM BST |Wed, August 30 04:00AM AEST |
 
