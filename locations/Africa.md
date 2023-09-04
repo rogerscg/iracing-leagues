@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
-|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |32 |2047 | |Oulton Park Circuit |Sun, September 03 02:00PM EDT |Sun, September 03 07:00PM BST |Mon, September 04 04:00AM AEST |
+|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |32 |2047 | |Oulton Park Circuit |Tue, September 05 02:23PM EDT |Tue, September 05 07:23PM BST |Wed, September 06 04:23AM AEST |
 
 # Sports Car
 

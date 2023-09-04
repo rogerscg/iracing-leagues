@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |LMP2 Challenge \- Season 1 |Europe |20 |2250 |Both |Circuit de Spa-Francorchamps |Sun, September 03 03:00PM EDT |Sun, September 03 08:00PM BST |Mon, September 04 05:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |LMP2 Challenge \- Season 1 |Europe |22 |2260 |Both | | | | |
 |[\(XSLR\) \- Cross Series League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5860){:target="_blank"} |Season 6 |North America |15 |1836 |Open | | | | |
 
 ### HPD ARX-01c
@@ -25,10 +25,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GTP \+ LMP3 Season 1 |North America |46 |2036 |Open |Autodromo Nazionale Monza |Tue, September 05 07:30PM EDT |Wed, September 06 12:30AM BST |Wed, September 06 09:30AM AEST |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Western Grinding Prototype Progression Series |North America |38 |1373 |Both | | | | |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GTP/LMP3 Practice |North America |24 |None |Open | | | | |
+|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Season 7\.7 Multi\-Class Challenge |North America |19 |1288 |Open |Circuit des 24 Heures du Mans |Sun, September 10 07:00PM EDT |Mon, September 11 12:00AM BST |Mon, September 11 09:00AM AEST |
 
 ### Ligier JS P320
 
@@ -57,6 +58,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-----------------|-----------------------------|-----------------------------|------------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2023S3 |North America |75 |3005 |Open |Oran Park Raceway |Sun, September 03 02:40PM EDT |Sun, September 03 07:40PM BST |Mon, September 04 04:40AM AEST |
+|---------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------|-----------------------------|-----------------------------|------------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2023S3 |North America |78 |2995 |Open | | | | |
+|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |SPEC FORD SUNDAYS |North America |14 |1352 |Fixed |Road America |Sun, September 10 11:00AM EDT |Sun, September 10 04:00PM BST |Mon, September 11 01:00AM AEST |
 
