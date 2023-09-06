@@ -23,8 +23,8 @@
 |[Warriors 4 Peace Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3645){:target="_blank"} |2023 OPEN WHEEL |North America |40 |2890 | | | | | |
 |[Lionheart Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3172){:target="_blank"} |2023 Open Wheel Season |North America |37 |3464 |Fixed | | | | |
 |[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Open Wheel Series Practice |North America |33 |None |Fixed | | | | |
-|[SAAC Offseason Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9899){:target="_blank"} |SAAC OFFSEASON SERIES: INDYCAR |North America |32 |2480 |Fixed | | | | |
 |[Area 51/Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |2023 Season 3 |North America |31 |2387 | | | | | |
+|[SAAC Offseason Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9899){:target="_blank"} |SAAC OFFSEASON SERIES: INDYCAR |North America |28 |2415 |Fixed | | | | |
 |[TKC Esports Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8661){:target="_blank"} |TKC Esports Season 4 |North America |28 |1749 |Fixed | | | | |
 |[Great Lakes Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |IndyCar Summer Series |North America |25 |2096 |Fixed | | | | |
 |[ABN Open Wheel Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=3837){:target="_blank"} |2023 ABN Champ Car World Series season |North America |24 |1963 |Fixed | | | | |
@@ -32,6 +32,7 @@
 |[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/2 |South America |24 |2621 | | | | | |
 |[Lionheart Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3172){:target="_blank"} |2023 Warm Up 2 |North America |24 |3415 |Fixed | | | | |
 |[Apollo Racing Club \- IMSARC](https://members.iracing.com/membersite/member/LeagueView.do?league=8952){:target="_blank"} |IR18 season 1 |North America |20 |1810 | | | | | |
+|[GoRacing Sim League IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8712){:target="_blank"} |GoRacing Sim League 2023 Fall Indy Season |North America |16 |1727 | | | | | |
 |[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8424){:target="_blank"} |Season Two |North America |15 |2215 |Fixed | | | | |
 |[URL Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4386){:target="_blank"} |Season 2 |North America |12 |1285 |Fixed | | | | |
 |[Overtake by Burnt Rubber Racing Warehouse](https://members.iracing.com/membersite/member/LeagueView.do?league=9953){:target="_blank"} |Overtake Exhibition Races: Inaugural Season |North America |11 |2728 |Fixed | | | | |
@@ -53,12 +54,12 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[EVAL \- Eesti Virtuaalse Autospordi Liit](https://members.iracing.com/membersite/member/LeagueView.do?league=10052){:target="_blank"} |EST1 Racing F4 EMV 2023 |Europe |57 |1891 | |Okayama International Circuit |Tue, September 05 11:00AM EDT |Tue, September 05 04:00PM BST |Wed, September 06 01:00AM AEST |
+|[EVAL \- Eesti Virtuaalse Autospordi Liit](https://members.iracing.com/membersite/member/LeagueView.do?league=10052){:target="_blank"} |EST1 Racing F4 EMV 2023 |Europe |57 |1891 | |Okayama International Circuit |Thu, September 07 11:00AM EDT |Thu, September 07 04:00PM BST |Fri, September 08 01:00AM AEST |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2023 S3 Fia F4 Series |Europe |47 |2636 | | | | | |
-|[Alt\-F4 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8481){:target="_blank"} |Season 5 \- The New Dawn |North America |46 |2515 | | | | | |
+|[Alt\-F4 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8481){:target="_blank"} |Season 5 \- The New Dawn |North America |44 |2554 | | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 8 \- British F4 |Europe |41 |1841 |Both | | | | |
-|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Season 4 |Europe |40 |2402 |Both | | | | |
-|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |32 |2047 | |Oulton Park Circuit |Tue, September 05 02:23PM EDT |Tue, September 05 07:23PM BST |Wed, September 06 04:23AM AEST |
+|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Season 4 |Europe |36 |2400 |Both | | | | |
+|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |33 |1959 | | | | | |
 |[FRG Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=9999){:target="_blank"} |ASIA\-PACIFIC JUNIOR ESPORTS CHALLENGE |Australia-NZ |25 |1999 | | | | | |
 |[Shake 'n Bake Racing \-Elite Euro Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5161){:target="_blank"} |Season 13 |North America |13 |1654 |Fixed | | | | |
 
@@ -75,8 +76,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|-------------|-----------------------------|-----------------------------|------------------------------|
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Friday Formula 4 Series |North America |30 |1528 |Both | | | | |
+|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso Thursday Throwdown |Europe |13 |1456 | |Road America |Wed, September 06 03:00PM EDT |Wed, September 06 08:00PM BST |Thu, September 07 05:00AM AEST |
 
 ### Indy Pro 2000 PM-18
 
@@ -85,7 +87,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 27 PM\-18 |North America |41 |1592 |Fixed | | | | |
-|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Indy Pro 23S3 |North America |24 |1296 |Open | | | | |
+|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Indy Pro 23S3 |North America |24 |1285 |Open | | | | |
 |[Leading Edge Sim Series: "Where LESS is More\!"](https://members.iracing.com/membersite/member/LeagueView.do?league=4532){:target="_blank"} |Less Pro 2000 \- Season 1 |North America |12 |2127 |Fixed | | | | |
 
 ### Lotus 79
@@ -113,9 +115,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
-|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |23 |2745 | | | | | |
+|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |23 |2700 | | | | | |
 |[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |19 |2444 | | | | | |
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Grand Prix Series Season 3 |North America |14 |1135 | |Phillip Island Circuit |Thu, September 07 08:30PM EDT |Fri, September 08 01:30AM BST |Fri, September 08 10:30AM AEST |
+|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Grand Prix Series Season 3 |North America |13 |1154 | |Phillip Island Circuit |Thu, September 07 08:30PM EDT |Fri, September 08 01:30AM BST |Fri, September 08 10:30AM AEST |
 
 ### Pro Mazda
 
@@ -167,14 +169,14 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------|-------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[ORNL F1 League](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |ORNL F1 League 2023 |Europe |30 |2538 | | | | | |
+|[ORNL F1 League](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |ORNL F1 League 2023 |Europe |24 |2581 | | | | | |
 
 ### [Legacy] Dallara IR-05
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[GGR iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=6424){:target="_blank"} |Limeade Media Indycar S3 |North America |50 |2059 |Fixed |New Hampshire Motor Speedway |Tue, September 05 09:30PM EDT |Wed, September 06 02:30AM BST |Wed, September 06 11:30AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
+|[GGR iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=6424){:target="_blank"} |Limeade Media Indycar S3 |North America |50 |1957 |Fixed |Nashville Superspeedway |Tue, September 12 09:30PM EDT |Wed, September 13 02:30AM BST |Wed, September 13 11:30AM AEST |
 |[Classic Interdicted Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1381){:target="_blank"} |2023 Season |Europe |22 |2715 |Open | | | | |
 

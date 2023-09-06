@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
-|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |32 |2047 | |Oulton Park Circuit |Tue, September 05 02:23PM EDT |Tue, September 05 07:23PM BST |Wed, September 06 04:23AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |33 |1959 | | | | | |
 
 # Sports Car
 
@@ -34,8 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-------------|--------|------|------|
-|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |17 |1810 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
+|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |17 |1810 | |Circuit des 24 Heures du Mans |Wed, September 13 01:15PM EDT |Wed, September 13 06:15PM BST |Thu, September 14 03:15AM AEST |
 
 ### Touring Car
 

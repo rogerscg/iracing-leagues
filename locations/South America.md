@@ -27,7 +27,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |23 |2745 | | | | | |
+|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |23 |2700 | | | | | |
 |[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |2023/2 |South America |19 |2444 | | | | | |
 
 # Sports Car
@@ -37,8 +37,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
-|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |33 |1823 | |Mount Panorama Circuit |Tue, September 05 05:00PM EDT |Tue, September 05 10:00PM BST |Wed, September 06 07:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |33 |1815 | | | | | |
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/2 |South America |31 |2204 | | | | | |
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |31 |4195 | | | | | |
 |[Fera das Pistas](https://members.iracing.com/membersite/member/LeagueView.do?league=9776){:target="_blank"} |Pro Racing Fera das Pistas GT3 |South America |17 |3665 | | | | | |
@@ -74,7 +74,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |19 |3316 | | | | | |
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/2 |South America |16 |3382 | | | | | |
 
 ### Toyota GR86
 
@@ -100,6 +100,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL 4Funs |South America |58 |1946 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL 4Funs |South America |58 |1864 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL Multiclass IMSA by RAKE PARTS |South America |47 |1947 | |Daytona International Speedway |Mon, September 11 05:30PM EDT |Mon, September 11 10:30PM BST |Tue, September 12 07:30AM AEST |
 
