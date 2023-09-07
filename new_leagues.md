@@ -14,7 +14,6 @@
 |[CyberTrack Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10131){:target="_blank"} | | |
 |[DPW 315](https://members.iracing.com/membersite/member/LeagueView.do?league=10122){:target="_blank"} | |we like to race on dirt but really just looking to have fun |
 |[eSports Gaming Network](https://members.iracing.com/membersite/member/LeagueView.do?league=10143){:target="_blank"} | |Special Events Every Two Months\! Steam Deck Giveaway October 28th\! |
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} | |Campeonato oficial F1BC: www\.f1bc\.com |
 |[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} | |Campeonato oficial F1BC: www\.f1bc\.com |
 |[Freedom Racing Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10126){:target="_blank"} | | |
 |[Gen 4 Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=10152){:target="_blank"} | | |
@@ -35,9 +34,9 @@
 |[SW MO Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10146){:target="_blank"} | |Racing on Wednesdays Nights |
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |[Discord](https://discord.gg/SbpPqJzNgj){:target="_blank"} |The Südspeed Sportscar Series is currently running the Ligier LMP3 in a fortnightly series on Tuesday nights, Sydney time\. Check out the discord\! https://discord\.gg/SbpPqJzNgj |
 |[Tasmanian Late Model League](https://members.iracing.com/membersite/member/LeagueView.do?league=10116){:target="_blank"} | |Dirt Racing |
+|[The Driving Crooners](https://members.iracing.com/membersite/member/LeagueView.do?league=10154){:target="_blank"} | | |
 |[The Week 13 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10149){:target="_blank"} |[Discord](https://discord.gg/wvK9DM4jvk){:target="_blank"} |This is the Week 13 Racing League\. We love the meme that week 13 is and aspire to make every week a week 13 race\. If you're looking for highly competitive, fast paced, clean racing then this isn't the right league for you\. This is where we have fun, hangout, and make memories doing goofy races\. We respect each other, have fun, and make sure others can have fun as well\. |
 |[TrackThatShit](https://members.iracing.com/membersite/member/LeagueView.do?league=10117){:target="_blank"} | | |
-|[TRUCK AI](https://members.iracing.com/membersite/member/LeagueView.do?league=10106){:target="_blank"} | |ai carere |
 |[V8 Veterans Season 17](https://members.iracing.com/membersite/member/LeagueView.do?league=10129){:target="_blank"} | |Best Over 40's in Australia battle it out in V8 Supercars\! \- Season 17 |
 |[Vanilla Funk](https://members.iracing.com/membersite/member/LeagueView.do?league=10144){:target="_blank"} | | |
 |[VTCS SportsCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10111){:target="_blank"} |[Discord](https://discord.gg/wrFh2XEr5n){:target="_blank"} |Free GTP/GT3 league |
