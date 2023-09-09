@@ -10,36 +10,28 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
 |[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 5 \- 87 Short Tracks | |Stafford Motor Speedway |Sun, September 10 07:38PM EDT |Mon, September 11 12:38AM BST |Mon, September 11 09:38AM AEST |
+|[MLR Tour Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4964){:target="_blank"} |MLR Tour Series 2023 Championship |Fixed |Darlington Raceway |Sat, September 16 08:15PM EDT |Sun, September 17 01:15AM BST |Sun, September 17 10:15AM AEST |
 |[Total Speed Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9448){:target="_blank"} |TSRL SuperSpeedway Series |Fixed |Talladega Superspeedway |Mon, September 11 06:00PM EDT |Mon, September 11 11:00PM BST |Tue, September 12 08:00AM AEST |
-
-### NASCAR Cup
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Passing Under Yellow](https://members.iracing.com/membersite/member/LeagueView.do?league=9684){:target="_blank"} |PUY \- NASCAR Cup Gen6 S2 | |Daytona International Speedway |Fri, September 08 07:30PM EDT |Sat, September 09 12:30AM BST |Sat, September 09 09:30AM AEST |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[FSBRACING\.COM](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB CTS Season 47 |Fixed |Charlotte Motor Speedway |Wed, September 13 08:00PM EDT |Thu, September 14 01:00AM BST |Thu, September 14 10:00AM AEST |
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |iRL TRUCKS Season 3 |Both |USA International Speedway |Mon, September 11 08:29PM EDT |Tue, September 12 01:29AM BST |Tue, September 12 10:29AM AEST |
 |[National Auto Racing Club \(Pavement\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9577){:target="_blank"} |NARC Truck Series 2023\.1 | |Daytona International Speedway |Mon, September 11 09:00PM EDT |Tue, September 12 02:00AM BST |Tue, September 12 11:00AM AEST |
-|[Sim Racing Unleashed Craftsman Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6084){:target="_blank"} |SRU Craftsman Truck Series Season 12 | |Daytona International Speedway |Fri, September 08 06:30PM EDT |Fri, September 08 11:30PM BST |Sat, September 09 08:30AM AEST |
 
-### Silverado
+### SK Modified
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|----------------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[24 Hours of Lemons iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |Lunchtime Lemons Season 4 | |[Legacy] Charlotte Motor Speedway - 2008 |Fri, September 08 01:50PM EDT |Fri, September 08 06:50PM BST |Sat, September 09 03:50AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
+|[The Kohort \- DIRT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9714){:target="_blank"} |The Kohort \- SK Modified Tour \- Pilot |Both |Stafford Motor Speedway |Sun, September 10 08:00PM EDT |Mon, September 11 01:00AM BST |Mon, September 11 10:00AM AEST |
 
 ### XFINITY Series
 
@@ -57,10 +49,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[FSBRACING\.COM](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Late Model Season 47 |Fixed |USA International Speedway |Sun, September 10 07:30PM EDT |Mon, September 11 12:30AM BST |Mon, September 11 09:30AM AEST |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Season 2 Late Model Stocks |Both |Daytona International Speedway |Fri, September 15 10:05PM EDT |Sat, September 16 03:05AM BST |Sat, September 16 12:05PM AEST |
 |[Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2732){:target="_blank"} |Reverb \- 23S4 Late Models |Fixed |Hickory Motor Speedway |Thu, September 14 10:55PM EDT |Fri, September 15 03:55AM BST |Fri, September 15 12:55PM AEST |
+|[The Kohort \- DIRT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9714){:target="_blank"} |The Kohort \- Late Model Stock Tour \- S1 |Both |Stafford Motor Speedway |Sun, September 10 09:00PM EDT |Mon, September 11 02:00AM BST |Mon, September 11 11:00AM AEST |
 
 ### Street Stock
 
@@ -79,14 +72,6 @@
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Super Late Model Series |Both |Las Vegas Motor Speedway |Fri, September 15 11:20PM EDT |Sat, September 16 04:20AM BST |Sat, September 16 01:20PM AEST |
 
 # Open-wheel
-
-### Dallara F3
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[League Zero \- Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season 8 |Fixed |Circuit de Spa-Francorchamps |Thu, September 14 08:00PM EDT |Fri, September 15 01:00AM BST |Fri, September 15 10:00AM AEST |
 
 ### Dallara IR18
 
@@ -119,8 +104,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|--------------|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 3 Japan | |Suzuka International Racing Course |Fri, September 08 10:00PM EDT |Sat, September 09 03:00AM BST |Sat, September 09 12:00PM AEST |
+|---------------------------------------------------------------------------------------------------------------|---------------------|-----|---------------------|-----------------------------|-----------------------------|------------------------------|
+|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Ray FF1600 Open Wheel |Open |Rudskogen Motorsenter |Thu, September 14 04:26PM EDT |Thu, September 14 09:26PM BST |Fri, September 15 06:26AM AEST |
+
+### Super Formula SF23
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------|-----------------------|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Hyper Car NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=10034){:target="_blank"} |Wednesday Night Super F |Both |Fuji International Speedway |Wed, September 13 12:57AM EDT |Wed, September 13 05:57AM BST |Wed, September 13 02:57PM AEST |
 
 # Sports Car
 
@@ -130,6 +123,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------|------------------------------|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
+|[PROGNIS Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8197){:target="_blank"} |PROGNIS Cup 23s4 |Fixed |Autodromo Nazionale Monza |Mon, September 11 01:57PM EDT |Mon, September 11 06:57PM BST |Tue, September 12 03:57AM AEST |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |z 2023 S4 \- 3 WED Septemer 13 |Both |Autodromo Nazionale Monza |Wed, September 13 08:00PM EDT |Thu, September 14 01:00AM BST |Thu, September 14 10:00AM AEST |
 
 ### Hosted All Cars Class
@@ -154,17 +148,25 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|---------------------------|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S17 \- Global Mazda MX5 Cup |Both |Indianapolis Motor Speedway |Tue, September 12 06:40PM EDT |Tue, September 12 11:40PM BST |Wed, September 13 08:40AM AEST |
+|[CCR SCCA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9447){:target="_blank"} |Season \#1 \(2023\) |Fixed |Virginia International Raceway |Sat, September 16 02:00PM EDT |Sat, September 16 07:00PM BST |Sun, September 17 04:00AM AEST |
 |[MX5 BENELUX Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9383){:target="_blank"} |MX5 BENELUX Series |Fixed |Motorsport Arena Oschersleben |Fri, September 15 02:00PM EDT |Fri, September 15 07:00PM BST |Sat, September 16 04:00AM AEST |
+
+### Supercars - 2019
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------|---------|-----|-------------|-----------------------------|-----------------------------|------------------------------|
+|[V8 Veterans Season 17](https://members.iracing.com/membersite/member/LeagueView.do?league=10129){:target="_blank"} |Season 17 | |Red Bull Ring |Sat, September 09 03:00AM EDT |Sat, September 09 08:00AM BST |Sat, September 09 05:00PM AEST |
 
 ### Touring Car
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|---------------------|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Touring Car Series S4 | |WeatherTech Raceway at Laguna Seca |Fri, September 08 05:00PM EDT |Fri, September 08 10:00PM BST |Sat, September 09 07:00AM AEST |
+|-------------------------------------------------------------------------------------------------------|-----------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT TCR S10 |Fixed |Circuit de Barcelona Catalunya |Tue, September 12 08:30PM EDT |Wed, September 13 01:30AM BST |Wed, September 13 10:30AM AEST |
 
 ### Toyota GR86
@@ -192,9 +194,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |LOL 34s Season 2 |Both |Irwindale Speedway |Wed, September 13 07:33PM EDT |Thu, September 14 12:33AM BST |Thu, September 14 09:33AM AEST |
 |[Mad Dog Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6567){:target="_blank"} |MDM Endurance Special Event Practice |Fixed |Road Atlanta |Sat, September 09 10:00AM EDT |Sat, September 09 03:00PM BST |Sun, September 10 12:00AM AEST |
+|[MLR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4963){:target="_blank"} |MLR Short Track Series 2023 Championship |Fixed |USA International Speedway |Sat, September 16 07:00PM EDT |Sun, September 17 12:00AM BST |Sun, September 17 09:00AM AEST |
 |[Rapid Iracing league](https://members.iracing.com/membersite/member/LeagueView.do?league=10119){:target="_blank"} |season\-one |Open |Circuit de Spa-Francorchamps |Sat, September 09 04:30AM EDT |Sat, September 09 09:30AM BST |Sat, September 09 06:30PM AEST |
 |[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |F1 Shadow Series | |Road America |Wed, September 13 03:30AM EDT |Wed, September 13 08:30AM BST |Wed, September 13 05:30PM AEST |
 |[The Apex Is Lava \(TAIL\) Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9033){:target="_blank"} |Ring 2023S4 |Open |Nürburgring Nordschleife |Wed, September 13 08:00PM EDT |Thu, September 14 01:00AM BST |Thu, September 14 10:00AM AEST |
