@@ -36,7 +36,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship |Europe |55 |2280 |Fixed | | | | |
-|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |46 |2845 |Open | | | | |
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |45 |2835 |Open | | | | |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint Series 6 \- Pre\-Season |North America |35 |2090 |Both | | | | |
 |[Sampsoid GT3 Championship Practice Group](https://members.iracing.com/membersite/member/LeagueView.do?league=9746){:target="_blank"} |Session 1 Sampsoid GT3 Championship Practice Group |Europe |18 |1598 |Fixed | | | | |
 |[Last Man Standing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=3745){:target="_blank"} |The LMS Ligier Challenge |North America |11 |1197 |Both |Circuit de Spa-Francorchamps |Tue, September 12 08:29PM EDT |Wed, September 13 01:29AM BST |Wed, September 13 10:29AM AEST |

@@ -11,7 +11,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2023 Summer ARCA Season 2 |North America |54 |1788 |Fixed |Mid-Ohio Sports Car Course |Mon, September 11 08:00PM EDT |Tue, September 12 01:00AM BST |Tue, September 12 10:00AM AEST |
 |[SRL \- Spittin Venom ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5506){:target="_blank"} |Season 9 |North America |40 |2102 | | | | | |
-|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Monday ARCA Ovals |North America |39 |1505 |Both | | | | |
+|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Monday ARCA Ovals |North America |35 |1487 |Both | | | | |
 |[SLiDESIGNS Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8366){:target="_blank"} |BMR ARCA Season 4 |North America |31 |2303 |Fixed | | | | |
 |[SLIDE JAWB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2894){:target="_blank"} |NEXT Academy 2023 |North America |22 |1844 |Fixed | | | | |
 |[GTCC ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8528){:target="_blank"} |GTCC ARCA Season 3 |North America |21 |1602 |Fixed | | | | |
@@ -52,9 +52,9 @@
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2023 SEASON 3 SPEEDWAY SERIES |North America |52 |2062 | |Talladega Superspeedway |Fri, September 15 07:00PM EDT |Sat, September 16 12:00AM BST |Sat, September 16 09:00AM AEST |
 |[OSRL Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6789){:target="_blank"} |Season 6 |North America |52 |3122 |Fixed | | | | |
 |[Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2732){:target="_blank"} |Output \- 23S2 Gen 4 Cup |North America |46 |2624 |Fixed |Bristol Motor Speedway |Tue, September 12 10:55PM EDT |Wed, September 13 03:55AM BST |Wed, September 13 12:55PM AEST |
-|[RACECULT](https://members.iracing.com/membersite/member/LeagueView.do?league=9760){:target="_blank"} |CHASE FOR THE CUP |North America |45 |2072 | |Talladega Superspeedway |Mon, September 11 08:20PM EDT |Tue, September 12 01:20AM BST |Tue, September 12 10:20AM AEST |
+|[Saturday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9745){:target="_blank"} |2023 Season 1 |North America |45 |3166 |Fixed | | | | |
 |[World Series of Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3813){:target="_blank"} |WSSR Cup Series |North America |45 |3149 |Fixed | | | | |
-|[Saturday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9745){:target="_blank"} |2023 Season 1 |North America |44 |3118 |Fixed |Darlington Raceway |Sat, September 09 09:00PM EDT |Sun, September 10 02:00AM BST |Sun, September 10 11:00AM AEST |
+|[RACECULT](https://members.iracing.com/membersite/member/LeagueView.do?league=9760){:target="_blank"} |CHASE FOR THE CUP |North America |44 |2071 | |Talladega Superspeedway |Mon, September 11 08:20PM EDT |Tue, September 12 01:20AM BST |Tue, September 12 10:20AM AEST |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2023 SEASON 3 GEN 4 SERIES |North America |42 |2040 | |Auto Club Speedway |Wed, September 13 07:00PM EDT |Thu, September 14 12:00AM BST |Thu, September 14 09:00AM AEST |
 |[STARS & STRIPES Gen 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4804){:target="_blank"} |Stars & Stripes Racing League |North America |42 |2882 | |Martinsville Speedway |Thu, September 14 08:30PM EDT |Fri, September 15 01:30AM BST |Fri, September 15 10:30AM AEST |
 |[ABN Stock Car Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=9138){:target="_blank"} |2023 ABN AdminBoxx Cup Series season |North America |36 |2040 |Fixed | | | | |
@@ -64,17 +64,17 @@
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Gen 4 Season 2 |North America |33 |1894 | | | | | |
 |[TI Racing ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7023){:target="_blank"} |Season 8 |North America |32 |1694 |Fixed | | | | |
 |[TI Racing ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7023){:target="_blank"} |Season 9 |North America |32 |1833 |Fixed | | | | |
-|[E\-Racing Stock Car Association](https://members.iracing.com/membersite/member/LeagueView.do?league=3676){:target="_blank"} |ERSCA 2023 |North America |29 |3634 | | | | | |
 |[STARS \- Smoking Tires Amateur Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4868){:target="_blank"} |STARS \| Gen 4 Cup Series \| Season 2 |North America |28 |2230 |Fixed |Homestead Miami Speedway |Sun, September 10 06:15PM EDT |Sun, September 10 11:15PM BST |Mon, September 11 08:15AM AEST |
 |[TDR Monday Nights Sports Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=9477){:target="_blank"} |TDR Monday Night Gen 4 Cup |North America |28 |1844 | |Talladega Superspeedway |Mon, September 11 08:00PM EDT |Tue, September 12 01:00AM BST |Tue, September 12 10:00AM AEST |
-|[No Toad Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6307){:target="_blank"} |Gen 4 Season 25 |North America |27 |2275 |Fixed | | | | |
 |[Noma Gen 4](https://members.iracing.com/membersite/member/LeagueView.do?league=10009){:target="_blank"} |Season One |North America |27 |1821 | |World Wide Technology Raceway (Gateway) |Sun, September 10 07:00PM EDT |Mon, September 11 12:00AM BST |Mon, September 11 09:00AM AEST |
-|[CORE](https://members.iracing.com/membersite/member/LeagueView.do?league=5648){:target="_blank"} |Summer Series |North America |24 |3052 | | | | | |
+|[E\-Racing Stock Car Association](https://members.iracing.com/membersite/member/LeagueView.do?league=3676){:target="_blank"} |ERSCA 2023 |North America |24 |3771 | | | | | |
+|[No Toad Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6307){:target="_blank"} |Gen 4 Season 25 |North America |24 |2303 |Fixed | | | | |
 |[Area 51 Thursday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5043){:target="_blank"} |Area 51 Thursday 2023 Season 2 |North America |23 |2552 | | | | | |
 |[Downforce Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3111){:target="_blank"} |DRS Gen 4 Tuesday S1 |North America |23 |1846 | | | | | |
-|[Veer Motorsports ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6108){:target="_blank"} |VEER Motorsports ARCA League |North America |23 |2351 | | | | | |
+|[Veer Motorsports ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6108){:target="_blank"} |VEER Motorsports ARCA League |North America |23 |2292 | | | | | |
 |[WOSCRL Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4920){:target="_blank"} |Season 7 |North America |22 |2721 |Fixed | | | | |
 |[Mayhem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5425){:target="_blank"} |Gen4 Cup Series |North America |21 |1480 |Both |Bristol Motor Speedway |Sun, September 10 08:00PM EDT |Mon, September 11 01:00AM BST |Mon, September 11 10:00AM AEST |
+|[CORE](https://members.iracing.com/membersite/member/LeagueView.do?league=5648){:target="_blank"} |Summer Series |North America |21 |3576 | | | | | |
 |[\#0 Brownney Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9144){:target="_blank"} |Gen 4 Season 2 |North America |20 |2004 |Fixed |Kansas Speedway |Thu, September 14 07:30PM EDT |Fri, September 15 12:30AM BST |Fri, September 15 09:30AM AEST |
 |[Friday Night Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=9619){:target="_blank"} |Gen4 Season 1, 2023 |North America |20 |2020 | | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |GEN 4 Fall 2023 Season |North America |20 |1345 |Fixed |Darlington Raceway |Mon, September 11 08:00PM EDT |Tue, September 12 01:00AM BST |Tue, September 12 10:00AM AEST |
@@ -83,14 +83,13 @@
 |[6 Sigma Sim Racing Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=6883){:target="_blank"} |Summer 2023 |North America |19 |1964 |Fixed | | | | |
 |[Oval Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=9053){:target="_blank"} |Stock Car Tour |North America |18 |2089 |Fixed | | | | |
 |[THE SHOW Nextel \(Gen4\) Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9928){:target="_blank"} |Nextel Cup Season 2 |North America |18 |2026 | | | | | |
-|[Lucky Dog sim Racing Gen 4](https://members.iracing.com/membersite/member/LeagueView.do?league=9597){:target="_blank"} |Season One |North America |17 |1580 | | | | | |
+|[Lucky Dog sim Racing Gen 4](https://members.iracing.com/membersite/member/LeagueView.do?league=9597){:target="_blank"} |Season One |North America |17 |1559 | | | | | |
 |[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9598){:target="_blank"} |QFRL Old School Tuesday Inaugural Season |North America |17 |1305 |Fixed |Homestead Miami Speedway |Tue, September 12 07:30PM EDT |Wed, September 13 12:30AM BST |Wed, September 13 09:30AM AEST |
 |[AOLL Racing's Sportsman Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5052){:target="_blank"} |2023 Season 2 \- Gen 4 Cup Cars |North America |16 |1439 |Fixed | | | | |
 |[Gen 4 Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=10152){:target="_blank"} |gen 4 |North America |15 |1587 | | | | | |
 |[Lights Out Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9839){:target="_blank"} |Season 1 |North America |14 |2230 | | | | | |
 |[Smokin Tires Gen 4 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4023){:target="_blank"} |Smokin Tires Gen 4 Cup Series |North America |14 |1467 |Fixed | | | | |
 |[AARL Orr Lawn Care Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5936){:target="_blank"} |gen 4 series |North America |12 |1753 |Fixed | | | | |
-|[Great Lakes Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Dash Series \- Season 1 |North America |10 |2588 |Fixed | | | | |
 |[Left Turns Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9768){:target="_blank"} |Left Turns Racing League Season 2 |North America |10 |1360 | | | | | |
 
 ### Hosted All Cars Class
@@ -107,14 +106,14 @@
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2023 SEASON 3 TRUCK SERIES |North America |44 |1944 | |Homestead Miami Speedway |Tue, September 12 07:00PM EDT |Wed, September 13 12:00AM BST |Wed, September 13 09:00AM AEST |
 |[Lucky Dog Sim Racing Gen 6](https://members.iracing.com/membersite/member/LeagueView.do?league=2959){:target="_blank"} |Season Six |North America |43 |1836 |Both | | | | |
 |[Lucky Dog Sim Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9272){:target="_blank"} |Season Six |North America |43 |1722 | | | | | |
+|[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2023 practice |North America |42 |1812 |Fixed |Bristol Motor Speedway |Tue, September 12 08:00PM EDT |Wed, September 13 01:00AM BST |Wed, September 13 10:00AM AEST |
 |[NSRA Sunday Select](https://members.iracing.com/membersite/member/LeagueView.do?league=3182){:target="_blank"} |Sunday Select Season 11 |North America |40 |2037 | |Daytona International Speedway |Sun, September 10 08:00PM EDT |Mon, September 11 01:00AM BST |Mon, September 11 10:00AM AEST |
-|[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2023 practice |North America |39 |1815 |Fixed |Kansas Speedway |Sat, September 09 08:00PM EDT |Sun, September 10 01:00AM BST |Sun, September 10 10:00AM AEST |
 |[THUNDER CLAP iRACING SERIES Presented By: TLC INC](https://members.iracing.com/membersite/member/LeagueView.do?league=8002){:target="_blank"} |2023 Thunder Clap Season |North America |39 |2138 | | | | | |
 |[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |OBRL Exhibition Races |North America |36 |1802 |Fixed | | | | |
 |[NTRL Super Speedway](https://members.iracing.com/membersite/member/LeagueView.do?league=8239){:target="_blank"} |Gen 6 Super Speedway |North America |35 |1734 | | | | | |
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |NASCAR'87 LEGENDS SERIES \- SEASON\#02 |Europe |35 |1965 |Both | | | | |
 |[VLS iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6970){:target="_blank"} |Season 4 |North America |35 |1644 | | | | | |
-|[BRR League](https://members.iracing.com/membersite/member/LeagueView.do?league=4846){:target="_blank"} |BRR SUMMER ARCA |North America |30 |1742 |Fixed | | | | |
+|[BRR League](https://members.iracing.com/membersite/member/LeagueView.do?league=4846){:target="_blank"} |BRR SUMMER ARCA |North America |31 |1760 |Fixed | | | | |
 |[NextGen Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2190){:target="_blank"} |Dale Earnhardt Chevrolet NextGen Series 2023 |North America |30 |2242 |Fixed | | | | |
 |[NSRA Sunday Select](https://members.iracing.com/membersite/member/LeagueView.do?league=3182){:target="_blank"} |Sunday Select Season 10 |North America |30 |2220 | | | | | |
 |[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |LIVING LEGENDS 87 SERIES \- Season \#1 |North America |27 |2304 | | | | | |
@@ -126,10 +125,10 @@
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Charlotte Shootout |North America |20 |1242 |Fixed |[Legacy] Charlotte Motor Speedway - 2008 |Wed, September 13 08:30PM EDT |Thu, September 14 01:30AM BST |Thu, September 14 10:30AM AEST |
 |[Ultimate Conquest Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7608){:target="_blank"} |2023 Top Gun Cup Series |North America |20 |2840 |Fixed | | | | |
 |[\#0 5150 SuperSpeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5959){:target="_blank"} |Season 3 \(2023\) |North America |19 |1684 |Open | | | | |
+|[ASPHALT OFFICIAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9747){:target="_blank"} |AOS \[SEASON 1\] |North America |19 |1890 | | | | | |
 |[Weekend Warriors ASCC](https://members.iracing.com/membersite/member/LeagueView.do?league=3592){:target="_blank"} |Weekend Warriors Development Series |Australia-NZ |18 |2157 |Fixed | | | | |
-|[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=9697){:target="_blank"} |Fun Race Sessions |North America |17 |1430 | | | | | |
+|[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=9697){:target="_blank"} |Fun Race Sessions |North America |17 |1426 | | | | | |
 |[Rob\-Car](https://members.iracing.com/membersite/member/LeagueView.do?league=6353){:target="_blank"} |Season 3 |North America |15 |1235 | |Circuit of the Americas |Wed, September 13 07:45PM EDT |Thu, September 14 12:45AM BST |Thu, September 14 09:45AM AEST |
-|[ISRL \- Iceman's Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7680){:target="_blank"} |Practice |North America |11 |1942 |Fixed | | | | |
 |[Venom Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=4710){:target="_blank"} |Thursday Night Thunder |North America |11 |2808 | | | | | |
 |[1RebelRacing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6506){:target="_blank"} |Off Week |North America |10 |1240 | | | | | |
 |[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |NASCAR Challenge Series 2023 |North America |10 |2537 | | | | | |
@@ -152,54 +151,54 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[FTF Racing FTF Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2709){:target="_blank"} |2023 Barr Visuals FTF Cup Series Season |North America |114 |4009 |Fixed | | | | |
-|[100% Division\-Two Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8345){:target="_blank"} |2023 |North America |63 |3119 |Open | | | | |
+|[FTF Racing FTF Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2709){:target="_blank"} |2023 Barr Visuals FTF Cup Series Season |North America |120 |4178 |Fixed | | | | |
+|[100% Division\-Two Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8345){:target="_blank"} |2023 |North America |66 |3132 |Open | | | | |
 |[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |Cup Series \- 2023 Full Season |North America |61 |1697 |Fixed |Kansas Speedway |Sun, September 10 08:00PM EDT |Mon, September 11 01:00AM BST |Mon, September 11 10:00AM AEST |
 |[CiL College Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6214){:target="_blank"} |CIL College Cup Series S9 |North America |60 |2283 | |Auto Club Speedway |Mon, September 11 07:30PM EDT |Tue, September 12 12:30AM BST |Tue, September 12 09:30AM AEST |
-|[GEARS Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9223){:target="_blank"} |Season 1 |North America |59 |1998 |Fixed | | | | |
-|[SRL CUP SERIES \(Season 2\)](https://members.iracing.com/membersite/member/LeagueView.do?league=8781){:target="_blank"} |SRL Cup Series Season 2 |North America |58 |2928 |Fixed | | | | |
+|[GEARS Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9223){:target="_blank"} |Season 1 |North America |59 |1998 |Fixed |Road America |Fri, September 15 07:00PM EDT |Sat, September 16 12:00AM BST |Sat, September 16 09:00AM AEST |
+|[SRL CUP SERIES \(Season 2\)](https://members.iracing.com/membersite/member/LeagueView.do?league=8781){:target="_blank"} |SRL Cup Series Season 2 |North America |56 |2832 |Fixed | | | | |
 |[Sim Motorsport New Zealand](https://members.iracing.com/membersite/member/LeagueView.do?league=7651){:target="_blank"} |ENSCAR Cup Series S2 2023 |Australia-NZ |51 |2058 | | | | | |
-|[SnB Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8028){:target="_blank"} |Season 2 \(2023\) |North America |49 |2635 | | | | | |
 |[Empire Designs Flat Out Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8556){:target="_blank"} |Season 3 |North America |48 |2141 | | | | | |
+|[SnB Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8028){:target="_blank"} |Season 2 \(2023\) |North America |48 |2607 | | | | | |
 |[Sunday Night NASCAR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5465){:target="_blank"} |2023 Sunday Night NASCAR Cup Series |North America |48 |2254 |Both |Kansas Speedway |Sun, September 10 06:45PM EDT |Sun, September 10 11:45PM BST |Mon, September 11 08:45AM AEST |
 |[iRacing Warriors Motorsportz Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8223){:target="_blank"} |T4T Season 3 Cup Series |North America |47 |1942 | | | | | |
 |[NORA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3806){:target="_blank"} |2023 Season \#3 |North America |45 |2326 | | | | | |
-|[2023 NC811 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3852){:target="_blank"} |2023 NC811 Cup Series |North America |44 |3276 | | | | | |
+|[2023 NC811 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3852){:target="_blank"} |2023 NC811 Cup Series |North America |44 |3267 | | | | | |
 |[Affinity Racing Series Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8601){:target="_blank"} |Cup Series Season 2 |North America |43 |2634 |Fixed | | | | |
-|[American SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5099){:target="_blank"} |Fall 2023 |North America |43 |3005 |Fixed | | | | |
-|[FastTrack Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5859){:target="_blank"} |2023 Cup Season |North America |43 |2824 | | | | | |
-|[RealSimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=2406){:target="_blank"} |2023 Full Throttle RealSimRacing Cup Series |North America |43 |3328 |Fixed | | | | |
+|[American SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5099){:target="_blank"} |Fall 2023 |North America |43 |3005 |Fixed |Charlotte Motor Speedway |Sun, September 10 07:30PM EDT |Mon, September 11 12:30AM BST |Mon, September 11 09:30AM AEST |
+|[FastTrack Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5859){:target="_blank"} |2023 Cup Season |North America |43 |2803 | | | | | |
+|[RealSimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=2406){:target="_blank"} |2023 Full Throttle RealSimRacing Cup Series |North America |43 |3303 |Fixed | | | | |
 |[THE SHOW \- Conner Darnell Designs Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9031){:target="_blank"} |Season 2 |North America |43 |1938 |Fixed | | | | |
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |NASCAR Next Gen Cup |North America |43 |1450 | | | | | |
-|[Moonshiners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5681){:target="_blank"} |2023 Cup Series |North America |42 |2234 |Open | | | | |
-|[BNR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7545){:target="_blank"} |BNR Season 4 |North America |41 |1711 | |Darlington Raceway |Sat, September 09 07:25PM EDT |Sun, September 10 12:25AM BST |Sun, September 10 09:25AM AEST |
-|[NTRL Next Gen Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8290){:target="_blank"} |NTRL CUP Season 2 |North America |41 |1880 | | | | | |
+|[Moonshiners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5681){:target="_blank"} |2023 Cup Series |North America |42 |2234 |Open |Kansas Speedway |Wed, September 13 07:00PM EDT |Thu, September 14 12:00AM BST |Thu, September 14 09:00AM AEST |
+|[BNR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7545){:target="_blank"} |BNR Season 4 |North America |41 |1787 | | | | | |
 |[AutoRacingConnected](https://members.iracing.com/membersite/member/LeagueView.do?league=8792){:target="_blank"} |2023 ARC NASCAR iRacing Series |North America |40 |2164 |Fixed | | | | |
+|[NTRL Next Gen Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8290){:target="_blank"} |NTRL CUP Season 2 |North America |40 |1881 | | | | | |
 |[ANZCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=2447){:target="_blank"} |2023 ANZCAR Cup Series |Australia-NZ |40 |2344 | | | | | |
 |[eNASCAR Coca\-Cola iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6233){:target="_blank"} |2023 eNASCAR Coca\-Cola iRacing Season |North America |40 |7454 | |Phoenix Raceway |Tue, September 12 08:15PM EDT |Wed, September 13 01:15AM BST |Wed, September 13 10:15AM AEST |
 |[RSR Racing League \(Division of Evolution Racing Leagues\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5079){:target="_blank"} |2023 Season 2 |North America |40 |2277 |Fixed | | | | |
-|[AREA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7386){:target="_blank"} |Cup Series Season 4 |North America |39 |4339 | | | | | |
+|[AREA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7386){:target="_blank"} |Cup Series Season 4 |North America |39 |4323 | | | | | |
 |[Bluegrass iRacing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5250){:target="_blank"} |Season 7 |North America |39 |2232 |Fixed | | | | |
 |[GOAT Racing Diecast Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8392){:target="_blank"} |GOAT Racing Diecast Next Gen Season 1 |North America |39 |2774 | | | | | |
 |[ARCS A² Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7597){:target="_blank"} |A² Season 2\- 2023 |North America |38 |1786 |Fixed | | | | |
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |38 |2903 | | | | | |
-|[ORNL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8532){:target="_blank"} |ORNL Cup Series '23 |Europe |37 |1968 |Open |Kansas Speedway |Mon, September 11 02:00PM EDT |Mon, September 11 07:00PM BST |Tue, September 12 04:00AM AEST |
-|[Spartan SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6894){:target="_blank"} |SSRL Cup Series Season 2 |North America |37 |2898 |Open | | | | |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |38 |2872 | | | | | |
+|[ORNL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8532){:target="_blank"} |ORNL Cup Series '23 |Europe |37 |1996 |Open |Kansas Speedway |Mon, September 11 02:00PM EDT |Mon, September 11 07:00PM BST |Tue, September 12 04:00AM AEST |
 |[SPEED](https://members.iracing.com/membersite/member/LeagueView.do?league=8999){:target="_blank"} |2023 |North America |37 |1696 | | | | | |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |23/24 |Europe |37 |2335 | |Kansas Speedway |Thu, September 14 11:57AM EDT |Thu, September 14 04:57PM BST |Fri, September 15 01:57AM AEST |
 |[The BSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3791){:target="_blank"} |BSC season 9 |North America |37 |1738 |Both |Kansas Speedway |Tue, September 12 07:00PM EDT |Wed, September 13 12:00AM BST |Wed, September 13 09:00AM AEST |
 |[PRL NASCAR Cup Series \(Sunday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3576){:target="_blank"} |PRL Sunday Cup 2023/S3 |North America |37 |2687 | | | | | |
+|[Spartan SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6894){:target="_blank"} |SSRL Cup Series Season 2 |North America |36 |2758 |Open | | | | |
 |[Wicked Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8653){:target="_blank"} |Season 3 WRL |North America |36 |2226 | |Iowa Speedway |Tue, September 12 08:00PM EDT |Wed, September 13 01:00AM BST |Wed, September 13 10:00AM AEST |
 |[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |Gary Ridgeway Cup Series 2023 |North America |35 |1613 |Fixed |Kansas Speedway |Tue, September 12 07:45PM EDT |Wed, September 13 12:45AM BST |Wed, September 13 09:45AM AEST |
-|[Weekend Warriors ASCC](https://members.iracing.com/membersite/member/LeagueView.do?league=3592){:target="_blank"} |2023 Lucas Oils Cup season |Australia-NZ |35 |2036 |Fixed |Martinsville Speedway |Sat, September 09 04:45AM EDT |Sat, September 09 09:45AM BST |Sat, September 09 06:45PM AEST |
+|[Weekend Warriors ASCC](https://members.iracing.com/membersite/member/LeagueView.do?league=3592){:target="_blank"} |2023 Lucas Oils Cup season |Australia-NZ |35 |2017 |Fixed | | | | |
 |[ISCA \- Thursday Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3914){:target="_blank"} |ISCA \- Thursday Cup Series \- 2023 |North America |34 |2666 |Open | | | | |
-|[Online Motorsports Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9655){:target="_blank"} |VRC Season 10 |North America |34 |1900 | | | | | |
+|[Online Motorsports Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9655){:target="_blank"} |VRC Season 10 |North America |34 |1987 | | | | | |
 |[Full Throttle Performance Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8695){:target="_blank"} |2023 Season |North America |34 |1963 |Open |Kansas Speedway |Wed, September 13 07:30PM EDT |Thu, September 14 12:30AM BST |Thu, September 14 09:30AM AEST |
 |[Sim Racing Unleashed Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2994){:target="_blank"} |Season 14 |North America |33 |1849 |Fixed |Darlington Raceway |Sun, September 10 06:30PM EDT |Sun, September 10 11:30PM BST |Mon, September 11 08:30AM AEST |
 |[TDR Sunday Night Next Gen](https://members.iracing.com/membersite/member/LeagueView.do?league=9478){:target="_blank"} |ET Drone Home Gaming TDR Next Gen Series |North America |33 |1606 | | | | | |
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |NASCAR Next Gen Practice |North America |33 |None | | | | | |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Cup Season 2 |North America |32 |1734 | | | | | |
-|[MLR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4965){:target="_blank"} |MLR Cup Series 2023 |North America |31 |1679 |Fixed |Kansas Speedway |Mon, September 11 08:00PM EDT |Tue, September 12 01:00AM BST |Tue, September 12 10:00AM AEST |
+|[MLR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4965){:target="_blank"} |MLR Cup Series 2023 |North America |31 |1657 |Fixed |Kansas Speedway |Mon, September 11 08:00PM EDT |Tue, September 12 01:00AM BST |Tue, September 12 10:00AM AEST |
 |[OCS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8538){:target="_blank"} |OCS Season 3 |North America |31 |2130 | | | | | |
 |[The Sim Racers Club Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7101){:target="_blank"} |Premier Series Summer 2023 |North America |31 |2611 | | | | | |
 |[Underdog Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4715){:target="_blank"} |NextGen Season 3 |North America |31 |1762 |Fixed | | | | |
@@ -219,21 +218,22 @@
 |[inSpire Racing Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=8613){:target="_blank"} |NextGen Season 2 |North America |25 |1269 |Fixed |Homestead Miami Speedway |Mon, September 11 07:30PM EDT |Tue, September 12 12:30AM BST |Tue, September 12 09:30AM AEST |
 |[SCSRA Dev's Sports Cards Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5598){:target="_blank"} |SCSRA Season \#5, Next Gen \(season 1\) |North America |25 |1861 | | | | | |
 |[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Cup Season 2 \- 2023 |North America |24 |1897 |Fixed | | | | |
-|[Anarchy Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=27){:target="_blank"} |AMS Cup Series |North America |24 |2343 |Fixed | | | | |
 |[Friday Night Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=9619){:target="_blank"} |Cup Season 1, 2023 |North America |24 |2088 | | | | | |
 |[Lucky Dog Sim Racing Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6536){:target="_blank"} |Season One |North America |24 |1583 | | | | | |
 |[MSRL NewGen Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7115){:target="_blank"} |Season 4 Next Gen |North America |24 |1634 |Fixed | | | | |
 |[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9598){:target="_blank"} |QFRL\-Friday\-Cup |North America |24 |1332 |Fixed | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 27 NASCAR Next Gen Cup |North America |23 |1453 |Fixed | | | | |
+|[Anarchy Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=27){:target="_blank"} |AMS Cup Series |North America |22 |2292 |Fixed | | | | |
 |[Velocity Motorsports Next Gen](https://members.iracing.com/membersite/member/LeagueView.do?league=9195){:target="_blank"} |Next Gen Season 2 |North America |22 |2472 | | | | | |
 |[Canadian eMotorsports Network](https://members.iracing.com/membersite/member/LeagueView.do?league=9491){:target="_blank"} |2023 CEMSN NASCAR Series |North America |22 |2012 | |Homestead Miami Speedway |Tue, September 12 07:30PM EDT |Wed, September 13 12:30AM BST |Wed, September 13 09:30AM AEST |
 |[Losic By BRRW](https://members.iracing.com/membersite/member/LeagueView.do?league=9721){:target="_blank"} |Losic Season 1 |North America |20 |2533 | | | | | |
 |[Chop Shop Racing NextGen](https://members.iracing.com/membersite/member/LeagueView.do?league=8663){:target="_blank"} |Chop Shop Next Gen Practice |North America |19 |None | | | | | |
-|[E\-Nascar Elite Association](https://members.iracing.com/membersite/member/LeagueView.do?league=8036){:target="_blank"} |ENEA Cup Season 3 |North America |18 |2311 |Fixed | | | | |
 |[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |18 |2741 | | | | | |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Cup Series Season 4 |North America |18 |1369 | |Texas Motor Speedway |Mon, September 11 07:30PM EDT |Tue, September 12 12:30AM BST |Tue, September 12 09:30AM AEST |
+|[E\-Nascar Elite Association](https://members.iracing.com/membersite/member/LeagueView.do?league=8036){:target="_blank"} |ENEA Cup Season 3 |North America |17 |2333 |Fixed | | | | |
 |[No Toad Racing \- Sunday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7747){:target="_blank"} |Season 25 |North America |17 |2418 | | | | | |
-|[inSpire Racing Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=8613){:target="_blank"} |Next Gen Season 1 |North America |16 |1260 |Fixed | | | | |
+|[inSpire Racing Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=8613){:target="_blank"} |Next Gen Season 1 |North America |16 |1242 |Fixed | | | | |
+|[NERS Fisher Studios Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10093){:target="_blank"} |NERS Mini Season |North America |16 |1452 | | | | | |
 |[Clutch Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1406){:target="_blank"} |Season 8 |North America |15 |2316 | | | | | |
 |[Anarchy Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=27){:target="_blank"} |AMS ALL\-STAR Race |North America |13 |2531 |Fixed | | | | |
 |[The Racers Syndicate](https://members.iracing.com/membersite/member/LeagueView.do?league=3108){:target="_blank"} |2023 Cup Twisted Tour |North America |13 |1304 |Fixed |Darlington Raceway |Wed, September 13 09:55PM EDT |Thu, September 14 02:55AM BST |Thu, September 14 11:55AM AEST |
@@ -255,9 +255,8 @@
 |[AARL Blue Grey Plastic Fabrication Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4676){:target="_blank"} |2023 Season 2 |North America |16 |1611 |Fixed | | | | |
 |[BioTe Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8989){:target="_blank"} |BioTe Cup Series Season 2 |North America |16 |1766 | | | | | |
 |[Apex Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9523){:target="_blank"} |Season 1 |North America |15 |1614 | | | | | |
-|[ASPHALT OFFICIAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9747){:target="_blank"} |AOS \[SEASON 1\] |North America |14 |1741 | | | | | |
 |[NASTDS Beckman Designs Legacy Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8811){:target="_blank"} |NASTDS S1 ALLSTAR RACE |North America |13 |2408 |Fixed | | | | |
-|[Good Brothers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3487){:target="_blank"} |Season Gen 6 |North America |12 |1707 |Both |Auto Club Speedway |Sat, September 09 10:15PM EDT |Sun, September 10 03:15AM BST |Sun, September 10 12:15PM AEST |
+|[Good Brothers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3487){:target="_blank"} |Season Gen 6 |North America |12 |1702 |Both |Atlanta Motor Speedway |Sat, September 16 10:15PM EDT |Sun, September 17 03:15AM BST |Sun, September 17 12:15PM AEST |
 |[Passing Under Yellow](https://members.iracing.com/membersite/member/LeagueView.do?league=9684){:target="_blank"} |PUY \- NASCAR Cup Gen6 S2 |North America |10 |1605 | |Watkins Glen International |Fri, September 15 07:30PM EDT |Sat, September 16 12:30AM BST |Sat, September 16 09:30AM AEST |
 
 ### NASCAR Legends 1987
@@ -274,48 +273,48 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[O\.P\. Racing ButtKicker Truck Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2811){:target="_blank"} |Season 13 |North America |87 |2149 | |iRacing Superspeedway |Sat, September 16 08:00PM EDT |Sun, September 17 01:00AM BST |Sun, September 17 10:00AM AEST |
 |[CORT \#Yes2Motorsport Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5226){:target="_blank"} |2023B |North America |83 |2435 | | | | | |
-|[O\.P\. Racing ButtKicker Truck Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2811){:target="_blank"} |Season 13 |North America |81 |2161 | |Daytona International Speedway |Sat, September 09 08:00PM EDT |Sun, September 10 01:00AM BST |Sun, September 10 10:00AM AEST |
 |[Stay Tuned Sports Podcast Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3818){:target="_blank"} |2023B |North America |62 |2484 | | | | | |
 |[Bonfire Racing League \- BTT](https://members.iracing.com/membersite/member/LeagueView.do?league=6718){:target="_blank"} |Big Trucking Tuesday Season 8 |North America |55 |1623 |Fixed | | | | |
 |[Great Lakes Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Truck Series \- Season 8 \(Race\) |North America |55 |2323 |Fixed |Bristol Motor Speedway |Tue, September 12 06:55PM EDT |Tue, September 12 11:55PM BST |Wed, September 13 08:55AM AEST |
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |NASCAR Pickup Cup |North America |55 |1494 | | | | | |
-|[NASRA \(1\) \- SimRacerHub\.com Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8605){:target="_blank"} |Season Two |North America |53 |1794 |Fixed |Charlotte Motor Speedway |Mon, September 11 07:30PM EDT |Tue, September 12 12:30AM BST |Tue, September 12 09:30AM AEST |
 |[Association for Simulated Stock Car Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6106){:target="_blank"} |ASSCAR 2023 Truck Series |North America |51 |1807 |Both | | | | |
-|[Bluegrass iRacing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6731){:target="_blank"} |Season 5 |North America |51 |1570 | | | | | |
+|[NASRA \(1\) \- SimRacerHub\.com Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8605){:target="_blank"} |Season Two |North America |51 |1789 |Fixed |Charlotte Motor Speedway |Mon, September 11 07:30PM EDT |Tue, September 12 12:30AM BST |Tue, September 12 09:30AM AEST |
 |[Pretty Good Racing League \- Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7732){:target="_blank"} |Season 6 |North America |51 |2474 | | | | | |
+|[BSR InThePitsNews Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6126){:target="_blank"} |Season 4 |North America |50 |2215 |Fixed | | | | |
 |[TDR Tuesday Night Truckin'](https://members.iracing.com/membersite/member/LeagueView.do?league=9474){:target="_blank"} |Fall 2023 |North America |50 |2044 | |Circuit of the Americas |Tue, September 12 08:00PM EDT |Wed, September 13 01:00AM BST |Wed, September 13 10:00AM AEST |
 |[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Truck Season 2 |North America |49 |2035 |Fixed | | | | |
-|[BSR InThePitsNews Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6126){:target="_blank"} |Season 4 |North America |49 |2160 |Fixed |Pocono Raceway |Sat, September 09 07:00PM EDT |Sun, September 10 12:00AM BST |Sun, September 10 09:00AM AEST |
+|[Bluegrass iRacing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6731){:target="_blank"} |Season 5 |North America |49 |1547 | | | | | |
 |[Spoiler Diecast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8156){:target="_blank"} |FORL Trucks Series Season 2 |North America |49 |1875 |Fixed | | | | |
 |[FRIDAY NIGHT LIGHTS](https://members.iracing.com/membersite/member/LeagueView.do?league=9942){:target="_blank"} |SUPERSPEEDWAY SERIES |North America |48 |2207 | | | | | |
+|[NOMA Manny\-Rays Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8118){:target="_blank"} |Season 4 |North America |48 |1755 | | | | | |
 |[Transervice Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2572){:target="_blank"} |2023 Transervice Truck Series |North America |48 |3108 | | | | | |
 |[NASRA \(5\) \- Triple M Pulling Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5302){:target="_blank"} |\(4\) Season Seven |North America |47 |1879 |Fixed | | | | |
-|[NOMA Manny\-Rays Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8118){:target="_blank"} |Season 4 |North America |46 |1758 | | | | | |
-|[O\.P\. Racing Premier Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2874){:target="_blank"} |Season 11 |North America |46 |2334 | |Daytona International Speedway |Mon, September 11 08:00PM EDT |Tue, September 12 01:00AM BST |Tue, September 12 10:00AM AEST |
+|[O\.P\. Racing Premier Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2874){:target="_blank"} |Season 11 |North America |46 |2328 | |Daytona International Speedway |Mon, September 11 08:00PM EDT |Tue, September 12 01:00AM BST |Tue, September 12 10:00AM AEST |
 |[Chop Shop Racing Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=9086){:target="_blank"} |Chop Shop Trucks Season 2 |North America |44 |1635 | | | | | |
 |[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |2023 NIS Truck Series |North America |43 |2973 | |Bristol Motor Speedway |Fri, September 15 08:58PM EDT |Sat, September 16 01:58AM BST |Sat, September 16 10:58AM AEST |
 |[TDFW Trucks Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7487){:target="_blank"} |TDFW Trucks Season 5 |North America |43 |1884 | |Bristol Motor Speedway |Sun, September 10 08:30PM EDT |Mon, September 11 01:30AM BST |Mon, September 11 10:30AM AEST |
-|[NORA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3061){:target="_blank"} |2023 Season \#5 |North America |42 |2387 |Fixed | | | | |
+|[TNGG iRacing eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=9001){:target="_blank"} |TNGG IEL Truck Series S4 |North America |43 |1860 |Fixed | | | | |
 |[American Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=18){:target="_blank"} |2023 Truck Series |North America |42 |2207 |Fixed |Lucas Oil Raceway (IRP) |Tue, September 12 08:30PM EDT |Wed, September 13 01:30AM BST |Wed, September 13 10:30AM AEST |
-|[TNGG iRacing eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=9001){:target="_blank"} |TNGG IEL Truck Series S4 |North America |39 |1834 |Fixed |Texas Motor Speedway |Sat, September 09 06:30PM EDT |Sat, September 09 11:30PM BST |Sun, September 10 08:30AM AEST |
-|[Chequered Flag Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9616){:target="_blank"} |Season 2 |Australia-NZ |39 |1875 | | | | | |
 |[Great Lakes Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Truck Series \(Qualifying\) |North America |38 |2443 |Fixed |Bristol Motor Speedway |Tue, September 12 06:25PM EDT |Tue, September 12 11:25PM BST |Wed, September 13 08:25AM AEST |
+|[NORA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3061){:target="_blank"} |2023 Season \#5 |North America |38 |2652 |Fixed | | | | |
 |[ORRL \- Rebels Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=6103){:target="_blank"} |S7 \- by Hardline Transport Solutions |North America |38 |1645 | |Bristol Motor Speedway |Sun, September 10 08:00PM EDT |Mon, September 11 01:00AM BST |Mon, September 11 10:00AM AEST |
-|[Premium Stock Car Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9385){:target="_blank"} |Season 2 |North America |37 |1663 | | | | | |
+|[Premium Stock Car Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9385){:target="_blank"} |Season 2 |North America |37 |1692 | | | | | |
 |[Ruff\-Neck Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9844){:target="_blank"} |Trucks season 1 |North America |37 |1117 |Fixed |Homestead Miami Speedway |Wed, September 13 06:00PM EDT |Wed, September 13 11:00PM BST |Thu, September 14 08:00AM AEST |
 |[TDR Tuesday Night Truckin'](https://members.iracing.com/membersite/member/LeagueView.do?league=9474){:target="_blank"} |TDR Truckin Tuesday |North America |37 |1983 | | | | | |
 |[Venom Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6861){:target="_blank"} |Venom Truck Series Season 6 |North America |37 |1995 |Fixed |Charlotte Motor Speedway |Tue, September 12 07:30PM EDT |Wed, September 13 12:30AM BST |Wed, September 13 09:30AM AEST |
-|[\#0 Donut Box Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8558){:target="_blank"} |DBTS Season 2 |North America |34 |1627 |Open | | | | |
+|[Chequered Flag Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9616){:target="_blank"} |Season 2 |Australia-NZ |37 |1879 | | | | | |
+|[\#0 Donut Box Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8558){:target="_blank"} |DBTS Season 2 |North America |34 |1627 |Open |Pocono Raceway |Sun, September 17 07:00PM EDT |Mon, September 18 12:00AM BST |Mon, September 18 09:00AM AEST |
 |[AREA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7388){:target="_blank"} |Season 4 |North America |34 |3483 | | | | | |
 |[Great Lakes Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Truck Series \- Season 7 \(Race\) |North America |34 |2579 |Fixed | | | | |
 |[iNation eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6758){:target="_blank"} |McDaniels Home Repair Summer Showdown |North America |34 |2192 | |Watkins Glen International |Wed, September 13 08:30PM EDT |Thu, September 14 01:30AM BST |Thu, September 14 10:30AM AEST |
 |[BNR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7543){:target="_blank"} |Season 4 |North America |33 |1550 | |Mid-Ohio Sports Car Course |Tue, September 12 07:25PM EDT |Wed, September 13 12:25AM BST |Wed, September 13 09:25AM AEST |
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |Friday Trucks Season One |North America |33 |2080 |Both | | | | |
-|[ISRC Truck Series presented by Larry Art's Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7298){:target="_blank"} |Season 5 |North America |33 |2483 | | | | | |
 |[PRL NASCAR Truck Series \(Wednesday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3579){:target="_blank"} |Wednesday Trucks 2023 S3 |North America |33 |1740 | | | | | |
 |[\#0 Midwest\-Motorsports\.com \- Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8878){:target="_blank"} |Trucks \- Season 5 |North America |32 |1351 |Fixed | | | | |
 |[FastTrack Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7723){:target="_blank"} |2023 Truck Season |North America |32 |2043 | | | | | |
+|[ISRC Truck Series presented by Larry Art's Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7298){:target="_blank"} |Season 5 |North America |32 |2640 | | | | | |
 |[Vspeed FRT Contenders Series Powered by NITRO](https://members.iracing.com/membersite/member/LeagueView.do?league=3520){:target="_blank"} |Season 10 |North America |32 |3151 |Open |Bristol Motor Speedway |Wed, September 13 09:00PM EDT |Thu, September 14 02:00AM BST |Thu, September 14 11:00AM AEST |
 |[Front Row Esports Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=9073){:target="_blank"} |2023 Truck Series |North America |31 |1815 | |Bristol Motor Speedway |Thu, September 14 08:00PM EDT |Fri, September 15 01:00AM BST |Fri, September 15 10:00AM AEST |
 |[\#0 CleanRacing\.net Monday Truck Fix Setup](https://members.iracing.com/membersite/member/LeagueView.do?league=4861){:target="_blank"} |Season 17 |North America |30 |1769 |Fixed |Kansas Speedway |Mon, September 11 07:30PM EDT |Tue, September 12 12:30AM BST |Tue, September 12 09:30AM AEST |
@@ -338,9 +337,8 @@
 |[KocherRacing\.Com Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4696){:target="_blank"} |2023 Playoffs Round Of 10 |North America |25 |1962 |Fixed | | | | |
 |[Misfitz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9340){:target="_blank"} |Misfitz Racing League season 3 2023 |North America |25 |2055 |Fixed | | | | |
 |[SLiDESIGNS Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8366){:target="_blank"} |SLiDESIGNS Trucks S1 |North America |24 |2476 |Fixed | | | | |
-|[iRacing Warriors Motorsportz Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8752){:target="_blank"} |IWM Truck Series Season 3 |North America |24 |1884 | | | | | |
 |[Apex Sim Racing eSeries Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=6537){:target="_blank"} |Apex Sim Racing eSeries Showdown Season 4 |North America |23 |2248 | |Phoenix Raceway |Thu, September 14 08:00PM EDT |Fri, September 15 01:00AM BST |Fri, September 15 10:00AM AEST |
-|[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=9697){:target="_blank"} |HRT2HEART MOTORSPORTS Craftsman Truck Series \- Season 1 |North America |23 |1382 | |Auto Club Speedway |Sat, September 09 08:30PM EDT |Sun, September 10 01:30AM BST |Sun, September 10 10:30AM AEST |
+|[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=9697){:target="_blank"} |HRT2HEART MOTORSPORTS Craftsman Truck Series \- Season 1 |North America |23 |1365 | | | | | |
 |[SCSRA Morriss Customs Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5876){:target="_blank"} |Truck Season 5 |North America |23 |1779 | | | | | |
 |[All\-Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |Premier Setups Super Truck Series |North America |22 |2223 |Fixed | | | | |
 |[inSpire Racing Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=8613){:target="_blank"} |Truck Series Season 1 |North America |22 |1270 |Fixed | | | | |
@@ -349,6 +347,7 @@
 |[TI Racing Truck League](https://members.iracing.com/membersite/member/LeagueView.do?league=9867){:target="_blank"} |Season 2 |North America |22 |2178 | | | | | |
 |[USRL Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9409){:target="_blank"} |USRL S2 Pro |North America |22 |1919 | | | | | |
 |[AOLL Racing's Sportsman Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5052){:target="_blank"} |Season 3 \- Nascar Trucks |North America |21 |1618 |Fixed |Richmond Raceway |Wed, September 13 06:00PM EDT |Wed, September 13 11:00PM BST |Thu, September 14 08:00AM AEST |
+|[iRacing Warriors Motorsportz Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8752){:target="_blank"} |IWM Truck Series Season 3 |North America |21 |1888 | | | | | |
 |[Area 51 SS Sunday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5044){:target="_blank"} |2023 Season 3 \- Area 51 Sunday SuperTruck Series |North America |20 |1944 | | | | | |
 |[iRacing Warriors Motorsportz Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8752){:target="_blank"} |IWM Truck Series Season 4 |North America |20 |2019 | | | | | |
 |[MyTurnRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1917){:target="_blank"} |2023 S3 MTR Trucks |Europe |20 |2176 | | | | | |
@@ -363,7 +362,7 @@
 |[Field Filler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9117){:target="_blank"} |FFR Trucks Season 2 |North America |16 |1686 | |Dover Motor Speedway |Thu, September 14 08:00PM EDT |Fri, September 15 01:00AM BST |Fri, September 15 10:00AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Eternity Trucks August 2023 Championship |North America |16 |1347 | | | | | |
 |[Four Wide Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8974){:target="_blank"} |season 1a |North America |15 |1864 | | | | | |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Eternity Truck July 2023 Championship |North America |14 |1682 | | | | | |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Eternity Truck July 2023 Championship |North America |14 |1643 | | | | | |
 |[Xtreme Motorsports Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1489){:target="_blank"} |Season 19 |North America |14 |2375 |Fixed | | | | |
 |[Colonial Clash Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7422){:target="_blank"} |CCRS Season 4 |North America |13 |2109 |Fixed | | | | |
 |[rut racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9780){:target="_blank"} |season 1 |North America |12 |1193 | | | | | |
@@ -400,7 +399,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Tuesday Night Thunder Season \#10 |North America |42 |2545 |Both | | | | |
-|[MLR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4963){:target="_blank"} |MLR Short Track Series 2023 Q4 |North America |22 |1955 |Fixed |Iowa Speedway |Sat, September 09 07:00PM EDT |Sun, September 10 12:00AM BST |Sun, September 10 09:00AM AEST |
+|[MLR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4963){:target="_blank"} |MLR Short Track Series 2023 Q4 |North America |22 |1979 |Fixed | | | | |
 |[World Online Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=3147){:target="_blank"} |Limeade Media Modified Tour: Season 1 |North America |21 |2290 |Fixed | | | | |
 |[The BSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3791){:target="_blank"} |Midweek Madhouse S1 |North America |14 |1780 |Both |[Legacy] Phoenix Raceway - 2008 |Thu, September 14 07:00PM EDT |Fri, September 15 12:00AM BST |Fri, September 15 09:00AM AEST |
 
@@ -416,38 +415,38 @@
 |[CORT National Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2365){:target="_blank"} |2023B |North America |57 |2409 | | | | | |
 |[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |Xfinity \- 2023 Full Season |North America |54 |1756 |Fixed |Martinsville Speedway |Thu, September 14 07:00PM EDT |Fri, September 15 12:00AM BST |Fri, September 15 09:00AM AEST |
 |[TDR Wednesday Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9475){:target="_blank"} |Season \#7 |North America |49 |1660 | |Pocono Raceway |Wed, September 13 08:00PM EDT |Thu, September 14 01:00AM BST |Thu, September 14 10:00AM AEST |
-|[A Lot Cleaner Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7174){:target="_blank"} |2023 Monday Night NASCAR Xfinity Series |North America |46 |1890 | |Kansas Speedway |Mon, September 11 07:45PM EDT |Tue, September 12 12:45AM BST |Tue, September 12 09:45AM AEST |
 |[2023 NC811 Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2195){:target="_blank"} |2023 NC811 Grand National Series |North America |46 |2992 |Fixed |Indianapolis Motor Speedway |Sun, September 10 07:30PM EDT |Mon, September 11 12:30AM BST |Mon, September 11 09:30AM AEST |
 |[ANZCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=2447){:target="_blank"} |2023 Thunder Series 3 |Australia-NZ |46 |2236 | |Bristol Motor Speedway |Wed, September 13 05:00AM EDT |Wed, September 13 10:00AM BST |Wed, September 13 07:00PM AEST |
-|[\#4 Wide Racing League \- JOIN THE DISCORD IN DESCRIPTION](https://members.iracing.com/membersite/member/LeagueView.do?league=4187){:target="_blank"} |TJ's Team Grand National Series S6 |North America |45 |2876 |Fixed | | | | |
+|[\#4 Wide Racing League \- JOIN THE DISCORD IN DESCRIPTION](https://members.iracing.com/membersite/member/LeagueView.do?league=4187){:target="_blank"} |TJ's Team Grand National Series S6 |North America |45 |2876 |Fixed |Auto Club Speedway |Wed, September 13 08:00PM EDT |Thu, September 14 01:00AM BST |Thu, September 14 10:00AM AEST |
 |[Slingshot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8509){:target="_blank"} |Apex Energy Series \(Season 5\) |North America |45 |2260 | |Bristol Motor Speedway |Tue, September 12 07:30PM EDT |Wed, September 13 12:30AM BST |Wed, September 13 09:30AM AEST |
 |[FSRA \- Full Send Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7414){:target="_blank"} |Season 5 \(Xfinity\) |North America |44 |2535 |Fixed |Charlotte Motor Speedway |Tue, September 12 08:45PM EDT |Wed, September 13 01:45AM BST |Wed, September 13 10:45AM AEST |
 |[NOMA Manny\-Rays Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7605){:target="_blank"} |season 4 |North America |42 |1649 | | | | | |
 |[Quarantine Racing League QRL Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=8588){:target="_blank"} |season 3 |North America |42 |1732 |Fixed | | | | |
 |[Blazing Pedals Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2531){:target="_blank"} |Savage Edge Xfinity Season 8 |North America |42 |2478 | | | | | |
-|[Extreme Forces Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9840){:target="_blank"} |Transcendent Designs Xfinity Series |North America |42 |2026 | |Darlington Raceway |Mon, September 11 08:30PM EDT |Tue, September 12 01:30AM BST |Tue, September 12 10:30AM AEST |
 |[\#0 5150 Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8915){:target="_blank"} |Season 1 |North America |41 |1547 |Open |Bristol Motor Speedway |Fri, September 15 07:30PM EDT |Sat, September 16 12:30AM BST |Sat, September 16 09:30AM AEST |
-|[IAA International Asphalt Association](https://members.iracing.com/membersite/member/LeagueView.do?league=6819){:target="_blank"} |2023 Season 2 |North America |41 |1847 | | | | | |
+|[A Lot Cleaner Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7174){:target="_blank"} |2023 Monday Night NASCAR Xfinity Series |North America |41 |1840 | |Kansas Speedway |Mon, September 11 07:45PM EDT |Tue, September 12 12:45AM BST |Tue, September 12 09:45AM AEST |
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |NASCAR Xfinity Cup |North America |41 |1463 | | | | | |
 |[Area 51 SS Sunday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5044){:target="_blank"} |Area 51 Sunday SS Series 2023 Season 2 |North America |39 |1965 | | | | | |
 |[AREA Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7387){:target="_blank"} |Season 4 |North America |39 |3736 | | | | | |
 |[Bluegrass Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7436){:target="_blank"} |Season 4 |North America |39 |1864 | | | | | |
-|[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |Jimmy Young Series Summer Fall 2023 |North America |39 |1628 |Fixed |Kansas Speedway |Mon, September 11 07:45PM EDT |Tue, September 12 12:45AM BST |Tue, September 12 09:45AM AEST |
 |[OMSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6978){:target="_blank"} |Xfinity \- 2023 S2 |North America |39 |2448 |Fixed |Indianapolis Motor Speedway |Tue, September 12 08:00PM EDT |Wed, September 13 01:00AM BST |Wed, September 13 10:00AM AEST |
 |[ARCS Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |Ignition Xfinity Series 2023 |North America |38 |1699 | | | | | |
+|[IAA International Asphalt Association](https://members.iracing.com/membersite/member/LeagueView.do?league=6819){:target="_blank"} |2023 Season 2 |North America |37 |1820 | | | | | |
 |[MPI Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9426){:target="_blank"} |MPI Xfinity Season 1 |North America |37 |2359 | | | | | |
+|[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |Jimmy Young Series Summer Fall 2023 |North America |36 |1626 |Fixed |Kansas Speedway |Mon, September 11 07:45PM EDT |Tue, September 12 12:45AM BST |Tue, September 12 09:45AM AEST |
+|[Extreme Forces Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9840){:target="_blank"} |Transcendent Designs Xfinity Series |North America |36 |2010 | |Darlington Raceway |Mon, September 11 08:30PM EDT |Tue, September 12 01:30AM BST |Tue, September 12 10:30AM AEST |
 |[GLSR Down Range Transport Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5180){:target="_blank"} |Season 1 |North America |35 |2255 |Fixed | | | | |
 |[Lite Speed Racing League \- Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=3006){:target="_blank"} |2023 Summer Season |North America |32 |2551 | | | | | |
-|[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Xfinity Season 2 \- 2023 |North America |31 |2103 |Fixed | | | | |
 |[QSR iRacing Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8907){:target="_blank"} |Xfinity Challenge |North America |31 |1614 |Fixed | | | | |
 |[PRL NASCAR Xfinity Series \(Wednesday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9206){:target="_blank"} |Wednesday Xfinity 2023 S3 |North America |31 |2420 | | | | | |
-|[MLR Tour Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4964){:target="_blank"} |MLR Tour Series 2023 Q4 |North America |29 |1891 |Fixed |Kansas Speedway |Sat, September 09 08:15PM EDT |Sun, September 10 01:15AM BST |Sun, September 10 10:15AM AEST |
+|[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Xfinity Season 2 \- 2023 |North America |29 |2119 |Fixed | | | | |
+|[MLR Tour Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4964){:target="_blank"} |MLR Tour Series 2023 Q4 |North America |29 |1891 |Fixed | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR Xfinity Series 2023 |North America |28 |1245 |Fixed |Bristol Motor Speedway |Thu, September 14 07:30PM EDT |Fri, September 15 12:30AM BST |Fri, September 15 09:30AM AEST |
 |[Racers Elite \- Wednesday](https://members.iracing.com/membersite/member/LeagueView.do?league=9180){:target="_blank"} |Racers Elite \- \(Future\) Wednesday Xfinity Fixed Series |North America |28 |1578 |Fixed |Indianapolis Motor Speedway |Wed, September 13 06:35PM EDT |Wed, September 13 11:35PM BST |Thu, September 14 08:35AM AEST |
+|[BRL Lighting Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9408){:target="_blank"} |Grand National Series |North America |27 |1706 |Fixed | | | | |
 |[Asphalt Outlaws Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5458){:target="_blank"} |AOR season 4 |North America |27 |1906 |Fixed |Las Vegas Motor Speedway |Fri, September 15 07:30PM EDT |Sat, September 16 12:30AM BST |Sat, September 16 09:30AM AEST |
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |NASCAR Xfinity Practice |North America |27 |None | | | | | |
-|[American Sim Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4610){:target="_blank"} |Hauck Designs Xfinity Season 7 |North America |26 |2161 |Fixed | | | | |
-|[BRL Lighting Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9408){:target="_blank"} |Grand National Series |North America |25 |1658 |Fixed |Pocono Raceway |Sat, September 09 08:00PM EDT |Sun, September 10 01:00AM BST |Sun, September 10 10:00AM AEST |
+|[American Sim Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4610){:target="_blank"} |Hauck Designs Xfinity Season 7 |North America |21 |2180 |Fixed | | | | |
 |[IMPACT\! Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8487){:target="_blank"} |Impact EMM Season 1 |North America |21 |1478 | | | | | |
 |[Area 51 Thursday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5043){:target="_blank"} |2023 Season 3 Area 51 SS Xfinity Series |North America |20 |2124 | |Daytona International Speedway |Thu, September 14 08:00PM EDT |Fri, September 15 01:00AM BST |Fri, September 15 10:00AM AEST |
 |[Cousin Big Country Racing Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9900){:target="_blank"} |2023 |North America |19 |1646 |Open | | | | |
@@ -455,7 +454,6 @@
 |[Friday Night Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=9619){:target="_blank"} |Xfinity Season 1, 2023 |North America |18 |1786 | | | | | |
 |[inSpire Racing Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=8613){:target="_blank"} |Xfinty Season 2 |North America |16 |1164 |Fixed |Indianapolis Motor Speedway |Wed, September 13 07:00PM EDT |Thu, September 14 12:00AM BST |Thu, September 14 09:00AM AEST |
 |[Outlaws Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4747){:target="_blank"} |Season 4 |North America |16 |2303 |Open | | | | |
-|[Madhouse Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9540){:target="_blank"} |Season 1 |North America |13 |2522 |Fixed | | | | |
 |[Cam Kings Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9653){:target="_blank"} |Xfinity Season 1 Playoffs |North America |11 |1517 | | | | | |
 |[The Simpit Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4263){:target="_blank"} |The Simpit Season 19/Xfinity |North America |10 |2154 |Fixed |Indianapolis Motor Speedway |Mon, September 11 08:00PM EDT |Tue, September 12 01:00AM BST |Tue, September 12 10:00AM AEST |
 
@@ -477,7 +475,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|-------|----|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|-------|----|-----|---------------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[American Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=18){:target="_blank"} |2023 ASR All American Series |North America |57 |2113 |Fixed |Rockingham Speedway |Wed, September 13 08:30PM EDT |Thu, September 14 01:30AM BST |Thu, September 14 10:30AM AEST |
 |[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |BCR Late Model Stock Season \#3 |North America |55 |2389 |Both | | | | |
 |[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |2023 Late Model Stock Tour |North America |52 |2533 | | | | | |
@@ -485,14 +483,12 @@
 |[ARCS Only Short\-Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=9609){:target="_blank"} |OST Season 2 |North America |45 |1928 | | | | | |
 |[RAID iSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |CARS Late Model Tour 2023 Season 3 |North America |40 |2627 |Fixed |North Wilkesboro Speedway |Wed, September 13 08:30PM EDT |Thu, September 14 01:30AM BST |Thu, September 14 10:30AM AEST |
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |JBSRL FALL LMSC |North America |39 |1965 |Both | | | | |
-|[The Kohort \- DIRT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9714){:target="_blank"} |The Kohort \- Late Model Stock Tour \- Pilot |North America |38 |1840 |Both | | | | |
 |[Family Friendly Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=9872){:target="_blank"} |Boyd Customs Late Model Stock Tour |North America |36 |1236 |Fixed | | | | |
 |[ReScreened LLC Regional LM Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5815){:target="_blank"} |S3 ReSreened LLC Regional LM Tour |North America |36 |1949 |Fixed | | | | |
 |[North American Trans\-Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9778){:target="_blank"} |Season 1 |North America |33 |1502 | | | | | |
 |[Junk Yard Dawgs](https://members.iracing.com/membersite/member/LeagueView.do?league=9836){:target="_blank"} |The Roundy Round Cup |North America |33 |1692 |Fixed |North Wilkesboro Speedway |Tue, September 12 09:20PM EDT |Wed, September 13 02:20AM BST |Wed, September 13 11:20AM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Tuesdays Series S2 |North America |33 |1745 | | | | | |
-|[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |monday LMSC S1 |North America |32 |2008 | | | | | |
-|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S23 |North America |32 |2118 |Fixed |North Wilkesboro Speedway |Sat, September 09 08:45PM EDT |Sun, September 10 01:45AM BST |Sun, September 10 10:45AM AEST |
+|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S23 |North America |32 |2120 |Fixed | | | | |
 |[Flat Out Racing League Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8484){:target="_blank"} |Season 2 |North America |31 |1570 | |Lucas Oil Raceway (IRP) |Fri, September 15 08:00PM EDT |Sat, September 16 01:00AM BST |Sat, September 16 10:00AM AEST |
 |[QSR iRacing Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8907){:target="_blank"} |Late Model Expedition Series |North America |30 |1472 |Fixed | | | | |
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |CARS Tour |North America |30 |1782 | | | | | |
@@ -501,20 +497,21 @@
 |[Red Solo Cup Series SK Mods/Late Models Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Model S6 |North America |29 |1796 |Fixed |Five Flags Speedway |Thu, September 14 08:30PM EDT |Fri, September 15 01:30AM BST |Fri, September 15 10:30AM AEST |
 |[\#0 Donut Box Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8942){:target="_blank"} |DBLMS S2 |North America |28 |1819 |Fixed |Hickory Motor Speedway |Mon, September 11 07:00PM EDT |Tue, September 12 12:00AM BST |Tue, September 12 09:00AM AEST |
 |[NEXUS NATIONAL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=9170){:target="_blank"} |Season 1 |North America |27 |1813 | | | | | |
-|[WOTEL Nascar Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=6226){:target="_blank"} |Mi22ion Late Model Stocks |North America |27 |2454 | |Watkins Glen International |Sat, September 09 07:00PM EDT |Sun, September 10 12:00AM BST |Sun, September 10 09:00AM AEST |
+|[WOTEL Nascar Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=6226){:target="_blank"} |Mi22ion Late Model Stocks |North America |27 |2454 | | | | | |
 |[Extreme Forces TRUCK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7933){:target="_blank"} |FastTrax Express Advanced Late Model Series |North America |26 |2375 | |Five Flags Speedway |Tue, September 12 09:00PM EDT |Wed, September 13 02:00AM BST |Wed, September 13 11:00AM AEST |
 |[Lucky Dawg Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9578){:target="_blank"} |Late Model Series |North America |25 |1952 | |North Wilkesboro Speedway |Wed, September 13 07:30PM EDT |Thu, September 14 12:30AM BST |Thu, September 14 09:30AM AEST |
 |[Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2732){:target="_blank"} |Reverb \- 23S3 Late Model |North America |25 |2620 |Fixed | | | | |
+|[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |monday LMSC S1 |North America |25 |2053 | | | | | |
 |[SARA \- Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1412){:target="_blank"} |Super Series \- 2023 Spring Season |North America |25 |5132 |Open | | | | |
-|[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |2023 Travis Wall Late Model Stock Challenge \(Summer Series\) |North America |24 |2084 | | | | | |
+|[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |2023 Travis Wall Late Model Stock Challenge \(Summer Series\) |North America |22 |2101 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Superslow Racing Experience \- 2023 |North America |22 |1748 |Fixed | | | | |
 |[Madhouse LMSC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9847){:target="_blank"} |Season 1 |North America |21 |2791 | | | | | |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2023 SEASON 3 LATE MODEL SERIES |North America |21 |2049 | |World Wide Technology Raceway (Gateway) |Sat, September 16 07:00PM EDT |Sun, September 17 12:00AM BST |Sun, September 17 09:00AM AEST |
 |[Short Track Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9790){:target="_blank"} |Short Track Showdown Series  S3 2023 Sprint\-Feature |North America |21 |2002 | | | | | |
-|[A:SRC](https://members.iracing.com/membersite/member/LeagueView.do?league=2439){:target="_blank"} |SM Racing Products Oval Series 2023 Season 3 |North America |20 |1968 |Open | | | | |
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2023 SEASON 3 LATE MODEL SERIES |North America |20 |2060 | |Concord Speedway |Sat, September 09 07:00PM EDT |Sun, September 10 12:00AM BST |Sun, September 10 09:00AM AEST |
+|[A:SRC](https://members.iracing.com/membersite/member/LeagueView.do?league=2439){:target="_blank"} |SM Racing Products Oval Series 2023 Season 3 |North America |20 |1974 |Open | | | | |
 |[Passing Under Yellow](https://members.iracing.com/membersite/member/LeagueView.do?league=9684){:target="_blank"} |PUY \- Late Model Stock S1 |North America |19 |1491 | | | | | |
 |[All\-Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |Barry Elvis Performance & Fabrication Late Model Stock Series |North America |18 |1763 |Fixed | | | | |
-|[DOB LMSC Hickory Weekly](https://members.iracing.com/membersite/member/LeagueView.do?league=3678){:target="_blank"} |2023 Hickory LMSC Series |North America |18 |2675 |Fixed | | | | |
+|[DOB LMSC Hickory Weekly](https://members.iracing.com/membersite/member/LeagueView.do?league=3678){:target="_blank"} |2023 Hickory LMSC Series |North America |18 |2675 |Fixed |Hickory Motor Speedway |Sun, September 17 08:30PM EDT |Mon, September 18 01:30AM BST |Mon, September 18 10:30AM AEST |
 |[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |Late Model Stocks |North America |18 |1364 | | | | | |
 |[FTSR Late Model Stock Tour \(Thursdays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9546){:target="_blank"} |2023 LMS Tour |North America |17 |2249 |Fixed | | | | |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |NASTRACK Practice |North America |17 |None | | | | | |
@@ -537,10 +534,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------|-----------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-------------|-----------------------------|-----------------------------|------------------------------|
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |JBSRL FALL LEGENDS |North America |39 |1816 |Both | | | | |
 |[The Legend Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |The Legend Championship 1st edition |Europe |27 |1860 | | | | | |
-|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends\-Saturday Night Lights |North America |24 |2068 | |Irwindale Speedway |Sat, September 09 09:30AM EDT |Sat, September 09 02:30PM BST |Sat, September 09 11:30PM AEST |
+|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends\-Saturday Night Lights |North America |26 |2044 | |The Bullring |Sat, September 16 09:30AM EDT |Sat, September 16 02:30PM BST |Sat, September 16 11:30PM AEST |
 |[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends: Midnight Madness |North America |24 |1624 | | | | | |
 |[AOLL Racing's TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4855){:target="_blank"} |2023 Season 2 \- Legends |North America |18 |1400 |Fixed | | | | |
 
@@ -557,8 +554,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|----------------|-----------------------------|-----------------------------|------------------------------|
-|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023 \- Saturday Nights Silver Crown |North America |10 |1720 |Fixed |Langley Speedway |Sat, September 09 06:35PM EDT |Sat, September 09 11:35PM BST |Sun, September 10 08:35AM AEST |
+|-------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|---------------|-----------------------------|-----------------------------|------------------------------|
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023 \- Saturday Nights Silver Crown |North America |12 |1640 |Fixed |Phoenix Raceway |Sat, September 16 06:35PM EDT |Sat, September 16 11:35PM BST |Sun, September 17 08:35AM AEST |
 
 ### Street Stock
 
@@ -566,7 +563,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|---------------|-----------------------------|-----------------------------|------------------------------|
-|[SOG Racing \(Slow Old Guy's\)](https://members.iracing.com/membersite/member/LeagueView.do?league=1586){:target="_blank"} |SEASON \#30 |North America |40 |1531 |Open |Kansas Speedway |Mon, September 11 09:00PM EDT |Tue, September 12 02:00AM BST |Tue, September 12 11:00AM AEST |
+|[SOG Racing \(Slow Old Guy's\)](https://members.iracing.com/membersite/member/LeagueView.do?league=1586){:target="_blank"} |SEASON \#30 |North America |39 |1529 |Open |Kansas Speedway |Mon, September 11 09:00PM EDT |Tue, September 12 02:00AM BST |Tue, September 12 11:00AM AEST |
 |[XCAL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1264){:target="_blank"} |2023 XCAL Racing Web Shop Series |North America |31 |2569 |Both | | | | |
 |[SOG Racing \(Slow Old Guy's\)](https://members.iracing.com/membersite/member/LeagueView.do?league=1586){:target="_blank"} |S\.O\.G TEAMS RACING SEASON \#1 |North America |25 |1740 |Open | | | | |
 |[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S27 |North America |20 |1710 |Fixed | | | | |
@@ -580,7 +577,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
 |[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Monday Night Madness Season \#11 |North America |45 |2624 |Both | | | | |
-|[All Pro Sim Super Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=208){:target="_blank"} |2023 SLM Championship |North America |44 |2543 |Fixed | | | | |
+|[All Pro Sim Super Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=208){:target="_blank"} |2023 SLM Championship |North America |42 |2558 |Fixed | | | | |
 |[MSiRT SLM Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9562){:target="_blank"} |2023 Wednesday Night SLM Summer Series |North America |35 |2805 | | | | | |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2023 SEASON 3 SLM SERIES |North America |35 |2029 | |Stafford Motor Speedway |Mon, September 11 07:00PM EDT |Tue, September 12 12:00AM BST |Tue, September 12 09:00AM AEST |
 |[BRL Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S22 |North America |32 |2039 |Fixed | | | | |
@@ -597,7 +594,7 @@
 |----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C Wings'N'Slicks Formula 3 Series |Australia-NZ |37 |1938 |Both |Chicago Street Course |Fri, September 15 05:05AM EDT |Fri, September 15 10:05AM BST |Fri, September 15 07:05PM AEST |
 |[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2023\-3 |Europe |23 |2077 |Fixed | | | | |
-|[The Simpletons Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |The Simpletons Formula 3 Championship, Season 2 |North America |18 |2118 |Fixed |Watkins Glen International |Sat, September 09 02:00PM EDT |Sat, September 09 07:00PM BST |Sun, September 10 04:00AM AEST |
+|[The Simpletons Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |The Simpletons Formula 3 Championship, Season 2 |North America |19 |2126 |Fixed |MotorLand Aragón |Wed, September 13 02:00PM EDT |Wed, September 13 07:00PM BST |Thu, September 14 04:00AM AEST |
 |[CRF3](https://members.iracing.com/membersite/member/LeagueView.do?league=10105){:target="_blank"} |Season 1 |North America |17 |2041 | |Okayama International Circuit |Wed, September 13 09:00PM EDT |Thu, September 14 02:00AM BST |Thu, September 14 11:00AM AEST |
 
 ### Dallara IR18
@@ -608,8 +605,8 @@
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Warriors 4 Peace Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3645){:target="_blank"} |2023 OPEN WHEEL |North America |40 |2890 | | | | | |
 |[Lionheart Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3172){:target="_blank"} |2023 Open Wheel Season |North America |37 |3464 |Fixed | | | | |
-|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Open Wheel Series Practice |North America |32 |None |Fixed | | | | |
 |[Area 51/Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |2023 Season 3 |North America |31 |2387 | | | | | |
+|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Open Wheel Series Practice |North America |31 |None |Fixed | | | | |
 |[TKC Esports Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8661){:target="_blank"} |TKC Esports Season 4 |North America |30 |1754 |Fixed | | | | |
 |[SAAC Offseason Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9899){:target="_blank"} |SAAC OFFSEASON SERIES: INDYCAR |North America |28 |2415 |Fixed | | | | |
 |[Great Lakes Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |IndyCar Summer Series |North America |25 |2096 |Fixed | | | | |
@@ -643,10 +640,11 @@
 |[EVAL \- Eesti Virtuaalse Autospordi Liit](https://members.iracing.com/membersite/member/LeagueView.do?league=10052){:target="_blank"} |EST1 Racing F4 EMV 2023 |Europe |57 |1891 | |Okayama International Circuit |Mon, September 11 11:00AM EDT |Mon, September 11 04:00PM BST |Tue, September 12 01:00AM AEST |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2023 S3 Fia F4 Series |Europe |47 |2636 | | | | | |
 |[Alt\-F4 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8481){:target="_blank"} |Season 5 \- The New Dawn |North America |44 |2554 | | | | | |
-|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 8 \- British F4 |Europe |39 |1880 |Both | | | | |
+|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 8 \- British F4 |Europe |39 |1880 |Both |Oulton Park Circuit |Sun, September 17 03:00PM EDT |Sun, September 17 08:00PM BST |Mon, September 18 05:00AM AEST |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Season 4 |Europe |36 |2400 |Both | | | | |
 |[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |33 |1959 | | | | | |
 |[FRG Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=9999){:target="_blank"} |ASIA\-PACIFIC JUNIOR ESPORTS CHALLENGE |Australia-NZ |25 |1999 | | | | | |
+|[Light Speed Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8427){:target="_blank"} |Single Seater Saturday F4 |North America |14 |1228 |Both | | | | |
 |[Shake 'n Bake Racing \-Elite Euro Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5161){:target="_blank"} |Season 13 |North America |13 |1654 |Fixed | | | | |
 
 ### Formula Vee
@@ -715,14 +713,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
 |[FRG](https://members.iracing.com/membersite/member/LeagueView.do?league=3483){:target="_blank"} |2023 Australian Formula Ford E\-Series |Australia-NZ |117 |2605 |Fixed | | | | |
 |[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |FF1600 WW 2023S3 |North America |53 |2940 |Open | | | | |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C Formula Ford Sprint Series |Australia-NZ |52 |2044 |Both |MotorLand Aragón |Wed, September 13 04:23AM EDT |Wed, September 13 09:23AM BST |Wed, September 13 06:23PM AEST |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |RPR Season 29 \- Road to the V8SC |Australia-NZ |30 |2515 |Open | | | | |
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |Non\-Championship |North America |29 |1948 | | | | | |
 |[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 2 USA |Australia-NZ |24 |2037 | | | | | |
-|[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2023 Summer Ray FF |North America |24 |1477 |Fixed |Phillip Island Circuit |Mon, September 11 08:00PM EDT |Tue, September 12 01:00AM BST |Tue, September 12 10:00AM AEST |
+|[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2023 Summer Ray FF |North America |22 |1467 |Fixed |Phillip Island Circuit |Mon, September 11 08:00PM EDT |Tue, September 12 01:00AM BST |Tue, September 12 10:00AM AEST |
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |2023 S2 |North America |16 |1970 | | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Formula Ford Summer 2023 |North America |15 |1279 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Off\-Road Grand Prix: Super 1600 |North America |11 |2105 |Fixed | | | | |
@@ -734,7 +731,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Sunday Night Skippy](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |SUNDAY NIGHT SKIPPY S15 |North America |39 |3060 |Open | | | | |
-|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 24 |Europe |35 |2651 |Both | | | | |
+|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 24 |Europe |35 |2679 |Both | | | | |
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Skip Barber \- Season\#07 |Europe |17 |1984 |Both | | | | |
 
 ### USF 2000
@@ -744,7 +741,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |USF2000 Season 2 |Europe |29 |1802 |Both |Thompson Speedway Motorsports Park |Sun, September 10 03:00PM EDT |Sun, September 10 08:00PM BST |Mon, September 11 05:00AM AEST |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60Plus Season 27 USF2000 |North America |25 |1360 |Fixed | | | | |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60Plus Season 27 USF2000 |North America |25 |1339 |Fixed | | | | |
 
 ### Williams FW31
 
@@ -806,31 +803,31 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------|-------|----|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[V8 Veterans Season 16](https://members.iracing.com/membersite/member/LeagueView.do?league=6788){:target="_blank"} |Season 16 |Australia-NZ |149 |1812 | | | | | |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C GT3 Am Series \- Presented by Waste Options |Australia-NZ |75 |1550 |Both |Road America |Mon, September 11 05:15AM EDT |Mon, September 11 10:15AM BST |Mon, September 11 07:15PM AEST |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C GT3 Am Series \- Presented by Waste Options |Australia-NZ |74 |1555 |Both |Road America |Mon, September 11 05:15AM EDT |Mon, September 11 10:15AM BST |Mon, September 11 07:15PM AEST |
 |[RPM European GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7826){:target="_blank"} |RPM GT3 Season 7 |Europe |72 |1898 |Open | | | | |
 |[Supercheap Auto East Coast V8 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3008){:target="_blank"} |Season 7 |Australia-NZ |66 |3215 |Open | | | | |
 |[Virtual Belcar](https://members.iracing.com/membersite/member/LeagueView.do?league=2715){:target="_blank"} |Virtual Belcar 2023 |Europe |62 |3145 | | | | | |
 |[Premier Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=8948){:target="_blank"} |Gamer Gear Direct GT3 Endurance Championship: Season 2 |Australia-NZ |61 |1946 | |Autodromo Nazionale Monza |Sun, September 10 05:00AM EDT |Sun, September 10 10:00AM BST |Sun, September 10 07:00PM AEST |
-|[GSRC\.inc GT3 Pro Split \- Presented by Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2023C GT3 Pro Series |Australia-NZ |61 |2600 | |Road America |Mon, September 11 05:15AM EDT |Mon, September 11 10:15AM BST |Mon, September 11 07:15PM AEST |
+|[GSRC\.inc GT3 Pro Split \- Presented by Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2023C GT3 Pro Series |Australia-NZ |61 |2591 | |Road America |Mon, September 11 05:15AM EDT |Mon, September 11 10:15AM BST |Mon, September 11 07:15PM AEST |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GT3 Sprint Season 4 |North America |56 |2020 |Open |Nürburgring Nordschleife |Sun, September 10 07:30PM EDT |Mon, September 11 12:30AM BST |Mon, September 11 09:30AM AEST |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |NXTCC Season 3 |Europe |52 |2504 |Fixed | | | | |
 |[PRL GT3 Fixed Series \(Tuesday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3578){:target="_blank"} |PRL Tuesday GT3 Fixed Series 2023/S2 |North America |50 |1744 |Open | | | | |
 |[Logitech G Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8323){:target="_blank"} |2022 |Australia-NZ |48 |4564 | | | | | |
 |[Campeonato de Velocidad Virtual by Falken](https://members.iracing.com/membersite/member/LeagueView.do?league=8823){:target="_blank"} |Campeonato de Primavera |North America |46 |2385 |Fixed | | | | |
+|[Fendi Racing eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=9080){:target="_blank"} |Season 3 Pro Am |North America |46 |1754 |Open |Sebring International Raceway |Sat, September 16 03:00PM EDT |Sat, September 16 08:00PM BST |Sun, September 17 05:00AM AEST |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |NXTCC test session |Europe |44 |2378 |Fixed | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C Production Car Challenge |Australia-NZ |42 |2002 |Both |Mount Panorama Circuit |Thu, September 14 04:20AM EDT |Thu, September 14 09:20AM BST |Thu, September 14 06:20PM AEST |
-|[DMSB SimRacing Championship Sprint Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |DSRC\-Sprint \- Main Race |Europe |41 |3219 | | | | | |
-|[DMSB SimRacing Championship Sprint Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |DSRC\-Sprint \- Hyper Sprint Race |Europe |40 |3219 | | | | | |
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Season 3 Race  |Australia-NZ |40 |1705 |Open | | | | |
-|[AOG V8 Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9829){:target="_blank"} |Season 1 |Australia-NZ |40 |3013 | | | | | |
+|[AOG V8 Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9829){:target="_blank"} |Season 1 |Australia-NZ |38 |3057 | | | | | |
+|[DMSB SimRacing Championship Sprint Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |DSRC\-Sprint \- Hyper Sprint Race |Europe |37 |3182 | | | | | |
+|[DMSB SimRacing Championship Sprint Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |DSRC\-Sprint \- Main Race |Europe |37 |3182 | | | | | |
 |[DMSB SimRacing Championship Sprint Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |DSRC\-Sprint \- Main Race Qualifying |Europe |37 |None | | | | | |
 |[Premier Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=8948){:target="_blank"} |Gamer Gear Direct GT4 Championship |Australia-NZ |37 |1820 | |Circuit de Barcelona Catalunya |Wed, September 13 05:00AM EDT |Wed, September 13 10:00AM BST |Wed, September 13 07:00PM AEST |
 |[6 Sigma Sim Racing Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=9154){:target="_blank"} |Summer 2023 |North America |37 |1781 |Fixed | | | | |
-|[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing Winter Cup |North America |36 |1969 |Fixed | | | | |
+|[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing Winter Cup |North America |36 |1997 |Fixed | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 T2 2023 |South America |36 |1888 | | | | | |
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Amateur V8s Tuesdays PRAC / QUALIFYING |Australia-NZ |36 |1727 |Open | | | | |
 |[Xtreme Motorsports Ricmotech Touring Car Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4438){:target="_blank"} |Ricmotech Touring Car Cup Season 23 |North America |36 |2541 |Open | | | | |
-|[Fendi Racing eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=9080){:target="_blank"} |Season 3 Pro Am |North America |34 |1803 |Open |Circuit des 24 Heures du Mans |Sat, September 09 03:00PM EDT |Sat, September 09 08:00PM BST |Sun, September 10 05:00AM AEST |
 |[SRW \- CAMMUS Toyota GR86 Series 2023 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |CAMMUS Season 3 |Australia-NZ |34 |1411 | | | | | |
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |33 |1815 | | | | | |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GT3 Sprint Practice |North America |32 |None |Open | | | | |
@@ -839,9 +836,9 @@
 |[Aussie Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9402){:target="_blank"} |Season 1 |Australia-NZ |31 |1913 | | | | | |
 |[NMK eSport](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |2023 Asfalt NM |Europe |31 |2844 | |MotorLand Aragón |Sun, September 10 01:30PM EDT |Sun, September 10 06:30PM BST |Mon, September 11 03:30AM AEST |
 |[Old Mate Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7571){:target="_blank"} |Old Mate Racing Season 8 |Australia-NZ |31 |1616 |Both | | | | |
-|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |31 |4195 | | | | | |
 |[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |23S1 \| GT3 Championship |Australia-NZ |30 |2578 |Fixed | | | | |
 |[Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |ESR Season 2 \- PRACTICE & PRE SEASON |Europe |30 |1665 | |Autodromo Nazionale Monza |Mon, September 11 03:00PM EDT |Mon, September 11 08:00PM BST |Tue, September 12 05:00AM AEST |
+|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T3\-2023 |South America |30 |4178 | | | | | |
 |[Southern Cross E\-Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=7490){:target="_blank"} |2023 Southern Cross E\-Sports Championship Series |Australia-NZ |29 |2074 | | | | | |
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |SIMRIGS PRAC AND OPEN QUALIFYING V8 AMS |Australia-NZ |29 |1682 |Open | | | | |
 |[FRG Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=9999){:target="_blank"} |Tri\-Nations Esports Cup |Australia-NZ |29 |3768 | | | | | |
@@ -852,21 +849,21 @@
 |[SCSR](https://members.iracing.com/membersite/member/LeagueView.do?league=2802){:target="_blank"} |Friday Night GT3 2023 Season 13 Championship |Australia-NZ |27 |2217 | | | | | |
 |[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |23S1 \| GR86 Championship |Australia-NZ |26 |2540 |Fixed | | | | |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Saturday GT3 Series |North America |26 |1597 |Both | | | | |
-|[UK SimRacing Community \- Weekly Practice Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=6871){:target="_blank"} |GT3 Practice Session |Europe |25 |None | | | | | |
 |[ChampCar iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2580){:target="_blank"} |2023 ChampCar iRacing Series \- Sprint |North America |24 |1874 |Fixed |Canadian Tire Motorsports Park |Wed, September 13 06:30PM EDT |Wed, September 13 11:30PM BST |Thu, September 14 08:30AM AEST |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 12 \- multiclass |International |24 |1784 | | | | | |
-|[PROGNIS Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8197){:target="_blank"} |PROGNIS Cup 23s3 |Europe |24 |3148 |Fixed | | | | |
-|[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |GT3 |North America |24 |1038 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints GT3 series |Australia-NZ |22 |1096 | | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |STONECOLD RACING POP\-UP EVENTS |Australia-NZ |22 |1346 | | | | | |
+|[Danish International GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9674){:target="_blank"} |Season 1 |Europe |22 |1910 |Open |Autódromo José Carlos Pace |Sun, September 10 02:00PM EDT |Sun, September 10 07:00PM BST |Mon, September 11 04:00AM AEST |
 |[ITRL GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3313){:target="_blank"} |2023 Season |North America |21 |1424 |Fixed | | | | |
 |[Sunday GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=6037){:target="_blank"} |VRC GT MASTERS 2023 |Europe |21 |3028 |Open | | | | |
-|[Danish International GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9674){:target="_blank"} |Season 1 |Europe |21 |1910 |Open |Autódromo José Carlos Pace |Sat, September 09 02:00PM EDT |Sat, September 09 07:00PM BST |Sun, September 10 04:00AM AEST |
+|[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |GT3 |North America |21 |1086 | | | | | |
 |[GT3 for not so serious](https://members.iracing.com/membersite/member/LeagueView.do?league=3953){:target="_blank"} |2023 Season 3 |North America |20 |2075 | | | | | |
-|[Lite Speed Racing League \- GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=9192){:target="_blank"} |LSRL GT3 Summer Season |North America |20 |1593 | | | | | |
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |SIMRIGS TOP 10 SHOOT OUT V8 AMS |Australia-NZ |20 |2052 |Open | | | | |
+|[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |2023 Porsche Carrera Cup |Australia-NZ |20 |None | |Red Bull Ring |Sun, September 10 03:00AM EDT |Sun, September 10 08:00AM BST |Sun, September 10 05:00PM AEST |
 |[ChampCar iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2580){:target="_blank"} |2023 ChampCar iRacing Series: Practice Rounds |North America |19 |1674 |Fixed | | | | |
 |[DMSB SimRacing Championship Sprint Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |DSRC\-Sprint – FP 4 |Europe |19 |3254 | | | | | |
+|[Lite Speed Racing League \- GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=9192){:target="_blank"} |LSRL GT3 Summer Season |North America |19 |1604 | | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |SuperTour II \- 2023 |North America |19 |1574 |Fixed |Charlotte Motor Speedway |Sat, September 16 08:30PM EDT |Sun, September 17 01:30AM BST |Sun, September 17 10:30AM AEST |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |Fun Runs and Practice |North America |18 |1862 |Both | | | | |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 S2 Touring |North America |18 |2417 |Open | | | | |
 |[Sim Racing Grid](https://members.iracing.com/membersite/member/LeagueView.do?league=9370){:target="_blank"} |SRG GT3 Championship |North America |18 |2104 | | | | | |
@@ -878,14 +875,14 @@
 |[Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |2023 Precision Intl National Sports Sedan Series |Australia-NZ |15 |1837 | | | | | |
 |[CAS\- iRacing\- Community](https://members.iracing.com/membersite/member/LeagueView.do?league=9707){:target="_blank"} |GT3 World Championship Tour |Europe |14 |1846 |Both | | | | |
 |[Snail Speed Racing \- GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=5453){:target="_blank"} |2023\-S3 |Europe |14 |2249 |Open | | | | |
+|[UK SimRacing Community \- Weekly Practice Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=6871){:target="_blank"} |GT3 Practice Session |Europe |14 |None | | | | | |
 |[DMSB SimRacing Championship Sprint Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |DSRC\-Sprint – FP 2 |Europe |13 |3043 | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |SuperTour II \- 2023 |North America |13 |1588 |Fixed |Knockhill Racing Circuit |Sat, September 09 08:30PM EDT |Sun, September 10 01:30AM BST |Sun, September 10 10:30AM AEST |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |AORT Safari Rally \- 2023 |North America |13 |2005 |Fixed |Bark River International Raceway |Sat, September 16 09:30PM EDT |Sun, September 17 02:30AM BST |Sun, September 17 11:30AM AEST |
 |[FTR Internal Events](https://members.iracing.com/membersite/member/LeagueView.do?league=5766){:target="_blank"} |Sunday Cup S2 |North America |12 |2697 | | | | | |
 |[Slowbois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9743){:target="_blank"} |Slowbois Season 4 |North America |12 |1488 | | | | | |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |FunRaces / Treinos |Europe |12 |2915 | | | | | |
 |[Delta V Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8919){:target="_blank"} |Training |Europe |11 |None | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |AORT Safari Rally \- 2023 |North America |11 |1949 |Fixed |Crandon International Raceway |Sat, September 09 09:30PM EDT |Sun, September 10 02:30AM BST |Sun, September 10 11:30AM AEST |
-|[Formula Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9584){:target="_blank"} |iMotoring Mondays |Europe |10 |1340 |Both | | | | |
+|[Formula Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9584){:target="_blank"} |iMotoring Mondays |Europe |10 |1323 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Off\-Road Grand Prix: Ultra Stock |North America |10 |2017 |Fixed | | | | |
 
 ### IMPCGT4 Class
@@ -894,7 +891,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C GT4 Challenge \- Presented by Orbic |Australia-NZ |70 |2177 |Both |Circuit de Nevers Magny-Cours |Mon, September 11 04:12AM EDT |Mon, September 11 09:12AM BST |Mon, September 11 06:12PM AEST |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C GT4 Challenge \- Presented by Orbic |Australia-NZ |67 |2192 |Both |Circuit de Nevers Magny-Cours |Mon, September 11 04:12AM EDT |Mon, September 11 09:12AM BST |Mon, September 11 06:12PM AEST |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Wednesday GT4 Series |North America |36 |1474 |Both | | | | |
 |[Sim Racing Magazine Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7770){:target="_blank"} |SRM GT4 Challenge Season 3 |Europe |34 |2252 | | | | | |
 |[JPB GT4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9751){:target="_blank"} |season 1 |Europe |31 |1970 | | | | | |
@@ -922,10 +919,10 @@
 |[Spec\-5 World Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=3784){:target="_blank"} |Spec\-5 World Tour Season 14 |North America |40 |2811 |Fixed |Okayama International Circuit |Thu, September 14 07:15PM EDT |Fri, September 15 12:15AM BST |Fri, September 15 09:15AM AEST |
 |[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |DIVISION ONE |Europe |39 |3352 |Fixed | | | | |
 |[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |DIVISION TWO |Europe |34 |1377 |Fixed | | | | |
-|[FunCup](https://members.iracing.com/membersite/member/LeagueView.do?league=9876){:target="_blank"} |Temporada 01 \- Mx5 |North America |25 |1540 | | | | | |
+|[FunCup](https://members.iracing.com/membersite/member/LeagueView.do?league=9876){:target="_blank"} |Temporada 01 \- Mx5 |North America |25 |1537 | | | | | |
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T3\-2023 |South America |23 |2844 | | | | | |
-|[Sudamerica Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9719){:target="_blank"} |Mazda MX5 \(Temporada 1\) |North America |19 |1833 | | | | | |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 S2 MX5 |North America |18 |2468 |Open | | | | |
+|[Sudamerica Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9719){:target="_blank"} |Mazda MX5 \(Temporada 1\) |North America |15 |1916 | | | | | |
 |[MLR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4963){:target="_blank"} |MLR Short Track Series 2023 Q3 |North America |14 |2074 |Fixed | | | | |
 |[DML South Africa](https://members.iracing.com/membersite/member/LeagueView.do?league=9549){:target="_blank"} |DML \| SIMX\-5 \| 23S4 |Africa |11 |1409 |Both | | | | |
 
@@ -948,10 +945,9 @@
 |[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |T3\-2023 |South America |31 |3818 | | | | | |
 |[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT PORSCHE CUP S10 |North America |26 |1959 |Fixed |Autodromo Nazionale Monza |Sun, September 10 08:30PM EDT |Mon, September 11 01:30AM BST |Mon, September 11 10:30AM AEST |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Porsche Super Cup \- Season 2 |Europe |20 |2019 |Both |Road America |Sun, September 10 03:00PM EDT |Sun, September 10 08:00PM BST |Mon, September 11 05:00AM AEST |
-|[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |2023 Porsche Carrera Cup |Australia-NZ |20 |None | |Red Bull Ring |Sun, September 10 03:00AM EDT |Sun, September 10 08:00AM BST |Sun, September 10 05:00PM AEST |
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |2023 Porsche Cup |North America |19 |2423 |Both | | | | |
 |[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |17 |1810 | |Circuit des 24 Heures du Mans |Sun, September 10 02:00PM EDT |Sun, September 10 07:00PM BST |Mon, September 11 04:00AM AEST |
-|[UK SimRacing Community \- Weekly Practice Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=6871){:target="_blank"} |PCup Practice Session |Europe |15 |3106 | | | | | |
+|[UK SimRacing Community \- Weekly Practice Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=6871){:target="_blank"} |PCup Practice Session |Europe |14 |3065 | | | | | |
 
 ### Porsche 911 GT3 R (992)
 
@@ -960,11 +956,11 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[PCGB Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4489){:target="_blank"} |PCGB Season 7 Qualifiers |Europe |35 |None | | | | | |
-|[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2023\-2 |North America |30 |1769 |Open |Willow Springs International Raceway |Mon, September 11 07:45PM EDT |Tue, September 12 12:45AM BST |Tue, September 12 09:45AM AEST |
+|[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2023\-2 |North America |27 |1812 |Open |Willow Springs International Raceway |Mon, September 11 07:45PM EDT |Tue, September 12 12:45AM BST |Tue, September 12 09:45AM AEST |
 |[PCA S10 \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Classroom |North America |26 |None | |WeatherTech Raceway at Laguna Seca |Wed, September 13 09:00PM EDT |Thu, September 14 02:00AM BST |Thu, September 14 11:00AM AEST |
 |[PCA S10 \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class eDEs |North America |25 |1241 | |WeatherTech Raceway at Laguna Seca |Sun, September 10 09:00PM EDT |Mon, September 11 02:00AM BST |Mon, September 11 11:00AM AEST |
-|[PCA S10 \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Sunset Cruise |North America |20 |1329 | | | | | |
-|[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2023 Practice |North America |19 |1632 |Open |Willow Springs International Raceway |Sat, September 09 08:30PM EDT |Sun, September 10 01:30AM BST |Sun, September 10 10:30AM AEST |
+|[PCA S10 \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Sunset Cruise |North America |20 |1329 | |WeatherTech Raceway at Laguna Seca |Sun, September 17 09:00PM EDT |Mon, September 18 02:00AM BST |Mon, September 18 11:00AM AEST |
+|[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2023 Practice |North America |19 |1632 |Open |Willow Springs International Raceway |Sun, September 10 08:30PM EDT |Mon, September 11 01:30AM BST |Mon, September 11 10:30AM AEST |
 |[PCGB Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4489){:target="_blank"} |PCGB season 7 mid week fun |Europe |16 |1552 | |Red Bull Ring |Wed, September 13 02:30PM EDT |Wed, September 13 07:30PM BST |Thu, September 14 04:30AM AEST |
 
 ### Renault Clio
@@ -973,7 +969,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
-|[JPB Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9558){:target="_blank"} |Season 2 |Europe |33 |2115 |Open | | | | |
+|[JPB Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9558){:target="_blank"} |Season 2 |Europe |33 |2146 |Open | | | | |
 |[JPB Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9558){:target="_blank"} |Season 3 |Europe |25 |1974 |Open |Phillip Island Circuit |Mon, September 11 01:00PM EDT |Mon, September 11 06:00PM BST |Tue, September 12 03:00AM AEST |
 |[iRSA Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7082){:target="_blank"} |Clio Cup \| Season 1 |Africa |24 |2245 |Fixed | | | | |
 |[BSTV UK Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3851){:target="_blank"} |Clio Cup S1 |Europe |17 |2561 | | | | | |
@@ -984,12 +980,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
+|[V8 Veterans Season 17](https://members.iracing.com/membersite/member/LeagueView.do?league=10129){:target="_blank"} |Season 17 |Australia-NZ |49 |None | |Motorsport Arena Oschersleben |Sun, September 10 03:00AM EDT |Sun, September 10 08:00AM BST |Sun, September 10 05:00PM AEST |
 |[Australasian Supercar eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=5586){:target="_blank"} |ASE Season 7 |Australia-NZ |33 |1737 |Fixed |Atlanta Motor Speedway |Sun, September 10 05:00AM EDT |Sun, September 10 10:00AM BST |Sun, September 10 07:00PM AEST |
 |[Australasian Supercar eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=5586){:target="_blank"} |Season 6 |Australia-NZ |33 |1894 |Fixed | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing \- V8 Champions Challenge |Australia-NZ |29 |1329 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday Night V8 series 3 |Australia-NZ |26 |1169 | | | | | |
-|[Simability V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=713){:target="_blank"} |Season 14 \(Simability\) |Europe |26 |3086 |Open |Circuito de Jerez - Ángel Nieto |Sat, September 09 01:00PM EDT |Sat, September 09 06:00PM BST |Sun, September 10 03:00AM AEST |
+|[Simability V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=713){:target="_blank"} |Season 14 \(Simability\) |Europe |26 |3139 |Open | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints V8 Supercars season 6 |Australia-NZ |20 |1186 | | | | | |
 
 ### Touring Car
@@ -998,7 +995,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC S8 |North America |52 |2608 |Open | | | | |
+|[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC S8 |North America |50 |2619 |Open | | | | |
 |[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |TCR \| 2023 Season 2 \| Raceface\.Pro |Africa |43 |1930 |Both |Okayama International Circuit |Sun, September 10 02:00PM EDT |Sun, September 10 07:00PM BST |Mon, September 11 04:00AM AEST |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |ESR Casual \- TCR Challenge |Europe |40 |1951 | |Oulton Park Circuit |Wed, September 13 01:00PM EDT |Wed, September 13 06:00PM BST |Thu, September 14 03:00AM AEST |
 |[WTCS \(World TCR Series\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2279){:target="_blank"} |WTCS \- SEASON 4 |Europe |40 |4353 | |Sebring International Raceway |Thu, September 14 12:30PM EDT |Thu, September 14 05:30PM BST |Fri, September 15 02:30AM AEST |
@@ -1018,17 +1015,16 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Toyota GR86 Championship |North America |33 |1288 |Both | | | | |
-|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL Monday GR86 Series 2023/S3 |North America |23 |2221 | | | | | |
 |[Octane Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5704){:target="_blank"} |GR86 Challenger Series |Australia-NZ |22 |1616 |Both | | | | |
 |[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |22 |2072 | | | | | |
-|[Delta Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8506){:target="_blank"} |DML \| GR86 Cup \| 23S4 |North America |19 |1357 |Both | | | | |
+|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL Monday GR86 Series 2023/S3 |North America |21 |2237 | | | | | |
 |[3Legs4Wheels Podcast League](https://members.iracing.com/membersite/member/LeagueView.do?league=5244){:target="_blank"} |A Summer of GR8 Six |Europe |17 |1886 | | | | | |
 |[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |PSM GR86 2023s3 |North America |16 |2033 |Open | | | | |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |Tuesday Twisty Bits |North America |15 |1084 |Fixed | | | | |
 |[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |15 |2281 | | | | | |
 |[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CiL GR86 Summer 2023 \(Season 8\) |North America |12 |1738 | | | | | |
 |[Delta Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8506){:target="_blank"} |DML USA \| Pit Party |North America |12 |1429 |Both | | | | |
-|[United Karting GT3 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9678){:target="_blank"} |UK GR86 |North America |12 |1175 |Open | | | | |
+|[United Karting GT3 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9678){:target="_blank"} |UK GR86 |North America |12 |1188 |Open | | | | |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Spotter On S2 |Europe |11 |2669 | |Okayama International Circuit |Tue, September 12 05:00PM EDT |Tue, September 12 10:00PM BST |Wed, September 13 07:00AM AEST |
 
 ### [Legacy] Ferrari 488 GT3
@@ -1045,7 +1041,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------|-----------|------------|-------|----|-----|-------------|--------|------|------|
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |PISSTON CUP |Australia-NZ |31 |1466 |Both | | | | |
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |PISSTON CUP |Australia-NZ |32 |1485 |Both | | | | |
 
 # Prototype
 
@@ -1082,7 +1078,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship |Europe |55 |2280 |Fixed | | | | |
-|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |46 |2845 |Open | | | | |
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S3 \- LMP3 Tournament |Europe |45 |2835 |Open | | | | |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint Series 6 \- Pre\-Season |North America |35 |2090 |Both | | | | |
 |[Sampsoid GT3 Championship Practice Group](https://members.iracing.com/membersite/member/LeagueView.do?league=9746){:target="_blank"} |Session 1 Sampsoid GT3 Championship Practice Group |Europe |18 |1598 |Fixed | | | | |
 |[Last Man Standing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=3745){:target="_blank"} |The LMS Ligier Challenge |North America |11 |1197 |Both |Circuit de Spa-Francorchamps |Tue, September 12 08:29PM EDT |Wed, September 13 01:29AM BST |Wed, September 13 10:29AM AEST |
@@ -1118,8 +1114,8 @@
 |[LSR Dirt Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9082){:target="_blank"} |LSR Dirt Shootout 358 Modifieds |North America |34 |2454 | | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |North America |24 |2077 |Open | | | | |
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |358 Fixed Modifieds |North America |21 |2108 |Both |Volusia Speedway Park |Sun, September 10 09:00PM EDT |Mon, September 11 02:00AM BST |Mon, September 11 11:00AM AEST |
-|[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |358 |North America |16 |1841 | | | | | |
 |[OutCasts](https://members.iracing.com/membersite/member/LeagueView.do?league=9459){:target="_blank"} |358s Season 2 |North America |16 |1632 |Both | | | | |
+|[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |358 |North America |13 |1880 | | | | | |
 
 ### Dirt Big Block Modified
 
@@ -1171,8 +1167,8 @@
 |[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |Tassie late model  dirt series |Australia-NZ |98 |3412 | | | | | |
 |["The Invitational" Dirt Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9890){:target="_blank"} |Season One |North America |22 |2951 | | | | | |
 |[Dirt Anarchy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9028){:target="_blank"} |Dirt Anarchy S3 Super Lates |North America |12 |3708 | | | | | |
-|[Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4582){:target="_blank"} |3C Super Late Models |North America |12 |1901 |Both |Limaland Motorsports Park |Mon, September 11 09:00PM EDT |Tue, September 12 02:00AM BST |Tue, September 12 11:00AM AEST |
 |[OutCasts](https://members.iracing.com/membersite/member/LeagueView.do?league=9459){:target="_blank"} |Supers Supers Supers |North America |11 |1796 |Both | | | | |
+|[Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4582){:target="_blank"} |3C Super Late Models |North America |11 |1869 |Both |Limaland Motorsports Park |Mon, September 11 09:00PM EDT |Tue, September 12 02:00AM BST |Tue, September 12 11:00AM AEST |
 
 ### Dirt Midget
 
@@ -1189,10 +1185,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-----------------|-----------------------------|-----------------------------|------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|--------------------|-----------------------------|-----------------------------|------------------------------|
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 305 |North America |36 |2142 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 305 |North America |20 |2053 |Open | | | | |
-|[305's Flat Out Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9959){:target="_blank"} |305's Flat Out Racing League |North America |19 |1602 |Fixed |Fairbury Speedway |Sat, September 09 08:00PM EDT |Sun, September 10 01:00AM BST |Sun, September 10 10:00AM AEST |
+|[305's Flat Out Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9959){:target="_blank"} |305's Flat Out Racing League |North America |19 |1602 |Fixed |Lernerville Speedway |Sat, September 16 08:00PM EDT |Sun, September 17 01:00AM BST |Sun, September 17 10:00AM AEST |
 |[Blue Collar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9155){:target="_blank"} |BCRL 305s Fall 2023 |North America |16 |2166 | | | | | |
 
 ### Dirt SprintCar - 360
@@ -1201,21 +1197,20 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
-|[American Dirt Series Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=2504){:target="_blank"} |Monday Night Lightning |North America |47 |3138 | | | | | |
 |[ASND Elite 360 Sprintcar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7201){:target="_blank"} |2023 Elite 360 sprintcars |Australia-NZ |47 |3569 | | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |North America |42 |2543 |Open | | | | |
+|[American Dirt Series Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=2504){:target="_blank"} |Monday Night Lightning |North America |45 |3165 | | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |North America |40 |2520 |Open | | | | |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |All Star 360 Sprint Cars 2023\.3 |North America |40 |2957 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |North America |39 |2217 |Open | | | | |
-|[The Kohort \- DIRT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9714){:target="_blank"} |Season 1 \- Open |North America |38 |2911 |Both | | | | |
 |[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |23 W360 |Australia-NZ |35 |2672 | | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |North America |34 |1964 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |'23 Turn2Terribles 360 Series |North America |32 |3274 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |North America |29 |2100 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |North America |31 |1956 |Open | | | | |
 |[National Auto Racing Club \- Ignition Series \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5331){:target="_blank"} |Ignition Series \- 2023 Season 3 |North America |27 |2066 |Open |USA International Speedway |Wed, September 13 08:35PM EDT |Thu, September 14 01:35AM BST |Thu, September 14 10:35AM AEST |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |North America |27 |2075 |Open | | | | |
 |[ASND Evolution 360 sprintcar series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |2023 Evolution 360 Sprintcars |Australia-NZ |26 |1841 | | | | | |
 |[2023 360 Power Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2023 360 Power Series |Australia-NZ |25 |3696 | | | | | |
-|[American Dirt Series Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=2504){:target="_blank"} |Monday Night Thunder |North America |16 |2307 | | | | | |
 |[Reaper Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8215){:target="_blank"} |RRL 360 Wing Sprints  |North America |16 |3413 |Fixed | | | | |
+|[American Dirt Series Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=2504){:target="_blank"} |Monday Night Thunder |North America |14 |2312 | | | | | |
 |[KCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=9075){:target="_blank"} |monstar energy 360 sprintcars |Australia-NZ |12 |2528 |Open | | | | |
 |[CanAm Dirt Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9809){:target="_blank"} |CanAm 360 Sprint Car Series, 2023 S2 |North America |11 |2516 |Fixed |Eldora Speedway |Wed, September 13 08:59PM EDT |Thu, September 14 01:59AM BST |Thu, September 14 10:59AM AEST |
 |[Turn 3 Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=5270){:target="_blank"} |T3E 360 Winged Sprints |North America |10 |1988 |Open | | | | |
@@ -1243,13 +1238,14 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |2023\-S3 NARC 410 Outlaw Winged Sprints |North America |54 |3698 |Open | | | | |
-|[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |'23 PA Speedweeks |North America |45 |3445 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |'23 Williams Grove Track Championship |North America |42 |3339 |Open | | | | |
+|[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |'23 PA Speedweeks |North America |38 |3381 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |'23 Lincoln Track Championship |North America |36 |3092 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 410 |North America |32 |2412 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |'23 Lernerville Track Championship |North America |29 |3557 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |'23 Port Royal Track Championship |North America |27 |3190 |Open | | | | |
 |[Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4582){:target="_blank"} |3C 410W Sprints |North America |12 |2181 |Both |Limaland Motorsports Park |Sun, September 10 09:00PM EDT |Mon, September 11 02:00AM BST |Mon, September 11 11:00AM AEST |
+|[KCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=9075){:target="_blank"} |supercheap auto 410 sprintcars |Australia-NZ |10 |2095 |Open | | | | |
 |[UNOH iRacing eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8038){:target="_blank"} |UNOH Sunday Season 1 |North America |10 |2003 |Fixed |Eldora Speedway |Sun, September 10 09:00PM EDT |Mon, September 11 02:00AM BST |Mon, September 11 11:00AM AEST |
 
 ### Dirt Street Stock
@@ -1261,7 +1257,7 @@
 |[Tuesday Night Feature](https://members.iracing.com/membersite/member/LeagueView.do?league=10094){:target="_blank"} |Dirt Street Stock Season 1 |North America |53 |3524 | | | | | |
 |[Piggles & Cards744 Mud Run](https://members.iracing.com/membersite/member/LeagueView.do?league=10061){:target="_blank"} |Season 1 DSS |North America |23 |2668 | | | | | |
 |[T&A Motorsports Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7420){:target="_blank"} |T&A Motorsport Dirt Street Stocks 3 |North America |23 |3782 | | | | | |
-|[CR Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=10063){:target="_blank"} |Saturday Night Showdown |North America |18 |3673 | | | | | |
+|[CR Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=10063){:target="_blank"} |Saturday Night Showdown |North America |20 |3585 | | | | | |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |Monday Street Stock Mayhem |North America |16 |1528 |Fixed | | | | |
 |[OutCasts](https://members.iracing.com/membersite/member/LeagueView.do?league=9459){:target="_blank"} |Street Stocks |North America |11 |1742 |Both | | | | |
 
@@ -1289,11 +1285,11 @@
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
 |[\#0 5150 Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7269){:target="_blank"} |2023 S2 |North America |51 |1713 |Fixed | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |North America |43 |2223 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- FUN RUN |North America |34 |2281 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- FUN RUN |North America |30 |2262 |Open | | | | |
+|[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |Lucas Oil Track Championship 2023\.3 |North America |23 |2757 |Open | | | | |
 |[Extreme Forces DIRTKARS](https://members.iracing.com/membersite/member/LeagueView.do?league=7932){:target="_blank"} |EFRL DIRTKARS SEASON 4 |North America |21 |2070 | |Limaland Motorsports Park |Thu, September 14 08:30PM EDT |Fri, September 15 01:30AM BST |Fri, September 15 10:30AM AEST |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Tuesday Dirt Ovals |North America |21 |1465 |Both | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |Dirt Track Beginner Series Season 1 |North America |18 |1528 |Fixed |USA International Speedway |Thu, September 14 08:30PM EDT |Fri, September 15 01:30AM BST |Fri, September 15 10:30AM AEST |
-|[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |Lucas Oil Track Championship 2023\.3 |North America |15 |2631 |Open |Lucas Oil Speedway |Sat, September 09 09:00PM EDT |Sun, September 10 02:00AM BST |Sun, September 10 11:00AM AEST |
 |[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2023 Dirty Thursdays Dirt Oval Racing |North America |13 |1455 |Fixed |Lanier National Speedway |Thu, September 14 09:00PM EDT |Fri, September 15 02:00AM BST |Fri, September 15 11:00AM AEST |
 |[The Peoples Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=10083){:target="_blank"} |Season 1 |North America |11 |1538 |Fixed | | | | |
 
@@ -1305,7 +1301,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Overwatch Specialty Service NASA Rallycross Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |23b |North America |27 |3358 | | | | | |
+|[Overwatch Specialty Service NASA Rallycross Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |23b |North America |26 |3281 | | | | | |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |SEL Funrace |Europe |14 |2152 | | | | | |
 
 ### VW Beetle Lite
@@ -1313,8 +1309,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |AORT Class 11X \- 2023 |North America |15 |2173 |Fixed |Crandon International Raceway |Sat, September 09 09:00PM EDT |Sun, September 10 02:00AM BST |Sun, September 10 11:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |AORT Class 11X \- 2023 |North America |18 |2201 |Fixed |Bark River International Raceway |Sat, September 16 09:00PM EDT |Sun, September 17 02:00AM BST |Sun, September 17 11:00AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Vw Lite |North America |11 |1276 | |Lime Rock Park |Wed, September 13 10:10PM EDT |Thu, September 14 03:10AM BST |Thu, September 14 12:10PM AEST |
 
 # Dirt Road
@@ -1357,110 +1353,110 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Elite JoinAPS\.com Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3344){:target="_blank"} |2023B |North America |64 |2852 |Fixed | | | | |
-|[Roadster Rumble \- Simagic Showroom Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |Season 9 |Australia-NZ |59 |1614 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL 4Funs |South America |58 |1864 | | | | | |
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |OFSR PRACTICE RACE |North America |54 |1948 | | | | | |
+|[Roadster Rumble \- Simagic Showroom Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |Season 9 |Australia-NZ |57 |1621 | | | | | |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |OFSR PRACTICE RACE |North America |53 |1957 | |Auto Club Speedway |Sun, September 10 07:00PM EDT |Mon, September 11 12:00AM BST |Mon, September 11 09:00AM AEST |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C Formula Ford Sprint Series |Australia-NZ |52 |2044 |Both |MotorLand Aragón |Wed, September 13 04:23AM EDT |Wed, September 13 09:23AM BST |Wed, September 13 06:23PM AEST |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |IZZO Plumbing Friday Legacy Series 3 2023 |North America |49 |1412 |Both | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL Multiclass IMSA by RAKE PARTS |South America |47 |1947 | |Daytona International Speedway |Mon, September 11 05:30PM EDT |Mon, September 11 10:30PM BST |Tue, September 12 07:30AM AEST |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Gabir Motors Cup Season 15 |North America |47 |1573 | | | | | |
-|[Xtreme Motorsports Ricmotech World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2648){:target="_blank"} |Ricmotech World Challenge S7 |North America |45 |2251 | | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Beef Jerky Unlimited Sunday Series |North America |44 |1440 |Both |Bristol Motor Speedway |Sun, September 10 08:00PM EDT |Mon, September 11 01:00AM BST |Mon, September 11 10:00AM AEST |
 |[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |23S1 \| NASCAR Cup Series |Australia-NZ |43 |1955 |Fixed | | | | |
 |[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |Season 3 |Australia-NZ |43 |1954 | | | | | |
 |[ORNL Manufacturer Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5652){:target="_blank"} |IMSA 2023 |Europe |42 |2183 |Open |Fuji International Speedway |Thu, September 14 02:00PM EDT |Thu, September 14 07:00PM BST |Fri, September 15 04:00AM AEST |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Western Grinding Prototype Progression Series |North America |41 |1384 |Both | | | | |
+|[Xtreme Motorsports Ricmotech World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2648){:target="_blank"} |Ricmotech World Challenge S7 |North America |41 |2248 | | | | | |
 |[CE\-GT3 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2023 SELECTION |Europe |40 |2401 | | | | | |
 |[FRG \- S5000](https://members.iracing.com/membersite/member/LeagueView.do?league=5610){:target="_blank"} |2023 Racekraft Simulations S5000 Eseries |Australia-NZ |40 |3605 | | | | | |
 |[PFR Sports Car Championship 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=9852){:target="_blank"} |PFR Sports Car Championship 2023 |North America |39 |1824 | | | | | |
 |[Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"} |E4A 2023 S3 |North America |39 |1657 |Fixed | | | | |
 |[Xtreme Motorsports Ricmotech World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2648){:target="_blank"} |Ricmotech World Challenge Season 8 |North America |39 |2294 | |Fuji International Speedway |Wed, September 13 05:00PM EDT |Wed, September 13 10:00PM BST |Thu, September 14 07:00AM AEST |
 |[American Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=18){:target="_blank"} |Exhibition Races and Tests |North America |39 |2102 |Fixed | | | | |
-|[Lionheart Sportscar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9399){:target="_blank"} |2023 SportsCar Championship Season |North America |39 |3340 | | | | | |
-|[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |GT Series Season 4 |North America |38 |1620 |Fixed |Road Atlanta |Mon, September 11 08:30PM EDT |Tue, September 12 01:30AM BST |Tue, September 12 10:30AM AEST |
-|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Warm Up 1 Races |North America |38 |3020 |Fixed | | | | |
+|[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |GT Series Season 4 |North America |38 |1627 |Fixed |Road Atlanta |Mon, September 11 08:30PM EDT |Tue, September 12 01:30AM BST |Tue, September 12 10:30AM AEST |
 |[SimCAR \- Penguin R/C Simulation Grand\-Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5221){:target="_blank"} |2023 Grand Am Lite |North America |38 |2011 |Open | | | | |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |Event specjalny |Europe |38 |2171 |Both | | | | |
 |[FRG \- F4A](https://members.iracing.com/membersite/member/LeagueView.do?league=9819){:target="_blank"} |2023 Motorsport Australia F4 eSports Cup |Australia-NZ |37 |3589 | |Watkins Glen International |Tue, September 12 04:59AM EDT |Tue, September 12 09:59AM BST |Tue, September 12 06:59PM AEST |
+|[Lionheart Sportscar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9399){:target="_blank"} |2023 SportsCar Championship Season |North America |37 |3320 | | | | | |
+|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Warm Up 1 Races |North America |36 |3060 |Fixed | | | | |
 |[CORT DriveFirst\.org Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2875){:target="_blank"} |CORT GT 2023B |North America |36 |1755 |Open | | | | |
-|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 SportsCar Series Practice |North America |35 |None |Fixed | | | | |
+|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 SportsCar Series Practice |North America |34 |None |Fixed | | | | |
 |[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |RGR\-Racing Next Gen Cup Summer Series |North America |34 |1779 |Fixed | | | | |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |GBC Powersports \- Handicap Saturday |North America |34 |None |Both | | | | |
 |[RSE PRESENTS SIMSA WORLD CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=5467){:target="_blank"} |RSE SIMSA OFFICIAL SEASON 1 |Europe |33 |2260 |Fixed | | | | |
 |[Club100 / BUKC iRacing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6252){:target="_blank"} |C100/BUKC iRacing Championship 2023 |Europe |32 |2211 |Fixed | | | | |
 |[Screen to Speed Summer Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9979){:target="_blank"} |S2S Summer Cup |North America |32 |1738 | | | | | |
 |[BNR Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7544){:target="_blank"} |Season 4 |North America |31 |1498 | | | | | |
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |GBC Powersports \- Handicap Saturday |North America |31 |None |Both |Wild West Motorsports Park |Sat, September 09 08:00PM EDT |Sun, September 10 01:00AM BST |Sun, September 10 10:00AM AEST |
-|[Fendi Racing eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=9080){:target="_blank"} |Season 2 Pro Am |North America |29 |1544 |Open | | | | |
-|[The Sofa Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8017){:target="_blank"} |Mixed Monday League |North America |29 |1691 | | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |Premier Series Season 10 |North America |28 |1940 |Fixed | | | | |
-|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Practice |North America |28 |1548 |Open |Circuit des 24 Heures du Mans |Sat, September 09 09:00PM EDT |Sun, September 10 02:00AM BST |Sun, September 10 11:00AM AEST |
+|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Practice |North America |28 |1534 |Open |Sebring International Raceway |Sat, September 16 09:00PM EDT |Sun, September 17 02:00AM BST |Sun, September 17 11:00AM AEST |
+|[Fendi Racing eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=9080){:target="_blank"} |Season 2 Pro Am |North America |28 |1544 |Open | | | | |
 |[VRace Motorsport Australia Formula Vee National Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9116){:target="_blank"} |Vrace Motorsport Australia 2023 Season |Australia-NZ |28 |2248 | |Watkins Glen International |Wed, September 13 06:00AM EDT |Wed, September 13 11:00AM BST |Wed, September 13 08:00PM AEST |
 |[iNation eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6758){:target="_blank"} |Late Model Challenge |North America |27 |2385 | | | | | |
+|[The Sofa Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8017){:target="_blank"} |Mixed Monday League |North America |27 |1661 | | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Mixed Class Summer 2023 |North America |26 |1263 |Fixed |Road America |Sun, September 10 01:00PM EDT |Sun, September 10 06:00PM BST |Mon, September 11 03:00AM AEST |
-|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Sunday OGRL Viagra Cup |North America |25 |1455 |Both | | | | |
+|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Sunday OGRL Viagra Cup |North America |25 |1455 |Both |Daytona International Speedway |Sun, September 10 08:14AM EDT |Sun, September 10 01:14PM BST |Sun, September 10 10:14PM AEST |
 |[TDR Friday Nights Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=9476){:target="_blank"} |Summer Dirt / Asphalt Challenge |North America |25 |1668 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023C Up & Comers Championship |Australia-NZ |25 |1229 |Both |Mount Panorama Circuit |Tue, September 12 04:55AM EDT |Tue, September 12 09:55AM BST |Tue, September 12 06:55PM AEST |
 |[ISRL \- Iceman's Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7680){:target="_blank"} |Super Speedway 2 |North America |24 |2224 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VORTEX \- 2023 |North America |24 |2487 |Fixed | | | | |
 |[Lionheart Sportscar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9399){:target="_blank"} |2023 Warm Up 2 |North America |24 |2986 | | | | | |
 |[BearPope Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=897){:target="_blank"} |GBS as heck |Europe |23 |2272 |Open | | | | |
-|[Event by Taytous "GT"](https://members.iracing.com/membersite/member/LeagueView.do?league=7530){:target="_blank"} |S3/23 LMP3/GT4 |Europe |23 |2526 |Open | | | | |
 |[Friday Night Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=6312){:target="_blank"} |Summer 2023 |North America |23 |1859 | | | | | |
 |[No Toad Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6307){:target="_blank"} |SuperSpeedway Season 25 |North America |23 |1614 |Fixed | | | | |
 |[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |23S1 \| Formula Ford Championship |Australia-NZ |22 |2872 |Fixed | | | | |
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |LMP3/GT3 Championship Series |North America |22 |1970 |Both | | | | |
+|[Event by Taytous "GT"](https://members.iracing.com/membersite/member/LeagueView.do?league=7530){:target="_blank"} |S3/23 LMP3/GT4 |Europe |22 |2526 |Open | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Tran\-Sim IV \- 2023 |North America |22 |1710 |Fixed | | | | |
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |Special Event |North America |22 |1415 | | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |DIRT TRUCKS |North America |22 |1625 |Open | | | | |
-|[DLine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4286){:target="_blank"} |LMS Racing League Dentist Challenge with GT4 Cars |North America |21 |1810 | | | | | |
+|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Off Season |North America |21 |1548 |Open | | | | |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |ESR Casual Endurance 2023 |Europe |21 |2276 | | | | | |
 |[Four Drink Fridays](https://members.iracing.com/membersite/member/LeagueView.do?league=5520){:target="_blank"} |2023 Season |North America |21 |1505 | | | | | |
 |[Junk Yard Dawgs](https://members.iracing.com/membersite/member/LeagueView.do?league=9836){:target="_blank"} |Mayhem |North America |21 |1626 |Fixed |WeatherTech Raceway at Laguna Seca |Mon, September 11 08:20PM EDT |Tue, September 12 01:20AM BST |Tue, September 12 10:20AM AEST |
 |[RSE PRESENTS SIMSA WORLD CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=5467){:target="_blank"} |pre season testing |Europe |21 |2210 |Fixed |Suzuka International Racing Course |Thu, September 14 02:00PM EDT |Thu, September 14 07:00PM BST |Fri, September 15 04:00AM AEST |
-|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Off Season |North America |20 |1605 |Open |Daytona Rallycross and Dirt Road |Sat, September 09 08:00PM EDT |Sun, September 10 01:00AM BST |Sun, September 10 10:00AM AEST |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Tarmac Attack \- 2023 |North America |20 |1580 |Fixed |Charlotte Motor Speedway |Sat, September 16 08:00PM EDT |Sun, September 17 01:00AM BST |Sun, September 17 10:00AM AEST |
 |[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Season 7\.7 Multi\-Class Challenge |North America |19 |1288 |Open |Circuit des 24 Heures du Mans |Sun, September 10 07:00PM EDT |Mon, September 11 12:00AM BST |Mon, September 11 09:00AM AEST |
 |[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2023 Wednesday Night Season |North America |19 |1788 |Fixed |Rudskogen Motorsenter |Wed, September 13 08:30PM EDT |Thu, September 14 01:30AM BST |Thu, September 14 10:30AM AEST |
 |[ORNL Sunday Drivers Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6769){:target="_blank"} |ORNL Sunday Drivers Cup '23 S4 |Europe |19 |2437 | |Lime Rock Park |Sun, September 10 01:59PM EDT |Sun, September 10 06:59PM BST |Mon, September 11 03:59AM AEST |
-|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Oval Series: The Rebirth Season 2 |North America |19 |1623 | | | | | |
+|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Oval Series: The Rebirth Season 2 |North America |19 |1618 | | | | | |
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2023 |Australia-NZ |19 |2045 | | | | | |
 |[UNOH iRacing eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8038){:target="_blank"} |UNOH Tuesday Season 5 |North America |19 |1857 |Fixed |Volusia Speedway Park |Tue, September 12 08:00PM EDT |Wed, September 13 01:00AM BST |Wed, September 13 10:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- Mega Rally Mini |North America |19 |2077 |Fixed | | | | |
+|[DLine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4286){:target="_blank"} |LMS Racing League Dentist Challenge with GT4 Cars |North America |18 |1855 | | | | | |
+|[24 Hours of Lemons iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |Lawn Mowing Lemons Season 1 |North America |17 |1281 | | | | | |
 |[Evolution Sim Racing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=5229){:target="_blank"} |Evolution Sim Racing \- ESR \- Season 2, 2023 |Europe |17 |1816 |Both | | | | |
 |[LegendarVee By Dangerous Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=9855){:target="_blank"} |LegendarVee Season 1 |North America |17 |1490 |Fixed | | | | |
 |[24 Hours of Lemons iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |The 2023 Season |North America |16 |1499 | | | | | |
 |[Outcast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7861){:target="_blank"} |ORL DIRT TO DAYTONA |North America |16 |1560 | |Southern National Motorsports Park |Wed, September 13 05:00PM EDT |Wed, September 13 10:00PM BST |Thu, September 14 07:00AM AEST |
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Special Events |Australia-NZ |16 |1288 |Both | | | | |
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Special Events |Australia-NZ |16 |1288 |Both |Mount Panorama Circuit |Sun, September 10 03:00AM EDT |Sun, September 10 08:00AM BST |Sun, September 10 05:00PM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP King of the Hill Season 2 |North America |16 |1297 | | | | | |
 |[24 Hours of Lemons iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |Late Night Lemons Season 9 |North America |15 |1353 | |Fuji International Speedway |Tue, September 12 11:50PM EDT |Wed, September 13 04:50AM BST |Wed, September 13 01:50PM AEST |
-|[24 Hours of Lemons iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |Lawn Mowing Lemons Season 1 |North America |15 |1295 | |Brands Hatch Circuit |Sat, September 09 01:50PM EDT |Sat, September 09 06:50PM BST |Sun, September 10 03:50AM AEST |
 |[Mid Atlantic 86 Club iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8721){:target="_blank"} |Season 3 |North America |15 |1554 | | | | | |
 |[Moonshine Runners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9381){:target="_blank"} |2023 Moonshine Runners Series |North America |15 |1389 | | | | | |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |I\.D\.C\. Season 2 |North America |15 |1436 | | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Lotus '79 |North America |15 |1315 | | | | | |
 |[Retro Karting Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=4488){:target="_blank"} |Cataclysm Computers RKA GT3 Season 1 |Australia-NZ |15 |1547 | | | | | |
 |[Turn 5 Motorsports \(WOR\) \- Beef Jerky Unlimited / Rexing Company](https://members.iracing.com/membersite/member/LeagueView.do?league=4294){:target="_blank"} |BJU / Rexing Season \#2 Spring 2023 |North America |15 |1264 | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Tarmac Attack \- 2023 |North America |15 |1608 |Fixed |Knockhill Racing Circuit |Sat, September 09 08:00PM EDT |Sun, September 10 01:00AM BST |Sun, September 10 10:00AM AEST |
 |[C2C \- Retreads \(55\+\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6024){:target="_blank"} |RETREADS \- ASPHALT |North America |15 |1208 | | | | | |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023CD Mountain Men Bathurst 200 Series |Australia-NZ |15 |1918 |Both |Mount Panorama Circuit |Sat, September 09 05:30AM EDT |Sat, September 09 10:30AM BST |Sat, September 09 07:30PM AEST |
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2023 Season 3 |North America |14 |1656 | | | | | |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023CD Mountain Men Bathurst 200 Series |Australia-NZ |15 |1918 |Both | | | | |
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2023 Season 3 |North America |14 |1658 | | | | | |
 |[Moonshine Runners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9381){:target="_blank"} |2023 Moonshine Runners Series Season 2 |North America |14 |1334 | |Watkins Glen International |Mon, September 11 08:30PM EDT |Tue, September 12 01:30AM BST |Tue, September 12 10:30AM AEST |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |Fun Races |North America |14 |1795 | | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023 Fridays\- Part IV Xfinity Series |North America |14 |1560 |Fixed |Bristol Motor Speedway |Fri, September 15 06:25PM EDT |Fri, September 15 11:25PM BST |Sat, September 16 08:25AM AEST |
 |[\#Snowboard DD World Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9400){:target="_blank"} |Lustin Jamb Memorial Vette Nationals |North America |14 |1796 | | | | | |
 |[\#Snowboard DD World Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9400){:target="_blank"} |Vince's Ass of Steel |North America |14 |1787 | | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |CRL Week 13 |North America |13 |1459 |Both | | | | |
-|[Duff Beer](https://members.iracing.com/membersite/member/LeagueView.do?league=4362){:target="_blank"} |Season 4: Redundancy, Again |North America |13 |1619 | | | | | |
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |EGT Canada \(Ligue d’été \| Summer league\) |North America |13 |1425 | | | | | |
 |[Grassroots Big Events Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6498){:target="_blank"} |Big Events League 2023 |North America |13 |1768 |Fixed | | | | |
-|[Pedal Stomping in Ohio](https://members.iracing.com/membersite/member/LeagueView.do?league=5402){:target="_blank"} |Summer 2023 |North America |13 |1168 |Both | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |Practice Server |Australia-NZ |13 |None |Both |Mount Panorama Circuit |Sun, September 10 03:00AM EDT |Sun, September 10 08:00AM BST |Sun, September 10 05:00PM AEST |
 |[Duff Beer](https://members.iracing.com/membersite/member/LeagueView.do?league=4362){:target="_blank"} |SEASON 5: AS YOU WISH |North America |12 |1640 | | | | | |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Summer Spin the Wheel |North America |12 |1475 |Fixed | | | | |
 |[Sampsoid Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=5691){:target="_blank"} |Summer Burnout Test Season |North America |12 |1967 |Fixed | | | | |
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |fun runs |North America |12 |1575 |Both | | | | |
-|[The BSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3791){:target="_blank"} |Just Send it |North America |12 |2194 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Class 11X Free\-For\-All \- 2023 |North America |12 |1582 |Fixed | | | | |
 |[C2C \- Retreads \(55\+\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6024){:target="_blank"} |RETREADS \- DIRT |North America |12 |1241 | | | | | |
 |[Duff Beer](https://members.iracing.com/membersite/member/LeagueView.do?league=4362){:target="_blank"} |Practice Sessions |North America |11 |1563 | | | | | |
+|[Duff Beer](https://members.iracing.com/membersite/member/LeagueView.do?league=4362){:target="_blank"} |Season 4: Redundancy, Again |North America |11 |1590 | | | | | |
+|[Pedal Stomping in Ohio](https://members.iracing.com/membersite/member/LeagueView.do?league=5402){:target="_blank"} |Summer 2023 |North America |11 |1135 |Both | | | | |
 |[RST Performance Racing SCCA Runoffs](https://members.iracing.com/membersite/member/LeagueView.do?league=10059){:target="_blank"} |2023 SCCA Runoffs Practice, Racing & Fun |North America |11 |1676 |Open |Virginia International Raceway |Sun, September 10 07:30PM EDT |Mon, September 11 12:30AM BST |Mon, September 11 09:30AM AEST |
 |[TDR Friday Nights Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=9476){:target="_blank"} |Friday Fun Night |North America |11 |1275 | | | | | |
 |[WTEC Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7058){:target="_blank"} |Shenanigans |Europe |11 |None | | | | | |
@@ -1471,5 +1467,6 @@
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |23S3 Kitchen Sink |North America |11 |1873 |Open |Lanier National Speedway |Wed, September 13 07:30PM EDT |Thu, September 14 12:30AM BST |Thu, September 14 09:30AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |Silly 2022 Season |North America |11 |1756 |Open | | | | |
 |[Bavarian Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=7980){:target="_blank"} |2023 Season 3 |Europe |10 |1280 |Fixed | | | | |
+|[The BSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3791){:target="_blank"} |Just Send it |North America |10 |2154 |Both | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |MOTHER TRUCKER |North America |10 |2142 |Open |Silverstone Circuit |Wed, September 13 08:30PM EDT |Thu, September 14 01:30AM BST |Thu, September 14 10:30AM AEST |
 
