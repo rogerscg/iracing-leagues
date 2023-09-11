@@ -2,6 +2,7 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[2D racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10164){:target="_blank"} | |Tuddys racing team |
 |[2Fast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10134){:target="_blank"} | |A premier sim racing league blending passion with speed\. From novices to pros, we offer a thrilling race experience\. We're redefining competitive racing\. Join the rush\! |
 |[ADAC SimRacing Cup \- Clubsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10120){:target="_blank"} | | |
 |[ADAC SimRacing Cup \- Sports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10121){:target="_blank"} | | |
@@ -32,15 +33,17 @@
 |[Reigel Promotions E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |[Discord](https://discord.gg/D2WVrSJ2){:target="_blank"} |360 Sprint Cars every Tuesday practice @ 8:40 p\.m\. EST\. & racing @ 9 p\.m\. Starting November 7 |
 |[S2S Summer Cup Media](https://members.iracing.com/membersite/member/LeagueView.do?league=10156){:target="_blank"} | |Media for the Screen to Speed Summer Cup |
 |[ScoutWired](https://members.iracing.com/membersite/member/LeagueView.do?league=10123){:target="_blank"} |[Discord](https://discord.scoutwired.org){:target="_blank"} |A Iracing league for Scoutwired members |
+|[Sim Racing Road Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10167){:target="_blank"} | |A relaxing and fun league for new or average road racers with a focus on multi\-class racing\. League will consist of a mix of human and AI racers on Monday nights at 8PM EST\. |
 |[Sportsman Enduro Karting](https://members.iracing.com/membersite/member/LeagueView.do?league=10136){:target="_blank"} | | |
 |[SRM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10160){:target="_blank"} | |Looking at starting a Weds night league at 6:30 pm |
 |[SW MO Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10146){:target="_blank"} | |Racing on Wednesdays Nights |
-|[Tasmanian Late Model League](https://members.iracing.com/membersite/member/LeagueView.do?league=10116){:target="_blank"} | |Dirt Racing |
 |[TDFW Super Speedway Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=10157){:target="_blank"} | |Super Speedway racing with different series each season and for a lot of fun |
+|[TexSEF iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10165){:target="_blank"} | | |
 |[The Driving Crooners](https://members.iracing.com/membersite/member/LeagueView.do?league=10154){:target="_blank"} | | |
 |[The Week 13 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10149){:target="_blank"} |[Discord](https://discord.gg/wvK9DM4jvk){:target="_blank"} |This is the Week 13 Racing League\. We love the meme that week 13 is and aspire to make every week a week 13 race\. If you're looking for highly competitive, fast paced, clean racing then this isn't the right league for you\. This is where we have fun, hangout, and make memories doing goofy races\. We respect each other, have fun, and make sure others can have fun as well\. |
+|[Tommo](https://members.iracing.com/membersite/member/LeagueView.do?league=10166){:target="_blank"} | |GT3/GT4 |
 |[Top Speed Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=10159){:target="_blank"} | |Česká virtuální závodní liga na simulátoru iRacing\. Na lize je aktivní formulová série a jezdí se i o ceny a poháry\. |
-|[TrackThatShit](https://members.iracing.com/membersite/member/LeagueView.do?league=10117){:target="_blank"} | | |
+|[UCRL \- Offseason Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10168){:target="_blank"} | |This is the home of the Ultimate Conquest Racing League's fun, off\-season series |
 |[V8 Veterans Season 17](https://members.iracing.com/membersite/member/LeagueView.do?league=10129){:target="_blank"} | |Best Over 40's in Australia battle it out in V8 Supercars\! \- Season 17 |
 |[Vanilla Funk](https://members.iracing.com/membersite/member/LeagueView.do?league=10144){:target="_blank"} | | |
 |[ART IR01](https://members.iracing.com/membersite/member/LeagueView.do?league=10140){:target="_blank"} | | |
