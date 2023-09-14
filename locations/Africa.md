@@ -26,8 +26,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |16 |1856 | |Circuit des 24 Heures du Mans |Tue, September 12 02:00PM EDT |Tue, September 12 07:00PM BST |Wed, September 13 04:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-------------|--------|------|------|
+|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |16 |1808 | | | | | |
 
 ### Renault Clio
 
@@ -42,8 +42,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |TCR \| 2023 Season 2 \| Raceface\.Pro |Africa |43 |1930 |Both |Okayama International Circuit |Tue, September 12 01:00PM EDT |Tue, September 12 06:00PM BST |Wed, September 13 03:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |TCR \| 2023 Season 2 \| Raceface\.Pro |Africa |44 |1914 |Both | | | | |
 
 ### Toyota GR86
 

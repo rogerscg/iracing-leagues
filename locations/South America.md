@@ -13,6 +13,14 @@
 
 # Open-wheel
 
+### Dallara IR18
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/3 |South America |19 |2762 | | | | | |
+
 ### Lotus 79
 
 [Back to Top](#)  
@@ -26,8 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |23 |2700 | | | | | |
+|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |23 |2700 | |Suzuka International Racing Course |Thu, September 21 06:00PM EDT |Thu, September 21 11:00PM BST |Fri, September 22 08:00AM AEST |
 
 # Sports Car
 
