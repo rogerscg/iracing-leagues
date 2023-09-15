@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|-------|----|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Lucky Dog Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9984){:target="_blank"} |Season 1 |North America |29 |1252 | |Oxford Plains Speedway |Mon, September 18 09:00PM EDT |Tue, September 19 02:00AM BST |Tue, September 19 11:00AM AEST |
 |[No Bull Canadian/ American Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6381){:target="_blank"} |No Bull Can / Am Series |North America |26 |1829 | | | | | |
-|[RACER FIRST SIM\-RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9722){:target="_blank"} |Racer First Late Model Tour \- Super Late Model Cash Shootout |North America |15 |1391 |Fixed | | | | |
+|[RACER FIRST SIM\-RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9722){:target="_blank"} |Racer First Late Model Tour \- Super Late Model Cash Shootout |North America |15 |1391 |Fixed |Southern National Motorsports Park |Fri, September 15 08:30PM EDT |Sat, September 16 01:30AM BST |Sat, September 16 10:30AM AEST |
 
 ### Late Model Stock
 
@@ -29,15 +29,15 @@
 |[Family Friendly Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=9872){:target="_blank"} |Boyd Customs Late Model Stock Tour |North America |34 |1234 |Fixed | | | | |
 |[North American Trans\-Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9778){:target="_blank"} |Season 1 |North America |33 |1502 | | | | | |
 |[Junk Yard Dawgs](https://members.iracing.com/membersite/member/LeagueView.do?league=9836){:target="_blank"} |The Roundy Round Cup |North America |33 |1678 |Fixed | | | | |
-|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S23 |North America |32 |2120 |Fixed | | | | |
 |[QSR iRacing Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8907){:target="_blank"} |Late Model Expedition Series |North America |31 |1552 |Fixed | | | | |
+|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S23 |North America |31 |2114 |Fixed | | | | |
 |[\#0 Donut Box Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8942){:target="_blank"} |DBLMS S2 |North America |30 |1789 |Fixed |New Hampshire Motor Speedway |Mon, September 18 07:00PM EDT |Tue, September 19 12:00AM BST |Tue, September 19 09:00AM AEST |
 |[Flat Out Racing League Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8484){:target="_blank"} |Season 2 |North America |30 |1586 | |Lucas Oil Raceway (IRP) |Fri, September 15 08:00PM EDT |Sat, September 16 01:00AM BST |Sat, September 16 10:00AM AEST |
 |[Midwest Pavement Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9661){:target="_blank"} |MPR Late Model Summer Season 2023 |North America |30 |1898 | | | | | |
 |[DLine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4286){:target="_blank"} |DLINE Racing League Presented by Elevated Performance |North America |28 |1626 | | | | | |
 |[Mid\-South iRacing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=7133){:target="_blank"} |2023 Wednesday Night LMSC Summer Series |North America |28 |3089 |Fixed | | | | |
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |CARS Tour |North America |28 |1787 | |Southern National Motorsports Park |Tue, September 19 06:30PM EDT |Tue, September 19 11:30PM BST |Wed, September 20 08:30AM AEST |
-|[Red Solo Cup Series SK Mods/Late Models Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Model S6 |North America |27 |1813 |Fixed |Five Flags Speedway |Thu, September 14 08:30PM EDT |Fri, September 15 01:30AM BST |Fri, September 15 10:30AM AEST |
+|[Red Solo Cup Series SK Mods/Late Models Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Model S6 |North America |27 |1856 |Fixed | | | | |
 |[WOTEL Nascar Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=6226){:target="_blank"} |Mi22ion Late Model Stocks |North America |27 |2324 | | | | | |
 |[NEXUS NATIONAL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=9170){:target="_blank"} |Season 1 |North America |26 |1811 | | | | | |
 |[The Kohort \- DIRT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9714){:target="_blank"} |The Kohort \- Late Model Stock Tour \- S1 |North America |26 |2243 |Both |Lanier National Speedway |Sun, September 17 09:00PM EDT |Mon, September 18 02:00AM BST |Mon, September 18 11:00AM AEST |
@@ -59,14 +59,15 @@
 |[RAID iSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |TEST |North America |17 |2694 |Fixed | | | | |
 |[Champion iRacing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8717){:target="_blank"} |Late Model Stock Shootout |North America |17 |2777 | | | | | |
 |[FTSR Late Model Stock Tour \(Thursdays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9546){:target="_blank"} |2023 LMS Tour |North America |17 |2249 |Fixed | | | | |
-|[RACER FIRST SIM\-RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9722){:target="_blank"} |Racer First Late Model Tour \- Late Model Stocks |North America |15 |1561 |Fixed | | | | |
+|[RACER FIRST SIM\-RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9722){:target="_blank"} |Racer First Late Model Tour \- Late Model Stocks |North America |15 |1561 |Fixed |Southern National Motorsports Park |Fri, September 15 09:30PM EDT |Sat, September 16 02:30AM BST |Sat, September 16 11:30AM AEST |
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023 Thursday \- Late Model Road Act IV |North America |13 |1064 |Fixed |Rudskogen Motorsenter |Thu, September 21 06:35PM EDT |Thu, September 21 11:35PM BST |Fri, September 22 08:35AM AEST |
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Late Model Fixed Tour \- Season\#01 |Europe |13 |2231 |Both | | | | |
-|[Freedom Racing Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10126){:target="_blank"} |Season 1 |North America |12 |2124 | |Stafford Motor Speedway |Thu, September 14 07:00PM EDT |Fri, September 15 12:00AM BST |Fri, September 15 09:00AM AEST |
+|[Freedom Racing Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10126){:target="_blank"} |Season 1 |North America |12 |2063 | | | | | |
+|[CPR Nine Three](https://members.iracing.com/membersite/member/LeagueView.do?league=2287){:target="_blank"} |Season 3 |Australia-NZ |11 |2030 |Fixed | | | | |
 |[Rooster's Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10108){:target="_blank"} |LMSC |North America |11 |1801 | | | | | |
 |[Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6026){:target="_blank"} |TRL LATE MODEL |North America |11 |998 |Open | | | | |
 |[FSBRACING\.COM](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Late Model Season 47 |North America |10 |1463 |Fixed |Richmond Raceway |Sun, September 17 07:30PM EDT |Mon, September 18 12:30AM BST |Mon, September 18 09:30AM AEST |
 |[Lucky Dog Sim Racing Super Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=9127){:target="_blank"} |Season Three |North America |10 |1534 | |Phoenix Raceway |Fri, September 15 07:00PM EDT |Sat, September 16 12:00AM BST |Sat, September 16 09:00AM AEST |
-|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023 Thursday \- Late Model Road Act IV |North America |10 |1068 |Fixed |Indianapolis Motor Speedway |Thu, September 14 06:35PM EDT |Thu, September 14 11:35PM BST |Fri, September 15 08:35AM AEST |
 
 ### Legends
 
@@ -77,8 +78,8 @@
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |JBSRL FALL LEGENDS |North America |39 |1896 |Both | | | | |
 |[The Legend Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |The Legend Championship 1st edition |Europe |27 |1860 | | | | | |
 |[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends\-Saturday Night Lights |North America |26 |2044 | |The Bullring |Sat, September 16 09:30AM EDT |Sat, September 16 02:30PM BST |Sat, September 16 11:30PM AEST |
-|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends: Midnight Madness |North America |24 |1624 | | | | | |
 |[AOLL Racing's TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4855){:target="_blank"} |2023 Season 2 \- Legends |North America |18 |1398 |Fixed | | | | |
+|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends: Midnight Madness |North America |17 |1656 | | | | | |
 |[Legend Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10142){:target="_blank"} |LCS S1 |North America |14 |1838 | | | | | |
 
 ### Rookie Legends

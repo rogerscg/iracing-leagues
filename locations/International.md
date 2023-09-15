@@ -16,6 +16,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
-|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |11 |None | |Oulton Park Circuit |Thu, September 14 08:45PM EDT |Fri, September 15 01:45AM BST |Fri, September 15 10:45AM AEST |
+|---------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |29 |1877 | |WeatherTech Raceway at Laguna Seca |Tue, September 19 10:00PM EDT |Wed, September 20 03:00AM BST |Wed, September 20 12:00PM AEST |
 
