@@ -28,7 +28,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|------------------------|-----------------------------|-----------------------------|------------------------------|
-|[MLR Tour Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4964){:target="_blank"} |MLR Tour Series 2023 Championship |Fixed |Darlington Raceway |Sat, September 16 08:15PM EDT |Sun, September 17 01:15AM BST |Sun, September 17 10:15AM AEST |
 |[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |RGR\-Racing 87 Legends Fall Series |Fixed |Las Vegas Motor Speedway |Tue, September 19 07:30PM EDT |Wed, September 20 12:30AM BST |Wed, September 20 09:30AM AEST |
 |[Total Speed Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9448){:target="_blank"} |TSRL SuperSpeedway Series |Fixed |iRacing Superspeedway |Mon, September 18 06:00PM EDT |Mon, September 18 11:00PM BST |Tue, September 19 08:00AM AEST |
 
@@ -50,6 +49,7 @@
 |[BrL Bumpin Buddies SS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10175){:target="_blank"} |Bumpin Buddies Season \#1 | |Daytona International Speedway |Mon, September 18 08:00PM EDT |Tue, September 19 01:00AM BST |Tue, September 19 10:00AM AEST |
 |[Friday Night Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=9619){:target="_blank"} |Truck Season 2, 2023 | |Atlanta Motor Speedway |Thu, September 21 08:00PM EDT |Fri, September 22 01:00AM BST |Fri, September 22 10:00AM AEST |
 |[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |RGR\-Racing Craftsman Truck Fall Series |Fixed |Lucas Oil Raceway (IRP) |Thu, September 21 07:30PM EDT |Fri, September 22 12:30AM BST |Fri, September 22 09:30AM AEST |
+|[SCSRA Morriss Customs Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5876){:target="_blank"} |SCSRA Truck Series \(Season 6\) | |Daytona International Speedway |Tue, September 19 08:30PM EDT |Wed, September 20 01:30AM BST |Wed, September 20 10:30AM AEST |
 |[Champion iRacing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8717){:target="_blank"} |Champion Trucks Fall 2023 | |Auto Club Speedway |Tue, September 19 08:25PM EDT |Wed, September 20 01:25AM BST |Wed, September 20 10:25AM AEST |
 |[PRL NASCAR Truck Series \(Wednesday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3579){:target="_blank"} |Wednesday Trucks 2023 S4 | |Texas Motor Speedway |Wed, September 20 06:30PM EDT |Wed, September 20 11:30PM BST |Thu, September 21 08:30AM AEST |
 
@@ -63,16 +63,6 @@
 |[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |RGR\-Racing Fall XFinity Series |Fixed |Bristol Motor Speedway |Sun, September 17 07:30PM EDT |Mon, September 18 12:30AM BST |Mon, September 18 09:30AM AEST |
 |[PRL NASCAR Xfinity Series \(Wednesday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9206){:target="_blank"} |Wednesday Xfinity 2023 S4 | |Texas Motor Speedway |Wed, September 20 07:30PM EDT |Thu, September 21 12:30AM BST |Thu, September 21 09:30AM AEST |
 
-# Oval
-
-### Legends
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|------|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
-|[Alger racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10178){:target="_blank"} |race 1 | |Bristol Motor Speedway |Sat, September 16 03:00PM EDT |Sat, September 16 08:00PM BST |Sun, September 17 05:00AM AEST |
-
 # Open-wheel
 
 ### FIA F4
@@ -82,14 +72,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|-------------|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Hunmotorsport Formula 4 Bajnokság 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=10183){:target="_blank"} |2023 Season 4 |Fixed |Okayama International Circuit |Sun, September 17 11:50AM EDT |Sun, September 17 04:50PM BST |Mon, September 18 01:50AM AEST |
-
-### Formula Vee
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|-------------|-----|---------------------|-----------------------------|-----------------------------|------------------------------|
-|[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |FV WW 2023 S4 |Open |Rudskogen Motorsenter |Sat, September 16 09:58AM EDT |Sat, September 16 02:58PM BST |Sat, September 16 11:58PM AEST |
 
 ### Lotus 79
 
@@ -112,8 +94,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Delta Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8506){:target="_blank"} |DML \| Season Series \(Formula Ford 23S4\) |Both |Rudskogen Motorsenter |Sat, September 16 01:30PM EDT |Sat, September 16 06:30PM BST |Sun, September 17 03:30AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|----------------------|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
 |[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |FF1600 WW 2023 S4 |Open |Rudskogen Motorsenter |Sun, September 17 12:30PM EDT |Sun, September 17 05:30PM BST |Mon, September 18 02:30AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Ray 1600 Season 1 2023 | |Indianapolis Motor Speedway |Wed, September 20 08:00PM EDT |Thu, September 21 01:00AM BST |Thu, September 21 10:00AM AEST |
 
@@ -172,8 +153,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[CCR SCCA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9447){:target="_blank"} |Season \#1 \(2023\) |Fixed |Virginia International Raceway |Sat, September 16 02:00PM EDT |Sat, September 16 07:00PM BST |Sun, September 17 04:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |APEX ONE LEAGUE FINAL A |Both |Circuit de Spa-Francorchamps |Tue, September 19 02:15PM EDT |Tue, September 19 07:15PM BST |Wed, September 20 04:15AM AEST |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |APEX ONE LEAGUE FINAL B |Both |Circuit de Spa-Francorchamps |Tue, September 19 12:45PM EDT |Tue, September 19 05:45PM BST |Wed, September 20 02:45AM AEST |
 
@@ -182,16 +162,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|-------------|-----|-------------|-----------------------------|-----------------------------|------------------------------|
+|-------------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[PCA S10 \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Checkrides | |WeatherTech Raceway at Laguna Seca |Mon, September 18 09:00PM EDT |Tue, September 19 02:00AM BST |Tue, September 19 11:00AM AEST |
 |[PCGB Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4489){:target="_blank"} |PCGB Season 7 | |Red Bull Ring |Wed, September 20 02:30PM EDT |Wed, September 20 07:30PM BST |Thu, September 21 04:30AM AEST |
-
-### Ruf RT 12R Track
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------------|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |WMD Season 1 | |WeatherTech Raceway at Laguna Seca |Sat, September 16 09:00PM EDT |Sun, September 17 02:00AM BST |Sun, September 17 11:00AM AEST |
 
 ### Touring Car
 
@@ -201,23 +174,7 @@
 |---------------------------------------------------------------------------------------------------------------|-------------------------|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |TANSO Revive TCR Season 2 | |Oulton Park Circuit |Mon, September 18 03:00PM EDT |Mon, September 18 08:00PM BST |Tue, September 19 05:00AM AEST |
 
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------------------|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |GR86 Piston Cup S2 |Open |WeatherTech Raceway at Laguna Seca |Sat, September 16 08:00PM EDT |Sun, September 17 01:00AM BST |Sun, September 17 10:00AM AEST |
-
 # Prototype
-
-### Ligier JS P320
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2023 S4 |Fixed |Autodromo Nazionale Monza |Sat, September 16 01:00PM EDT |Sat, September 16 06:00PM BST |Sun, September 17 03:00AM AEST |
 
 ### Spec Racer Ford
 
@@ -227,16 +184,6 @@
 |-----------------------------------------------------------------------------------------------------------------|--------------|-----|---------------------|-----------------------------|-----------------------------|------------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2023 S4 |Open |Rudskogen Motorsenter |Sun, September 17 02:40PM EDT |Sun, September 17 07:40PM BST |Mon, September 18 04:40AM AEST |
 
-# Dirt Oval
-
-### Dirt 358 Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
-|[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |OutCast Racing League Vs High Side Hustlers  | |Cedar Lake Speedway |Sun, September 17 08:00PM EDT |Mon, September 18 01:00AM BST |Mon, September 18 10:00AM AEST |
-
 # Multi-class/Unclassified
 
 ### Hosted All Cars Class
@@ -244,10 +191,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Desperado Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10170){:target="_blank"} |Test 2023 |Fixed |Nürburgring Grand-Prix-Strecke |Tue, September 19 01:00PM EDT |Tue, September 19 06:00PM BST |Wed, September 20 03:00AM AEST |
+|[GrayDuck Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8472){:target="_blank"} |GTP Season 1 | |Daytona International Speedway |Sun, September 17 08:00AM EDT |Sun, September 17 01:00PM BST |Sun, September 17 10:00PM AEST |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |SCCA SUNDAY FALL 2023 |Fixed |Sebring International Raceway |Sun, September 17 11:00AM EDT |Sun, September 17 04:00PM BST |Mon, September 18 01:00AM AEST |
-|[MLR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4963){:target="_blank"} |MLR Short Track Series 2023 Championship |Fixed |USA International Speedway |Sat, September 16 07:00PM EDT |Sun, September 17 12:00AM BST |Sun, September 17 09:00AM AEST |
+|[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 5B \- Kern County Championship | |Kern County Raceway Park |Sun, September 24 07:48PM EDT |Mon, September 25 12:48AM BST |Mon, September 25 09:48AM AEST |
 |[PCRL Official](https://members.iracing.com/membersite/member/LeagueView.do?league=8971){:target="_blank"} |Season 11 |Fixed |Michigan International Speedway |Tue, September 19 07:42PM EDT |Wed, September 20 12:42AM BST |Wed, September 20 09:42AM AEST |
 |[Rib Brothers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6282){:target="_blank"} |2023\-24 | |Donington Park Racing Circuit |Thu, September 21 07:50PM EDT |Fri, September 22 12:50AM BST |Fri, September 22 09:50AM AEST |
 |[RSE PRESENTS SIMSA WORLD CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=5467){:target="_blank"} |RSE PRESENTS SIMSA SEASON 2 |Fixed |Daytona International Speedway |Thu, September 21 01:45PM EDT |Thu, September 21 06:45PM BST |Fri, September 22 03:45AM AEST |
