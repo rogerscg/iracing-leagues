@@ -7,7 +7,6 @@
 |[Alger racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10178){:target="_blank"} | |We race not wreack |
 |[ARCS Super Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=10153){:target="_blank"} | | |
 |[Aspire Racing Team \- League](https://members.iracing.com/membersite/member/LeagueView.do?league=10173){:target="_blank"} |[Discord](https://discord.gg/7zXf4ACprMbsiteHere){:target="_blank"} |Home of the Aspire Racing Teams Leagues and Series\. |
-|[BHM](https://members.iracing.com/membersite/member/LeagueView.do?league=10145){:target="_blank"} | |fun races |
 |[blerg](https://members.iracing.com/membersite/member/LeagueView.do?league=10155){:target="_blank"} | | |
 |[Bremelo Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10174){:target="_blank"} | |Have fun or leave\. |
 |[BrL Bumpin Buddies SS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10175){:target="_blank"} | |Super Speedway Series |
@@ -18,18 +17,20 @@
 |[cup racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10161){:target="_blank"} | |Lets race\! |
 |[DCC \- Digitaler Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10190){:target="_blank"} | |Der Digitale Clio Cup powered by CARLAR esports ist ein reiner Markencup auf Basis des Renault Clio Cup´s\. Innerhalb dieser kompetitiven Simracing Meisterschaft werden in zwei unterschiedlichen Wertungen 6 unterschiedliche Rennen ausgetragen\. Ziel des DCC ist es die Teilnehmer der Am\-Wertung für kompetitives Simracing fit und schlagkräftig zu machen\. |
 |[Desperado Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10170){:target="_blank"} |[Discord](https://discord.gg/ruttdXCU){:target="_blank"} | A Fun League, 2 races per month in one of the following classes: Oval, Road and Dirt\-Road\. Start of the server at 7pm \(7pm GMT\+1\) The way of the races will be announced on the Discord server at short notice\.  Start of the League with Race 1: 19 september 2023\.   Eine Fun\-Liga, 2 Rennen pro Monat in einer der folgenden Klassen: Oval, Straße und Dirt\-Road\. Start des Servers um 19:00 Uhr \(19:00 Uhr GMT\+1\) Der Ablauf der Rennen wird kurzfristig auf dem Discord\-Server bekannt gegeben\.  Start der Liga mit Rennen 1: 19\. September 2023\.   Une Fun League, 2 courses par mois dans l'une des classes suivantes : Ovale, Route et Dirt\-Road\. Début du serveur à 19h \(19h GMT\+1\) Le déroulement des courses sera annoncé sur le serveur Discord dans les plus brefs délais\.  Début de la Ligue avec la Course 1 : 19 septembre 2023\. |
-|[eSports Gaming Network](https://members.iracing.com/membersite/member/LeagueView.do?league=10143){:target="_blank"} | |Special Events Every Two Months\! Steam Deck Giveaway October 28th\! |
 |[FSRSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=10179){:target="_blank"} | |League for single races organised by FSRSeries\.   Upcoming event: New Zandvoort MX5 Challenge\. 25th of September, 8PM CET\. |
 |[Gen 4 Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=10152){:target="_blank"} | | |
 |[Hunmotorsport Formula 4 Bajnokság 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=10183){:target="_blank"} |[Discord](https://discord.gg/mHtngxHUVs){:target="_blank"} |Egy baráti hangulatú Formula 4 bajnokságra szeretném meghívni azokat akiket érdekel a Formula autózás\. |
 |[I\-85 Truck Series 23' Fall Season](https://members.iracing.com/membersite/member/LeagueView.do?league=10184){:target="_blank"} |[Discord](https://discord.gg/RZS9uEhC){:target="_blank"} |https://discord\.gg/RZS9uEhC |
 |[E\-NASCAR Snap\-On Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10187){:target="_blank"} |[Discord](https://discord.gg/vBM2dNZzcK){:target="_blank"} |The race is on with the E\-NASCAR Snap\-On Truck's; Ford F\-150, Chevrolet Silverado & Toyota Tundra\. We hope to see you on race day and we hope you stay and enjoy your time in the E\-NASCAR Snap\-On Truck Series\! |
+|[JV Racing Simulations](https://members.iracing.com/membersite/member/LeagueView.do?league=10196){:target="_blank"} | |if ya aint first ya last |
+|[Kwame](https://members.iracing.com/membersite/member/LeagueView.do?league=10198){:target="_blank"} | | |
 |[K\_SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10176){:target="_blank"} | |Campeonato GT3 by KTD |
+|[LDRC \- Lucky Dog Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=10197){:target="_blank"} | |Canadian endurance racing series based in Ontario |
 |[Le Mans LMP3/GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=10162){:target="_blank"} | | |
 |[Liga Brasileira](https://members.iracing.com/membersite/member/LeagueView.do?league=10181){:target="_blank"} | |Liga Brasileira Iracing  A ideia é criar um grupo de pilotos brasileiros para conversar e pilotar junto, podendo ou não criar competições e treinamentos de pilotos e trocas de informações sobre carros, pistas e equipamentos\. |
 |[MRacing FSAE](https://members.iracing.com/membersite/member/LeagueView.do?league=10147){:target="_blank"} | |go fast go blue |
 |[NBS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10189){:target="_blank"} | |We are here to have fun and Race clean\. We race Different cars depending on the season we all vote on\. |
-|[New World Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} | | |
+|[New World Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} | |Apply via our Discord or for upcoming Seasons on TheSimGrid   https://www\.thesimgrid\.com/hosts/newworldsimracing |
 |[North American Asphalt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10192){:target="_blank"} | | |
 |[NORTHWEST LEGENDS](https://members.iracing.com/membersite/member/LeagueView.do?league=10148){:target="_blank"} | | |
 |[NTRL 410 Winged Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10151){:target="_blank"} |[Discord](https://discord.gg/gr3fuCN4){:target="_blank"} |To join this league you must sign up in the discord https://discord\.gg/gr3fuCN4 |
@@ -51,7 +52,6 @@
 |[Tommo](https://members.iracing.com/membersite/member/LeagueView.do?league=10166){:target="_blank"} | |GT3 |
 |[Top Speed Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=10159){:target="_blank"} | |Česká virtuální závodní liga na simulátoru iRacing\. Na lize je aktivní formulová série a jezdí se i o ceny a poháry\. |
 |[UCRL \- Offseason Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10168){:target="_blank"} | |This is the home of the Ultimate Conquest Racing League's fun, off\-season series |
-|[Vanilla Funk](https://members.iracing.com/membersite/member/LeagueView.do?league=10144){:target="_blank"} | | |
 |[Wildcard Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10188){:target="_blank"} | | |
 |[Winter Melt Down](https://members.iracing.com/membersite/member/LeagueView.do?league=10177){:target="_blank"} | |For the guys just starting\. must have rookie lic\. |
 |[The Sim Racing Collective](https://members.iracing.com/membersite/member/LeagueView.do?league=10182){:target="_blank"} | |The Sim Racing Collective is a community made for all sim racing enthusiasts\. |
