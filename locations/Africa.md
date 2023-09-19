@@ -19,7 +19,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |29 |2072 | | | | | |
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |30 |2072 | | | | | |
 
 ### Mazda MX-5 Cup 2016
 
@@ -27,7 +27,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[DML South Africa](https://members.iracing.com/membersite/member/LeagueView.do?league=9549){:target="_blank"} |DML \| SIMX\-5 \| 23S4 |Africa |11 |1409 |Both | | | | |
+|[DML South Africa](https://members.iracing.com/membersite/member/LeagueView.do?league=9549){:target="_blank"} |DML \| SIMX\-5 \| 23S4 |Africa |10 |1432 |Both | | | | |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -43,7 +43,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[iRSA Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7082){:target="_blank"} |Clio Cup \| Season 1 |Africa |18 |1987 |Fixed |Donington Park Racing Circuit |Mon, September 25 01:30PM EDT |Mon, September 25 06:30PM BST |Tue, September 26 03:30AM AEST |
+|[iRSA Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7082){:target="_blank"} |Clio Cup \| Season 1 |Africa |21 |2278 |Fixed |Donington Park Racing Circuit |Mon, September 25 01:30PM EDT |Mon, September 25 06:30PM BST |Tue, September 26 03:30AM AEST |
 
 ### Touring Car
 
