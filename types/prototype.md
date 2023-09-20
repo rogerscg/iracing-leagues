@@ -30,8 +30,8 @@
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2023 S4 |Europe |47 |2288 |Fixed |Donington Park Racing Circuit |Sat, September 23 01:00PM EDT |Sat, September 23 06:00PM BST |Sun, September 24 03:00AM AEST |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint Series 6 \- Pre\-Season |North America |40 |2340 |Both | | | | |
 |[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |LMP3 WORLD CHALLENGE |Europe |34 |2214 |Fixed |Watkins Glen International |Mon, September 25 01:50PM EDT |Mon, September 25 06:50PM BST |Tue, September 26 03:50AM AEST |
-|[Sampsoid GT3 Championship Practice Group](https://members.iracing.com/membersite/member/LeagueView.do?league=9746){:target="_blank"} |Session 1 Sampsoid GT3 Championship Practice Group |Europe |17 |1647 |Fixed | | | | |
-|[Last Man Standing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=3745){:target="_blank"} |The LMS Ligier Challenge |North America |15 |1320 |Both |Okayama International Circuit |Tue, September 19 08:29PM EDT |Wed, September 20 01:29AM BST |Wed, September 20 10:29AM AEST |
+|[Last Man Standing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=3745){:target="_blank"} |The LMS Ligier Challenge |North America |16 |1361 |Both |Watkins Glen International |Tue, September 26 08:29PM EDT |Wed, September 27 01:29AM BST |Wed, September 27 10:29AM AEST |
+|[Sampsoid GT3 Championship Practice Group](https://members.iracing.com/membersite/member/LeagueView.do?league=9746){:target="_blank"} |Session 1 Sampsoid GT3 Championship Practice Group |Europe |14 |1585 |Fixed | | | | |
 
 ### Radical SR10
 

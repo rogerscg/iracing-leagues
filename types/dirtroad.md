@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Minuteman Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9958){:target="_blank"} |MMR Summer Series |North America |32 |2523 |Both |Crandon International Raceway |Tue, September 19 09:00PM EDT |Wed, September 20 02:00AM BST |Wed, September 20 11:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Minuteman Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9958){:target="_blank"} |MMR Summer Series |North America |32 |2580 |Both | | | | |
 |[Dirt & Determination](https://members.iracing.com/membersite/member/LeagueView.do?league=10056){:target="_blank"} |Crandon August 24th |North America |23 |3801 | | | | | |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |STRASS Season 3 |North America |12 |1422 | | | | | |
 

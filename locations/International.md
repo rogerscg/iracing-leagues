@@ -18,5 +18,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |29 |1877 | |WeatherTech Raceway at Laguna Seca |Tue, September 19 10:00PM EDT |Wed, September 20 03:00AM BST |Wed, September 20 12:00PM AEST |
+|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |29 |1877 | |WeatherTech Raceway at Laguna Seca |Wed, September 20 10:00PM EDT |Thu, September 21 03:00AM BST |Thu, September 21 12:00PM AEST |
 

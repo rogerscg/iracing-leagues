@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |33 |1959 | |Okayama International Circuit |Tue, September 19 01:00PM EDT |Tue, September 19 06:00PM BST |Wed, September 20 03:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |35 |2007 | | | | | |
 
 # Sports Car
 
@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |30 |2072 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |33 |2072 | |Circuit de Spa-Francorchamps |Wed, September 20 01:40PM EDT |Wed, September 20 06:40PM BST |Thu, September 21 03:40AM AEST |
 
 ### Mazda MX-5 Cup 2016
 
