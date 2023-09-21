@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |33 |2072 | |Circuit de Spa-Francorchamps |Wed, September 20 01:40PM EDT |Wed, September 20 06:40PM BST |Thu, September 21 03:40AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |33 |2136 | | | | | |
 
 ### Mazda MX-5 Cup 2016
 

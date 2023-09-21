@@ -16,10 +16,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GTP \+ LMP3 Season 1 |North America |46 |2060 |Open | | | | |
 |[Roadster Rumble \- Simagic Showroom Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |Season 1 |Australia-NZ |23 |1957 | | | | | |
-|[Hyper Car NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=10034){:target="_blank"} |OKMS GTP  Sports Car Championship |Australia-NZ |18 |2452 |Both |Fuji International Speedway |Sat, September 23 07:22AM EDT |Sat, September 23 12:22PM BST |Sat, September 23 09:22PM AEST |
 
 ### Ligier JS P320
 
@@ -27,11 +26,12 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2023 S4 |Europe |47 |2288 |Fixed |Donington Park Racing Circuit |Sat, September 23 01:00PM EDT |Sat, September 23 06:00PM BST |Sun, September 24 03:00AM AEST |
+|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2023 S4 |Europe |47 |2288 |Fixed |Donington Park Racing Circuit |Thu, September 21 02:00PM EDT |Thu, September 21 07:00PM BST |Fri, September 22 04:00AM AEST |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint Series 6 \- Pre\-Season |North America |40 |2340 |Both | | | | |
 |[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |LMP3 WORLD CHALLENGE |Europe |34 |2214 |Fixed |Watkins Glen International |Mon, September 25 01:50PM EDT |Mon, September 25 06:50PM BST |Tue, September 26 03:50AM AEST |
 |[Last Man Standing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=3745){:target="_blank"} |The LMS Ligier Challenge |North America |16 |1361 |Both |Watkins Glen International |Tue, September 26 08:29PM EDT |Wed, September 27 01:29AM BST |Wed, September 27 10:29AM AEST |
 |[Sampsoid GT3 Championship Practice Group](https://members.iracing.com/membersite/member/LeagueView.do?league=9746){:target="_blank"} |Session 1 Sampsoid GT3 Championship Practice Group |Europe |14 |1585 |Fixed | | | | |
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |MRP LMP3 CHAMPIONSHIP |Australia-NZ |12 |1440 |Both | | | | |
 
 ### Radical SR10
 

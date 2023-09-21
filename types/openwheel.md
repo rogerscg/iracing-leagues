@@ -9,10 +9,10 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[CRF3](https://members.iracing.com/membersite/member/LeagueView.do?league=10105){:target="_blank"} |Season 1 |North America |22 |1980 | |Charlotte Motor Speedway |Wed, September 20 09:00PM EDT |Thu, September 21 02:00AM BST |Thu, September 21 11:00AM AEST |
-|[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2023\-3 |Europe |22 |2071 |Fixed | | | | |
+|[CRF3](https://members.iracing.com/membersite/member/LeagueView.do?league=10105){:target="_blank"} |Season 1 |North America |22 |2093 | |Virginia International Raceway |Wed, September 27 09:00PM EDT |Thu, September 28 02:00AM BST |Thu, September 28 11:00AM AEST |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Open Wheel Thursday's |North America |21 |1249 |Both |Suzuka International Racing Course |Thu, September 21 08:00PM EDT |Fri, September 22 01:00AM BST |Fri, September 22 10:00AM AEST |
-|[The Simpletons Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |The Simpletons Formula 3 Championship, Season 2 |North America |19 |2116 |Fixed |MotorLand Aragón |Wed, September 20 02:00PM EDT |Wed, September 20 07:00PM BST |Thu, September 21 04:00AM AEST |
+|[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2023\-3 |Europe |19 |2029 |Fixed | | | | |
+|[The Simpletons Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |The Simpletons Formula 3 Championship, Season 2 |North America |19 |2116 |Fixed |MotorLand Aragón |Fri, September 22 02:00PM EDT |Fri, September 22 07:00PM BST |Sat, September 23 04:00AM AEST |
 
 ### Dallara IR18
 
@@ -56,6 +56,7 @@
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 8 \- British F4 |Europe |39 |1889 |Both | | | | |
 |[Alt\-F4 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8481){:target="_blank"} |Season 5 \- The New Dawn |North America |38 |2583 | | | | | |
 |[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4  \| Season 1 |Africa |35 |2007 | | | | | |
+|[British F4 Esports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9004){:target="_blank"} |2023 British F4 Esports Championship |Europe |29 |5160 | |Brands Hatch Circuit |Wed, September 27 01:45PM EDT |Wed, September 27 06:45PM BST |Thu, September 28 03:45AM AEST |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Revving Red's Roaring Road Racing Revelry \- Season 2 |North America |27 |1688 | |Circuit de Spa-Francorchamps |Tue, September 26 10:00PM EDT |Wed, September 27 03:00AM BST |Wed, September 27 12:00PM AEST |
 |[FRG Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=9999){:target="_blank"} |ASIA\-PACIFIC JUNIOR ESPORTS CHALLENGE |Australia-NZ |25 |1999 | | | | | |
 |[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |PSM Formula 4 Championship 2023s4 |North America |18 |1744 |Open |Virginia International Raceway |Fri, September 22 06:00PM EDT |Fri, September 22 11:00PM BST |Sat, September 23 08:00AM AEST |
@@ -78,7 +79,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |RPR Season 29 \- Road to the V8SC |Australia-NZ |33 |2511 |Open |Suzuka International Racing Course |Tue, September 26 05:58AM EDT |Tue, September 26 10:58AM BST |Tue, September 26 07:58PM AEST |
-|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Friday Formula 4 Series |North America |24 |1524 |Both | | | | |
+|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Friday Formula 4 Series |North America |21 |1452 |Both | | | | |
 |[Light Speed Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8427){:target="_blank"} |Single Seater Saturday F4 |North America |15 |1153 |Both | | | | |
 
 ### Indy Pro 2000 PM-18
@@ -86,8 +87,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 28 PM\-18 |North America |32 |1638 |Fixed |Watkins Glen International |Wed, September 20 02:30PM EDT |Wed, September 20 07:30PM BST |Thu, September 21 04:30AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 28 PM\-18 |North America |35 |1697 |Fixed |Canadian Tire Motorsports Park |Wed, September 27 02:30PM EDT |Wed, September 27 07:30PM BST |Thu, September 28 04:30AM AEST |
 |[Leading Edge Sim Series: "Where LESS is More\!"](https://members.iracing.com/membersite/member/LeagueView.do?league=4532){:target="_blank"} |Less Pro 2000 \- Season 1 |North America |10 |1895 |Fixed | | | | |
 
 ### Lotus 79
@@ -97,9 +98,9 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Lionheart Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3173){:target="_blank"} |2023 Retro Series |North America |35 |2761 | |Phillip Island Circuit |Thu, September 21 09:40PM EDT |Fri, September 22 02:40AM BST |Fri, September 22 11:40AM AEST |
-|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Retro Series Practice |North America |33 |None |Fixed |Phillip Island Circuit |Wed, September 20 07:30PM EDT |Thu, September 21 12:30AM BST |Thu, September 21 09:30AM AEST |
-|[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 4 |North America |29 |1362 |Fixed | | | | |
-|[Lionheart Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3173){:target="_blank"} |2023 Warm Up 2 |North America |23 |2616 | |Phillip Island Circuit |Wed, September 20 09:40PM EDT |Thu, September 21 02:40AM BST |Thu, September 21 11:40AM AEST |
+|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Retro Series Practice |North America |33 |None |Fixed |Phillip Island Circuit |Thu, September 21 07:30PM EDT |Fri, September 22 12:30AM BST |Fri, September 22 09:30AM AEST |
+|[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 4 |North America |29 |1365 |Fixed | | | | |
+|[Lionheart Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3173){:target="_blank"} |2023 Warm Up 2 |North America |26 |2578 | | | | | |
 |[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 5 |North America |16 |1588 |Fixed |Long Beach Street Circuit |Fri, September 22 07:00PM EDT |Sat, September 23 12:00AM BST |Sat, September 23 09:00AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Lotus '79 |North America |15 |1320 | | | | | |
 |[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2023/3 |South America |13 |2378 | |Pocono Raceway |Mon, September 25 07:35PM EDT |Tue, September 26 12:35AM BST |Tue, September 26 09:35AM AEST |
@@ -129,6 +130,7 @@
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |Non\-Championship |North America |29 |1948 | | | | | |
 |[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |FF1600 WW 2023 S4 |North America |26 |2911 |Open |Oulton Park Circuit |Sun, September 24 12:30PM EDT |Sun, September 24 05:30PM BST |Mon, September 25 02:30AM AEST |
 |[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 2 USA |Australia-NZ |24 |2054 | | | | | |
+|[UK FF1600 Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10078){:target="_blank"} |2023 UK FF1600 Esports Cup |Europe |23 |3465 | |Brands Hatch Circuit |Wed, September 27 01:10PM EDT |Wed, September 27 06:10PM BST |Thu, September 28 03:10AM AEST |
 |[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2023 Summer Ray FF |North America |22 |1462 |Fixed |Brands Hatch Circuit |Mon, September 25 08:00PM EDT |Tue, September 26 01:00AM BST |Tue, September 26 10:00AM AEST |
 |[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 3 Japan |Australia-NZ |21 |2330 | |Okayama International Circuit |Fri, September 22 10:00PM EDT |Sat, September 23 03:00AM BST |Sat, September 23 12:00PM AEST |
 |[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Ray FF1600 Open Wheel |North America |16 |1454 |Open |Oulton Park Circuit |Thu, September 21 07:00PM EDT |Fri, September 22 12:00AM BST |Fri, September 22 09:00AM AEST |

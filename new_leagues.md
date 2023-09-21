@@ -22,6 +22,7 @@
 |[GT3 Buds](https://members.iracing.com/membersite/member/LeagueView.do?league=10208){:target="_blank"} | |Evan sucks |
 |[Hunmotorsport Formula 4 Bajnokság 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=10183){:target="_blank"} |[Discord](https://discord.gg/mHtngxHUVs){:target="_blank"} |Egy baráti hangulatú Formula 4 bajnokságra szeretném meghívni azokat akiket érdekel a Formula autózás\. |
 |[I\-85 Truck Series 23' Fall Season](https://members.iracing.com/membersite/member/LeagueView.do?league=10184){:target="_blank"} |[Discord](https://discord.gg/RZS9uEhC){:target="_blank"} |https://discord\.gg/RZS9uEhC |
+|[Icon Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10213){:target="_blank"} | | |
 |[E\-NASCAR Snap\-On Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10187){:target="_blank"} |[Discord](https://discord.gg/vBM2dNZzcK){:target="_blank"} |The race is on with the E\-NASCAR Snap\-On Truck's; Ford F\-150, Chevrolet Silverado & Toyota Tundra\. We hope to see you on race day and we hope you stay and enjoy your time in the E\-NASCAR Snap\-On Truck Series\! |
 |[iRacing Legend Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=10199){:target="_blank"} | | |
 |[iRacing Northern Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10210){:target="_blank"} | |The top division of the iRacing Northern Super Series |
@@ -30,7 +31,6 @@
 |[K\_SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10176){:target="_blank"} | |Campeonato GT3 by KTD |
 |[LDRC \- Lucky Dog Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=10197){:target="_blank"} | |Canadian endurance racing series based in Ontario |
 |[Le Mans LMP3/GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=10162){:target="_blank"} | | |
-|[Liga Brasileira](https://members.iracing.com/membersite/member/LeagueView.do?league=10181){:target="_blank"} | |Liga Brasileira Iracing  A ideia é criar um grupo de pilotos brasileiros para conversar e pilotar junto, podendo ou não criar competições e treinamentos de pilotos e trocas de informações sobre carros, pistas e equipamentos\. |
 |[LORDS OF DRAFT](https://members.iracing.com/membersite/member/LeagueView.do?league=10205){:target="_blank"} | |STREET STOCK/MEDIUM OVAL |
 |[MiMCA](https://members.iracing.com/membersite/member/LeagueView.do?league=10209){:target="_blank"} | | |
 |[Nasmar Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10206){:target="_blank"} |[Discord](https://discord.gg/RAgx7ThYB8){:target="_blank"} |This is a cup league we run Monday and Tuesdays we are competitive and have fun |
@@ -47,7 +47,6 @@
 |[TDFW Super Speedway Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=10157){:target="_blank"} | |Super Speedway racing with different series each season and for a lot of fun |
 |[TexSEF iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10165){:target="_blank"} | | |
 |[The American Roadstock Revival Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10191){:target="_blank"} | |Open setup Street Stock road races on American road courses\. All races are 1\.5hrand the championship is a 2hr\. |
-|[The Driving Crooners](https://members.iracing.com/membersite/member/LeagueView.do?league=10154){:target="_blank"} | | |
 |[The Safety Car Express](https://members.iracing.com/membersite/member/LeagueView.do?league=10195){:target="_blank"} | |Welcome to The Safety Car Express League, Hosted by Red Ken Racing\! This league has been organised for the purpose of the Red Ken Racing community to race together, learn and essentially to have fun\! Every race will be live\-streamed on the Red Ken Racing \- YouTube channel where the community will be able to interact in the livestream chat\. Join the discord to get involved\! |
 |[Thursday Night Throwdown](https://members.iracing.com/membersite/member/LeagueView.do?league=10186){:target="_blank"} |[Discord](https://discord.gg/mBMSR9fXfX){:target="_blank"} | |
 |[Tommo](https://members.iracing.com/membersite/member/LeagueView.do?league=10166){:target="_blank"} | |GT3 |
@@ -57,6 +56,7 @@
 |[Winter Melt Down](https://members.iracing.com/membersite/member/LeagueView.do?league=10177){:target="_blank"} | |For the guys just starting\. must have rookie lic\. |
 |[X Stadium Trux](https://members.iracing.com/membersite/member/LeagueView.do?league=10201){:target="_blank"} | | |
 |[键盘车神](https://members.iracing.com/membersite/member/LeagueView.do?league=10203){:target="_blank"} | | |
+|[\#CVNE 1ª Div](https://members.iracing.com/membersite/member/LeagueView.do?league=10212){:target="_blank"} | |Campeonato Velocidad Nacional de Esports auspiciado por RFEDA\. |
 |[Porsche Esports Sprint Challenge GB](https://members.iracing.com/membersite/member/LeagueView.do?league=10204){:target="_blank"} | | |
 |[The Sim Racing Collective](https://members.iracing.com/membersite/member/LeagueView.do?league=10182){:target="_blank"} | |The Sim Racing Collective is a community made for all sim racing enthusiasts\. |
 
