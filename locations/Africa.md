@@ -42,8 +42,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[iRSA Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7082){:target="_blank"} |Clio Cup \| Season 1 |Africa |21 |2278 |Fixed |Donington Park Racing Circuit |Mon, September 25 01:30PM EDT |Mon, September 25 06:30PM BST |Tue, September 26 03:30AM AEST |
+|----------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[iRSA Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7082){:target="_blank"} |Clio Cup \| Season 1 |Africa |21 |2278 |Fixed | | | | |
 
 ### Touring Car
 
