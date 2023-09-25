@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------|--------|------|------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |18 |2741 | | | | | |
+|------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |18 |2741 | |Talladega Superspeedway |Fri, September 29 08:30AM EDT |Fri, September 29 01:30PM BST |Fri, September 29 10:30PM AEST |
 
 # Sports Car
 
@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------|-----------------------------|-----------------------------|------------------------------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |17 |2808 | |Road Atlanta |Fri, September 22 08:50AM EDT |Fri, September 22 01:50PM BST |Fri, September 22 10:50PM AEST |
+|------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------|--------|------|------|
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |22 |2844 | | | | | |
 
 ### Toyota GR86
 
