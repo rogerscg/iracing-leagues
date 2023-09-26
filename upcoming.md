@@ -5,12 +5,24 @@
 
 # NASCAR
 
+### Draft Master 2023S4
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
+|[AARL Blu's Race Designs Series presented by Holio](https://members.iracing.com/membersite/member/LeagueView.do?league=8221){:target="_blank"} |AARL Xfinity Series Season 4 | |Talladega Superspeedway |Wed, September 27 07:45PM EDT |Thu, September 28 12:45AM BST |Thu, September 28 09:45AM AEST |
+|[Junk Yard Dawgs](https://members.iracing.com/membersite/member/LeagueView.do?league=9836){:target="_blank"} |Chase for Marty's Cup |Fixed |Texas Motor Speedway |Tue, September 26 09:00PM EDT |Wed, September 27 02:00AM BST |Wed, September 27 11:00AM AEST |
+|[\(NSR\) Nortex Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=499){:target="_blank"} |NSR GNS Fall Season |Fixed |Chicagoland Speedway |Tue, September 26 09:00PM EDT |Wed, September 27 02:00AM BST |Wed, September 27 11:00AM AEST |
+|[The Birdhouse](https://members.iracing.com/membersite/member/LeagueView.do?league=10099){:target="_blank"} |The Birdhouse Xfinity Open Series | |Nashville Superspeedway |Tue, October 03 07:15PM EDT |Wed, October 04 12:15AM BST |Wed, October 04 10:15AM AEDT |
+
 ### Gen 4 Cup
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Downforce Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3111){:target="_blank"} |DRS Gen 4 Tuesday S1 | |Charlotte Motor Speedway |Tue, September 26 08:00PM EDT |Wed, September 27 01:00AM BST |Wed, September 27 10:00AM AEST |
 |[Rolling Thunder Gen4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9646){:target="_blank"} |Season 1 |Fixed |Daytona International Speedway |Sun, October 01 07:30PM EDT |Mon, October 02 12:30AM BST |Mon, October 02 10:30AM AEDT |
 |[Rubbin's Racin' Online League](https://members.iracing.com/membersite/member/LeagueView.do?league=6277){:target="_blank"} |2023 Season 2 \| Gen 4 Cup |Fixed |Talladega Superspeedway |Tue, September 26 07:00PM EDT |Wed, September 27 12:00AM BST |Wed, September 27 09:00AM AEST |
 
@@ -35,20 +47,27 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Sampsoid Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=5691){:target="_blank"} |Sampsoid Thursday Night Thunder Season 12 |Fixed |Charlotte Motor Speedway |Thu, September 28 08:15PM EDT |Fri, September 29 01:15AM BST |Fri, September 29 10:15AM AEST |
-|[Twisted Chassis Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8421){:target="_blank"} |Season 3 | |Daytona International Speedway |Mon, September 25 07:20PM EDT |Tue, September 26 12:20AM BST |Tue, September 26 09:20AM AEST |
+|[SVT Renegade Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9561){:target="_blank"} |VET SUICIDE AWARENESS |Fixed |Talladega Superspeedway |Thu, September 28 07:00PM EDT |Fri, September 29 12:00AM BST |Fri, September 29 09:00AM AEST |
 
-### XFINITY Series
+# Oval
+
+### Late Model Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[AARL Blu's Race Designs Series presented by Holio](https://members.iracing.com/membersite/member/LeagueView.do?league=8221){:target="_blank"} |AARL Xfinity Series Season 4 | |Talladega Superspeedway |Wed, September 27 07:45PM EDT |Thu, September 28 12:45AM BST |Thu, September 28 09:45AM AEST |
-|[Junk Yard Dawgs](https://members.iracing.com/membersite/member/LeagueView.do?league=9836){:target="_blank"} |Chase for Marty's Cup |Fixed |Texas Motor Speedway |Tue, September 26 09:00PM EDT |Wed, September 27 02:00AM BST |Wed, September 27 11:00AM AEST |
-|[\(NSR\) Nortex Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=499){:target="_blank"} |NSR GNS Fall Season |Fixed |Chicagoland Speedway |Tue, September 26 09:00PM EDT |Wed, September 27 02:00AM BST |Wed, September 27 11:00AM AEST |
-|[Red Light Racing Scrambler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=985){:target="_blank"} |Season 16 |Fixed |Daytona International Speedway |Mon, September 25 07:00PM EDT |Tue, September 26 12:00AM BST |Tue, September 26 09:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------|---------------------|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
+|[Lucky Dog Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9984){:target="_blank"} |LUCKY DOG LATE MODELS | |Southern National Motorsports Park |Tue, October 03 08:00PM EDT |Wed, October 04 01:00AM BST |Wed, October 04 11:00AM AEDT |
+
+### Street Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|[The American Roadstock Revival Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10191){:target="_blank"} |Test Season | |Virginia International Raceway |Tue, October 03 09:30PM EDT |Wed, October 04 02:30AM BST |Wed, October 04 12:30PM AEDT |
 
 # Open-wheel
 
@@ -65,9 +84,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[SNS Winter Challenge for Charity](https://members.iracing.com/membersite/member/LeagueView.do?league=6105){:target="_blank"} |Winter 2023/2024 |Fixed |Sebring International Raceway |Mon, September 25 08:00PM EDT |Tue, September 26 01:00AM BST |Tue, September 26 10:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-------------|-----------------------------|-----------------------------|------------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023D Road to Indy Series |Both |Red Bull Ring |Fri, September 29 05:35AM EDT |Fri, September 29 10:35AM BST |Fri, September 29 07:35PM AEST |
+
+### Dallara iR-01
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------------------|----------------------|-----|-----------------------|---------------------------|---------------------------|----------------------------|
+|[Canadian eMotorsports Network DART Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10193){:target="_blank"} |2023 CEMSN DART Series | |Barber Motorsports Park |Tue, October 03 07:20PM EDT |Wed, October 04 12:20AM BST |Wed, October 04 10:20AM AEDT |
 
 ### Formula Vee
 
@@ -83,7 +109,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|-------------|-----|--------------------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[BWRL SF23 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10158){:target="_blank"} |SF23 Practice | |Autodromo Internazionale Enzo e Dino Ferrari |Mon, September 25 08:00PM EDT |Tue, September 26 01:00AM BST |Tue, September 26 10:00AM AEST |
 |[BWRL SF23 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10158){:target="_blank"} |SF23 Season 1 | |Autodromo Internazionale Enzo e Dino Ferrari |Tue, September 26 07:30PM EDT |Wed, September 27 12:30AM BST |Wed, September 27 09:30AM AEST |
 
 # Sports Car
@@ -95,6 +120,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|----------------|-----|----------------------------------------|---------------------------|---------------------------|----------------------------|
 |[Lucky Dog Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9984){:target="_blank"} |Wild Card Series | |[Legacy] Charlotte Motor Speedway - 2008 |Mon, October 02 08:30PM EDT |Tue, October 03 01:30AM BST |Tue, October 03 11:30AM AEDT |
+
+### Ferrari 488 GT3 Evo 2020
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|--------------------------------|---------------------------|---------------------------|----------------------------|
+|[Bredballe IF Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8493){:target="_blank"} |Mandags holdets efterårsMESTERSKAB | |Hockenheimring Baden-Württemberg |Mon, October 02 02:00PM EDT |Mon, October 02 07:00PM BST |Tue, October 03 05:00AM AEDT |
 
 ### GT1 Class
 
@@ -112,6 +145,8 @@
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS Div 1 & Div 2 \- Server 1 | |Circuit de Spa-Francorchamps |Wed, September 27 01:00PM EDT |Wed, September 27 06:00PM BST |Thu, September 28 03:00AM AEST |
 |[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS Div 3 & Div 4 \- Server 2 | |Circuit de Spa-Francorchamps |Wed, September 27 01:00PM EDT |Wed, September 27 06:00PM BST |Thu, September 28 03:00AM AEST |
+|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |GT3 Challenge Season 8 |Open |Road Atlanta |Sun, October 01 07:00PM EDT |Mon, October 02 12:00AM BST |Mon, October 02 10:00AM AEDT |
+|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |JNR Contender Season 8 |Open |Road Atlanta |Sun, October 01 07:00PM EDT |Mon, October 02 12:00AM BST |Mon, October 02 10:00AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -140,8 +175,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Steel Racing Federation \(SRF\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4028){:target="_blank"} |2023 SRF MX\-5 Cup Series |Fixed |USA International Speedway |Mon, September 25 07:00PM EDT |Tue, September 26 12:00AM BST |Tue, September 26 09:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------|---------------|-----|---------------|-----------------------------|-----------------------------|------------------------------|
+|[OGRL Tuesday MX\-5 Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=10221){:target="_blank"} |Season 1 2023 | |Tsukuba Circuit |Tue, October 03 08:00PM EDT |Wed, October 04 01:00AM BST |Wed, October 04 11:00AM AEDT |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso MX\-5 Cup | |Lime Rock Park |Fri, September 29 03:00PM EDT |Fri, September 29 08:00PM BST |Sat, September 30 05:00AM AEST |
 
 ### Porsche 911 GT3 Cup (992)
@@ -184,7 +219,7 @@
 |[UCRL \- Offseason Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10168){:target="_blank"} |2023 Snowball Radical Short Track Series | |The Milwaukee Mile |Tue, September 26 09:00PM EDT |Wed, September 27 02:00AM BST |Wed, September 27 11:00AM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023D Downforce Legends \(Radical SR8\) |Both |Snetterton Circuit |Wed, September 27 04:35AM EDT |Wed, September 27 09:35AM BST |Wed, September 27 06:35PM AEST |
 
-### Spec Racer Ford
+### Ring Meister 2023S4
 
 [Back to Top](#)  
 
@@ -202,6 +237,14 @@
 |-------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|---------------------|---------------------------|---------------------------|----------------------------|
 |[Allied Pro Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4617){:target="_blank"} |Allied Pro Late Model Series Season 2 |Open |Volusia Speedway Park |Mon, October 02 09:30PM EDT |Tue, October 03 02:30AM BST |Tue, October 03 12:30PM AEDT |
 
+### Dirt Street Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|[PS Enduros](https://members.iracing.com/membersite/member/LeagueView.do?league=7139){:target="_blank"} |PS Enduros Season 4 |Fixed |Cedar Lake Speedway |Tue, October 03 08:30PM EDT |Wed, October 04 01:30AM BST |Wed, October 04 11:30AM AEDT |
+
 # Rallycross
 
 ### Rallycross
@@ -209,7 +252,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------|-----------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|----------------|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TKDI Rallycross | |Daytona Rallycross and Dirt Road |Tue, October 03 08:00PM EDT |Wed, October 04 01:00AM BST |Wed, October 04 11:00AM AEDT |
 |[RoushParts\.com Duel at Daytona](https://members.iracing.com/membersite/member/LeagueView.do?league=4493){:target="_blank"} |ROUSH Rallycross | |Charlotte Motor Speedway |Tue, September 26 07:00PM EDT |Wed, September 27 12:00AM BST |Wed, September 27 09:00AM AEST |
 
 # Multi-class/Unclassified
@@ -219,7 +263,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|----------------|-----|------------|-----------------------------|-----------------------------|------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------|-----------------------------|-----------------------------|------------------------------|
+|[Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235){:target="_blank"} |ACiL Fall Challenge 2023 | |Road Atlanta |Tue, October 03 07:30PM EDT |Wed, October 04 12:30AM BST |Wed, October 04 10:30AM AEDT |
 |[FSRA \- Friday Night Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7810){:target="_blank"} |Season 4 \(GTP\) |Fixed |Road Atlanta |Fri, September 29 09:00PM EDT |Sat, September 30 02:00AM BST |Sat, September 30 11:00AM AEST |
 
 ### Hosted All Cars Class

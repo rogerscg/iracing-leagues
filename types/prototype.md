@@ -51,19 +51,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |MPRL Radical Eurotrip |North America |46 |2136 | |Silverstone Circuit |Wed, September 27 09:00PM EDT |Thu, September 28 02:00AM BST |Thu, September 28 11:00AM AEST |
 |[NA VS OCE \- Battle At Sandown](https://members.iracing.com/membersite/member/LeagueView.do?league=7819){:target="_blank"} |Radical 500 S1 |North America |32 |2068 |Fixed | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Radical Season 3 |Australia-NZ |13 |1156 | | | | | |
-|[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Radicals |North America |13 |1411 |Fixed | | | | |
+|[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Radicals |North America |13 |1411 |Fixed |New Hampshire Motor Speedway |Tue, September 26 07:00PM EDT |Wed, September 27 12:00AM BST |Wed, September 27 09:00AM AEST |
 |[DFS Army Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=3509){:target="_blank"} |DFR Season 1 |North America |12 |1351 |Fixed | | | | |
 
-### Spec Racer Ford
+### Ring Meister 2023S4
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2023 S4 |North America |51 |3258 |Open |Summit Point Raceway |Sun, October 01 02:40PM EDT |Sun, October 01 07:40PM BST |Mon, October 02 05:40AM AEDT |
-|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 Fall SRF |North America |19 |2563 |Open | | | | |
+|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 Fall SRF |North America |19 |2563 |Open |Summit Point Raceway |Tue, October 03 08:25PM EDT |Wed, October 04 01:25AM BST |Wed, October 04 11:25AM AEDT |
 

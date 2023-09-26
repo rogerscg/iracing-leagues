@@ -3,6 +3,15 @@
 
 # NASCAR
 
+### Draft Master 2023S4
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------|------------|-------|----|-----|---------------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[ANZCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=2447){:target="_blank"} |2023 Thunder Series 3 |Australia-NZ |48 |2302 | |World Wide Technology Raceway (Gateway) |Wed, September 27 05:00AM EDT |Wed, September 27 10:00AM BST |Wed, September 27 07:00PM AEST |
+|[Fantasia Australian nascar open series](https://members.iracing.com/membersite/member/LeagueView.do?league=9968){:target="_blank"} |X series season 1 |Australia-NZ |45 |2285 | |Texas Motor Speedway |Tue, September 26 06:15AM EDT |Tue, September 26 11:15AM BST |Tue, September 26 08:15PM AEST |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -30,15 +39,6 @@
 |---------------------------------------------------------------------------------------------------------------------|--------------------------------|------------|-------|----|-----|-------------|--------|------|------|
 |[Australian Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10125){:target="_blank"} |Australian Truck Series Season 1 |Australia-NZ |37 |1989 | | | | | |
 |[Chequered Flag Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9616){:target="_blank"} |Season 2 |Australia-NZ |28 |1826 | | | | | |
-
-### XFINITY Series
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|---------------------|------------|-------|----|-----|---------------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[ANZCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=2447){:target="_blank"} |2023 Thunder Series 3 |Australia-NZ |48 |2302 | |World Wide Technology Raceway (Gateway) |Wed, September 27 05:00AM EDT |Wed, September 27 10:00AM BST |Wed, September 27 07:00PM AEST |
-|[Fantasia Australian nascar open series](https://members.iracing.com/membersite/member/LeagueView.do?league=9968){:target="_blank"} |X series season 1 |Australia-NZ |45 |2285 | |Texas Motor Speedway |Tue, September 26 06:15AM EDT |Tue, September 26 11:15AM BST |Tue, September 26 08:15PM AEST |
 
 # Oval
 
