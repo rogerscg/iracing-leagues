@@ -8,9 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Solstice Racing League \- Wednesday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |SnG Truck Series Season 2 |North America |29 |1872 |Fixed | | | | |
 |[Minuteman Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9958){:target="_blank"} |MMR Summer Series |North America |27 |2590 |Both | | | | |
-|[Solstice Racing League \- Wednesday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |SnG Truck Series Season 2 |North America |26 |2149 |Fixed |Bark River International Raceway |Wed, September 27 08:00PM EDT |Thu, September 28 01:00AM BST |Thu, September 28 10:00AM AEST |
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2023 World Cup |North America |24 |3878 |Open | | | | |
 |[Dirt & Determination](https://members.iracing.com/membersite/member/LeagueView.do?league=10056){:target="_blank"} |Crandon August 24th |North America |23 |3801 | | | | | |
 
@@ -19,9 +19,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|--------------------|-----------------------------|-----------------------------|------------------------------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK VII \- 2023 |North America |18 |1674 |Fixed | | | | |
-|[RSCS PLM Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5561){:target="_blank"} |Off Road Mayhem S1 |North America |14 |1222 |Fixed |Summit Point Raceway |Wed, September 27 09:15PM EDT |Thu, September 28 02:15AM BST |Thu, September 28 11:15AM AEST |
+|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|---------------|---------------------------|---------------------------|----------------------------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK VII \- 2023 |North America |18 |1674 |Fixed |Tsukuba Circuit |Thu, October 05 08:05PM EDT |Fri, October 06 01:05AM BST |Fri, October 06 11:05AM AEDT |
+|[RSCS PLM Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5561){:target="_blank"} |Off Road Mayhem S1 |North America |14 |1222 |Fixed | | | | |
 
 ### Pro 4 Truck
 

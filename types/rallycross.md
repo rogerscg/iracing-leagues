@@ -10,7 +10,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|--------------------|-----------------------------|-----------------------------|------------------------------|
 |[Overwatch Specialty Service NASA Rallycross Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |23b |North America |25 |3120 | | | | | |
-|[Norgesmesterskap Rallycross 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=9838){:target="_blank"} |Norgesmesterskapet Rallycross \- 2023 \- Official |Europe |16 |3327 | | | | | |
+|[Norgesmesterskap Rallycross 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=9838){:target="_blank"} |Norgesmesterskapet Rallycross \- 2023 \- Official |Europe |16 |3125 | | | | | |
+|[RoushParts\.com Duel at Daytona](https://members.iracing.com/membersite/member/LeagueView.do?league=4493){:target="_blank"} |ROUSH Rallycross |North America |16 |3150 | | | | | |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |SEL Funrace |Europe |14 |2152 | | | | | |
 |[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 6 |Australia-NZ |11 |2442 | |Lånkebanen (Hell RX) |Thu, September 28 05:30AM EDT |Thu, September 28 10:30AM BST |Thu, September 28 07:30PM AEST |
 
