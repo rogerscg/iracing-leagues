@@ -23,11 +23,3 @@
 |[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |19 |2860 | | | | | |
 |[\#SRE Sim Racing Enthusiast](https://members.iracing.com/membersite/member/LeagueView.do?league=7113){:target="_blank"} |SRE League S2 \- Mockup Session |Asia |19 |1791 | | | | | |
 
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[IUEM Calioth Racing GR86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9878){:target="_blank"} |IUEM Calioth Racing GR86 Championship |Asia |10 |2334 | | | | | |
-

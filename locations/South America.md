@@ -45,9 +45,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------|-----------------------------|-----------------------------|------------------------------|
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2023/3 |South America |41 |1554 | |Hungaroring |Thu, September 28 05:25PM EDT |Thu, September 28 10:25PM BST |Fri, September 29 07:25AM AEST |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |35 |3090 | |Hungaroring |Thu, September 28 07:25PM EDT |Fri, September 29 12:25AM BST |Fri, September 29 09:25AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------|---------------------------|---------------------------|----------------------------|
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2023/3 |South America |43 |1608 | | | | | |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |39 |3154 | | | | | |
 |[IRB \- Heineken 0\.0 MoT Pro Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=733){:target="_blank"} |Temporada 2023 |South America |33 |4360 | |Hungaroring |Wed, October 04 05:00PM EDT |Wed, October 04 10:00PM BST |Thu, October 05 08:00AM AEDT |
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T4\-2023 |South America |29 |3452 | |Hungaroring |Mon, October 02 05:00PM EDT |Mon, October 02 10:00PM BST |Tue, October 03 08:00AM AEDT |
 
@@ -78,7 +78,6 @@
 |-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/3 |South America |27 |2107 | |Charlotte Motor Speedway |Mon, October 02 05:25PM EDT |Mon, October 02 10:25PM BST |Tue, October 03 08:25AM AEDT |
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T4\-2023 |South America |27 |2263 | | | | | |
-|[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T3\-2023 |South America |18 |2808 | | | | | |
 
 ### Touring Car
 

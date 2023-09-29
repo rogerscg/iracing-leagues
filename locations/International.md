@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
-|[GPEsportsRD](https://members.iracing.com/membersite/member/LeagueView.do?league=9168){:target="_blank"} |Open Wheel Challenge |International |11 |1730 | |Autódromo José Carlos Pace |Thu, September 28 08:15PM EDT |Fri, September 29 01:15AM BST |Fri, September 29 10:15AM AEST |
+|--------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|[GPEsportsRD](https://members.iracing.com/membersite/member/LeagueView.do?league=9168){:target="_blank"} |Open Wheel Challenge |International |13 |1881 | |Watkins Glen International |Thu, October 05 08:15PM EDT |Fri, October 06 01:15AM BST |Fri, October 06 11:15AM AEDT |
 
 # Sports Car
 
@@ -27,6 +27,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |31 |1842 | |Okayama International Circuit |Thu, September 28 08:45PM EDT |Fri, September 29 01:45AM BST |Fri, September 29 10:45AM AEST |
+|---------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
+|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |31 |1833 | |Charlotte Motor Speedway |Mon, October 02 10:00PM EDT |Tue, October 03 03:00AM BST |Tue, October 03 01:00PM AEDT |
 
