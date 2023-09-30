@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |18 |2741 | |Talladega Superspeedway |Fri, September 29 08:30AM EDT |Fri, September 29 01:30PM BST |Fri, September 29 10:30PM AEST |
+|------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------|--------|------|------|
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |20 |2485 | | | | | |
 
 # Sports Car
 

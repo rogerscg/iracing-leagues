@@ -24,15 +24,15 @@
 |[MiMCA](https://members.iracing.com/membersite/member/LeagueView.do?league=10209){:target="_blank"} | | |
 |[NASCAR iRacing FedEx Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10218){:target="_blank"} |[Discord](https://discord.gg/RjweTVGhrd){:target="_blank"} |The NASCAR iRacing FedEx Cup Series is an iRacing League run by YouTuber Ethan Trendler\. Experienced Drivers Only\. |
 |[Nasmar Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10206){:target="_blank"} |[Discord](https://discord.gg/RAgx7ThYB8){:target="_blank"} |This is a cup league we run Monday and Tuesdays we are competitive and have fun |
-|[NBS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10189){:target="_blank"} | |We are here to have fun and Race clean\. We race Different cars depending on the season we all vote on\. |
 |[North American Asphalt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10192){:target="_blank"} | | |
 |[OGRL Tuesday MX\-5 Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=10221){:target="_blank"} | |Old Guy Racing League   Season 1 of the Tuesday MX\-5 Mayhem   October 3rd\- Tsukuba Circuit\- 2000  October 10th\- Okayama\- Full  October 17th\- Lime Rock Park\- Grand Prix  October 24th\- Summit Point Raceway  October 31st\- Oulton Park\- International  November 7th\- Charlotte Motorspeedway\- Roval  November 14th\- Oran Park\- Grand Prix  November 21st\- Okayama International\- Short  November 28th\- Summit Point Raceway\- Jefferson Course  December 5th\- Oulton Park\- Fosters  December 12th\- Oran Park Raceway\-South  December 19th\- Weather Tech Laguna Seca\- Full |
+|[Road N' Plate](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} | | |
 |[Roomba Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=10207){:target="_blank"} |[Discord](https://discord.gg/dR8qdPajXn){:target="_blank"} |Season 1 \- Super Formula |
 |[RSS's SIMplify Circuit](https://members.iracing.com/membersite/member/LeagueView.do?league=10194){:target="_blank"} | |Production Cars at its finest in the RSS's SIMplify Circuit\. |
 |[Short Track Stars Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10226){:target="_blank"} | |The Short Track Stars Association is a weekly iRacing series that runs exclusively LMSC on short tracks around the country\. We aim to mix competition with clean, hard racing |
 |[Southern Mafia Elite Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10228){:target="_blank"} | |Our league will a variety of cars each season will be different the season will consist of 12 regular season races and dependig on how maney drivers we get playoffs \! |
 |[Stock Car Québec](https://members.iracing.com/membersite/member/LeagueView.do?league=10222){:target="_blank"} | |All Nascar |
-|[Stock Car Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10214){:target="_blank"} | |Cup \- Sunday : xFinity \- Saturday : Truck \- Friday |
+|[Stock Car Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10214){:target="_blank"} |[Discord](https://discord.gg/Y6u65yQr){:target="_blank"} |Cup \- Sunday : xFinity \- Saturday : Truck \- Friday |
 |[Sunday Practices](https://members.iracing.com/membersite/member/LeagueView.do?league=10217){:target="_blank"} | |9 EST |
 |[TDM Pro Latemodel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10220){:target="_blank"} | |Invite Only League\! |
 |[Team AHT](https://members.iracing.com/membersite/member/LeagueView.do?league=10225){:target="_blank"} | |Racing Team of Atlanta Home Theater |
@@ -43,9 +43,11 @@
 |[TNT Season 3 Superspeedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=10230){:target="_blank"} | |Xfinity SS Money League racing on Tuesday nights starting 10/3/2023 |
 |[White Knuckle motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10219){:target="_blank"} |[Discord](https://discord.gg/AyGfqWU7){:target="_blank"} |super latemodel series\.\. clean racing only no b\.s\. if u wreck someone intentional ur disqualified for next race |
 |[WVVA NASCAR League](https://members.iracing.com/membersite/member/LeagueView.do?league=10216){:target="_blank"} | |I was searching for Leagues with WV and VA racers\. I wanted to create something that could accommodate racers at all levels\. For now, no season has been created until we can get some members, but I look forward to meeting and racing with everyone\. |
+|[WYOMING IRACING CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=10237){:target="_blank"} | |LATE MODEL STOCK/ TOUR MODS |
 |[X Stadium Trux](https://members.iracing.com/membersite/member/LeagueView.do?league=10201){:target="_blank"} | | |
 |[键盘车神](https://members.iracing.com/membersite/member/LeagueView.do?league=10203){:target="_blank"} | | |
 |[\#CVNE 1ª Div](https://members.iracing.com/membersite/member/LeagueView.do?league=10212){:target="_blank"} | |Campeonato Velocidad Nacional de Esports auspiciado por RFEDA\. |
+|[FRITOSPORT Racing Series \- LEGENDS](https://members.iracing.com/membersite/member/LeagueView.do?league=10238){:target="_blank"} | |Wednesdays League |
 |[Porsche Esports Sprint Challenge GB](https://members.iracing.com/membersite/member/LeagueView.do?league=10204){:target="_blank"} | | |
 |[TSRN Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} | |Casual Competitive racing |
 
