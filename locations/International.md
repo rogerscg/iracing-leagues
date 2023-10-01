@@ -19,8 +19,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
-|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 12 \- multiclass |International |23 |1786 | | | | | |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 13 \- BMW |International |22 |1734 | |WeatherTech Raceway at Laguna Seca |Sun, October 01 01:25PM EDT |Sun, October 01 06:25PM BST |Mon, October 02 04:25AM AEDT |
+|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 12 \- multiclass |International |21 |1776 | | | | | |
 
 ### Mazda MX-5 Cup 2016
 
