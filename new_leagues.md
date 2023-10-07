@@ -13,6 +13,7 @@
 |[Eastern Shore Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10231){:target="_blank"} | | |
 |[Elite Legend Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10235){:target="_blank"} | |We Strictly Race Advanced Legends\. |
 |[EOR Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10224){:target="_blank"} | | |
+|[Formula for Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=10268){:target="_blank"} | |Fun League for people trying to get better |
 |[iRacing Drivers Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10266){:target="_blank"} | |https://discord\.gg/XdVNJRw |
 |[iRacing SR Donation Society](https://members.iracing.com/membersite/member/LeagueView.do?league=10255){:target="_blank"} |[Discord](https://discord.gg/r6y67PJ6za){:target="_blank"} |Created by former ACCSS members |
 |[JAW Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10232){:target="_blank"} | |The idea is to have folks here who are honest and willing to own up to mistakes\. Clean good hard racing is king |
@@ -36,7 +37,6 @@
 |[Smoky Mtn Grassroots LMSC TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=10254){:target="_blank"} | | |
 |[Southern Mafia Elite Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10228){:target="_blank"} | |Our league will a variety of cars each season will be different the season will consist of 12 regular season races and dependig on how maney drivers we get playoffs \! |
 |[Stock Car Québec](https://members.iracing.com/membersite/member/LeagueView.do?league=10222){:target="_blank"} | |All Nascar |
-|[Sunday Practices](https://members.iracing.com/membersite/member/LeagueView.do?league=10217){:target="_blank"} | |9 EST |
 |[Superspeedway drafting funk](https://members.iracing.com/membersite/member/LeagueView.do?league=10261){:target="_blank"} | |Learn to draft and have fun, stay out of trouble |
 |[TDM Pro Latemodel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10220){:target="_blank"} | |Invite Only League\! |
 |[Team AHT](https://members.iracing.com/membersite/member/LeagueView.do?league=10225){:target="_blank"} | |Racing Team of Atlanta Home Theater |
