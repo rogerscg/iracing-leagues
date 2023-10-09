@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[GPEsportsRD](https://members.iracing.com/membersite/member/LeagueView.do?league=9168){:target="_blank"} |Open Wheel Challenge |International |13 |1911 | | | | | |
+|--------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
+|[GPEsportsRD](https://members.iracing.com/membersite/member/LeagueView.do?league=9168){:target="_blank"} |Open Wheel Challenge |International |13 |1911 | |Circuit de Spa-Francorchamps |Thu, October 12 08:15PM EDT |Fri, October 13 01:15AM BST |Fri, October 13 11:15AM AEDT |
 
 # Sports Car
 
@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 13 \- BMW |International |23 |1693 | | | | | |
+|-----------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|---------------------------|---------------------------|----------------------------|
+|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 13 \- BMW |International |23 |1693 | |Road America |Mon, October 16 01:26PM EDT |Mon, October 16 06:26PM BST |Tue, October 17 04:26AM AEDT |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 12 \- multiclass |International |21 |1776 | | | | | |
 
 ### Mazda MX-5 Cup 2016

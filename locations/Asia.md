@@ -18,9 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------|--------|------|------|
 |[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |iRJA GT 2023 |Asia |19 |2860 | | | | | |
-|[\#SRE Sim Racing Enthusiast](https://members.iracing.com/membersite/member/LeagueView.do?league=7113){:target="_blank"} |SRE League S2 \- Mockup Session |Asia |16 |1558 | | | | | |
 
 ### Porsche 911 GT3 Cup (992)
 
