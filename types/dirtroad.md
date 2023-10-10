@@ -28,9 +28,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Off\-Road Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8482){:target="_blank"} |2023 iRacing \- Off\-Road Championship |North America |24 |6999 | | | | | |
+|[Off\-Road Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8482){:target="_blank"} |2023 iRacing \- Off\-Road Championship |North America |24 |7009 | | | | | |
 |[TopBox Sim Racing Pro 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |Topbox Qualifiers |North America |20 |2689 | | | | | |
-|[iRacing Off\-Road All\-Star Invitational \(Pro/Celebrity Racers\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4296){:target="_blank"} |2023 Off\-Road All\-Star Series \(Pro 4\) |North America |20 |2677 | | | | | |
 |[TOPBOX WORLD FINALS](https://members.iracing.com/membersite/member/LeagueView.do?league=10085){:target="_blank"} |TOPBOXWORLDFINALS |North America |19 |4241 | | | | | |
+|[iRacing Off\-Road All\-Star Invitational \(Pro/Celebrity Racers\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4296){:target="_blank"} |2023 Off\-Road All\-Star Series \(Pro 4\) |North America |18 |2724 | | | | | |
 |[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusTrux S1 |Australia-NZ |17 |2425 | | | | | |
 
