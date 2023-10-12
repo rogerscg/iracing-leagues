@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[No Bull Canadian/ American Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6381){:target="_blank"} |No Bull Can / Am Series |North America |17 |1998 | | | | | |
-|[RACER FIRST SIM\-RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9722){:target="_blank"} |Racer First Late Model Tour \- Super Late Model Cash Shootout |North America |16 |1472 |Fixed | | | | |
+|[RACER FIRST SIM\-RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9722){:target="_blank"} |Racer First Late Model Tour \- Super Late Model Cash Shootout |North America |14 |1510 |Fixed | | | | |
 |[RAID iSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |TEST |North America |12 |None |Fixed | | | | |
 
 ### Late Model Stock
@@ -18,36 +18,34 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |BCR Late Model Stock Season \#3 |North America |60 |2355 |Both | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
+|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |BCR Late Model Stock Season \#3 |North America |61 |2375 |Both | | | | |
 |[North South Racing League Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=4812){:target="_blank"} |NSRL Late Model Stock Cars S1 |North America |53 |2693 | |Lanier National Speedway |Sun, October 15 08:00PM EDT |Mon, October 16 01:00AM BST |Mon, October 16 11:00AM AEDT |
-|[American Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=18){:target="_blank"} |2023 ASR All American Series |North America |46 |2140 |Fixed |The Bullring |Wed, October 11 08:30PM EDT |Thu, October 12 01:30AM BST |Thu, October 12 11:30AM AEDT |
+|[American Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=18){:target="_blank"} |2023 ASR All American Series |North America |46 |2174 |Fixed | | | | |
 |[The Kohort \- DIRT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9714){:target="_blank"} |The Kohort \- Late Model Stock Tour \- S1 |North America |46 |2459 |Both |Five Flags Speedway |Sun, October 15 09:00PM EDT |Mon, October 16 02:00AM BST |Mon, October 16 12:00PM AEDT |
 |[ARCS Only Short\-Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=9609){:target="_blank"} |OST Season 2 |North America |44 |1998 | | | | | |
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |JBSRL FALL LMSC |North America |40 |1928 |Both | | | | |
-|[Pro American Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9011){:target="_blank"} |Season 3 |North America |39 |2505 | | | | | |
+|[Pro American Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9011){:target="_blank"} |Season 3 |North America |40 |2496 | | | | | |
 |[\#0 Donut Box Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8942){:target="_blank"} |DBLMS S2 |North America |33 |1683 |Fixed | | | | |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Late Models s3 |North America |31 |2237 | |South Boston Speedway |Tue, October 17 08:15PM EDT |Wed, October 18 01:15AM BST |Wed, October 18 11:15AM AEDT |
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |CARS Tour |North America |31 |1697 | | | | | |
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |Weekly Series \- South Boston \- 2023 Fall Season |North America |30 |4304 |Open | | | | |
-|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S24 |North America |28 |2197 |Fixed | | | | |
+|[iCAR Pro Cup series \(SLM Series\)](https://members.iracing.com/membersite/member/LeagueView.do?league=1577){:target="_blank"} |iCar Hooters Pro Cup Series |North America |28 |2286 | | | | | |
+|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S24 |North America |28 |2197 |Fixed |Southern National Motorsports Park |Sat, October 14 08:45PM EDT |Sun, October 15 01:45AM BST |Sun, October 15 11:45AM AEDT |
 |[The Grit Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=3843){:target="_blank"} |2023 GreaseCar Season |North America |27 |2662 |Fixed | | | | |
-|[iCAR Pro Cup series \(SLM Series\)](https://members.iracing.com/membersite/member/LeagueView.do?league=1577){:target="_blank"} |iCar Hooters Pro Cup Series |North America |27 |2263 | |Nashville Fairgrounds Speedway |Wed, October 11 07:30PM EDT |Thu, October 12 12:30AM BST |Thu, October 12 10:30AM AEDT |
 |[Midwest Pavement Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9661){:target="_blank"} |MPR Late Model Summer Season 2023 |North America |27 |1938 | | | | | |
 |[ReScreened LLC Regional LM Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5815){:target="_blank"} |S3 ReSreened LLC Regional LM Tour |North America |27 |1943 |Fixed | | | | |
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |Weekly Series \- Kern \- 2023 Fall Season |North America |27 |3933 |Open | | | | |
 |[MPI Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9426){:target="_blank"} |Winter Series |North America |26 |2756 | | | | | |
 |[OSRL Off\-Season Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7291){:target="_blank"} |STS Season 2 |North America |26 |2864 |Fixed | | | | |
+|[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |Weekly Series \- Langley \- 2023 Fall Season |North America |26 |3973 |Open | | | | |
 |[Junk Yard Dawgs](https://members.iracing.com/membersite/member/LeagueView.do?league=9836){:target="_blank"} |The Roundy Round Cup |North America |25 |1615 |Fixed | | | | |
 |[Lucky Dog Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9984){:target="_blank"} |LUCKY DOG LATE MODELS |North America |25 |1553 | |Lanier National Speedway |Tue, October 17 07:59PM EDT |Wed, October 18 12:59AM BST |Wed, October 18 10:59AM AEDT |
-|[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |Weekly Series \- Langley \- 2023 Fall Season |North America |25 |3940 |Open | | | | |
 |[QSR iRacing Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8907){:target="_blank"} |Late Model Expedition Series |North America |24 |1683 |Fixed | | | | |
 |[RAID iSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |CARS Late Model Tour 2023 Season 3 |North America |24 |2768 |Fixed | | | | |
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |Weekly Series \- Hickory \- 2023 Fall Season |North America |23 |3597 |Open | | | | |
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |Weekly Series \- Irwindale Inner \- 2023 Fall Season |North America |23 |3786 |Open | | | | |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |2023 Travis Wall Late Model Stock Challenge \(Summer Series\) |North America |22 |2074 | | | | | |
-|[DLine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4286){:target="_blank"} |DLINE Racing League Presented by Elevated Performance |North America |21 |1638 | | | | | |
-|[Flat Out Racing League Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8484){:target="_blank"} |Season 2 |North America |21 |1635 | | | | | |
 |[Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2732){:target="_blank"} |Reverb \- 23S4 Late Models |North America |21 |2736 |Fixed |Myrtle Beach Speedway |Thu, October 12 10:55PM EDT |Fri, October 13 03:55AM BST |Fri, October 13 01:55PM AEDT |
 |[SR4MH ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4639){:target="_blank"} |LMSC Season 1 |North America |21 |2540 | | | | | |
 |[BRL Stone River Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=1752){:target="_blank"} |2023 Shootout |North America |21 |1999 | | | | | |
@@ -59,28 +57,30 @@
 |[All\-Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |Barry Elvis Performance & Fabrication Late Model Stock Series |North America |18 |1821 |Fixed | | | | |
 |[Lucky Dawg Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9578){:target="_blank"} |Late Model Series |North America |18 |1963 | | | | | |
 |[WOTEL Nascar Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=6226){:target="_blank"} |Mi22ion Late Model Stocks |North America |18 |2368 | | | | | |
+|[Flat Out Racing League Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8484){:target="_blank"} |Season 2 |North America |17 |1636 | | | | | |
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |Special Events |North America |17 |1353 |Fixed | | | | |
 |[AllPro sim Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=4849){:target="_blank"} |ASA Crates |North America |16 |2216 | | | | | |
 |[DOB LMSC Hickory Weekly](https://members.iracing.com/membersite/member/LeagueView.do?league=3678){:target="_blank"} |2023 Hickory LMSC Series |North America |16 |2751 |Fixed | | | | |
+|[Family Friendly Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=9872){:target="_blank"} |FFRC LMS Tour Season 1B |North America |16 |1527 |Fixed | | | | |
 |[GLR ARCA/SLM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9310){:target="_blank"} |Late Model Season 1 |North America |16 |1361 | | | | | |
-|[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |Late Model Stocks |North America |16 |1338 | | | | | |
-|[Family Friendly Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=9872){:target="_blank"} |FFRC LMS Tour Season 1B |North America |14 |1488 |Fixed | | | | |
+|[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |Late Model Stocks |North America |16 |1351 | | | | | |
 |[Freedom Racing Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10126){:target="_blank"} |Season 1 |North America |14 |1971 | | | | | |
-|[Quarantine Racing League QRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9437){:target="_blank"} |CARS Season 1 |North America |14 |1543 |Fixed |South Boston Speedway |Fri, October 13 10:30PM EDT |Sat, October 14 03:30AM BST |Sat, October 14 01:30PM AEDT |
-|[RACER FIRST SIM\-RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9722){:target="_blank"} |Racer First Late Model Tour \- Late Model Stocks |North America |14 |1509 |Fixed | | | | |
+|[RACER FIRST SIM\-RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9722){:target="_blank"} |Racer First Late Model Tour \- Late Model Stocks |North America |14 |1513 |Fixed | | | | |
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Late Model Fixed Tour \- Season\#01 |Europe |14 |2419 |Both |Concord Speedway |Sun, October 15 01:00PM EDT |Sun, October 15 06:00PM BST |Mon, October 16 04:00AM AEDT |
 |[Extreme Forces GEN6 CUP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7157){:target="_blank"} |Season 2 Late Model Series |North America |13 |1593 | |North Wilkesboro Speedway |Tue, October 17 08:00PM EDT |Wed, October 18 01:00AM BST |Wed, October 18 11:00AM AEDT |
 |[FSBRACING\.COM](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Late Model Season 47 |North America |13 |1577 |Fixed |Bristol Motor Speedway |Sun, October 15 07:30PM EDT |Mon, October 16 12:30AM BST |Mon, October 16 10:30AM AEDT |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023 Thursday \- Late Model Road Act IV |North America |13 |1018 |Fixed |Charlotte Motor Speedway |Thu, October 12 06:35PM EDT |Thu, October 12 11:35PM BST |Fri, October 13 09:35AM AEDT |
+|[Quarantine Racing League QRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9437){:target="_blank"} |CARS Season 1 |North America |12 |1546 |Fixed |South Boston Speedway |Fri, October 13 10:30PM EDT |Sat, October 14 03:30AM BST |Sat, October 14 01:30PM AEDT |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |NASTRACK Practice |North America |12 |None | | | | | |
-|[NEXUS NATIONAL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=9170){:target="_blank"} |Season 2 |North America |12 |1822 | | | | | |
+|[NEXUS NATIONAL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=9170){:target="_blank"} |Season 2 |North America |12 |1822 | |Stafford Motor Speedway |Thu, October 12 07:30PM EDT |Fri, October 13 12:30AM BST |Fri, October 13 10:30AM AEDT |
+|[RAID iSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |CARS Late Model Tour 2023 Season 4 |North America |12 |2730 |Fixed | | | | |
 |[CPR Nine Three](https://members.iracing.com/membersite/member/LeagueView.do?league=2287){:target="_blank"} |Season 3 |Australia-NZ |11 |1962 |Fixed | | | | |
 |[FASTR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6463){:target="_blank"} |Late Model Series |North America |11 |2242 |Both | | | | |
 |[Lucky Dog Sim Racing Super Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=9127){:target="_blank"} |Season Three |North America |11 |1585 | | | | | |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |Fun Races |North America |11 |1639 | | | | | |
 |[Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6026){:target="_blank"} |TRL LATE MODEL |North America |11 |966 |Open | | | | |
 |[WYOMING IRACING CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=10237){:target="_blank"} |WYOMING LATE MODEL STOCK SERIES |North America |11 |1458 | |Five Flags Speedway |Mon, October 16 09:30PM EDT |Tue, October 17 02:30AM BST |Tue, October 17 12:30PM AEDT |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 28 Late Model |North America |10 |1327 |Fixed |Bristol Motor Speedway |Wed, October 11 12:00PM EDT |Wed, October 11 05:00PM BST |Thu, October 12 03:00AM AEDT |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 28 Late Model |North America |10 |1315 |Fixed |Bristol Motor Speedway |Fri, October 13 10:16AM EDT |Fri, October 13 03:16PM BST |Sat, October 14 01:16AM AEDT |
 |[AARL Blu's Race Designs Series presented by Holio](https://members.iracing.com/membersite/member/LeagueView.do?league=8221){:target="_blank"} |Late Model |North America |10 |1688 | | | | | |
 |[FTSR Late Model Stock Tour \(Thursdays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9546){:target="_blank"} |2023 LMS Tour |North America |10 |2120 |Fixed | | | | |
 
@@ -110,13 +110,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
-|[SRL \- RACE22\.COM Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8060){:target="_blank"} |Season 4 |North America |35 |2054 |Fixed | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
+|[SRL \- RACE22\.COM Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8060){:target="_blank"} |Season 4 |North America |35 |2054 |Fixed |Irwindale Speedway |Sun, October 15 08:30PM EDT |Mon, October 16 01:30AM BST |Mon, October 16 11:30AM AEDT |
 |[XCAL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1264){:target="_blank"} |2023 XCAL Racing Web Shop Series |North America |35 |2547 |Both | | | | |
 |[BRLx](https://members.iracing.com/membersite/member/LeagueView.do?league=960){:target="_blank"} |Sportsman SS S01 |North America |27 |1824 |Fixed | | | | |
 |[FASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=9952){:target="_blank"} |FASCAR Street Stock Series |North America |24 |1569 | | | | | |
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |Street Stocks Season 1 |North America |18 |1992 |Both |Martinsville Speedway |Tue, October 17 07:29PM EDT |Wed, October 18 12:29AM BST |Wed, October 18 10:29AM AEDT |
-|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S28 |North America |17 |1650 |Fixed | | | | |
+|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S28 |North America |17 |1650 |Fixed |Southern National Motorsports Park |Fri, October 13 07:00PM EDT |Sat, October 14 12:00AM BST |Sat, October 14 10:00AM AEDT |
 |[Five Points Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8214){:target="_blank"} |ADRAe Street Stock Challenge |North America |16 |2455 |Fixed | | | | |
 |[DLine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4286){:target="_blank"} |Street Stocks Elevated |North America |13 |1546 | |USA International Speedway |Tue, October 17 08:30PM EDT |Wed, October 18 01:30AM BST |Wed, October 18 11:30AM AEDT |
 |[R\.A\.M\. Ranch Enduro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9946){:target="_blank"} |RAM RANCH V8 ENDURO SEASON 1 |North America |13 |1641 |Both | | | | |
@@ -128,15 +128,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
 |[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Monday Night Madness Season \#11 |North America |48 |2540 |Both | | | | |
 |[All Pro Sim Super Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=208){:target="_blank"} |2023 SLM Championship |North America |38 |2446 |Fixed | | | | |
 |[GOAT Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8391){:target="_blank"} |GOAT Racing SLM Season 1 |North America |33 |2491 | | | | | |
 |[MSiRT SLM Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9562){:target="_blank"} |2023 Wednesday Night SLM Summer Series |North America |25 |2698 | | | | | |
-|[BRL Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S23 |North America |22 |1771 |Fixed | | | | |
+|[BRL Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S23 |North America |22 |1771 |Fixed |Southern National Motorsports Park |Fri, October 13 07:50PM EDT |Sat, October 14 12:50AM BST |Sat, October 14 10:50AM AEDT |
 |[RAID iSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |CARS Super Late Model Tour 2023 Season 4 |North America |19 |2859 |Fixed |Iowa Speedway |Wed, October 18 08:30PM EDT |Thu, October 19 01:30AM BST |Thu, October 19 11:30AM AEDT |
 |[\#0 Donut Box Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8942){:target="_blank"} |DBSLMS S2 |North America |17 |2076 |Fixed | | | | |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2023 SEASON 4 SLM SERIES |North America |17 |1943 | |USA International Speedway |Mon, October 16 07:00PM EDT |Tue, October 17 12:00AM BST |Tue, October 17 10:00AM AEDT |
+|[gRaceland Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7020){:target="_blank"} |Graceland Shootout Series Season \#5 |North America |15 |1783 |Fixed |Atlanta Motor Speedway |Tue, October 17 08:00PM EDT |Wed, October 18 01:00AM BST |Wed, October 18 11:00AM AEDT |
 |[Last Man Standing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=3745){:target="_blank"} |Manic Monday Short Tracks |North America |13 |1334 |Both |Lucas Oil Raceway (IRP) |Mon, October 16 08:59PM EDT |Tue, October 17 01:59AM BST |Tue, October 17 11:59AM AEDT |
 |[Extreme Forces TRUCK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7933){:target="_blank"} |Season 2 Super Late Model Series |North America |12 |2040 | |Kern County Raceway Park |Tue, October 17 09:00PM EDT |Wed, October 18 02:00AM BST |Wed, October 18 12:00PM AEDT |
 
