@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
-|[GPEsportsRD](https://members.iracing.com/membersite/member/LeagueView.do?league=9168){:target="_blank"} |Open Wheel Challenge |International |13 |1911 | |Circuit de Spa-Francorchamps |Thu, October 12 08:15PM EDT |Fri, October 13 01:15AM BST |Fri, October 13 11:15AM AEDT |
+|--------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|[GPEsportsRD](https://members.iracing.com/membersite/member/LeagueView.do?league=9168){:target="_blank"} |Open Wheel Challenge |International |13 |2073 | |Summit Point Raceway |Thu, October 19 08:15PM EDT |Fri, October 20 01:15AM BST |Fri, October 20 11:15AM AEDT |
 
 # Sports Car
 

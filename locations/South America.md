@@ -46,8 +46,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2023/3 |South America |43 |1608 | |Circuito de Jerez - Ángel Nieto |Thu, October 12 05:25PM EDT |Thu, October 12 10:25PM BST |Fri, October 13 08:25AM AEDT |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |39 |3154 | |Circuito de Jerez - Ángel Nieto |Thu, October 12 07:25PM EDT |Fri, October 13 12:25AM BST |Fri, October 13 10:25AM AEDT |
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2023/3 |South America |44 |1662 | | | | | |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |39 |3229 | | | | | |
 |[IRB \- Heineken 0\.0 MoT Pro Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=733){:target="_blank"} |Temporada 2023 |South America |33 |4570 | |Circuito de Jerez - Ángel Nieto |Wed, October 18 05:00PM EDT |Wed, October 18 10:00PM BST |Thu, October 19 08:00AM AEDT |
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T4\-2023 |South America |30 |3529 | |Circuito de Jerez - Ángel Nieto |Mon, October 16 05:00PM EDT |Mon, October 16 10:00PM BST |Tue, October 17 08:00AM AEDT |
 
