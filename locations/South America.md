@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |38 |2789 | |Las Vegas Motor Speedway |Mon, October 16 06:00PM EDT |Mon, October 16 11:00PM BST |Tue, October 17 09:00AM AEDT |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |38 |2893 | |Las Vegas Motor Speedway |Mon, October 16 06:00PM EDT |Mon, October 16 11:00PM BST |Tue, October 17 09:00AM AEDT |
 
 # Open-wheel
 
@@ -26,9 +26,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|---------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|------------------|---------------------------|---------------------------|----------------------------|
 |[Classic 500 \- 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2023 \- T4 |South America |27 |2606 | |Phoenix Raceway |Wed, October 18 06:00PM EDT |Wed, October 18 11:00PM BST |Thu, October 19 09:00AM AEDT |
-|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2023/3 |South America |16 |2153 | | | | | |
+|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2023/3 |South America |16 |2153 | |Auto Club Speedway |Mon, October 23 07:35PM EDT |Tue, October 24 12:35AM BST |Tue, October 24 10:35AM AEDT |
 
 ### Mercedes-AMG W13 E Performance
 
@@ -66,7 +66,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |48 |1802 | |Circuito de Jerez - Ángel Nieto |Tue, October 17 05:00PM EDT |Tue, October 17 10:00PM BST |Wed, October 18 08:00AM AEDT |
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |35 |2253 | |WeatherTech Raceway at Laguna Seca |Wed, October 18 05:50PM EDT |Wed, October 18 10:50PM BST |Thu, October 19 08:50AM AEDT |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |35 |2253 | |WeatherTech Raceway at Laguna Seca |Mon, October 16 06:30PM EDT |Mon, October 16 11:30PM BST |Tue, October 17 09:30AM AEDT |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL 4Funs |South America |34 |1858 | | | | | |
 
 ### Mazda MX-5 Cup 2016
@@ -107,8 +107,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/3 |South America |43 |2142 | | | | | |
+|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/3 |South America |43 |2142 | |Virginia International Raceway |Mon, October 23 05:25PM EDT |Mon, October 23 10:25PM BST |Tue, October 24 08:25AM AEDT |
 
 ### [Legacy] Ferrari 488 GT3
 
@@ -126,7 +126,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL Multiclass IMSA by RAKE PARTS |South America |47 |2037 | | | | | |
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL/RXP IMSA Multicalss T9 |South America |41 |2174 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL Multiclass IMSA by RAKE PARTS |South America |43 |2067 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL/RXP IMSA Multicalss T9 |South America |41 |2174 | |Circuit des 24 Heures du Mans |Mon, October 23 05:30PM EDT |Mon, October 23 10:30PM BST |Tue, October 24 08:30AM AEDT |
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |32 |2012 | |Okayama International Circuit |Wed, October 18 06:30PM EDT |Wed, October 18 11:30PM BST |Thu, October 19 09:30AM AEDT |
 
