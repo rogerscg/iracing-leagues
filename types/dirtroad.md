@@ -27,9 +27,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|--------------------------------|---------------------------|---------------------------|----------------------------|
-|[Off\-Road Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8482){:target="_blank"} |2023 iRacing \- Off\-Road Championship |North America |24 |7009 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Off\-Road Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8482){:target="_blank"} |2023 iRacing \- Off\-Road Championship |North America |22 |7037 | | | | | |
 |[TOPBOX WORLD FINALS](https://members.iracing.com/membersite/member/LeagueView.do?league=10085){:target="_blank"} |TOPBOXWORLDFINALS |North America |19 |4241 | | | | | |
-|[iRacing Off\-Road All\-Star Invitational \(Pro/Celebrity Racers\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4296){:target="_blank"} |2023 Off\-Road All\-Star Series \(Pro 4\) |North America |18 |2724 | | | | | |
-|[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TDKI Pro4 |North America |10 |1388 | |Wild Horse Pass Motorsports Park |Tue, October 17 08:00PM EDT |Wed, October 18 01:00AM BST |Wed, October 18 11:00AM AEDT |
+|[iRacing Off\-Road All\-Star Invitational \(Pro/Celebrity Racers\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4296){:target="_blank"} |2023 Off\-Road All\-Star Series \(Pro 4\) |North America |16 |2734 | | | | | |
+|[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TDKI Pro4 |North America |14 |1412 | | | | | |
 

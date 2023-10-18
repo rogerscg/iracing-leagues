@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[DML South Africa](https://members.iracing.com/membersite/member/LeagueView.do?league=9549){:target="_blank"} |DML \| SIMX\-5 \| 23S4 |Africa |10 |1353 |Both | | | | |
+|[DML South Africa](https://members.iracing.com/membersite/member/LeagueView.do?league=9549){:target="_blank"} |DML \| SIMX\-5 \| 23S4 |Africa |10 |1328 |Both | | | | |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -17,7 +17,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-------------|--------|------|------|
-|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |14 |1808 | | | | | |
+|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |12 |1759 | | | | | |
 
 ### Renault Clio
 
@@ -35,5 +35,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |39 |2091 | |Watkins Glen International |Mon, October 16 02:00PM EDT |Mon, October 16 07:00PM BST |Tue, October 17 05:00AM AEDT |
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |40 |2091 | |Watkins Glen International |Wed, October 18 01:40PM EDT |Wed, October 18 06:40PM BST |Thu, October 19 04:40AM AEDT |
 
