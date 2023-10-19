@@ -11,7 +11,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
 |[RX2 \(fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10282){:target="_blank"} |2023 s2 |North America |23 |2947 | | | | | |
 |[Overwatch Specialty Service NASA Rallycross Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |23b |North America |19 |3536 | | | | | |
-|[Racecraft Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=6266){:target="_blank"} |Wednesday Series |North America |19 |4076 | | | | | |
+|[Racecraft Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=6266){:target="_blank"} |Wednesday Series |North America |19 |4267 | | | | | |
 |[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 6 |Australia-NZ |19 |2648 | |[Legacy] Phoenix Raceway - 2008 |Thu, October 19 05:30AM EDT |Thu, October 19 10:30AM BST |Thu, October 19 08:30PM AEDT |
 |[Overwatch Specialty Service NASA Rallycross Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |23C |North America |18 |4473 | | | | | |
 |[Norgesmesterskap Rallycross 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=9838){:target="_blank"} |Norgesmesterskapet Rallycross \- 2023 \- Official |Europe |16 |3125 | | | | | |

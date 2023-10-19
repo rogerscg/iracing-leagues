@@ -27,7 +27,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|------------------|---------------------------|---------------------------|----------------------------|
-|[Classic 500 \- 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2023 \- T4 |South America |27 |2606 | |Phoenix Raceway |Wed, October 18 06:00PM EDT |Wed, October 18 11:00PM BST |Thu, October 19 09:00AM AEDT |
+|[Classic 500 \- 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2023 \- T4 |South America |27 |2598 | | | | | |
 |[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2023/3 |South America |16 |2153 | |Auto Club Speedway |Mon, October 23 07:35PM EDT |Tue, October 24 12:35AM BST |Tue, October 24 10:35AM AEDT |
 
 ### Mercedes-AMG W13 E Performance
@@ -53,10 +53,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2023/3 |South America |44 |1662 | | | | | |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |39 |3229 | | | | | |
-|[IRB \- Heineken 0\.0 MoT Pro Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=733){:target="_blank"} |Temporada 2023 |South America |33 |4570 | |Circuito de Jerez - Ángel Nieto |Wed, October 18 05:00PM EDT |Wed, October 18 10:00PM BST |Thu, October 19 08:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2023/3 |South America |44 |1662 | |Autódromo José Carlos Pace |Thu, October 26 05:25PM EDT |Thu, October 26 10:25PM BST |Fri, October 27 08:25AM AEDT |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |39 |3229 | |Autódromo José Carlos Pace |Thu, October 26 07:25PM EDT |Fri, October 27 12:25AM BST |Fri, October 27 10:25AM AEDT |
+|[IRB \- Heineken 0\.0 MoT Pro Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=733){:target="_blank"} |Temporada 2023 |South America |33 |4743 | | | | | |
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T4\-2023 |South America |30 |3517 | | | | | |
 
 ### GTE Class
@@ -72,9 +72,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |48 |1819 | | | | | |
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |38 |2253 | |WeatherTech Raceway at Laguna Seca |Wed, October 18 05:50PM EDT |Wed, October 18 10:50PM BST |Thu, October 19 08:50AM AEDT |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |38 |2261 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL 4Funs |South America |34 |1858 | | | | | |
 
 ### Mazda MX-5 Cup 2016
@@ -99,8 +99,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|---------------------------|---------------------------|----------------------------|
-|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/3 |South America |39 |3022 | |Road Atlanta |Wed, October 18 05:20PM EDT |Wed, October 18 10:20PM BST |Thu, October 19 08:20AM AEDT |
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/3 |South America |42 |3063 | | | | | |
 
 ### Toyota GR86
 
@@ -128,5 +128,5 @@
 |-------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL Multiclass IMSA by RAKE PARTS |South America |43 |2067 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL/RXP IMSA Multicalss T9 |South America |41 |2174 | |Circuit des 24 Heures du Mans |Mon, October 23 05:30PM EDT |Mon, October 23 10:30PM BST |Tue, October 24 08:30AM AEDT |
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |30 |1969 | |Okayama International Circuit |Wed, October 18 06:30PM EDT |Wed, October 18 11:30PM BST |Thu, October 19 09:30AM AEDT |
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |32 |1902 | |Okayama International Circuit |Wed, October 25 06:30PM EDT |Wed, October 25 11:30PM BST |Thu, October 26 09:30AM AEDT |
 

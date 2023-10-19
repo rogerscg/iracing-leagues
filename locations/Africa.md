@@ -34,6 +34,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |40 |2091 | |Watkins Glen International |Wed, October 18 01:40PM EDT |Wed, October 18 06:40PM BST |Thu, October 19 04:40AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Masters Mixed Season 1 |Africa |41 |2084 | | | | | |
 
