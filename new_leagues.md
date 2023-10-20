@@ -4,10 +4,8 @@
 |---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Australian Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=10294){:target="_blank"} | |Dirt League /Sprint cars |
 |[Austrian Simracers](https://members.iracing.com/membersite/member/LeagueView.do?league=10295){:target="_blank"} | |Austrian Simracers e\.V\. |
-|[backyard cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10265){:target="_blank"} | |started on 10/5/2023 its a sk modified tour that runs on mondays |
 |[Blue Wave Formula Career](https://members.iracing.com/membersite/member/LeagueView.do?league=10269){:target="_blank"} | | |
 |[Bulletproof Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10273){:target="_blank"} |[Discord](https://discord.gg/gxBs7sgSDA){:target="_blank"} |Fixed Asphalt Super Late Models |
-|[C2C \- World Finals](https://members.iracing.com/membersite/member/LeagueView.do?league=10263){:target="_blank"} | | |
 |[Caribbean SIM\-Racing Organisation](https://members.iracing.com/membersite/member/LeagueView.do?league=10276){:target="_blank"} | |The Caribbean SIM\-Racing Organisation hosts championships and league races for members from the Caribbean\. But, it's open for others too\. Visit our website for more information at www\.CaribbeanSIMRacing\.org |
 |[Chop Shop Superspeedways](https://members.iracing.com/membersite/member/LeagueView.do?league=10284){:target="_blank"} | |Cup, Xfinity, Trucks and 87's at all the superspeedways\. Saturdays at 6:30pm Est time |
 |[Formula for Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=10268){:target="_blank"} | |Fun League for people trying to get better |
@@ -19,13 +17,11 @@
 |[Henry McShit](https://members.iracing.com/membersite/member/LeagueView.do?league=10278){:target="_blank"} | |Miatas, F4, Porsche Cup cars, Formula vee |
 |[High Fly Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10279){:target="_blank"} |[Discord](https://discord.gg/h9e9Fsez){:target="_blank"} |Teamed 2 hour \+ endurance racing |
 |[iPP Winter Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10272){:target="_blank"} | |iRacing Pennsylvania Posse introduces the iPP Winter Truck Series\! Presented by the Turn 2 Terribles\. Fixed Setup\. 2 drop weeks\. 3 dirt races and half the schedule will be legacy/free tracks to keep costs down to non\-asphalt regulars\. Dirt and Asphalt worlds collide\. |
-|[iRacing Drivers Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10266){:target="_blank"} | |https://discord\.gg/XdVNJRw |
 |[Crazy 86 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10287){:target="_blank"} | | |
+|[Majors Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=10306){:target="_blank"} | |Weekly Pit Parties, coaching and development\! |
 |[MAZDA ROOKIE PRACTICE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10277){:target="_blank"} | |Prepare for next week, practice and have fun |
 |[Midwest Truck Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10291){:target="_blank"} | |NASCAR Truck Series touring the Midwest |
 |[Mundial de Resistencia TNP](https://members.iracing.com/membersite/member/LeagueView.do?league=10271){:target="_blank"} | |Liga de eventos endurance |
-|[Noma Gen 6](https://members.iracing.com/membersite/member/LeagueView.do?league=10267){:target="_blank"} | | |
-|[off season b\-mods](https://members.iracing.com/membersite/member/LeagueView.do?league=10264){:target="_blank"} | | |
 |[PESCP 2023 \- KWALIFIKACJE](https://members.iracing.com/membersite/member/LeagueView.do?league=10281){:target="_blank"} | |Porsche Esports Sprint Challenge Poland 2023 \- Kwalifikacje |
 |[PHA Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10304){:target="_blank"} | |Pennsylvania Hillclimb Association Racer off season series\. To join apply with Car \# and class you currently run\. |
 |[PREMIER ENDURANCE LEAGUE \- GT3 AUSTRALIA](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} | | |
