@@ -29,7 +29,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Off\-Road Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8482){:target="_blank"} |2023 iRacing \- Off\-Road Championship |North America |22 |7037 | | | | | |
-|[TOPBOX WORLD FINALS](https://members.iracing.com/membersite/member/LeagueView.do?league=10085){:target="_blank"} |TOPBOXWORLDFINALS |North America |19 |4241 | | | | | |
+|[TOPBOX WORLD FINALS](https://members.iracing.com/membersite/member/LeagueView.do?league=10085){:target="_blank"} |TOPBOXWORLDFINALS |North America |18 |4318 | | | | | |
 |[iRacing Off\-Road All\-Star Invitational \(Pro/Celebrity Racers\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4296){:target="_blank"} |2023 Off\-Road All\-Star Series \(Pro 4\) |North America |16 |2734 | | | | | |
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TDKI Pro4 |North America |14 |1412 | | | | | |
 

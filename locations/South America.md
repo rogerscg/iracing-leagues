@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |38 |2941 | |Homestead Miami Speedway |Mon, October 23 06:00PM EDT |Mon, October 23 11:00PM BST |Tue, October 24 09:00AM AEDT |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |38 |3068 | |Homestead Miami Speedway |Mon, October 23 06:00PM EDT |Mon, October 23 11:00PM BST |Tue, October 24 09:00AM AEDT |
 
 # Open-wheel
 
