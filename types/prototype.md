@@ -24,18 +24,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|-------|----|-----|-------------|--------|------|------|
+|---------------------------------------------------------------------------------------------------------------------------------------|------------|-------------|-------|----|-----|-----------------------|---------------------------|---------------------------|----------------------------|
 |[Roadster Rumble \- Simagic Showroom Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |Season 1 |Australia-NZ |23 |1957 | | | | | |
-|[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Radicals |North America |12 |1415 |Fixed | | | | |
+|[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Radicals |North America |12 |1415 |Fixed |Lucas Oil Raceway (IRP) |Tue, October 24 07:00PM EDT |Wed, October 25 12:00AM BST |Wed, October 25 10:00AM AEDT |
 
 ### Ligier JS P320
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2023 S4 |Europe |57 |2198 |Fixed |Road Atlanta |Sat, October 28 01:00PM EDT |Sat, October 28 06:00PM BST |Sun, October 29 04:00AM AEDT |
-|[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |LMP3 WORLD CHALLENGE |Europe |39 |2225 |Fixed |Nürburgring Grand-Prix-Strecke |Mon, October 23 01:50PM EDT |Mon, October 23 06:50PM BST |Tue, October 24 04:50AM AEDT |
+|[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |LMP3 WORLD CHALLENGE |Europe |42 |2262 |Fixed | | | | |
 |[Platinum Racing League GT3 3 Hour Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7667){:target="_blank"} |LMP3 Sprint Series |Europe |36 |2895 | | | | | |
 |[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |31 |2517 |Fixed |Watkins Glen International |Tue, October 24 03:00PM EDT |Tue, October 24 08:00PM BST |Wed, October 25 06:00AM AEDT |
 |[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |MRP LMP3 CHAMPIONSHIP |Australia-NZ |30 |1471 |Both | | | | |
@@ -62,7 +62,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|--------------------------------|---------------------------|---------------------------|----------------------------|
 |[NA VS OCE \- Battle At Sandown](https://members.iracing.com/membersite/member/LeagueView.do?league=7819){:target="_blank"} |Radical 500 S1 |North America |48 |2147 |Fixed |Virginia International Raceway |Fri, October 27 07:30PM EDT |Sat, October 28 12:30AM BST |Sat, October 28 10:30AM AEDT |
-|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |MPRL Radical Eurotrip |North America |46 |2170 | |Hockenheimring Baden-Württemberg |Wed, October 25 09:00PM EDT |Thu, October 26 02:00AM BST |Thu, October 26 12:00PM AEDT |
+|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |MPRL Radical Eurotrip |North America |46 |2173 | |Hockenheimring Baden-Württemberg |Wed, October 25 09:00PM EDT |Thu, October 26 02:00AM BST |Thu, October 26 12:00PM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023D Downforce Legends \(Radical SR8\) |Australia-NZ |43 |2066 |Both |Circuit Zolder |Wed, October 25 03:35AM EDT |Wed, October 25 08:35AM BST |Wed, October 25 06:35PM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Radical Season 3 |Australia-NZ |14 |1150 | | | | | |
 |[DFS Army Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=3509){:target="_blank"} |DFR Season 1 |North America |11 |1374 |Fixed | | | | |

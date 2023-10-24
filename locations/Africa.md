@@ -3,14 +3,6 @@
 
 # Sports Car
 
-### Mazda MX-5 Cup 2016
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|----------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[DML South Africa](https://members.iracing.com/membersite/member/LeagueView.do?league=9549){:target="_blank"} |DML \| SIMX\-5 \| 23S4 |Africa |10 |1328 |Both | | | | |
-
 ### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  

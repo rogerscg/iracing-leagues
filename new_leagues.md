@@ -5,24 +5,25 @@
 |[\#0 OSRL F3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10313){:target="_blank"} |[Discord](https://discord.gg/Y2CTXQfyez){:target="_blank"} |Welcome to the OSRL F3 League\! We're running a 10\-race F3 series with Fixed sets on Tuesday Nights at 7:30EST\. We're currently accepting drivers D Class Road or above\! If you're interested in joining, please join our Discord with the link below to get more information\! Hope to see you on the track\!   https://discord\.gg/Y2CTXQfyez |
 |[38 SUPER TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10314){:target="_blank"} | |TALLADEGA 23 |
 |[416 Roseberry](https://members.iracing.com/membersite/member/LeagueView.do?league=10321){:target="_blank"} | |UH oH |
+|[9\.00](https://members.iracing.com/membersite/member/LeagueView.do?league=10328){:target="_blank"} | | |
+|[978 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10326){:target="_blank"} |[Discord](https://discord.gg/pbWNreZC9t){:target="_blank"} |Oval, Road & Super Speedway series |
 |[Australian Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=10294){:target="_blank"} | |Dirt League /Sprint cars |
 |[Austrian Simracers](https://members.iracing.com/membersite/member/LeagueView.do?league=10295){:target="_blank"} | |Austrian Simracers e\.V\. |
 |[Backstretch Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10309){:target="_blank"} | |BBRL is a league designed around a group of fellas who just love racing and get together every so often to have some competitive fun\! |
 |[Beckman Designs Mazda MX5 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10318){:target="_blank"} | | |
 |[BRB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10308){:target="_blank"} |[Discord](https://discord.gg/d8KjxUN8){:target="_blank"} |Weekly Next Gen Cup Series Discord Link https://discord\.gg/d8KjxUN8 |
-|[Caribbean SIM\-Racing Organisation](https://members.iracing.com/membersite/member/LeagueView.do?league=10276){:target="_blank"} | |The Caribbean SIM\-Racing Organisation hosts championships and league races for members from the Caribbean\. But, it's open for others too\. Visit our website for more information at www\.CaribbeanSIMRacing\.org |
 |[Chop Shop Superspeedways](https://members.iracing.com/membersite/member/LeagueView.do?league=10284){:target="_blank"} | |Cup, Xfinity, Trucks and 87's at all the superspeedways\. Saturdays at 6:30pm Est time |
 |[Down & Dirty](https://members.iracing.com/membersite/member/LeagueView.do?league=10311){:target="_blank"} | | |
 |[Formula Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10300){:target="_blank"} |[Discord](https://discord.gg/Bjb7tKdH3F){:target="_blank"} |Super Formula league running on Monday Nights\.  Sprint and Feature races\. 9 PM Eastern Time\.  Driver and Team Championships\.  Broadcast on Turn200's channel\.  $10 entry fee\. $50\+ Purse\.  Link to Discord for more information \-\> https://discord\.gg/Bjb7tKdH3F |
 |[GatoSport Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10297){:target="_blank"} | |Online club racing from the people who brought you CurdTruck and Weezuka\. Join our discord: https://discord\.com/invite/ywVbGTyZrW |
 |[Gen 6 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10296){:target="_blank"} | | |
 |[GRTACRLSNSS Thunderdome](https://members.iracing.com/membersite/member/LeagueView.do?league=10290){:target="_blank"} | | |
-|[Henry McShit](https://members.iracing.com/membersite/member/LeagueView.do?league=10278){:target="_blank"} | |Miatas, F4, Porsche Cup cars, Formula vee |
-|[High Fly Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10279){:target="_blank"} |[Discord](https://discord.gg/h9e9Fsez){:target="_blank"} |Teamed 2 hour \+ endurance racing |
 |[Crazy 86 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10287){:target="_blank"} | | |
+|[JCB Test League 2](https://members.iracing.com/membersite/member/LeagueView.do?league=10325){:target="_blank"} | |Second test league |
+|[KSR Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=10323){:target="_blank"} | | |
+|[KSR WEC](https://members.iracing.com/membersite/member/LeagueView.do?league=10322){:target="_blank"} | |KSR World Endurance Championship |
 |[LDRL \- Thursday Night Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10317){:target="_blank"} |[Discord](https://discord.gg/HrKjCm73p){:target="_blank"} | |
 |[Majors Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=10306){:target="_blank"} | |Weekly Pit Parties, coaching and development\! |
-|[MAZDA ROOKIE PRACTICE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10277){:target="_blank"} | |Prepare for next week, practice and have fun |
 |[Midwest Truck Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10291){:target="_blank"} | |NASCAR Truck Series touring the Midwest |
 |[PESCP 2023 \- KWALIFIKACJE](https://members.iracing.com/membersite/member/LeagueView.do?league=10281){:target="_blank"} | |Porsche Esports Sprint Challenge Poland 2023 \- Kwalifikacje |
 |[PHA Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10304){:target="_blank"} | |Pennsylvania Hillclimb Association Racer off season series\. To join apply with Car \# and class you currently run\. |
@@ -33,8 +34,8 @@
 |[RX2 \(fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10282){:target="_blank"} | |RX2 |
 |[Römer Industrie Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10315){:target="_blank"} | |4 Fun |
 |[Short Trucking Series by VMM](https://members.iracing.com/membersite/member/LeagueView.do?league=10283){:target="_blank"} | | |
-|[speiacl olympics charity event](https://members.iracing.com/membersite/member/LeagueView.do?league=10280){:target="_blank"} | |for fun |
 |[SRS Feierabend Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10307){:target="_blank"} |[Discord](https://discord.com/invite/BRJrUtrVcF){:target="_blank"} |Unser Feierabend Cup ist der perfekte Ort für Rennsportbegeisterte, um sich in entspannter Atmosphäre zu treffen und spannende Rennen zu erleben\. Unsere Events finden immer Abends an zuvor festgelegten Tagen statt und bieten einen abwechslungsreichen Ablauf mit Training, Qualifikation und zwei Rennen\. Wir haben keine Rating\-Beschränkungen und legen Wert auf Spaß und Gemeinschaft\.   Die Strecken und Fahrzeuge werden von der Community ausgewählt, und wir nutzen das Liga System, um eine reibungslose Organisation und eine klare Übersicht über die Teilnehmer zu gewährleisten\. Darüber hinaus ermutigen wir zur Verwendung von Voice Chat während der Rennen, um die Kommunikation und den sozialen Aspekt zu fördern\.   Ihr könnt euch direkt über den SimRaceShop Discord anmelden\.  Kommt vorbei, ladet eure Freunde ein, und lasst uns gemeinsam den Nervenkitzel des Rennsports erleben\! |
+|[Superior Class Auto Racing \- Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=10327){:target="_blank"} | |Late Model Fixed League |
 |[TGT Motor Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10298){:target="_blank"} | |have fun be courteous and NO DRAMA |
 |[The Regime Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10320){:target="_blank"} | | |
 |[TKRL](https://members.iracing.com/membersite/member/LeagueView.do?league=10312){:target="_blank"} |[Discord](https://discord.gg/n47X6q83Hd){:target="_blank"} |TKRL is a progression based league on iRacing, we currently only have CUP for season one but plan to expand quickly |
@@ -48,4 +49,5 @@
 |[Monday Night Mazda's](https://members.iracing.com/membersite/member/LeagueView.do?league=10316){:target="_blank"} | | |
 |[PESCP 2023 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=10319){:target="_blank"} | |Porsche Esports Sprint Challenge Poland 2023 |
 |[The Grand Prix Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10301){:target="_blank"} | | |
+|[Williams Gaming Club's FF1600 Fridays](https://members.iracing.com/membersite/member/LeagueView.do?league=10324){:target="_blank"} | |Welcome to WGC's FF1600 Friday\! |
 
