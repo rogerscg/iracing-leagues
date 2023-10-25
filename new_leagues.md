@@ -12,7 +12,6 @@
 |[Backstretch Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10309){:target="_blank"} | |BBRL is a league designed around a group of fellas who just love racing and get together every so often to have some competitive fun\! |
 |[Beckman Designs Mazda MX5 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10318){:target="_blank"} | | |
 |[BRB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10308){:target="_blank"} |[Discord](https://discord.gg/d8KjxUN8){:target="_blank"} |Weekly Next Gen Cup Series Discord Link https://discord\.gg/d8KjxUN8 |
-|[Chop Shop Superspeedways](https://members.iracing.com/membersite/member/LeagueView.do?league=10284){:target="_blank"} | |Cup, Xfinity, Trucks and 87's at all the superspeedways\. Saturdays at 6:30pm Est time |
 |[Down & Dirty](https://members.iracing.com/membersite/member/LeagueView.do?league=10311){:target="_blank"} | | |
 |[Formula Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10300){:target="_blank"} |[Discord](https://discord.gg/Bjb7tKdH3F){:target="_blank"} |Super Formula league running on Monday Nights\.  Sprint and Feature races\. 9 PM Eastern Time\.  Driver and Team Championships\.  Broadcast on Turn200's channel\.  $10 entry fee\. $50\+ Purse\.  Link to Discord for more information \-\> https://discord\.gg/Bjb7tKdH3F |
 |[GatoSport Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10297){:target="_blank"} | |Online club racing from the people who brought you CurdTruck and Weezuka\. Join our discord: https://discord\.com/invite/ywVbGTyZrW |
@@ -25,15 +24,14 @@
 |[LDRL \- Thursday Night Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10317){:target="_blank"} |[Discord](https://discord.gg/HrKjCm73p){:target="_blank"} | |
 |[Majors Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=10306){:target="_blank"} | |Weekly Pit Parties, coaching and development\! |
 |[Midwest Truck Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10291){:target="_blank"} | |NASCAR Truck Series touring the Midwest |
-|[PESCP 2023 \- KWALIFIKACJE](https://members.iracing.com/membersite/member/LeagueView.do?league=10281){:target="_blank"} | |Porsche Esports Sprint Challenge Poland 2023 \- Kwalifikacje |
+|[Need 4 Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} | |Practice platform for members/friends to practice/learn upcoming outside league races\. |
 |[PHA Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10304){:target="_blank"} | |Pennsylvania Hillclimb Association Racer off season series\. To join apply with Car \# and class you currently run\. |
 |[PREMIER ENDURANCE LEAGUE \- GT3 AUSTRALIA](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} | | |
 |[QM Racer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10302){:target="_blank"} | |Private Series for QM Friends and Competitors |
 |[Racers Elite \- Saturday Mixed \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10305){:target="_blank"} |[Discord](https://discord.gg/bKQEJYhHqJ){:target="_blank"} |Join our Discord for Additional Information\! https://discord\.gg/bKQEJYhHqJ |
 |[Reliant Robin Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10303){:target="_blank"} | |SimCoach Fun League |
-|[RX2 \(fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10282){:target="_blank"} | |RX2 |
 |[Römer Industrie Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10315){:target="_blank"} | |4 Fun |
-|[Short Trucking Series by VMM](https://members.iracing.com/membersite/member/LeagueView.do?league=10283){:target="_blank"} | | |
+|[Send It Sim Racing Local](https://members.iracing.com/membersite/member/LeagueView.do?league=10329){:target="_blank"} | |Local Racers at SiSR Getzville NY |
 |[SRS Feierabend Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10307){:target="_blank"} |[Discord](https://discord.com/invite/BRJrUtrVcF){:target="_blank"} |Unser Feierabend Cup ist der perfekte Ort für Rennsportbegeisterte, um sich in entspannter Atmosphäre zu treffen und spannende Rennen zu erleben\. Unsere Events finden immer Abends an zuvor festgelegten Tagen statt und bieten einen abwechslungsreichen Ablauf mit Training, Qualifikation und zwei Rennen\. Wir haben keine Rating\-Beschränkungen und legen Wert auf Spaß und Gemeinschaft\.   Die Strecken und Fahrzeuge werden von der Community ausgewählt, und wir nutzen das Liga System, um eine reibungslose Organisation und eine klare Übersicht über die Teilnehmer zu gewährleisten\. Darüber hinaus ermutigen wir zur Verwendung von Voice Chat während der Rennen, um die Kommunikation und den sozialen Aspekt zu fördern\.   Ihr könnt euch direkt über den SimRaceShop Discord anmelden\.  Kommt vorbei, ladet eure Freunde ein, und lasst uns gemeinsam den Nervenkitzel des Rennsports erleben\! |
 |[Superior Class Auto Racing \- Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=10327){:target="_blank"} | |Late Model Fixed League |
 |[TGT Motor Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10298){:target="_blank"} | |have fun be courteous and NO DRAMA |
@@ -44,10 +42,10 @@
 |[Vermont Sim Racing RallyCross](https://members.iracing.com/membersite/member/LeagueView.do?league=10299){:target="_blank"} | |Vermont Sim Racing hosting Monday night weekly RallyCross events\. Join us locally in out 5 racing sims or online and see if you've got what it takes to win\. |
 |[VTCS TobyCar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10310){:target="_blank"} | |TobyCar |
 |[Wednesday Night Wall Bangin'](https://members.iracing.com/membersite/member/LeagueView.do?league=10292){:target="_blank"} | |Weekly dirt pro late model league\. Clean fun racing\. |
+|[Williams Gaming Club's FF1600 Fridays](https://members.iracing.com/membersite/member/LeagueView.do?league=10324){:target="_blank"} | |Welcome to WGC's FF1600 Friday\! |
 |[BCR Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10289){:target="_blank"} | | |
 |[CMC](https://members.iracing.com/membersite/member/LeagueView.do?league=10286){:target="_blank"} | | |
 |[Monday Night Mazda's](https://members.iracing.com/membersite/member/LeagueView.do?league=10316){:target="_blank"} | | |
 |[PESCP 2023 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=10319){:target="_blank"} | |Porsche Esports Sprint Challenge Poland 2023 |
 |[The Grand Prix Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10301){:target="_blank"} | | |
-|[Williams Gaming Club's FF1600 Fridays](https://members.iracing.com/membersite/member/LeagueView.do?league=10324){:target="_blank"} | |Welcome to WGC's FF1600 Friday\! |
 

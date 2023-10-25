@@ -39,18 +39,10 @@
 |------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[38 SUPER TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10314){:target="_blank"} |TALLADEGA 23 |Open |Talladega Superspeedway |Thu, October 26 10:00PM EDT |Fri, October 27 03:00AM BST |Fri, October 27 01:00PM AEDT |
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |iRacing Trucks Season 2 |Both |Talladega Superspeedway |Thu, October 26 09:00PM EDT |Fri, October 27 02:00AM BST |Fri, October 27 12:00PM AEDT |
-|[Hammer Down Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4981){:target="_blank"} |HTL Truck Series Season 1 |Fixed |Daytona International Speedway |Tue, October 24 07:30PM EDT |Wed, October 25 12:30AM BST |Wed, October 25 10:30AM AEDT |
 |[Millertime Motorsports 360 Dirt Sprint League](https://members.iracing.com/membersite/member/LeagueView.do?league=7083){:target="_blank"} |Season 1 Nascar Truck Series presented by Tarmac eSports | |Daytona International Speedway |Wed, October 25 08:00PM EDT |Thu, October 26 01:00AM BST |Thu, October 26 11:00AM AEDT |
+|[TDFW Trucks Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7487){:target="_blank"} |Truck practice | |Atlanta Motor Speedway |Wed, October 25 08:00PM EDT |Thu, October 26 01:00AM BST |Thu, October 26 11:00AM AEDT |
 
 # Oval
-
-### Late Model Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|----------------|---------------------------|---------------------------|----------------------------|
-|[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |high side hustler season 2 late model stocks | |Concord Speedway |Tue, October 24 08:30PM EDT |Wed, October 25 01:30AM BST |Wed, October 25 11:30AM AEDT |
 
 ### Legends
 
@@ -86,7 +78,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|[BearPope Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=897){:target="_blank"} |Bearpope Winter FF1600 2023 |Open |Oulton Park Circuit |Sun, October 29 05:20PM EDT |Sun, October 29 09:20PM GMT |Mon, October 30 08:20AM AEDT |
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |Non\-Championship | |Brands Hatch Circuit |Wed, October 25 06:30PM EDT |Wed, October 25 11:30PM BST |Thu, October 26 09:30AM AEDT |
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |Official Test | |Road Atlanta |Wed, October 25 06:30PM EDT |Wed, October 25 11:30PM BST |Thu, October 26 09:30AM AEDT |
 |[The Safety Car Express](https://members.iracing.com/membersite/member/LeagueView.do?league=10195){:target="_blank"} |Season One | |Oulton Park Circuit |Thu, October 26 02:45PM EDT |Thu, October 26 07:45PM BST |Fri, October 27 05:45AM AEDT |
@@ -114,7 +107,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|-----------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[Southern Cross E\-Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=7490){:target="_blank"} |RaceKraft Simulations Summer Elantra Championship 2023/24 | |Okayama International Circuit |Wed, November 01 06:00AM EDT |Wed, November 01 10:00AM GMT |Wed, November 01 09:00PM AEDT |
 |[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT GT3 \(FIXED\) |Fixed |Okayama International Circuit |Sun, October 29 09:30PM EDT |Mon, October 30 01:30AM GMT |Mon, October 30 12:30PM AEDT |
 
 ### Toyota GR86
@@ -150,10 +144,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------|---------------------------|---------------------------|----------------------------|
 |[Friday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=7798){:target="_blank"} |Pro Late Models |Fixed |Lernerville Speedway |Fri, October 27 07:45PM EDT |Sat, October 28 12:45AM BST |Sat, October 28 10:45AM AEDT |
 |[6B Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9414){:target="_blank"} |Pro Late Models Presented by 906Dirt | |Lanier National Speedway |Mon, October 30 08:00PM EDT |Tue, October 31 12:00AM GMT |Tue, October 31 11:00AM AEDT |
-|[Wednesday Night Wall Bangin'](https://members.iracing.com/membersite/member/LeagueView.do?league=10292){:target="_blank"} |Season 1 of WNWB | |Eldora Speedway |Tue, October 24 10:00PM EDT |Wed, October 25 03:00AM BST |Wed, October 25 01:00PM AEDT |
 
 ### Dirt SprintCar - 360
 
@@ -164,15 +157,15 @@
 |[American Dirt Series Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=2504){:target="_blank"} |Winter 360s \(2023\) | |Lincoln Speedway |Fri, October 27 10:00PM EDT |Sat, October 28 03:00AM BST |Sat, October 28 01:00PM AEDT |
 |[Friday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=7798){:target="_blank"} |360 Sprint Car |Fixed |Lernerville Speedway |Fri, October 27 08:45PM EDT |Sat, October 28 01:45AM BST |Sat, October 28 11:45AM AEDT |
 
-# Dirt Road
-
-### Pro 2 Lite Truck
+### Dirt Street Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|--------------|---------------------------|---------------------------|----------------------------|
-|[24 Hours of Lemons iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |Late Night Lemons Season 10 | |Lime Rock Park |Tue, October 24 10:50PM EDT |Wed, October 25 03:50AM BST |Wed, October 25 01:50PM AEDT |
+|----------------------------------------------------------------------------------------------------------------|-------------|-----|-----------------|----------------------------|----------------------------|-----------------------------|
+|[Dirt Warrior Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2763){:target="_blank"} |DWRL WNSF S15 |Open |Knoxville Raceway |Wed, November 01 08:30PM EDT |Thu, November 02 12:30AM GMT |Thu, November 02 11:30AM AEDT |
+
+# Dirt Road
 
 ### Pro 4 Truck
 
@@ -189,7 +182,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------|---------------------------|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
+|[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2023 FALL \- SERIES V | |WeatherTech Raceway at Laguna Seca |Thu, October 26 07:00PM EDT |Fri, October 27 12:00AM BST |Fri, October 27 10:00AM AEDT |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |WOR 10 YR  ANNIVERSARY |Both |Sonoma Raceway |Fri, October 27 07:30PM EDT |Sat, October 28 12:30AM BST |Sat, October 28 10:30AM AEDT |
 |[Slingshot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8509){:target="_blank"} |Super Speedway Fall Classic | |Daytona International Speedway |Wed, October 25 07:30PM EDT |Thu, October 26 12:30AM BST |Thu, October 26 10:30AM AEDT |
 
