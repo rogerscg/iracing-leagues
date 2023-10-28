@@ -1,7 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[\#0 OSRL F3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10313){:target="_blank"} |[Discord](https://discord.gg/Y2CTXQfyez){:target="_blank"} |Welcome to the OSRL F3 League\! We're running a 10\-race F3 series with Fixed sets on Tuesday Nights at 7:30EST\. We're currently accepting drivers D Class Road or above\! If you're interested in joining, please join our Discord with the link below to get more information\! Hope to see you on the track\!   https://discord\.gg/Y2CTXQfyez |
 |[38 SUPER TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10314){:target="_blank"} | |TALLADEGA 23 |
 |[416 Roseberry](https://members.iracing.com/membersite/member/LeagueView.do?league=10321){:target="_blank"} | |UH oH |
@@ -12,23 +12,25 @@
 |[Backstretch Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10309){:target="_blank"} | |BBRL is a league designed around a group of fellas who just love racing and get together every so often to have some competitive fun\! |
 |[Beckman Designs Mazda MX5 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10318){:target="_blank"} | | |
 |[BRB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10308){:target="_blank"} |[Discord](https://discord.gg/d8KjxUN8){:target="_blank"} |Weekly Next Gen Cup Series Discord Link https://discord\.gg/d8KjxUN8 |
+|[CAMPEONATOS SART](https://members.iracing.com/membersite/member/LeagueView.do?league=10338){:target="_blank"} | | |
+|[CCM Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10333){:target="_blank"} | | |
+|[DandD](https://members.iracing.com/membersite/member/LeagueView.do?league=10337){:target="_blank"} | | |
 |[Down & Dirty](https://members.iracing.com/membersite/member/LeagueView.do?league=10311){:target="_blank"} | | |
 |[Formula Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10300){:target="_blank"} |[Discord](https://discord.gg/Bjb7tKdH3F){:target="_blank"} |Super Formula league running on Monday Nights\.  Sprint and Feature races\. 9 PM Eastern Time\.  Driver and Team Championships\.  Broadcast on Turn200's channel\.  $10 entry fee\. $50\+ Purse\.  Link to Discord for more information \-\> https://discord\.gg/Bjb7tKdH3F |
 |[GatoSport Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10297){:target="_blank"} | |Online club racing from the people who brought you CurdTruck and Weezuka\. Join our discord: https://discord\.com/invite/ywVbGTyZrW |
 |[Gen 6 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10296){:target="_blank"} | | |
-|[GRTACRLSNSS Thunderdome](https://members.iracing.com/membersite/member/LeagueView.do?league=10290){:target="_blank"} | | |
-|[Crazy 86 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10287){:target="_blank"} | | |
+|[HillBilly Speed's Shop \{Clash On Dirt Series\}](https://members.iracing.com/membersite/member/LeagueView.do?league=10332){:target="_blank"} | |This is the First EVER league hosted by HillBilly Speed Shop, And this whole series is being live streamed by \{Slide Job Racing Network / RSN Track Side\.\} We are racing the dirt late model pros / Dirt UMPs the league race for pros will be tracked by iracing for points , However the UMPs will be tracked by us IN a \{GOOGLE DOC\} everyone can see\. We welcome you to join us and we hope to see some good racing |
 |[JCB Test League 2](https://members.iracing.com/membersite/member/LeagueView.do?league=10325){:target="_blank"} | |Second test league |
 |[KSR Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=10323){:target="_blank"} | | |
 |[KSR WEC](https://members.iracing.com/membersite/member/LeagueView.do?league=10322){:target="_blank"} | |KSR World Endurance Championship |
 |[LDRL \- Thursday Night Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10317){:target="_blank"} |[Discord](https://discord.gg/HrKjCm73p){:target="_blank"} | |
 |[Majors Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=10306){:target="_blank"} | |Weekly Pit Parties, coaching and development\! |
-|[Midwest Truck Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10291){:target="_blank"} | |NASCAR Truck Series touring the Midwest |
-|[Need 4 Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} | |Practice platform for members/friends to practice/learn upcoming outside league races\. |
+|[NWS Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10335){:target="_blank"} |[Discord](https://discord.gg/VuqWQtMVR){:target="_blank"} | |
 |[PHA Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10304){:target="_blank"} | |Pennsylvania Hillclimb Association Racer off season series\. To join apply with Car \# and class you currently run\. |
-|[PREMIER ENDURANCE LEAGUE \- GT3 AUSTRALIA](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} | | |
 |[QM Racer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10302){:target="_blank"} | |Private Series for QM Friends and Competitors |
+|[R2A2 Motorsports Team](https://members.iracing.com/membersite/member/LeagueView.do?league=10331){:target="_blank"} | | |
 |[Racers Elite \- Saturday Mixed \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10305){:target="_blank"} |[Discord](https://discord.gg/bKQEJYhHqJ){:target="_blank"} |Join our Discord for Additional Information\! https://discord\.gg/bKQEJYhHqJ |
+|[Need 4 Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} | |Practice platform for members/friends to practice/learn upcoming outside league races\. |
 |[Reliant Robin Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10303){:target="_blank"} | |SimCoach Fun League |
 |[Römer Industrie Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10315){:target="_blank"} | |4 Fun |
 |[Send It Sim Racing Local](https://members.iracing.com/membersite/member/LeagueView.do?league=10329){:target="_blank"} | |Local Racers at SiSR Getzville NY |
@@ -38,13 +40,11 @@
 |[The Regime Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10320){:target="_blank"} | | |
 |[TKRL](https://members.iracing.com/membersite/member/LeagueView.do?league=10312){:target="_blank"} |[Discord](https://discord.gg/n47X6q83Hd){:target="_blank"} |TKRL is a progression based league on iRacing, we currently only have CUP for season one but plan to expand quickly |
 |[TLCRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10293){:target="_blank"} | | |
-|[TopSplit Brotherhood Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10285){:target="_blank"} | | |
+|[Tri\-City Speed House Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10336){:target="_blank"} | |House drivers to get seat time and to get faster |
 |[Vermont Sim Racing RallyCross](https://members.iracing.com/membersite/member/LeagueView.do?league=10299){:target="_blank"} | |Vermont Sim Racing hosting Monday night weekly RallyCross events\. Join us locally in out 5 racing sims or online and see if you've got what it takes to win\. |
 |[VTCS TobyCar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10310){:target="_blank"} | |TobyCar |
-|[Wednesday Night Wall Bangin'](https://members.iracing.com/membersite/member/LeagueView.do?league=10292){:target="_blank"} | |Weekly dirt pro late model league\. Clean fun racing\. |
 |[Williams Gaming Club's FF1600 Fridays](https://members.iracing.com/membersite/member/LeagueView.do?league=10324){:target="_blank"} | |Welcome to WGC's FF1600 Friday\! |
-|[BCR Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10289){:target="_blank"} | | |
-|[CMC](https://members.iracing.com/membersite/member/LeagueView.do?league=10286){:target="_blank"} | | |
+|[American Motorsport Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10334){:target="_blank"} | |13 weeks of road racing per season\. Every Tuesday at 8:00pm\. |
 |[Monday Night Mazda's](https://members.iracing.com/membersite/member/LeagueView.do?league=10316){:target="_blank"} | | |
 |[PESCP 2023 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=10319){:target="_blank"} | |Porsche Esports Sprint Challenge Poland 2023 |
 |[The Grand Prix Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10301){:target="_blank"} | | |
