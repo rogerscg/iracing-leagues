@@ -9,8 +9,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[RX2 \(fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10282){:target="_blank"} |2023 s2 |North America |27 |3134 | | | | | |
-|[Racecraft Spec Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2023 S2 RX1 |North America |22 |5554 | | | | | |
+|[RX2 \(fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10282){:target="_blank"} |2023 s2 |North America |27 |3134 | |Brands Hatch Circuit |Sun, October 29 02:50PM EDT |Sun, October 29 06:50PM GMT |Mon, October 30 05:50AM AEDT |
+|[Racecraft Spec Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2023 S2 RX1 |North America |22 |5554 | |Brands Hatch Circuit |Sun, October 29 03:30PM EDT |Sun, October 29 07:30PM GMT |Mon, October 30 06:30AM AEDT |
 |[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 6 |Australia-NZ |22 |2677 | |Knockhill Racing Circuit |Thu, November 02 05:30AM EDT |Thu, November 02 09:30AM GMT |Thu, November 02 08:30PM AEDT |
 |[Racecraft Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=6266){:target="_blank"} |Wednesday Series |North America |20 |4311 | | | | | |
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TKDI Rallycross |North America |18 |1424 | | | | | |

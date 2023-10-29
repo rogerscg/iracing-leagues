@@ -26,7 +26,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[TOPBOX WORLD FINALS](https://members.iracing.com/membersite/member/LeagueView.do?league=10085){:target="_blank"} |TOPBOXWORLDFINALS |North America |18 |4318 | | | | | |
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2023 Regional Series |North America |46 |3305 |Open | | | | |
+|[TOPBOX WORLD FINALS](https://members.iracing.com/membersite/member/LeagueView.do?league=10085){:target="_blank"} |TOPBOXWORLDFINALS |North America |15 |4536 | | | | | |
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TDKI Pro4 |North America |14 |1412 | | | | | |
 

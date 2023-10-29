@@ -39,8 +39,6 @@
 |[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 IMSA Series 2023/S4 |North America |52 |2725 | |Sebring International Raceway |Mon, October 30 07:30PM EDT |Mon, October 30 11:30PM GMT |Tue, October 31 10:30AM AEDT |
 |[SPIRIT TO LE MANS](https://members.iracing.com/membersite/member/LeagueView.do?league=6791){:target="_blank"} |SILVERSTONE PROTO SHOW |Europe |46 |2930 |Both | | | | |
 |[Roadster Rumble \- Simagic Showroom Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |Season 1 |Australia-NZ |23 |1957 | | | | | |
-|[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GTP/LMP3 Practice |North America |21 |None |Open | | | | |
-|[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GTP/LMP3 Season 2 |North America |20 |2258 |Open | | | | |
 |[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Radicals |North America |12 |1431 |Fixed | | | | |
 
 ### Ligier JS P320
@@ -49,7 +47,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2023 S4 |Europe |57 |2198 |Fixed |Road Atlanta |Sat, October 28 01:00PM EDT |Sat, October 28 06:00PM BST |Sun, October 29 04:00AM AEDT |
+|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2023 S4 |Europe |57 |2198 |Fixed |Road Atlanta |Sun, October 29 03:00PM EDT |Sun, October 29 07:00PM GMT |Mon, October 30 06:00AM AEDT |
 |[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |LMP3 WORLD CHALLENGE |Europe |42 |2262 |Fixed | | | | |
 |[Platinum Racing League GT3 3 Hour Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7667){:target="_blank"} |LMP3 Sprint Series |Europe |36 |2895 | | | | | |
 |[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |31 |2516 |Fixed | | | | |
@@ -74,11 +72,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Radical Simracing \- Europe Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=7212){:target="_blank"} |World Finals |Europe |34 |3736 | | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2023 Season 4 |Europe |34 |2812 |Open |Virginia International Raceway |Thu, November 02 03:15PM EDT |Thu, November 02 07:15PM GMT |Fri, November 03 06:15AM AEDT |
 |[Radical Simracing \- Europe Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=7212){:target="_blank"} |Season Finals |Europe |21 |3044 | | | | | |
-|[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat Saison S3\-2023 Radical |Europe |14 |2286 | | | | | |
 
 ### Radical SR8
 
