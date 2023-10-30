@@ -46,14 +46,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2023 S4 |Europe |57 |2198 |Fixed |Road Atlanta |Sun, October 29 03:00PM EDT |Sun, October 29 07:00PM GMT |Mon, October 30 06:00AM AEDT |
-|[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |LMP3 WORLD CHALLENGE |Europe |42 |2262 |Fixed | | | | |
-|[Platinum Racing League GT3 3 Hour Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7667){:target="_blank"} |LMP3 Sprint Series |Europe |36 |2895 | | | | | |
-|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |31 |2516 |Fixed | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2023 S4 |Europe |57 |2156 |Fixed |Silverstone Circuit |Sat, November 04 02:00PM EDT |Sat, November 04 06:00PM GMT |Sun, November 05 05:00AM AEDT |
+|[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |LMP3 WORLD CHALLENGE |Europe |42 |2262 |Fixed |Donington Park Racing Circuit |Mon, November 06 01:50PM EST |Mon, November 06 06:50PM GMT |Tue, November 07 05:50AM AEDT |
+|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |31 |2516 |Fixed |Circuito de Jerez - Ángel Nieto |Tue, October 31 04:00PM EDT |Tue, October 31 08:00PM GMT |Wed, November 01 07:00AM AEDT |
 |[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |MRP LMP3 CHAMPIONSHIP |Australia-NZ |31 |1459 |Both |Fuji International Speedway |Wed, November 01 02:00AM EDT |Wed, November 01 06:00AM GMT |Wed, November 01 05:00PM AEDT |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint \- Season 6 |North America |29 |1975 |Both | | | | |
 |[HIP presents "iRacing for the Kids 2\.0"](https://members.iracing.com/membersite/member/LeagueView.do?league=7998){:target="_blank"} |HIP CHALLENGE SERIES |North America |29 |1773 |Fixed | | | | |
+|[Platinum Racing League GT3 3 Hour Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7667){:target="_blank"} |LMP3 Sprint Series |Europe |28 |2905 | | | | | |
 |[Last Man Standing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=3745){:target="_blank"} |The LMS Ligier Challenge |North America |18 |1335 |Both |Mid-Ohio Sports Car Course |Tue, October 31 08:29PM EDT |Wed, November 01 12:29AM GMT |Wed, November 01 11:29AM AEDT |
 |[Maxx Bantz Open](https://members.iracing.com/membersite/member/LeagueView.do?league=2706){:target="_blank"} |Maxx Bantz 23: Bulldog \| Canis Bantzem Edit |Europe |16 |2009 |Fixed | | | | |
 
@@ -84,7 +84,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[NA VS OCE \- Battle At Sandown](https://members.iracing.com/membersite/member/LeagueView.do?league=7819){:target="_blank"} |Radical 500 S1 |North America |51 |2154 |Fixed |Oran Park Raceway |Fri, November 03 07:30PM EDT |Fri, November 03 11:30PM GMT |Sat, November 04 10:30AM AEDT |
-|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |MPRL Radical Eurotrip |North America |46 |2163 | |Circuit des 24 Heures du Mans |Wed, November 01 09:00PM EDT |Thu, November 02 01:00AM GMT |Thu, November 02 12:00PM AEDT |
+|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |MPRL Radical Eurotrip |North America |46 |2157 | |Circuit des 24 Heures du Mans |Wed, November 01 09:00PM EDT |Thu, November 02 01:00AM GMT |Thu, November 02 12:00PM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023D Downforce Legends \(Radical SR8\) |Australia-NZ |46 |2112 |Both |Circuit Gilles Villeneuve |Wed, November 01 03:35AM EDT |Wed, November 01 07:35AM GMT |Wed, November 01 06:35PM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Radical Season 3 |Australia-NZ |14 |1150 | | | | | |
 |[UCRL \- Offseason Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10168){:target="_blank"} |2023 Snowball Radical Short Track Series |North America |11 |3022 | | | | | |
@@ -95,7 +95,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|------------------------------------|---------------------------|---------------------------|----------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2023 S4 |North America |84 |3167 |Open |Willow Springs International Raceway |Sun, October 29 02:40PM EDT |Sun, October 29 06:40PM GMT |Mon, October 30 05:40AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2023 S4 |North America |89 |3129 |Open |Red Bull Ring |Sun, November 05 02:40PM EST |Sun, November 05 07:40PM GMT |Mon, November 06 06:40AM AEDT |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 Fall SRF |North America |33 |2424 |Open | | | | |
 

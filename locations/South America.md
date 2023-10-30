@@ -28,7 +28,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
 |[Classic 500 \- 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2023 \- T4 |South America |27 |2598 | |Nashville Superspeedway |Wed, November 01 06:00PM EDT |Wed, November 01 10:00PM GMT |Thu, November 02 09:00AM AEDT |
-|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2023/3 |South America |16 |2100 | | | | | |
+|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2023/3 |South America |16 |2100 | |Kentucky Speedway |Mon, November 06 06:35PM EST |Mon, November 06 11:35PM GMT |Tue, November 07 10:35AM AEDT |
 
 ### Mercedes-AMG W13 E Performance
 
@@ -106,8 +106,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/3 |South America |44 |2210 | | | | | |
+|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/3 |South America |44 |2210 | |Canadian Tire Motorsports Park |Mon, November 06 04:25PM EST |Mon, November 06 09:25PM GMT |Tue, November 07 08:25AM AEDT |
 
 ### [Legacy] Ferrari 488 GT3
 
@@ -125,7 +125,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL/RXP IMSA Multicalss T9 |South America |46 |2169 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL/RXP IMSA Multicalss T9 |South America |46 |2169 | |Autodromo Nazionale Monza |Mon, November 06 04:30PM EST |Mon, November 06 09:30PM GMT |Tue, November 07 08:30AM AEDT |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL Multiclass IMSA by RAKE PARTS |South America |41 |2091 | | | | | |
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |34 |2016 | |Okayama International Circuit |Wed, November 01 06:30PM EDT |Wed, November 01 10:30PM GMT |Thu, November 02 09:30AM AEDT |
 
