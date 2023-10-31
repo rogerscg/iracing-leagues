@@ -18,9 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Backstretch Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10309){:target="_blank"} |Gales of November Cup | |Daytona International Speedway |Wed, November 01 06:45PM EDT |Wed, November 01 10:45PM GMT |Thu, November 02 09:45AM AEDT |
-|[The Simpit Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4263){:target="_blank"} |The Simpit Season 20/CUP |Fixed |Texas Motor Speedway |Mon, October 30 08:00PM EDT |Tue, October 31 12:00AM GMT |Tue, October 31 11:00AM AEDT |
 
 ### NASCAR Cup
 
@@ -38,6 +37,7 @@
 |------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[iPP Winter Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10272){:target="_blank"} |'23\-'24 Season | |Daytona International Speedway |Thu, November 02 07:00PM EDT |Thu, November 02 11:00PM GMT |Fri, November 03 10:00AM AEDT |
 |[Lucky Dog Sim Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9272){:target="_blank"} |Season Seven | |Las Vegas Motor Speedway |Thu, November 02 07:00PM EDT |Thu, November 02 11:00PM GMT |Fri, November 03 10:00AM AEDT |
+|[\(NSR\) Nortex Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=499){:target="_blank"} |NSR Trucks Season 3 |Fixed |Las Vegas Motor Speedway |Wed, November 01 09:00PM EDT |Thu, November 02 01:00AM GMT |Thu, November 02 12:00PM AEDT |
 |[Outlaws Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4747){:target="_blank"} |Season 5 |Open |Daytona International Speedway |Wed, November 01 07:00PM EDT |Wed, November 01 11:00PM GMT |Thu, November 02 10:00AM AEDT |
 |[WSL](https://members.iracing.com/membersite/member/LeagueView.do?league=9800){:target="_blank"} |WSL November\-April 2023\-2024 |Fixed |Daytona International Speedway |Mon, November 06 08:20PM EST |Tue, November 07 01:20AM GMT |Tue, November 07 12:20PM AEDT |
 
@@ -46,7 +46,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----|----------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
+|[BAM IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8740){:target="_blank"} |BAM\-TourMod\-S2 | |Kern County Raceway Park |Tue, November 07 06:30PM EST |Tue, November 07 11:30PM GMT |Wed, November 08 10:30AM AEDT |
 |[iracing league for all ages \[you choose the races\]](https://members.iracing.com/membersite/member/LeagueView.do?league=7437){:target="_blank"} |whelen modified s1 |Both |Bristol Motor Speedway |Fri, November 03 08:00PM EDT |Sat, November 04 12:00AM GMT |Sat, November 04 11:00AM AEDT |
 
 # Oval
@@ -68,9 +69,17 @@
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------|----------------------------|----------------------------|-----------------------------|
 |[iRacing Legend Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=10199){:target="_blank"} |2023 Legends National P |Open |The Bullring |Thu, November 02 06:30PM EDT |Thu, November 02 10:30PM GMT |Fri, November 03 09:30AM AEDT |
 |[iRacing Legend Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=10199){:target="_blank"} |2023 Legends Nationals M |Open |The Bullring |Thu, November 02 06:30PM EDT |Thu, November 02 10:30PM GMT |Fri, November 03 09:30AM AEDT |
-|[iRacing Legend Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=10199){:target="_blank"} |2023 Legends Nationals Practice |Open |The Bullring |Mon, October 30 08:30PM EDT |Tue, October 31 12:30AM GMT |Tue, October 31 11:30AM AEDT |
+|[iRacing Legend Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=10199){:target="_blank"} |2023 Legends Nationals Practice |Open |The Bullring |Tue, October 31 08:30PM EDT |Wed, November 01 12:30AM GMT |Wed, November 01 11:30AM AEDT |
 |[iRacing Legend Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=10199){:target="_blank"} |2023 Legends Nationals SP |Open |The Bullring |Thu, November 02 06:30PM EDT |Thu, November 02 10:30PM GMT |Fri, November 03 09:30AM AEDT |
 |[iRacing Legend Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=10199){:target="_blank"} |2023 Legends Nationals YL |Open |The Bullring |Thu, November 02 06:30PM EDT |Thu, November 02 10:30PM GMT |Fri, November 03 09:30AM AEDT |
+
+### Street Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------|-----------------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023\-2024 Street Stock |Fixed |South Boston Speedway |Tue, November 07 07:00PM EST |Wed, November 08 12:00AM GMT |Wed, November 08 11:00AM AEDT |
 
 # Open-wheel
 
@@ -97,14 +106,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
 |[Formula Renault 2\.0 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8112){:target="_blank"} |Formula Renault 2\.0 World Series Winter 2023/24 | |Rudskogen Motorsenter |Sat, November 04 01:00PM EDT |Sat, November 04 05:00PM GMT |Sun, November 05 04:00AM AEDT |
-
-### Mercedes-AMG W13 E Performance
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-----------------------|---------------------------|---------------------------|----------------------------|
-|[PHILDECARACING F1](https://members.iracing.com/membersite/member/LeagueView.do?league=10339){:target="_blank"} |SAISON 2023\-2024 CHAMPIONNAT W13 | |Circuit of the Americas |Mon, October 30 03:30PM EDT |Mon, October 30 07:30PM GMT |Tue, October 31 06:30AM AEDT |
 
 # Sports Car
 
@@ -144,14 +145,6 @@
 
 # Dirt Oval
 
-### Dirt Late Model - Pro
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[6B Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9414){:target="_blank"} |Pro Late Models Presented by 906Dirt | |Lanier National Speedway |Mon, October 30 08:00PM EDT |Tue, October 31 12:00AM GMT |Tue, October 31 11:00AM AEDT |
-
 ### Dirt SprintCar - 360
 
 [Back to Top](#)  
@@ -175,8 +168,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[6B Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9414){:target="_blank"} |Midwest Best Pro Truck Challenge | |Crandon International Raceway |Mon, October 30 09:30PM EDT |Tue, October 31 01:30AM GMT |Tue, October 31 12:30PM AEDT |
+|------------------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |Sharpes Offroad Chaos |Both |Wild West Motorsports Park |Fri, November 03 08:00PM EDT |Sat, November 04 12:00AM GMT |Sat, November 04 11:00AM AEDT |
 
 # Multi-class/Unclassified
@@ -186,6 +178,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[iracing league for all ages \[you choose the races\]](https://members.iracing.com/membersite/member/LeagueView.do?league=7437){:target="_blank"} |sports car series |Both |Charlotte Motor Speedway |Mon, November 06 08:00PM EST |Tue, November 07 01:00AM GMT |Tue, November 07 12:00PM AEDT |
+|[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |PLMS |Open |Circuit de Barcelona Catalunya |Sat, November 04 01:15PM EDT |Sat, November 04 05:15PM GMT |Sun, November 05 04:15AM AEDT |
 

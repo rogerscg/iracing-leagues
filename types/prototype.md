@@ -19,7 +19,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235){:target="_blank"} |ACiL Fall Challenge 2023 |North America |22 |1992 | |Fuji International Speedway |Tue, October 31 07:30PM EDT |Tue, October 31 11:30PM GMT |Wed, November 01 10:30AM AEDT |
 |[FSRA \- Friday Night Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7810){:target="_blank"} |Season 4 \(GTP\) |North America |14 |1848 |Fixed |Hockenheimring Baden-Württemberg |Fri, November 03 09:00PM EDT |Sat, November 04 01:00AM GMT |Sat, November 04 12:00PM AEDT |
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2023 Season 4 GTP |North America |13 |1615 | |Autodromo Nazionale Monza |Mon, October 30 09:00PM EDT |Tue, October 31 01:00AM GMT |Tue, October 31 12:00PM AEDT |
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2023 Season 4 GTP |North America |13 |1620 | |Road America |Mon, November 06 09:00PM EST |Tue, November 07 02:00AM GMT |Tue, November 07 01:00PM AEDT |
 
 ### HPD ARX-01c
 
@@ -34,9 +34,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 6 |Europe |52 |4032 | |Autodromo Nazionale Monza |Thu, November 02 02:00PM EDT |Thu, November 02 06:00PM GMT |Fri, November 03 05:00AM AEDT |
-|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 IMSA Series 2023/S4 |North America |52 |2725 | |Sebring International Raceway |Mon, October 30 07:30PM EDT |Mon, October 30 11:30PM GMT |Tue, October 31 10:30AM AEDT |
+|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 IMSA Series 2023/S4 |North America |52 |2733 | |Autodromo Nazionale Monza |Mon, November 06 07:30PM EST |Tue, November 07 12:30AM GMT |Tue, November 07 11:30AM AEDT |
 |[SPIRIT TO LE MANS](https://members.iracing.com/membersite/member/LeagueView.do?league=6791){:target="_blank"} |SILVERSTONE PROTO SHOW |Europe |46 |2930 |Both | | | | |
 |[Roadster Rumble \- Simagic Showroom Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |Season 1 |Australia-NZ |23 |1957 | | | | | |
 |[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Radicals |North America |12 |1431 |Fixed | | | | |
@@ -62,10 +62,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2023 Fall 963 |North America |25 |1718 |Fixed |Silverstone Circuit |Mon, October 30 08:00PM EDT |Tue, October 31 12:00AM GMT |Tue, October 31 11:00AM AEDT |
-|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA 963 East |North America |16 |1738 | | | | | |
-|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA 963 West |North America |16 |2590 | | | | | |
+|---------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2023 Fall 963 |North America |25 |1729 |Fixed |Autodromo Nazionale Monza |Mon, November 06 08:00PM EST |Tue, November 07 01:00AM GMT |Tue, November 07 12:00PM AEDT |
+|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA 963 East |North America |16 |1738 | |Canadian Tire Motorsports Park |Thu, November 02 08:00PM EDT |Fri, November 03 12:00AM GMT |Fri, November 03 11:00AM AEDT |
+|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA 963 West |North America |16 |2590 | |Canadian Tire Motorsports Park |Thu, November 02 10:00PM EDT |Fri, November 03 02:00AM GMT |Fri, November 03 01:00PM AEDT |
 
 ### Radical SR10
 
@@ -98,4 +98,5 @@
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2023 S4 |North America |89 |3129 |Open |Red Bull Ring |Sun, November 05 02:40PM EST |Sun, November 05 07:40PM GMT |Mon, November 06 06:40AM AEDT |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 Fall SRF |North America |33 |2424 |Open | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Spec Ford |South America |10 |1499 | | | | | |
 
