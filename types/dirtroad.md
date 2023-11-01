@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Solstice Racing League \- Wednesday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |SnG Truck Series Season 2 |North America |31 |1941 |Fixed | | | | |
+|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|[Solstice Racing League \- Wednesday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |SnG Truck Series Season 2 |North America |31 |1927 |Fixed |Lånkebanen (Hell RX) |Wed, November 01 08:00PM EDT |Thu, November 02 12:00AM GMT |Thu, November 02 11:00AM AEDT |
 |[Minuteman Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9958){:target="_blank"} |MMR Summer Series |North America |17 |2612 |Both | | | | |
 
 ### Pro 2 Lite Truck
