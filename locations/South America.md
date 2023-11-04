@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |38 |3112 | |Phoenix Raceway |Mon, November 06 05:00PM EST |Mon, November 06 10:00PM GMT |Tue, November 07 09:00AM AEDT |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2023 |South America |38 |3105 | |Phoenix Raceway |Mon, November 06 05:00PM EST |Mon, November 06 10:00PM GMT |Tue, November 07 09:00AM AEDT |
 
 # Open-wheel
 
@@ -35,8 +35,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |17 |2654 | |Autódromo José Carlos Pace |Thu, November 02 06:00PM EDT |Thu, November 02 10:00PM GMT |Fri, November 03 09:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2023 |South America |17 |2706 | | | | | |
 
 # Sports Car
 
@@ -116,7 +116,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|---------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari 488 GT3 |South America |13 |1518 | | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari 488 GT3 |South America |13 |1526 | | | | | |
 
 # Prototype
 
