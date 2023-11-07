@@ -36,8 +36,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Moonlight Racing League MRL Monday Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=9943){:target="_blank"} |2023 Six Pack |Fixed |Kansas Speedway |Mon, November 06 10:00PM EST |Tue, November 07 03:00AM GMT |Tue, November 07 02:00PM AEDT |
+|-------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023\-2024 Gen 6 Cars |Fixed |Daytona International Speedway |Sun, November 12 06:25PM EST |Sun, November 12 11:25PM GMT |Mon, November 13 10:25AM AEDT |
 
 ### NASCAR Truck Series
@@ -45,13 +44,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[GEARS Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9223){:target="_blank"} |2023\-2024 Holiday Truck Season |Fixed |Daytona International Speedway |Fri, November 10 07:00PM EST |Sat, November 11 12:00AM GMT |Sat, November 11 11:00AM AEDT |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Trucking Tuesdays Winter Season |Fixed |Daytona International Speedway |Tue, November 07 08:00PM EST |Wed, November 08 01:00AM GMT |Wed, November 08 12:00PM AEDT |
 |[KocherRacing\.Com Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4696){:target="_blank"} |2023 Phoenix Championship |Fixed |Phoenix Raceway |Tue, November 07 08:00PM EST |Wed, November 08 01:00AM GMT |Wed, November 08 12:00PM AEDT |
-|[NASRA \(1\) \- SimRacerHub\.com Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8605){:target="_blank"} |\(3\) \- Season Three |Fixed |Talladega Superspeedway |Mon, November 06 08:30PM EST |Tue, November 07 01:30AM GMT |Tue, November 07 12:30PM AEDT |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Eternity Trucks Nov 2023 Championship | |Phoenix Raceway |Mon, November 06 09:00PM EST |Tue, November 07 02:00AM GMT |Tue, November 07 01:00PM AEDT |
-|[WSL](https://members.iracing.com/membersite/member/LeagueView.do?league=9800){:target="_blank"} |WSL November\-April 2023\-2024 |Fixed |Daytona International Speedway |Mon, November 06 08:20PM EST |Tue, November 07 01:20AM GMT |Tue, November 07 12:20PM AEDT |
+|[Racers Elite \- Tuesday](https://members.iracing.com/membersite/member/LeagueView.do?league=9801){:target="_blank"} |Racers Elite \- Truck Fixed Series \(Future\) |Fixed |Talladega Superspeedway |Tue, November 14 06:35PM EST |Tue, November 14 11:35PM GMT |Wed, November 15 10:35AM AEDT |
 
 ### Whelen Modified
 
@@ -113,6 +110,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[45\+ Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=10346){:target="_blank"} |Inauguracion | |Brands Hatch Circuit |Sun, November 12 09:30PM EST |Mon, November 13 02:30AM GMT |Mon, November 13 01:30PM AEDT |
+|[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 5 |Fixed |Brands Hatch Circuit |Tue, November 07 02:00PM EST |Tue, November 07 07:00PM GMT |Wed, November 08 06:00AM AEDT |
 
 ### IMPCGT4 Class
 
@@ -121,17 +119,16 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
 |[FSL & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=9273){:target="_blank"} |FSL & Friends Fun Race GT4 Rennen | |Circuit Zandvoort |Wed, November 08 01:30PM EST |Wed, November 08 06:30PM GMT |Thu, November 09 05:30AM AEDT |
-|[FSL & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=9273){:target="_blank"} |24h Le Mans Practice | |Circuit Zandvoort |Mon, November 06 01:30PM EST |Mon, November 06 06:30PM GMT |Tue, November 07 05:30AM AEDT |
 |[Redline Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10041){:target="_blank"} |RRL Wednesday GT4 |Fixed |Charlotte Motor Speedway |Wed, November 08 02:30PM EST |Wed, November 08 07:30PM GMT |Thu, November 09 06:30AM AEDT |
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |FLANC Club Serie 2023/24 \- F4 |Fixed |Circuit Zolder |Thu, November 09 12:30PM EST |Thu, November 09 05:30PM GMT |Fri, November 10 04:30AM AEDT |
 
-### Porsche 911 GT3 Cup (992)
+### Mazda MX-5 Cup 2016
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[Weston's Monday Night Wacky Races\!](https://members.iracing.com/membersite/member/LeagueView.do?league=6367){:target="_blank"} |2023 Fall Porsche Cup | |Watkins Glen International |Mon, November 06 08:00PM EST |Tue, November 07 01:00AM GMT |Tue, November 07 12:00PM AEDT |
+|-------------------------------------------------------------------------------------------------------|-----------------------|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT Rookie Championship |Fixed |Tsukuba Circuit |Tue, November 14 07:30PM EST |Wed, November 15 12:30AM GMT |Wed, November 15 11:30AM AEDT |
 
 ### Supercars - 2019
 
@@ -147,6 +144,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|-------------------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|[OutLaw Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=9205){:target="_blank"} |Road |Both |Winton Motor Raceway |Thu, November 09 07:00PM EST |Fri, November 10 12:00AM GMT |Fri, November 10 11:00AM AEDT |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso Revive TCR Season 3 | |Brands Hatch Circuit |Wed, November 08 03:00PM EST |Wed, November 08 08:00PM GMT |Thu, November 09 07:00AM AEDT |
 |[Virtual Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9493){:target="_blank"} |VTCS Season 5 |Fixed |Circuit Zolder |Sun, November 12 01:00PM EST |Sun, November 12 06:00PM GMT |Mon, November 13 05:00AM AEDT |
 
@@ -160,29 +158,13 @@
 
 # Dirt Oval
 
-### Dirt Late Model - Limited
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4582){:target="_blank"} |4A Limited Late Models |Both |The Dirt Track at Charlotte |Mon, November 06 09:00PM EST |Tue, November 07 02:00AM GMT |Tue, November 07 01:00PM AEDT |
-
 ### Dirt Midget
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|---------------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4582){:target="_blank"} |4A Dirt Midgets |Both |The Dirt Track at Charlotte |Mon, November 06 08:00PM EST |Tue, November 07 01:00AM GMT |Tue, November 07 12:00PM AEDT |
-
-### Dirt SprintCar - 360
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-------------------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
-|[Thursday Night Dirt\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=5241){:target="_blank"} |Dirt Winged 360s Season 2 |Open |Volusia Speedway Park |Mon, November 06 08:00PM EST |Tue, November 07 01:00AM GMT |Tue, November 07 12:00PM AEDT |
+|-------------------------------------------------------------------------------------------------------------------|----------------|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|[Tuesday Night Feature](https://members.iracing.com/membersite/member/LeagueView.do?league=10094){:target="_blank"} |Midgets Season 2 | |Kokomo Speedway |Tue, November 07 08:00PM EST |Wed, November 08 01:00AM GMT |Wed, November 08 12:00PM AEDT |
 
 ### Dirt Sprintcar - 410
 
@@ -200,6 +182,14 @@
 |----------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Dirt Warrior Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2763){:target="_blank"} |WNSF S15 |Open |Federated Auto Parts Raceway at I-55 |Wed, November 08 08:30PM EST |Thu, November 09 01:30AM GMT |Thu, November 09 12:30PM AEDT |
 
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[Semi\-pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9027){:target="_blank"} |Dirt season 2 \(Owen ain't winning\) | |Cedar Lake Speedway |Tue, November 14 08:30PM EST |Wed, November 15 01:30AM GMT |Wed, November 15 12:30PM AEDT |
+
 # Multi-class/Unclassified
 
 ### Hosted All Cars Class
@@ -207,11 +197,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[iracing league for all ages \[you choose the races\]](https://members.iracing.com/membersite/member/LeagueView.do?league=7437){:target="_blank"} |sports car series |Both |Charlotte Motor Speedway |Mon, November 06 08:00PM EST |Tue, November 07 01:00AM GMT |Tue, November 07 12:00PM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|[GM PDT Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6251){:target="_blank"} |Test Days \- VIR | |Virginia International Raceway |Wed, November 08 08:00PM EST |Thu, November 09 01:00AM GMT |Thu, November 09 12:00PM AEDT |
 |[Junk Yard Dawgs](https://members.iracing.com/membersite/member/LeagueView.do?league=9836){:target="_blank"} |Pickleball Championship Series |Fixed |Thompson Speedway Motorsports Park |Tue, November 07 09:00PM EST |Wed, November 08 02:00AM GMT |Wed, November 08 01:00PM AEDT |
-|[MAD Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3915){:target="_blank"} |Monday Mayhem |Open |Tsukuba Circuit |Mon, November 06 07:30PM EST |Tue, November 07 12:30AM GMT |Tue, November 07 11:30AM AEDT |
-|[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |OBRL Exhibition Races |Fixed |Las Vegas Motor Speedway |Mon, November 06 08:00PM EST |Tue, November 07 01:00AM GMT |Tue, November 07 12:00PM AEDT |
 |[Racers Elite \- Saturday Mixed \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10305){:target="_blank"} |Racers Elite \- Mixed Fixed Series |Fixed |Talladega Superspeedway |Sat, November 11 08:05PM EST |Sun, November 12 01:05AM GMT |Sun, November 12 12:05PM AEDT |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2024 Roc Wyler Racing 24 Hr Daytona Practice |Fixed |Daytona International Speedway |Thu, November 09 06:35PM EST |Thu, November 09 11:35PM GMT |Fri, November 10 10:35AM AEDT |
 |[STARS \- Smoking Tires Amateur Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4868){:target="_blank"} |STARS \| Early Gen 6 / LMSC \| Season 3 |Fixed |Atlanta Motor Speedway |Sun, November 12 07:00PM EST |Mon, November 13 12:00AM GMT |Mon, November 13 11:00AM AEDT |
