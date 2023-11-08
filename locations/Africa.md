@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------------|--------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
-|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4 \| Season 2 |Africa |23 |2356 | |Barber Motorsports Park |Tue, November 07 12:00PM EST |Tue, November 07 05:00PM GMT |Wed, November 08 04:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------|--------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4 \| Season 2 |Africa |26 |2141 | | | | | |
 
 # Sports Car
 
