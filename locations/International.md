@@ -19,6 +19,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |32 |1798 | |Virginia International Raceway |Wed, November 08 09:00PM EST |Thu, November 09 02:00AM GMT |Thu, November 09 01:00PM AEDT |
+|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |32 |1798 | |Virginia International Raceway |Thu, November 09 07:45PM EST |Fri, November 10 12:45AM GMT |Fri, November 10 11:45AM AEDT |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 13 \- BMW |International |23 |1693 | | | | | |
 
