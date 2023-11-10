@@ -54,9 +54,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2023/3 |South America |45 |1663 | |Fuji International Speedway |Thu, November 09 04:25PM EST |Thu, November 09 09:25PM GMT |Fri, November 10 08:25AM AEDT |
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2023/3 |South America |45 |1682 | | | | | |
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |40 |1880 | |Fuji International Speedway |Tue, November 14 04:00PM EST |Tue, November 14 09:00PM GMT |Wed, November 15 08:00AM AEDT |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |39 |3231 | |Fuji International Speedway |Thu, November 09 06:25PM EST |Thu, November 09 11:25PM GMT |Fri, November 10 10:25AM AEDT |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |39 |3238 | | | | | |
 |[IRB \- Heineken 0\.0 MoT Pro Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=733){:target="_blank"} |Temporada 2023 |South America |33 |4671 | |Fuji International Speedway |Wed, November 15 04:00PM EST |Wed, November 15 09:00PM GMT |Thu, November 16 08:00AM AEDT |
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T4\-2023 |South America |30 |3540 | |Fuji International Speedway |Mon, November 13 04:00PM EST |Mon, November 13 09:00PM GMT |Tue, November 14 08:00AM AEDT |
 

@@ -3,7 +3,7 @@
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[\(1\) FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=10347){:target="_blank"} | | |
-|[45\+ Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=10346){:target="_blank"} | | |
+|[45\+ Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=10346){:target="_blank"} | |This is a league for fun\. Dedicated to every racers over 45 yrs old, with a max irating of 3,500\. It´s for fun, but aim to race like gentlemen\. We will not accept any arguing or retaliation\. |
 |[After Dark Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10364){:target="_blank"} |[Discord](https://discord.gg/bRJf5tfB){:target="_blank"} |The After Dark crew would like to invite you to the league being ran currently with xfinity cars\! |
 |[Alien Championship League](https://members.iracing.com/membersite/member/LeagueView.do?league=10366){:target="_blank"} | |ACL The league of the best\! |
 |[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} | | |
@@ -16,11 +16,14 @@
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} | | |
 |[Fat Boy Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10365){:target="_blank"} | |Fat Boy Motorsports |
 |[FF23](https://members.iracing.com/membersite/member/LeagueView.do?league=10363){:target="_blank"} | |This League is meant to be a reference to Formula 1\. See it as your F1 League within iRacing\! Soon there will be a Discord server in the League URL\. |
+|[Florida Bimmers iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10381){:target="_blank"} | |FBDG iRacing Season 1\.  Open to all Florida Bimmers Driving Group members\. |
 |[FYD Motor League](https://members.iracing.com/membersite/member/LeagueView.do?league=10359){:target="_blank"} | |A collections of fools, performing fools errands |
 |[iCopa BadDriver](https://members.iracing.com/membersite/member/LeagueView.do?league=10352){:target="_blank"} | | |
+|[Jodan](https://members.iracing.com/membersite/member/LeagueView.do?league=10380){:target="_blank"} | |Notre League |
 |[Madhouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10353){:target="_blank"} | | |
 |[MCM Racing MASTER Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10345){:target="_blank"} | | |
 |[World of Outlaws Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10342){:target="_blank"} |[Discord](https://discord.gg/3X5E5ZWzbK){:target="_blank"} |Welcome to the MWSCS\! We are looking to start a solid competitive league once we get some members rolling in\! Cash Prizes and more\! We are racing 410's with a mix of others later down the road\! Join up now and Lets Go Racing\!\! If you want to give some input on how the league should be ran to make it fair and fun for all please join our discord and lets talk\! We want this to be competitive fair and fun for everyone that gets to partake\! We are open to hear for anyone so please help us make this league the best\!   We want races to start in the next week or so\!   Discord: https://discord\.gg/3X5E5ZWzbK   Looking for any help\! |
+|[Nate Likes Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=10379){:target="_blank"} | |Nate Loves Boys |
 |[NWS Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10335){:target="_blank"} |[Discord](https://discord.gg/VuqWQtMVR){:target="_blank"} | |
 |[oklahoma bois](https://members.iracing.com/membersite/member/LeagueView.do?league=10371){:target="_blank"} | |racing with friends |
 |[Overtake iRacing League \- Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10376){:target="_blank"} | |Cup Series |
@@ -39,7 +42,6 @@
 |[\(3\) FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=10349){:target="_blank"} | | |
 |[\(2\) FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=10348){:target="_blank"} | | |
 |[\(1\) FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=10350){:target="_blank"} | | |
-|[American Motorsport Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10334){:target="_blank"} | |13 weeks of road racing per season\. Every Tuesday at 8:00pm\. |
 |[Hell Bent super late models](https://members.iracing.com/membersite/member/LeagueView.do?league=10355){:target="_blank"} | |Home of the Hell bent supers |
 |[Pure Simulation Racing Association \(PSRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10356){:target="_blank"} | | |
 |[Squirrel Endurance Xperience](https://members.iracing.com/membersite/member/LeagueView.do?league=10362){:target="_blank"} |[Discord](https://discord.gg/Df4d2WeMGTsiteHere){:target="_blank"} | |
