@@ -10,8 +10,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235){:target="_blank"} |ACiL Fall Challenge 2023 |North America |24 |1976 | |WeatherTech Raceway at Laguna Seca |Tue, November 14 07:30PM EST |Wed, November 15 12:30AM GMT |Wed, November 15 11:30AM AEDT |
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2023 Season 4 GTP |North America |15 |1637 | |Red Bull Ring |Mon, November 13 09:00PM EST |Tue, November 14 02:00AM GMT |Tue, November 14 01:00PM AEDT |
-|[FSRA \- Friday Night Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7810){:target="_blank"} |Season 4 \(GTP\) |North America |15 |1889 |Fixed |Virginia International Raceway |Fri, November 10 09:00PM EST |Sat, November 11 02:00AM GMT |Sat, November 11 01:00PM AEDT |
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2023 Season 4 GTP |North America |15 |1642 | |Red Bull Ring |Mon, November 13 09:00PM EST |Tue, November 14 02:00AM GMT |Tue, November 14 01:00PM AEDT |
+|[FSRA \- Friday Night Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7810){:target="_blank"} |Season 4 \(GTP\) |North America |15 |1875 |Fixed |Virginia International Raceway |Fri, November 17 09:00PM EST |Sat, November 18 02:00AM GMT |Sat, November 18 01:00PM AEDT |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |Event specjalny |Europe |12 |2429 |Both | | | | |
 
 ### HPD ARX-01c
@@ -28,7 +28,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 6 |Europe |53 |4012 | |Road America |Fri, November 10 01:00PM EST |Fri, November 10 06:00PM GMT |Sat, November 11 05:00AM AEDT |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 6 |Europe |53 |3996 | |Red Bull Ring |Thu, November 16 01:00PM EST |Thu, November 16 06:00PM GMT |Fri, November 17 05:00AM AEDT |
 |[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 IMSA Series 2023/S4 |North America |52 |2740 | |Road America |Mon, November 13 07:30PM EST |Tue, November 14 12:30AM GMT |Tue, November 14 11:30AM AEDT |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |LMP2 Challenge \- Season 1 |Europe |19 |2190 |Both |Long Beach Street Circuit |Sun, November 12 03:00PM EST |Sun, November 12 08:00PM GMT |Mon, November 13 07:00AM AEDT |
 |[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Radicals |North America |11 |1441 |Fixed | | | | |
@@ -40,9 +40,9 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2023 S4 |Europe |57 |2166 |Fixed |MotorLand Aragón |Sat, November 11 01:00PM EST |Sat, November 11 06:00PM GMT |Sun, November 12 05:00AM AEDT |
-|[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |LMP3 WORLD CHALLENGE |Europe |42 |2318 |Fixed | | | | |
+|[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |LMP3 WORLD CHALLENGE |Europe |38 |2344 |Fixed | | | | |
 |[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |MRP LMP3 CHAMPIONSHIP |Australia-NZ |33 |1490 |Both |Circuit Zandvoort |Wed, November 15 01:00AM EST |Wed, November 15 06:00AM GMT |Wed, November 15 05:00PM AEDT |
-|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |31 |2561 |Fixed | | | | |
+|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |31 |2576 |Fixed | | | | |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint \- Season 6 |North America |29 |2025 |Both | | | | |
 |[HIP presents "iRacing for the Kids 2\.0"](https://members.iracing.com/membersite/member/LeagueView.do?league=7998){:target="_blank"} |HIP CHALLENGE SERIES |North America |29 |1773 |Fixed | | | | |
 |[Platinum Racing League GT3 3 Hour Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7667){:target="_blank"} |LMP3 Sprint Series |Europe |22 |2868 | | | | | |
