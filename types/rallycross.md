@@ -17,7 +17,7 @@
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TKDI Rallycross |North America |18 |1429 | | | | | |
 |[NASA Stockcar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9777){:target="_blank"} |23C |North America |16 |2494 | | | | | |
 |[RoushParts\.com Duel at Daytona](https://members.iracing.com/membersite/member/LeagueView.do?league=4493){:target="_blank"} |ROUSH Rallycross |North America |16 |3150 | | | | | |
-|[Norgesmesterskap Rallycross 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=9838){:target="_blank"} |Norgesmesterskapet Rallycross \- 2023 \- Official |Europe |15 |3054 | | | | | |
+|[Norgesmesterskap Rallycross 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=9838){:target="_blank"} |Norgesmesterskapet Rallycross \- 2023 \- Official |Europe |10 |2722 | | | | | |
 
 ### VW Beetle Lite
 
@@ -26,7 +26,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
 |[CAMPEONATOS SART](https://members.iracing.com/membersite/member/LeagueView.do?league=10338){:target="_blank"} |SUPERESCARABAJOS SART |North America |36 |2226 | | | | | |
-|[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |23C |North America |24 |3318 | | | | | |
+|[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |23C |North America |24 |3394 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Class 11X \- Fall 2023 |North America |17 |1758 |Fixed |Bark River International Raceway |Thu, November 16 07:00PM EST |Fri, November 17 12:00AM GMT |Fri, November 17 11:00AM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |AORT Class 11X \- 2023 |North America |13 |2057 |Fixed | | | | |
 

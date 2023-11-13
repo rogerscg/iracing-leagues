@@ -13,14 +13,6 @@
 
 # Sports Car
 
-### Porsche 911 GT3 Cup (992)
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-------------|--------|------|------|
-|[MSA Porsche Cup 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8062){:target="_blank"} |2023 |Africa |12 |1759 | | | | | |
-
 ### Renault Clio
 
 [Back to Top](#)  
@@ -34,8 +26,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |TCR Cup \| Season 3 |Africa |28 |1731 |Both | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------|--------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |TCR Cup \| Season 3 |Africa |28 |1731 |Both |Virginia International Raceway |Tue, November 14 01:20PM EST |Tue, November 14 06:20PM GMT |Wed, November 15 05:20AM AEDT |
 
 # Multi-class/Unclassified
 
