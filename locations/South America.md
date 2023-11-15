@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/3 |South America |21 |3063 | | | | | |
+|-------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/3 |South America |21 |3063 | |Daytona International Speedway |Wed, November 22 06:35PM EST |Wed, November 22 11:35PM GMT |Thu, November 23 10:35AM AEDT |
 
 ### Lotus 79
 
@@ -45,8 +45,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T4\-2023 |South America |37 |2820 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T4\-2023 |South America |37 |2820 | |Virginia International Raceway |Tue, November 21 04:00PM EST |Tue, November 21 09:00PM GMT |Wed, November 22 08:00AM AEDT |
 
 ### GT3 Class
 
@@ -54,19 +54,19 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2023/3 |South America |45 |1682 | | | | | |
-|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |40 |1880 | |Fuji International Speedway |Tue, November 14 04:00PM EST |Tue, November 14 09:00PM GMT |Wed, November 15 08:00AM AEDT |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |39 |3238 | | | | | |
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2023/3 |South America |41 |1714 | | | | | |
+|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |40 |1899 | | | | | |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |39 |3275 | | | | | |
 |[IRB \- Heineken 0\.0 MoT Pro Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=733){:target="_blank"} |Temporada 2023 |South America |33 |4671 | |Fuji International Speedway |Wed, November 15 04:00PM EST |Wed, November 15 09:00PM GMT |Thu, November 16 08:00AM AEDT |
-|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T4\-2023 |South America |30 |3540 | |Fuji International Speedway |Mon, November 13 04:00PM EST |Mon, November 13 09:00PM GMT |Tue, November 14 08:00AM AEDT |
+|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T4\-2023 |South America |30 |3541 | | | | | |
 
 ### GTE Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK GTE Challenge 23S4 |South America |45 |2474 | | | | | |
+|--------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK GTE Challenge 23S4 |South America |45 |2474 | |Autodromo Nazionale Monza |Tue, November 21 04:40PM EST |Tue, November 21 09:40PM GMT |Wed, November 22 08:40AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -74,7 +74,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |38 |2261 | |Fuji International Speedway |Mon, November 13 06:00PM EST |Mon, November 13 11:00PM GMT |Tue, November 14 10:00AM AEDT |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |38 |2261 | |Fuji International Speedway |Wed, November 15 04:50PM EST |Wed, November 15 09:50PM GMT |Thu, November 16 08:50AM AEDT |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 CHALLENGER 2022 |South America |30 |2185 | | | | | |
 
 ### Mazda MX-5 Cup 2016
@@ -82,9 +82,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/3 |South America |35 |2086 | |Summit Point Raceway |Mon, November 13 04:25PM EST |Mon, November 13 09:25PM GMT |Tue, November 14 08:25AM AEDT |
-|[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T4\-2023 |South America |34 |2306 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/3 |South America |35 |2080 | | | | | |
+|[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T4\-2023 |South America |34 |2306 | |Tsukuba Circuit |Wed, November 22 04:00PM EST |Wed, November 22 09:00PM GMT |Thu, November 23 08:00AM AEDT |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -134,7 +134,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Spec Ford |South America |12 |1508 | | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Spec Ford |South America |12 |1505 | | | | | |
 
 # Multi-class/Unclassified
 

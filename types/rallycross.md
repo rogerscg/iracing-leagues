@@ -14,8 +14,8 @@
 |[Racecraft Spec Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2023 S2 RX1 |North America |22 |5605 | | | | | |
 |[Overwatch Specialty Service NASA Rallycross Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |23C |North America |20 |4168 | | | | | |
 |[Racecraft Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=6266){:target="_blank"} |Wednesday Series |North America |20 |4311 | | | | | |
-|[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TKDI Rallycross |North America |18 |1429 | | | | | |
-|[NASA Stockcar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9777){:target="_blank"} |23C |North America |16 |2494 | | | | | |
+|[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TKDI Rallycross |North America |18 |1429 | |Atlanta Motor Speedway |Tue, November 21 08:00PM EST |Wed, November 22 01:00AM GMT |Wed, November 22 12:00PM AEDT |
+|[NASA Stockcar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9777){:target="_blank"} |23C |North America |16 |2523 | | | | | |
 |[RoushParts\.com Duel at Daytona](https://members.iracing.com/membersite/member/LeagueView.do?league=4493){:target="_blank"} |ROUSH Rallycross |North America |16 |3150 | | | | | |
 |[Norgesmesterskap Rallycross 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=9838){:target="_blank"} |Norgesmesterskapet Rallycross \- 2023 \- Official |Europe |10 |2722 | | | | | |
 
