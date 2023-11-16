@@ -1,7 +1,8 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[Advanced Motorsports Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10394){:target="_blank"} | | |
 |[After Dark Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10364){:target="_blank"} |[Discord](https://discord.gg/bRJf5tfB){:target="_blank"} |The After Dark crew would like to invite you to the league being ran currently with xfinity cars\! |
 |[Alien Championship League](https://members.iracing.com/membersite/member/LeagueView.do?league=10366){:target="_blank"} | |ACL The league of the best\! |
 |[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} | | |
@@ -26,18 +27,15 @@
 |[Overtake iRacing League \- Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10374){:target="_blank"} | |Truck Series |
 |[Overtake iRacing League \- Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10375){:target="_blank"} | |Xfinity Series |
 |[Pro American Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10369){:target="_blank"} |[Discord](https://discord.gg/n7hf2ZHS5p){:target="_blank"} |Fixed Street Stock League that runs on Thursday nights\!   1st Season starts on Jan 11th 2024 |
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} | |With a diverse lineup of circuits, iRacing's most popular Prototypes, and a vibrant community of like\-minded racers, each race promises heart\-pounding action and nail\-biting moments\. Get ready to experience the thrill of Prototype racing, where speed, strategy, and skill combine to create unforgettable action\. |
 |[Race Chatter Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10392){:target="_blank"} | | |
-|[RCX TEST RACES](https://members.iracing.com/membersite/member/LeagueView.do?league=10358){:target="_blank"} | |The unofficial racing championship test site |
 |[Red Spoilers](https://members.iracing.com/membersite/member/LeagueView.do?league=10384){:target="_blank"} | | |
 |[SIM\-LOFT Esports Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10360){:target="_blank"} | |Racing club designed to assist driver development and promote good clean racing\.  Alongside our normal league races we aim to build and promote teamwork through a series of multi\-driver, mini endurance races requiring race strategy and planning\.  Initially being based around road circuits we do hope to move to a multi\-discipline platform in time\.  The SIM\-LOFT Esports Racing League will be looking to launch in Season 1 2024, 12th December 2023\. |
 |[Square Motorsports FreeSpeed 2](https://members.iracing.com/membersite/member/LeagueView.do?league=10391){:target="_blank"} | | |
 |[The Best of the Best Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10370){:target="_blank"} | | |
 |[Touch Of Gray Consortium USA](https://members.iracing.com/membersite/member/LeagueView.do?league=10389){:target="_blank"} | | |
 |[ViRL Tour Mod Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10385){:target="_blank"} | |This is the Tour Mod Division of the Virginia iRacing League\. It's free to participate\. The ViRL Late Model Division has a $10 fee\. |
-|[Hell Bent super late models](https://members.iracing.com/membersite/member/LeagueView.do?league=10355){:target="_blank"} | |Home of the Hell bent supers |
+|[Weed League](https://members.iracing.com/membersite/member/LeagueView.do?league=10395){:target="_blank"} | |A league for the rest of us\. |
 |[Jodan](https://members.iracing.com/membersite/member/LeagueView.do?league=10380){:target="_blank"} | |Notre League |
-|[Pure Simulation Racing Association \(PSRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10356){:target="_blank"} | | |
 |[Squirrel Endurance Xperience](https://members.iracing.com/membersite/member/LeagueView.do?league=10362){:target="_blank"} |[Discord](https://discord.gg/Df4d2WeMGTsiteHere){:target="_blank"} | |
 |[UGX Race Organisation](https://members.iracing.com/membersite/member/LeagueView.do?league=10378){:target="_blank"} | |T\.B\.A\. |
 

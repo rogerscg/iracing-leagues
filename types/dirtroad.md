@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[Solstice Racing League \- Wednesday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |SnG Truck Series Season 2 |North America |34 |1999 |Fixed |Charlotte Motor Speedway |Wed, November 15 08:00PM EST |Thu, November 16 01:00AM GMT |Thu, November 16 12:00PM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Solstice Racing League \- Wednesday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |SnG Truck Series Season 2 |North America |34 |2029 |Fixed | | | | |
 |[6B Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9414){:target="_blank"} |Midwest Best Pro Truck Challenge |North America |22 |2594 | | | | | |
-|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |STRASS Season 4 |North America |13 |1375 | | | | | |
+|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |STRASS Season 4 |North America |13 |1398 | | | | | |
 
 ### Pro 2 Lite Truck
 
