@@ -17,6 +17,7 @@
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TKDI Rallycross |North America |18 |1429 | |Atlanta Motor Speedway |Tue, November 21 08:00PM EST |Wed, November 22 01:00AM GMT |Wed, November 22 12:00PM AEDT |
 |[NASA Stockcar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9777){:target="_blank"} |23C |North America |16 |2523 | | | | | |
 |[RoushParts\.com Duel at Daytona](https://members.iracing.com/membersite/member/LeagueView.do?league=4493){:target="_blank"} |ROUSH Rallycross |North America |16 |3150 | | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Super Rally \- 2023 |North America |14 |1625 |Fixed | | | | |
 |[Norgesmesterskap Rallycross 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=9838){:target="_blank"} |Norgesmesterskapet Rallycross \- 2023 \- Official |Europe |10 |2722 | | | | | |
 
 ### VW Beetle Lite
@@ -24,9 +25,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[CAMPEONATOS SART](https://members.iracing.com/membersite/member/LeagueView.do?league=10338){:target="_blank"} |SUPERESCARABAJOS SART |North America |36 |2176 | | | | | |
-|[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |23C |North America |24 |3394 | | | | | |
+|[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |23C |North America |24 |3394 | |Wild West Motorsports Park |Sun, November 19 08:50PM EST |Mon, November 20 01:50AM GMT |Mon, November 20 12:50PM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Class 11X \- Fall 2023 |North America |18 |2010 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |AORT Class 11X \- 2023 |North America |11 |2314 |Fixed | | | | |
 

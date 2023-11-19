@@ -27,7 +27,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[Classic 500 \- 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2023 \- T4 |South America |27 |2587 | | | | | |
+|[Classic 500 \- 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2023 \- T4 |South America |24 |2572 | | | | | |
 |[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2023/3 |South America |16 |2105 | |Indianapolis Motor Speedway |Mon, November 20 06:35PM EST |Mon, November 20 11:35PM GMT |Tue, November 21 10:35AM AEDT |
 
 ### Mercedes-AMG W13 E Performance
@@ -55,8 +55,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2023/3 |South America |41 |1714 | |Circuit de Nevers Magny-Cours |Thu, November 23 04:25PM EST |Thu, November 23 09:25PM GMT |Fri, November 24 08:25AM AEDT |
-|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |40 |1899 | | | | | |
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |39 |3275 | |Circuit de Nevers Magny-Cours |Thu, November 23 06:25PM EST |Thu, November 23 11:25PM GMT |Fri, November 24 10:25AM AEDT |
+|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |39 |1921 | | | | | |
 |[IRB \- Heineken 0\.0 MoT Pro Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=733){:target="_blank"} |Temporada 2023 |South America |33 |4687 | | | | | |
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T4\-2023 |South America |26 |3564 | | | | | |
 
@@ -115,8 +115,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Road 2023 |South America |18 |1618 | |Tsukuba Circuit |Sat, November 18 12:00PM EST |Sat, November 18 05:00PM GMT |Sun, November 19 04:00AM AEDT |
+|--------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|---------------------|----------------------------|----------------------------|-----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Road 2023 |South America |23 |1516 | |Rudskogen Motorsenter |Sat, November 25 12:00PM EST |Sat, November 25 05:00PM GMT |Sun, November 26 04:00AM AEDT |
 
 ### [Legacy] Ferrari 488 GT3
 
