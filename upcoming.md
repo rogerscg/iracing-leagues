@@ -13,6 +13,14 @@
 |----------------------------------------------------------------------------------------------------------|------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[FASTR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6463){:target="_blank"} |Winter ARCA Series |Both |Daytona International Speedway |Mon, November 20 08:30PM EST |Tue, November 21 01:30AM GMT |Tue, November 21 12:30PM AEDT |
 
+### Gen 4 Cup
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[RealSimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=2406){:target="_blank"} |2024 RealSimRacing Icebreaker Winter Series |Fixed |Daytona International Speedway |Mon, November 27 08:00PM EST |Tue, November 28 01:00AM GMT |Tue, November 28 12:00PM AEDT |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -26,17 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[802 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5979){:target="_blank"} |Riptide Radio Cup Series Season 4 | |Daytona International Speedway |Sun, November 19 06:45PM EST |Sun, November 19 11:45PM GMT |Mon, November 20 10:45AM AEDT |
+|------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[MOP](https://members.iracing.com/membersite/member/LeagueView.do?league=6669){:target="_blank"} |Christmas Cup |Fixed |Daytona International Speedway |Sun, November 26 08:00PM EST |Mon, November 27 01:00AM GMT |Mon, November 27 12:00PM AEDT |
-
-### NASCAR Cup
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2023 CUP Gen 6 Winter Series |Fixed |Daytona International Speedway |Sun, November 19 08:00PM EST |Mon, November 20 01:00AM GMT |Mon, November 20 12:00PM AEDT |
 
 ### NASCAR Truck Series
 
@@ -64,7 +63,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Evolution Sim Racing MONDAY PRACTICE](https://members.iracing.com/membersite/member/LeagueView.do?league=10200){:target="_blank"} |ESR Monday Social League \- Season 3 | |Daytona International Speedway |Mon, November 27 02:30PM EST |Mon, November 27 07:30PM GMT |Tue, November 28 06:30AM AEDT |
 |[Evolution Sim Racing MONDAY PRACTICE](https://members.iracing.com/membersite/member/LeagueView.do?league=10200){:target="_blank"} |ESR Season 3 \- Special Events | |Circuit des 24 Heures du Mans |Mon, November 20 02:30PM EST |Mon, November 20 07:30PM GMT |Tue, November 21 06:30AM AEDT |
 
 ### IMPCGT4 Class
@@ -83,23 +83,7 @@
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
 |[PESCP 2023 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=10319){:target="_blank"} |Porsche Esports Sprint Challenge Poland 2023 | |Hockenheimring Baden-Württemberg |Wed, November 22 12:00PM EST |Wed, November 22 05:00PM GMT |Thu, November 23 04:00AM AEDT |
 
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |Copa Toyota | |Charlotte Motor Speedway |Sun, November 19 08:00PM EST |Mon, November 20 01:00AM GMT |Mon, November 20 12:00PM AEDT |
-
 # Prototype
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Beat the PRO Challenge powered by AVL RACETECH](https://members.iracing.com/membersite/member/LeagueView.do?league=9055){:target="_blank"} |Beat the PRO Challenge 2023 | |Nürburgring Grand-Prix-Strecke |Sun, November 19 01:00PM EST |Sun, November 19 06:00PM GMT |Mon, November 20 05:00AM AEDT |
 
 ### Radical SR8
 
@@ -108,16 +92,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|----------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[SIMSA GR86/CTS CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8276){:target="_blank"} |SR8 Cup S1 |Fixed |Watkins Glen International |Wed, November 22 08:00PM EST |Thu, November 23 01:00AM GMT |Thu, November 23 12:00PM AEDT |
-
-# Dirt Oval
-
-### Dirt SprintCar - 360
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------|-----|---------------|----------------------------|----------------------------|-----------------------------|
-|[The Peoples Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=10083){:target="_blank"} |Season 4 |Fixed |Eldora Speedway |Sun, November 19 06:30PM EST |Sun, November 19 11:30PM GMT |Mon, November 20 10:30AM AEDT |
 
 # Multi-class/Unclassified
 
