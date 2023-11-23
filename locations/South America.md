@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/3 |South America |21 |3063 | |Daytona International Speedway |Wed, November 22 06:35PM EST |Wed, November 22 11:35PM GMT |Thu, November 23 10:35AM AEDT |
+|-------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/3 |South America |21 |3110 | | | | | |
 
 ### Lotus 79
 
@@ -90,9 +90,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|--------------|----------------------------|----------------------------|-----------------------------|
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/3 |South America |34 |2073 | |Lime Rock Park |Mon, November 27 04:25PM EST |Mon, November 27 09:25PM GMT |Tue, November 28 08:25AM AEDT |
-|[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T4\-2023 |South America |34 |2306 | |Tsukuba Circuit |Wed, November 22 04:00PM EST |Wed, November 22 09:00PM GMT |Thu, November 23 08:00AM AEDT |
+|[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T4\-2023 |South America |34 |2317 | | | | | |
 
 ### Porsche 911 GT3 Cup (992)
 

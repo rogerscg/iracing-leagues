@@ -63,7 +63,7 @@
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Pro Late Models 2023 |North America |28 |2265 |Fixed | | | | |
 |[PLMDS \- Sanctioned Events](https://members.iracing.com/membersite/member/LeagueView.do?league=6365){:target="_blank"} |2023 \- Early Bird 100 |North America |28 |2723 | | | | | |
 |[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |high side hustlers season 2 pro late models |North America |27 |2320 | |Fairbury Speedway |Mon, November 27 08:30PM EST |Tue, November 28 01:30AM GMT |Tue, November 28 12:30PM AEDT |
-|[Dirt Renegades Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3674){:target="_blank"} |Pro Late Fall 23 |North America |26 |2841 | | | | | |
+|[Dirt Renegades Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3674){:target="_blank"} |Pro Late Fall 23 |North America |26 |2793 | | | | | |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |NARC Pro Late Models 2023\.3 |North America |26 |3349 |Open | | | | |
 |[Blue Collar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9155){:target="_blank"} |BCRL PLM Fall 2023 |North America |25 |2128 |Fixed | | | | |
 |[STARS Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8311){:target="_blank"} |STARS PRO LATES |North America |25 |3077 |Open |Lincoln Speedway |Mon, November 27 09:00PM EST |Tue, November 28 02:00AM GMT |Tue, November 28 01:00PM AEDT |
@@ -98,9 +98,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
 |[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |speedcar super series |Australia-NZ |82 |2875 | | | | | |
-|[NETCODEshop\.com Mighty Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3159){:target="_blank"} |2023B |North America |36 |2552 |Fixed | | | | |
+|[NETCODEshop\.com Mighty Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3159){:target="_blank"} |2023B |North America |36 |2552 |Fixed |Cedar Lake Speedway |Thu, November 30 08:30PM EST |Fri, December 01 01:30AM GMT |Fri, December 01 12:30PM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MIDGET |North America |34 |2157 |Open | | | | |
 |[Tuesday Night Feature](https://members.iracing.com/membersite/member/LeagueView.do?league=10094){:target="_blank"} |Midgets Season 2 |North America |22 |2575 | | | | | |
 |[NSCRA Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9090){:target="_blank"} |TJR USAC Midgets |North America |18 |2554 | | | | | |
@@ -111,11 +111,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 305 |North America |40 |2265 |Open |Lernerville Speedway |Wed, November 22 06:30PM EST |Wed, November 22 11:30PM GMT |Thu, November 23 10:30AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 305 |North America |42 |2260 |Open | | | | |
 |[Blue Collar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9155){:target="_blank"} |BCRL 305s Fall 2023 |North America |26 |2260 |Fixed | | | | |
 |[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2023\-24 CRATE SPRINTS |North America |20 |1867 |Fixed | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 305 |North America |19 |2202 |Open |Lernerville Speedway |Wed, November 22 01:30PM EST |Wed, November 22 06:30PM GMT |Thu, November 23 05:30AM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 305 |North America |19 |2221 |Open | | | | |
 |[Smoky Mtn Grassroots Racing\-305 Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=9576){:target="_blank"} |Smoky Mtn Grassroots Racing |North America |18 |1852 | | | | | |
 |[C2C \- Retreads \(55\+\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6024){:target="_blank"} |RETREADS \- 305 |North America |11 |1059 | | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023 Dirt Tuesday \- Act IV |North America |10 |1464 |Fixed | | | | |
@@ -125,17 +125,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 360 Season 18 |North America |77 |3504 |Open |Federated Auto Parts Raceway at I-55 |Tue, November 28 09:00PM EST |Wed, November 29 02:00AM GMT |Wed, November 29 01:00PM AEDT |
 |[American Dirt Series Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=2504){:target="_blank"} |Winter 360s \(2023\) |North America |59 |3658 | | | | | |
 |[Victorian Formula 500 Association](https://members.iracing.com/membersite/member/LeagueView.do?league=7590){:target="_blank"} |AFSR 360 Sprintcars |Australia-NZ |52 |3509 | |Weedsport Speedway |Mon, November 27 03:30AM EST |Mon, November 27 08:30AM GMT |Mon, November 27 07:30PM AEDT |
+|[Ultimate Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7464){:target="_blank"} |Ash Hammond Sign & Designs 360 Sprintcars |Australia-NZ |47 |3343 | |Limaland Motorsports Park |Wed, November 29 03:30AM EST |Wed, November 29 08:30AM GMT |Wed, November 29 07:30PM AEDT |
 |[Friday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=7798){:target="_blank"} |360 Sprint Car |North America |41 |2850 |Fixed | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |North America |40 |2023 |Open |Knoxville Raceway |Mon, November 27 07:15PM EST |Tue, November 28 12:15AM GMT |Tue, November 28 11:15AM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |North America |40 |2546 |Open |Knoxville Raceway |Mon, November 27 08:15PM EST |Tue, November 28 01:15AM GMT |Tue, November 28 12:15PM AEDT |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |North America |35 |2384 |Open |Lernerville Speedway |Wed, November 22 07:15PM EST |Thu, November 23 12:15AM GMT |Thu, November 23 11:15AM AEDT |
-|[Ultimate Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7464){:target="_blank"} |Ash Hammond Sign & Designs 360 Sprintcars |Australia-NZ |34 |3307 | |Lucas Oil Speedway |Wed, November 22 03:30AM EST |Wed, November 22 08:30AM GMT |Wed, November 22 07:30PM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |North America |39 |2368 |Open | | | | |
 |[ASND Special events league\( Currently inactive\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |National Open \- Posse vs Outlaws Tribute Race |Australia-NZ |34 |3415 | | | | | |
-|[National Auto Racing Club \- Ignition Series \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5331){:target="_blank"} |Ignition Series \- 2023 Season 3 |North America |33 |2055 |Open | | | | |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |All Star 360 Sprint Cars 2023\.3 |North America |33 |2985 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |North America |31 |2030 |Open | | | | |
 |[Pretend Racing Online: Sidewinder Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5958){:target="_blank"} |2023B Sidewinder Dirt Series |North America |29 |2537 |Fixed | | | | |
@@ -159,9 +158,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB Wingless Season 9 |North America |24 |3626 |Open | | | | |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |2023\-S3 410NW |North America |24 |3646 |Open | | | | |
-|[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB Wingless Season 9 |North America |22 |3669 |Open |Limaland Motorsports Park |Wed, November 22 09:00PM EST |Thu, November 23 02:00AM GMT |Thu, November 23 01:00PM AEDT |
 
 ### Dirt Sprintcar - 410
 
@@ -169,12 +168,12 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
-|[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 410 Season 18 |North America |66 |3772 |Open | | | | |
+|[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 410 Season 18 |North America |66 |3772 |Open |Lernerville Speedway |Thu, November 30 09:00PM EST |Fri, December 01 02:00AM GMT |Fri, December 01 01:00PM AEDT |
 |[Sunday Practices](https://members.iracing.com/membersite/member/LeagueView.do?league=10217){:target="_blank"} |2023 SC Pro Qual Practices |North America |52 |5841 | | | | | |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |2023\-S3 NARC 410 Outlaw Winged Sprints |North America |52 |3778 |Open | | | | |
 |[Aces Up SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=9032){:target="_blank"} |AcesUp Tune Up Challenge Series |North America |42 |6246 | |Williams Grove Speedway |Fri, November 24 09:00PM EST |Sat, November 25 02:00AM GMT |Sat, November 25 01:00PM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 410 |North America |37 |2618 |Open | | | | |
 |[World of Outlaws iRacing Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7280){:target="_blank"} |2023\-24 World of Outlaws Sprint Cars Thrustmaster Series |North America |35 |6421 | |Williams Grove Speedway |Mon, November 27 08:45PM EST |Tue, November 28 01:45AM GMT |Tue, November 28 12:45PM AEDT |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 410 |North America |31 |2662 |Open |Lernerville Speedway |Wed, November 22 07:45PM EST |Thu, November 23 12:45AM GMT |Thu, November 23 11:45AM AEDT |
 |[ODSE SPECIAL EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=3319){:target="_blank"} |2023 OFF SEASON CHALLENGE |Australia-NZ |19 |3847 | | | | | |
 |[OTL Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2587){:target="_blank"} |Buckwalter Racing Winter Series \- 410 |North America |16 |1965 | | | | | |
 
@@ -184,7 +183,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[Dirt Warrior Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2763){:target="_blank"} |WNSF S15 |North America |60 |4255 |Open |Lucas Oil Speedway |Wed, November 22 08:30PM EST |Thu, November 23 01:30AM GMT |Thu, November 23 12:30PM AEDT |
+|[Dirt Warrior Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2763){:target="_blank"} |WNSF S15 |North America |60 |4255 |Open | | | | |
 |[Tuesday Night Feature](https://members.iracing.com/membersite/member/LeagueView.do?league=10094){:target="_blank"} |Dirt Street Stock Season 1 |North America |34 |3371 | | | | | |
 |[PS Enduros](https://members.iracing.com/membersite/member/LeagueView.do?league=7139){:target="_blank"} |PS Enduros Season 4 |North America |30 |2551 |Fixed |The Dirt Track at Charlotte |Wed, November 29 08:30PM EST |Thu, November 30 01:30AM GMT |Thu, November 30 12:30PM AEDT |
 |[Piggles & Cards744 Mud Run](https://members.iracing.com/membersite/member/LeagueView.do?league=10061){:target="_blank"} |Season 1 DSS |North America |29 |3439 | | | | | |
@@ -197,8 +196,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Thursday Night Throwdown](https://members.iracing.com/membersite/member/LeagueView.do?league=10186){:target="_blank"} |UMP Season \#1 2023 |North America |39 |2173 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|[Thursday Night Throwdown](https://members.iracing.com/membersite/member/LeagueView.do?league=10186){:target="_blank"} |UMP Season \#1 2023 |North America |39 |2173 | |Kokomo Speedway |Thu, November 30 08:00PM EST |Fri, December 01 01:00AM GMT |Fri, December 01 12:00PM AEDT |
 |[Vortex UMP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9974){:target="_blank"} |Vortex UMP Series 2023 Season |North America |30 |2706 | | | | | |
 |[National Dirt Sim Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1944){:target="_blank"} |Season 2 UMP Mods |North America |21 |3851 |Open | | | | |
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |Sunday Night UMP Mods |North America |19 |1908 |Both | | | | |
@@ -219,18 +218,17 @@
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- UMP |North America |36 |2260 |Open |The Dirt Track at Charlotte |Sun, November 26 08:00PM EST |Mon, November 27 01:00AM GMT |Mon, November 27 12:00PM AEDT |
 |[C2C \- World Finals](https://members.iracing.com/membersite/member/LeagueView.do?league=10263){:target="_blank"} |FINAL |North America |34 |2138 | | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |'23\-'24 Winter Series |North America |34 |3083 |Open | | | | |
-|[Pro Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8446){:target="_blank"} |PDRL Pennsylvania Regional Series |North America |33 |2785 | | | | | |
+|[Pro Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8446){:target="_blank"} |PDRL Pennsylvania Regional Series |North America |34 |2898 | | | | | |
 |[Pro Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8446){:target="_blank"} |PDRL Midwest Regional Series |North America |29 |2927 | | | | | |
 |[The Best of the Best Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10370){:target="_blank"} |Season 1 |North America |29 |3556 | | | | | |
 |[Chop Shop Racing Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=9941){:target="_blank"} |Chop Shop Dirt Season 1 |North America |28 |1655 | | | | | |
-|[OTL Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2587){:target="_blank"} |OTL Pre Season \- Mini Series |North America |26 |1945 | | | | | |
-|[B\-Main Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9190){:target="_blank"} |B\-Main Season 3 |North America |24 |2040 |Fixed |Kokomo Speedway |Wed, November 22 10:00PM EST |Thu, November 23 03:00AM GMT |Thu, November 23 02:00PM AEDT |
+|[B\-Main Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9190){:target="_blank"} |B\-Main Season 3 |North America |24 |2040 |Fixed |Lucas Oil Speedway |Mon, November 27 10:00PM EST |Tue, November 28 03:00AM GMT |Tue, November 28 02:00PM AEDT |
 |[C2C \- World Finals](https://members.iracing.com/membersite/member/LeagueView.do?league=10263){:target="_blank"} |NON QUALIFIER "A" |North America |22 |1824 | | | | | |
 |[MO Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=4895){:target="_blank"} |23/24 open wheel madness |North America |22 |1912 | | | | | |
 |[C2C \- World Finals](https://members.iracing.com/membersite/member/LeagueView.do?league=10263){:target="_blank"} |QUALIFYING NIGHT \#2 |North America |20 |2007 | | | | | |
 |[OutCasts](https://members.iracing.com/membersite/member/LeagueView.do?league=9459){:target="_blank"} |358 Season 3 Small block vs Big Block |North America |19 |2008 |Both | | | | |
 |[C2C \- World Finals](https://members.iracing.com/membersite/member/LeagueView.do?league=10263){:target="_blank"} |QUALIFYING NIGHT \#1 |North America |18 |2192 | | | | | |
-|[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2023 Dirty Thursdays Dirt Oval Racing |North America |17 |1475 |Fixed | | | | |
+|[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2023 Dirty Thursdays Dirt Oval Racing |North America |17 |1475 |Fixed |Chili Bowl |Thu, November 30 09:00PM EST |Fri, December 01 02:00AM GMT |Fri, December 01 01:00PM AEDT |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |Lucas Oil Track Championship 2023\.3 |North America |14 |2626 |Open | | | | |
 |[The Peoples Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=10083){:target="_blank"} |Season 3 |North America |13 |1406 |Fixed | | | | |
 |[Semi\-pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9027){:target="_blank"} |Dirt season 2 \(Owen ain't winning\) |North America |11 |1637 | |Lucas Oil Speedway |Tue, November 28 08:30PM EST |Wed, November 29 01:30AM GMT |Wed, November 29 12:30PM AEDT |

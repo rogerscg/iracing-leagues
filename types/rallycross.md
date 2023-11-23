@@ -29,5 +29,4 @@
 |[CAMPEONATOS SART](https://members.iracing.com/membersite/member/LeagueView.do?league=10338){:target="_blank"} |SUPERESCARABAJOS SART |North America |36 |2176 | | | | | |
 |[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |23C |North America |25 |3456 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Class 11X \- Fall 2023 |North America |18 |2010 |Fixed | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |AORT Class 11X \- 2023 |North America |11 |2314 |Fixed | | | | |
 

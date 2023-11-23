@@ -17,7 +17,10 @@
 |[KHR](https://members.iracing.com/membersite/member/LeagueView.do?league=10402){:target="_blank"} | |Dirt/Asphalt |
 |[League FCD](https://members.iracing.com/membersite/member/LeagueView.do?league=10399){:target="_blank"} | |Notre communauté vise à rassembler des gens qui partagent l’amour de la course tout en s’amusant et en maintenant un esprit de compétition\. Nous sommes fiers d’être amicaux et inclusifs, et accueillons tous les niveaux de compétence et d’expérience\. Nous croyons que la course peut être à la fois sérieuse et agréable, et nous nous efforçons de créer un environnement où nos membres peuvent améliorer leurs compétences tout en construisant des amitiés et un sens de la communauté\. |
 |[Naija Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=10387){:target="_blank"} | |Celebrating Nigerians everywhere but all are welcome\! Adults only\! |
+|[NASA Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10408){:target="_blank"} | |This is a special events league for NASA and ASN\. Drivers are subject to removal once the event is complete\. |
 |[Nate Likes Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=10379){:target="_blank"} | |Nate Loves Boys |
+|[Old Money Racing SLM](https://members.iracing.com/membersite/member/LeagueView.do?league=10410){:target="_blank"} | |Open Setup Super Late Model League |
+|[pass](https://members.iracing.com/membersite/member/LeagueView.do?league=10411){:target="_blank"} | |slm |
 |[perry](https://members.iracing.com/membersite/member/LeagueView.do?league=10398){:target="_blank"} | | |
 |[Pro Esports NASCAR Iracing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10406){:target="_blank"} | | |
 |[Race Chatter Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10392){:target="_blank"} | | |
@@ -28,6 +31,7 @@
 |[ViRL Tour Mod Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10385){:target="_blank"} | |This is the Tour Mod Division of the Virginia iRacing League\. It's free to participate\. The ViRL Late Model Division has a $10 fee\. |
 |[Virtual Racing Expierence](https://members.iracing.com/membersite/member/LeagueView.do?league=10401){:target="_blank"} | | |
 |[Weed League](https://members.iracing.com/membersite/member/LeagueView.do?league=10395){:target="_blank"} | |A league for the rest of us\. |
+|[2024 Gen 4 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10409){:target="_blank"} | |O'Quinn / Callahan |
 |[Jodan](https://members.iracing.com/membersite/member/LeagueView.do?league=10380){:target="_blank"} | |Notre League |
-|[UGX Race Organisation](https://members.iracing.com/membersite/member/LeagueView.do?league=10378){:target="_blank"} | |T\.B\.A\. |
+|[pass superlates](https://members.iracing.com/membersite/member/LeagueView.do?league=10412){:target="_blank"} | |super latemodel fun |
 
