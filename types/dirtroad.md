@@ -26,8 +26,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2023 Regional Series |North America |53 |3085 |Open | | | | |
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TDKI Pro4 |North America |14 |1412 | |Crandon International Raceway |Tue, November 28 08:00PM EST |Wed, November 29 01:00AM GMT |Wed, November 29 12:00PM AEDT |
-|[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |Sharpes Offroad Chaos |North America |11 |1614 |Both | | | | |
+|[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |Sharpes Offroad Chaos |North America |11 |1614 |Both |Wild Horse Pass Motorsports Park |Fri, December 01 08:00PM EST |Sat, December 02 01:00AM GMT |Sat, December 02 12:00PM AEDT |
 

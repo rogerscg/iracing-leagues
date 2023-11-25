@@ -10,9 +10,9 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[PRL Formula 3 Series \(Thursday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3580){:target="_blank"} |PRL Formula 3 Series 2023/S4 |North America |42 |3197 | |Watkins Glen International |Thu, November 30 07:30PM EST |Fri, December 01 12:30AM GMT |Fri, December 01 11:30AM AEDT |
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Open Wheel Thursday's |North America |36 |1268 |Both |Watkins Glen International |Wed, November 29 08:00PM EST |Thu, November 30 01:00AM GMT |Thu, November 30 12:00PM AEDT |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Open Wheel Thursday's |North America |39 |1270 |Both |Watkins Glen International |Wed, November 29 08:00PM EST |Thu, November 30 01:00AM GMT |Thu, November 30 12:00PM AEDT |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |RPR Season 29 \- Road to the V8SC |Australia-NZ |29 |2556 |Open | | | | |
-|[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2023\-4 |Europe |25 |2146 |Fixed | | | | |
+|[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2023\-4 |Europe |25 |2150 |Fixed | | | | |
 |[Virtual GP](https://members.iracing.com/membersite/member/LeagueView.do?league=3963){:target="_blank"} |2023 VGP \- F3 |Europe |19 |3659 |Open | | | | |
 |[Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"} |O4A 2023 S4 |North America |18 |1854 |Fixed | | | | |
 |[Virtual GP](https://members.iracing.com/membersite/member/LeagueView.do?league=3963){:target="_blank"} |Testing |Europe |17 |3356 |Open | | | | |
@@ -24,13 +24,13 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023D Road to Indy Series |Australia-NZ |43 |1750 |Both |Circuito de Jerez - Ángel Nieto |Fri, November 24 03:35AM EST |Fri, November 24 08:35AM GMT |Fri, November 24 07:35PM AEDT |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023D Road to Indy Series |Australia-NZ |43 |1793 |Both |Indianapolis Motor Speedway |Fri, December 01 03:35AM EST |Fri, December 01 08:35AM GMT |Fri, December 01 07:35PM AEDT |
 |[Area 51/Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |2023 Season 3 |North America |35 |2180 | | | | | |
 |[SAAC Offseason Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9899){:target="_blank"} |SAAC Indycar S2 |North America |29 |2621 |Fixed | | | | |
 |[Lionheart Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3172){:target="_blank"} |2023 Open Wheel Season |North America |29 |3494 |Fixed | | | | |
 |[North American Trans\-Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9778){:target="_blank"} |IR18 |North America |28 |1773 | | | | | |
-|[SNS Winter Challenge for Charity](https://members.iracing.com/membersite/member/LeagueView.do?league=6105){:target="_blank"} |Winter 2023/2024 |North America |28 |1825 |Fixed | | | | |
-|[Catalyst 317 Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1725){:target="_blank"} |Season 10 |North America |28 |3834 |Open | | | | |
+|[Catalyst 317 Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1725){:target="_blank"} |Season 10 |North America |28 |3808 |Open | | | | |
+|[SNS Winter Challenge for Charity](https://members.iracing.com/membersite/member/LeagueView.do?league=6105){:target="_blank"} |Winter 2023/2024 |North America |26 |1833 |Fixed | | | | |
 |[GoRacing Sim League IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8712){:target="_blank"} |GoRacing Sim League 2023 Fall Indy Season |North America |25 |1895 | |Auto Club Speedway |Tue, November 28 07:00PM EST |Wed, November 29 12:00AM GMT |Wed, November 29 11:00AM AEDT |
 |[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Open Wheel Series Practice |North America |25 |None |Fixed | | | | |
 |[RIL Schaeffer's Iñdy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5062){:target="_blank"} |Heinekamp Financial 300 \- Fall 2023 |North America |25 |2372 |Fixed | | | | |
@@ -39,7 +39,6 @@
 |[VTCS TobyCar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10310){:target="_blank"} |TobyCar Season 1 |Europe |16 |1835 |Fixed |WeatherTech Raceway at Laguna Seca |Wed, November 29 01:00PM EST |Wed, November 29 06:00PM GMT |Thu, November 30 05:00AM AEDT |
 |[URL Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4386){:target="_blank"} |Season 3 \(Fall23\) |North America |13 |1422 |Fixed | | | | |
 |[SAAC Offseason Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9899){:target="_blank"} |SAAC OFFSEASON SERIES: INDYCAR |North America |12 |3089 |Fixed | | | | |
-|[Area 51/Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |Practice |North America |11 |None | | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCars Nov 2023 Championship |North America |10 |1694 | |iRacing Superspeedway |Sat, November 25 11:00AM EST |Sat, November 25 04:00PM GMT |Sun, November 26 03:00AM AEDT |
 |[TKC Esports Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8661){:target="_blank"} |TKC Season 5 |North America |10 |1574 |Fixed | | | | |
 
@@ -70,35 +69,35 @@
 |[British F4 Esports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9004){:target="_blank"} |2023 British F4 Esports Championship |Europe |33 |5206 | |Brands Hatch Circuit |Wed, November 29 01:45PM EST |Wed, November 29 06:45PM GMT |Thu, November 30 05:45AM AEDT |
 |[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4 \| Season 2 |Africa |31 |2063 | | | | | |
 |[PORSCHE SIMRACING TROPHY 2019](https://members.iracing.com/membersite/member/LeagueView.do?league=2529){:target="_blank"} |dmsj \- Practice |Europe |30 |1903 |Fixed |WeatherTech Raceway at Laguna Seca |Sat, November 25 10:00AM EST |Sat, November 25 03:00PM GMT |Sun, November 26 02:00AM AEDT |
+|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Season 5 |Europe |29 |2108 |Both | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 9 \- F4 |Europe |29 |2130 |Both |Circuit de Spa-Francorchamps |Sun, November 26 04:00PM EST |Sun, November 26 09:00PM GMT |Mon, November 27 08:00AM AEDT |
-|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Season 5 |Europe |28 |2120 |Both |Autodromo Internazionale Enzo e Dino Ferrari |Thu, November 23 02:01PM EST |Thu, November 23 07:01PM GMT |Fri, November 24 06:01AM AEDT |
 |[Racing League Romania](https://members.iracing.com/membersite/member/LeagueView.do?league=350){:target="_blank"} |\[2023\] RLR Sezonul 4 \- ALT F4 Challenge |Europe |28 |2417 | |Autodromo Internazionale Enzo e Dino Ferrari |Mon, November 27 12:00PM EST |Mon, November 27 05:00PM GMT |Tue, November 28 04:00AM AEDT |
 |[PORSCHE SIMRACING TROPHY 2019](https://members.iracing.com/membersite/member/LeagueView.do?league=2529){:target="_blank"} |U19 \- dmsj23 \- Race |Europe |28 |1931 |Fixed |WeatherTech Raceway at Laguna Seca |Wed, November 29 11:00AM EST |Wed, November 29 04:00PM GMT |Thu, November 30 03:00AM AEDT |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Revving Red's Roaring Road Racing Revelry \- Season 2 |North America |26 |1777 | |Long Beach Street Circuit |Tue, November 28 10:00PM EST |Wed, November 29 03:00AM GMT |Wed, November 29 02:00PM AEDT |
-|[go\-RILLAS AVL RACETECH SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7714){:target="_blank"} |Season 23\.3 F4 |Europe |25 |2028 |Fixed | | | | |
 |[PWA Formula iR\-04](https://members.iracing.com/membersite/member/LeagueView.do?league=9271){:target="_blank"} |PWA Formula F4 Season 3 |Europe |24 |2678 | | | | | |
+|[go\-RILLAS AVL RACETECH SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7714){:target="_blank"} |Season 23\.3 F4 |Europe |24 |1976 |Fixed | | | | |
 |[Alt\-F4 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8481){:target="_blank"} |Season 6 |North America |23 |2246 |Open | | | | |
 |[PROCAR \| GT3 World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=4269){:target="_blank"} |F4 PROCAR CHAMPIONSHIP \| Season 12 |Australia-NZ |22 |1958 |Fixed | | | | |
-|[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |PSM Formula 4 Championship 2023s4 |North America |21 |1929 |Open |Rudskogen Motorsenter |Fri, November 24 06:00PM EST |Fri, November 24 11:00PM GMT |Sat, November 25 10:00AM AEDT |
+|[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |PSM Formula 4 Championship 2023s4 |North America |22 |1905 |Open |Long Beach Street Circuit |Fri, December 01 06:00PM EST |Fri, December 01 11:00PM GMT |Sat, December 02 10:00AM AEDT |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2023\-S4 F4 |North America |19 |1686 |Both |Canadian Tire Motorsports Park |Tue, November 28 07:00PM EST |Wed, November 29 12:00AM GMT |Wed, November 29 11:00AM AEDT |
 |[PORSCHE SIMRACING TROPHY 2019](https://members.iracing.com/membersite/member/LeagueView.do?league=2529){:target="_blank"} |U15 \- dmsj23 \- Race |Europe |18 |2081 |Fixed |WeatherTech Raceway at Laguna Seca |Wed, November 29 10:58AM EST |Wed, November 29 03:58PM GMT |Thu, November 30 02:58AM AEDT |
 |[Sapphire SimSport](https://members.iracing.com/membersite/member/LeagueView.do?league=10247){:target="_blank"} |F4 |Europe |16 |2178 | | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |may the F4rce be with you |Australia-NZ |13 |1398 |Both |Watkins Glen International |Mon, November 27 03:30PM EST |Mon, November 27 08:30PM GMT |Tue, November 28 07:30AM AEDT |
 |[GPEsportsRD](https://members.iracing.com/membersite/member/LeagueView.do?league=9168){:target="_blank"} |Open Wheel Challenge |International |12 |2270 | | | | | |
-|[ARL Division\-i](https://members.iracing.com/membersite/member/LeagueView.do?league=9976){:target="_blank"} |Season 1 |North America |11 |1478 |Fixed | | | | |
-|[The Simpletons Formula 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10006){:target="_blank"} |The Simpletons Formula 4 Championship, S1 |North America |11 |1993 |Fixed | | | | |
 |[\(3\) FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=10349){:target="_blank"} |Special Event 1 |North America |11 |1349 | | | | | |
 |[\(2\) FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=10348){:target="_blank"} |Special Event 2 \- FIA F4 |North America |11 |1349 | | | | | |
 |[\(1\) FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=10350){:target="_blank"} |Event 1 \- FIA F4 |North America |11 |1349 | | | | | |
-|[PMTCC \- Pure Motorsport Touring Car Championship\.](https://members.iracing.com/membersite/member/LeagueView.do?league=9252){:target="_blank"} |Formula Pure F4 \- Winter series 23/24 |Europe |10 |3490 | | | | | |
+|[PMTCC \- Pure Motorsport Touring Car Championship\.](https://members.iracing.com/membersite/member/LeagueView.do?league=9252){:target="_blank"} |Formula Pure F4 \- Winter series 23/24 |Europe |11 |3580 | | | | | |
+|[ARL Division\-i](https://members.iracing.com/membersite/member/LeagueView.do?league=9976){:target="_blank"} |Season 1 |North America |10 |1448 |Fixed | | | | |
+|[PHA Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10304){:target="_blank"} |23/24 Pha Racer series |North America |10 |1171 |Fixed |Watkins Glen International |Sat, November 25 05:00PM EST |Sat, November 25 10:00PM GMT |Sun, November 26 09:00AM AEDT |
 
 ### Formula Vee
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023G Formula Vee Sprint Series |Australia-NZ |44 |2010 |Both |Detroit Grand Prix at Belle Isle |Thu, November 23 02:37AM EST |Thu, November 23 07:37AM GMT |Thu, November 23 06:37PM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|----------------------|----------------------------|----------------------------|-----------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023G Formula Vee Sprint Series |Australia-NZ |47 |1996 |Both |Phillip Island Circuit |Sun, November 26 02:00AM EST |Sun, November 26 07:00AM GMT |Sun, November 26 06:00PM AEDT |
 |[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |FV WW 2023 S4 |North America |35 |2291 |Open |Road Atlanta |Sat, November 25 02:30PM EST |Sat, November 25 07:30PM GMT |Sun, November 26 06:30AM AEDT |
 |[C2C \- Retreads \(55\+\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6024){:target="_blank"} |RETREADS \- FORMULA VEE |North America |10 |824 | | | | | |
 
@@ -108,8 +107,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 3 Japan |Australia-NZ |24 |2304 | | | | | |
 |[AOLL Racing's TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4855){:target="_blank"} |2023 Season 3 \- Dallara IR18 |North America |19 |1365 |Fixed | | | | |
+|[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 3 Japan |Australia-NZ |19 |2277 | | | | | |
 |[Light Speed Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8427){:target="_blank"} |Single Seater Saturday F4 |North America |12 |1115 |Both | | | | |
 
 ### Indy Pro 2000 PM-18
@@ -126,13 +125,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 5 |North America |36 |1531 |Fixed | | | | |
+|------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 5 |North America |36 |1531 |Fixed |WeatherTech Raceway at Laguna Seca |Fri, December 01 07:00PM EST |Sat, December 02 12:00AM GMT |Sat, December 02 11:00AM AEDT |
 |[Lionheart Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3173){:target="_blank"} |2023 Retro Series |North America |33 |2818 | | | | | |
 |[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Retro Series Practice |North America |30 |None |Fixed | | | | |
 |[Lionheart Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3173){:target="_blank"} |2023 Warm Up 2 |North America |24 |2653 | | | | | |
 |[Classic 500 \- 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2023 \- T4 |South America |23 |2570 | |Homestead Miami Speedway |Wed, November 29 05:00PM EST |Wed, November 29 10:00PM GMT |Thu, November 30 09:00AM AEDT |
-|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2023/3 |South America |16 |2077 | | | | | |
+|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2023/3 |South America |15 |2084 | | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Lotus 79 Season 2 2023 |North America |10 |1527 | | | | | |
 
 ### Mercedes-AMG W13 E Performance
@@ -158,7 +157,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |FF1600 WW 2023 S4 |North America |66 |2799 |Open | | | | |
+|[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |FF1600 WW 2023 S4 |North America |65 |2791 |Open |Road Atlanta |Sun, November 26 11:30AM EST |Sun, November 26 04:30PM GMT |Mon, November 27 03:30AM AEDT |
 |[UK FF1600 Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10078){:target="_blank"} |2023 UK FF1600 Esports Cup |Europe |27 |3519 | |Brands Hatch Circuit |Wed, November 29 01:10PM EST |Wed, November 29 06:10PM GMT |Thu, November 30 05:10AM AEDT |
 |[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Ray FF1600 Open Wheel |North America |23 |1378 |Both |Lime Rock Park |Thu, November 30 07:00PM EST |Fri, December 01 12:00AM GMT |Fri, December 01 11:00AM AEDT |
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Formula Ray 1600 Series \- Season\#01 |Europe |23 |2040 |Both |Road Atlanta |Sun, November 26 01:00PM EST |Sun, November 26 06:00PM GMT |Mon, November 27 05:00AM AEDT |
@@ -170,7 +169,6 @@
 |[BearPope Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=897){:target="_blank"} |Bearpope Winter FF1600 2023 |North America |15 |2324 |Open |WeatherTech Raceway at Laguna Seca |Sun, November 26 04:20PM EST |Sun, November 26 09:20PM GMT |Mon, November 27 08:20AM AEDT |
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |Official Test |North America |13 |1605 | | | | | |
 |[Delta Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8506){:target="_blank"} |DML \| Season Series \(Formula Ford 23S4\) |North America |11 |1300 |Fixed |Lime Rock Park |Sat, November 25 01:30PM EST |Sat, November 25 06:30PM GMT |Sun, November 26 05:30AM AEDT |
-|[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2023 Summer Ray FF |North America |10 |1509 |Fixed | | | | |
 
 ### Skip Barber Race Series
 
@@ -178,9 +176,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|--------------|----------------------------|----------------------------|-----------------------------|
-|[Sunday Night Skippy](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |SUNDAY NIGHT SKIPPY S16 |North America |41 |3257 |Open |Sonoma Raceway |Sun, November 26 06:00PM EST |Sun, November 26 11:00PM GMT |Mon, November 27 10:00AM AEDT |
-|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 25 |Europe |39 |2993 |Both | | | | |
-|[Skip Barber Challenge Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=9160){:target="_blank"} |Season 2 |Europe |33 |4093 |Open | | | | |
+|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 25 |Europe |37 |2982 |Both | | | | |
+|[Sunday Night Skippy](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |SUNDAY NIGHT SKIPPY S16 |North America |37 |3242 |Open |Sonoma Raceway |Sun, November 26 06:00PM EST |Sun, November 26 11:00PM GMT |Mon, November 27 10:00AM AEDT |
+|[Skip Barber Challenge Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=9160){:target="_blank"} |Season 2 |Europe |34 |4130 |Open | | | | |
 
 ### Super Formula SF23
 
@@ -188,16 +186,16 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[\(not running\) AOR GT4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=2082){:target="_blank"} |AOR Super Formula Season 1 |Europe |50 |3248 |Open | | | | |
+|[\(not running\) AOR GT4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=2082){:target="_blank"} |AOR Super Formula Season 1 |Europe |50 |3297 |Open | | | | |
 |[League Zero \- Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season 8 |North America |41 |1894 |Fixed |Circuit de Barcelona Catalunya |Thu, November 30 08:00PM EST |Fri, December 01 01:00AM GMT |Fri, December 01 12:00PM AEDT |
 |[BWRL SF23 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10158){:target="_blank"} |SF23 Season 1 |North America |36 |2070 | | | | | |
-|[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Super Formula |Europe |30 |3576 |Fixed |Nürburgring Grand-Prix-Strecke |Thu, November 23 01:00PM EST |Thu, November 23 06:00PM GMT |Fri, November 24 05:00AM AEDT |
+|[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Super Formula |Europe |31 |3590 |Fixed |Circuit de Barcelona Catalunya |Wed, November 29 01:00PM EST |Wed, November 29 06:00PM GMT |Thu, November 30 05:00AM AEDT |
 |[ABN Open Wheel Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=3837){:target="_blank"} |2023 ABN Hyper Formula season |North America |27 |1926 |Fixed | | | | |
-|[BWRL SF23 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10158){:target="_blank"} |SF23 Practice |North America |27 |2216 | | | | | |
-|[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S04\-2023 SF23 |Europe |26 |2515 | |Circuit de Spa-Francorchamps |Thu, November 23 02:30PM EST |Thu, November 23 07:30PM GMT |Fri, November 24 06:30AM AEDT |
-|[The Simpletons Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |Simpletons Super Formula Championship, Season 1 |North America |26 |1956 |Fixed |Road America |Fri, November 24 01:00PM EST |Fri, November 24 06:00PM GMT |Sat, November 25 05:00AM AEDT |
+|[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S04\-2023 SF23 |Europe |26 |2504 | | | | | |
+|[The Simpletons Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |Simpletons Super Formula Championship, Season 1 |North America |26 |1956 |Fixed |Road America |Sat, November 25 02:00PM EST |Sat, November 25 07:00PM GMT |Sun, November 26 06:00AM AEDT |
 |[Aussie Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9402){:target="_blank"} |Season 2 \(Super Formula\) |Australia-NZ |24 |1735 | | | | | |
-|[VeraPelle Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=3366){:target="_blank"} |VeraPelle SuperFormula |Europe |24 |2766 |Open |Circuit de Barcelona Catalunya |Sun, November 26 03:00PM EST |Sun, November 26 08:00PM GMT |Mon, November 27 07:00AM AEDT |
+|[BWRL SF23 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10158){:target="_blank"} |SF23 Practice |North America |24 |2216 | | | | | |
+|[VeraPelle Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=3366){:target="_blank"} |VeraPelle SuperFormula |Europe |21 |2748 |Open |Circuit de Barcelona Catalunya |Sun, November 26 03:00PM EST |Sun, November 26 08:00PM GMT |Mon, November 27 07:00AM AEDT |
 |[NRL iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8800){:target="_blank"} |NRL Season 14: Formula N |North America |17 |1715 | | | | | |
 
 ### Super Formula SF23 - Toyota
@@ -215,7 +213,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60Plus Season 28 USF2000 |North America |32 |1439 |Fixed |Brands Hatch Circuit |Mon, November 27 02:00PM EST |Mon, November 27 07:00PM GMT |Tue, November 28 06:00AM AEDT |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60Plus Season 28 USF2000 |North America |30 |1438 |Fixed |Brands Hatch Circuit |Mon, November 27 02:00PM EST |Mon, November 27 07:00PM GMT |Tue, November 28 06:00AM AEDT |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |USF2000 Season 3 |Europe |27 |2036 |Both | | | | |
 
 ### [Legacy] Dallara IR-05

@@ -8,6 +8,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |13 |2240 | |Daytona International Speedway |Fri, November 24 07:30AM EST |Fri, November 24 12:30PM GMT |Fri, November 24 11:30PM AEDT |
+|------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------|--------|------|------|
+|[iRJL](https://members.iracing.com/membersite/member/LeagueView.do?league=114){:target="_blank"} |JP MEETING 2023 |Asia |20 |2340 | | | | | |
 
