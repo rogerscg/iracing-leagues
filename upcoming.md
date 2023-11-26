@@ -48,7 +48,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[ASPHALT OFFICIAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9747){:target="_blank"} |ASPHALT OFFICIAL WINTER TRUCK SERIES | |Daytona International Speedway |Wed, November 29 06:30PM EST |Wed, November 29 11:30PM GMT |Thu, November 30 10:30AM AEDT |
-|[Weekend Warriors ASCC](https://members.iracing.com/membersite/member/LeagueView.do?league=3592){:target="_blank"} |2024 Lucas Oils Summer Track Series |Fixed |Daytona International Speedway |Sat, November 25 03:00AM EST |Sat, November 25 08:00AM GMT |Sat, November 25 07:00PM AEDT |
+
+### Whelen Modified
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------|-----|----------------|----------------------------|----------------------------|-----------------------------|
+|[Lucky Dawg Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9578){:target="_blank"} |Wednesday Night Whelen Tour | |Richmond Raceway |Wed, November 29 07:30PM EST |Thu, November 30 12:30AM GMT |Thu, November 30 11:30AM AEDT |
 
 # Open-wheel
 
@@ -59,6 +66,31 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|------------------|-----|---------------|----------------------------|----------------------------|-----------------------------|
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART DW12 Season 1 |Fixed |Kansas Speedway |Thu, November 30 07:00PM EST |Fri, December 01 12:00AM GMT |Fri, December 01 11:00AM AEDT |
+
+### Dallara IR18
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Crown of Life GT3 2022 Season 2 | |Indianapolis Motor Speedway |Sat, December 02 11:00AM EST |Sat, December 02 04:00PM GMT |Sun, December 03 03:00AM AEDT |
+
+### FIA F4
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------|-----|--------------|----------------------------|----------------------------|-----------------------------|
+|[ESR Academy \- 12H Sebring](https://members.iracing.com/membersite/member/LeagueView.do?league=4647){:target="_blank"} |2023 ESR F4 eSport Academy | |Lime Rock Park |Mon, November 27 12:00PM EST |Mon, November 27 05:00PM GMT |Tue, November 28 04:00AM AEDT |
+|[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |2023 ESR Casual F4 league | |Lime Rock Park |Wed, November 29 01:00PM EST |Wed, November 29 06:00PM GMT |Thu, November 30 05:00AM AEDT |
+
+### Ray FF1600
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------------|--------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Sports Car Club of the SiouxLand](https://members.iracing.com/membersite/member/LeagueView.do?league=9621){:target="_blank"} |Winter 2023/24 |Both |Virginia International Raceway |Sun, November 26 02:00PM EST |Sun, November 26 07:00PM GMT |Mon, November 27 06:00AM AEDT |
 
 # Sports Car
 
@@ -71,6 +103,7 @@
 |[Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |ESR Pre\-Season 3 GT3 Championship | |Daytona International Speedway |Thu, November 30 02:30PM EST |Thu, November 30 07:30PM GMT |Fri, December 01 06:30AM AEDT |
 |[Evolution Sim Racing MONDAY PRACTICE](https://members.iracing.com/membersite/member/LeagueView.do?league=10200){:target="_blank"} |ESR Monday Social League \- Season 3 | |Daytona International Speedway |Mon, November 27 02:30PM EST |Mon, November 27 07:30PM GMT |Tue, November 28 06:30AM AEDT |
 |[NARL Fixed GT3 \(PRO Division\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7824){:target="_blank"} |NARL GT3 Fixed Season 5 |Fixed |Charlotte Motor Speedway |Thu, November 30 09:00PM EST |Fri, December 01 02:00AM GMT |Fri, December 01 01:00PM AEDT |
+|[Worldwide Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6913){:target="_blank"} |WWR Season 4 GT3 |Open |Watkins Glen International |Tue, November 28 07:45PM EST |Wed, November 29 12:45AM GMT |Wed, November 29 11:45AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -82,6 +115,14 @@
 |[ORNL 500](https://members.iracing.com/membersite/member/LeagueView.do?league=9724){:target="_blank"} |ORNL MJK Mazda Cup S'23 S2 | |Phillip Island Circuit |Wed, November 29 02:00PM EST |Wed, November 29 07:00PM GMT |Thu, November 30 06:00AM AEDT |
 |[ORNL Manufacturer Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5652){:target="_blank"} |Street Car League 2023 |Open |Long Beach Street Circuit |Thu, November 30 02:00PM EST |Thu, November 30 07:00PM GMT |Fri, December 01 06:00AM AEDT |
 
+### IMPCGT4 Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|--------|-----|--------------|----------------------------|----------------------------|-----------------------------|
+|[Utah SCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9306){:target="_blank"} |Season 2 | |Lime Rock Park |Sun, November 26 09:30PM EST |Mon, November 27 02:30AM GMT |Mon, November 27 01:30PM AEDT |
+
 ### Mazda MX-5 Cup 2016
 
 [Back to Top](#)  
@@ -89,6 +130,24 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
 |[BRSCC Winter eSports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9071){:target="_blank"} |BRSCC Winter eSports Series 2023\-24 | |Silverstone Circuit |Thu, November 30 02:00PM EST |Thu, November 30 07:00PM GMT |Fri, December 01 06:00AM AEDT |
+
+### Touring Car
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[THE SHOW Community](https://members.iracing.com/membersite/member/LeagueView.do?league=9473){:target="_blank"} |Season 1 |Open |Daytona International Speedway |Sun, November 26 07:00PM EST |Mon, November 27 12:00AM GMT |Mon, November 27 11:00AM AEDT |
+
+# Prototype
+
+### Radical SR8
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------|----------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
+|[GT Akademían](https://members.iracing.com/membersite/member/LeagueView.do?league=4302){:target="_blank"} |GTA\.is/mot 2024 |Both |Rudskogen Motorsenter |Thu, November 30 02:30PM EST |Thu, November 30 07:30PM GMT |Fri, December 01 06:30AM AEDT |
 
 # Dirt Oval
 
@@ -125,9 +184,10 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |Community Events |Open |Mount Panorama Circuit |Sun, November 26 08:30PM EST |Mon, November 27 01:30AM GMT |Mon, November 27 12:30PM AEDT |
+|[CMS Team Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5813){:target="_blank"} |Practice sessions |Open |Daytona International Speedway |Sun, December 03 12:00PM EST |Sun, December 03 05:00PM GMT |Mon, December 04 04:00AM AEDT |
 |[EOR GRAND TOURER LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9914){:target="_blank"} |EOR SEASON 3 |Fixed |Road America |Mon, November 27 08:00PM EST |Tue, November 28 01:00AM GMT |Tue, November 28 12:00PM AEDT |
-|[Fendi Racing eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=9080){:target="_blank"} |Season 5 Pro Am |Open |Long Beach Street Circuit |Sat, November 25 02:00PM EST |Sat, November 25 07:00PM GMT |Sun, November 26 06:00AM AEDT |
 |[Grayze Dynamics](https://members.iracing.com/membersite/member/LeagueView.do?league=9920){:target="_blank"} |Grayze Dynamics Season 2 |Both |Oran Park Raceway |Thu, November 30 09:15PM EST |Fri, December 01 02:15AM GMT |Fri, December 01 01:15PM AEDT |
+|[7920 Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=8188){:target="_blank"} |members choose season 1 |Both |Road America |Wed, November 29 08:00PM EST |Thu, November 30 01:00AM GMT |Thu, November 30 12:00PM AEDT |
 |[Square Motorsports FreeSpeed 2](https://members.iracing.com/membersite/member/LeagueView.do?league=10391){:target="_blank"} |Season One | |Lime Rock Park |Tue, November 28 09:00PM EST |Wed, November 29 02:00AM GMT |Wed, November 29 01:00PM AEDT |
 |[The Sofa Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8017){:target="_blank"} |Mixed | |Daytona International Speedway |Mon, November 27 08:30PM EST |Tue, November 28 01:30AM GMT |Tue, November 28 12:30PM AEDT |
 

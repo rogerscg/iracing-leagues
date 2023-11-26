@@ -54,7 +54,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T4\-2023 |South America |37 |2831 | | | | | |
+|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T4\-2023 |South America |33 |2887 | | | | | |
 
 ### GT3 Class
 
@@ -123,8 +123,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|---------------------|----------------------------|----------------------------|-----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Road 2023 |South America |23 |1516 | |Rudskogen Motorsenter |Sat, November 25 12:00PM EST |Sat, November 25 05:00PM GMT |Sun, November 26 04:00AM AEDT |
+|--------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Road 2023 |South America |28 |1515 | |Virginia International Raceway |Sat, December 02 08:00AM EST |Sat, December 02 01:00PM GMT |Sun, December 03 12:00AM AEDT |
 
 ### [Legacy] Ferrari 488 GT3
 
