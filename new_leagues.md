@@ -6,10 +6,10 @@
 |[Apex Acceleration Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10405){:target="_blank"} |[Discord](https://discord.gg/Zcxmry3k8A){:target="_blank"} |Hello fellow Formula enthusiast\!   This League is about starting a Formula action which so far never has been seen\!  A Multiclass Formula league which will contain: Superformula, Formula Renault 3\.5 as well as the famous Mercedes AMG W13\.   Our session times will probably be on Friday 0am UTC \(but there will be votes of course\!\)\.\.\. Anyways\.\.\. the duration of the practice will be 1\.5 hours\.\.\. which means the Q will take 30 minutes\. The race itself will then take another hour which sums up to a total of 3 hours per week for the official first racing season\!  Besides that there will be weekly practice sessions hosted a few days before the race happens\!   Come and register now for the very first season of us which will start in January\!  The participation of course is free of charge\! |
 |[Bliss VR Society](https://members.iracing.com/membersite/member/LeagueView.do?league=10420){:target="_blank"} | |Racing for people with different abilities |
 |[Bottoms Up LMSC Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10393){:target="_blank"} | |We are a series that takes LMSC cars and provides a good quality racing tour |
-|[Daytona Beach Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10423){:target="_blank"} |[Discord](https://discord.gg/UFUr3fU3){:target="_blank"} |87 NASCAR Daytona Beach Super Speedway Racing\! |
 |[F4 US Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10414){:target="_blank"} | |We go to most F4 US Tracks |
 |[Fast Cars and Fast Women](https://members.iracing.com/membersite/member/LeagueView.do?league=10400){:target="_blank"} | |Hard Charging, But Respectful |
 |[Formula Vee Heaven\!](https://members.iracing.com/membersite/member/LeagueView.do?league=10424){:target="_blank"} |[Discord](https://discord.gg/EaG4a9zX){:target="_blank"} |Formula Vee |
+|[FormulaNXT \- Racer First Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10426){:target="_blank"} |[Discord](https://discord.gg/kt2ebNUVKt){:target="_blank"} |IndyNXT inspired series using the F4 car\. Hosted by Racer First Sim Racing |
 |[Hell on Wheels Super Latemodel Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10403){:target="_blank"} | |super lates every other sunday\. fixed |
 |[International Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10419){:target="_blank"} | | |
 |[Iracing Bennetts League](https://members.iracing.com/membersite/member/LeagueView.do?league=10397){:target="_blank"} | |Friendly fun league for old and young to gain experience and knowledge |
@@ -26,13 +26,13 @@
 |[RaceCommunity\.nl \- Seizoen \#1 \- 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10415){:target="_blank"} | |Join onze league en maak kans op mooie prijzen   Discord: dsg\.gg/racecommunity |
 |[Route 66 Sprint Series Sim Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10413){:target="_blank"} | |League Info |
 |[Skid Mark Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10396){:target="_blank"} | |A league to mimic the good/bad/ugly of budget endurance racing \(Lemons or Champcar\) format \(without the endurance\) where we max out the number of vehicles on the track with people of various skill levels\. |
-|[Square Motorsports FreeSpeed 2](https://members.iracing.com/membersite/member/LeagueView.do?league=10391){:target="_blank"} | | |
 |[STR "Short Track Racking"](https://members.iracing.com/membersite/member/LeagueView.do?league=10416){:target="_blank"} | |STR "Short Track Racking" |
 |[Super Formula Series \(TCR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10421){:target="_blank"} | |TCR is going into our 17th season and 7th year as an organized league renowned for our North American presence on the PlayStation and then later Cross Play on the F1 games\. This will be our first season expanding to iRacing Super Formula\. |
 |[Turn2 Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=10417){:target="_blank"} | |New League trying to find its footing in the world of esports |
 |[Virtual Racing Expierence](https://members.iracing.com/membersite/member/LeagueView.do?league=10401){:target="_blank"} | | |
 |[Weed League](https://members.iracing.com/membersite/member/LeagueView.do?league=10395){:target="_blank"} | |A league for the rest of us\. |
 |[2024 Gen 4 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10409){:target="_blank"} | |O'Quinn / Callahan |
+|[AussieOutlaws Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10425){:target="_blank"} | |Cup Car racing On a Saturday night |
 |[pass superlates](https://members.iracing.com/membersite/member/LeagueView.do?league=10412){:target="_blank"} | |super latemodel fun |
 |[Three Amigos Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=10418){:target="_blank"} | |The Three Amigos Test League |
 
