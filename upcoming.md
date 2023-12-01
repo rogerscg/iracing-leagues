@@ -5,21 +5,12 @@
 
 # NASCAR
 
-### NASCAR 2022 NextGen
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[The Sofa Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8017){:target="_blank"} |Next Gen | |Daytona International Speedway |Thu, November 30 08:30PM EST |Fri, December 01 01:30AM GMT |Fri, December 01 12:30PM AEDT |
-
 ### NASCAR Cup
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|--------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[TDFW Super Speedway Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=10157){:target="_blank"} |SS Thunder 2 | |Daytona International Speedway |Thu, November 30 08:00PM EST |Fri, December 01 01:00AM GMT |Fri, December 01 12:00PM AEDT |
 |[VRX \- World Cup Series Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=9892){:target="_blank"} |VRX SS Winter Series |Fixed |Daytona International Speedway |Sat, December 02 08:00PM EST |Sun, December 03 01:00AM GMT |Sun, December 03 12:00PM AEDT |
 
 ### NASCAR Truck Series
@@ -40,23 +31,15 @@
 |------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
 |[ORNL Euroseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9225){:target="_blank"} |ORNL Euroseries '24 | |Circuito de Jerez - Ángel Nieto |Mon, December 04 02:00PM EST |Mon, December 04 07:00PM GMT |Tue, December 05 06:00AM AEDT |
 
-### Legends
+### Late Model Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|--------------------|-----|----------------|----------------------------|----------------------------|-----------------------------|
-|[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |Thursday Winter 2023 |Fixed |Langley Speedway |Thu, November 30 08:45PM EST |Fri, December 01 01:45AM GMT |Fri, December 01 12:45PM AEDT |
+|--------------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[Maximum Velocity Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1262){:target="_blank"} |2023 Practice races |Fixed |Five Flags Speedway |Sun, December 03 07:30PM EST |Mon, December 04 12:30AM GMT |Mon, December 04 11:30AM AEDT |
 
 # Open-wheel
-
-### Dallara DW12
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|------------------|-----|---------------|----------------------------|----------------------------|-----------------------------|
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART DW12 Season 1 |Fixed |Kansas Speedway |Thu, November 30 07:00PM EST |Fri, December 01 12:00AM GMT |Fri, December 01 11:00AM AEDT |
 
 ### Dallara IR18
 
@@ -85,23 +68,13 @@
 
 # Sports Car
 
-### GT3 Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |ESR Pre\-Season 3 GT3 Championship | |Daytona International Speedway |Thu, November 30 02:30PM EST |Thu, November 30 07:30PM GMT |Fri, December 01 06:30AM AEDT |
-|[NARL Fixed GT3 \(PRO Division\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7824){:target="_blank"} |NARL GT3 Fixed Season 5 |Fixed |Charlotte Motor Speedway |Thu, November 30 09:00PM EST |Fri, December 01 02:00AM GMT |Fri, December 01 01:00PM AEDT |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------------|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------|-------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |Madness |Open |Nürburgring Combined |Mon, December 04 01:30PM EST |Mon, December 04 06:30PM GMT |Tue, December 05 05:30AM AEDT |
-|[ORNL Manufacturer Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5652){:target="_blank"} |Street Car League 2023 |Open |Long Beach Street Circuit |Thu, November 30 02:00PM EST |Thu, November 30 07:00PM GMT |Fri, December 01 06:00AM AEDT |
 
 ### IMPCGT4 Class
 
@@ -111,31 +84,21 @@
 |------------------------------------------------------------------------------------------------------|--------|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
 |[Fun Rimes](https://members.iracing.com/membersite/member/LeagueView.do?league=9438){:target="_blank"} |Season 1 | |Circuit de Spa-Francorchamps |Mon, December 04 07:15PM EST |Tue, December 05 12:15AM GMT |Tue, December 05 11:15AM AEDT |
 
-### Mazda MX-5 Cup 2016
+### Kia Optima
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[BRSCC Winter eSports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9071){:target="_blank"} |BRSCC Winter eSports Series 2023\-24 | |Silverstone Circuit |Thu, November 30 02:00PM EST |Thu, November 30 07:00PM GMT |Fri, December 01 06:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|[SlingingDirt with Bishop&Roscoe Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4712){:target="_blank"} |B\-Main Bang Bangers |Open |Eldora Speedway |Sat, December 02 06:15PM EST |Sat, December 02 11:15PM GMT |Sun, December 03 10:15AM AEDT |
 
-# Prototype
-
-### Radical SR8
+### Touring Car
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|----------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
-|[GT Akademían](https://members.iracing.com/membersite/member/LeagueView.do?league=4302){:target="_blank"} |GTA\.is/mot 2024 |Both |Rudskogen Motorsenter |Thu, November 30 02:30PM EST |Thu, November 30 07:30PM GMT |Fri, December 01 06:30AM AEDT |
-
-### Riley Daytona Prototype
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[24 Hours of Lemons iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |Lunchtime Lemons Season 5 | |Sandown International Motor Raceway |Thu, November 30 12:50PM EST |Thu, November 30 05:50PM GMT |Fri, December 01 04:50AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------|-----------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|[SRL Community TCR League](https://members.iracing.com/membersite/member/LeagueView.do?league=8871){:target="_blank"} |JPB European Tour | |Brands Hatch Circuit |Fri, December 08 03:00PM EST |Fri, December 08 08:00PM GMT |Sat, December 09 07:00AM AEDT |
 
 # Dirt Oval
 
@@ -185,7 +148,6 @@
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[CMS Team Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5813){:target="_blank"} |Practice sessions |Open |Daytona International Speedway |Sun, December 03 12:00PM EST |Sun, December 03 05:00PM GMT |Mon, December 04 04:00AM AEDT |
 |[FSL & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=9273){:target="_blank"} |Daytona 2024 | |Daytona International Speedway |Sun, December 03 03:30AM EST |Sun, December 03 08:30AM GMT |Sun, December 03 07:30PM AEDT |
-|[Grayze Dynamics](https://members.iracing.com/membersite/member/LeagueView.do?league=9920){:target="_blank"} |Grayze Dynamics Season 2 |Both |Oran Park Raceway |Thu, November 30 09:15PM EST |Fri, December 01 02:15AM GMT |Fri, December 01 01:15PM AEDT |
 |[SCDA Track Days www\.scda1\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=4142){:target="_blank"} |SCDA Winter iRacing League 2023\-2024 | |Lime Rock Park |Tue, December 05 08:00PM EST |Wed, December 06 01:00AM GMT |Wed, December 06 12:00PM AEDT |
 |[Square Motorsports FreeSpeed 2](https://members.iracing.com/membersite/member/LeagueView.do?league=10391){:target="_blank"} |Season One | |Southern National Motorsports Park |Tue, December 05 09:00PM EST |Wed, December 06 02:00AM GMT |Wed, December 06 01:00PM AEDT |
 

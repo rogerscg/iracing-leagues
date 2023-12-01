@@ -27,11 +27,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 IMSA Series 2023/S4 |North America |50 |2730 | | | | | |
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 6 |Europe |49 |4205 | | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prototype Challenge \- Season 2 |Europe |29 |2053 |Both | | | | |
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Pre\-Season Testing |North America |24 |2906 |Open |Silverstone Circuit |Thu, November 30 07:25PM EST |Fri, December 01 12:25AM GMT |Fri, December 01 11:25AM AEDT |
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Pre\-Season Testing |North America |27 |2835 |Open | | | | |
 |[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Radicals |North America |11 |1333 |Fixed | | | | |
 
 ### Ligier JS P320
@@ -46,7 +46,7 @@
 |[HIP presents "iRacing for the Kids 2\.0"](https://members.iracing.com/membersite/member/LeagueView.do?league=7998){:target="_blank"} |HIP CHALLENGE SERIES |North America |29 |1773 |Fixed | | | | |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint \- Season 6 |North America |27 |2032 |Both | | | | |
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2023 |Australia-NZ |27 |2231 | | | | | |
-|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |25 |2597 |Fixed |Circuit des 24 Heures du Mans |Thu, November 30 03:00PM EST |Thu, November 30 08:00PM GMT |Fri, December 01 07:00AM AEDT |
+|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |25 |2588 |Fixed |Circuit des 24 Heures du Mans |Fri, December 01 03:00PM EST |Fri, December 01 08:00PM GMT |Sat, December 02 07:00AM AEDT |
 |[Last Man Standing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=3745){:target="_blank"} |The LMS Ligier Challenge |North America |14 |1220 |Both | | | | |
 
 ### Porsche 963 GTP
@@ -56,19 +56,19 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
 |[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2023 Fall 963 |North America |27 |1701 |Fixed |Circuito de Jerez - Ángel Nieto |Mon, December 04 08:00PM EST |Tue, December 05 01:00AM GMT |Tue, December 05 12:00PM AEDT |
-|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA 963 East |North America |24 |1752 | |Road America |Thu, November 30 08:00PM EST |Fri, December 01 01:00AM GMT |Fri, December 01 12:00PM AEDT |
-|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA 963 West |North America |22 |2644 | |Road America |Thu, November 30 11:00PM EST |Fri, December 01 04:00AM GMT |Fri, December 01 03:00PM AEDT |
+|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA 963 East |North America |24 |1716 | | | | | |
+|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA 963 West |North America |24 |2598 | | | | | |
 
 ### Radical SR10
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |23/24 BiS Radical Cup Canada Winter Series |North America |50 |2366 |Fixed | | | | |
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |41 |2319 |Fixed | | | | |
 |[Radical Simracing \- Europe Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=7212){:target="_blank"} |World Finals |Europe |34 |3736 | | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2023 Season 4 |Europe |31 |2898 |Open |Knockhill Racing Circuit |Thu, November 30 02:15PM EST |Thu, November 30 07:15PM GMT |Fri, December 01 06:15AM AEDT |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2023 Season 4 |Europe |31 |2946 |Open | | | | |
 
 ### Radical SR8
 

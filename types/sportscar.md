@@ -33,9 +33,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|--------------|----------------------------|----------------------------|-----------------------------|
 |[American Muscle Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6810){:target="_blank"} |Season 5 |North America |46 |2401 | | | | | |
-|[BARBER FORD MUSTANG CLUB](https://members.iracing.com/membersite/member/LeagueView.do?league=3350){:target="_blank"} |Mustang Club Season 1 |North America |22 |1975 |Open | | | | |
+|[BARBER FORD MUSTANG CLUB](https://members.iracing.com/membersite/member/LeagueView.do?league=3350){:target="_blank"} |Mustang Club Season 1 |North America |22 |1975 |Open |Lime Rock Park |Fri, December 08 08:00PM EST |Sat, December 09 01:00AM GMT |Sat, December 09 12:00PM AEDT |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing \- Tuesday Mustang Muster |Australia-NZ |20 |1385 | | | | | |
 
 ### GT1 Class
@@ -58,9 +58,10 @@
 |[GSRC\.inc GT3 Pro Split \- Presented by Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2023D GT3 Pro Series |Australia-NZ |57 |2690 | | | | | |
 |[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS Div 1 & Div 2 \- Server 1 |Europe |53 |3133 | | | | | |
 |[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS Div 3 & Div 4 \- Server 2 |Europe |50 |1658 | | | | | |
+|[NARL Fixed GT3 \(PRO Division\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7824){:target="_blank"} |NARL GT3 Fixed Season 5 |North America |48 |2320 |Fixed | | | | |
 |[PRL GT3 Fixed Series \(Tuesday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3578){:target="_blank"} |PRL Tuesday GT3 Fixed Series 2023/S4 |North America |48 |1870 |Open | | | | |
 |[PRL GT3 Sprint Series \(Tuesday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3577){:target="_blank"} |PRL GT3 Sprint Series 2023/S4 |North America |48 |3715 | | | | | |
-|[FLANC GT3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7591){:target="_blank"} |FLANC GT3 Serie 2023/24 \- GT3 |Europe |47 |2889 |Fixed |Motorsport Arena Oschersleben |Thu, November 30 12:30PM EST |Thu, November 30 05:30PM GMT |Fri, December 01 04:30AM AEDT |
+|[FLANC GT3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7591){:target="_blank"} |FLANC GT3 Serie 2023/24 \- GT3 |Europe |47 |2882 |Fixed | | | | |
 |[FLANC GT3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7591){:target="_blank"} |Training |Europe |47 |None |Fixed | | | | |
 |[NERVE\-GT \[ NERVE GT3 Championship \]](https://members.iracing.com/membersite/member/LeagueView.do?league=7305){:target="_blank"} |NERVE\-GT \| 2023 |Europe |44 |2405 |Open | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 28 GT3 |North America |43 |1552 |Fixed |Nürburgring Combined |Fri, December 01 02:00PM EST |Fri, December 01 07:00PM GMT |Sat, December 02 06:00AM AEDT |
@@ -73,26 +74,27 @@
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2023/3 |South America |36 |3251 | | | | | |
 |[WGTC \(World GT Championship\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2193){:target="_blank"} |WGTC Season 14 |Europe |36 |3839 |Open | | | | |
 |[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |GT3 Challenge Season 8 |North America |33 |1798 |Both |MotorLand Aragón |Sun, December 03 08:00PM EST |Mon, December 04 01:00AM GMT |Mon, December 04 12:00PM AEDT |
+|[Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |ESR Pre\-Season 3 GT3 Championship |Europe |28 |1862 | |Brands Hatch Circuit |Thu, December 07 02:30PM EST |Thu, December 07 07:30PM GMT |Fri, December 08 06:30AM AEDT |
 |[Roush World Tour Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5075){:target="_blank"} |World Tour 2 |North America |28 |1932 | | | | | |
 |[IRB \- Heineken 0\.0 MoT Pro Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=733){:target="_blank"} |Temporada 2023 |South America |28 |4782 | | | | | |
 |[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |JNR Contender Season 8 |North America |27 |1224 |Both |MotorLand Aragón |Sun, December 03 07:00PM EST |Mon, December 04 12:00AM GMT |Mon, December 04 11:00AM AEDT |
-|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Practice |North America |26 |1605 |Both | | | | |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |ESR GT3 Trophy practice |Europe |26 |1790 | |Suzuka International Racing Course |Sun, December 03 12:00PM EST |Sun, December 03 05:00PM GMT |Mon, December 04 04:00AM AEDT |
 |[NMK eSport](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |Treninger |Europe |26 |2525 | | | | | |
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |T4\-2023 |South America |26 |3588 | | | | | |
 |[Evolution Sim Racing MONDAY PRACTICE](https://members.iracing.com/membersite/member/LeagueView.do?league=10200){:target="_blank"} |ESR Monday Social League \- Season 3 |Europe |25 |1894 | |Brands Hatch Circuit |Mon, December 04 02:30PM EST |Mon, December 04 07:30PM GMT |Tue, December 05 06:30AM AEDT |
+|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Practice |North America |24 |1666 |Both | | | | |
 |[OMEC: Osborne Motors Endurance Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9139){:target="_blank"} |OMEC \- Season 4 |North America |24 |1654 | | | | | |
 |[2023 ESR IMSA Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=4045){:target="_blank"} |2023 ESR GT3 Trophy \- Division 1 |Europe |22 |2562 |Fixed | | | | |
 |[GT3 for not so serious](https://members.iracing.com/membersite/member/LeagueView.do?league=3953){:target="_blank"} |2023 Season 4 |North America |22 |1998 | |Nürburgring Combined |Sun, December 03 10:45AM EST |Sun, December 03 03:45PM GMT |Mon, December 04 02:45AM AEDT |
 |[Evolution Sim Racing MONDAY PRACTICE](https://members.iracing.com/membersite/member/LeagueView.do?league=10200){:target="_blank"} |ESR Season 3 \- Special Events |Europe |21 |1667 | | | | | |
-|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2023\-S4 GT3 |North America |20 |1780 |Both |Nürburgring Combined |Thu, November 30 08:00PM EST |Fri, December 01 01:00AM GMT |Fri, December 01 12:00PM AEDT |
+|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2023\-S4 GT3 |North America |20 |1801 |Both | | | | |
 |[go\-RILLAS AVL RACETECH SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7714){:target="_blank"} |Season 23\.3 GT3 |Europe |20 |2015 |Fixed | | | | |
 |[ESR 911 Trophy \- Træningsserver](https://members.iracing.com/membersite/member/LeagueView.do?league=3733){:target="_blank"} |2023 ESR GT3 Trophy \- Division 2 |Europe |17 |1350 |Fixed | | | | |
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |GT3 |North America |15 |905 | | | | | |
 |[Worldwide Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6913){:target="_blank"} |WWR Season 4 GT3 |North America |14 |1594 |Open |Chicago Street Course |Tue, December 05 07:45PM EST |Wed, December 06 12:45AM GMT |Wed, December 06 11:45AM AEDT |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GT3 Sprint Practice |North America |13 |None |Open | | | | |
 |[GT3 Buds](https://members.iracing.com/membersite/member/LeagueView.do?league=10208){:target="_blank"} |season 1 |North America |13 |1304 | | | | | |
-|[Reliant Robin Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10303){:target="_blank"} |RRR Season One |Europe |10 |1260 | |Silverstone Circuit |Thu, November 30 02:30PM EST |Thu, November 30 07:30PM GMT |Fri, December 01 06:30AM AEDT |
+|[Reliant Robin Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10303){:target="_blank"} |RRR Season One |Europe |11 |1255 | |Suzuka International Racing Course |Thu, December 07 02:30PM EST |Thu, December 07 07:30PM GMT |Fri, December 08 06:30AM AEDT |
 
 ### GTE Class
 
@@ -111,12 +113,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[V8 Veterans Season 17](https://members.iracing.com/membersite/member/LeagueView.do?league=10129){:target="_blank"} |Season 17 |Australia-NZ |161 |1834 | | | | | |
-|[Virtual Belcar](https://members.iracing.com/membersite/member/LeagueView.do?league=2715){:target="_blank"} |Virtual Belcar 2023 |Europe |93 |3498 | |Circuit Zolder |Thu, November 30 01:30PM EST |Thu, November 30 06:30PM GMT |Fri, December 01 05:30AM AEDT |
+|[Virtual Belcar](https://members.iracing.com/membersite/member/LeagueView.do?league=2715){:target="_blank"} |Virtual Belcar 2023 |Europe |96 |3498 | |Circuit Zolder |Fri, December 01 01:30PM EST |Fri, December 01 06:30PM GMT |Sat, December 02 05:30AM AEDT |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2023 S4 \- GT3 Tournament |Europe |74 |2640 |Open | | | | |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2023 Fall Season |North America |69 |2324 |Both |Lime Rock Park |Wed, December 06 07:00PM EST |Thu, December 07 12:00AM GMT |Thu, December 07 11:00AM AEDT |
-|[SRW \- CAMMUS Toyota GR86 Series 2023 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |SRW \- Shannons Toyota GR86 Nationals Season 4 2023 |Australia-NZ |61 |1800 |Open |Circuit Zandvoort |Thu, November 30 02:00AM EST |Thu, November 30 07:00AM GMT |Thu, November 30 06:00PM AEDT |
+|[SRW \- CAMMUS Toyota GR86 Series 2023 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |SRW \- Shannons Toyota GR86 Nationals Season 4 2023 |Australia-NZ |61 |1791 |Open | | | | |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 5 |Europe |59 |2699 |Fixed | | | | |
 |[Southern Cross E\-Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=7490){:target="_blank"} |RaceKraft Simulations Summer Elantra Championship 2023/24 |Australia-NZ |56 |2274 | | | | | |
 |[AOG Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5005){:target="_blank"} |Season 8 |Australia-NZ |53 |3484 |Open | | | | |
@@ -124,8 +126,8 @@
 |[Aspire Racing Team \- League](https://members.iracing.com/membersite/member/LeagueView.do?league=10173){:target="_blank"} |ART GT3 SERIES IN PARTNERSHIP WITH INGEAR MOTORSPORT \- SEASON 2 |Europe |52 |1917 | |Nürburgring Combined |Tue, December 05 01:30PM EST |Tue, December 05 06:30PM GMT |Wed, December 06 05:30AM AEDT |
 |[Roadster Rumble \- Simagic Showroom Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |Season 10 |Australia-NZ |50 |1774 | | | | | |
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |SIMRIGS PRAC AND OPEN QUALIFYING V8 AMS |Australia-NZ |47 |1732 |Open | | | | |
-|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 Fall Touring |North America |46 |2299 |Open | | | | |
 |[Danish International GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9674){:target="_blank"} |Season 1 |Europe |46 |1920 |Open | | | | |
+|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 Fall Touring |North America |46 |2299 |Open | | | | |
 |[Supercheap Auto East Coast V8 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3008){:target="_blank"} |Season 8 |Australia-NZ |46 |2917 |Open | | | | |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |NXTCC test session |Europe |44 |2684 |Fixed | | | | |
 |[PWA GT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9269){:target="_blank"} |PWA GTC Season 2 |Europe |44 |2805 | | | | | |
@@ -147,13 +149,13 @@
 |[ORNL 500](https://members.iracing.com/membersite/member/LeagueView.do?league=9724){:target="_blank"} |ORNL MJK Mazda Cup S'23 S2 |Europe |29 |1990 | |Oulton Park Circuit |Wed, December 06 02:00PM EST |Wed, December 06 07:00PM GMT |Thu, December 07 06:00AM AEDT |
 |[Savants Only](https://members.iracing.com/membersite/member/LeagueView.do?league=9936){:target="_blank"} |Season 2 |North America |28 |2263 |Fixed | | | | |
 |[\#0 OSRL GT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9821){:target="_blank"} |Season 2 |North America |27 |1601 |Fixed | | | | |
-|[Virtual Skylimit Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4824){:target="_blank"} |Virtual Belcar Skylimit Sprint Cup 2023 |Europe |26 |2074 | |Circuit Zolder |Thu, November 30 01:30PM EST |Thu, November 30 06:30PM GMT |Fri, December 01 05:30AM AEDT |
+|[Virtual Skylimit Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4824){:target="_blank"} |Virtual Belcar Skylimit Sprint Cup 2023 |Europe |27 |2074 | |Circuit Zolder |Fri, December 01 01:30PM EST |Fri, December 01 06:30PM GMT |Sat, December 02 05:30AM AEDT |
 |[Fendi Racing eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=9080){:target="_blank"} |Season 3 Pro Am |North America |25 |1626 |Open | | | | |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |GT3 Fixed Season 4 |Europe |25 |1918 |Fixed | | | | |
-|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |25 |1817 | |Summit Point Raceway |Thu, November 30 07:45PM EST |Fri, December 01 12:45AM GMT |Fri, December 01 11:45AM AEDT |
+|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |25 |1826 | |Road Atlanta |Mon, December 04 09:00PM EST |Tue, December 05 02:00AM GMT |Tue, December 05 01:00PM AEDT |
+|[Old Mate Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7571){:target="_blank"} |Old Mate Season 9 |Australia-NZ |24 |1448 |Both |Willow Springs International Raceway |Thu, December 07 03:30AM EST |Thu, December 07 08:30AM GMT |Thu, December 07 07:30PM AEDT |
 |[Virtual Belcar \- Open](https://members.iracing.com/membersite/member/LeagueView.do?league=4089){:target="_blank"} |Virtual Belcar Training |Europe |24 |None |Open | | | | |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Action Racing Series GT\-3 IMSA Road \| Season 1 |North America |23 |1306 |Fixed | | | | |
-|[Old Mate Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7571){:target="_blank"} |Old Mate Season 9 |Australia-NZ |23 |1438 |Both |MotorLand Aragón |Thu, November 30 03:30AM EST |Thu, November 30 08:30AM GMT |Thu, November 30 07:30PM AEDT |
 |[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Track Days |Europe |22 |None |Both | | | | |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Road2Alien |North America |20 |1901 | |Nürburgring Combined |Sun, December 03 09:00PM EST |Mon, December 04 02:00AM GMT |Mon, December 04 01:00PM AEDT |
 |[DynamiXX Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5842){:target="_blank"} |DWS Cup |Europe |20 |2980 | |Daytona International Speedway |Fri, December 01 02:00PM EST |Fri, December 01 07:00PM GMT |Sat, December 02 06:00AM AEDT |
@@ -167,14 +169,15 @@
 |[Dahara](https://members.iracing.com/membersite/member/LeagueView.do?league=6798){:target="_blank"} |DGTL Season 5 |Europe |17 |2852 |Open | | | | |
 |[ChampCar iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2580){:target="_blank"} |2023 ChampCar iRacing Series: Practice Rounds |North America |16 |1545 |Fixed | | | | |
 |[GHD GR86 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=9677){:target="_blank"} |Saison 2023\-2 |Europe |16 |2790 | | | | | |
-|[Lucky Dog Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7985){:target="_blank"} |Season 4 \- Fall 2023 Road Racing |North America |16 |1379 | |Mount Panorama Circuit |Thu, November 30 08:30PM EST |Fri, December 01 01:30AM GMT |Fri, December 01 12:30PM AEDT |
+|[Lucky Dog Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7985){:target="_blank"} |Season 4 \- Fall 2023 Road Racing |North America |16 |1364 | |Road Atlanta |Thu, December 07 08:30PM EST |Fri, December 08 01:30AM GMT |Fri, December 08 12:30PM AEDT |
 |[Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |2023 Precision Intl National Sports Sedan Series |Australia-NZ |16 |1656 | | | | | |
 |[Colorado Karting Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=4619){:target="_blank"} |2023 CKT iRacing Winter Series |North America |15 |1608 |Fixed |Lime Rock Park |Sun, December 03 09:30PM EST |Mon, December 04 02:30AM GMT |Mon, December 04 01:30PM AEDT |
 |[Chop Shop Racing GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=9730){:target="_blank"} |Chop Shop GT3 Racing |North America |14 |1466 | | | | | |
 |[Premier Endurance League United Kingdom](https://members.iracing.com/membersite/member/LeagueView.do?league=9889){:target="_blank"} |PREMIER ENDURANCE LEAGUE UK GT3 CHAMPIONSHIP: SEASON 1 |Europe |14 |2190 | | | | | |
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |SIMRIGS TOP 10 SHOOT OUT V8 AMS |Australia-NZ |14 |2002 |Open | | | | |
 |[Supercheap Auto East Coast V8 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3008){:target="_blank"} |Season 7 |Australia-NZ |14 |2849 |Open | | | | |
-|[Racing Club International](https://members.iracing.com/membersite/member/LeagueView.do?league=8142){:target="_blank"} |Road Season 2 |Europe |11 |2208 |Both |Road Atlanta |Thu, November 30 02:00PM EST |Thu, November 30 07:00PM GMT |Fri, December 01 06:00AM AEDT |
+|[ORNL Manufacturer Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5652){:target="_blank"} |Street Car League 2023 |Europe |12 |2144 |Open |Detroit Grand Prix at Belle Isle |Thu, December 07 02:00PM EST |Thu, December 07 07:00PM GMT |Fri, December 08 06:00AM AEDT |
+|[Racing Club International](https://members.iracing.com/membersite/member/LeagueView.do?league=8142){:target="_blank"} |Road Season 2 |Europe |11 |2248 |Both | | | | |
 |[Sunday GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=6037){:target="_blank"} |VRC GT MASTERS 2023 |Europe |11 |2908 |Open | | | | |
 
 ### IMPCGT4 Class
@@ -184,8 +187,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023D Orbic GT4 Challenge |Australia-NZ |68 |2335 |Both | | | | |
-|[VSR \- NASCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9177){:target="_blank"} |Odyssey GT4 Series \| Powered by Oázis Computer |Europe |60 |2603 | |Nürburgring Grand-Prix-Strecke |Thu, November 30 01:00PM EST |Thu, November 30 06:00PM GMT |Fri, December 01 05:00AM AEDT |
-|[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S17 \- GT4 |North America |49 |1988 |Both |Silverstone Circuit |Thu, November 30 06:40PM EST |Thu, November 30 11:40PM GMT |Fri, December 01 10:40AM AEDT |
+|[VSR \- NASCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9177){:target="_blank"} |Odyssey GT4 Series \| Powered by Oázis Computer |Europe |61 |2587 | |Nürburgring Grand-Prix-Strecke |Fri, December 01 01:00PM EST |Fri, December 01 06:00PM GMT |Sat, December 02 05:00AM AEDT |
+|[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S17 \- GT4 |North America |50 |2002 |Both | | | | |
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |Training |Europe |46 |None |Fixed |Circuit de Nevers Magny-Cours |Fri, December 01 01:00PM EST |Fri, December 01 06:00PM GMT |Sat, December 02 05:00AM AEDT |
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |FLANC Club Serie 2023/24 \- GT4 |Europe |45 |1647 |Fixed | | | | |
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |FLANC Club Serie 2023/24 \- F4 |Europe |44 |1532 |Fixed | | | | |
@@ -203,8 +206,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
-|[Rub and Tug Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5338){:target="_blank"} |Give Your Balls a Tug Fall 2023 |North America |17 |1558 | |Circuit de Spa-Francorchamps |Thu, November 30 07:00PM EST |Fri, December 01 12:00AM GMT |Fri, December 01 11:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[Rub and Tug Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5338){:target="_blank"} |Give Your Balls a Tug Fall 2023 |North America |17 |1586 | |Circuit des 24 Heures du Mans |Thu, December 07 07:00PM EST |Fri, December 08 12:00AM GMT |Fri, December 08 11:00AM AEDT |
 
 ### Lamborghini Huracán GT3 EVO
 
@@ -227,7 +230,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |DIVISION ONE |Europe |48 |3271 |Fixed | | | | |
 |[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |DIVISION TWO |Europe |45 |1486 |Fixed | | | | |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 Fall MX5 |North America |44 |2278 |Open | | | | |
@@ -236,20 +239,21 @@
 |[ACR MX5 Triple Threat Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=6835){:target="_blank"} |ACR iRacing MX5 League |Europe |34 |2118 |Fixed | | | | |
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2023/3 |South America |34 |2083 | | | | | |
 |[Spec\-5 World Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=3784){:target="_blank"} |Spec\-5 World Tour Season 14 |North America |34 |2896 |Fixed | | | | |
+|[BRSCC Winter eSports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9071){:target="_blank"} |BRSCC Winter eSports Series 2023\-24 |Europe |33 |2469 | | | | | |
 |[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT Rookie Championship |North America |33 |1383 |Fixed |Charlotte Motor Speedway |Tue, December 05 08:54AM EST |Tue, December 05 01:54PM GMT |Wed, December 06 12:54AM AEDT |
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T4\-2023 |South America |33 |2330 | |Okayama International Circuit |Wed, December 06 04:00PM EST |Wed, December 06 09:00PM GMT |Thu, December 07 08:00AM AEDT |
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |Autumn Series\-23 |Europe |29 |1502 | | | | | |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 1 MX\-5 Challenge |North America |25 |1701 |Fixed |Lime Rock Park |Thu, November 30 08:55PM EST |Fri, December 01 01:55AM GMT |Fri, December 01 12:55PM AEDT |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 1 MX\-5 Challenge |North America |27 |1712 |Fixed | | | | |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |NDSE Season 1 2023 |North America |24 |None |Both | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |MX\-5 Series Season 1 |North America |21 |1474 |Fixed |Oran Park Raceway |Mon, December 04 08:30PM EST |Tue, December 05 01:30AM GMT |Tue, December 05 12:30PM AEDT |
 |[Varano iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3717){:target="_blank"} |Mazda MX\-5 Championship \(FREE\) |Europe |18 |2346 |Fixed | | | | |
 |[UK SimRacing Community \- MX5 League Season 4](https://members.iracing.com/membersite/member/LeagueView.do?league=7891){:target="_blank"} |UKSR MX5 Season 5 |Europe |15 |2476 | | | | | |
 |[Association for Competitive Online Gaming](https://members.iracing.com/membersite/member/LeagueView.do?league=1874){:target="_blank"} |ACOG Mazda MX\-5 Cup S1 |North America |14 |1028 |Fixed | | | | |
 |[Steel Racing Federation \(SRF\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4028){:target="_blank"} |2023 SRF MX\-5 Cup Series |North America |13 |2027 | | | | | |
-|[Florida Bimmers iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10381){:target="_blank"} |FBDG iRacing Season 1 |North America |12 |1164 | |Sebring International Raceway |Thu, November 30 08:45PM EST |Fri, December 01 01:45AM GMT |Fri, December 01 12:45PM AEDT |
+|[Florida Bimmers iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10381){:target="_blank"} |FBDG iRacing Season 1 |North America |12 |1167 | | | | | |
 |[ChampCar iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2580){:target="_blank"} |2023 Endurance Practice |North America |11 |1828 |Fixed | | | | |
 |[MX5 BENELUX Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9383){:target="_blank"} |MX5 BENELUX Series |Europe |11 |1606 |Fixed | | | | |
-|[GT3 Buds](https://members.iracing.com/membersite/member/LeagueView.do?league=10208){:target="_blank"} |MX5 Cup |North America |11 |1331 | | | | | |
+|[GT3 Buds](https://members.iracing.com/membersite/member/LeagueView.do?league=10208){:target="_blank"} |MX5 Cup |North America |11 |1349 | | | | | |
 |[TGT Motor Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10298){:target="_blank"} |Global Mazda MX\-5 Fanatec Cup |North America |10 |1157 | |Okayama International Circuit |Sat, December 02 09:30PM EST |Sun, December 03 02:30AM GMT |Sun, December 03 01:30PM AEDT |
 
 ### Porsche 911 GT3 Cup (992)
@@ -257,10 +261,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|----------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 9 |Europe |60 |4579 | | | | | |
-|[GSRC\.inc Porsche Cup \- Blackout Electrical Solutions](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2023D Porsche Cup |Australia-NZ |52 |2497 | |Phillip Island Circuit |Thu, November 30 03:28AM EST |Thu, November 30 08:28AM GMT |Thu, November 30 07:28PM AEDT |
-|[UK SimRacing Community \- Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6897){:target="_blank"} |Season 8 |Europe |42 |2660 |Open | | | | |
+|[GSRC\.inc Porsche Cup \- Blackout Electrical Solutions](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2023D Porsche Cup |Australia-NZ |52 |2504 | | | | | |
+|[UK SimRacing Community \- Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6897){:target="_blank"} |Season 8 |Europe |42 |2651 |Open | | | | |
 |[PESCP 2023 \- KWALIFIKACJE](https://members.iracing.com/membersite/member/LeagueView.do?league=10281){:target="_blank"} |PESCP 2023 \- Kwalifikacje |Europe |39 |3983 |Fixed | | | | |
 |[PESC \- Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7282){:target="_blank"} |2023 Contender Season |Europe |32 |8284 | | | | | |
 |[Porsche Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |Season 6\.5 Euro/Global |Europe |25 |2900 |Open | | | | |
@@ -276,12 +280,12 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA GT3R East |North America |85 |1562 | |Road America |Thu, November 30 08:00PM EST |Fri, December 01 01:00AM GMT |Fri, December 01 12:00PM AEDT |
-|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA GT3R West |North America |43 |1561 | |Road America |Thu, November 30 11:00PM EST |Fri, December 01 04:00AM GMT |Fri, December 01 03:00PM AEDT |
+|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA GT3R East |North America |89 |1564 | | | | | |
+|[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA GT3R West |North America |46 |1574 | | | | | |
 |[PCGB Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4489){:target="_blank"} |PCGB Season 7 |Europe |32 |1678 | | | | | |
 |[PCGB Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4489){:target="_blank"} |PCGB season 7 mid week fun |Europe |23 |1677 | | | | | |
 |[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2023\-2 |North America |22 |1869 |Open |Daytona International Speedway |Mon, December 04 07:45PM EST |Tue, December 05 12:45AM GMT |Tue, December 05 11:45AM AEDT |
-|[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2023 Practice |North America |18 |1591 |Open |Daytona International Speedway |Thu, November 30 08:30PM EST |Fri, December 01 01:30AM GMT |Fri, December 01 12:30PM AEDT |
+|[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2023 Practice |North America |18 |1592 |Open |Daytona International Speedway |Fri, December 01 08:30PM EST |Sat, December 02 01:30AM GMT |Sat, December 02 12:30PM AEDT |
 
 ### Porsche Mission R
 
@@ -312,7 +316,7 @@
 |[SuperCars NZ V8 Championship season 1 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |ALLPORTS V8 CHAMPIONSHIP DIV ONE |Australia-NZ |44 |2199 | |Chicago Street Course |Tue, December 05 01:00AM EST |Tue, December 05 06:00AM GMT |Tue, December 05 05:00PM AEDT |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Imports \- Supercars Championship S2 \(2023\) |Australia-NZ |35 |1475 |Both |Winton Motor Raceway |Mon, December 04 03:30AM EST |Mon, December 04 08:30AM GMT |Mon, December 04 07:30PM AEDT |
 |[Australasian Supercar eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=5586){:target="_blank"} |ASE Season 7 |Australia-NZ |35 |1911 |Fixed | | | | |
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing \- V8 Champions Challenge |Australia-NZ |27 |1313 | | | | | |
+|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing \- V8 Champions Challenge |Australia-NZ |27 |1319 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday Night series 3 |Australia-NZ |24 |1381 | | | | | |
 |[Simability V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=713){:target="_blank"} |Season 14 \(Simability\) |Europe |20 |3115 |Open |Chicago Street Course |Sat, December 02 01:00PM EST |Sat, December 02 06:00PM GMT |Sun, December 03 05:00AM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Carz Ovals |Australia-NZ |19 |1135 | | | | | |
@@ -327,21 +331,21 @@
 |[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC S9 |North America |52 |2681 |Open |Circuit Zolder |Mon, December 04 06:45PM EST |Mon, December 04 11:45PM GMT |Tue, December 05 10:45AM AEDT |
 |[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2023/3 |South America |41 |3168 | | | | | |
 |[SRL Community TCR League](https://members.iracing.com/membersite/member/LeagueView.do?league=8871){:target="_blank"} |JPB American Tour Championship |Europe |38 |2444 | |Daytona International Speedway |Fri, December 01 03:00PM EST |Fri, December 01 08:00PM GMT |Sat, December 02 07:00AM AEDT |
-|[TCR Series by EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |ETCR Challenge S08 |North America |38 |1706 |Fixed |Charlotte Motor Speedway |Thu, November 30 06:15PM EST |Thu, November 30 11:15PM GMT |Fri, December 01 10:15AM AEDT |
+|[TCR Series by EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |ETCR Challenge S08 |North America |38 |1713 |Fixed | | | | |
 |[ACI ESPORT Turismo](https://members.iracing.com/membersite/member/LeagueView.do?league=7843){:target="_blank"} |CI ACI ESPORT TOURING CAR |Europe |36 |2753 | |Circuit Zolder |Tue, December 05 02:30PM EST |Tue, December 05 07:30PM GMT |Wed, December 06 06:30AM AEDT |
 |[Virtual Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9493){:target="_blank"} |VTCS Season 5 |Europe |35 |2166 |Fixed |Circuit Gilles Villeneuve |Sun, December 03 01:00PM EST |Sun, December 03 06:00PM GMT |Mon, December 04 05:00AM AEDT |
 |[ADAC SimRacing Cup \- TC Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10098){:target="_blank"} |TC Cup |Europe |33 |2025 | | | | | |
 |[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |TCR Cup \| Season 3 |Africa |32 |1807 |Both | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |TCR Season 2 |Europe |31 |2039 |Both |Knockhill Racing Circuit |Sun, December 03 03:00PM EST |Sun, December 03 08:00PM GMT |Mon, December 04 07:00AM AEDT |
-|[\#CVNE 1ª Div](https://members.iracing.com/membersite/member/LeagueView.do?league=10212){:target="_blank"} |\#CVNE 2023 |Europe |29 |4302 | |Circuit de Barcelona Catalunya |Thu, November 30 02:35PM EST |Thu, November 30 07:35PM GMT |Fri, December 01 06:35AM AEDT |
+|[\#CVNE 1ª Div](https://members.iracing.com/membersite/member/LeagueView.do?league=10212){:target="_blank"} |\#CVNE 2023 |Europe |29 |4321 | | | | | |
 |[THE SHOW Community](https://members.iracing.com/membersite/member/LeagueView.do?league=9473){:target="_blank"} |Season 1 |North America |29 |1520 |Open |Watkins Glen International |Sun, December 03 07:00PM EST |Mon, December 04 12:00AM GMT |Mon, December 04 11:00AM AEDT |
 |[CPVE \- Divisão 1](https://members.iracing.com/membersite/member/LeagueView.do?league=7547){:target="_blank"} |2023 |Europe |29 |4050 | | | | | |
-|[SRL Community TCR League](https://members.iracing.com/membersite/member/LeagueView.do?league=8871){:target="_blank"} |Practice Sessions |Europe |28 |None | |Daytona International Speedway |Thu, November 30 02:00PM EST |Thu, November 30 07:00PM GMT |Fri, December 01 06:00AM AEDT |
+|[SRL Community TCR League](https://members.iracing.com/membersite/member/LeagueView.do?league=8871){:target="_blank"} |Practice Sessions |Europe |28 |None | | | | | |
 |[CPVE \- Divisão 2](https://members.iracing.com/membersite/member/LeagueView.do?league=7548){:target="_blank"} |2023 |Europe |28 |2370 | | | | | |
 |[FunCup](https://members.iracing.com/membersite/member/LeagueView.do?league=9876){:target="_blank"} |COPA DESAFÍO 2023 |North America |21 |1977 | | | | | |
 |[TCR Series by EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |Pratique officielle |North America |20 |None |Fixed | | | | |
 |[WTCS \(World TCR Series\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2279){:target="_blank"} |WTCS \- SEASON 4 |Europe |20 |4864 | | | | | |
-|[Apollo Racing Club \- Thursday Night League](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |TCARC Season 2 |North America |17 |1710 |Open |Red Bull Ring |Thu, November 30 08:00PM EST |Fri, December 01 01:00AM GMT |Fri, December 01 12:00PM AEDT |
+|[Apollo Racing Club \- Thursday Night League](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |TCARC Season 2 |North America |19 |1680 |Open | | | | |
 |[CPVE \- Divisão 3](https://members.iracing.com/membersite/member/LeagueView.do?league=7549){:target="_blank"} |2023 |Europe |17 |1348 | | | | | |
 |[SRP \- SimRacing Portugal \(Special events\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4399){:target="_blank"} |Practice Sessions |Europe |15 |2137 | | | | | |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |TCR Cup |Europe |14 |1812 | |WeatherTech Raceway at Laguna Seca |Fri, December 01 05:00PM EST |Fri, December 01 10:00PM GMT |Sat, December 02 09:00AM AEDT |
@@ -355,10 +359,10 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|----------------------|----------------------------|----------------------------|-----------------------------|
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2023/3 |South America |35 |2404 | | | | | |
-|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |Copa Toyota |North America |30 |1490 | | | | | |
-|[SRW \- CAMMUS Toyota GR86 Series 2023 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 4 Monday Night Practice |Australia-NZ |30 |1722 |Open |Circuit Zandvoort |Thu, November 30 02:00AM EST |Thu, November 30 07:00AM GMT |Thu, November 30 06:00PM AEDT |
-|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |GR86 Piston Cup S2 |North America |29 |1272 |Both |Phillip Island Circuit |Sat, December 02 08:00PM EST |Sun, December 03 01:00AM GMT |Sun, December 03 12:00PM AEDT |
+|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |Copa Toyota |North America |30 |1490 | |Oran Park Raceway |Sun, December 03 07:00PM EST |Mon, December 04 12:00AM GMT |Mon, December 04 11:00AM AEDT |
+|[SRW \- CAMMUS Toyota GR86 Series 2023 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 4 Monday Night Practice |Australia-NZ |29 |1755 |Open | | | | |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso GR86 Season 6 |Europe |28 |1750 | |Snetterton Circuit |Sun, December 03 03:00PM EST |Sun, December 03 08:00PM GMT |Mon, December 04 07:00AM AEDT |
+|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |GR86 Piston Cup S2 |North America |27 |1300 |Both |Phillip Island Circuit |Sat, December 02 08:00PM EST |Sun, December 03 01:00AM GMT |Sun, December 03 12:00PM AEDT |
 |[simRacingPR Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4040){:target="_blank"} |2023 S2 \- SIMRACINGPR GR86 CUP |North America |23 |1938 |Fixed | | | | |
 |[NASA GR86 Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |2023 |North America |20 |1922 |Fixed | | | | |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Spotter On S2 |Europe |20 |1887 | | | | | |
@@ -398,8 +402,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |GSRC\.INC SUPERCARS 2023D |Australia-NZ |79 |1540 |Both | | | | |
 |[GSRC\.inc V8SC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2023D Super2 Challenge |Australia-NZ |49 |2345 | | | | | |
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |PISSTON CUP |Australia-NZ |42 |1510 |Both | | | | |
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |PISSTON CUP |Australia-NZ |42 |1510 |Both |Summit Point Raceway |Fri, December 01 02:00AM EST |Fri, December 01 07:00AM GMT |Fri, December 01 06:00PM AEDT |
 

@@ -150,8 +150,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL/RXP IMSA Multicalss T9 |South America |48 |2230 | |Silverstone Circuit |Mon, December 04 04:30PM EST |Mon, December 04 09:30PM GMT |Tue, December 05 08:30AM AEDT |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |39 |2348 | | | | | |
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Champion 2023 |South America |21 |2330 | |Daytona Rallycross and Dirt Road |Thu, November 30 05:30PM EST |Thu, November 30 10:30PM GMT |Fri, December 01 09:30AM AEDT |
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Champion 2023 |South America |24 |2046 | |USA International Speedway |Thu, December 07 05:30PM EST |Thu, December 07 10:30PM GMT |Fri, December 08 09:30AM AEDT |
 
