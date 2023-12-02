@@ -21,6 +21,14 @@
 |-----------------------------------------------------------------------------------------------------------|--------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Road N' Plate](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} |Season 1 | |Daytona International Speedway |Thu, December 07 08:00PM EST |Fri, December 08 01:00AM GMT |Fri, December 08 12:00PM AEDT |
 
+### Whelen Modified
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[WYOMING IRACING CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=10237){:target="_blank"} |wyoming whelen modified tour | |Nashville Fairgrounds Speedway |Mon, December 04 09:29PM EST |Tue, December 05 02:29AM GMT |Tue, December 05 01:29PM AEDT |
+
 # Oval
 
 ### Hosted All Cars Class
@@ -38,6 +46,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
 |[Maximum Velocity Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1262){:target="_blank"} |2023 Practice races |Fixed |Five Flags Speedway |Sun, December 03 07:30PM EST |Mon, December 04 12:30AM GMT |Mon, December 04 11:30AM AEDT |
+
+### Legends
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends: Spartan 300 | |USA International Speedway |Sat, December 02 09:30AM EST |Sat, December 02 02:30PM GMT |Sun, December 03 01:30AM AEDT |
 
 # Open-wheel
 
@@ -58,15 +74,15 @@
 |----------------------------------------------------------------------------------------------------------------------------------|-------------------|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
 |[FormulaNXT \- Racer First Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10426){:target="_blank"} |Season 1 2023\-2024 |Fixed |Barber Motorsports Park |Sat, December 02 06:30PM EST |Sat, December 02 11:30PM GMT |Sun, December 03 10:30AM AEDT |
 
-### Lotus 79
+# Sports Car
+
+### GT1 Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Classic Interdicted Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1381){:target="_blank"} |Winter Series 2023\-2024 |Open |[Legacy] Pocono Raceway - 2009 |Fri, December 01 02:00PM EST |Fri, December 01 07:00PM GMT |Sat, December 02 06:00AM AEDT |
-
-# Sports Car
+|--------------------------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------|----------------------------|----------------------------|-----------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |Monthly Special Events |Both |Mount Panorama Circuit |Sat, December 02 03:00AM EST |Sat, December 02 08:00AM GMT |Sat, December 02 07:00PM AEDT |
 
 ### Hosted All Cars Class
 
@@ -127,16 +143,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|-----------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |CRL Week 13 |Both |Canadian Tire Motorsports Park |Tue, December 05 08:00PM EST |Wed, December 06 01:00AM GMT |Wed, December 06 12:00PM AEDT |
-
-# Dirt Road
-
-### Pro 4 Truck
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Off Season Pro 4 Showdown 2023/24 | |Cedar Lake Speedway |Fri, December 01 05:00AM EST |Fri, December 01 10:00AM GMT |Fri, December 01 09:00PM AEDT |
 
 # Multi-class/Unclassified
 

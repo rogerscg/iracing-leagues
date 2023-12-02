@@ -6,6 +6,7 @@
 |[Ascension GT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10441){:target="_blank"} | | |
 |[Bliss VR Society](https://members.iracing.com/membersite/member/LeagueView.do?league=10420){:target="_blank"} | |Racing for people with different abilities |
 |[CFPM Sampaio](https://members.iracing.com/membersite/member/LeagueView.do?league=10442){:target="_blank"} | | |
+|[Eelt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10446){:target="_blank"} | | |
 |[F4 US Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10414){:target="_blank"} | |We go to most F4 US Tracks |
 |[Fast Cars and Fast Women](https://members.iracing.com/membersite/member/LeagueView.do?league=10400){:target="_blank"} | |Hard Charging, But Respectful |
 |[Formula Vee Heaven\!](https://members.iracing.com/membersite/member/LeagueView.do?league=10424){:target="_blank"} |[Discord](https://discord.gg/EaG4a9zX){:target="_blank"} |Formula Vee |
@@ -14,7 +15,6 @@
 |[Ignition Racing League NCH Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10438){:target="_blank"} | |B Class Open setup series |
 |[Ignition Racing League Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10439){:target="_blank"} | |C Class Fixed setup series |
 |[International Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10419){:target="_blank"} | | |
-|[Iracing Bennetts League](https://members.iracing.com/membersite/member/LeagueView.do?league=10397){:target="_blank"} | |Friendly fun league for old and young to gain experience and knowledge |
 |[IRACING SPRINT LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10404){:target="_blank"} | | |
 |[KHR](https://members.iracing.com/membersite/member/LeagueView.do?league=10402){:target="_blank"} | |Dirt/Asphalt |
 |[League FCD](https://members.iracing.com/membersite/member/LeagueView.do?league=10399){:target="_blank"} | |Notre communauté vise à rassembler des gens qui partagent l’amour de la course tout en s’amusant et en maintenant un esprit de compétition\. Nous sommes fiers d’être amicaux et inclusifs, et accueillons tous les niveaux de compétence et d’expérience\. Nous croyons que la course peut être à la fois sérieuse et agréable, et nous nous efforçons de créer un environnement où nos membres peuvent améliorer leurs compétences tout en construisant des amitiés et un sens de la communauté\. |
@@ -23,10 +23,11 @@
 |[matt](https://members.iracing.com/membersite/member/LeagueView.do?league=10434){:target="_blank"} | | |
 |[Mid\-Atlantic Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10440){:target="_blank"} | | |
 |[NASA Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10408){:target="_blank"} | |This is a special events league for NASA and ASN\. Drivers are subject to removal once the event is complete\. |
+|[Northern European Esports Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=10443){:target="_blank"} | |Qualify for the Clash of Nations races\! |
 |[OGL League](https://members.iracing.com/membersite/member/LeagueView.do?league=10427){:target="_blank"} | |Gamle mænd i gamle biler |
 |[Old Money Racing SLM](https://members.iracing.com/membersite/member/LeagueView.do?league=10410){:target="_blank"} | |Open Setup Super Late Model League |
+|[Old Timers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} | | |
 |[pass](https://members.iracing.com/membersite/member/LeagueView.do?league=10411){:target="_blank"} | |slm |
-|[perry](https://members.iracing.com/membersite/member/LeagueView.do?league=10398){:target="_blank"} | | |
 |[Porkkanaliiga](https://members.iracing.com/membersite/member/LeagueView.do?league=10422){:target="_blank"} | | |
 |[Pro Esports NASCAR Iracing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10406){:target="_blank"} | | |
 |[RaceCommunity\.nl \- Seizoen \#1 \- 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10415){:target="_blank"} | |Join onze league en maak kans op mooie prijzen   Discord: dsg\.gg/racecommunity |
@@ -41,6 +42,7 @@
 |[Turn2 Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=10417){:target="_blank"} | |New League trying to find its footing in the world of esports |
 |[Virtual Racing Expierence](https://members.iracing.com/membersite/member/LeagueView.do?league=10401){:target="_blank"} | | |
 |[Warrior Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10436){:target="_blank"} | | |
+|[YR2V \- Grand Final](https://members.iracing.com/membersite/member/LeagueView.do?league=10445){:target="_blank"} | | |
 |[2024 Gen 4 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10409){:target="_blank"} | |O'Quinn / Callahan |
 |[AussieOutlaws Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10425){:target="_blank"} | |Cup Car racing On a Saturday night |
 |[Mazda MX\-5 Club Vic Tas iRacing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10429){:target="_blank"} | |Mazda MX\-5 Vic Tas & Associated Australian MX\-5 Clubs battle out in MX\-5 Cup cars across tracks both domestically and overseas\. |
