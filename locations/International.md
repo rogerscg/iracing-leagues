@@ -18,7 +18,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
 |[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |25 |1826 | |Road Atlanta |Mon, December 04 09:00PM EST |Tue, December 05 02:00AM GMT |Tue, December 05 01:00PM AEDT |
-|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 13 \- BMW |International |19 |1652 | | | | | |
 
