@@ -1,23 +1,13 @@
 * TOC  
 {:toc}
 
-# Open-wheel
-
-### FIA F4
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[GPEsportsRD](https://members.iracing.com/membersite/member/LeagueView.do?league=9168){:target="_blank"} |Open Wheel Challenge |International |11 |2511 | | | | | |
-
 # Sports Car
 
-### Hosted All Cars Class
+### Toyota GR86
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
-|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |25 |1826 | |Road Atlanta |Mon, December 04 09:00PM EST |Tue, December 05 02:00AM GMT |Tue, December 05 01:00PM AEDT |
+|---------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |21 |1877 | | | | | |
 
