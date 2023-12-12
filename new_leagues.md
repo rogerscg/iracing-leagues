@@ -17,7 +17,6 @@
 |[DT Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10454){:target="_blank"} | | |
 |[Eelt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10446){:target="_blank"} | | |
 |[Elevated Television Modified Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10476){:target="_blank"} | | |
-|[FormulaNXT \- Racer First Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10426){:target="_blank"} |[Discord](https://discord.gg/kt2ebNUVKt){:target="_blank"} |IndyNXT inspired series using the F4 car\. Hosted by Racer First Sim Racing |
 |[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} | |We are an Over 40 league |
 |[GT3\.life](https://members.iracing.com/membersite/member/LeagueView.do?league=10466){:target="_blank"} | | |
 |[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10459){:target="_blank"} |[Discord](https://discord.gg/T5XWRk4z2g){:target="_blank"} |Happy Hour Racing: Where every lap is a celebration, and every race is a chance to make friends on and off the track\.   Discord Link:  https://discord\.gg/T5XWRk4z2g |
@@ -29,12 +28,15 @@
 |[LZYRBL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10435){:target="_blank"} | |LZYRBL Racing offers many road racing opportunities from formula 1600 to a WEC style endurance championship\. We are working to get more people joined up to start hosting league sessions |
 |[matt](https://members.iracing.com/membersite/member/LeagueView.do?league=10434){:target="_blank"} | | |
 |[Mid\-Atlantic Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10440){:target="_blank"} | | |
+|[MMC \*Unofficial\*](https://members.iracing.com/membersite/member/LeagueView.do?league=10485){:target="_blank"} | |For MMC members and their friends |
 |[NorthEast Modifieds](https://members.iracing.com/membersite/member/LeagueView.do?league=10450){:target="_blank"} |[Discord](https://discord.gg/pr4QJfTP){:target="_blank"} |Tour Modified league based in the NorthEast\. Join the discord\! https://discord\.gg/pr4QJfTP |
 |[Northern European Esports Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=10443){:target="_blank"} | |Qualify for the Clash of Nations races\! |
+|[OG Racing League Enduro](https://members.iracing.com/membersite/member/LeagueView.do?league=10483){:target="_blank"} |[Discord](https://discord.gg/KGkWdzbq){:target="_blank"} |OG Racing League Enduro Series, is meant to be a place for Figure 8 and Enduro style racing fans\. We will use the LMSC, SS, SLM in a duel on Figure 8's with the Oval Enduro's taking place with the SS or LMSC things can be changed up\. OG Racing League Enduro series is part of OG Racing League so feel free to come join there as well\. |
 |[OGL League](https://members.iracing.com/membersite/member/LeagueView.do?league=10427){:target="_blank"} | |Gamle mænd i gamle biler |
 |[Orion Little League](https://members.iracing.com/membersite/member/LeagueView.do?league=10452){:target="_blank"} | |This league will follow an official racing series for every season\. The seasons that are in the winter will be every week and seasons in the spring, summer and fall will likely have weeks off\.   This league will use Modern Grand Prix points system \(P1\=25, P2\=18, P3\=15, P4\=12, P5\=10, P6\=8, P7\=6, P8\=4, P9\=2, P10\=1\) and the lowest 2 races will be dropped from the season total\. There is also a bonus point every race for fastest lap\. |
 |[Oxford Thursday Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=10461){:target="_blank"} | |Late model run like a typical Saturday night show |
 |[Pitwall Podcast Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10463){:target="_blank"} |[Discord](https://discord.gg/cBb5Afg8Mq){:target="_blank"} |Discord Invite\-https://discord\.gg/cBb5Afg8Mq |
+|[PRG Pro Sim Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10484){:target="_blank"} |[Discord](https://discord.gg/vceh5aMVwj){:target="_blank"} |Bridging the gap between the virtual world and reality\. Season one brings six races of hard competition in the Volkswagen Jetta |
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} | | |
 |[Racecraft Spring Fling Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=10432){:target="_blank"} | | |
 |[RL77 Junior Regio Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=10474){:target="_blank"} | | |
@@ -53,7 +55,6 @@
 |[YR2V \- Grand Final](https://members.iracing.com/membersite/member/LeagueView.do?league=10445){:target="_blank"} | | |
 |[ZCR](https://members.iracing.com/membersite/member/LeagueView.do?league=10475){:target="_blank"} | |racing |
 |[AI SLM](https://members.iracing.com/membersite/member/LeagueView.do?league=10480){:target="_blank"} | | |
-|[AussieOutlaws Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10425){:target="_blank"} | |Cup Car racing On a Saturday night |
 |[IMSA Esports Open Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10481){:target="_blank"} | |To learn more about IMSA Esports, the IMSA Esports Global Championship and the IMSA Esports Open Challenge, head to iracing\.com/imsa\-esports\. |
 |[LARPCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10482){:target="_blank"} | | |
 |[Test](https://members.iracing.com/membersite/member/LeagueView.do?league=10430){:target="_blank"} | |Mazda MX\-5 Club Vic Tas & Affiliate MX\-5 Club Members |

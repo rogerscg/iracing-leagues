@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
-|[6B Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9414){:target="_blank"} |Midwest Best Pro Truck Challenge |North America |22 |2629 | |Bark River International Raceway |Mon, December 11 08:59PM EST |Tue, December 12 01:59AM GMT |Tue, December 12 12:59PM AEDT |
-|[Solstice Racing League \- Wednesday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |SnG Truck Series Season 2 |North America |22 |1973 |Fixed | | | | |
-|[NORA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3061){:target="_blank"} |2023\-24 Off\-Season |North America |16 |1430 |Fixed | | | | |
+|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[6B Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9414){:target="_blank"} |Midwest Best Pro Truck Challenge |North America |22 |2665 | | | | | |
+|[Solstice Racing League \- Wednesday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |SnG Truck Series Season 2 |North America |21 |1903 |Fixed | | | | |
+|[NORA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3061){:target="_blank"} |2023\-24 Off\-Season |North America |16 |1438 |Fixed | | | | |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |STRASS Season 4 |North America |11 |1576 |Both | | | | |
 
 ### Pro 4 Truck
