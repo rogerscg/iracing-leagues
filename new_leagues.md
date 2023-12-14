@@ -1,7 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[ARCS DTOR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10455){:target="_blank"} | |ARCS \(Dirt Track Offroad Racing\) Series is hosted by Brandyn Proudfoot\. This league currently runs on Wednesday nights featuring the Pro Late Model running at multiple dirt tracks with custom setups built each week\! |
 |[Ascension GT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10441){:target="_blank"} | | |
 |[Australian NASCAR eSeries \- Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10465){:target="_blank"} | | |
@@ -24,9 +24,7 @@
 |[Ignition Racing League NCH Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10438){:target="_blank"} | |B Class Open setup series |
 |[Ignition Racing League Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10439){:target="_blank"} | |C Class Fixed setup series |
 |[JPB Nascar Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} | |JPB Nascar Super Series sponsored by iLounge Racing and HIFI Lounge, is a high octane european NASCAR Series bring you epic ovals and great racing |
-|[Ligue de France](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |[Discord](https://discord.gg/xxxxxxxxxxxxxx)){:target="_blank"} |Compétition de la LdF, qualificative pour la Coupe de France |
-|[LZYRBL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10435){:target="_blank"} | |LZYRBL Racing offers many road racing opportunities from formula 1600 to a WEC style endurance championship\. We are working to get more people joined up to start hosting league sessions |
-|[matt](https://members.iracing.com/membersite/member/LeagueView.do?league=10434){:target="_blank"} | | |
+|[Le Challenge Supercup du Québec par EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=10487){:target="_blank"} |[Discord](https://discord.gg/egtcanada){:target="_blank"} |You need to register on website before joining this series\.  Vous devez vous inscrire sur le siteweb avant de pouvoir joindre la série\. |
 |[Mid\-Atlantic Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10440){:target="_blank"} | | |
 |[MMC \*Unofficial\*](https://members.iracing.com/membersite/member/LeagueView.do?league=10485){:target="_blank"} | |For MMC members and their friends |
 |[NorthEast Modifieds](https://members.iracing.com/membersite/member/LeagueView.do?league=10450){:target="_blank"} |[Discord](https://discord.gg/pr4QJfTP){:target="_blank"} |Tour Modified league based in the NorthEast\. Join the discord\! https://discord\.gg/pr4QJfTP |
@@ -38,7 +36,6 @@
 |[PRG Pro Sim Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10484){:target="_blank"} |[Discord](https://discord.gg/vceh5aMVwj){:target="_blank"} |Bridging the gap between the virtual world and reality\. Season one brings six races of hard competition in the Volkswagen Jetta |
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} | | |
 |[RL77 Junior Regio Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=10474){:target="_blank"} | | |
-|[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} | |Booshers To The Max |
 |[Simracing Venezuela](https://members.iracing.com/membersite/member/LeagueView.do?league=10458){:target="_blank"} | |Liga de Simracing Venezolano |
 |[Snow Chasers Miata Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10471){:target="_blank"} | |Spec Miata Winter Fun League |
 |[Steal on wheels racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10453){:target="_blank"} | |Latemodel stocks and Street Stocks Monday and Tuesday |
@@ -48,7 +45,6 @@
 |[US Open by Norden SimSport & SJS Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10486){:target="_blank"} | | |
 |[VSRL Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10449){:target="_blank"} | |Thursday night Next Gen Series by VSRL |
 |[VT&NH Racing News iLate Model Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=10464){:target="_blank"} | |VT&NH Racing News iLate Model Nationals |
-|[Warrior Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10436){:target="_blank"} | | |
 |[YR2V \- Grand Final](https://members.iracing.com/membersite/member/LeagueView.do?league=10445){:target="_blank"} | | |
 |[ZCR](https://members.iracing.com/membersite/member/LeagueView.do?league=10475){:target="_blank"} | |racing |
 |[AI SLM](https://members.iracing.com/membersite/member/LeagueView.do?league=10480){:target="_blank"} | | |
