@@ -23,12 +23,21 @@
 |-----------------------------------------------------------------------------------------------------------------------------|----------------------|-----|---------------------------------|----------------------------|----------------------------|-----------------------------|
 |[PRL NASCAR Cup Series \(Sunday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3576){:target="_blank"} |PRL Sunday Cup 2024/S1 | |[Legacy] Kentucky Speedway - 2011 |Sun, December 17 07:10PM EST |Mon, December 18 12:10AM GMT |Mon, December 18 11:10AM AEDT |
 
+### NASCAR 2022 NextGen
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------|------------------|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Stormy Nation 2023 |Both |Talladega Superspeedway |Fri, December 22 08:20PM EST |Sat, December 23 01:20AM GMT |Sat, December 23 12:20PM AEDT |
+
 ### NASCAR Legends 1987
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[ARCS Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |Ignition 2024 S1 | |Daytona International Speedway |Fri, December 15 08:00PM EST |Sat, December 16 01:00AM GMT |Sat, December 16 12:00PM AEDT |
 |[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |RGR\-Racing 87 Legends Winter Series |Fixed |Talladega Superspeedway |Tue, December 19 07:30PM EST |Wed, December 20 12:30AM GMT |Wed, December 20 11:30AM AEDT |
 
 ### NASCAR Truck Series
@@ -36,7 +45,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----|-----------------------------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----|-----------------------------------------------|----------------------------|----------------------------|-----------------------------|
+|[O\.P\. Racing ButtKicker Truck Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2811){:target="_blank"} |Season 14 | |Daytona International Speedway |Sat, December 16 08:00PM EST |Sun, December 17 01:00AM GMT |Sun, December 17 12:00PM AEDT |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Beef Jerky Unlimited Sunday Trucks |Both |[Legacy] Michigan International Speedway - 2009 |Sun, December 17 07:00PM EST |Mon, December 18 12:00AM GMT |Mon, December 18 11:00AM AEDT |
 |[PRL NASCAR Truck Series \(Wednesday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3579){:target="_blank"} |Wednesday Trucks 2024 S1 | |Talladega Superspeedway |Wed, December 20 06:30PM EST |Wed, December 20 11:30PM GMT |Thu, December 21 10:30AM AEDT |
 
@@ -63,10 +73,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|----------------------|----------------------------|----------------------------|-----------------------------|
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60Plus Season 29 Late Model |Fixed |Concord Speedway |Fri, December 15 12:00PM EST |Fri, December 15 05:00PM GMT |Sat, December 16 04:00AM AEDT |
 |[Mid\-Atlantic Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10440){:target="_blank"} |MASS Late Model Qualifying Series | |Hickory Motor Speedway |Tue, December 19 09:00PM EST |Wed, December 20 02:00AM GMT |Wed, December 20 01:00PM AEDT |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- Pro Cup |Fixed |Thompson Speedway Motorsports Park |Thu, December 14 08:00PM EST |Fri, December 15 01:00AM GMT |Fri, December 15 12:00PM AEDT |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |IZZO Plumbing Legacy Series |Both |Texas Motor Speedway |Fri, December 15 08:20PM EST |Sat, December 16 01:20AM GMT |Sat, December 16 12:20PM AEDT |
 
 ### Legends
 
@@ -75,14 +85,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|------------------------------|-----|---------------|----------------------------|----------------------------|-----------------------------|
 |[ORNL Sunday Drivers Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6769){:target="_blank"} |ORNL Sunday Drivers Cup '24 S1 | |Tsukuba Circuit |Sun, December 17 02:00PM EST |Sun, December 17 07:00PM GMT |Mon, December 18 06:00AM AEDT |
-
-### Super Late Model
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------|----------------------------|----------------------------|-----------------------------|
-|[Grassroots Big Events Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6498){:target="_blank"} |Thursday Night Thunder |Fixed |Slinger Speedway |Thu, December 14 08:00PM EST |Fri, December 15 01:00AM GMT |Fri, December 15 12:00PM AEDT |
 
 # Open-wheel
 
@@ -100,11 +102,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[Alt\-F4 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8481){:target="_blank"} |Season 7\.\.\.\.\.Come 11 |Open |Oulton Park Circuit |Thu, December 14 08:00PM EST |Fri, December 15 01:00AM GMT |Fri, December 15 12:00PM AEDT |
-|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Saison 6 |Both |Oulton Park Circuit |Thu, December 14 02:01PM EST |Thu, December 14 07:01PM GMT |Fri, December 15 06:01AM AEDT |
-|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |24S1 Stair Fittings Inc F4 Dash\! |Both |Sonoma Raceway |Thu, December 14 07:30PM EST |Fri, December 15 12:30AM GMT |Fri, December 15 11:30AM AEDT |
 |[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |2024 Friday PSM Formula 4 Championship |Open |Autódromo José Carlos Pace |Fri, December 15 06:30PM EST |Fri, December 15 11:30PM GMT |Sat, December 16 10:30AM AEDT |
-|[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |PSM Academy |Open |Autódromo José Carlos Pace |Thu, December 14 07:00PM EST |Fri, December 15 12:00AM GMT |Fri, December 15 11:00AM AEDT |
 
 ### Formula Vee
 
@@ -140,41 +138,20 @@
 
 # Sports Car
 
-### Ferrari 296 GT3
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Orion Little League](https://members.iracing.com/membersite/member/LeagueView.do?league=10452){:target="_blank"} |Season 1 |Fixed |Autodromo Internazionale del Mugello |Thu, December 14 08:30PM EST |Fri, December 15 01:30AM GMT |Fri, December 15 12:30PM AEDT |
-
 ### GT3 Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------|---------------------|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 29 GT3 |Fixed |Circuit de Spa-Francorchamps |Fri, December 15 02:00PM EST |Fri, December 15 07:00PM GMT |Sat, December 16 06:00AM AEDT |
-|[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S18 \- Thursday \- GT3 |Both |Canadian Tire Motorsports Park |Thu, December 14 07:00PM EST |Fri, December 15 12:00AM GMT |Fri, December 15 11:00AM AEDT |
-|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2024\-S1 GT3 |Both |Circuit de Spa-Francorchamps |Thu, December 14 08:00PM EST |Fri, December 15 01:00AM GMT |Fri, December 15 12:00PM AEDT |
-|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR GT3 Thursdays Season 8 |Open |Circuit de Spa-Francorchamps |Thu, December 14 09:00PM EST |Fri, December 15 02:00AM GMT |Fri, December 15 01:00PM AEDT |
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
-|[Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |ESR Season 3 GT3 Championship | |Circuit Gilles Villeneuve |Thu, December 14 02:30PM EST |Thu, December 14 07:30PM GMT |Fri, December 15 06:30AM AEDT |
-|[Squirrel Endurance Xperience](https://members.iracing.com/membersite/member/LeagueView.do?league=10362){:target="_blank"} |SLRS Season 1 |Open |Circuit de Spa-Francorchamps |Thu, December 14 07:30PM EST |Fri, December 15 12:30AM GMT |Fri, December 15 11:30AM AEDT |
 
 ### Mazda MX-5 Cup 2016
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S01\-2024 MX\-5 CUP | |Okayama International Circuit |Thu, December 14 02:30PM EST |Thu, December 14 07:30PM GMT |Fri, December 15 06:30AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------|---------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[BoX³ Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8344){:target="_blank"} |MX\-5 Casual Tuesdays | |Okayama International Circuit |Tue, December 19 07:00PM EST |Wed, December 20 12:00AM GMT |Wed, December 20 11:00AM AEDT |
 |[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |WORLD FINAL 2023 |Fixed |WeatherTech Raceway at Laguna Seca |Sun, December 17 04:00PM EST |Sun, December 17 09:00PM GMT |Mon, December 18 08:00AM AEDT |
 
@@ -196,22 +173,6 @@
 |------------------------------------------------------------------------------------------------------|--------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S18 \- Sunday \- GTP |Both |Canadian Tire Motorsports Park |Sun, December 17 07:00PM EST |Mon, December 18 12:00AM GMT |Mon, December 18 11:00AM AEDT |
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 1 |Open |Canadian Tire Motorsports Park |Thu, December 14 07:25PM EST |Fri, December 15 12:25AM GMT |Fri, December 15 11:25AM AEDT |
-
-### Radical SR10
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-------------|----------------------------|----------------------------|-----------------------------|
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 1 |Open |Red Bull Ring |Thu, December 14 02:15PM EST |Thu, December 14 07:15PM GMT |Fri, December 15 06:15AM AEDT |
-
 ### Radical SR8
 
 [Back to Top](#)  
@@ -229,16 +190,6 @@
 |-----------------------------------------------------------------------------------------------------------------|--------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024 Season 1 |Open |Watkins Glen International |Sun, December 17 01:40PM EST |Sun, December 17 06:40PM GMT |Mon, December 18 05:40AM AEDT |
 
-# Rallycross
-
-### VW Beetle Lite
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|----------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- Class 11X |Fixed |Wild West Motorsports Park |Thu, December 14 07:40PM EST |Fri, December 15 12:40AM GMT |Fri, December 15 11:40AM AEDT |
-
 # Multi-class/Unclassified
 
 ### Hosted All Cars Class
@@ -246,12 +197,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 29 Challenge |Fixed |WeatherTech Raceway at Laguna Seca |Thu, December 14 01:00PM EST |Thu, December 14 06:00PM GMT |Fri, December 15 05:00AM AEDT |
-|[Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2732){:target="_blank"} |Reverb \- 2023 Winter Silly Season |Fixed |Rudskogen Motorsenter |Thu, December 14 10:55PM EST |Fri, December 15 03:55AM GMT |Fri, December 15 02:55PM AEDT |
-|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Gabir Motors Cup Season 17 |Both |Summit Point Raceway |Thu, December 14 11:00PM EST |Fri, December 15 04:00AM GMT |Fri, December 15 03:00PM AEDT |
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Thursdays Weekly Challenge \- By Kraken |Both |WeatherTech Raceway at Laguna Seca |Thu, December 14 08:00PM EST |Fri, December 15 01:00AM GMT |Fri, December 15 12:00PM AEDT |
+|----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|[MMC \*Unofficial\*](https://members.iracing.com/membersite/member/LeagueView.do?league=10485){:target="_blank"} |Winter Season 23/24 | |Lime Rock Park |Thu, December 21 08:00PM EST |Fri, December 22 01:00AM GMT |Fri, December 22 12:00PM AEDT |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- rOtation Motorsports Handicap Saturday |Both |Brands Hatch Circuit |Sat, December 16 07:00PM EST |Sun, December 17 12:00AM GMT |Sun, December 17 11:00AM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |261 Special Edition \- 2023 |Fixed |Wild West Motorsports Park |Tue, December 19 02:00PM EST |Tue, December 19 07:00PM GMT |Wed, December 20 06:00AM AEDT |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |World Tour 2023 \- CCWT |Fixed |USA International Speedway |Thu, December 14 09:00PM EST |Fri, December 15 02:00AM GMT |Fri, December 15 01:00PM AEDT |
 

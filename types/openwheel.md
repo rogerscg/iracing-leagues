@@ -8,9 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|----------------------|----------------------------|----------------------------|-----------------------------|
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |Fun Run Series |North America |24 |1304 | | | | | |
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART DW12 Season 1 |North America |22 |1990 |Fixed |Talladega Superspeedway |Thu, December 14 07:00PM EST |Fri, December 15 12:00AM GMT |Fri, December 15 11:00AM AEDT |
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART DW12 Season 1 |North America |23 |1986 |Fixed |Chicago Street Course |Thu, December 21 07:00PM EST |Fri, December 22 12:00AM GMT |Fri, December 22 11:00AM AEDT |
 |[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |Tuesday Winter 2023 |North America |12 |1874 |Fixed |Atlanta Motor Speedway |Tue, December 19 08:45PM EST |Wed, December 20 01:45AM GMT |Wed, December 20 12:45PM AEDT |
 
 ### Dallara F3
@@ -32,12 +32,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023D Road to Indy Series |Australia-NZ |43 |1701 |Both | | | | |
 |[Area 51/Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |2023 Season 3 |North America |32 |2390 | | | | | |
 |[Lionheart Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3172){:target="_blank"} |2023 Open Wheel Season |North America |31 |3615 |Fixed | | | | |
 |[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Open Wheel Series Practice |North America |29 |None |Fixed | | | | |
-|[Catalyst 317 Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1725){:target="_blank"} |Season 10 |North America |29 |3775 |Open | | | | |
+|[Catalyst 317 Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1725){:target="_blank"} |Season 10 |North America |29 |3775 |Open |Mid-Ohio Sports Car Course |Fri, December 15 09:00PM EST |Sat, December 16 02:00AM GMT |Sat, December 16 01:00PM AEDT |
 |[North American Trans\-Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9778){:target="_blank"} |IR18 |North America |24 |1833 | | | | | |
 |[SNS Winter Challenge for Charity](https://members.iracing.com/membersite/member/LeagueView.do?league=6105){:target="_blank"} |Winter 2023/2024 |North America |24 |1893 |Fixed | | | | |
 |[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2023/3 |South America |20 |3212 | | | | | |
@@ -80,6 +80,7 @@
 |[British F4 Esports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9004){:target="_blank"} |2023 British F4 Esports Championship |Europe |31 |5283 | | | | | |
 |[Racing League Romania](https://members.iracing.com/membersite/member/LeagueView.do?league=350){:target="_blank"} |\[2023\] RLR Sezonul 4 \- ALT F4 Challenge |Europe |30 |2341 | | | | | |
 |[PRL Ray 1600 Series \(Thursday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4908){:target="_blank"} |PRL Formula 4 Fixed Series 2023/S4 |North America |30 |2170 | | | | | |
+|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Saison 6 |Europe |28 |1891 |Both | | | | |
 |[PORSCHE SIMRACING TROPHY 2019](https://members.iracing.com/membersite/member/LeagueView.do?league=2529){:target="_blank"} |U19 \- dmsj23 \- Race |Europe |28 |1967 |Fixed |Oulton Park Circuit |Tue, December 19 11:00PM EST |Wed, December 20 04:00AM GMT |Wed, December 20 03:00PM AEDT |
 |[PWA Formula iR\-04](https://members.iracing.com/membersite/member/LeagueView.do?league=9271){:target="_blank"} |PWA Formula F4 Season 3 |Europe |24 |2697 | | | | | |
 |[go\-RILLAS AVL RACETECH SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7714){:target="_blank"} |Season 23\.3 F4 |Europe |23 |2058 |Fixed | | | | |
@@ -88,15 +89,18 @@
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 29 F4 |North America |20 |1552 |Fixed | | | | |
 |[PORSCHE SIMRACING TROPHY 2019](https://members.iracing.com/membersite/member/LeagueView.do?league=2529){:target="_blank"} |U15 \- dmsj23 \- Race |Europe |19 |1983 |Fixed |Oulton Park Circuit |Tue, December 19 10:58PM EST |Wed, December 20 03:58AM GMT |Wed, December 20 02:58PM AEDT |
 |[Sapphire SimSport](https://members.iracing.com/membersite/member/LeagueView.do?league=10247){:target="_blank"} |F4 |Europe |17 |2293 | | | | | |
+|[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |F4 Season |North America |15 |1231 | |Tsukuba Circuit |Thu, December 21 10:00PM EST |Fri, December 22 03:00AM GMT |Fri, December 22 02:00PM AEDT |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2024\-S1 F4 |North America |14 |1900 |Both |Circuit Zandvoort |Tue, December 19 08:00PM EST |Wed, December 20 01:00AM GMT |Wed, December 20 12:00PM AEDT |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |may the F4rce be with you |Australia-NZ |14 |1383 |Both |Silverstone Circuit |Tue, December 19 03:30AM EST |Tue, December 19 08:30AM GMT |Tue, December 19 07:30PM AEDT |
-|[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |F4 Season |North America |13 |1231 | |Rudskogen Motorsenter |Thu, December 14 10:00PM EST |Fri, December 15 03:00AM GMT |Fri, December 15 02:00PM AEDT |
+|[Alt\-F4 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8481){:target="_blank"} |Season 7\.\.\.\.\.Come 11 |North America |13 |1942 |Open | | | | |
+|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |24S1 Stair Fittings Inc F4 Dash\! |North America |12 |1238 |Both |Circuit Zandvoort |Thu, December 21 07:30PM EST |Fri, December 22 12:30AM GMT |Fri, December 22 11:30AM AEDT |
 |[PMTCC \- Pure Motorsport Touring Car Championship\.](https://members.iracing.com/membersite/member/LeagueView.do?league=9252){:target="_blank"} |Formula Pure F4 \- Winter series 23/24 |Europe |12 |3603 | | | | | |
 |[\(3\) FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=10349){:target="_blank"} |Special Event 1 |North America |11 |1349 | | | | | |
 |[\(2\) FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=10348){:target="_blank"} |Special Event 2 \- FIA F4 |North America |11 |1349 | | | | | |
 |[\(1\) FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=10350){:target="_blank"} |Event 1 \- FIA F4 |North America |11 |1349 | | | | | |
 |[ARL Division\-i](https://members.iracing.com/membersite/member/LeagueView.do?league=9976){:target="_blank"} |Season 1 |North America |10 |1388 |Fixed | | | | |
 |[PHA Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10304){:target="_blank"} |23/24 Pha Racer series |North America |10 |1191 |Fixed | | | | |
+|[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |PSM Academy |North America |10 |None |Open | | | | |
 
 ### Formula Vee
 
@@ -105,7 +109,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023G Formula Vee Sprint Series |Australia-NZ |47 |2053 |Both | | | | |
-|[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |FV WW 2023 S4 |North America |36 |2377 |Open | | | | |
+|[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |FV WW 2023 S4 |North America |34 |2337 |Open | | | | |
 |[C2C \- Retreads \(55\+\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6024){:target="_blank"} |RETREADS \- FORMULA VEE |North America |10 |824 | | | | | |
 
 ### Hosted All Cars Class
@@ -116,7 +120,6 @@
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[AOLL Racing's TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4855){:target="_blank"} |2023 Season 3 \- Dallara IR18 |North America |15 |1402 |Fixed | | | | |
 |[Weston's Monday Night Wacky Races\!](https://members.iracing.com/membersite/member/LeagueView.do?league=6367){:target="_blank"} |Week 13 Monday Night Madness |North America |12 |1754 | | | | | |
-|[Light Speed Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8427){:target="_blank"} |Single Seater Saturday F4 |North America |10 |1123 |Both | | | | |
 
 ### Indy Pro 2000 PM-18
 
@@ -133,8 +136,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 5 |North America |31 |1435 |Fixed | | | | |
-|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Retro Series Practice |North America |28 |None |Fixed |Road America |Thu, December 14 07:30PM EST |Fri, December 15 12:30AM GMT |Fri, December 15 11:30AM AEDT |
-|[Lionheart Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3173){:target="_blank"} |2023 Retro Series |North America |28 |2809 | |Road America |Thu, December 14 09:40PM EST |Fri, December 15 02:40AM GMT |Fri, December 15 01:40PM AEDT |
+|[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Retro Series Practice |North America |29 |None |Fixed | | | | |
+|[Lionheart Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3173){:target="_blank"} |2023 Retro Series |North America |29 |2744 | | | | | |
 |[Lionheart Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3173){:target="_blank"} |2023 Warm Up 2 |North America |24 |2634 | | | | | |
 |[Classic 500 \- 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2023 \- T4 |South America |22 |2539 | | | | | |
 |[Classic Interdicted Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1381){:target="_blank"} |Winter Series 2023\-2024 |North America |14 |1977 |Open |Mid-Ohio Sports Car Course |Fri, December 15 02:00PM EST |Fri, December 15 07:00PM GMT |Sat, December 16 06:00AM AEDT |
@@ -155,7 +158,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
-|[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |FF1600 WW 2023 S4 |North America |69 |2808 |Open | | | | |
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Formula Ray 1600 Series \- Season\#01 |Europe |27 |2100 |Both |Tsukuba Circuit |Sun, December 17 01:00PM EST |Sun, December 17 06:00PM GMT |Mon, December 18 05:00AM AEDT |
 |[Williams Gaming Club's FF1600 Fridays](https://members.iracing.com/membersite/member/LeagueView.do?league=10324){:target="_blank"} |WGC FF1600 Friday |Europe |27 |2282 |Fixed | | | | |
 |[UK FF1600 Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10078){:target="_blank"} |2023 UK FF1600 Esports Cup |Europe |24 |3523 | | | | | |
@@ -164,7 +166,7 @@
 |[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 3 Japan |Australia-NZ |19 |2270 | | | | | |
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |Official Test |North America |18 |1605 | | | | | |
 |[BearPope Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=897){:target="_blank"} |Bearpope Winter FF1600 2023 |North America |17 |2336 |Open | | | | |
-|[Delta Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8506){:target="_blank"} |DML \| Season Series \(Formula Ford 23S4\) |North America |12 |1278 |Fixed | | | | |
+|[Delta Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8506){:target="_blank"} |DML \| Season Series \(Formula Ford 23S4\) |North America |12 |1273 |Fixed | | | | |
 |[Velocity Québec Sim VQS](https://members.iracing.com/membersite/member/LeagueView.do?league=3768){:target="_blank"} |Automne 2023 F1600 |North America |11 |1571 |Fixed | | | | |
 
 ### Skip Barber Race Series
@@ -172,8 +174,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Sunday Night Skippy](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |SUNDAY NIGHT SKIPPY S16 |North America |41 |3298 |Open | | | | |
+|-------------------------------------------------------------------------------------------------------------------------|--------|--------|-------|----|-----|-------------|--------|------|------|
 |[Skip Barber Challenge Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=9160){:target="_blank"} |Season 2 |Europe |34 |4345 |Open | | | | |
 
 ### Super Formula SF23
@@ -198,9 +199,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-----------------------|--------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------|-----------------------|--------|-------|----|-----|-------------|--------|------|------|
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |S4 2023 \- SuperFormula |Europe |40 |2972 | | | | | |
-|[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Super Formula |Europe |28 |3571 |Fixed |Fuji International Speedway |Thu, December 14 01:00PM EST |Thu, December 14 06:00PM GMT |Fri, December 15 05:00AM AEDT |
+|[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Super Formula |Europe |28 |3605 |Fixed | | | | |
 
 ### USF 2000
 
