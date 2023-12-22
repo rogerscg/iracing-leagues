@@ -28,28 +28,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[Beyond The Garage Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10505){:target="_blank"} |BTG Cup Season 1 | |Charlotte Motor Speedway |Thu, December 21 11:53PM EST |Fri, December 22 04:53AM GMT |Fri, December 22 03:53PM AEDT |
+|------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S3 Street Stock Hometown Series |Both |Lanier National Speedway |Wed, December 27 07:45PM EST |Thu, December 28 12:45AM GMT |Thu, December 28 11:45AM AEDT |
-|[Operation Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5403){:target="_blank"} |Holiday Extravaganza |Open |Summit Point Raceway |Thu, December 21 08:00PM EST |Fri, December 22 01:00AM GMT |Fri, December 22 12:00PM AEDT |
 
 # Open-wheel
-
-### Dallara F3
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|----------------------|----------------------------|----------------------------|-----------------------------|
-|[PRL Formula 3 Series \(Thursday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3580){:target="_blank"} |PRL Thursday Formula C Series 2024/S1 | |Mount Panorama Circuit |Thu, December 21 07:30PM EST |Fri, December 22 12:30AM GMT |Fri, December 22 11:30AM AEDT |
-
-### FIA F4
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-----------------|----------------------------|----------------------------|-----------------------------|
-|[PRL Ray 1600 Series \(Thursday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4908){:target="_blank"} |PRL Thursday Formula D Fixed Series 2024/S1 | |Circuit Zandvoort |Thu, December 21 06:30PM EST |Thu, December 21 11:30PM GMT |Fri, December 22 10:30AM AEDT |
 
 ### Ray FF1600
 
@@ -61,13 +43,21 @@
 
 # Sports Car
 
-### Porsche 911 GT3 Cup (992)
+### GT3 Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|--------|-----|-----------------|----------------------------|----------------------------|-----------------------------|
-|[UK SimRacing Community \- Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6897){:target="_blank"} |Season 9 |Open |Circuit Zandvoort |Thu, December 21 02:00PM EST |Thu, December 21 07:00PM GMT |Fri, December 22 06:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------|----------------|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
+|[RPM European GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7826){:target="_blank"} |RPM GT3 Season 9 |Open |Circuit de Spa-Francorchamps |Wed, December 27 02:00PM EST |Wed, December 27 07:00PM GMT |Thu, December 28 06:00AM AEDT |
+
+### Mazda MX-5 Cup 2016
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------|-------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|[OGRL Tuesday MX\-5 Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=10221){:target="_blank"} |FunRuns | |USA International Speedway |Tue, December 26 08:00PM EST |Wed, December 27 01:00AM GMT |Wed, December 27 12:00PM AEDT |
 
 # Multi-class/Unclassified
 
@@ -76,10 +66,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|----------------------|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[MMC \*Unofficial\*](https://members.iracing.com/membersite/member/LeagueView.do?league=10485){:target="_blank"} |Winter Season 23/24 | |Lime Rock Park |Thu, December 21 08:00PM EST |Fri, December 22 01:00AM GMT |Fri, December 22 12:00PM AEDT |
+|-------------------------------------------------------------------------------------------------------------|----------------------|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[ORNL F1 League](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |ORNL WEC League 2023 | |Autodromo Internazionale Enzo e Dino Ferrari |Thu, December 28 02:00PM EST |Thu, December 28 07:00PM GMT |Fri, December 29 06:00AM AEDT |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |road2alien s2 |Both |Road America |Sun, December 24 09:00PM EST |Mon, December 25 02:00AM GMT |Mon, December 25 01:00PM AEDT |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rally III \- 2023 |Fixed |Crandon International Raceway |Sat, December 23 08:00PM EST |Sun, December 24 01:00AM GMT |Sun, December 24 12:00PM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VORTEX \- 2023 |Fixed |Crandon International Raceway |Tue, December 26 09:00PM EST |Wed, December 27 02:00AM GMT |Wed, December 27 01:00PM AEDT |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rally III \- 2023 |Fixed |Concord Speedway |Thu, December 21 07:00PM EST |Fri, December 22 12:00AM GMT |Fri, December 22 11:00AM AEDT |
 

@@ -35,11 +35,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 6 |Europe |37 |4074 | | | | | |
 |[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S1 |North America |37 |2658 | | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prototype Challenge \- Season 2 |Europe |33 |2045 |Both | | | | |
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 1 |North America |21 |2489 |Open |Hockenheimring Baden-Württemberg |Thu, December 21 07:25PM EST |Fri, December 22 12:25AM GMT |Fri, December 22 11:25AM AEDT |
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 1 |North America |26 |2446 |Open | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |SCCA SUNDAY FALL 2023 |North America |19 |1298 |Fixed | | | | |
 
 ### Ligier JS P320
@@ -71,10 +71,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |23/24 BiS Radical Cup Canada Winter Series |North America |42 |2320 |Fixed | | | | |
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |41 |2319 |Fixed | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 1 |Europe |20 |3152 |Open |Autodromo Internazionale Enzo e Dino Ferrari |Thu, December 21 02:15PM EST |Thu, December 21 07:15PM GMT |Fri, December 22 06:15AM AEDT |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 1 |Europe |25 |2962 |Open |WeatherTech Raceway at Laguna Seca |Thu, December 28 02:15PM EST |Thu, December 28 07:15PM GMT |Fri, December 29 06:15AM AEDT |
 
 ### Radical SR8
 
@@ -88,7 +88,6 @@
 |[NA VS OCE \- Battle At Sandown](https://members.iracing.com/membersite/member/LeagueView.do?league=7819){:target="_blank"} |Radical 500 S1 |North America |20 |2306 |Fixed | | | | |
 |[SIMSA GR86/CTS CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8276){:target="_blank"} |SR8 Cup S1 |North America |18 |1555 |Fixed |Virginia International Raceway |Wed, December 27 08:30PM EST |Thu, December 28 01:30AM GMT |Thu, December 28 12:30PM AEDT |
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |PWE Season 1 |Europe |16 |3839 | |Circuit Gilles Villeneuve |Fri, December 22 02:20PM EST |Fri, December 22 07:20PM GMT |Sat, December 23 06:20AM AEDT |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Radical Season 3 |Australia-NZ |12 |975 | | | | | |
 |[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Radicals |North America |10 |1362 |Fixed | | | | |
 
 ### Spec Racer Ford
@@ -98,7 +97,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024 Season 1 |North America |53 |2942 |Open | | | | |
-|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2023 Fall SRF |North America |27 |2552 |Open | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Spec Ford Racer |North America |15 |1455 | | | | | |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Spec Ford |South America |13 |1530 | | | | | |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Winter Tour SRF |North America |11 |2175 |Open | | | | |
