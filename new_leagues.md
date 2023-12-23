@@ -7,7 +7,7 @@
 |[Beyond The Garage Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10505){:target="_blank"} |[Discord](https://discord.gg/beyondthegarage){:target="_blank"} | |
 |[Bushnell Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10494){:target="_blank"} | |Next gen cars, 20 track season |
 |[Dirt Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10508){:target="_blank"} |[Discord](https://discord.gg/Xgupqk4r7D){:target="_blank"} |Dirt league with many events \(FR/EN\) |
-|[Elevated Television Modified Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10476){:target="_blank"} | | |
+|[HARD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10512){:target="_blank"} |[Discord](https://discord.gg/hardracing){:target="_blank"} |HARD Racing\. League Racing\. |
 |[HWT Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10479){:target="_blank"} | | |
 |[Jim Johnson's League](https://members.iracing.com/membersite/member/LeagueView.do?league=10507){:target="_blank"} | | |
 |[jos](https://members.iracing.com/membersite/member/LeagueView.do?league=10499){:target="_blank"} | | |
@@ -23,7 +23,6 @@
 |[R&R Racing League 8 race](https://members.iracing.com/membersite/member/LeagueView.do?league=10500){:target="_blank"} | | |
 |[Redline Racing Xfinity League](https://members.iracing.com/membersite/member/LeagueView.do?league=10495){:target="_blank"} | | |
 |[Regan Bogue Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10497){:target="_blank"} | |Regan Bogue Motorsports |
-|[RL77 Junior Regio Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=10474){:target="_blank"} | | |
 |[Silver Crown Stacey Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10489){:target="_blank"} | |The Silver Crown Stacey Series is 10 week long series just for fun\. Why Is called the Silver Crown Stacey Series ? I Love my mother and i used her credit card for the league fee\. |
 |[SimBoiz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10492){:target="_blank"} |[Discord](https://discord.gg/4ndRZhaCTN){:target="_blank"} |A semi\-casual racing league made for people who want to have fun |
 |[Small town racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10501){:target="_blank"} | | |
@@ -32,11 +31,11 @@
 |[Two Drink Minimum Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10510){:target="_blank"} | | |
 |[Ultimate Formula 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10477){:target="_blank"} | |This is a Series that runs both road course and ovals all with the Fia F4 cars\. Similar to \*\*\* with the twist of F1 style points\. |
 |[US Open by Norden SimSport & SJS Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10486){:target="_blank"} | | |
-|[ZCR](https://members.iracing.com/membersite/member/LeagueView.do?league=10475){:target="_blank"} | |racing |
 |[AI SLM](https://members.iracing.com/membersite/member/LeagueView.do?league=10480){:target="_blank"} | | |
 |[Heel Turn](https://members.iracing.com/membersite/member/LeagueView.do?league=10503){:target="_blank"} | | |
 |[IMSA Esports Open Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10481){:target="_blank"} | |To learn more about IMSA Esports, the IMSA Esports Global Championship and the IMSA Esports Open Challenge, head to iracing\.com/imsa\-esports\. |
 |[LARPCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10482){:target="_blank"} | | |
 |[Quick Finishers](https://members.iracing.com/membersite/member/LeagueView.do?league=10498){:target="_blank"} |[Discord](https://discord.gg/kfx8dENE){:target="_blank"} |Just having fun\! |
+|[Race Clutch](https://members.iracing.com/membersite/member/LeagueView.do?league=10511){:target="_blank"} | |Internal League for RC |
 |[Samui racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10490){:target="_blank"} | |Who is the king of island |
 

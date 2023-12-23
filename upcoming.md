@@ -3,16 +3,6 @@
 * TOC  
 {:toc}
 
-# NASCAR
-
-### NASCAR 2022 NextGen
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|------------------|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Stormy Nation 2023 |Both |Talladega Superspeedway |Fri, December 22 08:20PM EST |Sat, December 23 01:20AM GMT |Sat, December 23 12:20PM AEDT |
-
 # Oval
 
 ### Hosted All Cars Class
