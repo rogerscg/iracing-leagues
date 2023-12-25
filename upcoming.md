@@ -3,6 +3,24 @@
 * TOC  
 {:toc}
 
+# NASCAR
+
+### ARCA Series
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------|--------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|[this a test](https://members.iracing.com/membersite/member/LeagueView.do?league=8501){:target="_blank"} |this is a seson test | |Centripetal Circuit |Mon, January 01 04:04AM EST |Mon, January 01 09:04AM GMT |Mon, January 01 08:04PM AEDT |
+
+### NASCAR Truck Series
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------|---------------|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
+|[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |TRUCKS Season 4 |Both |Michigan International Speedway |Mon, January 01 08:30PM EST |Tue, January 02 01:30AM GMT |Tue, January 02 12:30PM AEDT |
+
 # Oval
 
 ### Hosted All Cars Class
@@ -23,13 +41,13 @@
 
 # Open-wheel
 
-### Ray FF1600
+### Dallara DW12
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Simblacks \#SundaySendit |Both |Knockhill Racing Circuit |Sun, December 24 02:00AM EST |Sun, December 24 07:00AM GMT |Sun, December 24 06:00PM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------|----------------------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
+|[Area 51/Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |Area 51/ Darkhorse 500 | |Indianapolis Motor Speedway |Sat, December 30 12:00PM EST |Sat, December 30 05:00PM GMT |Sun, December 31 04:00AM AEDT |
 
 # Sports Car
 
@@ -56,9 +74,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|----------------------|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------|--------------------|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[ORNL F1 League](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |ORNL WEC League 2023 | |Autodromo Internazionale Enzo e Dino Ferrari |Thu, December 28 02:00PM EST |Thu, December 28 07:00PM GMT |Fri, December 29 06:00AM AEDT |
-|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |road2alien s2 |Both |Road America |Sun, December 24 09:00PM EST |Mon, December 25 02:00AM GMT |Mon, December 25 01:00PM AEDT |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rally III \- 2023 |Fixed |Crandon International Raceway |Sat, December 23 08:00PM EST |Sun, December 24 01:00AM GMT |Sun, December 24 12:00PM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VORTEX \- 2023 |Fixed |Crandon International Raceway |Tue, December 26 09:00PM EST |Wed, December 27 02:00AM GMT |Wed, December 27 01:00PM AEDT |
 
