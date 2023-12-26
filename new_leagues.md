@@ -5,24 +5,25 @@
 |[2024 Great Lakes iRacing Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=10506){:target="_blank"} |[Discord](https://discord.gg/tEwg3fCX){:target="_blank"} |Discord: https://discord\.gg/tEwg3fCX |
 |[Beyond The Garage Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10505){:target="_blank"} |[Discord](https://discord.gg/beyondthegarage){:target="_blank"} | |
 |[Bushnell Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10494){:target="_blank"} | |Next gen cars, 20 track season |
+|[Club Asylum Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10520){:target="_blank"} | |This is a league for distinguished gentlemen who enjoy \*\*\* around and finding out\. |
 |[Dirt Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10508){:target="_blank"} |[Discord](https://discord.gg/Xgupqk4r7D){:target="_blank"} |Dirt league with many events \(FR/EN\) |
+|[DIVERTED Traffic](https://members.iracing.com/membersite/member/LeagueView.do?league=10522){:target="_blank"} | | |
 |[Duck Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10517){:target="_blank"} | |Races will be Saturday nights\. no entry fee required |
+|[H\-ASS](https://members.iracing.com/membersite/member/LeagueView.do?league=10521){:target="_blank"} | | |
 |[HARD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10512){:target="_blank"} |[Discord](https://discord.gg/hardracing){:target="_blank"} |HARD Racing\. League Racing\. |
 |[Jim Johnson's League](https://members.iracing.com/membersite/member/LeagueView.do?league=10507){:target="_blank"} | | |
 |[jos](https://members.iracing.com/membersite/member/LeagueView.do?league=10499){:target="_blank"} | | |
+|[Late Model/ Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10523){:target="_blank"} | | |
 |[Le Challenge Supercup du Québec par EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=10487){:target="_blank"} |[Discord](https://discord.gg/egtcanada){:target="_blank"} |You need to register on website before joining this series\.  Vous devez vous inscrire sur le siteweb avant de pouvoir joindre la série\. |
 |[Leading Edge Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10504){:target="_blank"} | | |
 |[League Of Extraordinary Llama](https://members.iracing.com/membersite/member/LeagueView.do?league=10502){:target="_blank"} | |Just here to have some fun while not grinding at the daily job\. |
 |[Limitless I League](https://members.iracing.com/membersite/member/LeagueView.do?league=10514){:target="_blank"} | | |
 |[Limitless I\-League](https://members.iracing.com/membersite/member/LeagueView.do?league=10515){:target="_blank"} | | |
-|[MMC \*Unofficial\*](https://members.iracing.com/membersite/member/LeagueView.do?league=10485){:target="_blank"} | |For MMC members and their friends |
 |[Motorsport UK Esports Silverstone 300](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} | | |
 |[NAL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10513){:target="_blank"} | |Racing in the Nascar Cup series against the best\! |
 |[Nameless Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10519){:target="_blank"} | |Team based Racing League |
 |[NPUOWC](https://members.iracing.com/membersite/member/LeagueView.do?league=10493){:target="_blank"} | | |
 |[NZ Porsche Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10516){:target="_blank"} |[Discord](https://discord.gg/mv9sS6qrYN){:target="_blank"} |Every Wednesday Night at 7:00pm Cars Porsche 992 Cup Porsche 991 Cup 45 Minutes Practice 15 minutes Qualifying Race 1, 12 laps Race 2\. 12 laps Race 3 \(feature\) TOP 10 Reverse 18 laps Compulsory Pit stop Starts on the 3rd of January Round 1 Virgina International raceway\(free track\) Round 2 Bathurst Round 3 Oulton Park\(Free track\) Round 4 Winton Round 5 Monza Round 6 Sandown Round 7 Long beach Round 8 Summit Ponit\(Free track\) Google Form is in the ⁠series\-info Both cars are running in the same race but there will be separate championships for the 992 and 991 and a out right winner of both series |
-|[OG Racing League Enduro](https://members.iracing.com/membersite/member/LeagueView.do?league=10483){:target="_blank"} |[Discord](https://discord.gg/vGwuBy5a){:target="_blank"} |OG Racing League Enduro Series, is meant to be a place for Figure 8 and Enduro style racing fans\. We will use the LMSC, SS, SLM in a duel on Figure 8's with the Oval Enduro's taking place with the SS or LMSC things can be changed up\. OG Racing League Enduro series is part of OG Racing League so feel free to come join there as well\. |
-|[PRG Pro Sim Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10484){:target="_blank"} |[Discord](https://discord.gg/vceh5aMVwj){:target="_blank"} |Bridging the gap between the virtual world and reality\. Season one brings six races of hard competition in the Volkswagen Jetta |
 |[Quasi eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} | |Racing League For A Variety Of Vehicles And Formats |
 |[R&R Racing League 8 race](https://members.iracing.com/membersite/member/LeagueView.do?league=10500){:target="_blank"} | | |
 |[Redline Racing Xfinity League](https://members.iracing.com/membersite/member/LeagueView.do?league=10495){:target="_blank"} | | |
