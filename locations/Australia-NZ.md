@@ -26,8 +26,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-----------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[Weekend Warriors ASCC](https://members.iracing.com/membersite/member/LeagueView.do?league=3592){:target="_blank"} |2024 Lucas Oils Summer Track Series |Australia-NZ |47 |2021 |Fixed | | | | |
+|---------------------------------------------------------------------------------------------------------------------|-----------------------------------|------------|-------|----|-----|---------------|---------------------------|---------------------------|----------------------------|
+|[Weekend Warriors ASCC](https://members.iracing.com/membersite/member/LeagueView.do?league=3592){:target="_blank"} |2024 Lucas Oils Summer Track Series |Australia-NZ |47 |2021 |Fixed |Kansas Speedway |Sat, January 06 03:00AM EST |Sat, January 06 08:00AM GMT |Sat, January 06 07:00PM AEDT |
 |[Australian Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10125){:target="_blank"} |Australian Truck Series Season 1 |Australia-NZ |36 |2097 | | | | | |
 
 # Oval
@@ -37,9 +37,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |mature age trans \-LMS |Australia-NZ |16 |1467 |Both | | | | |
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Sunday Ovals \- LM Rookie Series |Australia-NZ |12 |1345 |Both | | | | |
+|-----------------------------------------------------------------------------------------------------------|--------|------------|-------|----|-----|-------------|--------|------|------|
 |[CPR Nine Three](https://members.iracing.com/membersite/member/LeagueView.do?league=2287){:target="_blank"} |Season 3 |Australia-NZ |11 |1996 |Fixed | | | | |
 
 ### Legends
@@ -67,14 +65,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|-------------|--------|------|------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023D Road to Indy Series |Australia-NZ |34 |1695 |Both | | | | |
-
-### FIA F4
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |may the F4rce be with you |Australia-NZ |14 |1383 |Both | | | | |
 
 ### Formula Vee
 
@@ -124,7 +114,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[V8 Veterans Season 17](https://members.iracing.com/membersite/member/LeagueView.do?league=10129){:target="_blank"} |Season 17 |Australia-NZ |152 |1840 | | | | | |
+|[V8 Veterans Season 17](https://members.iracing.com/membersite/member/LeagueView.do?league=10129){:target="_blank"} |Season 17 |Australia-NZ |151 |1840 | | | | | |
 |[Southern Cross E\-Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=7490){:target="_blank"} |RaceKraft Simulations Summer Elantra Championship 2023/24 |Australia-NZ |58 |2349 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023D GT3 Am Series \- Waste Options |Australia-NZ |49 |1668 |Both | | | | |
 |[SRW \- CAMMUS Toyota GR86 Series 2023 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |SRW \- Shannons Toyota GR86 Nationals Season 4 2023 |Australia-NZ |46 |1785 |Open | | | | |
@@ -132,7 +122,7 @@
 |[Roadster Rumble \- Simagic Showroom Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |Season 10 |Australia-NZ |44 |1847 | | | | | |
 |[GSRC\.inc GT3 Pro Split \- Presented by Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2023D GT3 Pro Series |Australia-NZ |43 |2745 | | | | | |
 |[AOG Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5005){:target="_blank"} |Season 8 |Australia-NZ |40 |3558 |Open | | | | |
-|[Sunday Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8024){:target="_blank"} |FullBoar Rumble |Australia-NZ |39 |1502 | | | | | |
+|[Sunday Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8024){:target="_blank"} |FullBoar Rumble |Australia-NZ |38 |1493 | | | | | |
 |[Logitech G Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8323){:target="_blank"} |2022 |Australia-NZ |38 |4406 | | | | | |
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |SIMRIGS PRAC AND OPEN QUALIFYING V8 AMS |Australia-NZ |36 |1766 |Open | | | | |
 |[Premier Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=8948){:target="_blank"} |Gamer Gear Direct GT3 Endurance Championship: Season 2 |Australia-NZ |35 |None | | | | | |
@@ -167,7 +157,7 @@
 |---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
 |[SuperCars NZ V8 Championship season 1 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |ALLPORTS V8 CHAMPIONSHIP |Australia-NZ |64 |1652 | |Okayama International Circuit |Tue, January 02 01:00AM EST |Tue, January 02 06:00AM GMT |Tue, January 02 05:00PM AEDT |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Imports \- Supercars Championship S2 \(2023\) |Australia-NZ |45 |1489 |Both | | | | |
-|[Australasian Supercar eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=5586){:target="_blank"} |ASE Season 7 |Australia-NZ |32 |1889 |Fixed | | | | |
+|[Australasian Supercar eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=5586){:target="_blank"} |ASE Season 7 |Australia-NZ |31 |1922 |Fixed | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing \- V8 Champions Challenge |Australia-NZ |25 |1325 | | | | | |
 |[SuperCars NZ V8 Championship season 1 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |ALLPORT V8 CUBE CONTROLS RACE |Australia-NZ |23 |1046 | |Okayama International Circuit |Tue, January 02 01:00AM EST |Tue, January 02 06:00AM GMT |Tue, January 02 05:00PM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday Night season 5 |Australia-NZ |18 |1224 | | | | | |
@@ -188,9 +178,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|-------------|--------|------|------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |GSRC\.INC SUPERCARS 2023D |Australia-NZ |50 |1587 |Both | | | | |
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |PISSTON CUP |Australia-NZ |40 |1464 |Both |Brands Hatch Circuit |Fri, December 29 02:00AM EST |Fri, December 29 07:00AM GMT |Fri, December 29 06:00PM AEDT |
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |PISSTON CUP |Australia-NZ |41 |1481 |Both | | | | |
 |[GSRC\.inc V8SC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2023D Super2 Challenge |Australia-NZ |32 |2325 | | | | | |
 
 # Prototype
@@ -230,14 +220,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------------------|------------|-------|----|-----|-------------|--------|------|------|
 |[ASND Evolution 360 sprintcar series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Evolution\+ Pro Late Model Series |Australia-NZ |38 |2219 | | | | | |
-
-### Dirt Midget
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |speedcar super series |Australia-NZ |40 |2538 | | | | | |
 
 ### Dirt SprintCar - 360
 

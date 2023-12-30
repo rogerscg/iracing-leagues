@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[6B Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9414){:target="_blank"} |Midwest Best Pro Truck Challenge |North America |23 |2728 | | | | | |
+|[6B Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9414){:target="_blank"} |Midwest Best Pro Truck Challenge |North America |23 |2738 | | | | | |
 |[Solstice Racing League \- Wednesday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |SnG Truck Series Season 2 |North America |21 |2059 |Fixed | | | | |
 |[NORA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3061){:target="_blank"} |2023\-24 Off\-Season |North America |16 |1438 |Fixed | | | | |
 
