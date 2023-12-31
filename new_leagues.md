@@ -6,7 +6,6 @@
 |[American Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10524){:target="_blank"} | | |
 |[AMR APEX RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10539){:target="_blank"} |[Discord](https://discord.gg/CYKweAtZYn){:target="_blank"} |NextGEN Cup Series \(Season 1\) 02/03/2024   Saturday Nights\.  50% Race Length\.  Open Setup\.  Lobby Opens at 8:00pm EST\.  60 Minutes Practice\.  Qualification starts at 9:00pm EST  2 Qualifying Laps done in 5 Minutes  Race Starts at 9:05pm EST\. |
 |[Beyond The Garage Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10505){:target="_blank"} |[Discord](https://discord.gg/beyondthegarage){:target="_blank"} | |
-|[Bushnell Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10494){:target="_blank"} | |Next gen cars, 20 track season |
 |[Callaway Raceway Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=10538){:target="_blank"} | | |
 |[Central United Community Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=10535){:target="_blank"} | |A fun place to hang out and race with the CU Community\! |
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} | |Liga de Campeonatos |
@@ -14,6 +13,7 @@
 |[CPC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10533){:target="_blank"} | |GT4 League for fun\. Any skill level welcome |
 |[Dirt Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10508){:target="_blank"} |[Discord](https://discord.gg/Xgupqk4r7D){:target="_blank"} |Dirt league with many events \(FR/EN\) |
 |[DIVERTED Traffic](https://members.iracing.com/membersite/member/LeagueView.do?league=10522){:target="_blank"} | | |
+|[DRL Presents \- GTFree](https://members.iracing.com/membersite/member/LeagueView.do?league=10545){:target="_blank"} |[Discord](https://discord.gg/ZNpkwyz4SQ){:target="_blank"} |Free entry & Free tracks, just buy your preferred GT3 car\. Full details can be found in the DRL discord server\. |
 |[Duck Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10517){:target="_blank"} | |Races will be Saturday nights\. no entry fee required |
 |[Fun Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10525){:target="_blank"} | |couple of dudes being dudes |
 |[HARD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10512){:target="_blank"} |[Discord](https://discord.gg/hardracing){:target="_blank"} |HARD Racing\. League Racing\. |
@@ -35,14 +35,12 @@
 |[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} | | |
 |[PORSCHE PRO SERIES \- BY P1SIMSPORT\.COM](https://members.iracing.com/membersite/member/LeagueView.do?league=10536){:target="_blank"} |[Discord](https://discord.gg/kAudF2SHjS)){:target="_blank"} |ACQUIRE YOUR COMPETITION LICENSE \- IN 4 EASY STEPS\!  1\. Fill out the Google Form provided here: https://forms\.gle/Zxa4Vn1PuwdpWETu9   2\. Entry Fee Submission: Visit the official league website\. https://www\.p1simsport\.com/ Navigate to the &\#8220;League Entry&\#8221; section\. Click on the designated button for entering the league\. Follow the prompts to pay the entry fee securely\.   3\. Discord Confirmation: \(Discord: https://discord\.gg/kAudF2SHjS\) Send a direct message to the league admin \(Ben @benrushes\) confirming that you have completed the Google Form and paid the entry fee\.   4\. Admin Review and Finalization: The league admin will review the submitted form and payment\. Participants will receive a final message indicating their successful registration and any additional relevant information\. Upon successful review, the admin will officially confirm the participant's spot in the league via \#entry\-list in the discord\. |
 |[R&R Racing League 8 race](https://members.iracing.com/membersite/member/LeagueView.do?league=10500){:target="_blank"} | | |
-|[Redline Racing Xfinity League](https://members.iracing.com/membersite/member/LeagueView.do?league=10495){:target="_blank"} | | |
-|[Regan Bogue Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10497){:target="_blank"} | |Regan Bogue Motorsports |
 |[Small town racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10501){:target="_blank"} | | |
 |[Smokey Mountain XASCAR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10530){:target="_blank"} | | |
 |[Spring Madness Pro Invitational Main Event](https://members.iracing.com/membersite/member/LeagueView.do?league=10540){:target="_blank"} | |Main Event for the Pro Inv |
 |[Spring Madness Pro Invitational Prelim Server 1](https://members.iracing.com/membersite/member/LeagueView.do?league=10541){:target="_blank"} | |Server 1 for Prelim night |
 |[Spring Madness Pro Invitational Prelim Server 2](https://members.iracing.com/membersite/member/LeagueView.do?league=10542){:target="_blank"} | |Server 2 for Prelim night |
-|[Super Formula AI](https://members.iracing.com/membersite/member/LeagueView.do?league=10496){:target="_blank"} | |Practice for the SF against AI |
+|[THE HOUSE OF PAIN](https://members.iracing.com/membersite/member/LeagueView.do?league=10544){:target="_blank"} | |SATERDAY NIGHT SHORT TRACK |
 |[Two Drink Minimum Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10510){:target="_blank"} | | |
 |[Virtual Velocity Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10532){:target="_blank"} | | |
 |[Donnybrook Park Raceway](https://members.iracing.com/membersite/member/LeagueView.do?league=10534){:target="_blank"} | |Enthusiast's from Zim or Rhodesia or other less nice places |
@@ -50,5 +48,6 @@
 |[Northern NY Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10528){:target="_blank"} | | |
 |[Quick Finishers](https://members.iracing.com/membersite/member/LeagueView.do?league=10498){:target="_blank"} |[Discord](https://discord.gg/kfx8dENE){:target="_blank"} |Just having fun\! |
 |[Race Clutch](https://members.iracing.com/membersite/member/LeagueView.do?league=10511){:target="_blank"} | |Internal League for RC |
+|[Take It Easy Racing GT Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10546){:target="_blank"} | |Soon |
 |[YesterYear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10518){:target="_blank"} | |YesterYear Racing is a unique League that ties history to present day\. Because of the many customizable parameters available in iRacing, each race is set up based on an actual historic race\. Race length, time of day, and weather all mirror the race that took place in history\. In addition, YesterYear Racing follows the rules and point system in effect during the period in which the historic series took place\.   The launch of YesterYear Racing will take place in March 2024 and include only one series\. The inaugural series will be based on the 1990 NASCAR Whelen Modified and S\.M\.A\.R\.T\. Modified seasons\. Races will take place on Tuesday evenings at 9:00pm EST after a 55\-minute practice session and a 5\-minute qualifying session\. The first race will be held on March 12, 2024, followed by 14 races throughout the calendar year 2024\. All races will be broadcast live by Maconi Entertainment, a line of business within Maconi Setup Shop LLC\. |
 
