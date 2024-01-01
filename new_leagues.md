@@ -18,11 +18,9 @@
 |[Fun Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10525){:target="_blank"} | |couple of dudes being dudes |
 |[HARD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10512){:target="_blank"} |[Discord](https://discord.gg/hardracing){:target="_blank"} |HARD Racing\. League Racing\. |
 |[Jim Johnson's League](https://members.iracing.com/membersite/member/LeagueView.do?league=10507){:target="_blank"} | | |
-|[jos](https://members.iracing.com/membersite/member/LeagueView.do?league=10499){:target="_blank"} | | |
 |[KrustyKrabRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10526){:target="_blank"} | | |
 |[Late Model/ Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10523){:target="_blank"} | | |
 |[Leading Edge Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10504){:target="_blank"} | | |
-|[League Of Extraordinary Llama](https://members.iracing.com/membersite/member/LeagueView.do?league=10502){:target="_blank"} | |Just here to have some fun while not grinding at the daily job\. |
 |[Limitless I League](https://members.iracing.com/membersite/member/LeagueView.do?league=10514){:target="_blank"} | | |
 |[Limitless I\-League](https://members.iracing.com/membersite/member/LeagueView.do?league=10515){:target="_blank"} | | |
 |[LVRSCCA\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10529){:target="_blank"} | |Las Vegas SCCA Division |
@@ -34,8 +32,6 @@
 |[OGRE \(Old Guys Racing Experience\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10537){:target="_blank"} | |ARCA Menards League for drivers 50 and up |
 |[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} | | |
 |[PORSCHE PRO SERIES \- BY P1SIMSPORT\.COM](https://members.iracing.com/membersite/member/LeagueView.do?league=10536){:target="_blank"} |[Discord](https://discord.gg/kAudF2SHjS)){:target="_blank"} |ACQUIRE YOUR COMPETITION LICENSE \- IN 4 EASY STEPS\!  1\. Fill out the Google Form provided here: https://forms\.gle/Zxa4Vn1PuwdpWETu9   2\. Entry Fee Submission: Visit the official league website\. https://www\.p1simsport\.com/ Navigate to the &\#8220;League Entry&\#8221; section\. Click on the designated button for entering the league\. Follow the prompts to pay the entry fee securely\.   3\. Discord Confirmation: \(Discord: https://discord\.gg/kAudF2SHjS\) Send a direct message to the league admin \(Ben @benrushes\) confirming that you have completed the Google Form and paid the entry fee\.   4\. Admin Review and Finalization: The league admin will review the submitted form and payment\. Participants will receive a final message indicating their successful registration and any additional relevant information\. Upon successful review, the admin will officially confirm the participant's spot in the league via \#entry\-list in the discord\. |
-|[R&R Racing League 8 race](https://members.iracing.com/membersite/member/LeagueView.do?league=10500){:target="_blank"} | | |
-|[Small town racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10501){:target="_blank"} | | |
 |[Smokey Mountain XASCAR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10530){:target="_blank"} | | |
 |[Spring Madness Pro Invitational Main Event](https://members.iracing.com/membersite/member/LeagueView.do?league=10540){:target="_blank"} | |Main Event for the Pro Inv |
 |[Spring Madness Pro Invitational Prelim Server 1](https://members.iracing.com/membersite/member/LeagueView.do?league=10541){:target="_blank"} | |Server 1 for Prelim night |
@@ -46,7 +42,6 @@
 |[Donnybrook Park Raceway](https://members.iracing.com/membersite/member/LeagueView.do?league=10534){:target="_blank"} | |Enthusiast's from Zim or Rhodesia or other less nice places |
 |[Heel Turn](https://members.iracing.com/membersite/member/LeagueView.do?league=10503){:target="_blank"} | | |
 |[Northern NY Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10528){:target="_blank"} | | |
-|[Quick Finishers](https://members.iracing.com/membersite/member/LeagueView.do?league=10498){:target="_blank"} |[Discord](https://discord.gg/kfx8dENE){:target="_blank"} |Just having fun\! |
 |[Race Clutch](https://members.iracing.com/membersite/member/LeagueView.do?league=10511){:target="_blank"} | |Internal League for RC |
 |[Take It Easy Racing GT Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10546){:target="_blank"} | |Soon |
 |[YesterYear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10518){:target="_blank"} | |YesterYear Racing is a unique League that ties history to present day\. Because of the many customizable parameters available in iRacing, each race is set up based on an actual historic race\. Race length, time of day, and weather all mirror the race that took place in history\. In addition, YesterYear Racing follows the rules and point system in effect during the period in which the historic series took place\.   The launch of YesterYear Racing will take place in March 2024 and include only one series\. The inaugural series will be based on the 1990 NASCAR Whelen Modified and S\.M\.A\.R\.T\. Modified seasons\. Races will take place on Tuesday evenings at 9:00pm EST after a 55\-minute practice session and a 5\-minute qualifying session\. The first race will be held on March 12, 2024, followed by 14 races throughout the calendar year 2024\. All races will be broadcast live by Maconi Entertainment, a line of business within Maconi Setup Shop LLC\. |
