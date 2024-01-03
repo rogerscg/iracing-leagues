@@ -24,6 +24,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[CAMPEONATOS SART](https://members.iracing.com/membersite/member/LeagueView.do?league=10338){:target="_blank"} |SUPERESCARABAJOS SART |North America |43 |2083 | | | | | |
+|[CAMPEONATOS SART](https://members.iracing.com/membersite/member/LeagueView.do?league=10338){:target="_blank"} |SUPERESCARABAJOS SART |North America |30 |2034 | | | | | |
 |[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |23C |North America |24 |3895 | | | | | |
 

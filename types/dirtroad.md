@@ -22,5 +22,5 @@
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Off Season Pro 4 Showdown 2023/24 |Australia-NZ |30 |2487 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |S1 24 Christmas Fun dirt |Europe |16 |1967 | | | | | |
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TDKI Pro4 |North America |14 |1471 | | | | | |
-|[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |Sharpes Offroad Chaos |North America |11 |1402 |Both | | | | |
+|[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |Sharpes Offroad Chaos |North America |10 |1329 |Both | | | | |
 
