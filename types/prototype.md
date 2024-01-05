@@ -16,9 +16,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |49 |3176 | |Watkins Glen International |Wed, January 10 01:00PM EST |Wed, January 10 06:00PM GMT |Thu, January 11 05:00AM AEDT |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S18 \- Sunday \- GTP |North America |40 |1954 |Both |Long Beach Street Circuit |Sun, January 07 07:00PM EST |Mon, January 08 12:00AM GMT |Mon, January 08 11:00AM AEDT |
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |33 |3065 | |Circuit des 24 Heures du Mans |Thu, January 04 01:00PM EST |Thu, January 04 06:00PM GMT |Fri, January 05 05:00AM AEDT |
 |[Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235){:target="_blank"} |ACiL Fall Challenge 2023 |North America |19 |2009 | | | | | |
 
 ### HPD ARX-01c
@@ -34,13 +34,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|-------------------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
 |[DGTS hygge liga](https://members.iracing.com/membersite/member/LeagueView.do?league=3683){:target="_blank"} |Jule Hygge |Europe |45 |2321 |Open | | | | |
 |[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S1 |North America |37 |2658 | |Long Beach Street Circuit |Mon, January 08 07:30PM EST |Tue, January 09 12:30AM GMT |Tue, January 09 11:30AM AEDT |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prototype Challenge \- Season 2 |Europe |33 |2045 |Both |Road Atlanta |Sun, January 07 03:00PM EST |Sun, January 07 08:00PM GMT |Mon, January 08 07:00AM AEDT |
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 1 |North America |30 |2551 |Open |Long Beach Street Circuit |Thu, January 04 07:25PM EST |Fri, January 05 12:25AM GMT |Fri, January 05 11:25AM AEDT |
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 1 |North America |30 |2711 |Open |Watkins Glen International |Thu, January 11 07:25PM EST |Fri, January 12 12:25AM GMT |Fri, January 12 11:25AM AEDT |
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 6 |Europe |26 |4206 | | | | | |
-|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |SCCA SUNDAY FALL 2023 |North America |17 |1260 |Fixed | | | | |
 
 ### Ligier JS P320
 
@@ -51,7 +50,7 @@
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2024 S1 |Europe |44 |2466 |Fixed |Sonoma Raceway |Sat, January 06 01:00PM EST |Sat, January 06 06:00PM GMT |Sun, January 07 05:00AM AEDT |
 |[6 Sigma Sim Racing Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=9154){:target="_blank"} |Fall 2023 |North America |38 |1818 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, January 09 07:00PM EST |Wed, January 10 12:00AM GMT |Wed, January 10 11:00AM AEDT |
 |[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |LMP3 WORLD CHALLENGE |Europe |26 |2488 |Fixed | | | | |
-|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |22 |2493 |Fixed | | | | |
+|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |22 |2444 |Fixed | | | | |
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2023 |Australia-NZ |22 |2288 | | | | | |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint \- Season 6 |North America |19 |2128 |Both | | | | |
 |[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |MRP LMP3 CHAMPIONSHIP |Australia-NZ |18 |1281 |Both | | | | |
@@ -74,7 +73,7 @@
 |---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |42 |None |Fixed | | | | |
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |23/24 BiS Radical Cup Canada Winter Series |North America |38 |2308 |Fixed |WeatherTech Raceway at Laguna Seca |Wed, January 10 06:30PM EST |Wed, January 10 11:30PM GMT |Thu, January 11 10:30AM AEDT |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 1 |Europe |26 |3029 |Open |Circuit de Spa-Francorchamps |Thu, January 04 02:15PM EST |Thu, January 04 07:15PM GMT |Fri, January 05 06:15AM AEDT |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 1 |Europe |28 |3008 |Open |Tsukuba Circuit |Thu, January 11 02:15PM EST |Thu, January 11 07:15PM GMT |Fri, January 12 06:15AM AEDT |
 
 ### Radical SR8
 
@@ -87,6 +86,7 @@
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |PWE Season 1 |Europe |22 |3890 | |Autodromo Nazionale Monza |Fri, January 05 02:20PM EST |Fri, January 05 07:20PM GMT |Sat, January 06 06:20AM AEDT |
 |[SIMSA GR86/CTS CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8276){:target="_blank"} |SR8 Cup S1 |North America |18 |1618 |Fixed | | | | |
 |[BoX³ Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8344){:target="_blank"} |Radical SR8 Causals |North America |16 |1643 | |Oulton Park Circuit |Fri, January 05 07:00PM EST |Sat, January 06 12:00AM GMT |Sat, January 06 11:00AM AEDT |
+|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |SCCA SUNDAY FALL 2023 |North America |16 |1220 |Fixed | | | | |
 |[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Radicals |North America |10 |1323 |Fixed | | | | |
 
 ### Spec Racer Ford
