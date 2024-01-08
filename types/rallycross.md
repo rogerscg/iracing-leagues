@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[EVAL \- Eesti Virtuaalse Autospordi Liit](https://members.iracing.com/membersite/member/LeagueView.do?league=10052){:target="_blank"} |EVAL RX Trophy |Europe |35 |1736 | | | | | |
+|[EVAL \- Eesti Virtuaalse Autospordi Liit](https://members.iracing.com/membersite/member/LeagueView.do?league=10052){:target="_blank"} |EVAL RX Trophy |Europe |36 |1698 | | | | | |
 |[RX2 \(fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10282){:target="_blank"} |2023 s2 |Europe |23 |3248 | | | | | |
 |[Racecraft Spec Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2023 S2 RX1 |North America |18 |5375 | | | | | |
 |[NASA Stockcar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9777){:target="_blank"} |23C |North America |16 |2713 | | | | | |
