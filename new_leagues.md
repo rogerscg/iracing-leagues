@@ -9,19 +9,18 @@
 |[Callaway Raceway Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=10538){:target="_blank"} | | |
 |[Central United Community Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=10535){:target="_blank"} | |A fun place to hang out and race with the CU Community\! |
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} | |Liga de Campeonatos |
-|[Club Asylum Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10520){:target="_blank"} | |This is a league for distinguished gentlemen who enjoy \*\*\* around and finding out\. |
 |[CPC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10533){:target="_blank"} | |GT4 League for fun\. Any skill level welcome |
 |[CPR sim racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10551){:target="_blank"} | |ovel dirt and asphalt |
-|[DIVERTED Traffic](https://members.iracing.com/membersite/member/LeagueView.do?league=10522){:target="_blank"} | | |
 |[DRL Presents \- GTFree](https://members.iracing.com/membersite/member/LeagueView.do?league=10545){:target="_blank"} |[Discord](https://discord.gg/ZNpkwyz4SQ){:target="_blank"} |Free entry & Free tracks, just buy your preferred GT3 car\. Full details can be found in the DRL discord server\. |
+|[Dynamic Grand Prix Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10565){:target="_blank"} | |A mix of the top tier LMP, GT, and Formula racing but suited for a wider range of license holders\. |
 |[Eldred E Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10552){:target="_blank"} | |DIRT RACING |
 |[F4 Graham Crackers](https://members.iracing.com/membersite/member/LeagueView.do?league=10562){:target="_blank"} | |F4 |
 |[Formula 1000](https://members.iracing.com/membersite/member/LeagueView.do?league=10548){:target="_blank"} | |A Place for Formula 1000 Drivers to practice and race\. |
 |[Fun Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10525){:target="_blank"} | |couple of dudes being dudes |
+|[Hillbilly Speed Shop](https://members.iracing.com/membersite/member/LeagueView.do?league=10566){:target="_blank"} | |HBSS super late model league |
 |[Iron Thunder Racing Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10550){:target="_blank"} |[Discord](https://discord.gg/bgBXDXmdc6){:target="_blank"} |Your must be a member ITR\(Iron Thunder Racing\) discord to race in this league\!\! If you want to be apart of our league please use https://discord\.gg/bgBXDXmdc6 to join the discord and sign up for late model stock\. |
 |[JC's Back2Basics Mazda Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10549){:target="_blank"} | | |
 |[KrustyKrabRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10526){:target="_blank"} | | |
-|[Late Model/ Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10523){:target="_blank"} | | |
 |[LVRSCCA\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10529){:target="_blank"} | |Las Vegas SCCA Division |
 |[MTEC](https://members.iracing.com/membersite/member/LeagueView.do?league=10543){:target="_blank"} | |Multiclass Team Endurance Cup |
 |[Medieval Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10554){:target="_blank"} |[Discord](https://discord.gg/zbXTmhWhNc){:target="_blank"} |The Medieval Thunder Racing League is an iRacing league designed to simulate the competitive environment of official NASCAR series\. |
@@ -33,15 +32,17 @@
 |[R&R Superspeedway Sunday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10557){:target="_blank"} | |GO FAST STAY CLEAN 3 wide is KING\!\! |
 |[Rev Limit Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10560){:target="_blank"} | |As we get this ball rolling\.\.\. Here's is some brief info\.   This league is started by 2 guys tired of everchanging leagues\. The ones filled with admin ego complexes and the ones who don't listen to the drivers\. We plan to take inpute from everyone to help develope this into something new and fun for all\.   We plan on a 10 race test season at the beginning of February to iron out any bugs\. This test season is free\. We want to get the nonsense worked out before we make anyone pay for anything\. So feel free to give us feedback as we move forward with this\.   Thanks for joining and we hope to make this as fun as possible\. |
 |[Smokey Mountain XASCAR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10530){:target="_blank"} | | |
+|[Spec3 and friends](https://members.iracing.com/membersite/member/LeagueView.do?league=10547){:target="_blank"} | |Racing for Spec3 racers and friends of the series |
 |[Spring Madness Pro Invitational Main Event](https://members.iracing.com/membersite/member/LeagueView.do?league=10540){:target="_blank"} | |Main Event for the Pro Inv |
 |[Spring Madness Pro Invitational Prelim Server 1](https://members.iracing.com/membersite/member/LeagueView.do?league=10541){:target="_blank"} | |Server 1 for Prelim night |
 |[Spring Madness Pro Invitational Prelim Server 2](https://members.iracing.com/membersite/member/LeagueView.do?league=10542){:target="_blank"} | |Server 2 for Prelim night |
 |[Take It Easy Racing GT Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10546){:target="_blank"} | |Soon |
 |[THE HOUSE OF PAIN](https://members.iracing.com/membersite/member/LeagueView.do?league=10544){:target="_blank"} | |Come sit down kick your shoes off and sit a spell\.\.\. |
+|[UKSR Sunday Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10563){:target="_blank"} | |Sunday Night Challenge Series   New car every Iracing new season\.   Starting Sunday 14th Jan 2024 with FF 1600\. |
 |[Virtual Velocity Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10532){:target="_blank"} | |Please visit https://www\.facebook\.com/groups/virtualvelocityracing for more information\. |
+|[VTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=10564){:target="_blank"} | |A league\. For racing\. |
 |[wildmfs](https://members.iracing.com/membersite/member/LeagueView.do?league=10561){:target="_blank"} | |358s |
 |[Donnybrook Park Raceway](https://members.iracing.com/membersite/member/LeagueView.do?league=10534){:target="_blank"} | |Enthusiast's from Zim or Rhodesia or other less nice places |
 |[JSH PVT League](https://members.iracing.com/membersite/member/LeagueView.do?league=10559){:target="_blank"} | | |
 |[Northern NY Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10528){:target="_blank"} | | |
-|[Spec3 and friends](https://members.iracing.com/membersite/member/LeagueView.do?league=10547){:target="_blank"} | |Racing for Spec3 racers and friends of the series |
 
