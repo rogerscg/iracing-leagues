@@ -16,8 +16,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |25 |2564 | |Rockingham Speedway |Tue, January 09 05:00PM EST |Tue, January 09 10:00PM GMT |Wed, January 10 09:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-----------------|---------------------------|---------------------------|----------------------------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |26 |2692 | |Kentucky Speedway |Tue, January 16 05:00PM EST |Tue, January 16 10:00PM GMT |Wed, January 17 09:00AM AEDT |
 
 # Open-wheel
 
@@ -82,6 +82,14 @@
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Road 2023 |South America |29 |1569 | | | | | |
 
 # Prototype
+
+### Radical SR8
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |12 |1828 | |Virginia International Raceway |Tue, January 16 05:25PM EST |Tue, January 16 10:25PM GMT |Wed, January 17 09:25AM AEDT |
 
 ### Spec Racer Ford
 
