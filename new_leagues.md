@@ -6,8 +6,6 @@
 |[AMR APEX RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10539){:target="_blank"} |[Discord](https://discord.gg/CYKweAtZYn){:target="_blank"} |NextGEN Cup Series \(Season 1\) 02/03/2024   Saturday Nights\.  50% Race Length\.  Open Setup\.  Lobby Opens at 8:00pm EST\.  60 Minutes Practice\.  Qualification starts at 9:00pm EST  2 Qualifying Laps done in 5 Minutes  Race Starts at 9:05pm EST\. |
 |[Beam Monsters All Out](https://members.iracing.com/membersite/member/LeagueView.do?league=10556){:target="_blank"} | |Welcome to Beam Monsters All Out, the premier iRacing league that takes virtual racing to the extreme\! In this adrenaline\-fueled competition, drivers from around the globe converge to showcase their skills in a unique and thrilling environment\. |
 |[Callaway Raceway Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=10538){:target="_blank"} | | |
-|[Central United Community Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=10535){:target="_blank"} | |A fun place to hang out and race with the CU Community\! |
-|[CPC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10533){:target="_blank"} | |GT4 League for fun\. Any skill level welcome |
 |[CPR sim racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10551){:target="_blank"} | |ovel dirt and asphalt |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |[Discord](https://discord.gg/hJRXcZ4Z){:target="_blank"} |Variety racing league running Tuesday nights in UK/EU time zones\. We run 6 week season changing series each season\.  Come join us on discord and become a member of our community\. discord\.gg/hJRXcZ4Z |
 |[DRL Presents \- GTFree](https://members.iracing.com/membersite/member/LeagueView.do?league=10545){:target="_blank"} |[Discord](https://discord.gg/ZNpkwyz4SQ){:target="_blank"} |Free entry & Free tracks, just buy your preferred GT3 car\. Full details can be found in the DRL discord server\. |
@@ -18,17 +16,16 @@
 |[Hillbilly Speed Shop](https://members.iracing.com/membersite/member/LeagueView.do?league=10566){:target="_blank"} | |HBSS super late model league |
 |[Iron Thunder Racing Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10550){:target="_blank"} |[Discord](https://discord.gg/bgBXDXmdc6){:target="_blank"} |Your must be a member ITR\(Iron Thunder Racing\) discord to race in this league\!\! If you want to be apart of our league please use https://discord\.gg/bgBXDXmdc6 to join the discord and sign up for late model stock\. |
 |[JC's Back2Basics Mazda Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10549){:target="_blank"} | | |
+|[Mach 1 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10572){:target="_blank"} |[Discord](https://discord.gg/WcRQbbPD){:target="_blank"} | |
 |[MTEC](https://members.iracing.com/membersite/member/LeagueView.do?league=10543){:target="_blank"} | |Multiclass Team Endurance Cup |
 |[Medieval Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10554){:target="_blank"} |[Discord](https://discord.gg/zbXTmhWhNc){:target="_blank"} |The Medieval Thunder Racing League is an iRacing league designed to simulate the competitive environment of official NASCAR series\. |
 |[OGRE \(Old Guys Racing Experience\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10537){:target="_blank"} | |ARCA Menards League for drivers 50 and up |
-|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} | | |
 |[OTL Racing Lyga](https://members.iracing.com/membersite/member/LeagueView.do?league=10558){:target="_blank"} | | |
 |[PREMIER ENDURANCE LEAGUE \- GT4 AUSTRALIA](https://members.iracing.com/membersite/member/LeagueView.do?league=10553){:target="_blank"} | | |
 |[Progeny e\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10555){:target="_blank"} | |The MX\-5 Challenge is designed for beginner and novice iRacing members to compete in a friendly and fun environment\.  Our primary focus is on improving driving skills, promoting fair competition, and fostering a sense of community\. |
 |[R&R Superspeedway Sunday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10557){:target="_blank"} | |GO FAST STAY CLEAN 3 wide is KING\!\! |
 |[Rev Limit Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10560){:target="_blank"} | |As we get this ball rolling\.\.\. Here's is some brief info\.   This league is started by 2 guys tired of everchanging leagues\. The ones filled with admin ego complexes and the ones who don't listen to the drivers\. We plan to take inpute from everyone to help develope this into something new and fun for all\.   We plan on a 10 race test season at the beginning of February to iron out any bugs\. This test season is free\. We want to get the nonsense worked out before we make anyone pay for anything\. So feel free to give us feedback as we move forward with this\.   Thanks for joining and we hope to make this as fun as possible\. |
 |[Slinging Dirt Series by PBM](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} | |Super Late Models open setups  All Races will be streamed live on Kazzzii86d youtube |
-|[Smokey Mountain XASCAR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10530){:target="_blank"} | | |
 |[Spec3 and friends](https://members.iracing.com/membersite/member/LeagueView.do?league=10547){:target="_blank"} | |Racing for Spec3 racers and friends of the series |
 |[Spring Madness Pro Invitational Main Event](https://members.iracing.com/membersite/member/LeagueView.do?league=10540){:target="_blank"} | |Main Event for the Pro Inv |
 |[Spring Madness Pro Invitational Prelim Server 1](https://members.iracing.com/membersite/member/LeagueView.do?league=10541){:target="_blank"} | |Server 1 for Prelim night |
@@ -37,10 +34,9 @@
 |[THE HOUSE OF PAIN](https://members.iracing.com/membersite/member/LeagueView.do?league=10544){:target="_blank"} | |Come sit down kick your shoes off and sit a spell\.\.\. |
 |[Tidewater Sports Car Club Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=10569){:target="_blank"} | |TSCC Members and Friends Racing League |
 |[UKSR Sunday Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10563){:target="_blank"} | |Sunday Night Challenge Series   New car every Iracing new season\.   Starting Sunday 14th Jan 2024 with FF 1600\. |
-|[Virtual Velocity Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10532){:target="_blank"} | |Please visit https://www\.facebook\.com/groups/virtualvelocityracing for more information\. |
 |[VTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=10564){:target="_blank"} | |A league\. For racing\. |
 |[wildmfs](https://members.iracing.com/membersite/member/LeagueView.do?league=10561){:target="_blank"} | |358s |
 |[BPR MiniLiga](https://members.iracing.com/membersite/member/LeagueView.do?league=10568){:target="_blank"} | |Big Point Racing MiniLiga |
-|[Donnybrook Park Raceway](https://members.iracing.com/membersite/member/LeagueView.do?league=10534){:target="_blank"} | |Enthusiast's from Zim or Rhodesia or other less nice places |
 |[JSH PVT League](https://members.iracing.com/membersite/member/LeagueView.do?league=10559){:target="_blank"} | | |
+|[VRX 2024 World Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10571){:target="_blank"} |[Discord](https://discord.gg/vrxworld){:target="_blank"} |2024 Word Cup Tournament GEN 6 |
 
