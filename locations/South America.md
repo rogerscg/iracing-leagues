@@ -26,8 +26,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |22 |2244 | | | | | |
+|--------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|---------------|---------------------------|---------------------------|----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |22 |2244 | |Phoenix Raceway |Wed, January 17 04:30PM EST |Wed, January 17 09:30PM GMT |Thu, January 18 08:30AM AEDT |
 
 ### Lotus 79
 
