@@ -61,7 +61,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2023 Fall 963 |North America |16 |1640 |Fixed | | | | |
+|[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2023 Fall 963 |North America |16 |1630 |Fixed | | | | |
 |[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA 963 West |North America |14 |2573 | | | | | |
 |[PCA \- Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA 963 East |North America |13 |1504 | | | | | |
 
@@ -80,11 +80,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|--------------------------------|---------------------------|---------------------------|----------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2023D Downforce Legends \(Radical SR8\) |Australia-NZ |29 |2000 |Both | | | | |
+|---------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |MPRL Radical Eurotrip |North America |28 |2175 | | | | | |
-|[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |PWE Season 1 |Europe |22 |3890 | |Detroit Grand Prix at Belle Isle |Fri, January 12 02:20PM EST |Fri, January 12 07:20PM GMT |Sat, January 13 06:20AM AEDT |
-|[BoX³ Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8344){:target="_blank"} |Radical SR8 Causals |North America |18 |1598 | |Charlotte Motor Speedway |Fri, January 12 07:00PM EST |Sat, January 13 12:00AM GMT |Sat, January 13 11:00AM AEDT |
+|[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |PWE Season 1 |Europe |22 |3989 | |Red Bull Ring |Fri, January 19 02:20PM EST |Fri, January 19 07:20PM GMT |Sat, January 20 06:20AM AEDT |
+|[BoX³ Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8344){:target="_blank"} |Radical SR8 Causals |North America |18 |1514 | |Tsukuba Circuit |Fri, January 19 07:00PM EST |Sat, January 20 12:00AM GMT |Sat, January 20 11:00AM AEDT |
 |[SIMSA GR86/CTS CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8276){:target="_blank"} |SR8 Cup S1 |North America |18 |1618 |Fixed | | | | |
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2024 Radical |North America |18 |1179 |Fixed | | | | |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |12 |1828 | |Virginia International Raceway |Tue, January 16 05:25PM EST |Tue, January 16 10:25PM GMT |Wed, January 17 09:25AM AEDT |
@@ -98,5 +97,5 @@
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024 Season 1 |North America |70 |2887 |Open |Oran Park Raceway |Sun, January 14 01:40PM EST |Sun, January 14 06:40PM GMT |Mon, January 15 05:40AM AEDT |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Winter Tour SRF |North America |19 |2185 |Open | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Spec Ford Racer |North America |15 |1460 | |Watkins Glen International |Wed, January 17 08:00PM EST |Thu, January 18 01:00AM GMT |Thu, January 18 12:00PM AEDT |
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Spec Ford |South America |13 |1553 | | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Spec Ford |South America |13 |1582 | | | | | |
 
