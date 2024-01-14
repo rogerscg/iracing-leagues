@@ -4,10 +4,10 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[AOG Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10577){:target="_blank"} |[Discord](https://discord.gg/XsGRKh4){:target="_blank"} |Special Events hosted by Aussie Online Gaming \(AOG\) outside our regular league seasons |
 |[Beam Monsters All Out](https://members.iracing.com/membersite/member/LeagueView.do?league=10556){:target="_blank"} | |Welcome to Beam Monsters All Out, the premier iRacing league that takes virtual racing to the extreme\! In this adrenaline\-fueled competition, drivers from around the globe converge to showcase their skills in a unique and thrilling environment\. |
+|[BMRL Open Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=10584){:target="_blank"} | | |
 |[Chaos On Roads](https://members.iracing.com/membersite/member/LeagueView.do?league=10576){:target="_blank"} | |The official and formal League for Chaos On Roads\.  Here we take a bunch of cars that normally wouldn't \(or shouldn't\) be on a road course or on a track together and see what happens\. The results are often surprising and tons of fun is usually had in getting to the checkered flag alive\. |
 |[CPR sim racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10551){:target="_blank"} | |ovel dirt and asphalt |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |[Discord](https://discord.gg/hJRXcZ4Z){:target="_blank"} |Variety racing league running Tuesday nights in UK/EU time zones\. We run 6 week season changing series each season\.  Come join us on discord and become a member of our community\. discord\.gg/hJRXcZ4Z |
-|[DRL Presents \- GTFree](https://members.iracing.com/membersite/member/LeagueView.do?league=10545){:target="_blank"} |[Discord](https://discord.gg/ZNpkwyz4SQ){:target="_blank"} |Free entry & Free tracks, just buy your preferred GT3 car\. Full details can be found in the DRL discord server\. |
 |[Dynamic Grand Prix Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10565){:target="_blank"} | |A mix of the top tier LMP, GT, and Formula racing but suited for a wider range of license holders\. |
 |[Eldred E Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10552){:target="_blank"} | |DIRT RACING |
 |[F4 Graham Crackers](https://members.iracing.com/membersite/member/LeagueView.do?league=10562){:target="_blank"} | |F4 |
@@ -17,6 +17,7 @@
 |[JC's Back2Basics Mazda Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10549){:target="_blank"} | | |
 |[Mach 1 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10572){:target="_blank"} |[Discord](https://discord.gg/WcRQbbPD){:target="_blank"} |Welcome to Mach 1 Motorsports, we are currently offering a professionally ran and organize fixed late model league with twelve week seasons\. We look forward to see you racing with us\. In addition we are looking to add more classes in oval as well as road to our league\. To apply to race with us join our discord get in contact with us thanks\. https://discord\.gg/j9NMpYCT |
 |[Medieval Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10554){:target="_blank"} |[Discord](https://discord.gg/zbXTmhWhNc){:target="_blank"} |The Medieval Thunder Racing League is an iRacing league designed to simulate the competitive environment of official NASCAR series\. |
+|[Moldenhauer](https://members.iracing.com/membersite/member/LeagueView.do?league=10582){:target="_blank"} | | |
 |[Monticello Motor Club Esport Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10574){:target="_blank"} | |MMC's First Annual Esport Sim Challenge |
 |[OTL Racing Lyga](https://members.iracing.com/membersite/member/LeagueView.do?league=10558){:target="_blank"} | | |
 |[PREMIER ENDURANCE LEAGUE \- GT4 AUSTRALIA](https://members.iracing.com/membersite/member/LeagueView.do?league=10553){:target="_blank"} | | |
@@ -26,8 +27,6 @@
 |[Sim Racing Alliance \- Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} | |SRA Presents an IMSA\-inspired Series |
 |[Slinging Dirt Series by PBM](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} | |Super Late Models open setups  All Races will be streamed live on Kazzzii86d youtube |
 |[Spec3 and friends](https://members.iracing.com/membersite/member/LeagueView.do?league=10547){:target="_blank"} | |Racing for Spec3 racers and friends of the series |
-|[Take It Easy Racing GT Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10546){:target="_blank"} | |Soon |
-|[THE HOUSE OF PAIN](https://members.iracing.com/membersite/member/LeagueView.do?league=10544){:target="_blank"} | |Come sit down kick your shoes off and sit a spell\.\.\. |
 |[Tidewater Sports Car Club Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=10569){:target="_blank"} | |TSCC Members and Friends Racing League |
 |[UKSR Sunday Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10563){:target="_blank"} | |Sunday Night Challenge Series   New car every Iracing new season\.   Starting Sunday 14th Jan 2024 with FF 1600\. |
 |[Vanta iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10573){:target="_blank"} | |Vanta iRacing League for High Schools\. This is a free league for schools to compete against other schools in races to accumulate points\. |
@@ -36,7 +35,9 @@
 |[wildmfs](https://members.iracing.com/membersite/member/LeagueView.do?league=10561){:target="_blank"} | |358s |
 |[BiS IndyCar Test Committee](https://members.iracing.com/membersite/member/LeagueView.do?league=10578){:target="_blank"} | | |
 |[BPR MiniLiga](https://members.iracing.com/membersite/member/LeagueView.do?league=10568){:target="_blank"} | |Big Point Racing MiniLiga |
+|[Building A Legacy](https://members.iracing.com/membersite/member/LeagueView.do?league=10583){:target="_blank"} | |NASCAR Career Mode Series |
 |[Coles County Winter eSeries Practice Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=10579){:target="_blank"} | |Brought to you by RS12 eSports |
 |[JSH PVT League](https://members.iracing.com/membersite/member/LeagueView.do?league=10559){:target="_blank"} | | |
+|[Sunday Night Miata Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10581){:target="_blank"} | | |
 |[VRX 2024 World Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10571){:target="_blank"} |[Discord](https://discord.gg/vrxworld){:target="_blank"} |2024 Word Cup Tournament GEN 6 |
 
