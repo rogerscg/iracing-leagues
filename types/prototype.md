@@ -37,7 +37,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S1 |North America |51 |2714 | |Watkins Glen International |Mon, January 15 07:30PM EST |Tue, January 16 12:30AM GMT |Tue, January 16 11:30AM AEDT |
+|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S1 |North America |56 |2727 | |Daytona International Speedway |Mon, January 22 07:30PM EST |Tue, January 23 12:30AM GMT |Tue, January 23 11:30AM AEDT |
 |[DGTS hygge liga](https://members.iracing.com/membersite/member/LeagueView.do?league=3683){:target="_blank"} |Jule Hygge |Europe |45 |2321 |Open | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prototype Challenge \- Season 2 |Europe |33 |2069 |Both |Sebring International Raceway |Sun, January 21 03:00PM EST |Sun, January 21 08:00PM GMT |Mon, January 22 07:00AM AEDT |
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 1 |North America |31 |2750 |Open |Daytona International Speedway |Thu, January 18 07:25PM EST |Fri, January 19 12:25AM GMT |Fri, January 19 11:25AM AEDT |
@@ -54,7 +54,7 @@
 |[6 Sigma Sim Racing Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=9154){:target="_blank"} |Fall 2023 |North America |38 |1828 |Fixed |Daytona International Speedway |Tue, January 16 07:00PM EST |Wed, January 17 12:00AM GMT |Wed, January 17 11:00AM AEDT |
 |[RFRO GT4 Fixed Tour by NWS](https://members.iracing.com/membersite/member/LeagueView.do?league=8815){:target="_blank"} |LMP3 WORLD CHALLENGE |Europe |24 |2437 |Fixed | | | | |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint \- Season 6 |North America |23 |2122 |Both | | | | |
-|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |21 |2457 |Fixed | | | | |
+|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |21 |2413 |Fixed | | | | |
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2023 |Australia-NZ |20 |2306 | | | | | |
 |[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |MRP LMP3 CHAMPIONSHIP |Australia-NZ |15 |1207 |Both | | | | |
 |[RaceCommunity\.nl \- Seizoen \#1 \- 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10415){:target="_blank"} |RCNL \- Seizoen \#1 |Europe |11 |1598 | |Circuit Zandvoort |Wed, January 17 01:00PM EST |Wed, January 17 06:00PM GMT |Thu, January 18 05:00AM AEDT |
@@ -73,7 +73,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
-|[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |33 |None |Fixed |Circuit of the Americas |Tue, January 16 06:00PM EST |Tue, January 16 11:00PM GMT |Wed, January 17 10:00AM AEDT |
+|[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |35 |None |Fixed |Circuit of the Americas |Tue, January 16 06:00PM EST |Tue, January 16 11:00PM GMT |Wed, January 17 10:00AM AEDT |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 1 |Europe |30 |3029 |Open |Suzuka International Racing Course |Thu, January 18 02:15PM EST |Thu, January 18 07:15PM GMT |Fri, January 19 06:15AM AEDT |
 
 ### Radical SR8
@@ -94,9 +94,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024 Season 1 |North America |81 |2897 |Open | | | | |
-|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Winter Tour SRF |North America |19 |2185 |Open | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|------------------------------------|---------------------------|---------------------------|----------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024 Season 1 |North America |81 |2897 |Open |Willow Springs International Raceway |Sun, January 21 01:40PM EST |Sun, January 21 06:40PM GMT |Mon, January 22 05:40AM AEDT |
+|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Winter Tour SRF |North America |19 |2185 |Open |Sebring International Raceway |Tue, January 16 07:40PM EST |Wed, January 17 12:40AM GMT |Wed, January 17 11:40AM AEDT |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Spec Ford Racer |North America |15 |1460 | |Watkins Glen International |Wed, January 17 08:00PM EST |Thu, January 18 01:00AM GMT |Thu, January 18 12:00PM AEDT |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Spec Ford |South America |13 |1582 | | | | | |
 

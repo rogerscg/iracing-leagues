@@ -3,13 +3,13 @@
 
 # NASCAR
 
-### NASCAR 2022 NextGen
+### Draft Master 2023S4
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[Road to Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=3886){:target="_blank"} |Repescagem |South America |25 |2388 | |Rockingham Speedway |Mon, January 15 05:00PM EST |Mon, January 15 10:00PM GMT |Tue, January 16 09:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|------------------|---------------------------|---------------------------|----------------------------|
+|[Road to Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=3886){:target="_blank"} |Repescagem |South America |26 |2453 | |Darlington Raceway |Mon, January 22 05:00PM EST |Mon, January 22 10:00PM GMT |Tue, January 23 09:00AM AEDT |
 
 ### NASCAR Truck Series
 
