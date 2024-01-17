@@ -16,8 +16,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-----------------|---------------------------|---------------------------|----------------------------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |26 |2692 | |Kentucky Speedway |Tue, January 16 05:00PM EST |Tue, January 16 10:00PM GMT |Wed, January 17 09:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|---------------------|---------------------------|---------------------------|----------------------------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |27 |2677 | |Myrtle Beach Speedway |Tue, January 23 05:00PM EST |Tue, January 23 10:00PM GMT |Wed, January 24 09:00AM AEDT |
 
 # Open-wheel
 
@@ -97,6 +97,14 @@
 |--------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Road 2023 |South America |25 |1559 | | | | | |
 
+### [Legacy] Ferrari 488 GT3
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari Italiana |South America |15 |1583 | | | | | |
+
 # Prototype
 
 ### Radical SR8
@@ -104,8 +112,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |12 |1828 | |Virginia International Raceway |Tue, January 16 05:25PM EST |Tue, January 16 10:25PM GMT |Wed, January 17 09:25AM AEDT |
+|--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |14 |1873 | |Watkins Glen International |Tue, January 23 07:25PM EST |Wed, January 24 12:25AM GMT |Wed, January 24 11:25AM AEDT |
 
 ### Spec Racer Ford
 
