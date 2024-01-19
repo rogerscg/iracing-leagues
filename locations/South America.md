@@ -21,6 +21,14 @@
 
 # Open-wheel
 
+### Dallara DW12
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------|---------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |15 |1917 | | | | | |
+
 ### Dallara IR18
 
 [Back to Top](#)  
