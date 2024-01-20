@@ -61,12 +61,12 @@
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S3 Late Model Stock Hometown Series |North America |17 |1593 |Both |USA International Speedway |Wed, January 24 08:45PM EST |Thu, January 25 01:45AM GMT |Thu, January 25 12:45PM AEDT |
 |[All\-Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |Barry Elvis Performance & Fabrication Late Model Stock Series |North America |16 |2087 |Fixed | | | | |
 |[Flat Out Racing League Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8484){:target="_blank"} |Late Model Season 3 |North America |16 |1895 | | | | | |
-|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023\-2024 Off Season Short Track |North America |16 |1906 |Fixed | | | | |
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023\-2024 Off Season Short Track |North America |16 |1906 |Fixed |North Wilkesboro Speedway |Sat, January 27 06:35PM EST |Sat, January 27 11:35PM GMT |Sun, January 28 10:35AM AEDT |
 |[iCAR Pro Cup series \(SLM Series\)](https://members.iracing.com/membersite/member/LeagueView.do?league=1577){:target="_blank"} |iCar Hooters Pro Cup Series |North America |15 |2279 | | | | | |
 |[WHEELER BROTHERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |CASH CLOWNS SEASON 1 |North America |14 |1467 | | | | | |
 |[Quarantine Racing League QRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9437){:target="_blank"} |2023 CARS Six Pack |North America |14 |1624 |Fixed | | | | |
 |[LMSC Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9696){:target="_blank"} |LMSC  Series |North America |14 |1932 | | | | | |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60Plus Season 29 Late Model |North America |13 |1321 |Fixed |Myrtle Beach Speedway |Fri, January 19 12:00PM EST |Fri, January 19 05:00PM GMT |Sat, January 20 04:00AM AEDT |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60Plus Season 29 Late Model |North America |13 |1304 |Fixed |The Bullring |Fri, January 26 12:00PM EST |Fri, January 26 05:00PM GMT |Sat, January 27 04:00AM AEDT |
 |[Dirt Addiction Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3355){:target="_blank"} |Pavement Track Championship Series |North America |13 |1386 |Open | | | | |
 |[Family Friendly Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=9872){:target="_blank"} |FFRC LMS Season 3 |North America |13 |1748 |Fixed | | | | |
 |[Import Auto Care](https://members.iracing.com/membersite/member/LeagueView.do?league=4568){:target="_blank"} |Import Autocare Late model Stocks |North America |13 |1324 | | | | | |
@@ -74,6 +74,7 @@
 |[Ultimate Conquest Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7608){:target="_blank"} |All Star Open |North America |12 |3121 |Fixed | | | | |
 |[BullRing iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=3123){:target="_blank"} |2023\-B BullRing Latemodels |North America |10 |1472 | |Stafford Motor Speedway |Wed, January 24 10:00PM EST |Thu, January 25 03:00AM GMT |Thu, January 25 02:00PM AEDT |
 |[CPR Nine Three](https://members.iracing.com/membersite/member/LeagueView.do?league=2287){:target="_blank"} |Season 3 |Australia-NZ |10 |1884 |Fixed | | | | |
+|[Lucky Dog Sim Racing Super Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=9127){:target="_blank"} |Season Two |North America |10 |1599 | | | | | |
 |[Supreme Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3696){:target="_blank"} |Late Model Stocks |North America |10 |1570 | | | | | |
 
 ### Legends
@@ -86,8 +87,8 @@
 |[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends Sunrise Scramble |North America |24 |2110 | |Stafford Motor Speedway |Sat, January 20 09:30AM EST |Sat, January 20 02:30PM GMT |Sun, January 21 01:30AM AEDT |
 |[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends: Spartan 300 |North America |21 |2199 | | | | | |
 |[US Racing League SpeedWeeks Challange](https://members.iracing.com/membersite/member/LeagueView.do?league=8737){:target="_blank"} |2023 Snowball Derby Legend Car |North America |21 |1984 | | | | | |
+|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 1 |Australia-NZ |18 |1751 |Fixed | | | | |
 |[BRLx](https://members.iracing.com/membersite/member/LeagueView.do?league=960){:target="_blank"} |Sportsman LEG S02 |North America |17 |1652 |Fixed |Nashville Fairgrounds Speedway |Sat, January 20 07:00PM EST |Sun, January 21 12:00AM GMT |Sun, January 21 11:00AM AEDT |
-|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 1 |Australia-NZ |14 |1718 |Fixed |Mount Panorama Circuit |Fri, January 19 02:30AM EST |Fri, January 19 07:30AM GMT |Fri, January 19 06:30PM AEDT |
 |[Flat Out Racing \- Legends '34 Coupe Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9262){:target="_blank"} |Advanced Legends Series |North America |11 |2660 | | | | | |
 
 ### Rookie Legends
@@ -116,11 +117,11 @@
 |[iRacing Northern Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4918){:target="_blank"} |INSS \- SS \- 2023\-24 |North America |41 |2049 |Open | | | | |
 |[AllPro sim Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=4849){:target="_blank"} |ASA Street Stocks |North America |35 |2276 | |Lucas Oil Indianapolis Raceway Park |Sun, January 21 08:00PM EST |Mon, January 22 01:00AM GMT |Mon, January 22 12:00PM AEDT |
 |[DLine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4286){:target="_blank"} |Street Stocks Elevated |North America |29 |1733 | |Five Flags Speedway |Tue, January 23 08:30PM EST |Wed, January 24 01:30AM GMT |Wed, January 24 12:30PM AEDT |
-|[iRacing Super Stock League](https://members.iracing.com/membersite/member/LeagueView.do?league=5013){:target="_blank"} |ss |North America |27 |1914 |Fixed |Lucas Oil Indianapolis Raceway Park |Fri, January 19 10:00PM EST |Sat, January 20 03:00AM GMT |Sat, January 20 02:00PM AEDT |
+|[iRacing Super Stock League](https://members.iracing.com/membersite/member/LeagueView.do?league=5013){:target="_blank"} |ss |North America |28 |2067 |Fixed | | | | |
 |[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |Candler Light Street Stock Series |North America |26 |2028 | |Martinsville Speedway |Mon, January 22 07:00PM EST |Tue, January 23 12:00AM GMT |Tue, January 23 11:00AM AEDT |
-|[Northwest Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7783){:target="_blank"} |2023/2024 Street Socks |North America |25 |1771 |Fixed |North Wilkesboro Speedway |Mon, January 22 11:00PM EST |Tue, January 23 04:00AM GMT |Tue, January 23 03:00PM AEDT |
 |[XCAL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1264){:target="_blank"} |2024 XCAL RACING WEB SHOP SERIES |North America |24 |2540 |Both | | | | |
-|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S29 |North America |22 |1870 |Fixed |Nashville Fairgrounds Speedway |Fri, January 19 07:00PM EST |Sat, January 20 12:00AM GMT |Sat, January 20 11:00AM AEDT |
+|[Northwest Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7783){:target="_blank"} |2023/2024 Street Socks |North America |23 |1710 |Fixed |North Wilkesboro Speedway |Mon, January 22 11:00PM EST |Tue, January 23 04:00AM GMT |Tue, January 23 03:00PM AEDT |
+|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S29 |North America |22 |1818 |Fixed | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2023\-2024 Street Stock |North America |19 |1410 |Fixed |Richmond Raceway |Tue, January 23 07:00PM EST |Wed, January 24 12:00AM GMT |Wed, January 24 11:00AM AEDT |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S3 Street Stock Hometown Series |North America |18 |1483 |Both | | | | |
 |[Pro American Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10369){:target="_blank"} |PASSS S1 |North America |18 |2142 |Fixed | | | | |
@@ -140,10 +141,9 @@
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 SLM Short Track Season 1 |North America |34 |1944 | |The Milwaukee Mile |Mon, January 22 07:00PM EST |Tue, January 23 12:00AM GMT |Tue, January 23 11:00AM AEDT |
 |[NOSSCAR Pro Canadian Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8085){:target="_blank"} |2024 NOSSCAR Pro Canadian Cup Series |North America |27 |1913 | |Canadian Tire Motorsports Park |Sun, January 21 08:00PM EST |Mon, January 22 01:00AM GMT |Mon, January 22 12:00PM AEDT |
 |[MSiRT SLM Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9562){:target="_blank"} |SLM Winter Series |North America |25 |2664 | | | | | |
-|[BRL Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S24 |North America |23 |1985 |Fixed |Nashville Fairgrounds Speedway |Fri, January 19 07:50PM EST |Sat, January 20 12:50AM GMT |Sat, January 20 11:50AM AEDT |
+|[BRL Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S24 |North America |24 |1902 |Fixed | | | | |
 |[US Racing League SpeedWeeks Challange](https://members.iracing.com/membersite/member/LeagueView.do?league=8737){:target="_blank"} |2023 Snowball Derby \(SLM\) |North America |21 |2205 | | | | | |
 |[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Monday Night Madness Season \#12 |North America |20 |2854 |Both | | | | |
-|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Monday Night Madness Season \#11 |North America |16 |2670 |Both | | | | |
 |[Northwest Short Track Super Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=9670){:target="_blank"} |NWSTST\- Season 2 SLM |North America |15 |1669 |Fixed | | | | |
 |[Bulletproof Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10273){:target="_blank"} |Bulletproof Super Series Season 1 |North America |14 |1696 | | | | | |
 |[BAM IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8740){:target="_blank"} |BAM\-SLM\-S2 |North America |10 |1680 | |Myrtle Beach Speedway |Thu, January 25 06:30PM EST |Thu, January 25 11:30PM GMT |Fri, January 26 10:30AM AEDT |
