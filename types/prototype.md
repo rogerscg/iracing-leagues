@@ -16,11 +16,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |51 |3263 | |Nürburgring Combined |Wed, January 24 01:00PM EST |Wed, January 24 06:00PM GMT |Thu, January 25 05:00AM AEDT |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S18 \- Sunday \- GTP |North America |46 |2027 |Both |Daytona International Speedway |Sun, January 21 07:00PM EST |Mon, January 22 12:00AM GMT |Mon, January 22 11:00AM AEDT |
 |[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |23 |1997 | |Circuit de Spa-Francorchamps |Thu, January 25 08:00PM EST |Fri, January 26 01:00AM GMT |Fri, January 26 12:00PM AEDT |
-|[Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235){:target="_blank"} |ACiL Fall Challenge 2023 |North America |17 |1969 | | | | | |
 |[Slowbois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9743){:target="_blank"} |Season 5 \(Hybrid\) |North America |10 |1465 | |Daytona International Speedway |Sun, January 21 09:00PM EST |Mon, January 22 02:00AM GMT |Mon, January 22 01:00PM AEDT |
 
 ### HPD ARX-01c
@@ -51,13 +50,13 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
-|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2024 S1 |Europe |51 |2428 |Fixed |Mount Panorama Circuit |Sat, January 20 01:00PM EST |Sat, January 20 06:00PM GMT |Sun, January 21 05:00AM AEDT |
+|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2024 S1 |Europe |51 |2428 |Fixed |Mount Panorama Circuit |Sun, January 21 02:00PM EST |Sun, January 21 07:00PM GMT |Mon, January 22 06:00AM AEDT |
 |[6 Sigma Sim Racing Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=9154){:target="_blank"} |Fall 2023 |North America |38 |1842 |Fixed |Barber Motorsports Park |Tue, January 23 07:00PM EST |Wed, January 24 12:00AM GMT |Wed, January 24 11:00AM AEDT |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint \- Season 6 |North America |23 |2122 |Both | | | | |
-|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |21 |2327 |Fixed | | | | |
+|[F3 Spring Championship 2023 \- SimEnjoy](https://members.iracing.com/membersite/member/LeagueView.do?league=9380){:target="_blank"} |LMP3 |Europe |21 |2339 |Fixed | | | | |
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2023 |Australia-NZ |20 |2306 | | | | | |
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |MRP LMP3 CHAMPIONSHIP |Australia-NZ |15 |1207 |Both | | | | |
 |[RaceCommunity\.nl \- Seizoen \#1 \- 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10415){:target="_blank"} |RCNL \- Seizoen \#1 |Europe |14 |1648 | |Suzuka International Racing Course |Wed, January 24 12:59PM EST |Wed, January 24 05:59PM GMT |Thu, January 25 04:59AM AEDT |
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |MRP LMP3 CHAMPIONSHIP |Australia-NZ |11 |1221 |Both | | | | |
 
 ### Porsche 963 GTP
 
