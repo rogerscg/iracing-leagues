@@ -21,26 +21,42 @@
 |------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[AARL Blue Grey Plastic Fabrication Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4676){:target="_blank"} |Next Gen 2024 |Fixed |Daytona International Speedway |Tue, January 23 07:00PM EST |Wed, January 24 12:00AM GMT |Wed, January 24 11:00AM AEDT |
 |[American Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=36){:target="_blank"} |2024 Sunday NextGen Cup Series, Spring Season |Fixed |Daytona International Speedway |Sun, January 28 06:30PM EST |Sun, January 28 11:30PM GMT |Mon, January 29 10:30AM AEDT |
-|[Bonfire Racing League \- BPC](https://members.iracing.com/membersite/member/LeagueView.do?league=4960){:target="_blank"} |Season 10 |Fixed |Kentucky Speedway |Sun, January 21 08:50AM EST |Sun, January 21 01:50PM GMT |Mon, January 22 12:50AM AEDT |
+|[Moonlight Racing League MRL Monday Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=9943){:target="_blank"} |Season 2 |Fixed |Charlotte Motor Speedway |Mon, January 29 10:00PM EST |Tue, January 30 03:00AM GMT |Tue, January 30 02:00PM AEDT |
 |[Slingshot Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10431){:target="_blank"} |SSR Race City Race Memorabilia Cup Series | |LA Coliseum Raceway |Wed, January 24 08:00PM EST |Thu, January 25 01:00AM GMT |Thu, January 25 12:00PM AEDT |
 
-### Gen 4 Cup
+### NASCAR Cup
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|---------------|-----|-----------------------|---------------------------|---------------------------|----------------------------|
-|[No Toad Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6307){:target="_blank"} |GEN 4 Season 27 |Fixed |Talladega Superspeedway |Sun, January 21 08:15PM EST |Mon, January 22 01:15AM GMT |Mon, January 22 12:15PM AEDT |
+|--------------------------------------------------------------------------------------------------------------|-------------------|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|[Ruff\-Neck Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9844){:target="_blank"} |Monday Gen 6 Series |Fixed |Texas Motor Speedway |Mon, January 29 07:00PM EST |Tue, January 30 12:00AM GMT |Tue, January 30 11:00AM AEDT |
+
+### NASCAR Legends 1987
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------|----------------|-----|--------------------------------|---------------------------|---------------------------|----------------------------|
+|[Weed League](https://members.iracing.com/membersite/member/LeagueView.do?league=10395){:target="_blank"} |The Cannabis Cup | |Detroit Grand Prix at Belle Isle |Mon, January 29 08:30PM EST |Tue, January 30 01:30AM GMT |Tue, January 30 12:30PM AEDT |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[AARL Orr Lawn Care Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5936){:target="_blank"} |AARL 2024 Truck Series |Fixed |Daytona International Speedway |Sun, January 21 07:20PM EST |Mon, January 22 12:20AM GMT |Mon, January 22 11:20AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[Hammer Down Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4981){:target="_blank"} |Hammer Down Season 3 Truck Series |Fixed |Chicagoland Speedway |Tue, January 23 07:30PM EST |Wed, January 24 12:30AM GMT |Wed, January 24 11:30AM AEDT |
+|[Sim Racing Unleashed Craftsman Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6084){:target="_blank"} |SRU Craftsman Truck Series Season 13 | |Daytona International Speedway |Fri, January 26 06:29PM EST |Fri, January 26 11:29PM GMT |Sat, January 27 10:29AM AEDT |
 |[Total Nonstop Racing GNS Series Presented by Schue LC](https://members.iracing.com/membersite/member/LeagueView.do?league=4978){:target="_blank"} |2024 |Fixed |Atlanta Motor Speedway |Mon, January 22 07:10PM EST |Tue, January 23 12:10AM GMT |Tue, January 23 11:10AM AEDT |
+
+### Whelen Modified
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------|-------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|[AMA \| Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6516){:target="_blank"} |AMA MODS 2024 | |LA Coliseum Raceway |Mon, January 29 08:00PM EST |Tue, January 30 01:00AM GMT |Tue, January 30 12:00PM AEDT |
 
 ### XFINITY Series
 
@@ -49,6 +65,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|-------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[Affinity Racing Series Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=9675){:target="_blank"} |ARS NEXTUP Season 3 | |Daytona International Speedway |Wed, January 24 07:30PM EST |Thu, January 25 12:30AM GMT |Thu, January 25 11:30AM AEDT |
+|[No Toad Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6307){:target="_blank"} |XFINITY Season 27 |Fixed |Nashville Superspeedway |Mon, January 22 08:15PM EST |Tue, January 23 01:15AM GMT |Tue, January 23 12:15PM AEDT |
 
 # Oval
 
@@ -82,6 +99,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|--------------------------------------------|---------------------------|---------------------------|----------------------------|
+|[ARL RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10614){:target="_blank"} |ARL season 3 | |Virginia International Raceway |Wed, January 24 09:30PM EST |Thu, January 25 02:30AM GMT |Thu, January 25 01:30PM AEDT |
 |[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |BB1 Championnat saison S01\-2024 F3 | |Autodromo Internazionale Enzo e Dino Ferrari |Thu, January 25 02:30PM EST |Thu, January 25 07:30PM GMT |Fri, January 26 06:30AM AEDT |
 
 ### Dallara IR18
@@ -137,8 +155,8 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/1 | |Suzuka International Racing Course |Thu, January 25 06:25PM EST |Thu, January 25 11:25PM GMT |Fri, January 26 10:25AM AEDT |
 |[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/1 | |Suzuka International Racing Course |Thu, January 25 04:25PM EST |Thu, January 25 09:25PM GMT |Fri, January 26 08:25AM AEDT |
+|[FSL & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=9273){:target="_blank"} |Bathurst 12h | |Mount Panorama Circuit |Mon, January 29 12:00PM EST |Mon, January 29 05:00PM GMT |Tue, January 30 04:00AM AEDT |
 |[GSRC\.inc GT3 Pro Split \- Presented by Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2024D GT3 Pro Series | |Charlotte Motor Speedway |Mon, January 22 04:00AM EST |Mon, January 22 09:00AM GMT |Mon, January 22 08:00PM AEDT |
-|[SimRC\.de Endurance Meisterschaft](https://members.iracing.com/membersite/member/LeagueView.do?league=8709){:target="_blank"} |Spring Season 2024 | |Summit Point Raceway |Fri, January 26 01:00PM EST |Fri, January 26 06:00PM GMT |Sat, January 27 05:00AM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024A GT3 Am Series \- By Waste Options |Both |Charlotte Motor Speedway |Mon, January 22 03:55AM EST |Mon, January 22 08:55AM GMT |Mon, January 22 07:55PM AEDT |
 
 ### Hosted All Cars Class
@@ -146,11 +164,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----|--------------------------|---------------------------|---------------------------|----------------------------|
 |[ADAC SimRacing Cup \- Clubsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10120){:target="_blank"} |2024 | |Rudskogen Motorsenter |Mon, January 22 12:00PM EST |Mon, January 22 05:00PM GMT |Tue, January 23 04:00AM AEDT |
 |[Monticello Motor Club Esport Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10574){:target="_blank"} |Monticello Motor Club Esports Challenge Season 1 | |Watkins Glen International |Mon, January 22 07:30PM EST |Tue, January 23 12:30AM GMT |Tue, January 23 11:30AM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Sports Car \- 2024 |Fixed |Wild West Motorsports Park |Thu, January 25 08:00PM EST |Fri, January 26 01:00AM GMT |Fri, January 26 12:00PM AEDT |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |Sunday V8 Past and present ovals |Both |Michigan International Speedway |Sun, January 21 08:05AM EST |Sun, January 21 01:05PM GMT |Mon, January 22 12:05AM AEDT |
 
 ### IMPCGT4 Class
 
@@ -209,8 +226,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------|-----|----------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------------|------------------|-----|----------------------|---------------------------|---------------------------|----------------------------|
 |[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2024/1 | |Mount Panorama Circuit |Wed, January 24 04:25PM EST |Wed, January 24 09:25PM GMT |Thu, January 25 08:25AM AEDT |
+|[TCR Series by EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |ETCR Challenge S09 |Fixed |Tsukuba Circuit |Mon, January 29 06:15PM EST |Mon, January 29 11:15PM GMT |Tue, January 30 10:15AM AEDT |
 
 ### Toyota GR86
 
@@ -232,25 +250,7 @@
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024A Super3 Series |Both |Virginia International Raceway |Mon, January 22 03:10AM EST |Mon, January 22 08:10AM GMT |Mon, January 22 07:10PM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024A Up & Comers \- By Lobezy Racing |Both |Virginia International Raceway |Tue, January 23 02:50AM EST |Tue, January 23 07:50AM GMT |Tue, January 23 06:50PM AEDT |
 
-# Prototype
-
-### HPD ARX-01c
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|-----------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |ARX\-01 Cup | |Nürburgring Grand-Prix-Strecke |Sun, January 21 04:00PM EST |Sun, January 21 09:00PM GMT |Mon, January 22 08:00AM AEDT |
-
 # Dirt Oval
-
-### Dirt 358 Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------|-----|---------------------------|---------------------------|---------------------------|----------------------------|
-|[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |fun runs |Both |The Dirt Track at Charlotte |Sun, January 21 08:00PM EST |Mon, January 22 01:00AM GMT |Mon, January 22 12:00PM AEDT |
 
 ### Dirt Big Block Modified
 
@@ -259,6 +259,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|---------------------------|---------------------------|---------------------------|----------------------------|
 |[DSRL Wednesday Night Warriors Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4374){:target="_blank"} |Season 22 Big Block Mods | |The Dirt Track at Charlotte |Mon, January 22 08:00PM EST |Tue, January 23 01:00AM GMT |Tue, January 23 12:00PM AEDT |
+
+### Dirt Late Model - Limited
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------|-----------------|-----|---------------|---------------------------|---------------------------|----------------------------|
+|[Ruff\-Neck Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9844){:target="_blank"} |D\.I\.R\.T Series |Fixed |Eldora Speedway |Sun, January 28 05:00PM EST |Sun, January 28 10:00PM GMT |Mon, January 29 09:00AM AEDT |
 
 ### Dirt Street Stock
 
@@ -304,7 +312,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[Grayze Dynamics](https://members.iracing.com/membersite/member/LeagueView.do?league=9920){:target="_blank"} |Season 2 |Both |Lime Rock Park |Sun, January 21 09:15PM EST |Mon, January 22 02:15AM GMT |Mon, January 22 01:15PM AEDT |
 |[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |Mini\-Enduro Series \| 2024 |Both |Nürburgring Combined |Sun, January 28 12:30PM EST |Sun, January 28 05:30PM GMT |Mon, January 29 04:30AM AEDT |
 |[Racing Club International](https://members.iracing.com/membersite/member/LeagueView.do?league=8142){:target="_blank"} |IMSA Season 1 |Both |Daytona International Speedway |Thu, January 25 02:00PM EST |Thu, January 25 07:00PM GMT |Fri, January 26 06:00AM AEDT |
 |[BPR MiniLiga](https://members.iracing.com/membersite/member/LeagueView.do?league=10568){:target="_blank"} |24S1 | |Oulton Park Circuit |Thu, January 25 02:00PM EST |Thu, January 25 07:00PM GMT |Fri, January 26 06:00AM AEDT |
