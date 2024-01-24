@@ -8,8 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
 |[6B Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9414){:target="_blank"} |Midwest Best Pro Truck Challenge |North America |17 |2853 | | | | | |
+|[ORNL MJK Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8273){:target="_blank"} |Offroad S1 |Europe |16 |1642 | |Crandon International Raceway |Tue, January 30 02:45PM EST |Tue, January 30 07:45PM GMT |Wed, January 31 06:45AM AEDT |
 |[NORA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3061){:target="_blank"} |2023\-24 Off\-Season |North America |13 |1452 |Fixed | | | | |
 
 ### Pro 2 Lite Truck

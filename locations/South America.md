@@ -16,8 +16,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|---------------------|---------------------------|---------------------------|----------------------------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |27 |2677 | |Myrtle Beach Speedway |Tue, January 23 05:00PM EST |Tue, January 23 10:00PM GMT |Wed, January 24 09:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |27 |2725 | |LA Coliseum Raceway |Tue, January 30 05:00PM EST |Tue, January 30 10:00PM GMT |Wed, January 31 09:00AM AEDT |
 
 # Open-wheel
 
@@ -79,7 +79,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
+|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/1 |South America |37 |2074 | |Oulton Park Circuit |Tue, January 30 04:25PM EST |Tue, January 30 09:25PM GMT |Wed, January 31 08:25AM AEDT |
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T4\-2023 |South America |16 |2425 | | | | | |
 
 ### Porsche 911 GT3 Cup (992)
@@ -111,8 +112,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari Italiana |South America |16 |1466 | | | | | |
+|------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari Italiana |South America |15 |1550 | |WeatherTech Raceway at Laguna Seca |Tue, January 30 06:40PM EST |Tue, January 30 11:40PM GMT |Wed, January 31 10:40AM AEDT |
 
 # Prototype
 
@@ -121,8 +122,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |14 |1873 | |Watkins Glen International |Tue, January 23 07:25PM EST |Wed, January 24 12:25AM GMT |Wed, January 24 11:25AM AEDT |
+|--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |15 |1851 | |WeatherTech Raceway at Laguna Seca |Tue, January 30 05:25PM EST |Tue, January 30 10:25PM GMT |Wed, January 31 09:25AM AEDT |
 
 ### Spec Racer Ford
 
