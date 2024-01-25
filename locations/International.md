@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
-|[Virtual Racing Perú](https://members.iracing.com/membersite/member/LeagueView.do?league=10575){:target="_blank"} |GT4 |International |18 |2053 | |Circuit de Spa-Francorchamps |Wed, January 24 08:00PM EST |Thu, January 25 01:00AM GMT |Thu, January 25 12:00PM AEDT |
+|[Virtual Racing Perú](https://members.iracing.com/membersite/member/LeagueView.do?league=10575){:target="_blank"} |GT4 |International |20 |2053 | |Circuit de Spa-Francorchamps |Thu, January 25 07:40PM EST |Fri, January 26 12:40AM GMT |Fri, January 26 11:40AM AEDT |
 
 ### Toyota GR86
 

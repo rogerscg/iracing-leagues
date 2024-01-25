@@ -34,8 +34,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |23 |2164 | |Watkins Glen International |Wed, January 24 04:30PM EST |Wed, January 24 09:30PM GMT |Thu, January 25 08:30AM AEDT |
+|-------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|-----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |24 |2024 | |Homestead Miami Speedway |Wed, January 31 04:30PM EST |Wed, January 31 09:30PM GMT |Thu, February 01 08:30AM AEDT |
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/1 |South America |18 |2282 | |Atlanta Motor Speedway |Wed, January 31 06:35PM EST |Wed, January 31 11:35PM GMT |Thu, February 01 10:35AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -91,6 +92,14 @@
 |-------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
 |[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |T4\-2023 |South America |15 |3328 | | | | | |
 
+### Touring Car
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|-----------------------------|
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2024/1 |South America |37 |2606 | |Virginia International Raceway |Wed, January 31 04:25PM EST |Wed, January 31 09:25PM GMT |Thu, February 01 08:25AM AEDT |
+
 ### Toyota GR86
 
 [Back to Top](#)  
@@ -105,7 +114,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Road 2023 |South America |23 |1596 | | | | | |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Road 2023 |South America |20 |1623 | | | | | |
 
 ### [Legacy] Ferrari 488 GT3
 

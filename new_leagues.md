@@ -22,7 +22,6 @@
 |[Joseph Cabral Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10603){:target="_blank"} | | |
 |[Laird Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=10611){:target="_blank"} | |Echo Bay Ontario's Finest Alchys |
 |[Lappy Hour](https://members.iracing.com/membersite/member/LeagueView.do?league=10608){:target="_blank"} | |LRR |
-|[Mach 1 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10572){:target="_blank"} |[Discord](https://discord.gg/RqtABnE3){:target="_blank"} |Welcome to Mach 1 Motorsports, we are currently offering a professionally ran and organize fixed late model league with twelve week seasons\. We look forward to see you racing with us\. In addition we are looking to add more classes in oval as well as road to our league\. To apply to race with us join our discord get in contact with us thanks\. https://discord\.gg/j9NMpYCT |
 |[Major Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10606){:target="_blank"} |[Discord](https://discord.gg/wXrmhZF3){:target="_blank"} |Brand New League\. Running Pro Late Models on Saturday Nights\. 6:30ET Practice Opens up\. Qualifying is at 7ET\. $100 to win with only a $15 entry fee\. Join discord for more information with the Schedule\. |
 |[Misfits challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10618){:target="_blank"} | |laid back racing |
 |[Moldenhauer](https://members.iracing.com/membersite/member/LeagueView.do?league=10582){:target="_blank"} | | |
@@ -43,6 +42,7 @@
 |[TKC Special Events Page](https://members.iracing.com/membersite/member/LeagueView.do?league=10586){:target="_blank"} |[Discord](https://discord.gg/A664RVtyfU){:target="_blank"} |League created by the Touring Kart Championship\. The Touring Kart Championship is aimed at being an affordable, viable, and competitive stepping stone program for racing drivers and enthusiasts of all ages\. We have races all the way from New Hampshire down to Florida featuring the east coast's best drivers\. This eSports championship is meant to be a mix of our community of racing drivers as well as talent from all over the iRacing, motorsports, and eSports community\. |
 |[TMR Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10604){:target="_blank"} | | |
 |[tracc\.eu Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=10622){:target="_blank"} | |🏎️ Your based community for racing\! 🏁 |
+|[TT RACERS](https://members.iracing.com/membersite/member/LeagueView.do?league=10627){:target="_blank"} | |GAS IS ON THE RIGHT |
 |[Twisted Chassis Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10613){:target="_blank"} | | |
 |[Vanta iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10573){:target="_blank"} | |Vanta iRacing League for High Schools\. This is a free league for schools to compete against other schools in races to accumulate points\. |
 |[Virtual Racing Perú](https://members.iracing.com/membersite/member/LeagueView.do?league=10575){:target="_blank"} |[Discord](https://discord.gg/bEhRCrXv){:target="_blank"} |Liga oficial del equipo Virtual Racing Perú |
@@ -55,5 +55,4 @@
 |[PHILDECARACING INDYCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10621){:target="_blank"} | |La league pour les courses et les championnats Indycar |
 |[Sunday Night Miata Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10581){:target="_blank"} | |Sunday Nights at 9 PM  Small Cars Big Members |
 |[The Peoples Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=10625){:target="_blank"} | |Fun road series |
-|[VRX 2024 World Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10571){:target="_blank"} |[Discord](https://discord.gg/vrxworld){:target="_blank"} |2024 Word Cup Tournament GEN 6 |
 
