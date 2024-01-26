@@ -5,14 +5,13 @@
 |[AFSP 200 Charity Race](https://members.iracing.com/membersite/member/LeagueView.do?league=10594){:target="_blank"} | |Come out and race with us on January 27th at Michigan as we raise funds for the American Foundation for Su\*\*\*de Prevention\. |
 |[Alliance Racing Team ART](https://members.iracing.com/membersite/member/LeagueView.do?league=10612){:target="_blank"} | |Practice sessions for 24Hr races |
 |[American Sim Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10609){:target="_blank"} | | |
-|[AOG Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10577){:target="_blank"} |[Discord](https://discord.gg/XsGRKh4){:target="_blank"} |Special Events hosted by Aussie Online Gaming \(AOG\) outside our regular league seasons |
 |[ARL RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10614){:target="_blank"} | |F3 |
 |[Aspire Racing \- Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10615){:target="_blank"} |[Discord](https://discord.gg/7zXf4ACprMbsiteHere){:target="_blank"} | |
 |[BMRL Open Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=10584){:target="_blank"} | | |
-|[Chaos On Roads](https://members.iracing.com/membersite/member/LeagueView.do?league=10576){:target="_blank"} | |The official and formal League for Chaos On Roads\.  Here we take a bunch of cars that normally wouldn't \(or shouldn't\) be on a road course or on a track together and see what happens\. The results are often surprising and tons of fun is usually had in getting to the checkered flag alive\. |
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} | |No Drama Series |
 |[DIGITRAQZ Challenge \- Mazda MX5 Benelux](https://members.iracing.com/membersite/member/LeagueView.do?league=10593){:target="_blank"} |[Discord](https://discord.com/invite/spdJY7Dpys){:target="_blank"} |DIGITRAQZ Challenge \- Mazda MX5 Benelux |
 |[Donhue Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10587){:target="_blank"} | |Late Model Stock league |
+|[Double L](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} | |Beginners Oval League |
 |[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} | | |
 |[Flag City I\.R\.O\.C\. Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10600){:target="_blank"} | |Take 8 tracks, 14 exactly tuned cars and invite the best drivers to race them\. |
 |[Flat 6 Motorsports \(Flat6\.com\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10624){:target="_blank"} | |Flat 6 Motorsports was established to help Porsche owners find and access aftermarket parts effectively by offering a customer\-focused experience\. Our vision is to create the widest assortment of high\-quality aftermarket parts available to late model Porsche owners complemented with our in\-depth product expertise and experience\. We have owned, modified, and tracked various Porsche's since 2008 |
@@ -23,9 +22,9 @@
 |[Laird Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=10611){:target="_blank"} | |Echo Bay Ontario's Finest Alchys |
 |[Lappy Hour](https://members.iracing.com/membersite/member/LeagueView.do?league=10608){:target="_blank"} | |LRR |
 |[Major Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10606){:target="_blank"} |[Discord](https://discord.gg/wXrmhZF3){:target="_blank"} |Brand New League\. Running Pro Late Models on Saturday Nights\. 6:30ET Practice Opens up\. Qualifying is at 7ET\. $100 to win with only a $15 entry fee\. Join discord for more information with the Schedule\. |
+|[Mccormick Boys Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10629){:target="_blank"} | | |
 |[Misfits challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10618){:target="_blank"} | |laid back racing |
 |[Moldenhauer](https://members.iracing.com/membersite/member/LeagueView.do?league=10582){:target="_blank"} | | |
-|[Monticello Motor Club Esport Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10574){:target="_blank"} | |MMC's First Annual Esport Sim Challenge |
 |[Muletown Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10620){:target="_blank"} | | |
 |[NASCAR iRacing FedEx Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10597){:target="_blank"} |[Discord](https://discord.gg/zZASFt93jA){:target="_blank"} |The NASCAR iRacing FedEx Xfinity Series is the 2nd tier to the NASCAR iRacing FedEx Cup Series Running mainly on Wednesday Nights\. We are always recruiting new drivers so feel free to join our Discord Server\! |
 |[Open Wheel Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=10610){:target="_blank"} |[Discord](https://discord.gg/9sjXqZyEne){:target="_blank"} |https://discord\.gg/9sjXqZyEne |
@@ -44,8 +43,6 @@
 |[tracc\.eu Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=10622){:target="_blank"} | |🏎️ Your based community for racing\! 🏁 |
 |[TT RACERS](https://members.iracing.com/membersite/member/LeagueView.do?league=10627){:target="_blank"} | |GAS IS ON THE RIGHT |
 |[Twisted Chassis Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10613){:target="_blank"} | | |
-|[Vanta iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10573){:target="_blank"} | |Vanta iRacing League for High Schools\. This is a free league for schools to compete against other schools in races to accumulate points\. |
-|[Virtual Racing Perú](https://members.iracing.com/membersite/member/LeagueView.do?league=10575){:target="_blank"} |[Discord](https://discord.gg/bEhRCrXv){:target="_blank"} |Liga oficial del equipo Virtual Racing Perú |
 |[vVv Racing Sportscar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10602){:target="_blank"} |[Discord](https://discord.gg/SfXZRdezpD){:target="_blank"} |The VRSC is a currently running an HPD and GT3 class season with races ranging in length from 1\-2 hours\. It features a 12 race season with a race every third week\. |
 |[Williams Esports PRO](https://members.iracing.com/membersite/member/LeagueView.do?league=10598){:target="_blank"} | |best team ever |
 |[WSL Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} | |Windber Speedway League members are invited to join this fun offshoot of our ultra competitive WSL Truck Series and create some Thursday Night Thunder as we get dirty with the WSL Dirt Series\. Three sessions every Thursday night racing at one track using Legend Cars, UMP Modifieds, and Late Model Pro Cars\. |

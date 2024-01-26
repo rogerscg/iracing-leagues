@@ -65,6 +65,15 @@
 |----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
 |[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T4\-2023 |South America |18 |2991 | | | | | |
 
+### GT3 Class
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/1 |South America |40 |1716 | |Oulton Park Circuit |Thu, February 01 04:25PM EST |Thu, February 01 09:25PM GMT |Fri, February 02 08:25AM AEDT |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/1 |South America |21 |3321 | |Oulton Park Circuit |Thu, February 01 06:25PM EST |Thu, February 01 11:25PM GMT |Fri, February 02 10:25AM AEDT |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
