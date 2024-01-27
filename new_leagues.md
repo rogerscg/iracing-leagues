@@ -13,6 +13,7 @@
 |[Donhue Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10587){:target="_blank"} | |Late Model Stock league |
 |[Double L](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} | |Beginners Oval League |
 |[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} | | |
+|[ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=10635){:target="_blank"} | | |
 |[Flag City I\.R\.O\.C\. Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10600){:target="_blank"} | |Take 8 tracks, 14 exactly tuned cars and invite the best drivers to race them\. |
 |[Flat 6 Motorsports \(Flat6\.com\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10624){:target="_blank"} | |Flat 6 Motorsports was established to help Porsche owners find and access aftermarket parts effectively by offering a customer\-focused experience\. Our vision is to create the widest assortment of high\-quality aftermarket parts available to late model Porsche owners complemented with our in\-depth product expertise and experience\. We have owned, modified, and tracked various Porsche's since 2008 |
 |[Fun Indy League](https://members.iracing.com/membersite/member/LeagueView.do?league=10605){:target="_blank"} | |INDYCAR |
@@ -26,13 +27,14 @@
 |[Misfits challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10618){:target="_blank"} | |laid back racing |
 |[Moldenhauer](https://members.iracing.com/membersite/member/LeagueView.do?league=10582){:target="_blank"} | | |
 |[Muletown Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10620){:target="_blank"} | | |
+|[NARL Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=10634){:target="_blank"} | | |
 |[NASCAR iRacing FedEx Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10597){:target="_blank"} |[Discord](https://discord.gg/zZASFt93jA){:target="_blank"} |The NASCAR iRacing FedEx Xfinity Series is the 2nd tier to the NASCAR iRacing FedEx Cup Series Running mainly on Wednesday Nights\. We are always recruiting new drivers so feel free to join our Discord Server\! |
 |[Open Wheel Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=10610){:target="_blank"} |[Discord](https://discord.gg/9sjXqZyEne){:target="_blank"} |https://discord\.gg/9sjXqZyEne |
 |[Racing Pals](https://members.iracing.com/membersite/member/LeagueView.do?league=10591){:target="_blank"} | |Racing Pals presents "Pacing Pals" \- NASCAR Trucks League \- Join via the link\!\! |
 |[Resafe Joinly](https://members.iracing.com/membersite/member/LeagueView.do?league=10601){:target="_blank"} | |Sim Racing Brought to You by Questionable Human Rights Violators |
 |[Rowdy Late Model League](https://members.iracing.com/membersite/member/LeagueView.do?league=10619){:target="_blank"} | | |
+|[Sandia Speedway iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10636){:target="_blank"} | |Welcome to the official iRacing league put on by Sandia Speedway\. The league rotates cars and tracks for the four race schedule taking place on Wednesday nights, starting on February 7th, 2024\. |
 |[Showtime Silver Crown Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10626){:target="_blank"} | | |
-|[Sim Racing Alliance \- Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} | |SRA Presents an IMSA\-inspired Series |
 |[Sim Racing Unleashed Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10592){:target="_blank"} | |This is SRU's top tier series\. We race the Next Gen Cars\.   Season 15 starts Feb 25 2024  Our 33 race season averages 200 miles with limited cautions\.  We race on Sunday nights\. Gates open at 7pm est and race starts at 8pm est\.  All of our races are broadcasted\.  Class B license or above required\.   Our discord channel info will be sent to you once you are accepted through Iracings messages\.   Our full race season can be seen here: https://www\.simracerhub\.com/scoring/season\_schedule\.php?season\_id\=21265&reset\_season\=y   Visit our website at https://www\.simracing\-unleashed\.com/ |
 |[STL \- MJK Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=10623){:target="_blank"} | |Simracing Team Lowlands is a multinational team that joined forces with MJK for a stunning league\. 4 races with 4 different cars on 4 different tracks\. Nothing to do on wednesday, jump in your race sim and join us \! |
 |[The Merger](https://members.iracing.com/membersite/member/LeagueView.do?league=10616){:target="_blank"} | |Merger Racing League |
@@ -42,13 +44,18 @@
 |[TMR Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10604){:target="_blank"} | | |
 |[tracc\.eu Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=10622){:target="_blank"} | |🏎️ Your based community for racing\! 🏁 |
 |[TT RACERS](https://members.iracing.com/membersite/member/LeagueView.do?league=10627){:target="_blank"} | |GAS IS ON THE RIGHT |
+|[Twig Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10637){:target="_blank"} | |This is Twig Series, a league in partnership with DLBTV to provide another series to connect with his fanbase\! |
 |[Twisted Chassis Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10613){:target="_blank"} | | |
+|[VSR \- Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10632){:target="_blank"} | | |
+|[VSR \- NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10631){:target="_blank"} | | |
+|[VSR \- Special Event](https://members.iracing.com/membersite/member/LeagueView.do?league=10633){:target="_blank"} | | |
+|[VSR \- TCR](https://members.iracing.com/membersite/member/LeagueView.do?league=10630){:target="_blank"} | | |
 |[vVv Racing Sportscar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10602){:target="_blank"} |[Discord](https://discord.gg/SfXZRdezpD){:target="_blank"} |The VRSC is a currently running an HPD and GT3 class season with races ranging in length from 1\-2 hours\. It features a 12 race season with a race every third week\. |
 |[Williams Esports PRO](https://members.iracing.com/membersite/member/LeagueView.do?league=10598){:target="_blank"} | |best team ever |
 |[WSL Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} | |Windber Speedway League members are invited to join this fun offshoot of our ultra competitive WSL Truck Series and create some Thursday Night Thunder as we get dirty with the WSL Dirt Series\. Three sessions every Thursday night racing at one track using Legend Cars, UMP Modifieds, and Late Model Pro Cars\. |
-|[BiS IndyCar Test Committee](https://members.iracing.com/membersite/member/LeagueView.do?league=10578){:target="_blank"} | | |
 |[Building A Legacy](https://members.iracing.com/membersite/member/LeagueView.do?league=10583){:target="_blank"} | |NASCAR Career Mode Series |
 |[JM ESPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10589){:target="_blank"} | | |
+|[Misfit Racing Series and Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10638){:target="_blank"} | |The home of the Misfit Racing Series and one\-off special events\. The series is mixture of oval racing cars with rotating formats and styles across all kinds of tracks\. |
 |[PHILDECARACING INDYCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10621){:target="_blank"} | |La league pour les courses et les championnats Indycar |
 |[Sunday Night Miata Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10581){:target="_blank"} | |Sunday Nights at 9 PM  Small Cars Big Members |
 |[The Peoples Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=10625){:target="_blank"} | |Fun road series |
