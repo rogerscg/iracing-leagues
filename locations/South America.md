@@ -19,6 +19,14 @@
 |---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
 |[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |27 |2725 | |LA Coliseum Raceway |Tue, January 30 05:00PM EST |Tue, January 30 10:00PM GMT |Wed, January 31 09:00AM AEDT |
 
+### Silverado
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Oval 2024 Q1 |South America |11 |1917 | |[Legacy] Phoenix Raceway - 2008 |Sat, February 03 12:55PM EST |Sat, February 03 05:55PM GMT |Sun, February 04 04:55AM AEDT |
+
 # Open-wheel
 
 ### Dallara DW12
@@ -51,8 +59,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|----------------------|---------------------------|---------------------------|----------------------------|
-|[Classic 500 \- 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2023 \- T4 |South America |15 |2448 | | | | | |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------|---------------------------|---------------------------|----------------------------|
 |[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2024/1 |South America |13 |2228 | |Mobility Resort Motegi |Mon, January 29 06:35PM EST |Mon, January 29 11:35PM GMT |Tue, January 30 10:35AM AEDT |
 
 # Sports Car
@@ -79,9 +86,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |T3\-2023 |South America |22 |1996 | | | | | |
-|[IRB \- Heineken 0\.0 MoT Pro Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=733){:target="_blank"} |Temporada 2023 |South America |15 |4834 | | | | | |
+|------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |17 |2400 | | | | | |
 
 ### Mazda MX-5 Cup 2016
 
@@ -150,7 +156,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |25 |2376 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP IMSA MULTICLASS TEMPORADA 3 |South America |20 |2400 | | | | | |
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Champion 2023 |South America |20 |1718 | | | | | |
 
