@@ -8,16 +8,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|------------------|---------------------------|---------------------------|----------------------------|
-|[Road to Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=3886){:target="_blank"} |Repescagem |South America |26 |2472 | |Auto Club Speedway |Mon, January 29 05:00PM EST |Mon, January 29 10:00PM GMT |Tue, January 30 09:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Road to Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=3886){:target="_blank"} |Repescagem |South America |26 |2467 | | | | | |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |27 |2725 | |LA Coliseum Raceway |Tue, January 30 05:00PM EST |Tue, January 30 10:00PM GMT |Wed, January 31 09:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |27 |2756 | |Chicagoland Speedway |Tue, February 06 05:00PM EST |Tue, February 06 10:00PM GMT |Wed, February 07 09:00AM AEDT |
 
 ### Silverado
 
@@ -42,9 +42,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|-----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |24 |2024 | |Homestead Miami Speedway |Wed, January 31 04:30PM EST |Wed, January 31 09:30PM GMT |Thu, February 01 08:30AM AEDT |
-|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/1 |South America |18 |2282 | |Atlanta Motor Speedway |Wed, January 31 06:35PM EST |Wed, January 31 11:35PM GMT |Thu, February 01 10:35AM AEDT |
+|-------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |24 |2005 | |New Hampshire Motor Speedway |Wed, February 07 04:30PM EST |Wed, February 07 09:30PM GMT |Thu, February 08 08:30AM AEDT |
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/1 |South America |21 |2311 | |Las Vegas Motor Speedway |Wed, February 07 06:35PM EST |Wed, February 07 11:35PM GMT |Thu, February 08 10:35AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -59,8 +59,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------|---------------------------|---------------------------|----------------------------|
-|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2024/1 |South America |13 |2228 | |Mobility Resort Motegi |Mon, January 29 06:35PM EST |Mon, January 29 11:35PM GMT |Tue, January 30 10:35AM AEDT |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2024/1 |South America |14 |2162 | |Indianapolis Motor Speedway |Mon, February 05 06:35PM EST |Mon, February 05 11:35PM GMT |Tue, February 06 10:35AM AEDT |
 
 # Sports Car
 
@@ -94,8 +94,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/1 |South America |37 |2074 | |Oulton Park Circuit |Tue, January 30 04:25PM EST |Tue, January 30 09:25PM GMT |Wed, January 31 08:25AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/1 |South America |42 |2050 | |Okayama International Circuit |Tue, February 06 04:25PM EST |Tue, February 06 09:25PM GMT |Wed, February 07 08:25AM AEDT |
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T4\-2023 |South America |16 |2425 | | | | | |
 
 ### Porsche 911 GT3 Cup (992)
@@ -111,16 +111,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|-----------------------------|
-|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2024/1 |South America |37 |2606 | |Virginia International Raceway |Wed, January 31 04:25PM EST |Wed, January 31 09:25PM GMT |Thu, February 01 08:25AM AEDT |
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2024/1 |South America |38 |2708 | |Suzuka International Racing Course |Wed, February 07 04:25PM EST |Wed, February 07 09:25PM GMT |Thu, February 08 08:25AM AEDT |
 
 ### Toyota GR86
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/1 |South America |20 |2033 | |Charlotte Motor Speedway |Mon, January 29 04:25PM EST |Mon, January 29 09:25PM GMT |Tue, January 30 08:25AM AEDT |
+|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/1 |South America |25 |1912 | |Willow Springs International Raceway |Mon, February 05 04:25PM EST |Mon, February 05 09:25PM GMT |Tue, February 06 08:25AM AEDT |
 
 ### [Legacy] BMW Z4 GT3
 
@@ -135,8 +135,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari Italiana |South America |15 |1550 | |WeatherTech Raceway at Laguna Seca |Tue, January 30 06:40PM EST |Tue, January 30 11:40PM GMT |Wed, January 31 10:40AM AEDT |
+|------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari Italiana |South America |15 |1514 | | | | | |
 
 # Prototype
 
@@ -145,8 +145,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |15 |1851 | |WeatherTech Raceway at Laguna Seca |Tue, January 30 05:25PM EST |Tue, January 30 10:25PM GMT |Wed, January 31 09:25AM AEDT |
+|--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |17 |1836 | |Road America |Tue, February 06 05:25PM EST |Tue, February 06 10:25PM GMT |Wed, February 07 09:25AM AEDT |
 
 # Multi-class/Unclassified
 
@@ -157,7 +157,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP IMSA MULTICLASS TEMPORADA 3 |South America |20 |2400 | | | | | |
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Champion 2023 |South America |20 |1718 | | | | | |
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Champion 2023 |South America |16 |1838 | | | | | |
 
 ### Stock Car Brasil
 
@@ -165,5 +165,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"} |E\-Stock 2023 |South America |32 |4947 | | | | | |
+|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"} |E\-Stock 2023 |South America |31 |4970 | | | | | |
 
