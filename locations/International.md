@@ -3,13 +3,13 @@
 
 # Sports Car
 
-### IMPCGT4 Class
+### GT4 Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
-|[Virtual Racing Perú](https://members.iracing.com/membersite/member/LeagueView.do?league=10575){:target="_blank"} |GT4 |International |20 |2024 | |Road Atlanta |Thu, February 01 07:40PM EST |Fri, February 02 12:40AM GMT |Fri, February 02 11:40AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Virtual Racing Perú](https://members.iracing.com/membersite/member/LeagueView.do?league=10575){:target="_blank"} |GT4 |International |20 |2032 | | | | | |
 
 ### Toyota GR86
 

@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |51 |3218 | |Sebring International Raceway |Thu, February 01 01:00PM EST |Thu, February 01 06:00PM GMT |Fri, February 02 05:00AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |53 |3252 | |Autodromo Internazionale del Mugello |Wed, February 07 01:00PM EST |Wed, February 07 06:00PM GMT |Thu, February 08 05:00AM AEDT |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S18 \- Sunday \- GTP |North America |49 |2090 |Both |Sebring International Raceway |Sun, February 04 07:00PM EST |Mon, February 05 12:00AM GMT |Mon, February 05 11:00AM AEDT |
-|[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |27 |1940 | |Daytona International Speedway |Thu, February 01 08:00PM EST |Fri, February 02 01:00AM GMT |Fri, February 02 12:00PM AEDT |
+|[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |29 |1948 | | | | | |
 |[Slowbois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9743){:target="_blank"} |Season 5 \(Hybrid\) |North America |14 |1501 | | | | | |
 
 ### HPD ARX-01c
@@ -31,9 +31,9 @@
 |----------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S1 |North America |58 |2734 | |Sebring International Raceway |Mon, February 05 07:30PM EST |Tue, February 06 12:30AM GMT |Tue, February 06 11:30AM AEDT |
 |[DGTS hygge liga](https://members.iracing.com/membersite/member/LeagueView.do?league=3683){:target="_blank"} |Jule Hygge |Europe |45 |2321 |Open | | | | |
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 1 |North America |31 |2808 |Open |Sebring International Raceway |Thu, February 01 07:25PM EST |Fri, February 02 12:25AM GMT |Fri, February 02 11:25AM AEDT |
+|[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO s4 |Europe |33 |2482 |Fixed |Road America |Fri, February 02 04:00PM EST |Fri, February 02 09:00PM GMT |Sat, February 03 08:00AM AEDT |
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 1 |North America |32 |2850 |Open |Circuit de Spa-Francorchamps |Thu, February 08 07:25PM EST |Fri, February 09 12:25AM GMT |Fri, February 09 11:25AM AEDT |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prototype Challenge \- Season 2 |Europe |28 |2089 |Both | | | | |
-|[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO s4 |Europe |24 |2433 |Fixed |Road America |Thu, February 01 02:00PM EST |Thu, February 01 07:00PM GMT |Fri, February 02 06:00AM AEDT |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |Practice Proto only |Europe |22 |2602 |Fixed | | | | |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |HotStint Proto S4 |Europe |13 |None |Fixed | | | | |
 
@@ -63,9 +63,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |31 |None |Fixed | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 1 |Europe |30 |3022 |Open |Sebring International Raceway |Thu, February 01 02:15PM EST |Thu, February 01 07:15PM GMT |Fri, February 02 06:15AM AEDT |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 1 |Europe |30 |3025 |Open |Road Atlanta |Thu, February 08 02:15PM EST |Thu, February 08 07:15PM GMT |Fri, February 09 06:15AM AEDT |
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |23/24 BiS Radical Cup Canada Winter Series |North America |30 |2385 |Fixed |Watkins Glen International |Wed, February 07 06:30PM EST |Wed, February 07 11:30PM GMT |Thu, February 08 10:30AM AEDT |
 
 ### Radical SR8
@@ -86,8 +86,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Prototype night |Australia-NZ |10 |1332 |Both |Sebring International Raceway |Thu, February 01 03:30AM EST |Thu, February 01 08:30AM GMT |Thu, February 01 07:30PM AEDT |
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Prototype night |Australia-NZ |10 |1326 |Both |Circuit de Spa-Francorchamps |Thu, February 08 03:30AM EST |Thu, February 08 08:30AM GMT |Thu, February 08 07:30PM AEDT |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP King of the Hill Season 3 |North America |10 |1626 | | | | | |
 
 ### Spec Racer Ford
