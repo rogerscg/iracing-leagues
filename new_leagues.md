@@ -1,13 +1,14 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} | |The Official Sim Racing Series of the DRSCCA \- powered by iRacing |
 |[Alliance Racing Team ART](https://members.iracing.com/membersite/member/LeagueView.do?league=10612){:target="_blank"} | |Practice sessions for 24Hr races |
 |[American Sim Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10639){:target="_blank"} | | |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} | | |
 |[ARL RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10614){:target="_blank"} | |F3 |
 |[Aspire Racing \- Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10615){:target="_blank"} |[Discord](https://discord.gg/7zXf4ACprMbsiteHere){:target="_blank"} |Home of the Aspire Racing Formula Series\. |
+|[Barn Burners](https://members.iracing.com/membersite/member/LeagueView.do?league=10659){:target="_blank"} | | |
 |[Check 6 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10642){:target="_blank"} | |This League is all about having fun with the competitive edge\. Bring people together from all ages to race tracks from all around the world\. |
 |[DOC WATSON MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10648){:target="_blank"} | |SPEED WEEKS |
 |[Double L](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} | |Beginners Oval League |
@@ -18,9 +19,8 @@
 |[Fun Indy League](https://members.iracing.com/membersite/member/LeagueView.do?league=10605){:target="_blank"} | |INDYCAR |
 |[Laird Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=10611){:target="_blank"} | |Echo Bay Ontario's Finest Alchys |
 |[iRagingOfficial](https://members.iracing.com/membersite/member/LeagueView.do?league=10652){:target="_blank"} | |Serious racing with a relaxed attitude\.   Join the Discord for more info\. |
-|[Joseph Cabral Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10603){:target="_blank"} | | |
 |[Lappy Hour](https://members.iracing.com/membersite/member/LeagueView.do?league=10608){:target="_blank"} | |LRR |
-|[Major Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10606){:target="_blank"} |[Discord](https://discord.gg/wXrmhZF3){:target="_blank"} |Brand New League\. Running Pro Late Models on Saturday Nights\. 6:30ET Practice Opens up\. Qualifying is at 7ET\. $100 to win with only a $15 entry fee\. Join discord for more information with the Schedule\. |
+|[🔴 LIVE Short Track Asphalt Oval Racing League 🟢](https://members.iracing.com/membersite/member/LeagueView.do?league=10656){:target="_blank"} | |Hosted by 🟣 Kin The Know \(be kind, it's my 1st league\) 🟢 on Twitch\.tv/KinTheKnow on select evenings and weekends \(see schedule\)🔵 Enthusiast/Serious short track oval racing\. Simple rules, scoring and racing; similar to what you'd find at your local short track\. No one's voice will be heard live on our channel, as we are family streamers\. \*We cannot control the comments or actions of other's\. Appropriate discretion is always advised\* |
 |[Mama Theresa Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10647){:target="_blank"} | |MTR Motorsports |
 |[Mccormick Boys Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10629){:target="_blank"} | | |
 |[Misfits challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10618){:target="_blank"} | |laid back racing |
@@ -33,6 +33,7 @@
 |[Showtime Silver Crown Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10626){:target="_blank"} | | |
 |[STL \- MJK Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=10623){:target="_blank"} | |Simracing Team Lowlands is a multinational team that joined forces with MJK for a stunning league\. 4 races with 4 different cars on 4 different tracks\. Nothing to do on wednesday, jump in your race sim and join us \! |
 |[American Sim Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10609){:target="_blank"} | | |
+|[TANSO RACING GROUP SUBSCRIPTION EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10654){:target="_blank"} |[Discord](https://discord.gg/Wg8KKBzjz9){:target="_blank"} |Tanso Racing Group is built on the values of "clean & fair racing\. We want everyone to enjoy their racing no matter how much experience you have \.To help us achieve this we have a list of DO'S and DONT'S when racing listed below in rules |
 |[The Merger](https://members.iracing.com/membersite/member/LeagueView.do?league=10616){:target="_blank"} | |Merger Racing League |
 |[The Other Guys](https://members.iracing.com/membersite/member/LeagueView.do?league=10617){:target="_blank"} | | |
 |[TMR Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10604){:target="_blank"} | | |
@@ -41,12 +42,16 @@
 |[Twig Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10637){:target="_blank"} | |This is Twig Series, a league in partnership with DLBTV to provide another series to connect with his fanbase\! |
 |[Twisted Chassis Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10613){:target="_blank"} | | |
 |[TwoPointZero](https://members.iracing.com/membersite/member/LeagueView.do?league=10646){:target="_blank"} | | |
+|[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10655){:target="_blank"} | | |
 |[VSR \- Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10632){:target="_blank"} | | |
 |[VSR \- NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10631){:target="_blank"} | | |
 |[VSR \- Special Event](https://members.iracing.com/membersite/member/LeagueView.do?league=10633){:target="_blank"} | | |
 |[VSR \- TCR](https://members.iracing.com/membersite/member/LeagueView.do?league=10630){:target="_blank"} | | |
 |[WSL Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} | |Windber Speedway League members are invited to join this fun offshoot of our ultra competitive WSL Truck Series and create some Thursday Night Thunder as we get dirty with the WSL Dirt Series\. Three sessions every Thursday night racing at one track using Legend Cars, UMP Modifieds, and Late Model Pro Cars\. |
+|[Blau League](https://members.iracing.com/membersite/member/LeagueView.do?league=10658){:target="_blank"} | |Bling Blau |
 |[JJEP League1](https://members.iracing.com/membersite/member/LeagueView.do?league=10643){:target="_blank"} | |first iteration |
+|[Major Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10606){:target="_blank"} |[Discord](https://discord.gg/jUwA8bp8){:target="_blank"} |Brand New League\. Running Pro Late Models on Saturday Nights\. 6:30ET Practice Opens up\. Qualifying is at 7ET\. $100 to win with only a $15 entry fee\. Join discord for more information with the Schedule\. |
+|[Midvale Speedway Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10657){:target="_blank"} | |Latemodel Stocks at short tracks\. |
 |[Misfit Racing Series and Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10638){:target="_blank"} | |The home of the Misfit Racing Series and one\-off special events\. The series is mixture of oval racing cars with rotating formats and styles across all kinds of tracks\. |
 |[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} | |Missed Apex Podcast's iRacing League |
 |[NARL Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=10634){:target="_blank"} | | |
