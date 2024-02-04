@@ -24,8 +24,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Oval 2024 Q1 |South America |11 |1917 | |[Legacy] Phoenix Raceway - 2008 |Sat, February 03 12:55PM EST |Sat, February 03 05:55PM GMT |Sun, February 04 04:55AM AEDT |
+|--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Oval 2024 Q1 |South America |14 |1910 | |Daytona International Speedway |Sat, February 10 12:55PM EST |Sat, February 10 05:55PM GMT |Sun, February 11 04:55AM AEDT |
 
 # Open-wheel
 
@@ -89,14 +89,6 @@
 |-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/1 |South America |42 |2050 | |Okayama International Circuit |Tue, February 06 04:25PM EST |Tue, February 06 09:25PM GMT |Wed, February 07 08:25AM AEDT |
 |[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T4\-2023 |South America |16 |2425 | | | | | |
-
-### Porsche 911 GT3 Cup (992)
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |T4\-2023 |South America |15 |3328 | | | | | |
 
 ### Touring Car
 
