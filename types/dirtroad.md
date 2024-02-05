@@ -17,9 +17,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |17 |2241 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK RX \- 2024 |North America |13 |2191 |Fixed | | | | |
+|[UNOH iRacing eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8038){:target="_blank"} |UNOH Off Season Races |North America |12 |1194 |Fixed | | | | |
 |[W13 Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3642){:target="_blank"} |Fun Series '24 |Europe |11 |3389 | | | | | |
 
 ### Pro 4 Truck

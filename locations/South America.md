@@ -56,14 +56,6 @@
 
 # Sports Car
 
-### Ferrari 296 GT3
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |T4\-2023 |South America |18 |2991 | | | | | |
-
 ### GT3 Class
 
 [Back to Top](#)  
