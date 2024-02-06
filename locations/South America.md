@@ -51,8 +51,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2024/1 |South America |14 |2162 | |Indianapolis Motor Speedway |Mon, February 05 06:35PM EST |Mon, February 05 11:35PM GMT |Tue, February 06 10:35AM AEDT |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2024/1 |South America |16 |2150 | |Nashville Superspeedway |Mon, February 12 06:35PM EST |Mon, February 12 11:35PM GMT |Tue, February 13 10:35AM AEDT |
 
 # Sports Car
 
@@ -78,9 +78,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/1 |South America |42 |2050 | |Okayama International Circuit |Tue, February 06 04:25PM EST |Tue, February 06 09:25PM GMT |Wed, February 07 08:25AM AEDT |
-|[IRB \- Zanoello Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3090){:target="_blank"} |T4\-2023 |South America |16 |2425 | | | | | |
 
 ### Touring Car
 
@@ -95,8 +94,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/1 |South America |25 |1912 | |Willow Springs International Raceway |Mon, February 05 04:25PM EST |Mon, February 05 09:25PM GMT |Tue, February 06 08:25AM AEDT |
+|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/1 |South America |26 |1934 | |Sebring International Raceway |Mon, February 12 04:25PM EST |Mon, February 12 09:25PM GMT |Tue, February 13 08:25AM AEDT |
 
 ### [Legacy] BMW Z4 GT3
 
@@ -132,7 +131,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP IMSA MULTICLASS TEMPORADA 3 |South America |20 |2400 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP IMSA MULTICLASS TEMPORADA 3 |South America |22 |2377 | | | | | |
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |19 |1895 | | | | | |
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Champion 2023 |South America |16 |1838 | | | | | |
 
