@@ -45,7 +45,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2024 S1 |Europe |51 |2387 |Fixed |Road America |Sat, February 10 01:00PM EST |Sat, February 10 06:00PM GMT |Sun, February 11 05:00AM AEDT |
 |[6 Sigma Sim Racing Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=9154){:target="_blank"} |Fall 2023 |North America |35 |1870 |Fixed | | | | |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint \- Season 6 |North America |22 |2182 |Both |Road Atlanta |Tue, February 06 08:00PM EST |Wed, February 07 01:00AM GMT |Wed, February 07 12:00PM AEDT |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint \- Season 6 |North America |22 |2182 |Both |Road Atlanta |Wed, February 07 07:00PM EST |Thu, February 08 12:00AM GMT |Thu, February 08 11:00AM AEDT |
 |[RaceCommunity\.nl \- Seizoen \#1 \- 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10415){:target="_blank"} |RCNL \- Seizoen \#1 |Europe |15 |1621 | |Circuit de Spa-Francorchamps |Wed, February 07 12:59PM EST |Wed, February 07 05:59PM GMT |Thu, February 08 04:59AM AEDT |
 
 ### Porsche 963 GTP
@@ -75,8 +75,8 @@
 |---------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2024 Radical |North America |22 |1142 |Fixed | | | | |
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |PWE Season 1 |Europe |22 |4152 | |Watkins Glen International |Fri, February 09 02:20PM EST |Fri, February 09 07:20PM GMT |Sat, February 10 06:20AM AEDT |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |19 |1832 | | | | | |
 |[BoX³ Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8344){:target="_blank"} |Radical SR8 Causals |North America |18 |1514 | | | | | |
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |17 |1836 | |Road America |Tue, February 06 05:25PM EST |Tue, February 06 10:25PM GMT |Wed, February 07 09:25AM AEDT |
 |[SIMSA GR86/CTS CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8276){:target="_blank"} |SR8 Cup S1 |North America |17 |1646 |Fixed | | | | |
 
 ### Riley Daytona Prototype
@@ -92,8 +92,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024 Season 1 |North America |95 |2849 |Open |Road America |Sun, February 11 01:40PM EST |Sun, February 11 06:40PM GMT |Mon, February 12 05:40AM AEDT |
-|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Winter Tour SRF |North America |37 |2322 |Open |Mid-Ohio Sports Car Course |Tue, February 06 07:40PM EST |Wed, February 07 12:40AM GMT |Wed, February 07 11:40AM AEDT |
+|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Winter Tour SRF |North America |38 |2365 |Open | | | | |
+|[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |Season 1 |North America |28 |1587 | |Road Atlanta |Tue, February 13 07:00PM EST |Wed, February 14 12:00AM GMT |Wed, February 14 11:00AM AEDT |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Spec Ford Racer |North America |16 |1454 | | | | | |
 

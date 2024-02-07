@@ -11,11 +11,3 @@
 |-----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[Virtual Racing Perú](https://members.iracing.com/membersite/member/LeagueView.do?league=10575){:target="_blank"} |GT4 |International |20 |2032 | |Sebring International Raceway |Wed, February 07 08:00PM EST |Thu, February 08 01:00AM GMT |Thu, February 08 12:00PM AEDT |
 
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |MX\-5 Cup |International |11 |1948 | | | | | |
-
