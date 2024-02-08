@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S18 \- Sunday \- GTP |North America |54 |2089 |Both |Circuit de Spa-Francorchamps |Sun, February 11 07:00PM EST |Mon, February 12 12:00AM GMT |Mon, February 12 11:00AM AEDT |
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |53 |3252 | |Autodromo Internazionale del Mugello |Wed, February 07 01:00PM EST |Wed, February 07 06:00PM GMT |Thu, February 08 05:00AM AEDT |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |53 |3284 | |Autodromo Internazionale del Mugello |Thu, February 08 01:00PM EST |Thu, February 08 06:00PM GMT |Fri, February 09 05:00AM AEDT |
 |[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |29 |1948 | |Hungaroring |Thu, February 08 08:00PM EST |Fri, February 09 01:00AM GMT |Fri, February 09 12:00PM AEDT |
 |[Slowbois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9743){:target="_blank"} |Season 5 \(Hybrid\) |North America |14 |1495 | |Watkins Glen International |Sun, February 11 08:20PM EST |Mon, February 12 01:20AM GMT |Mon, February 12 12:20PM AEDT |
 
@@ -20,7 +20,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------|--------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[Speed Racing France](https://members.iracing.com/membersite/member/LeagueView.do?league=4901){:target="_blank"} |10 \- SRF Saison 10 \- HPD\-ARX |Europe |19 |2408 | | | | | |
+|[Speed Racing France](https://members.iracing.com/membersite/member/LeagueView.do?league=4901){:target="_blank"} |10 \- SRF Saison 10 \- HPD\-ARX |Europe |19 |2419 | | | | | |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |ARX\-01 Cup |Europe |17 |1938 | |Okayama International Circuit |Sun, February 11 04:00PM EST |Sun, February 11 09:00PM GMT |Mon, February 12 08:00AM AEDT |
 
 ### Hosted All Cars Class
@@ -42,11 +42,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship 2024 S1 |Europe |51 |2387 |Fixed |Road America |Sat, February 10 01:00PM EST |Sat, February 10 06:00PM GMT |Sun, February 11 05:00AM AEDT |
 |[6 Sigma Sim Racing Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=9154){:target="_blank"} |Fall 2023 |North America |35 |1870 |Fixed | | | | |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint \- Season 6 |North America |22 |2182 |Both |Road Atlanta |Wed, February 07 07:00PM EST |Thu, February 08 12:00AM GMT |Thu, February 08 11:00AM AEDT |
-|[RaceCommunity\.nl \- Seizoen \#1 \- 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10415){:target="_blank"} |RCNL \- Seizoen \#1 |Europe |15 |1621 | |Circuit de Spa-Francorchamps |Wed, February 07 12:59PM EST |Wed, February 07 05:59PM GMT |Thu, February 08 04:59AM AEDT |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint \- Season 6 |North America |23 |2156 |Both | | | | |
+|[RaceCommunity\.nl \- Seizoen \#1 \- 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10415){:target="_blank"} |RCNL \- Seizoen \#1 |Europe |16 |1676 | | | | | |
 
 ### Porsche 963 GTP
 
@@ -54,7 +54,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Porsche TAG HEUER Esports Supercup All\-Star Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6129){:target="_blank"} |2024 PESC All\-Star Series |Europe |17 |4526 | |Hockenheimring Baden-Württemberg |Wed, February 07 10:00AM EST |Wed, February 07 03:00PM GMT |Thu, February 08 02:00AM AEDT |
+|[Porsche TAG HEUER Esports Supercup All\-Star Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6129){:target="_blank"} |2024 PESC All\-Star Series |Europe |17 |4526 | |Hockenheimring Baden-Württemberg |Fri, February 09 04:00AM EST |Fri, February 09 09:00AM GMT |Fri, February 09 08:00PM AEDT |
 |[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2023 Fall 963 |North America |10 |1674 |Fixed | | | | |
 
 ### Radical SR10
@@ -62,10 +62,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |31 |None |Fixed | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 1 |Europe |30 |3025 |Open |Road Atlanta |Thu, February 08 02:15PM EST |Thu, February 08 07:15PM GMT |Fri, February 09 06:15AM AEDT |
-|[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |23/24 BiS Radical Cup Canada Winter Series |North America |30 |2385 |Fixed |Watkins Glen International |Wed, February 07 06:30PM EST |Wed, February 07 11:30PM GMT |Thu, February 08 10:30AM AEDT |
+|[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |23/24 BiS Radical Cup Canada Winter Series |North America |30 |2385 |Fixed | | | | |
 
 ### Radical SR8
 
@@ -73,7 +73,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2024 Radical |North America |22 |1142 |Fixed | | | | |
+|[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2024 Radical |North America |22 |1142 |Fixed |Oran Park Raceway |Thu, February 15 09:30PM EST |Fri, February 16 02:30AM GMT |Fri, February 16 01:30PM AEDT |
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |PWE Season 1 |Europe |22 |4152 | |Watkins Glen International |Fri, February 09 02:20PM EST |Fri, February 09 07:20PM GMT |Sat, February 10 06:20AM AEDT |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |19 |1832 | | | | | |
 |[BoX³ Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8344){:target="_blank"} |Radical SR8 Causals |North America |18 |1514 | | | | | |

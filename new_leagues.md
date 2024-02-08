@@ -29,6 +29,7 @@
 |[Nasmar Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10640){:target="_blank"} |[Discord](https://discord.gg/EJJtA4Jb){:target="_blank"} |We race Arca Cup Trucks and more |
 |[NZ Virtual Toyota 86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10662){:target="_blank"} |[Discord](https://discord.gg/V9cZ6FH6Ky){:target="_blank"} |New Zealand Virtual Toyota 86 Championship held every Tuesday night at 7PM\. Join the Discord for more information |
 |[OAS IRACING DIRT LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10680){:target="_blank"} | |Where The Stars Fly |
+|[OGRE TRUCK SEREIS](https://members.iracing.com/membersite/member/LeagueView.do?league=10684){:target="_blank"} | |Fixed set truck sereis for drivers 50 and older |
 |[OLDGITT](https://members.iracing.com/membersite/member/LeagueView.do?league=10681){:target="_blank"} | |Official L49 Drivers Grand International Tourist Trophy |
 |[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} | | |
 |[RLMS \- Retro Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10661){:target="_blank"} |[Discord](https://discord.gg/jexBT6Pw){:target="_blank"} |Modeled after the ALMS Series circa 2004\-2014\. Five classes of cars compete on All\-American tracks\.  LMP1  LMP2  LMPC  GTE  GTC |
@@ -36,9 +37,9 @@
 |[Street Revolution Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10673){:target="_blank"} | |We are a fun having group looking to create a great environment for drivers of all experience levels |
 |[TANSO RACING GROUP SUBSCRIPTION EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10654){:target="_blank"} |[Discord](https://discord.gg/Wg8KKBzjz9){:target="_blank"} |Tanso Racing Group is built on the values of "clean & fair racing\. We want everyone to enjoy their racing no matter how much experience you have \.To help us achieve this we have a list of DO'S and DONT'S when racing listed below in rules |
 |[Team Sahlen's Test Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=10678){:target="_blank"} | | |
-|[TT RACERS](https://members.iracing.com/membersite/member/LeagueView.do?league=10627){:target="_blank"} | |GAS IS ON THE RIGHT |
 |[Twig Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10637){:target="_blank"} | |This is Twig Series, a league in partnership with DLBTV to provide another series to connect with his fanbase\! |
 |[TwoPointZero](https://members.iracing.com/membersite/member/LeagueView.do?league=10646){:target="_blank"} | | |
+|[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |[Discord](https://discord.gg/velocity-internatio){:target="_blank"} |Velocity was born from a console ACC league and is expanding into the iRacing space\! |
 |[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10655){:target="_blank"} | | |
 |[VSR \- Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10632){:target="_blank"} | | |
 |[VSR \- NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10631){:target="_blank"} | | |
@@ -50,12 +51,12 @@
 |[ASSCAR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10638){:target="_blank"} | |The home of the Association for Simulated Stock Car Auto Racing's Short Track Series\. |
 |[Belgian F4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10676){:target="_blank"} | |The Belgian F4 Championship 2024, certified by RACB and organized by BSRF, is a captivating motorsport competition held on the virtual platform of iRacing\. This championship utilizes the FIA approved FIA F4 formula car\. BSRF, known for its expertise in the Virtual Belcar and other series, plays a pivotal role in orchestrating this thrilling championship\. |
 |[Blau League](https://members.iracing.com/membersite/member/LeagueView.do?league=10658){:target="_blank"} | |Bling Blau |
+|[DSR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10685){:target="_blank"} | |Members Only \- Oval & Road \- Multiple Mods |
 |[JJEP League1](https://members.iracing.com/membersite/member/LeagueView.do?league=10643){:target="_blank"} | |first iteration |
 |[Klamath Basin Racin](https://members.iracing.com/membersite/member/LeagueView.do?league=10664){:target="_blank"} | |Klamath Falls Racing League |
 |[Midvale Speedway Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10657){:target="_blank"} | |Latemodel Stocks at short tracks\. |
 |[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} | |Missed Apex Podcast's iRacing League |
 |[NARL Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=10634){:target="_blank"} | | |
 |[Photomans Paradise](https://members.iracing.com/membersite/member/LeagueView.do?league=10644){:target="_blank"} | |click clack |
-|[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |[Discord](https://discord.gg/velocity-internatio){:target="_blank"} |Velocity was born from a console ACC league and is expanding into the iRacing space\! |
 |[VPRC Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10666){:target="_blank"} | |Buckle Up, Buttercup\! It's Time for the VPRC Cup\. Where the racing will make you question your life choices\. Remember, we're not racing to win, we're racing to avoid last place\. |
 

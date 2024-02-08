@@ -34,9 +34,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |24 |2005 | |New Hampshire Motor Speedway |Wed, February 07 04:30PM EST |Wed, February 07 09:30PM GMT |Thu, February 08 08:30AM AEDT |
-|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/1 |South America |21 |2311 | |Las Vegas Motor Speedway |Wed, February 07 06:35PM EST |Wed, February 07 11:35PM GMT |Thu, February 08 10:35AM AEDT |
+|-------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |24 |2108 | | | | | |
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/1 |South America |23 |2364 | |Dover Motor Speedway |Wed, February 14 06:35PM EST |Wed, February 14 11:35PM GMT |Thu, February 15 10:35AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -87,8 +87,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2024/1 |South America |38 |2708 | |Suzuka International Racing Course |Wed, February 07 04:25PM EST |Wed, February 07 09:25PM GMT |Thu, February 08 08:25AM AEDT |
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2024/1 |South America |38 |2716 | |Okayama International Circuit |Wed, February 14 04:25PM EST |Wed, February 14 09:25PM GMT |Thu, February 15 08:25AM AEDT |
 
 ### Toyota GR86
 
