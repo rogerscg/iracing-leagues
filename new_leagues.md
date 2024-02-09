@@ -10,7 +10,6 @@
 |[Check 6 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10642){:target="_blank"} | |This League is all about having fun with the competitive edge\. Bring people together from all ages to race tracks from all around the world\. |
 |[Chuku Gaming Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10660){:target="_blank"} |[Discord](https://discord.gg/VXZ7j8vF){:target="_blank"} |Welcome to Chuku Gaming Racing Series, we're running multi\-class series SERIES 1 \- GTP,LMP2 & GT3\. SERIES 2 \- GT4 & TCR \(Touring Class\)\. All race series will FIXED SETUPS, races will be Wednesday night \(subject to change\) at 1930hrs \(7:30pm\)\. At this moment no iRating for any class required\. All drivers meeting, communications & Series info will be Via Discord\. Please join our discord link https://discord\.gg/VXZ7j8vF |
 |[DOC WATSON MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10648){:target="_blank"} | |SPEED WEEKS |
-|[Double L](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} | |Beginners Oval League |
 |[East coast Thursday Night Funder](https://members.iracing.com/membersite/member/LeagueView.do?league=10653){:target="_blank"} | | |
 |[Emerald Coast Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10667){:target="_blank"} | |A league open to local racers on the Fl/Al Emerald Coast |
 |[ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=10635){:target="_blank"} | | |
@@ -23,7 +22,6 @@
 |[JJJ Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10683){:target="_blank"} | |Triple J sim racing is a no drama league |
 |[🔴 LIVE Short Track Asphalt Oval Racing League 🟢](https://members.iracing.com/membersite/member/LeagueView.do?league=10656){:target="_blank"} | |Hosted by 🟣 Kin The Know \(be kind, it's my 1st league\) 🟢 on Twitch\.tv/KinTheKnow on select evenings and weekends \(see schedule\)🔵 Enthusiast/Serious short track oval racing\. Simple rules, scoring and racing; similar to what you'd find at your local short track\. No one's voice will be heard live on our channel, as we are family streamers\. \*We cannot control the comments or actions of other's\. Appropriate discretion is always advised\* |
 |[Mama Theresa Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10647){:target="_blank"} | |MTR Motorsports |
-|[Mccormick Boys Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10629){:target="_blank"} | | |
 |[Medon Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=10677){:target="_blank"} | | |
 |[NASCAR Weather Tech Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10670){:target="_blank"} | |IMSA's NASCAR Division |
 |[Nasmar Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10640){:target="_blank"} |[Discord](https://discord.gg/EJJtA4Jb){:target="_blank"} |We race Arca Cup Trucks and more |
@@ -34,6 +32,7 @@
 |[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} | | |
 |[RLMS \- Retro Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10661){:target="_blank"} |[Discord](https://discord.gg/jexBT6Pw){:target="_blank"} |Modeled after the ALMS Series circa 2004\-2014\. Five classes of cars compete on All\-American tracks\.  LMP1  LMP2  LMPC  GTE  GTC |
 |[Sandia Speedway iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10636){:target="_blank"} | |Welcome to the official iRacing league put on by Sandia Speedway\. The league rotates cars and tracks for the four race schedule taking place on Wednesday nights, starting on February 7th, 2024\. |
+|[SpecE46](https://members.iracing.com/membersite/member/LeagueView.do?league=10686){:target="_blank"} | |SpecE46 Racers |
 |[Street Revolution Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10673){:target="_blank"} | |We are a fun having group looking to create a great environment for drivers of all experience levels |
 |[TANSO RACING GROUP SUBSCRIPTION EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10654){:target="_blank"} |[Discord](https://discord.gg/Wg8KKBzjz9){:target="_blank"} |Tanso Racing Group is built on the values of "clean & fair racing\. We want everyone to enjoy their racing no matter how much experience you have \.To help us achieve this we have a list of DO'S and DONT'S when racing listed below in rules |
 |[Team Sahlen's Test Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=10678){:target="_blank"} | | |
@@ -51,7 +50,10 @@
 |[ASSCAR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10638){:target="_blank"} | |The home of the Association for Simulated Stock Car Auto Racing's Short Track Series\. |
 |[Belgian F4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10676){:target="_blank"} | |The Belgian F4 Championship 2024, certified by RACB and organized by BSRF, is a captivating motorsport competition held on the virtual platform of iRacing\. This championship utilizes the FIA approved FIA F4 formula car\. BSRF, known for its expertise in the Virtual Belcar and other series, plays a pivotal role in orchestrating this thrilling championship\. |
 |[Blau League](https://members.iracing.com/membersite/member/LeagueView.do?league=10658){:target="_blank"} | |Bling Blau |
+|[da bois](https://members.iracing.com/membersite/member/LeagueView.do?league=10689){:target="_blank"} | |the fun league |
+|[Disgruntled Gaming Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10687){:target="_blank"} | | |
 |[DSR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10685){:target="_blank"} | |Members Only \- Oval & Road \- Multiple Mods |
+|[Internet Sim\-Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10688){:target="_blank"} | |The ISRA |
 |[JJEP League1](https://members.iracing.com/membersite/member/LeagueView.do?league=10643){:target="_blank"} | |first iteration |
 |[Klamath Basin Racin](https://members.iracing.com/membersite/member/LeagueView.do?league=10664){:target="_blank"} | |Klamath Falls Racing League |
 |[Midvale Speedway Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10657){:target="_blank"} | |Latemodel Stocks at short tracks\. |
