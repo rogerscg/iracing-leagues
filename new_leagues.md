@@ -1,7 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} | |The Official Sim Racing Series of the DRSCCA \- powered by iRacing |
 |[American Sim Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10639){:target="_blank"} | | |
 |[Apex Racing Québec](https://members.iracing.com/membersite/member/LeagueView.do?league=10679){:target="_blank"} | |League de road course GT3/GT4/MX5/GR86/AUDI et plus encore |
@@ -12,7 +12,7 @@
 |[DOC WATSON MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10648){:target="_blank"} | |SPEED WEEKS |
 |[East coast Thursday Night Funder](https://members.iracing.com/membersite/member/LeagueView.do?league=10653){:target="_blank"} | | |
 |[Emerald Coast Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10667){:target="_blank"} | |A league open to local racers on the Fl/Al Emerald Coast |
-|[ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=10635){:target="_blank"} | | |
+|[Essayons E\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10690){:target="_blank"} |[Discord](https://discord.gg/ryMd7nawba){:target="_blank"} |Veteran owned & operated |
 |[Fast Squids](https://members.iracing.com/membersite/member/LeagueView.do?league=10641){:target="_blank"} | |Fast Squid League \- BC\- Canada |
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} | |A place to race, have fun, and compete for wins with clean racers\. |
 |[FullBoar Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10669){:target="_blank"} | |Free Races across all iRacing disciplines |
@@ -29,25 +29,19 @@
 |[OAS IRACING DIRT LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10680){:target="_blank"} | |Where The Stars Fly |
 |[OGRE TRUCK SEREIS](https://members.iracing.com/membersite/member/LeagueView.do?league=10684){:target="_blank"} | |Fixed set truck sereis for drivers 50 and older |
 |[OLDGITT](https://members.iracing.com/membersite/member/LeagueView.do?league=10681){:target="_blank"} | |Official L49 Drivers Grand International Tourist Trophy |
+|[Red Ken Touring Car Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10691){:target="_blank"} |[Discord](https://discord.gg/s35YRkKJZ6){:target="_blank"} |Welcome to the Red Ken Racing Touring Car Championship \(RKTCC\), in association with the Red Ken Racing YouTube Channel\. This is a Touring Car Championship created by the Red Ken Racing community\.   The championship will consist of six rounds consisting of two races per round\.   Race 1 \- 30 Minutes  Race 2 \- 15 Minutes \(Reverse Grid\)   The championship points will also be logged on SimGrid\.   Feel free to join the Red Ken Racing Discord Server to hang out and talk with other drivers participating in the series\.   All races will be livestreamed on the Red Ken Racing YouTube Channel\. |
 |[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} | | |
 |[RLMS \- Retro Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10661){:target="_blank"} |[Discord](https://discord.gg/jexBT6Pw){:target="_blank"} |Modeled after the ALMS Series circa 2004\-2014\. Five classes of cars compete on All\-American tracks\.  LMP1  LMP2  LMPC  GTE  GTC |
-|[Sandia Speedway iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10636){:target="_blank"} | |Welcome to the official iRacing league put on by Sandia Speedway\. The league rotates cars and tracks for the four race schedule taking place on Wednesday nights, starting on February 7th, 2024\. |
 |[SpecE46](https://members.iracing.com/membersite/member/LeagueView.do?league=10686){:target="_blank"} | |SpecE46 Racers |
 |[Street Revolution Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10673){:target="_blank"} | |We are a fun having group looking to create a great environment for drivers of all experience levels |
 |[TANSO RACING GROUP SUBSCRIPTION EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10654){:target="_blank"} |[Discord](https://discord.gg/Wg8KKBzjz9){:target="_blank"} |Tanso Racing Group is built on the values of "clean & fair racing\. We want everyone to enjoy their racing no matter how much experience you have \.To help us achieve this we have a list of DO'S and DONT'S when racing listed below in rules |
 |[Team Sahlen's Test Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=10678){:target="_blank"} | | |
-|[Twig Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10637){:target="_blank"} | |This is Twig Series, a league in partnership with DLBTV to provide another series to connect with his fanbase\! |
 |[TwoPointZero](https://members.iracing.com/membersite/member/LeagueView.do?league=10646){:target="_blank"} | | |
 |[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |[Discord](https://discord.gg/velocity-internatio){:target="_blank"} |Velocity was born from a console ACC league and is expanding into the iRacing space\! |
 |[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10655){:target="_blank"} | | |
-|[VSR \- Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10632){:target="_blank"} | | |
-|[VSR \- NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10631){:target="_blank"} | | |
-|[VSR \- Special Event](https://members.iracing.com/membersite/member/LeagueView.do?league=10633){:target="_blank"} | | |
-|[VSR \- TCR](https://members.iracing.com/membersite/member/LeagueView.do?league=10630){:target="_blank"} | | |
 |[West Desert iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} | |Pro Late Model Dirt League that runs on Wednesday nights at 9:30 PM EST |
 |[YNotBoth Road and Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=10682){:target="_blank"} |[Discord](https://discord.gg/znnMt7Gmdg){:target="_blank"} |YNB is a cash prize payout league that runs both a road series and an oval series simultaneously\. League races are Saturdays, with the Road series starting at 13:00 EST and the oval series starting at 20:00 EST\. Season One is free to anyone who wants to compete for the payout, further seasons will be free\-to\-drive, but driver championship and prize pool eligibility will be $20 for the season\. More information in league's Discord |
 |[Alleycat Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10672){:target="_blank"} | |Intro to Sim Racing for the SDP |
-|[ASSCAR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10638){:target="_blank"} | |The home of the Association for Simulated Stock Car Auto Racing's Short Track Series\. |
 |[Belgian F4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10676){:target="_blank"} | |The Belgian F4 Championship 2024, certified by RACB and organized by BSRF, is a captivating motorsport competition held on the virtual platform of iRacing\. This championship utilizes the FIA approved FIA F4 formula car\. BSRF, known for its expertise in the Virtual Belcar and other series, plays a pivotal role in orchestrating this thrilling championship\. |
 |[Blau League](https://members.iracing.com/membersite/member/LeagueView.do?league=10658){:target="_blank"} | |Bling Blau |
 |[da bois](https://members.iracing.com/membersite/member/LeagueView.do?league=10689){:target="_blank"} | |the fun league |
@@ -58,7 +52,6 @@
 |[Klamath Basin Racin](https://members.iracing.com/membersite/member/LeagueView.do?league=10664){:target="_blank"} | |Klamath Falls Racing League |
 |[Midvale Speedway Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10657){:target="_blank"} | |Latemodel Stocks at short tracks\. |
 |[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} | |Missed Apex Podcast's iRacing League |
-|[NARL Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=10634){:target="_blank"} | | |
 |[Photomans Paradise](https://members.iracing.com/membersite/member/LeagueView.do?league=10644){:target="_blank"} | |click clack |
 |[VPRC Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10666){:target="_blank"} | |Buckle Up, Buttercup\! It's Time for the VPRC Cup\. Where the racing will make you question your life choices\. Remember, we're not racing to win, we're racing to avoid last place\. |
 
