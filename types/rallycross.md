@@ -15,5 +15,4 @@
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Super Car \- 2024 |North America |16 |2187 |Fixed | | | | |
 |[Racecraft Spec Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2023 S2 RX1 |North America |14 |5258 | | | | | |
 |[Four Drink Fridays](https://members.iracing.com/membersite/member/LeagueView.do?league=5520){:target="_blank"} |2024 Season |North America |11 |1685 | | | | | |
-|[NASA Stockcar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9777){:target="_blank"} |23C |North America |10 |2809 | | | | | |
 

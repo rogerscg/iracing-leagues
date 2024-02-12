@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Road to Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=3886){:target="_blank"} |Repescagem |South America |26 |2467 | | | | | |
+|[Road to Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=3886){:target="_blank"} |Repescagem |South America |26 |2482 | | | | | |
 
 ### NASCAR Truck Series
 
@@ -17,15 +17,15 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |28 |2722 | |Daytona International Speedway |Tue, February 13 05:00PM EST |Tue, February 13 10:00PM GMT |Wed, February 14 09:00AM AEDT |
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |27 |2750 | |Daytona International Speedway |Tue, February 13 05:00PM EST |Tue, February 13 10:00PM GMT |Wed, February 14 09:00AM AEDT |
 
 ### Silverado
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Oval 2024 Q1 |South America |14 |1910 | |Daytona International Speedway |Sat, February 10 12:55PM EST |Sat, February 10 05:55PM GMT |Sun, February 11 04:55AM AEDT |
+|--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Oval 2024 Q1 |South America |17 |1975 | | | | | |
 
 # Open-wheel
 
@@ -71,7 +71,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |17 |2400 | | | | | |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |14 |2400 | | | | | |
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Champion 2023 |South America |13 |2076 | | | | | |
 
 ### Mazda MX-5 Cup 2016
@@ -141,5 +141,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"} |E\-Stock 2023 |South America |29 |4926 | | | | | |
+|[IRB \- Zanoello Clio Super Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=1397){:target="_blank"} |E\-Stock 2023 |South America |24 |5020 | | | | | |
 
