@@ -17,22 +17,19 @@
 |[FullBoar Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10669){:target="_blank"} | |Free Races across all iRacing disciplines |
 |[Gentlemen from Hell](https://members.iracing.com/membersite/member/LeagueView.do?league=10668){:target="_blank"} | | |
 |[Grand Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10702){:target="_blank"} | |Only Super speedways some 1\.5Milles and Some Short Tracks |
-|[HRT2HEART RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |[Discord](https://discord.gg/T7Zx9v4NBN){:target="_blank"} |HRT2HEART MOTORSPORTS Bringing the world together one heart at a time\.  Check Out Website on How to Join Our League & View Our Schedule\.\.\.  Race nights\.\.\.  Late Model Stocks on Wednesday Nights @ 8pm EST\.\.\.  Craftsman Trucks Series on Saturday Nights @ 9pm EST\.\.\.  Xfinity Series on Sunday Nights @ 7pm EST\.\.\.  www\.showingheartfam\.com Or join our discord\.\.\. https://discord\.gg/T7Zx9v4NBN |
 |[Internet Sim\-Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10688){:target="_blank"} | |The ISRA |
 |[iRagingOfficial](https://members.iracing.com/membersite/member/LeagueView.do?league=10652){:target="_blank"} | |Serious racing with a relaxed attitude\.   Join the Discord for more info\. |
 |[Jester Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10700){:target="_blank"} | | |
 |[JJJ Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10683){:target="_blank"} | |Triple J sim racing is a no drama league |
 |[🔴 LIVE Short Track Asphalt Oval Racing League 🟢](https://members.iracing.com/membersite/member/LeagueView.do?league=10656){:target="_blank"} | |Hosted by 🟣 Kin The Know \(be kind, it's my 1st league\) 🟢 on Twitch\.tv/KinTheKnow on select evenings and weekends \(see schedule\)🔵 Enthusiast/Serious short track oval racing\. Simple rules, scoring and racing; similar to what you'd find at your local short track\. No one's voice will be heard live on our channel, as we are family streamers\. \*We cannot control the comments or actions of other's\. Appropriate discretion is always advised\* |
-|[Mama Theresa Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10647){:target="_blank"} | |MTR Motorsports |
-|[Medon Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=10677){:target="_blank"} | | |
 |[NASCAR Weather Tech Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10670){:target="_blank"} | |IMSA's NASCAR Division |
 |[NZ Virtual Toyota 86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10662){:target="_blank"} |[Discord](https://discord.gg/V9cZ6FH6Ky){:target="_blank"} |New Zealand Virtual Toyota 86 Championship held every Tuesday night at 7PM\. Join the Discord for more information |
 |[OAS IRACING DIRT LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10680){:target="_blank"} | |Where The Stars Fly |
 |[Octane OutLaws Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10699){:target="_blank"} | |Octane Outlaws Truck Series |
 |[OGRE TRUCK SEREIS](https://members.iracing.com/membersite/member/LeagueView.do?league=10684){:target="_blank"} | |Fixed set truck sereis for drivers 50 and older |
 |[OLDGITT](https://members.iracing.com/membersite/member/LeagueView.do?league=10681){:target="_blank"} | |Official L49 Drivers Grand International Tourist Trophy |
+|[Racing Revolution Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10703){:target="_blank"} | |Monday night truck series\. 7:30 ET session opens\. 8:30 ET Qualifying 8:35 ET Grid |
 |[Red Ken Touring Car Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10691){:target="_blank"} |[Discord](https://discord.gg/s35YRkKJZ6){:target="_blank"} |Welcome to the Red Ken Racing Touring Car Championship \(RKTCC\), in association with the Red Ken Racing YouTube Channel\. This is a Touring Car Championship created by the Red Ken Racing community\.   The championship will consist of six rounds consisting of two races per round\.   Race 1 \- 30 Minutes  Race 2 \- 15 Minutes \(Reverse Grid\)   The championship points will also be logged on SimGrid\.   Feel free to join the Red Ken Racing Discord Server to hang out and talk with other drivers participating in the series\.   All races will be livestreamed on the Red Ken Racing YouTube Channel\. |
-|[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} | | |
 |[RLMS \- Retro Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10661){:target="_blank"} |[Discord](https://discord.gg/jexBT6Pw){:target="_blank"} |Modeled after the ALMS Series circa 2004\-2014\. Five classes of cars compete on All\-American tracks\.  LMP1  LMP2  LMPC  GTE  GTC |
 |[Soup Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=10698){:target="_blank"} | |<3 Dirty Mike and the Boiz |
 |[SpecE46](https://members.iracing.com/membersite/member/LeagueView.do?league=10686){:target="_blank"} | |SpecE46 Racers |
@@ -41,7 +38,6 @@
 |[Team Sahlen's Test Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=10678){:target="_blank"} | | |
 |[The Honda Boyz](https://members.iracing.com/membersite/member/LeagueView.do?league=10696){:target="_blank"} | | |
 |[Thermal Racing F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10694){:target="_blank"} | | |
-|[TwoPointZero](https://members.iracing.com/membersite/member/LeagueView.do?league=10646){:target="_blank"} | | |
 |[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |[Discord](https://discord.gg/velocity-internatio){:target="_blank"} |Velocity was born from a console ACC league and is expanding into the iRacing space\! |
 |[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10655){:target="_blank"} | | |
 |[West Desert iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} | |Pro Late Model Dirt League that runs on Wednesday nights at 9:30 PM EST |
@@ -53,12 +49,12 @@
 |[da bois](https://members.iracing.com/membersite/member/LeagueView.do?league=10689){:target="_blank"} | |the fun league |
 |[Disgruntled Gaming Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10687){:target="_blank"} | | |
 |[DSR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10685){:target="_blank"} | |Members Only \- Oval & Road \- Multiple Mods |
-|[JJEP League1](https://members.iracing.com/membersite/member/LeagueView.do?league=10643){:target="_blank"} | |first iteration |
+|[HRT2HEART RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |[Discord](https://discord.gg/T7Zx9v4NBN){:target="_blank"} |HRT2HEART MOTORSPORTS Bringing the world together one heart at a time\.  Check Out Website on How to Join Our League & View Our Schedule\.\.\.  Race nights\.\.\.  Late Model Stocks on Wednesday Nights @ 8pm EST\.\.\.  Craftsman Trucks Series on Saturday Nights @ 9pm EST\.\.\.  Xfinity Series on Sunday Nights @ 7pm EST\.\.\.  www\.showingheartfam\.com Or join our discord\.\.\. https://discord\.gg/T7Zx9v4NBN |
 |[Klamath Basin Racin](https://members.iracing.com/membersite/member/LeagueView.do?league=10664){:target="_blank"} | |Klamath Falls Racing League |
 |[late models](https://members.iracing.com/membersite/member/LeagueView.do?league=10692){:target="_blank"} | |ai only |
+|[Medon Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=10677){:target="_blank"} | | |
 |[Midvale Speedway Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10657){:target="_blank"} | |Latemodel Stocks at short tracks\. |
 |[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} | |Missed Apex Podcast's iRacing League |
-|[Photomans Paradise](https://members.iracing.com/membersite/member/LeagueView.do?league=10644){:target="_blank"} | |click clack |
 |[Victory Performance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10697){:target="_blank"} |[Discord](https://discord.gg/jXwMnqvF){:target="_blank"} |Dirt Midget League |
 |[VPRC Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10666){:target="_blank"} | |Buckle Up, Buttercup\! It's Time for the VPRC Cup\. Where the racing will make you question your life choices\. Remember, we're not racing to win, we're racing to avoid last place\. |
 

@@ -51,8 +51,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2024/1 |South America |16 |2150 | |Nashville Superspeedway |Mon, February 12 06:35PM EST |Mon, February 12 11:35PM GMT |Tue, February 13 10:35AM AEDT |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-----------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2024/1 |South America |16 |2161 | |Kentucky Speedway |Mon, February 19 06:35PM EST |Mon, February 19 11:35PM GMT |Tue, February 20 10:35AM AEDT |
 
 # Sports Car
 
@@ -70,8 +70,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 SERIES 2023 |South America |14 |2400 | | | | | |
+|-------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Champion 2023 |South America |13 |2076 | | | | | |
 
 ### Mazda MX-5 Cup 2016
@@ -95,8 +94,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/1 |South America |26 |1934 | |Sebring International Raceway |Mon, February 12 04:25PM EST |Mon, February 12 09:25PM GMT |Tue, February 13 08:25AM AEDT |
+|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/1 |South America |26 |1980 | |Oulton Park Circuit |Mon, February 19 04:25PM EST |Mon, February 19 09:25PM GMT |Tue, February 20 08:25AM AEDT |
 
 ### [Legacy] BMW Z4 GT3
 
@@ -121,8 +120,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |19 |1832 | | | | | |
+|--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |19 |1832 | |Oulton Park Circuit |Tue, February 20 05:25PM EST |Tue, February 20 10:25PM GMT |Wed, February 21 09:25AM AEDT |
 
 # Multi-class/Unclassified
 

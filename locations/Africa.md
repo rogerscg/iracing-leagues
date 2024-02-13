@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-----------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4 Cup 2024 \| S3 |Africa |19 |2282 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------|-----------------|--------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4 Cup 2024 \| S3 |Africa |19 |2282 | |Okayama International Circuit |Tue, February 20 01:20PM EST |Tue, February 20 06:20PM GMT |Wed, February 21 05:20AM AEDT |
 
 # Sports Car
 
