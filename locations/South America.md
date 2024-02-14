@@ -16,8 +16,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |27 |2750 | |Daytona International Speedway |Tue, February 13 05:00PM EST |Tue, February 13 10:00PM GMT |Wed, February 14 09:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|----------------------|----------------------------|----------------------------|-----------------------------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |27 |2713 | |Atlanta Motor Speedway |Tue, February 20 05:00PM EST |Tue, February 20 10:00PM GMT |Wed, February 21 09:00AM AEDT |
 
 ### Silverado
 
@@ -35,7 +35,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |24 |2108 | | | | | |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |24 |2108 | |Road America |Wed, February 21 04:25PM EST |Wed, February 21 09:25PM GMT |Thu, February 22 08:25AM AEDT |
 |[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/1 |South America |23 |2364 | |Dover Motor Speedway |Wed, February 14 06:35PM EST |Wed, February 14 11:35PM GMT |Thu, February 15 10:35AM AEDT |
 
 ### Hosted All Cars Class
@@ -65,21 +65,13 @@
 |[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/1 |South America |42 |1797 | |Okayama International Circuit |Thu, February 15 04:25PM EST |Thu, February 15 09:25PM GMT |Fri, February 16 08:25AM AEDT |
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/1 |South America |22 |3437 | |Okayama International Circuit |Thu, February 15 06:25PM EST |Thu, February 15 11:25PM GMT |Fri, February 16 10:25AM AEDT |
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Champion 2023 |South America |13 |2076 | | | | | |
-
 ### Mazda MX-5 Cup 2016
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/1 |South America |45 |2084 | |Charlotte Motor Speedway |Tue, February 13 04:25PM EST |Tue, February 13 09:25PM GMT |Wed, February 14 08:25AM AEDT |
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/1 |South America |46 |2116 | |Lime Rock Park |Tue, February 20 04:25PM EST |Tue, February 20 09:25PM GMT |Wed, February 21 08:25AM AEDT |
 
 ### Touring Car
 
