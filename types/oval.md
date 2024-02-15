@@ -38,7 +38,7 @@
 |[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S25 |North America |31 |2061 |Fixed | | | | |
 |[Goose Graphics Late Model Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10110){:target="_blank"} |Opening Season |North America |30 |2529 |Open | | | | |
 |[Western Super Series \- Evergreen Speedway Showcase Event](https://members.iracing.com/membersite/member/LeagueView.do?league=4152){:target="_blank"} |Winter 2024 Pro Late Tour |North America |30 |3560 | | | | | |
-|[National Auto Racing Club \(Pavement\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9577){:target="_blank"} |NARC Late Model Stock Tour 2024\.1 |North America |29 |2152 | | | | | |
+|[National Auto Racing Club \(Pavement\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9577){:target="_blank"} |NARC Late Model Stock Tour 2024\.1 |North America |29 |2152 | |Kevin Harvick's Kern Raceway |Thu, February 15 09:00PM EST |Fri, February 16 02:00AM GMT |Fri, February 16 01:00PM AEDT |
 |[Madhouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10353){:target="_blank"} |Madhouse Season 2 |North America |28 |1415 | | | | | |
 |[OG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6203){:target="_blank"} |LMSC Fixed |North America |28 |1812 |Fixed |Southern National Motorsports Park |Sat, February 17 08:00PM EST |Sun, February 18 01:00AM GMT |Sun, February 18 12:00PM AEDT |
 |[Short Track Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9790){:target="_blank"} |STSS W23/24 |North America |28 |1980 | | | | | |
@@ -66,20 +66,19 @@
 |[Family Friendly Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=9872){:target="_blank"} |FFRC LMS Season 3 |North America |14 |1707 |Fixed | | | | |
 |[Friday Night Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=9619){:target="_blank"} |Late Model St\. Season 1, 2024 |North America |14 |1855 | | | | | |
 |[LMSC Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9696){:target="_blank"} |LMSC  Series |North America |14 |1778 | | | | | |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60Plus Season 29 Late Model |North America |13 |1280 |Fixed |Langley Speedway |Fri, February 16 12:00PM EST |Fri, February 16 05:00PM GMT |Sat, February 17 04:00AM AEDT |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60Plus Season 29 Late Model |North America |13 |1258 |Fixed |Langley Speedway |Fri, February 16 12:00PM EST |Fri, February 16 05:00PM GMT |Sat, February 17 04:00AM AEDT |
 |[All\-Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |Barry Elvis Performance & Fabrication Late Model Stock Series |North America |13 |2125 |Fixed | | | | |
 |[WHEELER BROTHERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |CASH CLOWNS SEASON 1 |North America |13 |1592 | | | | | |
 |[Virginia iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |Late Model Season 1 |North America |13 |1621 |Fixed |Martinsville Speedway |Thu, February 15 07:00PM EST |Fri, February 16 12:00AM GMT |Fri, February 16 11:00AM AEDT |
 |[AutoRacingConnected](https://members.iracing.com/membersite/member/LeagueView.do?league=8792){:target="_blank"} |2023 ARC Late Model Tour |North America |12 |2390 |Fixed | | | | |
-|[Flat Out Racing League Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8484){:target="_blank"} |Late Model Season 3 |North America |12 |2052 | | | | | |
 |[Supreme Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3696){:target="_blank"} |Late Model Stocks |North America |12 |1544 | | | | | |
 |[Ultimate Conquest Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7608){:target="_blank"} |All Star Open |North America |12 |3121 |Fixed | | | | |
 |[NGL Touring Car Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6077){:target="_blank"} |URA Late Model Tour \- Season 1 |North America |12 |2411 |Fixed | | | | |
 |[BullRing iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=3123){:target="_blank"} |2023\-B BullRing Latemodels |North America |11 |1491 | | | | | |
 |[Steal on wheels racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10453){:target="_blank"} |late model stock |North America |11 |1038 | | | | | |
-|[Donhue Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10587){:target="_blank"} |DRL Late Model Stock Championship |North America |10 |1114 |Fixed |Southern National Motorsports Park |Wed, February 14 08:15PM EST |Thu, February 15 01:15AM GMT |Thu, February 15 12:15PM AEDT |
+|[Donhue Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10587){:target="_blank"} |DRL Late Model Stock Championship |North America |10 |1123 |Fixed | | | | |
 |[Lucky Dog Sim Racing Super Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=9127){:target="_blank"} |Season Two |North America |10 |1599 | | | | | |
-|[Quarantine Racing League QRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9437){:target="_blank"} |2023 CARS Six Pack |North America |10 |1626 |Fixed | | | | |
+|[Quarantine Racing League QRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9437){:target="_blank"} |2023 CARS Six Pack |North America |10 |1535 |Fixed | | | | |
 
 ### Legends
 
@@ -91,9 +90,9 @@
 |[Smokin Tires Gen 4 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4023){:target="_blank"} |Showtime Advance Legends Series |North America |29 |1532 |Fixed | | | | |
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |24 Spring Legends |North America |26 |1565 |Both |Five Flags Speedway |Mon, February 19 08:00PM EST |Tue, February 20 01:00AM GMT |Tue, February 20 12:00PM AEDT |
 |[BRLx](https://members.iracing.com/membersite/member/LeagueView.do?league=960){:target="_blank"} |Sportsman LEG S02 |North America |24 |1711 |Fixed | | | | |
-|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 1 |Australia-NZ |19 |1894 |Fixed | | | | |
 |[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends: Spartan 300 |North America |19 |2095 | | | | | |
 |[HARD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10512){:target="_blank"} |HARD Racing Advanced Legends Road Course Series |North America |17 |1832 | |Okayama International Circuit |Thu, February 15 08:00PM EST |Fri, February 16 01:00AM GMT |Fri, February 16 12:00PM AEDT |
+|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 1 |Australia-NZ |15 |1939 |Fixed | | | | |
 |[COCA](https://members.iracing.com/membersite/member/LeagueView.do?league=9563){:target="_blank"} |Inex 2024 |North America |13 |1100 |Open | | | | |
 
 ### Rookie Legends
@@ -128,7 +127,7 @@
 |[Northwest Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7783){:target="_blank"} |2023/2024 Street Socks |North America |23 |1712 |Fixed | | | | |
 |[Pro American Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10369){:target="_blank"} |PASSS S1 |North America |23 |2132 |Fixed | | | | |
 |[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |Candler Light Street Stock Series |North America |23 |1973 | |Slinger Speedway |Mon, February 19 08:00PM EST |Tue, February 20 01:00AM GMT |Tue, February 20 12:00PM AEDT |
-|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S3 Street Stock Hometown Series |North America |21 |1535 |Both |North Wilkesboro Speedway |Wed, February 14 08:00PM EST |Thu, February 15 01:00AM GMT |Thu, February 15 12:00PM AEDT |
+|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S3 Street Stock Hometown Series |North America |21 |1535 |Both | | | | |
 |[Gulf Coast Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4944){:target="_blank"} |PST Street Stock Series |North America |20 |2675 | |Southern National Motorsports Park |Wed, February 21 08:00PM EST |Thu, February 22 01:00AM GMT |Thu, February 22 12:00PM AEDT |
 |[Last Man Standing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=3745){:target="_blank"} |Friday Night Street Stock Throwdown\! |North America |10 |1226 |Both |Slinger Speedway |Fri, February 16 08:30PM EST |Sat, February 17 01:30AM GMT |Sat, February 17 12:30PM AEDT |
 

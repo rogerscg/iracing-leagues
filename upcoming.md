@@ -42,14 +42,21 @@
 |[OutLaw Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=9205){:target="_blank"} |Cup Racing |Both |Daytona International Speedway |Mon, February 19 07:00PM EST |Tue, February 20 12:00AM GMT |Tue, February 20 11:00AM AEDT |
 |[Thunder Racing League Pro Series \(disbanded\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5808){:target="_blank"} |2024 Cup Season |Fixed |Daytona International Speedway |Wed, February 21 08:00PM EST |Thu, February 22 01:00AM GMT |Thu, February 22 12:00PM AEDT |
 
+### NASCAR Cup
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
+|[Black Lion Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4410){:target="_blank"} |ASDR Gen 6 Cup Series \(Season 2\) |Fixed |Homestead Miami Speedway |Thu, February 22 07:45PM EST |Fri, February 23 12:45AM GMT |Fri, February 23 11:45AM AEDT |
+
 ### NASCAR Legends 1987
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |Return Of the 87s 24 |Both |Daytona International Speedway |Wed, February 21 07:30PM EST |Thu, February 22 12:30AM GMT |Thu, February 22 11:30AM AEDT |
-|[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2024 VctryLnSprts '87 Legends Season 1 |Fixed |Daytona International Speedway |Wed, February 14 08:00PM EST |Thu, February 15 01:00AM GMT |Thu, February 15 12:00PM AEDT |
 |[North American Stock Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=9307){:target="_blank"} |87 Season  1 Qualifying |Open |Daytona International Speedway |Fri, February 16 10:00PM EST |Sat, February 17 03:00AM GMT |Sat, February 17 02:00PM AEDT |
 |[North American Stock Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=9307){:target="_blank"} |87 Season 1 Race |Open |Daytona International Speedway |Sun, February 18 12:00AM EST |Sun, February 18 05:00AM GMT |Sun, February 18 04:00PM AEDT |
 
@@ -58,11 +65,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |2024 Spring Super Truck Series |Fixed |Atlanta Motor Speedway |Thu, February 22 07:45PM EST |Fri, February 23 12:45AM GMT |Fri, February 23 11:45AM AEDT |
+|[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |2024 Road to Cup NASCAR Season |Fixed |Daytona International Speedway |Thu, February 15 07:30PM EST |Fri, February 16 12:30AM GMT |Fri, February 16 11:30AM AEDT |
 |[Maximum Velocity Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1262){:target="_blank"} |2024 Truck Season |Fixed |Daytona International Speedway |Thu, February 15 10:30PM EST |Fri, February 16 03:30AM GMT |Fri, February 16 02:30PM AEDT |
 |[Ruff\-Neck Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9844){:target="_blank"} |Charity/Fundraiser Events |Fixed |Talladega Superspeedway |Thu, February 15 07:00PM EST |Fri, February 16 12:00AM GMT |Fri, February 16 11:00AM AEDT |
 |[Jack Dowel Simulators & eSports Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7640){:target="_blank"} |2024 Tuesday Night NASCAR Truck Series | |Daytona International Speedway |Tue, February 20 07:45PM EST |Wed, February 21 12:45AM GMT |Wed, February 21 11:45AM AEDT |
-|[Vspeed FRT Contenders Series Powered by NITRO](https://members.iracing.com/membersite/member/LeagueView.do?league=3520){:target="_blank"} |Vspeed FRT Contender Series Powered by NITRO Season 11 |Open |Daytona International Speedway |Wed, February 14 09:00PM EST |Thu, February 15 02:00AM GMT |Thu, February 15 01:00PM AEDT |
 |[Australian Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10125){:target="_blank"} |Season 1 2024 | |Daytona International Speedway |Fri, February 16 06:15AM EST |Fri, February 16 11:15AM GMT |Fri, February 16 10:15PM AEDT |
 
 ### Whelen Modified
@@ -78,11 +86,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[\#0 5150 Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8915){:target="_blank"} |Season 2 \(2024\) |Open |Daytona International Speedway |Fri, February 16 07:30PM EST |Sat, February 17 12:30AM GMT |Sat, February 17 11:30AM AEDT |
 |[Black Lion Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4410){:target="_blank"} |CheckFire\-22 Xfinity Series \(Season 2\) |Fixed |Homestead Miami Speedway |Wed, February 21 07:45PM EST |Thu, February 22 12:45AM GMT |Thu, February 22 11:45AM AEDT |
+|[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |2024 Spring / Summer Jimmy Young Series |Fixed |Daytona International Speedway |Mon, February 19 07:45PM EST |Tue, February 20 12:45AM GMT |Tue, February 20 11:45AM AEDT |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR Xfinity Series 2024 |Fixed |Daytona International Speedway |Thu, February 15 06:50PM EST |Thu, February 15 11:50PM GMT |Fri, February 16 10:50AM AEDT |
-|[iNascar Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8467){:target="_blank"} |2024 iNRS Xfinity Series |Fixed |Daytona International Speedway |Wed, February 14 08:00PM EST |Thu, February 15 01:00AM GMT |Thu, February 15 12:00PM AEDT |
+|[IORA \- International Online Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=6910){:target="_blank"} |IORA Cup Series Season 5 | |Daytona International Speedway |Thu, February 22 06:45PM EST |Thu, February 22 11:45PM GMT |Fri, February 23 10:45AM AEDT |
 |[KCERacing](https://members.iracing.com/membersite/member/LeagueView.do?league=7607){:target="_blank"} |KCERacing Xfinity Series \- Season 5 |Fixed |Daytona International Speedway |Thu, February 15 08:00PM EST |Fri, February 16 01:00AM GMT |Fri, February 16 12:00PM AEDT |
 |[A Lot Cleaner Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7174){:target="_blank"} |2024 Monday Night NASCAR Xfinity Series | |Daytona International Speedway |Mon, February 19 07:45PM EST |Tue, February 20 12:45AM GMT |Tue, February 20 11:45AM AEDT |
 |[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2024 Buttkicker Xfinity Season 1 |Fixed |Talladega Superspeedway |Thu, February 15 08:00PM EST |Fri, February 16 01:00AM GMT |Fri, February 16 12:00PM AEDT |
@@ -132,17 +141,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[Ultimate Formula 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10477){:target="_blank"} |Season 1 | |Tsukuba Circuit |Wed, February 14 08:00PM EST |Thu, February 15 01:00AM GMT |Thu, February 15 12:00PM AEDT |
+|------------------------------------------------------------------------------------------------------------|------------------------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |FLANC Club Serie 2023/24 \- F4 |Fixed |Sebring International Raceway |Thu, February 15 12:30PM EST |Thu, February 15 05:30PM GMT |Fri, February 16 04:30AM AEDT |
-
-### Formula Vee
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|-------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
-|[Quick Finishers](https://members.iracing.com/membersite/member/LeagueView.do?league=10498){:target="_blank"} |Banana Season | |Summit Point Raceway |Wed, February 14 03:00PM EST |Wed, February 14 08:00PM GMT |Thu, February 15 07:00AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -153,22 +153,6 @@
 |[Legends racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8950){:target="_blank"} |Legends 3 | |Sebring International Raceway |Tue, February 20 02:15PM EST |Tue, February 20 07:15PM GMT |Wed, February 21 06:15AM AEDT |
 
 # Sports Car
-
-### Audi 90 GTO
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------------|-----|------------|----------------------------|----------------------------|-----------------------------|
-|[STL \- MJK Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=10623){:target="_blank"} |Road America | |Road America |Wed, February 14 02:00PM EST |Wed, February 14 07:00PM GMT |Thu, February 15 06:00AM AEDT |
-
-### Cadillac CTS-VR
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------------------|-----|------------|----------------------------|----------------------------|-----------------------------|
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |cadillac cts s1 2024 | |Road America |Wed, February 14 08:00PM EST |Thu, February 15 01:00AM GMT |Thu, February 15 12:00PM AEDT |
 
 ### GT3 Class
 
@@ -183,7 +167,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} |DSC Toyota GR86 Cup | |Virginia International Raceway |Thu, February 22 12:30PM EST |Thu, February 22 05:30PM GMT |Fri, February 23 04:30AM AEDT |
 |[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} |DSC Training | |Virginia International Raceway |Tue, February 20 12:30PM EST |Tue, February 20 05:30PM GMT |Wed, February 21 04:30AM AEDT |
 
 # Dirt Oval
@@ -204,6 +189,31 @@
 |---------------------------------------------------------------------------------------------------------------------|--------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Peoples Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=10083){:target="_blank"} |Season 6 |Fixed |The Dirt Track at Charlotte |Sun, February 18 07:00PM EST |Mon, February 19 12:00AM GMT |Mon, February 19 11:00AM AEDT |
 
+### Dirt Sprintcar - 410
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|-----------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
+|[2023 360 Power Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2024 ASC SERIES | |Volusia Speedway Park |Thu, February 22 04:59AM EST |Thu, February 22 09:59AM GMT |Thu, February 22 08:59PM AEDT |
+|[Aces Up SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=9032){:target="_blank"} |2024 Spring 410's | |Volusia Speedway Park |Thu, February 22 09:00PM EST |Fri, February 23 02:00AM GMT |Fri, February 23 01:00PM AEDT |
+
+### Dirt Street Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|[SRL \- CaveRP\.com 360 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8763){:target="_blank"} |Street Stock Season 1 | |Eldora Speedway |Tue, February 20 06:30PM EST |Tue, February 20 11:30PM GMT |Wed, February 21 10:30AM AEDT |
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------|--------|-----|------------------|----------------------------|----------------------------|-----------------------------|
+|[B\-Main Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9190){:target="_blank"} |Season 4 |Fixed |Lucas Oil Speedway |Mon, February 19 09:30PM EST |Tue, February 20 02:30AM GMT |Tue, February 20 01:30PM AEDT |
+
 # Multi-class/Unclassified
 
 ### Hosted All Cars Class
@@ -212,6 +222,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |BRC Season 3 | |Autodromo Nazionale Monza |Thu, February 22 10:00PM EST |Fri, February 23 03:00AM GMT |Fri, February 23 02:00PM AEDT |
 |[FSL Fruehschoppenliga](https://members.iracing.com/membersite/member/LeagueView.do?league=6966){:target="_blank"} |Memorial Day | |Watkins Glen International |Sat, February 17 01:30PM EST |Sat, February 17 06:30PM GMT |Sun, February 18 05:30AM AEDT |
 |[GM PDT Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6251){:target="_blank"} |Spring IMSA GTP/GT3 Series | |Daytona International Speedway |Tue, February 20 07:30PM EST |Wed, February 21 12:30AM GMT |Wed, February 21 11:30AM AEDT |
 |[PCRL Official](https://members.iracing.com/membersite/member/LeagueView.do?league=8971){:target="_blank"} |Season 12 \- Super Season |Fixed |Daytona International Speedway |Fri, February 16 07:42PM EST |Sat, February 17 12:42AM GMT |Sat, February 17 11:42AM AEDT |
