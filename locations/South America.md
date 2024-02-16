@@ -61,9 +61,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/1 |South America |42 |1797 | |Okayama International Circuit |Thu, February 15 04:25PM EST |Thu, February 15 09:25PM GMT |Fri, February 16 08:25AM AEDT |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/1 |South America |22 |3437 | |Okayama International Circuit |Thu, February 15 06:25PM EST |Thu, February 15 11:25PM GMT |Fri, February 16 10:25AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/1 |South America |43 |1810 | |Mount Panorama Circuit |Thu, February 22 04:25PM EST |Thu, February 22 09:25PM GMT |Fri, February 23 08:25AM AEDT |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/1 |South America |22 |3447 | |Mount Panorama Circuit |Thu, February 22 06:25PM EST |Thu, February 22 11:25PM GMT |Fri, February 23 10:25AM AEDT |
 
 ### Mazda MX-5 Cup 2016
 
@@ -88,14 +88,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/1 |South America |26 |1980 | |Oulton Park Circuit |Mon, February 19 04:25PM EST |Mon, February 19 09:25PM GMT |Tue, February 20 08:25AM AEDT |
-
-### [Legacy] BMW Z4 GT3
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup \- Road 2023 |South America |14 |1648 | | | | | |
 
 ### [Legacy] Ferrari 488 GT3
 
@@ -123,7 +115,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |28 |1852 | | | | | |
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |31 |2022 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP IMSA MULTICLASS TEMPORADA 3 |South America |22 |2377 | | | | | |
 
 ### Stock Car Brasil
