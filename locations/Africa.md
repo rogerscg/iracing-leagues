@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |CLIO CUP 2024 \| SEASON 1 |Africa |24 |1943 |Both | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------|--------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |CLIO CUP 2024 \| SEASON 1 |Africa |24 |1943 |Both |Silverstone Circuit |Tue, February 27 01:20PM EST |Tue, February 27 06:20PM GMT |Wed, February 28 05:20AM AEDT |
 
 # Multi-class/Unclassified
 

@@ -1,8 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Apex Racing Québec](https://members.iracing.com/membersite/member/LeagueView.do?league=10679){:target="_blank"} | |League de road course GT3/GT4/MX5/GR86/AUDI et plus encore |
+|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Checker Chasers Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10695){:target="_blank"} |[Discord](https://discord.gg/rUfBnfCmkc){:target="_blank"} |\*\*NEW\*\* NASCAR NEXT GEN based iRacing league\! Go ahead and join the discord below\! |
 |[Colorado Mountain Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10724){:target="_blank"} | | |
 |[demonTyme](https://members.iracing.com/membersite/member/LeagueView.do?league=10717){:target="_blank"} | | |
@@ -10,6 +9,8 @@
 |[fia f4 hunter toby](https://members.iracing.com/membersite/member/LeagueView.do?league=10718){:target="_blank"} | |cool |
 |[fishstix](https://members.iracing.com/membersite/member/LeagueView.do?league=10701){:target="_blank"} | |just for fun newbie |
 |[Grand Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10702){:target="_blank"} | |Only Super speedways some 1\.5Milles and Some Short Tracks |
+|[GTP Practice 2](https://members.iracing.com/membersite/member/LeagueView.do?league=10727){:target="_blank"} | | |
+|[GTP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10726){:target="_blank"} | |GTP Practice |
 |[Gusteau's World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10706){:target="_blank"} | | |
 |[HIGH VOLTAGE RACING FIXED LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10723){:target="_blank"} | |Multiple different fixed series road and oval cars |
 |[Internet Sim\-Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10688){:target="_blank"} | |The ISRA |
@@ -32,24 +33,19 @@
 |[Smokey's Racing School](https://members.iracing.com/membersite/member/LeagueView.do?league=10710){:target="_blank"} | | |
 |[Soup Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=10698){:target="_blank"} | |<3 Dirty Mike and the Boiz |
 |[SpecE46](https://members.iracing.com/membersite/member/LeagueView.do?league=10686){:target="_blank"} | |SpecE46 Racers |
-|[Street Revolution Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10673){:target="_blank"} | |We are a fun having group looking to create a great environment for drivers of all experience levels |
-|[Team Sahlen's Test Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=10678){:target="_blank"} | | |
 |[The 50 Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10705){:target="_blank"} | |Dirt Late Model Pro |
+|[The Average Racers League](https://members.iracing.com/membersite/member/LeagueView.do?league=10725){:target="_blank"} |[Discord](https://discord.com/invite/KRXygpyU6Y){:target="_blank"} |A League for everyone, fun, not very serious and free\! |
 |[The Honda Boyz](https://members.iracing.com/membersite/member/LeagueView.do?league=10696){:target="_blank"} | | |
 |[Thermal Racing F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10694){:target="_blank"} | | |
-|[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |[Discord](https://discord.gg/velocity-internatio){:target="_blank"} |Velocity was born from a console ACC league and is expanding into the iRacing space\! |
 |[Victory Performance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10697){:target="_blank"} |[Discord](https://discord.gg/jXwMnqvF){:target="_blank"} |Dirt Midget League |
-|[West Desert iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} | |Pro Late Model Dirt League that runs on Wednesday nights at 9:30 PM EST |
 |[WORLDWIDE RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10693){:target="_blank"} | |A LEAGUE FOR BEGINNERS ON IRACING |
 |[wv boys](https://members.iracing.com/membersite/member/LeagueView.do?league=10722){:target="_blank"} | |west virginia dirt racing |
 |[YNotBoth Road and Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=10682){:target="_blank"} |[Discord](https://discord.gg/znnMt7Gmdg){:target="_blank"} |YNB is a cash prize payout league that runs both a road series and an oval series simultaneously\. League races are Saturdays, with the Road series starting at 13:00 EST and the oval series starting at 20:00 EST\. Season One is free to anyone who wants to compete for the payout, further seasons will be free\-to\-drive, but driver championship and prize pool eligibility will be $20 for the season\. More information in league's Discord |
-|[Belgian F4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10676){:target="_blank"} | |The Belgian F4 Championship 2024, certified by RACB and organized by BSRF, is a captivating motorsport competition held on the virtual platform of iRacing\. This championship utilizes the FIA approved FIA F4 formula car\. BSRF, known for its expertise in the Virtual Belcar and other series, plays a pivotal role in orchestrating this thrilling championship\. |
 |[CAS \- Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10716){:target="_blank"} | |Combined and solo series with Cup vehicles\. |
 |[da bois](https://members.iracing.com/membersite/member/LeagueView.do?league=10689){:target="_blank"} | |the fun league |
 |[Disgruntled Gaming Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10687){:target="_blank"} | | |
 |[DSR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10685){:target="_blank"} | |Members Only \- Oval & Road \- Multiple Mods |
 |[late models](https://members.iracing.com/membersite/member/LeagueView.do?league=10692){:target="_blank"} | |ai only |
-|[Medon Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=10677){:target="_blank"} | | |
 |[Motorsport UK Esports \- GT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10715){:target="_blank"} | | |
 |[Perry Server](https://members.iracing.com/membersite/member/LeagueView.do?league=10714){:target="_blank"} | |Charlotte  Bristol  Lanier  Port Royal  KoKoMo |
 |[SHR\-SRL](https://members.iracing.com/membersite/member/LeagueView.do?league=10707){:target="_blank"} | |Stewart\-Haas Employee Sim Racing League\. |
