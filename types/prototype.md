@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |53 |3357 | |Circuit Gilles Villeneuve |Wed, February 21 01:00PM EST |Wed, February 21 06:00PM GMT |Thu, February 22 05:00AM AEDT |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |53 |3338 | |Circuit Gilles Villeneuve |Thu, February 22 01:00PM EST |Thu, February 22 06:00PM GMT |Fri, February 23 05:00AM AEDT |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S18 \- Sunday \- GTP |North America |45 |2073 |Both |Circuit Gilles Villeneuve |Sun, February 25 07:00PM EST |Mon, February 26 12:00AM GMT |Mon, February 26 11:00AM AEDT |
 |[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |30 |2000 | |Circuit des 24 Heures du Mans |Thu, February 22 08:00PM EST |Fri, February 23 01:00AM GMT |Fri, February 23 12:00PM AEDT |
 |[Slowbois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9743){:target="_blank"} |Season 5 \(Hybrid\) |North America |15 |1510 | |Circuit Zandvoort |Sun, February 25 08:20PM EST |Mon, February 26 01:20AM GMT |Mon, February 26 12:20PM AEDT |
@@ -60,8 +60,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |23/24 BiS Radical Cup Canada Winter Series |North America |37 |2330 |Fixed |Canadian Tire Motorsports Park |Wed, February 28 06:30PM EST |Wed, February 28 11:30PM GMT |Thu, February 29 10:30AM AEDT |
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |36 |None |Fixed | | | | |
-|[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |23/24 BiS Radical Cup Canada Winter Series |North America |30 |2385 |Fixed |Canadian Tire Motorsports Park |Wed, February 28 06:30PM EST |Wed, February 28 11:30PM GMT |Thu, February 29 10:30AM AEDT |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 1 |Europe |27 |3047 |Open |Mount Panorama Circuit |Thu, February 22 02:15PM EST |Thu, February 22 07:15PM GMT |Fri, February 23 06:15AM AEDT |
 
 ### Radical SR8
@@ -69,11 +69,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2024 Radical |North America |23 |1178 |Fixed | | | | |
-|[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |PWE Season 1 |Europe |20 |4143 | |Fuji International Speedway |Fri, February 23 02:20PM EST |Fri, February 23 07:20PM GMT |Sat, February 24 06:20AM AEDT |
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |19 |1815 | | | | | |
-|[BoX³ Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8344){:target="_blank"} |Radical SR8 Causals |North America |16 |1418 | | | | | |
+|---------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2024 Radical |North America |23 |1178 |Fixed |WeatherTech Raceway at Laguna Seca |Thu, February 29 09:30PM EST |Fri, March 01 02:30AM GMT |Fri, March 01 01:30PM AEDT |
+|[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |PWE Season 1 |Europe |20 |4209 | |Fuji International Speedway |Fri, February 23 02:20PM EST |Fri, February 23 07:20PM GMT |Sat, February 24 06:20AM AEDT |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |19 |1815 | |Circuit de Spa-Francorchamps |Tue, February 27 05:25PM EST |Tue, February 27 10:25PM GMT |Wed, February 28 09:25AM AEDT |
+|[BoX³ Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8344){:target="_blank"} |Radical SR8 Causals |North America |16 |1355 | | | | | |
 
 ### Riley Daytona Prototype
 
