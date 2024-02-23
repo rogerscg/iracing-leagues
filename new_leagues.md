@@ -2,7 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[160 Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10734){:target="_blank"} | |NASCAR Gen 4 / INDYCAR Series |
 |[Badger Kart Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10732){:target="_blank"} | |Sharpen your skills and be social |
 |[Checker Chasers Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10695){:target="_blank"} |[Discord](https://discord.gg/rUfBnfCmkc){:target="_blank"} |\*\*NEW\*\* NASCAR NEXT GEN based iRacing league\! Go ahead and join the discord below\! |
 |[Colorado Mountain Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10724){:target="_blank"} | | |
@@ -18,11 +17,11 @@
 |[GTP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10726){:target="_blank"} | |GTP Practice |
 |[Gusteau's World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10706){:target="_blank"} | | |
 |[HIGH VOLTAGE RACING FIXED LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10723){:target="_blank"} | |Multiple different fixed series road and oval cars |
-|[Internet Sim\-Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10688){:target="_blank"} | |The ISRA |
 |[Jester Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10700){:target="_blank"} | | |
 |[KMR\-Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10729){:target="_blank"} | | |
 |[Moose Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10711){:target="_blank"} | |Moose Racing League's iRacing Series |
 |[Motorsport UK Esports \- GT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10715){:target="_blank"} | | |
+|[160 Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10734){:target="_blank"} | |NASCAR Gen 4 / INDYCAR Series |
 |[Octane OutLaws Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10699){:target="_blank"} | |Octane Outlaws Truck Series |
 |[R&R 87' ACES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10721){:target="_blank"} | |87' LEGENDS CARS GOING fast af |
 |[R&R GEN4 FULL HOUSE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10719){:target="_blank"} | |GEN 4 |
@@ -36,7 +35,7 @@
 |[SHR\-SRL](https://members.iracing.com/membersite/member/LeagueView.do?league=10707){:target="_blank"} | |Stewart\-Haas Employee Sim Racing League\. |
 |[Smokey's Racing School](https://members.iracing.com/membersite/member/LeagueView.do?league=10710){:target="_blank"} | | |
 |[Soup Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=10698){:target="_blank"} | |<3 Dirty Mike and the Boiz |
-|[SpecE46](https://members.iracing.com/membersite/member/LeagueView.do?league=10686){:target="_blank"} | |SpecE46 Racers |
+|[test](https://members.iracing.com/membersite/member/LeagueView.do?league=10735){:target="_blank"} | | |
 |[The 50 Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10705){:target="_blank"} | |Dirt Late Model Pro |
 |[The Average Racers League](https://members.iracing.com/membersite/member/LeagueView.do?league=10725){:target="_blank"} |[Discord](https://discord.com/invite/KRXygpyU6Y){:target="_blank"} |A League for everyone, fun, not very serious and free\! |
 |[The Honda Boyz](https://members.iracing.com/membersite/member/LeagueView.do?league=10696){:target="_blank"} | | |
@@ -45,8 +44,6 @@
 |[WORLDWIDE RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10693){:target="_blank"} | |A LEAGUE FOR BEGINNERS ON IRACING |
 |[wv boys](https://members.iracing.com/membersite/member/LeagueView.do?league=10722){:target="_blank"} | |west virginia dirt racing |
 |[CAS \- Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10716){:target="_blank"} | |Combined and solo series with Cup vehicles\. |
-|[da bois](https://members.iracing.com/membersite/member/LeagueView.do?league=10689){:target="_blank"} | |the fun league |
-|[Disgruntled Gaming Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10687){:target="_blank"} | | |
 |[late models](https://members.iracing.com/membersite/member/LeagueView.do?league=10692){:target="_blank"} | |ai only |
 |[Perry Server](https://members.iracing.com/membersite/member/LeagueView.do?league=10714){:target="_blank"} | |Charlotte  Bristol  Lanier  Port Royal  KoKoMo |
 |[Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=10708){:target="_blank"} | | |
