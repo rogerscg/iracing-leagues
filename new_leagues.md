@@ -1,14 +1,13 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Badger Kart Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10732){:target="_blank"} | |Sharpen your skills and be social |
 |[Checker Chasers Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10695){:target="_blank"} |[Discord](https://discord.gg/rUfBnfCmkc){:target="_blank"} |\*\*NEW\*\* NASCAR NEXT GEN based iRacing league\! Go ahead and join the discord below\! |
 |[Colorado Mountain Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10724){:target="_blank"} | | |
 |[Dames and Dukes](https://members.iracing.com/membersite/member/LeagueView.do?league=10733){:target="_blank"} | |A league for women and men that are working on their race craft in the sim space\. Keep the profanity to minimum and help your fellow members learn to be better racers\. |
 |[demonTyme](https://members.iracing.com/membersite/member/LeagueView.do?league=10717){:target="_blank"} | | |
 |[DTC \- Digitaler TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10730){:target="_blank"} | |Digitaler TCR Cup powered by CARLAR Series |
-|[Essayons E\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10690){:target="_blank"} |[Discord](https://discord.gg/ryMd7nawba){:target="_blank"} |Veteran owned & operated |
 |[fia f4 hunter toby](https://members.iracing.com/membersite/member/LeagueView.do?league=10718){:target="_blank"} | |cool |
 |[fishstix](https://members.iracing.com/membersite/member/LeagueView.do?league=10701){:target="_blank"} | |just for fun newbie |
 |[Go Fast Pit Pass](https://members.iracing.com/membersite/member/LeagueView.do?league=10731){:target="_blank"} | |Monday Oval Racing |
@@ -21,20 +20,23 @@
 |[KMR\-Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10729){:target="_blank"} | | |
 |[Moose Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10711){:target="_blank"} | |Moose Racing League's iRacing Series |
 |[Motorsport UK Esports \- GT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10715){:target="_blank"} | | |
-|[160 Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10734){:target="_blank"} | |NASCAR Gen 4 / INDYCAR Series |
+|[160 Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10734){:target="_blank"} |[Discord](https://discord.gg/sSnAC5gtQp){:target="_blank"} |NASCAR Gen 4 / INDYCAR Series |
 |[Octane OutLaws Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10699){:target="_blank"} | |Octane Outlaws Truck Series |
+|[PASHA AND ROYCE FVEE CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=10737){:target="_blank"} | |joins now |
 |[R&R 87' ACES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10721){:target="_blank"} | |87' LEGENDS CARS GOING fast af |
 |[R&R GEN4 FULL HOUSE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10719){:target="_blank"} | |GEN 4 |
 |[R&R SHORT TRACK SHAKEUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10720){:target="_blank"} | |SHORT TRACKS IN THE TRUCKS |
 |[RaceSpot](https://members.iracing.com/membersite/member/LeagueView.do?league=10709){:target="_blank"} | | |
 |[Racing Revolution Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10703){:target="_blank"} | |Monday night truck series\. 7:30 ET session opens\. 8:30 ET Qualifying 8:35 ET Grid |
 |[Rainbow Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10704){:target="_blank"} | |An LGBTQ\+ friendly racing league\. Racing is for everyone\. |
-|[Red Ken Touring Car Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10691){:target="_blank"} |[Discord](https://discord.gg/s35YRkKJZ6){:target="_blank"} |Welcome to the Red Ken Racing Touring Car Championship \(RKTCC\), in association with the Red Ken Racing YouTube Channel\. This is a Touring Car Championship created by the Red Ken Racing community\.   The championship will consist of six rounds consisting of two races per round\.   Race 1 \- 30 Minutes  Race 2 \- 15 Minutes \(Reverse Grid\)   The championship points will also be logged on SimGrid\.   Feel free to join the Red Ken Racing Discord Server to hang out and talk with other drivers participating in the series\.   All races will be livestreamed on the Red Ken Racing YouTube Channel\. |
 |[SCOPS SUPPORTS 2024 \- GTC](https://members.iracing.com/membersite/member/LeagueView.do?league=10712){:target="_blank"} | |SCOPS SUPPORTS 2024 \- GTC |
 |[SCOPS SUPPORTS 2024 \- VEE\-Eights](https://members.iracing.com/membersite/member/LeagueView.do?league=10713){:target="_blank"} | |SCOPS SUPPORTS 2024 \- VEE\-Eights |
+|[Short Bed Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10738){:target="_blank"} |[Discord](https://discord.gg/ssPBmdkzse){:target="_blank"} |Spare Parts Gaming Community\.   Craftsman Trucks, Monday's\. Practice at 6:35 pm ET\. Qualifying at 7:05pm ET\. Racing to follow\! |
+|[Short Racing MX5](https://members.iracing.com/membersite/member/LeagueView.do?league=10736){:target="_blank"} | |MX5 championship |
 |[SHR\-SRL](https://members.iracing.com/membersite/member/LeagueView.do?league=10707){:target="_blank"} | |Stewart\-Haas Employee Sim Racing League\. |
 |[Smokey's Racing School](https://members.iracing.com/membersite/member/LeagueView.do?league=10710){:target="_blank"} | | |
 |[Soup Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=10698){:target="_blank"} | |<3 Dirty Mike and the Boiz |
+|[Team Jayme Marshall](https://members.iracing.com/membersite/member/LeagueView.do?league=10739){:target="_blank"} | |Team Jayme Marshall |
 |[test](https://members.iracing.com/membersite/member/LeagueView.do?league=10735){:target="_blank"} | | |
 |[The 50 Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10705){:target="_blank"} | |Dirt Late Model Pro |
 |[The Average Racers League](https://members.iracing.com/membersite/member/LeagueView.do?league=10725){:target="_blank"} |[Discord](https://discord.com/invite/KRXygpyU6Y){:target="_blank"} |A League for everyone, fun, not very serious and free\! |

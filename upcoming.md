@@ -21,8 +21,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[iracing league for all ages \[you choose the races\]](https://members.iracing.com/membersite/member/LeagueView.do?league=7437){:target="_blank"} |NASCAR 87'S series |Both |Daytona International Speedway |Fri, February 23 07:00PM EST |Sat, February 24 12:00AM GMT |Sat, February 24 11:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------|--------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[GGR iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=6424){:target="_blank"} |GGR Legends S1 |Fixed |Daytona International Speedway |Tue, February 27 09:00PM EST |Wed, February 28 02:00AM GMT |Wed, February 28 01:00PM AEDT |
 
 ### NASCAR Truck Series
@@ -33,6 +32,14 @@
 |--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[NOMA Manny\-Rays Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8118){:target="_blank"} |Season 5 | |Daytona International Speedway |Sat, February 24 09:15PM EST |Sun, February 25 02:15AM GMT |Sun, February 25 01:15PM AEDT |
 |[Racers Elite \- Tuesday](https://members.iracing.com/membersite/member/LeagueView.do?league=9801){:target="_blank"} |Racers Elite \- Truck Fixed Series \(Future\) |Fixed |Atlanta Motor Speedway |Tue, February 27 06:35PM EST |Tue, February 27 11:35PM GMT |Wed, February 28 10:35AM AEDT |
+
+### Whelen Modified
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|---------------|-----|----------------|-------------------------|-------------------------|--------------------------|
+|[Good Brothers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3487){:target="_blank"} |5 Week Shootout |Both |Concord Speedway |Sat, March 02 10:15PM EST |Sun, March 03 03:15AM GMT |Sun, March 03 02:15PM AEDT |
 
 ### XFINITY Series
 
@@ -62,7 +69,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
 |[7920 Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=8188){:target="_blank"} |INEX Legend Car \(OVAL\) |Both |Charlotte Motor Speedway |Sat, February 24 07:00PM EST |Sun, February 25 12:00AM GMT |Sun, February 25 11:00AM AEDT |
-|[7920 Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=8188){:target="_blank"} |INEX Legend Car \(ROAD\) |Both |Charlotte Motor Speedway |Fri, February 23 07:00PM EST |Sat, February 24 12:00AM GMT |Sat, February 24 11:00AM AEDT |
 
 ### Super Late Model
 
@@ -82,23 +88,39 @@
 |-----------------------------------------------------------------------------------------------------------------------|---------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Average Racers League](https://members.iracing.com/membersite/member/LeagueView.do?league=10725){:target="_blank"} |CCRAPA Season 3 |Both |USA International Speedway |Tue, February 27 05:00AM EST |Tue, February 27 10:00AM GMT |Tue, February 27 09:00PM AEDT |
 
-### [Legacy] Dallara IR-05
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-----------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[Classic Interdicted Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1381){:target="_blank"} |2024 Season |Open |Sebring International Raceway |Sun, February 25 11:00AM EST |Sun, February 25 04:00PM GMT |Mon, February 26 03:00AM AEDT |
-
 # Sports Car
 
-### GT3 Class
+### Ford Mustang FR500S
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|----------------------|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso Friday Night GT3 | |Autodromo Internazionale Enzo e Dino Ferrari |Fri, February 23 02:30PM EST |Fri, February 23 07:30PM GMT |Sat, February 24 06:30AM AEDT |
+|--------------------------------------------------------------------------------------------------------------|---------------|-----|--------------|----------------------------|----------------------------|-----------------------------|
+|[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2024 Fun Racing |Fixed |Sonoma Raceway |Sun, February 25 08:10PM EST |Mon, February 26 01:10AM GMT |Mon, February 26 12:10PM AEDT |
+
+### GT4 Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------|------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[YNotBoth Road and Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=10682){:target="_blank"} |YNB GT4 World Tour | |Daytona International Speedway |Sat, March 02 12:00PM EST |Sat, March 02 05:00PM GMT |Sun, March 03 04:00AM AEDT |
+
+### Mazda MX-5 Cup 2016
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------|------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[Short Racing MX5](https://members.iracing.com/membersite/member/LeagueView.do?league=10736){:target="_blank"} |MX5 | |Virginia International Raceway |Fri, March 01 03:00PM EST |Fri, March 01 08:00PM GMT |Sat, March 02 07:00AM AEDT |
+
+### [Legacy] BMW Z4 GT3
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------|---------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 | |Okayama International Circuit |Sat, March 02 12:55PM EST |Sat, March 02 05:55PM GMT |Sun, March 03 04:55AM AEDT |
 
 # Prototype
 
