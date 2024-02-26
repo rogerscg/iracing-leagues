@@ -13,6 +13,14 @@
 
 # Sports Car
 
+### GT3 Class
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |GT Masters Season 10 |Africa |13 |None | | | | | |
+
 ### Renault Clio
 
 [Back to Top](#)  
@@ -29,5 +37,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|---------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |Mini\-Enduro Series \| 2024 |Africa |33 |2052 |Both | | | | |
+|[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |Mini\-Enduro Series \| 2024 |Africa |38 |2050 |Both | | | | |
 

@@ -16,10 +16,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|--------------------------------|----------------------------|-------------------------|--------------------------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2024 |North America |26 |1928 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |17 |2241 |Fixed |Bark River International Raceway |Thu, February 29 08:25PM EST |Fri, March 01 01:25AM GMT |Fri, March 01 12:25PM AEDT |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK RX \- 2024 |North America |13 |2191 |Fixed |Lånkebanen (Hell RX) |Sat, February 24 09:00PM EST |Sun, February 25 02:00AM GMT |Sun, February 25 01:00PM AEDT |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK RX \- 2024 |North America |15 |1988 |Fixed | | | | |
 
 ### Pro 4 Truck
 

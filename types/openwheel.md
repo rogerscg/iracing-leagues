@@ -8,10 +8,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|-----------------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[VOR IndyCar Super Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6877){:target="_blank"} |DW12 Season 1 |North America |24 |2808 |Fixed |Pocono Raceway |Sun, February 25 10:00AM EST |Sun, February 25 03:00PM GMT |Mon, February 26 02:00AM AEDT |
+|------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-----------------------------------------------|----------------------------|-------------------------|--------------------------|
+|[VOR IndyCar Super Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6877){:target="_blank"} |DW12 Season 1 |North America |26 |2731 |Fixed | | | | |
 |[Area 51/Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |Area 51/ Darkhorse 500 |North America |23 |2751 | | | | | |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART DW12 Season 1 |North America |22 |1805 |Fixed |[Legacy] Michigan International Speedway - 2009 |Thu, February 29 07:00PM EST |Fri, March 01 12:00AM GMT |Fri, March 01 11:00AM AEDT |
+|[Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5567){:target="_blank"} |DarkHorse DW12 Season 7 |North America |15 |2294 |Fixed | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2024 Season 1 \- DW12 |North America |13 |1608 |Fixed |Pocono Raceway |Thu, February 29 07:00PM EST |Fri, March 01 12:00AM GMT |Fri, March 01 11:00AM AEDT |
 
 ### Dallara F3
@@ -33,24 +34,24 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Warriors 4 Peace Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3645){:target="_blank"} |2024A Warriors 4 Peace IndyCar Series |North America |60 |2494 | | | | | |
 |[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 6 \- Indy Car |North America |60 |2468 | | | | | |
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |INDYCAR SERIES \- SEASON\#06 |Europe |47 |2286 |Both | | | | |
 |[ABN Open Wheel Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=3837){:target="_blank"} |ABN Champ Car World Series Season 5 |North America |41 |2070 |Fixed |Homestead Miami Speedway |Wed, February 28 07:30PM EST |Thu, February 29 12:30AM GMT |Thu, February 29 11:30AM AEDT |
-|[Velocity Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5146){:target="_blank"} |IR18 \- Season 11 |North America |38 |2531 |Fixed |The Milwaukee Mile |Sat, February 24 02:00PM EST |Sat, February 24 07:00PM GMT |Sun, February 25 06:00AM AEDT |
+|[Velocity Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5146){:target="_blank"} |IR18 \- Season 11 |North America |39 |2556 |Fixed | | | | |
 |[Sidewinder Modified Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=6120){:target="_blank"} |IndyCar Season 3 |North America |35 |1870 | | | | | |
-|[Catalyst 317 Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1725){:target="_blank"} |Season 10 |North America |32 |3729 |Open |WeatherTech Raceway at Laguna Seca |Sat, February 24 10:00AM EST |Sat, February 24 03:00PM GMT |Sun, February 25 02:00AM AEDT |
+|[Catalyst 317 Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1725){:target="_blank"} |Season 10 |North America |33 |3624 |Open | | | | |
 |[Area 51/Dark Horse Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |2024 Season 1 |North America |29 |2351 | | | | | |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |Open Wheel |Europe |29 |2423 | |Mid-Ohio Sports Car Course |Tue, February 27 11:00AM EST |Tue, February 27 04:00PM GMT |Wed, February 28 03:00AM AEDT |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |24 |2010 | | | | | |
 |[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/1 |South America |24 |2388 | | | | | |
+|[Aspire Racing \- Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10615){:target="_blank"} |Aspire Racing \- Indycar Series |Europe |19 |1746 | |Daytona International Speedway |Sun, March 03 01:00PM EST |Sun, March 03 06:00PM GMT |Mon, March 04 05:00AM AEDT |
 |[SCOWRS IndyCar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6737){:target="_blank"} |2023 |North America |19 |2650 | | | | | |
-|[Aspire Racing \- Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10615){:target="_blank"} |Aspire Racing \- Indycar Series |Europe |17 |1751 | |Road Atlanta |Sun, February 25 01:00PM EST |Sun, February 25 06:00PM GMT |Mon, February 26 05:00AM AEDT |
 |[CA Open\-Wheel Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6595){:target="_blank"} |IndyCar Season 5 |Europe |17 |2441 |Fixed |Auto Club Speedway |Mon, February 26 01:00PM EST |Mon, February 26 06:00PM GMT |Tue, February 27 05:00AM AEDT |
 |[SNS Winter Challenge for Charity](https://members.iracing.com/membersite/member/LeagueView.do?league=6105){:target="_blank"} |Winter 2023/2024 |North America |16 |1956 |Fixed | | | | |
 |[The Simpit Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4263){:target="_blank"} |The Simpit Season 21/IR\-18 |North America |14 |1852 |Fixed |Iowa Speedway |Mon, February 26 08:00PM EST |Tue, February 27 01:00AM GMT |Tue, February 27 12:00PM AEDT |
-|[North American Trans\-Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9778){:target="_blank"} |IR18 |North America |13 |1806 | | | | | |
+|[North American Trans\-Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9778){:target="_blank"} |IR18 |North America |13 |1747 | | | | | |
 |[TKC Esports Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8661){:target="_blank"} |TKC Season 5 |North America |13 |1738 |Fixed | | | | |
 |[AutoRacingConnected American Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9856){:target="_blank"} |2024 ARC Champ Car Series |North America |12 |2420 |Fixed | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCars January 2024 Championship |North America |12 |1771 | | | | | |
@@ -67,32 +68,32 @@
 |[KNAF Digital](https://members.iracing.com/membersite/member/LeagueView.do?league=8856){:target="_blank"} |Winter Cup 2024 |Europe |58 |2522 |Fixed | | | | |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Saison 6 |Europe |54 |2235 |Both | | | | |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |Formula |Europe |47 |2304 | | | | | |
+|[ARA Formula 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7167){:target="_blank"} |Season 3 |Europe |43 |2875 | |Nürburgring Grand-Prix-Strecke |Fri, March 01 01:00PM EST |Fri, March 01 06:00PM GMT |Sat, March 02 05:00AM AEDT |
 |[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |FORMULA F4 S1\-24 |Europe |41 |2212 | | | | | |
-|[ARA Formula 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7167){:target="_blank"} |Season 3 |Europe |41 |2749 | |Mount Panorama Circuit |Sat, February 24 01:00PM EST |Sat, February 24 06:00PM GMT |Sun, February 25 05:00AM AEDT |
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |DAU F4 Series: Season 1 |Europe |35 |1454 | |WeatherTech Raceway at Laguna Seca |Sat, March 02 12:20PM EST |Sat, March 02 05:20PM GMT |Sun, March 03 04:20AM AEDT |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2024 Spring Season |North America |34 |2389 |Both | | | | |
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |FLANC Club Serie 2023/24 \- F4 |Europe |34 |1639 |Fixed | | | | |
 |[The Sim Racing Collective](https://members.iracing.com/membersite/member/LeagueView.do?league=10182){:target="_blank"} |TSRC F4 Sprint |Europe |34 |2391 |Both |Road Atlanta |Fri, March 01 01:58PM EST |Fri, March 01 06:58PM GMT |Sat, March 02 05:58AM AEDT |
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |FLANC Club Serie 2023/24 \- Testrennen |Europe |32 |1612 |Fixed | | | | |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 29 F4 |North America |30 |1565 |Fixed |Autódromo José Carlos Pace |Mon, February 26 02:00PM EST |Mon, February 26 07:00PM GMT |Tue, February 27 06:00AM AEDT |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 29 F4 |North America |29 |1578 |Fixed |Autódromo José Carlos Pace |Mon, February 26 02:00PM EST |Mon, February 26 07:00PM GMT |Tue, February 27 06:00AM AEDT |
 |[PRL Ray 1600 Series \(Thursday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4908){:target="_blank"} |PRL Thursday Formula D Fixed Series 2024/S1 |North America |27 |1771 | |Nürburgring Grand-Prix-Strecke |Thu, February 29 06:30PM EST |Thu, February 29 11:30PM GMT |Fri, March 01 10:30AM AEDT |
-|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 9 \- F4 |Europe |25 |2096 |Both |Watkins Glen International |Sun, February 25 04:00PM EST |Sun, February 25 09:00PM GMT |Mon, February 26 08:00AM AEDT |
+|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 9 \- F4 |Europe |26 |2081 |Both | | | | |
 |[Raceface\.Pro Formula 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=10028){:target="_blank"} |F4 Cup 2024 \| S3 |Africa |25 |2228 | | | | | |
-|[2023 ESR IMSA Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=4045){:target="_blank"} |2024 F4 Esport Danish Championship \- Division 2 |Europe |24 |3000 |Fixed | | | | |
-|[ESR 911 Trophy \- Division 2](https://members.iracing.com/membersite/member/LeagueView.do?league=6783){:target="_blank"} |2024 F4 Esport Danish Championship \- Division 3 |Europe |24 |2101 | | | | | |
-|[ESR 911 Trophy \- Træningsserver](https://members.iracing.com/membersite/member/LeagueView.do?league=3733){:target="_blank"} |2024 F4 Esport Danish Championship \- Division 4 |Europe |24 |1585 |Fixed | | | | |
-|[ESR 911 Trophy \- Division 3](https://members.iracing.com/membersite/member/LeagueView.do?league=5790){:target="_blank"} |2024 F4 Esport Danish Championship \- Division 5 |Europe |24 |1388 | | | | | |
-|[ESR 911 Trophy \- Division 1](https://members.iracing.com/membersite/member/LeagueView.do?league=6785){:target="_blank"} |2024 F4 Esport Danish Championship \- Division 1 |Europe |23 |5395 | | | | | |
+|[2023 ESR IMSA Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=4045){:target="_blank"} |2024 F4 Esport Danish Championship \- Division 2 |Europe |24 |3000 |Fixed |Brands Hatch Circuit |Mon, March 04 01:00PM EST |Mon, March 04 06:00PM GMT |Tue, March 05 05:00AM AEDT |
+|[ESR 911 Trophy \- Division 2](https://members.iracing.com/membersite/member/LeagueView.do?league=6783){:target="_blank"} |2024 F4 Esport Danish Championship \- Division 3 |Europe |24 |2101 | |Brands Hatch Circuit |Mon, March 04 01:00PM EST |Mon, March 04 06:00PM GMT |Tue, March 05 05:00AM AEDT |
+|[ESR 911 Trophy \- Træningsserver](https://members.iracing.com/membersite/member/LeagueView.do?league=3733){:target="_blank"} |2024 F4 Esport Danish Championship \- Division 4 |Europe |24 |1585 |Fixed |Brands Hatch Circuit |Mon, March 04 01:00PM EST |Mon, March 04 06:00PM GMT |Tue, March 05 05:00AM AEDT |
+|[ESR 911 Trophy \- Division 3](https://members.iracing.com/membersite/member/LeagueView.do?league=5790){:target="_blank"} |2024 F4 Esport Danish Championship \- Division 5 |Europe |24 |1388 | |Brands Hatch Circuit |Mon, March 04 01:00PM EST |Mon, March 04 06:00PM GMT |Tue, March 05 05:00AM AEDT |
+|[ESR 911 Trophy \- Division 1](https://members.iracing.com/membersite/member/LeagueView.do?league=6785){:target="_blank"} |2024 F4 Esport Danish Championship \- Division 1 |Europe |23 |5395 | |Brands Hatch Circuit |Mon, March 04 01:00PM EST |Mon, March 04 06:00PM GMT |Tue, March 05 05:00AM AEDT |
 |[Aspire Racing Team \- League](https://members.iracing.com/membersite/member/LeagueView.do?league=10173){:target="_blank"} |ART F4 SERIES IN PARTNERSHIP WITH INGEAR MOTORSPORT \- SEASON 1 |Europe |23 |1933 | |Circuit de Spa-Francorchamps |Tue, February 27 02:00PM EST |Tue, February 27 07:00PM GMT |Wed, February 28 06:00AM AEDT |
 |[Alt\-F4 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8481){:target="_blank"} |Season 7\.\.\.\.\.Come 11 |North America |22 |2136 |Open | | | | |
 |[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |24S1 Stair Fittings Inc F4 Dash\! |North America |20 |1244 |Both |Nürburgring Grand-Prix-Strecke |Thu, February 29 07:30PM EST |Fri, March 01 12:30AM GMT |Fri, March 01 11:30AM AEDT |
-|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2024\-S1 F4 |North America |19 |1768 |Both |Nürburgring Grand-Prix-Strecke |Tue, February 27 08:00PM EST |Wed, February 28 01:00AM GMT |Wed, February 28 12:00PM AEDT |
 |[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |2024 Friday PSM Formula 4 Championship |North America |19 |1863 |Open | | | | |
-|[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2024 S1 FIA F4 \(Sun 9:00pm\) |North America |15 |1563 |Fixed |Charlotte Motor Speedway |Sun, February 25 09:00PM EST |Mon, February 26 02:00AM GMT |Mon, February 26 01:00PM AEDT |
+|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2024\-S1 F4 |North America |18 |1776 |Both |Nürburgring Grand-Prix-Strecke |Tue, February 27 08:00PM EST |Wed, February 28 01:00AM GMT |Wed, February 28 12:00PM AEDT |
+|[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2024 S1 FIA F4 \(Sun 9:00pm\) |North America |16 |1568 |Fixed |Hockenheimring Baden-Württemberg |Sun, March 03 09:00PM EST |Mon, March 04 02:00AM GMT |Mon, March 04 01:00PM AEDT |
 |[OCRP Member League](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |Formula None World Tour Season 1 |North America |14 |1430 | |Circuit Zandvoort |Mon, February 26 08:00PM EST |Tue, February 27 01:00AM GMT |Tue, February 27 12:00PM AEDT |
 |[PMTCC \- Pure Motorsport Touring Car Championship\.](https://members.iracing.com/membersite/member/LeagueView.do?league=9252){:target="_blank"} |Formula Pure F4 \- Winter series 23/24 |Europe |13 |3650 | | | | | |
 |[Blue Wave Formula Career](https://members.iracing.com/membersite/member/LeagueView.do?league=10269){:target="_blank"} |Formula4 |Europe |12 |2891 | | | | | |
-|[iRacing for the Blind](https://members.iracing.com/membersite/member/LeagueView.do?league=6082){:target="_blank"} |Season 4 \- Slower than B4 |North America |12 |1385 | |Silverstone Circuit |Sun, February 25 05:00PM EST |Sun, February 25 10:00PM GMT |Mon, February 26 09:00AM AEDT |
+|[iRacing for the Blind](https://members.iracing.com/membersite/member/LeagueView.do?league=6082){:target="_blank"} |Season 4 \- Slower than B4 |North America |12 |1403 | | | | | |
 |[Ultimate Formula 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10477){:target="_blank"} |Season 1 |North America |12 |1908 | |Okayama International Circuit |Wed, February 28 08:00PM EST |Thu, February 29 01:00AM GMT |Thu, February 29 12:00PM AEDT |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR 2024 SEASON 1 F4 PRACTICE LEAGUE |North America |11 |1530 |Open | | | | |
 |[ESR Academy \- 12H Sebring](https://members.iracing.com/membersite/member/LeagueView.do?league=4647){:target="_blank"} |2023 ESR F4 eSport Academy |Europe |10 |None | | | | | |
@@ -110,8 +111,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |FV WW 2024 S1 |North America |54 |2378 |Open |Virginia International Raceway |Sat, February 24 01:30PM EST |Sat, February 24 06:30PM GMT |Sun, February 25 05:30AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
+|[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |FV WW 2024 S1 |North America |59 |2341 |Open |WeatherTech Raceway at Laguna Seca |Sat, March 02 01:30PM EST |Sat, March 02 06:30PM GMT |Sun, March 03 05:30AM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024A Formula Vee Sprint Series |Australia-NZ |47 |1877 |Both | | | | |
 |[NEFV Thirsty Thursday's](https://members.iracing.com/membersite/member/LeagueView.do?league=5744){:target="_blank"} |2024 NEFV Winter Race Series |North America |31 |1649 |Fixed | | | | |
 |[Canadian F1200 eSports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10460){:target="_blank"} |2024 Canadian F1200 eSports Championship |North America |19 |1831 | |Canadian Tire Motorsports Park |Fri, March 01 06:30PM EST |Fri, March 01 11:30PM GMT |Sat, March 02 10:30AM AEDT |
@@ -126,8 +127,8 @@
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Winter Tour Formula Cars |North America |50 |2282 |Open | | | | |
 |[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} |Season 8 |Europe |41 |2299 | | | | | |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |Vees & Rays Season 1 |North America |39 |1779 |Open |Knockhill Racing Circuit |Thu, February 29 07:30PM EST |Fri, March 01 12:30AM GMT |Fri, March 01 11:30AM AEDT |
+|[PHILDECARACING F1](https://members.iracing.com/membersite/member/LeagueView.do?league=10339){:target="_blank"} |SAISON 2023\-2024 CHAMPIONNAT W13 |Europe |23 |1756 | | | | | |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |Vees & Rays Practice |North America |22 |1693 |Open |Knockhill Racing Circuit |Wed, February 28 08:00PM EST |Thu, February 29 01:00AM GMT |Thu, February 29 12:00PM AEDT |
-|[PHILDECARACING F1](https://members.iracing.com/membersite/member/LeagueView.do?league=10339){:target="_blank"} |SAISON 2023\-2024 CHAMPIONNAT W13 |Europe |22 |1762 | | | | | |
 |[PCRL Official](https://members.iracing.com/membersite/member/LeagueView.do?league=8971){:target="_blank"} |PCRL Special Events |North America |11 |1776 |Fixed | | | | |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |4Fun |South America |10 |2092 | | | | | |
 
@@ -150,17 +151,17 @@
 |[Lionheart Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3173){:target="_blank"} |2023 Retro Series |North America |26 |2861 | | | | | |
 |[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2024/1 |South America |16 |2194 | | | | | |
 |[Lionheart Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3173){:target="_blank"} |2023 Warm Up 2 |North America |16 |2876 | | | | | |
+|[Misfits challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10618){:target="_blank"} |2024 S1 Lotus 79 sprint races |Australia-NZ |15 |1472 |Both | | | | |
 |[Lionheart Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1138){:target="_blank"} |2023 Retro Series Practice |North America |14 |None |Fixed | | | | |
 |[Classic Interdicted Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1381){:target="_blank"} |Winter Series 2023\-2024 |North America |13 |1925 |Open | | | | |
-|[Misfits challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10618){:target="_blank"} |2024 S1 Lotus 79 sprint races |Australia-NZ |13 |1457 |Both |Circuit des 24 Heures du Mans |Sun, February 25 12:45AM EST |Sun, February 25 05:45AM GMT |Sun, February 25 04:45PM AEDT |
 
 ### Ray FF1600
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |FF WW 2024 Season 1 |North America |51 |2928 |Open |WeatherTech Raceway at Laguna Seca |Sun, February 25 11:30AM EST |Sun, February 25 04:30PM GMT |Mon, February 26 03:30AM AEDT |
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |FF WW 2024 Season 1 |North America |54 |2930 |Open |Sonoma Raceway |Sun, March 03 11:30AM EST |Sun, March 03 04:30PM GMT |Mon, March 04 03:30AM AEDT |
 |[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 4 European Vacation |Australia-NZ |35 |2761 | | | | | |
 |[Club100 / BUKC iRacing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6252){:target="_blank"} |2024 BUKC iRacing Trophy |Europe |32 |2276 |Fixed | | | | |
 |[Kart Canada iRacing League \(KARTPLEX\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter Open Wheel Series |North America |28 |1744 |Fixed |Virginia International Raceway |Tue, February 27 11:10PM EST |Wed, February 28 04:10AM GMT |Wed, February 28 03:10PM AEDT |
@@ -179,7 +180,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 26 |Europe |38 |2947 |Both |Barber Motorsports Park |Mon, February 26 01:05PM EST |Mon, February 26 06:05PM GMT |Tue, February 27 05:05AM AEDT |
-|[Sunday Night Skippy](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |SUNDAY NIGHT SKIPPY S17 |North America |34 |3066 |Open |Barber Motorsports Park |Sun, February 25 06:00PM EST |Sun, February 25 11:00PM GMT |Mon, February 26 10:00AM AEDT |
+|[Sunday Night Skippy](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |SUNDAY NIGHT SKIPPY S17 |North America |35 |3050 |Open |Summit Point Raceway |Sun, March 03 06:00PM EST |Sun, March 03 11:00PM GMT |Mon, March 04 10:00AM AEDT |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |King of the Rings |Europe |17 |2797 |Both | | | | |
 
 ### Super Formula SF23
@@ -188,17 +189,17 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[League Zero \- Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season 9 |North America |45 |1948 |Fixed | | | | |
+|[League Zero \- Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season 9 |North America |45 |1948 |Fixed |Circuit de Nevers Magny-Cours |Thu, February 29 08:00PM EST |Fri, March 01 01:00AM GMT |Fri, March 01 12:00PM AEDT |
+|[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2024\- SUPERFORMULA ASR |North America |37 |2009 |Fixed | | | | |
 |[CiL Formula C](https://members.iracing.com/membersite/member/LeagueView.do?league=8830){:target="_blank"} |Formula C Spring 2024 |North America |37 |1847 |Fixed | | | | |
 |[Formula Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10300){:target="_blank"} |Formula Super Series \- Season 1 |North America |37 |2491 |Fixed | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024A Wings N Slicks \- Super Formula |Australia-NZ |36 |2017 |Both |Autodromo Internazionale del Mugello |Fri, March 01 03:40AM EST |Fri, March 01 08:40AM GMT |Fri, March 01 07:40PM AEDT |
-|[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2024\- SUPERFORMULA ASR |North America |35 |1905 |Fixed | | | | |
 |[VOR Lets Race IR05 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5975){:target="_blank"} |Super Formula \- Season 1 |Europe |28 |2306 | | | | | |
 |[\(not running\) AOR GT4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=2082){:target="_blank"} |AOR Super Formula Season 2 |Europe |23 |3051 |Open | | | | |
-|[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |Dad Bod Racing |North America |19 |2434 |Open |Suzuka International Racing Course |Mon, February 26 10:00PM EST |Tue, February 27 03:00AM GMT |Tue, February 27 02:00PM AEDT |
+|[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |Dad Bod Racing |North America |19 |2459 |Open |Suzuka International Racing Course |Mon, February 26 10:00PM EST |Tue, February 27 03:00AM GMT |Tue, February 27 02:00PM AEDT |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |SF23 Season 2 |North America |18 |2266 |Open | | | | |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |SF23 Practice |North America |14 |2356 |Open | | | | |
-|[ARL Division\-i](https://members.iracing.com/membersite/member/LeagueView.do?league=9976){:target="_blank"} |Season 2 |North America |12 |1649 |Fixed |Autodromo Internazionale del Mugello |Sun, February 25 08:00PM EST |Mon, February 26 01:00AM GMT |Mon, February 26 12:00PM AEDT |
+|[ARL Division\-i](https://members.iracing.com/membersite/member/LeagueView.do?league=9976){:target="_blank"} |Season 2 |North America |12 |1742 |Fixed |Mobility Resort Motegi |Sun, March 03 08:00PM EST |Mon, March 04 01:00AM GMT |Mon, March 04 12:00PM AEDT |
 |[SimCAR \- Penguin R/C Simulation Grand\-Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5221){:target="_blank"} |2024 2FastRacing Super Formula Series |North America |11 |2585 |Open | | | | |
 
 ### USF 2000
@@ -206,6 +207,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|----------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |USF2000 Season 3 |Europe |26 |1840 |Both | | | | |
+|--------------------------------------------------------------------------------------------------------------|----------------|--------|-------|----|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |USF2000 Season 3 |Europe |26 |1840 |Both |Charlotte Motor Speedway |Sun, March 03 04:00PM EST |Sun, March 03 09:00PM GMT |Mon, March 04 08:00AM AEDT |
+
+### [Legacy] Dallara IR-05
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------|-----------|--------|-------|----|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|[Classic Interdicted Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1381){:target="_blank"} |2024 Season |Europe |18 |2207 |Open |Homestead Miami Speedway |Sun, March 03 11:00AM EST |Sun, March 03 04:00PM GMT |Mon, March 04 03:00AM AEDT |
 
