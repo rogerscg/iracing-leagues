@@ -16,8 +16,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |27 |2731 | |Las Vegas Motor Speedway |Tue, February 27 05:00PM EST |Tue, February 27 10:00PM GMT |Wed, February 28 09:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T1 |South America |27 |2730 | | | | | |
 
 ### Silverado
 
@@ -34,8 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |24 |2010 | | | | | |
+|-------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |24 |2010 | |Charlotte Motor Speedway |Wed, March 06 04:30PM EST |Wed, March 06 09:30PM GMT |Thu, March 07 08:30AM AEDT |
 |[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/1 |South America |24 |2388 | | | | | |
 
 ### Hosted All Cars Class
@@ -95,7 +95,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari Italiana |South America |18 |1484 | | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari Italiana |South America |18 |1502 | | | | | |
 
 # Prototype
 
@@ -104,8 +104,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |19 |1815 | |Circuit de Spa-Francorchamps |Tue, February 27 05:25PM EST |Tue, February 27 10:25PM GMT |Wed, February 28 09:25AM AEDT |
+|--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |19 |1844 | |Autódromo José Carlos Pace |Tue, March 05 05:25PM EST |Tue, March 05 10:25PM GMT |Wed, March 06 09:25AM AEDT |
 
 # Multi-class/Unclassified
 
