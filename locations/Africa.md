@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |GT Masters Season 10 |Africa |27 |None | |Autodromo Internazionale del Mugello |Wed, February 28 01:30PM EST |Wed, February 28 06:30PM GMT |Thu, February 29 05:30AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |GT Masters Season 10 |Africa |30 |1772 | | | | | |
 
 ### Renault Clio
 

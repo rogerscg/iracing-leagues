@@ -45,25 +45,17 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Eternity Trucks March 2024 Championship | |Las Vegas Motor Speedway |Mon, March 04 09:00PM EST |Tue, March 05 02:00AM GMT |Tue, March 05 01:00PM AEDT |
+|[Road N' Plate](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} |Season 2 |Fixed |Talladega Superspeedway |Thu, March 07 08:00PM EST |Fri, March 08 01:00AM GMT |Fri, March 08 12:00PM AEDT |
+|[TW MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=3600){:target="_blank"} |Spring Season | |Talladega Superspeedway |Tue, March 05 08:00PM EST |Wed, March 06 01:00AM GMT |Wed, March 06 12:00PM AEDT |
 
 ### Whelen Modified
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[RAID iSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |SMART Modified Tour Exhibition Season |Fixed |Stafford Motor Speedway |Wed, February 28 08:30PM EST |Thu, February 29 01:30AM GMT |Thu, February 29 12:30PM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Good Brothers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3487){:target="_blank"} |5 Week Shootout |Both |Concord Speedway |Sat, March 02 10:15PM EST |Sun, March 03 03:15AM GMT |Sun, March 03 02:15PM AEDT |
 |[TDR Friday Nights Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=9476){:target="_blank"} |Into spring 2024 | |Nashville Fairgrounds Speedway |Fri, March 01 08:00PM EST |Sat, March 02 01:00AM GMT |Sat, March 02 12:00PM AEDT |
-
-### XFINITY Series
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[XASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=8479){:target="_blank"} |Cessna XASCAR Cup Series \- Season 15 | |Daytona International Speedway |Wed, February 28 09:30PM EST |Thu, February 29 02:30AM GMT |Thu, February 29 01:30PM AEDT |
-|[Racers Elite \- Wednesday](https://members.iracing.com/membersite/member/LeagueView.do?league=9180){:target="_blank"} |Racers Elite \- Xfinity Fixed Series \(Future\) |Fixed |Daytona International Speedway |Wed, February 28 06:35PM EST |Wed, February 28 11:35PM GMT |Thu, February 29 10:35AM AEDT |
 
 # Oval
 
@@ -72,11 +64,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |Winter 2024 \- SLM Qualifier Series | |Slinger Speedway |Wed, February 28 08:00PM EST |Thu, February 29 01:00AM GMT |Thu, February 29 12:00PM AEDT |
+|----------------------------------------------------------------------------------------------------------------|----------------------------|-----|-------------------|-------------------------|-------------------------|--------------------------|
 |[ARCS Xtreme Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=6505){:target="_blank"} |Xtreme 2024 Super Late Model | |Rockingham Speedway |Mon, March 04 08:30PM EST |Tue, March 05 01:30AM GMT |Tue, March 05 12:30PM AEDT |
 
 # Open-wheel
+
+### Dallara IR18
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|---------------------------|-------------------------|-------------------------|--------------------------|
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCars March 2024 Championship | |Indianapolis Motor Speedway |Sat, March 02 11:00AM EST |Sat, March 02 04:00PM GMT |Sun, March 03 03:00AM AEDT |
 
 ### Pro Mazda
 
@@ -172,7 +171,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|---------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|---------------------------|----------------------------|-------------------------|--------------------------|
+|[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2024 PAD Rain Out Series |Open |Lincoln Speedway |Thu, February 29 07:30PM EST |Fri, March 01 12:30AM GMT |Fri, March 01 11:30AM AEDT |
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |410 Sprintcar Super Series 2024 | |The Dirt Track at Charlotte |Fri, March 01 05:00AM EST |Fri, March 01 10:00AM GMT |Fri, March 01 09:00PM AEDT |
 
 ### Dirt UMP Modified
@@ -180,9 +180,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------|----------------------------|-------------------------|--------------------------|
+|[Extreme Forces DIRTKARS](https://members.iracing.com/membersite/member/LeagueView.do?league=7932){:target="_blank"} |Season 6 | |Lucas Oil Speedway |Thu, March 07 09:00PM EST |Fri, March 08 02:00AM GMT |Fri, March 08 01:00PM AEDT |
 |[Full Throttle Motorsports RL](https://members.iracing.com/membersite/member/LeagueView.do?league=9454){:target="_blank"} |FTM RL UMP Series 1 |Both |Lanier National Speedway |Fri, March 01 06:29PM EST |Fri, March 01 11:29PM GMT |Sat, March 02 10:29AM AEDT |
-|[QuickTime Promotions Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8389){:target="_blank"} |LoO IMCA Style Modifieds | |Limaland Motorsports Park |Wed, February 28 07:30PM EST |Thu, February 29 12:30AM GMT |Thu, February 29 11:30AM AEDT |
 |[NDRA\- National Dirt Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |SRA Season 1 UMP Open Set |Both |Cedar Lake Speedway |Thu, February 29 08:00PM EST |Fri, March 01 01:00AM GMT |Fri, March 01 12:00PM AEDT |
 
 # Multi-class/Unclassified
@@ -192,11 +192,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|----------------------------------|----------------------------|----------------------------|--------------------------|
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |Week 13 |Both |Canadian Tire Motorsports Park |Tue, March 05 08:00PM EST |Wed, March 06 01:00AM GMT |Wed, March 06 12:00PM AEDT |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |I'MSAVED GTP/GT3 Sunday Night Road Series | |Virginia International Raceway |Sun, March 03 08:00PM EST |Mon, March 04 01:00AM GMT |Mon, March 04 12:00PM AEDT |
 |[RLMS \- Retro Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10661){:target="_blank"} |Special Events |Open |Okayama International Circuit |Sun, March 03 01:13PM EST |Sun, March 03 06:13PM GMT |Mon, March 04 05:13AM AEDT |
-|[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |Jack Of All Series | |Charlotte Motor Speedway |Wed, February 28 07:00PM EST |Thu, February 29 12:00AM GMT |Thu, February 29 11:00AM AEDT |
 |[Desert Plains Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8828){:target="_blank"} |Steel City Sim\-Racers Season 1 | |WeatherTech Raceway at Laguna Seca |Mon, March 04 09:00PM EST |Tue, March 05 02:00AM GMT |Tue, March 05 01:00PM AEDT |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |LIGA MULTI24 |Both |Sebring International Raceway |Tue, March 05 02:00PM EST |Tue, March 05 07:00PM GMT |Wed, March 06 06:00AM AEDT |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |PREQ MULTI24 |Both |Sebring International Raceway |Thu, February 29 02:00PM EST |Thu, February 29 07:00PM GMT |Fri, March 01 06:00AM AEDT |
