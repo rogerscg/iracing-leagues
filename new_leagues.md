@@ -1,8 +1,9 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[AcesUp Sim Sports 360 Sprints](https://members.iracing.com/membersite/member/LeagueView.do?league=10746){:target="_blank"} | | |
+|[ASCAR \(Anglo\-American Stock Car Racing\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10760){:target="_blank"} | |ASCAR was a stock car racing series that raced at circuits around the United Kingdom and Europe from 2001 until 2008\. The series went through many guises during its seven year period and was known as the ASCAR Mintex Cup from 2001 to 2003, later known as the Days of Thunder Racing Series \(2004\) and the SCSA \(Stock Car Speed Association\) \(2005 to 2007\) before its final season as the SCSA MAC Tools VSR V8 Trophy\. Although going through these varying identities the series was commonly referred to and known by its original name of ASCAR\. The series predominantly raced the oval tracks at the Rockingham Motor Speedway and the EuroSpeedway Lausitz in the early years but in its final season in 2008 was solely road racing series that would visit various tracks in the UK most notably Brands Hatch and in France at Croix en Ternois\. The series folded in 2008 and merged into part of the European Late Model Series in 2009, racing in Belgium and the UK\. |
 |[Badger Kart Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10732){:target="_blank"} | |Sharpen your skills and be social |
 |[Colorado Mountain Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10724){:target="_blank"} | | |
 |[CRACKD\.Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10753){:target="_blank"} | |A massive bunch of Bulbs doing racing things |
@@ -10,12 +11,14 @@
 |[demonTyme](https://members.iracing.com/membersite/member/LeagueView.do?league=10717){:target="_blank"} | | |
 |[DTC \- Digitaler TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10730){:target="_blank"} | |Digitaler TCR Cup powered by CARLAR Series |
 |[fia f4 hunter toby](https://members.iracing.com/membersite/member/LeagueView.do?league=10718){:target="_blank"} | |cool |
+|[Florida's Short Trackers](https://members.iracing.com/membersite/member/LeagueView.do?league=10764){:target="_blank"} | |TAMPA BAY LIGHTING presents a league for anyone actively involved with real life short track racing in Florida\. Drivers, crew, track staff, and even fans who support their local tracks\. Both asphalt and dirt communities are welcome\. All skill levels are welcome but please drive within your means\. Feel free to ask faster drivers for advice\. |
 |[Go Fast Pit Pass](https://members.iracing.com/membersite/member/LeagueView.do?league=10731){:target="_blank"} | |Monday Oval Racing |
 |[GTP Practice 2](https://members.iracing.com/membersite/member/LeagueView.do?league=10727){:target="_blank"} | | |
 |[GTP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10726){:target="_blank"} | |GTP Practice |
 |[Herkin Dirt Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10752){:target="_blank"} | |Dirt, Rally, & Road Racing |
 |[HIGH VOLTAGE RACING FIXED LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10723){:target="_blank"} | |Multiple different fixed series road and oval cars |
 |[KMR\-Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10729){:target="_blank"} | | |
+|[MCRL Grand National Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10759){:target="_blank"} |[Discord](https://discord.gg/mcrl){:target="_blank"} |ARCA Series of the MCRL |
 |[midstate motorsport circuit](https://members.iracing.com/membersite/member/LeagueView.do?league=10744){:target="_blank"} | | |
 |[Mishari's Tournament](https://members.iracing.com/membersite/member/LeagueView.do?league=10748){:target="_blank"} | | |
 |[Monti eSports LLC](https://members.iracing.com/membersite/member/LeagueView.do?league=10741){:target="_blank"} | |Official Home of Monti eSports LLC\. |
@@ -30,10 +33,11 @@
 |[R&R 87' ACES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10721){:target="_blank"} | |87' LEGENDS CARS GOING fast af |
 |[R&R GEN4 FULL HOUSE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10719){:target="_blank"} | |GEN 4 |
 |[R&R SHORT TRACK SHAKEUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10720){:target="_blank"} | |SHORT TRACKS IN THE TRUCKS |
-|[SCOPS SUPPORTS 2024 \- GTC](https://members.iracing.com/membersite/member/LeagueView.do?league=10712){:target="_blank"} | |SCOPS SUPPORTS 2024 \- GTC |
-|[SCOPS SUPPORTS 2024 \- VEE\-Eights](https://members.iracing.com/membersite/member/LeagueView.do?league=10713){:target="_blank"} | |SCOPS SUPPORTS 2024 \- VEE\-Eights |
+|[RECART\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10758){:target="_blank"} | |recart\-sim\.com league |
+|[Reigel Promotions E\-Sports Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |[Discord](https://discord.gg/tBuq8WdamG){:target="_blank"} |Reigel Promotions E\-Sports will hold multiple special events in 2024 beginning with the iRacing 'Speed Showcase' featuring the Dirt 358 & Big\-Block Modifieds at Port Royal Speedway \- Tuesday March 19 at 8 PM EST\. The event will feature a $200 payout for the Top 5 in the feature event\. Stay tuned to find out what else is in store for the league in 2024\. To join the special events league you must pay your registration fee for next event\. Registration can be found on facebook, discord, or any of our other social medias\. Also make sure to join our main league Reigel Promotions E\-Sports which features many classes open to everyone\. |
 |[Short Bed Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10738){:target="_blank"} |[Discord](https://discord.gg/ssPBmdkzse){:target="_blank"} |Spare Parts Gaming Community\.   Craftsman Trucks, Monday's\. Practice at 6:35 pm ET\. Qualifying at 7:05pm ET\. Racing to follow\! |
 |[Short Racing MX5](https://members.iracing.com/membersite/member/LeagueView.do?league=10736){:target="_blank"} | |MX5 championship |
+|[SRC](https://members.iracing.com/membersite/member/LeagueView.do?league=10761){:target="_blank"} | | |
 |[Team Jayme Marshall](https://members.iracing.com/membersite/member/LeagueView.do?league=10739){:target="_blank"} | |Team Jayme Marshall |
 |[test](https://members.iracing.com/membersite/member/LeagueView.do?league=10735){:target="_blank"} | | |
 |[The Average Racers League](https://members.iracing.com/membersite/member/LeagueView.do?league=10725){:target="_blank"} |[Discord](https://discord.com/invite/KRXygpyU6Y){:target="_blank"} |A League for everyone, fun, not very serious and free\! |
@@ -43,9 +47,9 @@
 |[wv boys](https://members.iracing.com/membersite/member/LeagueView.do?league=10722){:target="_blank"} | |west virginia dirt racing |
 |[CAS \- Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10716){:target="_blank"} | |Combined and solo series with Cup vehicles\. |
 |[Eispower](https://members.iracing.com/membersite/member/LeagueView.do?league=10740){:target="_blank"} | |Geilster \*\*\* Ever |
+|[iRace 4 The Kids](https://members.iracing.com/membersite/member/LeagueView.do?league=10763){:target="_blank"} | |Race Server for the iRace 4 The Kids charity race being run to raise funds for the Race 4 The Kids event held at Sutherland Automotive Speedway August 24, 2024\. |
 |[MNASZ – AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10742){:target="_blank"} | | |
 |[MNASZ – PRO](https://members.iracing.com/membersite/member/LeagueView.do?league=10743){:target="_blank"} | | |
 |[My Testing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10745){:target="_blank"} | |For Testing |
-|[Perry Server](https://members.iracing.com/membersite/member/LeagueView.do?league=10714){:target="_blank"} | |Charlotte  Bristol  Lanier  Port Royal  KoKoMo |
 |[Turn 4 AI](https://members.iracing.com/membersite/member/LeagueView.do?league=10728){:target="_blank"} | | |
 
