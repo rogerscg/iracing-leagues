@@ -73,6 +73,14 @@
 |----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/1 |South America |26 |1983 | | | | | |
 
+### [Legacy] BMW Z4 GT3
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------|-------------------------|-------------------------|--------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |38 |1691 | |Lime Rock Park |Sat, March 09 12:55PM EST |Sat, March 09 05:55PM GMT |Sun, March 10 04:55AM AEDT |
+
 ### [Legacy] Ferrari 488 GT3
 
 [Back to Top](#)  
