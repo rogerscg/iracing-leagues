@@ -10,7 +10,10 @@
 |[Amp Energy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10768){:target="_blank"} | |This is Amp Energy Racing League\. Formally a Nascar heat racing league is now making the switch to Iracing\. Our first season will be Next Gen Cup Cars\. Sundays 7pm Eastern\. Practice will open @7\-7:30\. Qualifying will be 7:30\. Race will run after |
 |[ASCAR \(Anglo\-American Stock Car Racing\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10760){:target="_blank"} | |ASCAR was a stock car racing series that raced at circuits around the United Kingdom and Europe from 2001 until 2008\. The series went through many guises during its seven year period and was known as the ASCAR Mintex Cup from 2001 to 2003, later known as the Days of Thunder Racing Series \(2004\) and the SCSA \(Stock Car Speed Association\) \(2005 to 2007\) before its final season as the SCSA MAC Tools VSR V8 Trophy\. Although going through these varying identities the series was commonly referred to and known by its original name of ASCAR\. The series predominantly raced the oval tracks at the Rockingham Motor Speedway and the EuroSpeedway Lausitz in the early years but in its final season in 2008 was solely road racing series that would visit various tracks in the UK most notably Brands Hatch and in France at Croix en Ternois\. The series folded in 2008 and merged into part of the European Late Model Series in 2009, racing in Belgium and the UK\. |
 |[Backyard Bozo's](https://members.iracing.com/membersite/member/LeagueView.do?league=10779){:target="_blank"} | |This league will include points races, full caution yellows and black flags\. Car damage will be disabled\. There will be multiple admins to clear certain black flags\. There will be no fixed setups\! |
+|[Bandit Family Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10805){:target="_blank"} | |Good Clean Racing |
 |[BARL](https://members.iracing.com/membersite/member/LeagueView.do?league=10770){:target="_blank"} | |Below Average Racing League |
+|[Bishop Racing\-LATE MODEL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=10809){:target="_blank"} | | |
+|[China Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=10801){:target="_blank"} | |China Endurance League |
 |[CRACKD\.Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10753){:target="_blank"} | |A massive bunch of Bulbs doing racing things |
 |[Discord Iracing Championship Kup](https://members.iracing.com/membersite/member/LeagueView.do?league=10797){:target="_blank"} | |Kingshit Only |
 |[Drunk Driving Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10792){:target="_blank"} | | |
@@ -28,26 +31,25 @@
 |[Monti eSports LLC](https://members.iracing.com/membersite/member/LeagueView.do?league=10741){:target="_blank"} | |Official Home of Monti eSports LLC\. |
 |[Moonlight Racing League MRL Sunday Scrambler](https://members.iracing.com/membersite/member/LeagueView.do?league=10793){:target="_blank"} | |Multi Series Racing |
 |[MOTORCLUB](https://members.iracing.com/membersite/member/LeagueView.do?league=10750){:target="_blank"} | | |
+|[MRG League](https://members.iracing.com/membersite/member/LeagueView.do?league=10807){:target="_blank"} | |Late Model Stock |
 |[NASA Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=10757){:target="_blank"} | |Fictional |
 |[New Zealand iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=10766){:target="_blank"} |[Discord](https://discord.gg/qkq2MCDCjz){:target="_blank"} |Are you based in New Zealand or Australia? Even overseas? Come join us in the New Zealand iRacing Community\! We're a new league with new and exciting series about to start and we'd love to have you join us\! Whether your interest is driving, in the stewards office, the commentary box or the stream team, we want you\! Join us in the Discord link\. We hope to see you soon\!\! |
+|[ORL](https://members.iracing.com/membersite/member/LeagueView.do?league=10802){:target="_blank"} | |Oceania Racing League |
 |[Outback Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10769){:target="_blank"} |[Discord](https://discord.gg/ubKqGxsk){:target="_blank"} |Nascar Xfinity League, Fridays at 9pm EST, Free Entry, Fixed Setup |
-|[PASHA AND ROYCE FVEE CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=10737){:target="_blank"} | |joins now |
 |[Patriot eSports \| Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10755){:target="_blank"} | | |
 |[Patriot eSports \| Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10756){:target="_blank"} | | |
 |[Patriot eSports \| Tour Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10754){:target="_blank"} | | |
+|[pespi mircos eries](https://members.iracing.com/membersite/member/LeagueView.do?league=10808){:target="_blank"} | |winged and non\- winged racing |
+|[Phantom Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10806){:target="_blank"} | |A league for improving your skills\!\! Here to make the most of every race |
 |[Racer First Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=10787){:target="_blank"} | |Racer First Sim Racing Community Truck League |
 |[Racers Elite \- Single Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10780){:target="_blank"} |[Discord](https://discord.gg/cMtTFvNJ63){:target="_blank"} |Join our Discord for Additional Information\! https://discord\.gg/cMtTFvNJ63 |
 |[RECART\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10758){:target="_blank"} | |recart\-sim\.com league |
 |[Red A Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10772){:target="_blank"} | |Just want to Race with my son\. |
-|[Short Bed Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10738){:target="_blank"} |[Discord](https://discord.gg/ssPBmdkzse){:target="_blank"} |Spare Parts Gaming Community\.   Craftsman Trucks, Monday's\. Practice at 6:35 pm ET\. Qualifying at 7:05pm ET\. Racing to follow\! |
-|[Short Racing MX5](https://members.iracing.com/membersite/member/LeagueView.do?league=10736){:target="_blank"} | |MX5 championship |
 |[SMGR TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10796){:target="_blank"} | | |
 |[SMGR V8 SUPER CAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10795){:target="_blank"} | | |
 |[Sothern Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=10788){:target="_blank"} |[Discord](https://discord.gg/veXtty4B){:target="_blank"} |A race for fun league |
 |[SOWEGA Challenge series](https://members.iracing.com/membersite/member/LeagueView.do?league=10799){:target="_blank"} | | |
 |[SRC](https://members.iracing.com/membersite/member/LeagueView.do?league=10761){:target="_blank"} | | |
-|[Team Jayme Marshall](https://members.iracing.com/membersite/member/LeagueView.do?league=10739){:target="_blank"} | |Team Jayme Marshall |
-|[test](https://members.iracing.com/membersite/member/LeagueView.do?league=10735){:target="_blank"} | | |
 |[Test](https://members.iracing.com/membersite/member/LeagueView.do?league=10774){:target="_blank"} | | |
 |[Thrustmaster 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10747){:target="_blank"} | | |
 |[Trackilicious iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10794){:target="_blank"} | |North American based sim racing community \+ track day events |
@@ -61,10 +63,12 @@
 |[CCC\-2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10790){:target="_blank"} | |CCC |
 |[Eispower](https://members.iracing.com/membersite/member/LeagueView.do?league=10740){:target="_blank"} | |Geilster \*\*\* Ever |
 |[iRace 4 The Kids](https://members.iracing.com/membersite/member/LeagueView.do?league=10763){:target="_blank"} | |Race Server for the iRace 4 The Kids charity race being run to raise funds for the Race 4 The Kids event held at Sutherland Automotive Speedway August 24, 2024\. |
-|[Melanzani GT3 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10776){:target="_blank"} | |Der Melanzani Cup dient der gemeinsamen Vorbereitung auf die kommende  iRacing VRS Sprint Woche unter fairen und freundschaftlichen, aber dennoch  kompetitiven Bedingungen\. |
+|[Melanzani GT3 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10776){:target="_blank"} | |Competetive but fair GT3 Training League for VRS Sprint/Endurance Series\.   Der Melanzani Cup dient der gemeinsamen Vorbereitung auf die kommende iRacing VRS Sprint Woche unter fairen und freundschaftlichen, aber dennoch kompetitiven Bedingungen\. |
 |[MNASZ – AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10742){:target="_blank"} | | |
 |[MNASZ – PRO](https://members.iracing.com/membersite/member/LeagueView.do?league=10743){:target="_blank"} | | |
 |[My Testing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10745){:target="_blank"} | |For Testing |
+|[R U N Me](https://members.iracing.com/membersite/member/LeagueView.do?league=10803){:target="_blank"} | | |
 |[Reigel Promotions E\-Sports Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |[Discord](https://discord.gg/tBuq8WdamG){:target="_blank"} |Reigel Promotions E\-Sports will hold multiple special events in 2024 beginning with the iRacing 'Speed Showcase' featuring the Dirt 358 & Big\-Block Modifieds at Port Royal Speedway \- Tuesday March 19 at 8 PM EST\. The event will feature a $200 payout for the Top 5 in the feature event\. Stay tuned to find out what else is in store for the league in 2024\. To join the special events league you must pay your registration fee for next event\. Registration can be found on facebook, discord, or any of our other social medias\. Also make sure to join our main league Reigel Promotions E\-Sports which features many classes open to everyone\. |
+|[SCHERER eSPORT GT4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10804){:target="_blank"} | |SCHERER eSPORT GT4 Series |
 |[Two Brothers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10773){:target="_blank"} | | |
 
