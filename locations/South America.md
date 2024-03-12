@@ -23,6 +23,14 @@
 
 # Sports Car
 
+### Toyota GR86
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |40 |1816 | | | | | |
+
 ### [Legacy] BMW Z4 GT3
 
 [Back to Top](#)  
