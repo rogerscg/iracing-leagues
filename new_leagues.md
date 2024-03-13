@@ -29,9 +29,7 @@
 |[Icapui](https://members.iracing.com/membersite/member/LeagueView.do?league=10771){:target="_blank"} | | |
 |[IDRS NASCAR CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=10777){:target="_blank"} |[Discord](https://discord.gg/wVXq5jAR){:target="_blank"} |NASCAR |
 |[MCRL Grand National Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10759){:target="_blank"} |[Discord](https://discord.gg/mcrl){:target="_blank"} |ARCA Series of the MCRL |
-|[Mishari's Tournament](https://members.iracing.com/membersite/member/LeagueView.do?league=10748){:target="_blank"} | | |
 |[Moonlight Racing League MRL Sunday Scrambler](https://members.iracing.com/membersite/member/LeagueView.do?league=10793){:target="_blank"} | |Multi Series Racing |
-|[MOTORCLUB](https://members.iracing.com/membersite/member/LeagueView.do?league=10750){:target="_blank"} | | |
 |[MRG League](https://members.iracing.com/membersite/member/LeagueView.do?league=10807){:target="_blank"} | |Late Model Stock |
 |[NASA Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=10757){:target="_blank"} | |Fictional |
 |[Nascar Season 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10817){:target="_blank"} | |Lets go if you wanna |
@@ -62,10 +60,8 @@
 |[Throttle Club House](https://members.iracing.com/membersite/member/LeagueView.do?league=10823){:target="_blank"} | |The Throttle Club House Racing League\! Weekly races on Thursdays\! |
 |[Torque Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10810){:target="_blank"} |[Discord](https://discord.gg/QwBMUaEJqe){:target="_blank"} | |
 |[Trackilicious iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10794){:target="_blank"} | |North American based sim racing community \+ track day events |
-|[Under Par National Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10751){:target="_blank"} | |Hammer time\. |
 |[Universal iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10781){:target="_blank"} |[Discord](https://discord.gg/s9xsbeUs3N){:target="_blank"} |Hop into the Universal iRacing Series\! We are an iRacing league that hosts events every week\. We are a chill group that all like to have fun\. We have the Hyperdrive Cup series, which is Next Generation Cup Cars and races Saturday at 9:00 PM EST\. What we offer: No entry fee 🚫 💸, Broadcasted 📺, Live moderation 🚔, Community Driven 🏎️, Fixed Setups\. Anyone is welcome\! If you have any questions please message me directly\! |
 |[V\-Racing Driver's Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10785){:target="_blank"} | |Open to all |
-|[Vortex Motorsport League](https://members.iracing.com/membersite/member/LeagueView.do?league=10749){:target="_blank"} | |Internal league for members of the Vortex Motorsport Discord community\. Click the website link to join the community and the action in this league\! 20\-minute races in various different cars, centered around preparation for the iRacing Special Events \(Road/Endurance\)\. Fixed setup, usually Coach Dave Academy setups\. |
 |[VRE Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=10783){:target="_blank"} |[Discord](https://discord.gg/Antraxo){:target="_blank"} |VRE \(Virtual Racing Entertainment\) is a Simracing community that was established in 2010\. Since then we have run a lot of leagues in various simulators and have our own simracing team\. |
 |[WSR Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=10784){:target="_blank"} | | |
 |[ZGP](https://members.iracing.com/membersite/member/LeagueView.do?league=10778){:target="_blank"} | |30\-40 Minute races in the FF1600 every 2nd and 4th Sunday of the month\! |
