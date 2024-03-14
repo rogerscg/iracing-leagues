@@ -1,7 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[191 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10786){:target="_blank"} | |Fun League |
 |[1967 Grand Prix Season](https://members.iracing.com/membersite/member/LeagueView.do?league=10775){:target="_blank"} |[Discord](https://discord.gg/Afw4Zneb){:target="_blank"} |7 race season for the lotus 49 at historic grand prix tracks |
 |[91 bby](https://members.iracing.com/membersite/member/LeagueView.do?league=10765){:target="_blank"} | | |
@@ -15,7 +15,6 @@
 |[Bishop Racing\-LATE MODEL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=10809){:target="_blank"} | | |
 |[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} | |FIA National Sporting Authority of Sri Lanka |
 |[China Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=10801){:target="_blank"} | |China Endurance League |
-|[CRACKD\.Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10753){:target="_blank"} | |A massive bunch of Bulbs doing racing things |
 |[cracker series](https://members.iracing.com/membersite/member/LeagueView.do?league=10813){:target="_blank"} | | |
 |[Discord Iracing Championship Kup](https://members.iracing.com/membersite/member/LeagueView.do?league=10797){:target="_blank"} | |Kingshit Only |
 |[Drunk Driving Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10792){:target="_blank"} | | |
@@ -25,22 +24,21 @@
 |[Fun Run](https://members.iracing.com/membersite/member/LeagueView.do?league=10798){:target="_blank"} | |micro sprints and others\! |
 |[Geek Lounge](https://members.iracing.com/membersite/member/LeagueView.do?league=10791){:target="_blank"} | | |
 |[GFi Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10821){:target="_blank"} | |Go Fast Inside\! This league is for all levels of drivers\. We are here to race clean, race hard, and have fun\! |
-|[Herkin Dirt Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10752){:target="_blank"} | |Dirt, Rally, & Road Racing |
+|[GrandPooBear’s iRacing Duos Derby on Twitch Rivals](https://members.iracing.com/membersite/member/LeagueView.do?league=10826){:target="_blank"} | |Twitch Rivals |
 |[Icapui](https://members.iracing.com/membersite/member/LeagueView.do?league=10771){:target="_blank"} | | |
 |[IDRS NASCAR CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=10777){:target="_blank"} |[Discord](https://discord.gg/wVXq5jAR){:target="_blank"} |NASCAR |
+|[LLMS](https://members.iracing.com/membersite/member/LeagueView.do?league=10829){:target="_blank"} | |we run latemodles super lates tour mods sks streetsrocks and ledgend add me on discord to join @ej\#4479 we run on tuesdays\! |
+|[LMS Liga Mexicana de Simracing 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10827){:target="_blank"} | |LMS 2024 |
 |[MCRL Grand National Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10759){:target="_blank"} |[Discord](https://discord.gg/mcrl){:target="_blank"} |ARCA Series of the MCRL |
 |[Moonlight Racing League MRL Sunday Scrambler](https://members.iracing.com/membersite/member/LeagueView.do?league=10793){:target="_blank"} | |Multi Series Racing |
 |[MRG League](https://members.iracing.com/membersite/member/LeagueView.do?league=10807){:target="_blank"} | |Late Model Stock |
-|[NASA Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=10757){:target="_blank"} | |Fictional |
 |[Nascar Season 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10817){:target="_blank"} | |Lets go if you wanna |
 |[NASCAR Winston Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10811){:target="_blank"} |[Discord](https://discord.gg/9RAG3FzH){:target="_blank"} |Follow along where NASCAR left off\. Choose your car and join us for the adventure\.  We will be racing the 1997 Winton Cup Schedule\. Full Length Races\! |
 |[New Zealand iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=10766){:target="_blank"} |[Discord](https://discord.gg/qkq2MCDCjz){:target="_blank"} |Are you based in New Zealand or Australia? Even overseas? Come join us in the New Zealand iRacing Community\! We're a new league with new and exciting series about to start and we'd love to have you join us\! Whether your interest is driving, in the stewards office, the commentary box or the stream team, we want you\! Join us in the Discord link\. We hope to see you soon\!\! |
 |[New Zealand Sim Racing \(NEW\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10814){:target="_blank"} | |Established in 2014\. Home of the National Midget Championship with some of the best in the world |
+|[No Limit Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10825){:target="_blank"} | |SRX Based 10 week season |
 |[ORL](https://members.iracing.com/membersite/member/LeagueView.do?league=10802){:target="_blank"} | |Oceania Racing League |
 |[Outback Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10769){:target="_blank"} |[Discord](https://discord.gg/ubKqGxsk){:target="_blank"} |Nascar Xfinity League, Fridays at 9pm EST, Free Entry, Fixed Setup |
-|[Patriot eSports \| Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10755){:target="_blank"} | | |
-|[Patriot eSports \| Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10756){:target="_blank"} | | |
-|[Patriot eSports \| Tour Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10754){:target="_blank"} | | |
 |[pespi mircos eries](https://members.iracing.com/membersite/member/LeagueView.do?league=10808){:target="_blank"} | |winged and non\- winged racing |
 |[Phantom Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10806){:target="_blank"} | |A league for improving your skills\!\! Here to make the most of every race |
 |[Racer First Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=10787){:target="_blank"} | |Racer First Sim Racing Community Truck League |
@@ -54,7 +52,8 @@
 |[Sothern Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=10788){:target="_blank"} |[Discord](https://discord.gg/veXtty4B){:target="_blank"} |A race for fun league |
 |[SOWEGA Challenge series](https://members.iracing.com/membersite/member/LeagueView.do?league=10799){:target="_blank"} | | |
 |[SRC](https://members.iracing.com/membersite/member/LeagueView.do?league=10761){:target="_blank"} | | |
-|[STSL SRX Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10816){:target="_blank"} | | |
+|[SRU IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10828){:target="_blank"} | | |
+|[STSL SRX Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10816){:target="_blank"} |[Discord](https://discord.gg/8DBDMz27jP){:target="_blank"} | |
 |[TC8 Racing Team League](https://members.iracing.com/membersite/member/LeagueView.do?league=10812){:target="_blank"} | | |
 |[Test](https://members.iracing.com/membersite/member/LeagueView.do?league=10774){:target="_blank"} | | |
 |[Throttle Club House](https://members.iracing.com/membersite/member/LeagueView.do?league=10823){:target="_blank"} | |The Throttle Club House Racing League\! Weekly races on Thursdays\! |
@@ -63,6 +62,7 @@
 |[Universal iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10781){:target="_blank"} |[Discord](https://discord.gg/s9xsbeUs3N){:target="_blank"} |Hop into the Universal iRacing Series\! We are an iRacing league that hosts events every week\. We are a chill group that all like to have fun\. We have the Hyperdrive Cup series, which is Next Generation Cup Cars and races Saturday at 9:00 PM EST\. What we offer: No entry fee 🚫 💸, Broadcasted 📺, Live moderation 🚔, Community Driven 🏎️, Fixed Setups\. Anyone is welcome\! If you have any questions please message me directly\! |
 |[V\-Racing Driver's Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10785){:target="_blank"} | |Open to all |
 |[VRE Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=10783){:target="_blank"} |[Discord](https://discord.gg/Antraxo){:target="_blank"} |VRE \(Virtual Racing Entertainment\) is a Simracing community that was established in 2010\. Since then we have run a lot of leagues in various simulators and have our own simracing team\. |
+|[Vulture Practice Squad](https://members.iracing.com/membersite/member/LeagueView.do?league=10824){:target="_blank"} | | |
 |[WSR Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=10784){:target="_blank"} | | |
 |[ZGP](https://members.iracing.com/membersite/member/LeagueView.do?league=10778){:target="_blank"} | |30\-40 Minute races in the FF1600 every 2nd and 4th Sunday of the month\! |
 |[Alpha Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=10815){:target="_blank"} | | |
