@@ -20,6 +20,14 @@
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2024 |North America |26 |1928 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |22 |2382 |Fixed | | | | |
 
+### Pro 2 Truck
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
+|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |10 |1283 |Fixed |Bark River International Raceway |Mon, March 25 09:30PM EDT |Tue, March 26 01:30AM GMT |Tue, March 26 12:30PM AEDT |
+
 ### Pro 4 Truck
 
 [Back to Top](#)  

@@ -29,6 +29,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|---------------------------|--------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |GT Masters Season 10 |Africa |41 |1794 | |Circuit de Spa-Francorchamps |Mon, March 18 02:00PM EDT |Mon, March 18 06:00PM GMT |Tue, March 19 05:00AM AEDT |
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |GT Masters Season 10 |Africa |41 |1794 | |Circuit de Spa-Francorchamps |Tue, March 19 03:00PM EDT |Tue, March 19 07:00PM GMT |Wed, March 20 06:00AM AEDT |
 |[Raceface\.Pro Sim Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=7926){:target="_blank"} |Mini\-Enduro Series \| 2024 |Africa |38 |2050 |Both | | | | |
 
