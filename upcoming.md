@@ -10,19 +10,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-----------------------|-------------------------|-------------------------|--------------------------|
 |[Association for Simulated Stock Car Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6106){:target="_blank"} |ASSCAR 2024 Season 6 \- Craftsman Trucks |Both |Auto Club Speedway |Tue, March 26 08:15PM EDT |Wed, March 27 12:15AM GMT |Wed, March 27 11:15AM AEDT |
-|[Friday Night Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=6312){:target="_blank"} |Spring 2024 | |Charlotte Motor Speedway |Fri, March 22 08:00PM EDT |Sat, March 23 12:00AM GMT |Sat, March 23 11:00AM AEDT |
 |[Mid Atlantic Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10854){:target="_blank"} |Mid Atlantic Racing Series Trucks | |Nashville Superspeedway |Tue, March 26 06:30PM EDT |Tue, March 26 10:30PM GMT |Wed, March 27 09:30AM AEDT |
-|[Midnight Thunder Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2379){:target="_blank"} |2024 MNT Segment 2 | |Charlotte Motor Speedway |Fri, March 22 10:00PM EDT |Sat, March 23 02:00AM GMT |Sat, March 23 01:00PM AEDT |
-
-### SK Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
-|[BRL Tour Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=910){:target="_blank"} |SK S35 |Fixed |Southern National Motorsports Park |Fri, March 22 08:45PM EDT |Sat, March 23 12:45AM GMT |Sat, March 23 11:45AM AEDT |
 
 ### XFINITY Series
 
@@ -42,22 +32,6 @@
 |--------------------------------------------------------------------------------------------------------------------|------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
 |[Blue Ridge Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10860){:target="_blank"} |2024 | |South Boston Speedway |Sat, March 23 09:00PM EDT |Sun, March 24 01:00AM GMT |Sun, March 24 12:00PM AEDT |
 |[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S26 |Fixed |Southern National Motorsports Park |Sat, March 23 08:20PM EDT |Sun, March 24 12:20AM GMT |Sun, March 24 11:20AM AEDT |
-
-### Street Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
-|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S30 |Fixed |Southern National Motorsports Park |Fri, March 22 07:00PM EDT |Fri, March 22 11:00PM GMT |Sat, March 23 10:00AM AEDT |
-
-### Super Late Model
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
-|[BRL Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S25 |Fixed |Southern National Motorsports Park |Fri, March 22 07:50PM EDT |Fri, March 22 11:50PM GMT |Sat, March 23 10:50AM AEDT |
 
 # Open-wheel
 
@@ -131,21 +105,13 @@
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
 |[ACI ESport Gran Turismo](https://members.iracing.com/membersite/member/LeagueView.do?league=4403){:target="_blank"} |CAMPIONATO ITALIANO ACI ESPORT GT4 | |Hockenheimring Baden-Württemberg |Wed, March 27 03:30PM EDT |Wed, March 27 07:30PM GMT |Thu, March 28 06:30AM AEDT |
 
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[Evolution Sim Racing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=5229){:target="_blank"} |Evolution Sim Racing \- 2024, Season 2 |Both |Brands Hatch Circuit |Fri, March 22 04:00PM EDT |Fri, March 22 08:00PM GMT |Sat, March 23 07:00AM AEDT |
-
 ### [Legacy] V8Supercars
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|-------------------|-----|-----------------------------------|-------------------------|-------------------------|--------------------------|
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |FRIDAY FUN SESSIONS |Both |Sandown International Motor Raceway |Fri, March 22 03:00AM EDT |Fri, March 22 07:00AM GMT |Fri, March 22 06:00PM AEDT |
+|---------------------------------------------------------------------------------------------------------|------------------|-----|------------|-------------------------|-------------------------|--------------------------|
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |pisston cup autumn |Both |Road Atlanta |Sat, March 23 03:00AM EDT |Sat, March 23 07:00AM GMT |Sat, March 23 06:00PM AEDT |
 
 # Prototype
 
@@ -185,14 +151,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|------|-----|---------------------|-------------------------|-------------------------|--------------------------|
 |[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |HSSL | |Volusia Speedway Park |Tue, March 26 08:30PM EDT |Wed, March 27 12:30AM GMT |Wed, March 27 11:30AM AEDT |
-
-### Dirt SprintCar - 305
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[305's Flat Out Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9959){:target="_blank"} |Slingin Dirt Racing League |Fixed |Volusia Speedway Park |Fri, March 22 08:00PM EDT |Sat, March 23 12:00AM GMT |Sat, March 23 11:00AM AEDT |
 
 ### Dirt Street Stock
 
