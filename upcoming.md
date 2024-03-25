@@ -11,8 +11,10 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-----------------------|-------------------------|-------------------------|--------------------------|
+|[\#0 CleanRacing\.net Monday Truck Fix Setup](https://members.iracing.com/membersite/member/LeagueView.do?league=4861){:target="_blank"} |CRL Truck Series Season 20 |Fixed |Atlanta Motor Speedway |Mon, April 01 07:30PM EDT |Tue, April 02 12:30AM BST |Tue, April 02 10:30AM AEDT |
 |[Association for Simulated Stock Car Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6106){:target="_blank"} |ASSCAR 2024 Season 6 \- Craftsman Trucks |Both |Auto Club Speedway |Tue, March 26 08:15PM EDT |Wed, March 27 12:15AM GMT |Wed, March 27 11:15AM AEDT |
 |[Mid Atlantic Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10854){:target="_blank"} |Mid Atlantic Racing Series Trucks | |Nashville Superspeedway |Tue, March 26 06:30PM EDT |Tue, March 26 10:30PM GMT |Wed, March 27 09:30AM AEDT |
+|[Virtual Velocity Racing TV \(VVR\-TV\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10856){:target="_blank"} |VVR\-TV: Clinch\-The\-Cup Community GP | |Chicagoland Speedway |Thu, March 28 11:00PM EDT |Fri, March 29 03:00AM GMT |Fri, March 29 02:00PM AEDT |
 
 ### XFINITY Series
 
@@ -24,14 +26,13 @@
 
 # Oval
 
-### Late Model Stock
+### Legends
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
-|[Blue Ridge Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10860){:target="_blank"} |2024 | |South Boston Speedway |Sat, March 23 09:00PM EDT |Sun, March 24 01:00AM GMT |Sun, March 24 12:00PM AEDT |
-|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S26 |Fixed |Southern National Motorsports Park |Sat, March 23 08:20PM EDT |Sun, March 24 12:20AM GMT |Sun, March 24 11:20AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|[Short Track Rivals Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10070){:target="_blank"} |Battle of the Legends |Both |Lanier National Speedway |Mon, April 01 08:30PM EDT |Tue, April 02 01:30AM BST |Tue, April 02 11:30AM AEDT |
 
 # Open-wheel
 
@@ -79,14 +80,6 @@
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
 |[Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235){:target="_blank"} |ACiL Spring Mashup 2024 | |Detroit Grand Prix at Belle Isle |Tue, March 26 07:30PM EDT |Tue, March 26 11:30PM GMT |Wed, March 27 10:30AM AEDT |
 
-### Cadillac CTS-VR
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[The Peoples Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=10625){:target="_blank"} |Season 2 | |Summit Point Raceway |Sun, March 24 06:00PM EDT |Sun, March 24 10:00PM GMT |Mon, March 25 09:00AM AEDT |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -105,32 +98,6 @@
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
 |[ACI ESport Gran Turismo](https://members.iracing.com/membersite/member/LeagueView.do?league=4403){:target="_blank"} |CAMPIONATO ITALIANO ACI ESPORT GT4 | |Hockenheimring Baden-Württemberg |Wed, March 27 03:30PM EDT |Wed, March 27 07:30PM GMT |Thu, March 28 06:30AM AEDT |
 
-### [Legacy] V8Supercars
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------------------|-----|------------|-------------------------|-------------------------|--------------------------|
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |pisston cup autumn |Both |Road Atlanta |Sat, March 23 03:00AM EDT |Sat, March 23 07:00AM GMT |Sat, March 23 06:00PM AEDT |
-
-# Prototype
-
-### HPD ARX-01c
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|-------|-----|-----------------------------------|-------------------------|-------------------------|--------------------------|
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |HPD Cup | |[Legacy] Silverstone Circuit - 2008 |Sun, March 24 04:00PM EDT |Sun, March 24 08:00PM GMT |Mon, March 25 07:00AM AEDT |
-
-### Riley Daytona Prototype
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|---------------------------------------|-----|-------------------|-------------------------|-------------------------|--------------------------|
-|[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Racing Unleashed Racer League Challenge |Fixed |Centripetal Circuit |Sun, March 24 07:00AM EDT |Sun, March 24 11:00AM GMT |Sun, March 24 10:00PM AEDT |
-
 # Road
 
 ### SRX
@@ -139,6 +106,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[STSL SRX Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10816){:target="_blank"} |STSL SRX Season 0 |Fixed |South Boston Speedway |Mon, April 01 08:00PM EDT |Tue, April 02 01:00AM BST |Tue, April 02 11:00AM AEDT |
 |[The Simpit Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4263){:target="_blank"} |The Simpit Season 22/SRX |Fixed |USA International Speedway |Mon, March 25 08:00PM EDT |Tue, March 26 12:00AM GMT |Tue, March 26 11:00AM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Superslow Racing Experience \- 2024 |Fixed |USA International Speedway |Thu, March 28 07:00PM EDT |Thu, March 28 11:00PM GMT |Fri, March 29 10:00AM AEDT |
 

@@ -19,7 +19,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |24 |2135 | | | | | |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |23 |2213 | | | | | |
 
 ### Lotus 79
 
@@ -68,8 +68,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |43 |1695 | |Virginia International Raceway |Sat, March 23 01:55PM EDT |Sat, March 23 05:55PM GMT |Sun, March 24 04:55AM AEDT |
+|--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |43 |1695 | |Charlotte Motor Speedway |Sat, March 30 01:55PM EDT |Sat, March 30 05:55PM GMT |Sun, March 31 04:55AM AEDT |
 
 ### [Legacy] Ferrari 488 GT3
 
@@ -77,7 +77,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari Italiana |South America |18 |1486 | | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari Italiana |South America |18 |1478 | | | | | |
 
 # Prototype
 
@@ -87,7 +87,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |16 |1864 | | | | | |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |16 |1875 | | | | | |
 
 # Multi-class/Unclassified
 
