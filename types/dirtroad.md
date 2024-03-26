@@ -18,7 +18,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2024 |North America |26 |1928 |Fixed | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |22 |2382 |Fixed |Crandon International Raceway |Thu, March 28 08:25PM EDT |Fri, March 29 12:25AM GMT |Fri, March 29 11:25AM AEDT |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |14 |2522 |Fixed |Crandon International Raceway |Thu, March 28 08:25PM EDT |Fri, March 29 12:25AM GMT |Fri, March 29 11:25AM AEDT |
 
 ### Pro 2 Truck
 
@@ -26,7 +26,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
-|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |10 |1283 |Fixed |Bark River International Raceway |Mon, March 25 09:30PM EDT |Tue, March 26 01:30AM GMT |Tue, March 26 12:30PM AEDT |
+|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |11 |1294 |Fixed |Wild Horse Pass Motorsports Park |Mon, April 01 09:30PM EDT |Tue, April 02 02:30AM BST |Tue, April 02 12:30PM AEDT |
 
 ### Pro 4 Truck
 

@@ -36,8 +36,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |19 |1652 | | | | | |
+|------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------------|-------------------------|-------------------------|--------------------------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |19 |1652 | |Oulton Park Circuit |Tue, March 26 07:50PM EDT |Tue, March 26 11:50PM GMT |Wed, March 27 10:50AM AEDT |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -60,8 +60,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |40 |1816 | |Brands Hatch Circuit |Mon, March 25 05:25PM EDT |Mon, March 25 09:25PM GMT |Tue, March 26 08:25AM AEDT |
+|----------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |43 |1850 | | | | | |
 
 ### [Legacy] BMW Z4 GT3
 
@@ -96,7 +96,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |41 |1807 | | | | | |
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP IMSA MULTICLASS TEMPORADA 3 |South America |19 |2342 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |32 |2453 | | | | | |
 
