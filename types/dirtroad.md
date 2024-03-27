@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------|----------|--------|-------|----|-----|-------------|--------|------|------|
-|[ORNL MJK Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8273){:target="_blank"} |Offroad S1 |Europe |15 |1736 | | | | | |
+|[ORNL MJK Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8273){:target="_blank"} |Offroad S1 |Europe |15 |1760 | | | | | |
 
 ### Pro 2 Lite Truck
 

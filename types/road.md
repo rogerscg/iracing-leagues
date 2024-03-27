@@ -17,6 +17,4 @@
 |[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |VRA SRX \- 2024 Season 2 |Australia-NZ |20 |1563 | | | | | |
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |SRX\- |North America |19 |1838 |Both |Federated Auto Parts Raceway at I-55 |Thu, March 28 08:30PM EDT |Fri, March 29 12:30AM GMT |Fri, March 29 11:30AM AEDT |
 |[Discord Iracing Championship Kup](https://members.iracing.com/membersite/member/LeagueView.do?league=10797){:target="_blank"} |Every Season Starts at DICKs SRX 1 |North America |12 |4808 | | | | | |
-|[Lucky Dog Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9984){:target="_blank"} |Sunday ALPHA X |North America |11 |1381 |Fixed | | | | |
-|[The Simpit Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4263){:target="_blank"} |The Simpit Season 22/SRX Test |North America |10 |1867 |Fixed | | | | |
 

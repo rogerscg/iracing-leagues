@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T2 |South America |22 |2341 | |Chicagoland Speedway |Tue, March 26 06:30PM EDT |Tue, March 26 10:30PM GMT |Wed, March 27 09:30AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T2 |South America |23 |2418 | | | | | |
 
 # Open-wheel
 
@@ -36,8 +36,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------------|-------------------------|-------------------------|--------------------------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |19 |1652 | |Oulton Park Circuit |Tue, March 26 07:50PM EDT |Tue, March 26 11:50PM GMT |Wed, March 27 10:50AM AEDT |
+|------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |19 |1647 | | | | | |
 
 ### Porsche 911 GT3 Cup (992)
 

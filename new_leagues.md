@@ -25,7 +25,7 @@
 |[LLMS](https://members.iracing.com/membersite/member/LeagueView.do?league=10829){:target="_blank"} | |we run latemodles super lates tour mods sks streetsrocks and ledgend add me on discord to join @ej\#4479 we run on tuesdays\! |
 |[LMS Liga Mexicana de Simracing 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10827){:target="_blank"} | |LMS 2024 |
 |[Mid Atlantic Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10854){:target="_blank"} | |Truck Series |
-|[Midwest Micro Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10858){:target="_blank"} | |Winged Micro Sprints Fixed Series, Sunday night  at 7pm cst |
+|[Midwest Micro Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10858){:target="_blank"} |[Discord](https://discord.gg/QQpMWY49){:target="_blank"} |Winged Micro Sprints Fixed Series, Sunday night  at 7pm cst |
 |[Night Owl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} | |Just for fun and have a good time |
 |[NOCO Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10875){:target="_blank"} | |Northern Colorado Sim Racers |
 |[OSRL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10878){:target="_blank"} |[Discord](https://discord.gg/WRPAdpDm){:target="_blank"} | |
@@ -33,10 +33,15 @@
 |[OVAL\-UTION / Home Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=10853){:target="_blank"} | |Bretch Racing Studio / OVAL\-UTION Série Home Tracks  En rotation : Legendes / Sport\-Compactes \(TCR\) / SK Mods / Late Models  Évolution de pistes Short\-Tracks / 4 dernières semaines \- Evolution à Martinsville |
 |[OVAL\-UTION / Évenements Spéciaux](https://members.iracing.com/membersite/member/LeagueView.do?league=10851){:target="_blank"} | |Bretch Racing Studio / OVAL\-UTION Évenements Spéciaux |
 |[Practice League](https://members.iracing.com/membersite/member/LeagueView.do?league=10843){:target="_blank"} | | |
+|[Pro 4 AZ](https://members.iracing.com/membersite/member/LeagueView.do?league=10883){:target="_blank"} | |Pro 4 Truck Series |
+|[PUR Racing \- Weekly Time Trial League](https://members.iracing.com/membersite/member/LeagueView.do?league=10881){:target="_blank"} | | |
 |[Redemption Weekly Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10835){:target="_blank"} | |Redemption Weekly Racing Series was founded by a group of like\-minded individuals focused on fair play, respect, and predictability\. We pride ourselves on having something for everyone, and if we don't have it, our members are free to sponsor a series they like\! The best finishers in our seasons are rewarded with trophies, not cash, as we feel racing for money often brings out the worst in people\. Whether you like to sling dirt in a super late model, run a GT3 through the twists and turns of Mount Panorama, or try your luck at some of NASCARS' famed ovals, we've got you covered\! Come chase some trophies with us\! |
 |[Shameless Plug](https://members.iracing.com/membersite/member/LeagueView.do?league=10840){:target="_blank"} | |This is a shameless plug |
+|[Simdurance](https://members.iracing.com/membersite/member/LeagueView.do?league=10880){:target="_blank"} | | |
+|[Smokeingfast racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10884){:target="_blank"} | | |
 |[Son's of B\*\*\*\*'s](https://members.iracing.com/membersite/member/LeagueView.do?league=10879){:target="_blank"} | |Best of the Best |
 |[Southern Style Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10845){:target="_blank"} | |This League is all about Clean, Drama Free Racing\! We race Dirt Fixed Setups on Friday nights with practice beginning at 7:00 PM Eastern Time and Qualifying at 7:35 Pm Eastern\. Four Heat Races will follow to determine the starting line up\. |
+|[Speed Demonz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10882){:target="_blank"} | |NASCAR Next Gen Cup Series\. |
 |[SRL Kids Race](https://members.iracing.com/membersite/member/LeagueView.do?league=10870){:target="_blank"} | |SRL Special Events league page |
 |[SRU IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10828){:target="_blank"} | |This league features some of what will be the craziest, most exciting, and thrilling moments in all of IRacing\.   This, is SRU\. |
 |[SRX Official](https://members.iracing.com/membersite/member/LeagueView.do?league=10869){:target="_blank"} | |SRX employees and friends |
