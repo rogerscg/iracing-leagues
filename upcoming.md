@@ -5,6 +5,14 @@
 
 # NASCAR
 
+### NASCAR Cup
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|-----------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|[Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6026){:target="_blank"} |TRL 2020 Season 8 |Open |Atlanta Motor Speedway |Sun, March 31 06:00PM EDT |Sun, March 31 11:00PM BST |Mon, April 01 09:00AM AEDT |
+
 ### NASCAR Truck Series
 
 [Back to Top](#)  
@@ -12,7 +20,16 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
 |[\#0 CleanRacing\.net Monday Truck Fix Setup](https://members.iracing.com/membersite/member/LeagueView.do?league=4861){:target="_blank"} |CRL Truck Series Season 20 |Fixed |Atlanta Motor Speedway |Mon, April 01 07:30PM EDT |Tue, April 02 12:30AM BST |Tue, April 02 10:30AM AEDT |
-|[Virtual Velocity Racing TV \(VVR\-TV\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10856){:target="_blank"} |VVR\-TV: Clinch\-The\-Cup Community GP | |Chicagoland Speedway |Thu, March 28 11:00PM EDT |Fri, March 29 03:00AM GMT |Fri, March 29 02:00PM AEDT |
+|[Virtual Velocity Racing TV \(VVR\-TV\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10856){:target="_blank"} |VVR\-TV: Clinch\-The\-Cup Community GP |Fixed |Chicagoland Speedway |Thu, March 28 11:00PM EDT |Fri, March 29 03:00AM GMT |Fri, March 29 02:00PM AEDT |
+
+### XFINITY Series
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[Intense Racing Sim Series \(i\.R\.S\.S\.\)](https://members.iracing.com/membersite/member/LeagueView.do?league=8129){:target="_blank"} |Season 6 Xfinity |Fixed |Daytona International Speedway |Thu, April 04 07:30PM EDT |Fri, April 05 12:30AM BST |Fri, April 05 10:30AM AEDT |
+|[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2024 All\-Star |Fixed |Kevin Harvick's Kern Raceway |Sun, March 31 08:00PM EDT |Mon, April 01 01:00AM BST |Mon, April 01 11:00AM AEDT |
 
 # Oval
 
@@ -21,7 +38,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
+|[HARD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10512){:target="_blank"} |Legends Road Course Season 2 | |WeatherTech Raceway at Laguna Seca |Thu, April 04 08:00PM EDT |Fri, April 05 01:00AM BST |Fri, April 05 11:00AM AEDT |
 |[Short Track Rivals Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10070){:target="_blank"} |Battle of the Legends |Both |Lanier National Speedway |Mon, April 01 08:30PM EDT |Tue, April 02 01:30AM BST |Tue, April 02 11:30AM AEDT |
 
 # Open-wheel
@@ -31,7 +49,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|---------------------------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-------------------------------|-------------------------|-------------------------|--------------------------|
+|[TDFW Super Speedway Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=10157){:target="_blank"} |Thunder Practice | |Michigan International Speedway |Thu, March 28 08:00PM EDT |Fri, March 29 12:00AM GMT |Fri, March 29 11:00AM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |PAC12 \(Formula Pacific\) \- 2024 |Fixed |Mobility Resort Motegi |Thu, March 28 07:40PM EDT |Thu, March 28 11:40PM GMT |Fri, March 29 10:40AM AEDT |
 
 ### FIA F4
@@ -39,18 +58,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |CAMPEONATO ALTERNO \(F4\) JUEVES |Fixed |Algarve International Circuit |Thu, March 28 10:00PM EDT |Fri, March 29 02:00AM GMT |Fri, March 29 01:00PM AEDT |
-|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Spring into F4 | |WeatherTech Raceway at Laguna Seca |Wed, March 27 09:00PM EDT |Thu, March 28 01:00AM GMT |Thu, March 28 12:00PM AEDT |
 |[The Sim Racing Collective](https://members.iracing.com/membersite/member/LeagueView.do?league=10182){:target="_blank"} |TSRC F4 Sprint \(S2\) |Both |Snetterton Circuit |Fri, March 29 02:59PM EDT |Fri, March 29 06:59PM GMT |Sat, March 30 05:59AM AEDT |
-
-### Ray FF1600
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
-|[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |Non\-Championship | |Mount Panorama Circuit |Wed, March 27 06:30PM EDT |Wed, March 27 10:30PM GMT |Thu, March 28 09:30AM AEDT |
 
 ### Super Formula SF23
 
@@ -70,14 +80,6 @@
 |-------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Trofeo del Cavallino Rampante \- 2024 |Fixed |Mobility Resort Motegi |Thu, March 28 07:20PM EDT |Thu, March 28 11:20PM GMT |Fri, March 29 10:20AM AEDT |
 
-### IMSA23
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
-|[ACI ESport Gran Turismo](https://members.iracing.com/membersite/member/LeagueView.do?league=4403){:target="_blank"} |CAMPIONATO ITALIANO ACI ESPORT GT4 | |Hockenheimring Baden-Württemberg |Wed, March 27 03:30PM EDT |Wed, March 27 07:30PM GMT |Thu, March 28 06:30AM AEDT |
-
 ### Mazda MX-5 Cup 2016
 
 [Back to Top](#)  
@@ -93,7 +95,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} |Shenanigans |Fixed |Eldora Speedway |Thu, March 28 10:55PM EDT |Fri, March 29 02:55AM GMT |Fri, March 29 01:55PM AEDT |
 |[STSL SRX Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10816){:target="_blank"} |STSL SRX Season 0 |Fixed |South Boston Speedway |Mon, April 01 08:00PM EDT |Tue, April 02 01:00AM BST |Tue, April 02 11:00AM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Superslow Racing Experience \- 2024 |Fixed |USA International Speedway |Thu, March 28 07:00PM EDT |Thu, March 28 11:00PM GMT |Fri, March 29 10:00AM AEDT |
 
@@ -107,21 +110,13 @@
 |-----------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-------------------------|-------------------------|-------------------------|--------------------------|
 |[Short Track Rivals Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10070){:target="_blank"} |358 Modifieds Presented by AdminBoxx |Both |Limaland Motorsports Park |Tue, April 02 08:30PM EDT |Wed, April 03 01:30AM BST |Wed, April 03 11:30AM AEDT |
 
-### Dirt Micro Sprint Car - Non-Winged
+### Dirt Late Model - Pro
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- Non\-Winged Micros |Open |Lanier National Speedway |Wed, March 27 06:30PM EDT |Wed, March 27 10:30PM GMT |Thu, March 28 09:30AM AEDT |
-
-### Dirt Street Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----|----------------|-------------------------|-------------------------|--------------------------|
-|[Midwest misfits](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} | The 2024 Dirtcar Street Stock Tour promoted by S and T Promotions |Fixed |Lincoln Speedway |Wed, March 27 08:30PM EDT |Thu, March 28 12:30AM GMT |Thu, March 28 11:30AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|-------------------|-------------------------|-------------------------|--------------------------|
+|[Short Track Rivals Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10070){:target="_blank"} |Pro Late Models Presented by Stranglehold Skins |Both |Cedar Lake Speedway |Thu, April 04 08:30PM EDT |Fri, April 05 01:30AM BST |Fri, April 05 11:30AM AEDT |
 
 # Dirt Road
 

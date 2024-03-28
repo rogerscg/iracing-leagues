@@ -32,7 +32,7 @@
 |[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S2 |North America |44 |2686 | |Algarve International Circuit |Mon, April 01 07:30PM EDT |Tue, April 02 12:30AM BST |Tue, April 02 10:30AM AEDT |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO s4 |Europe |34 |2350 |Fixed |Daytona International Speedway |Thu, March 28 03:00PM EDT |Thu, March 28 07:00PM GMT |Fri, March 29 06:00AM AEDT |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prototype Challenge \- Season 2 |Europe |24 |2138 |Both | | | | |
-|[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |Practice Proto only |Europe |20 |2432 |Fixed |Daytona International Speedway |Wed, March 27 03:00PM EDT |Wed, March 27 07:00PM GMT |Thu, March 28 06:00AM AEDT |
+|[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |Practice Proto only |Europe |20 |2408 |Fixed | | | | |
 
 ### Ligier JS P320
 
@@ -62,8 +62,8 @@
 |-------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2024 Radical |North America |24 |1226 |Fixed | | | | |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |16 |1875 | | | | | |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Radical SR8 S1 2024 |North America |15 |1323 | |Mount Panorama Circuit |Wed, April 03 09:03AM EDT |Wed, April 03 02:03PM BST |Thu, April 04 12:03AM AEDT |
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |PWE Season 1 |Europe |14 |4159 | | | | | |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Radical SR8 S1 2024 |North America |14 |1347 | |Oran Park Raceway |Wed, March 27 09:03PM EDT |Thu, March 28 01:03AM GMT |Thu, March 28 12:03PM AEDT |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Radical SR8 Challenge |Europe |11 |1549 |Open |Motorsport Arena Oschersleben |Tue, April 02 03:00PM EDT |Tue, April 02 08:00PM BST |Wed, April 03 06:00AM AEDT |
 |[The Average Racers League](https://members.iracing.com/membersite/member/LeagueView.do?league=10725){:target="_blank"} |Moist Cups |Europe |11 |2069 |Both | | | | |
 
