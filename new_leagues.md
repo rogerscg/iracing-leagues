@@ -7,6 +7,7 @@
 |[blerg](https://members.iracing.com/membersite/member/LeagueView.do?league=10863){:target="_blank"} | |blarg |
 |[Blue Ridge Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10860){:target="_blank"} | |Street Stock racing along the Eastern Seaboard primarily in the mid\-Altanic region\. |
 |[Buckeye Raceway](https://members.iracing.com/membersite/member/LeagueView.do?league=10866){:target="_blank"} | |Leagues |
+|[Championnat JCL Simulators](https://members.iracing.com/membersite/member/LeagueView.do?league=10855){:target="_blank"} | | |
 |[Coast Guard League](https://members.iracing.com/membersite/member/LeagueView.do?league=10873){:target="_blank"} | | |
 |[Dallara IR\-05 Road Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10839){:target="_blank"} | |Relaxed and fun league for the Dallara IR\-05 on road courses\.  Races usually held on weekday evenings, UK time, around 30 minutes in length\.   \[CURRENTLY AWAITING SUFFICIENT DRIVERS TO START\] |
 |[dirtslingers](https://members.iracing.com/membersite/member/LeagueView.do?league=10867){:target="_blank"} | |pro late model |
@@ -14,7 +15,9 @@
 |[EDG CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=10849){:target="_blank"} | | |
 |[Evening Hack League](https://members.iracing.com/membersite/member/LeagueView.do?league=10846){:target="_blank"} | |A fun league for controlled iracing hacks\. |
 |[FASCAR Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10850){:target="_blank"} |[Discord](https://discord.gg/4JmUDm6SEx){:target="_blank"} |Late Model Series Racing League |
+|[Prueba de liga](https://members.iracing.com/membersite/member/LeagueView.do?league=10877){:target="_blank"} | | |
 |[Friday Night Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10861){:target="_blank"} |[Discord](https://discord.gg/vv8b5rFJ25){:target="_blank"} |Friday Night Touring Series, Coming soon to a track near you\! |
+|[GRD iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10888){:target="_blank"} | |Official iRacing League of Garry's Mod Racing Development |
 |[HMD Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10876){:target="_blank"} | |HMD iRacing Challenge League |
 |[Jackyboy Racing British GT Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10847){:target="_blank"} | |British GT Championship |
 |[Jegs](https://members.iracing.com/membersite/member/LeagueView.do?league=10874){:target="_blank"} | |Practice |
@@ -49,13 +52,10 @@
 |[Vantage Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10859){:target="_blank"} |[Discord](https://discord.gg/AEw4AWcW){:target="_blank"} |Welcome to the first ever Vantage IRacing League, NASCAR Series |
 |[Virtual 87's Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10864){:target="_blank"} | |A faithful replication of the 1987 Winston Cup Season |
 |[Virtual Velocity Racing TV \(VVR\-TV\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10856){:target="_blank"} | |A regular race night league for members of the Virtual Velocity Racing community\. Heavy focus on oval tracks, but you never know what motorsport action might come over the airwaves of VVRTV\! |
-|[WINGED WARRIORS MICRO LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10830){:target="_blank"} | | |
 |[Xiru racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10836){:target="_blank"} | | |
 |[Auriga Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10834){:target="_blank"} | | |
-|[Championnat JCL Simulators](https://members.iracing.com/membersite/member/LeagueView.do?league=10855){:target="_blank"} | | |
 |[ECRL \- Friday Night Thunder Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10838){:target="_blank"} |[Discord](https://discord.gg/PzC76Zkr){:target="_blank"} |East Coast Racing League \- Friday Night Thunder Series |
 |[j3 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10872){:target="_blank"} | |F4 Fun with Friends |
-|[Prueba de liga](https://members.iracing.com/membersite/member/LeagueView.do?league=10877){:target="_blank"} | | |
 |[The Peoples SRX series](https://members.iracing.com/membersite/member/LeagueView.do?league=10871){:target="_blank"} | |Starting Fridays 7pm et\. June 21rst 2024 |
 |[WhiteLine eSport](https://members.iracing.com/membersite/member/LeagueView.do?league=10862){:target="_blank"} | | |
 
