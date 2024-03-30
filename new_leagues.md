@@ -1,7 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Arago Simsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10857){:target="_blank"} |[Discord](https://discord.gg/QnnD42qzM2){:target="_blank"} |Open Wheel racing championships based out of the PNW\. |
 |[Asphalt Sprint cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10865){:target="_blank"} | |Asphalt sprint car racing at multiple tracks |
 |[blerg](https://members.iracing.com/membersite/member/LeagueView.do?league=10863){:target="_blank"} | |blarg |
@@ -27,7 +27,6 @@
 |[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} | |Ligue Québécoise Dirt Oval propulsée par Alltrack Challenge |
 |[Mid Atlantic Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10854){:target="_blank"} | |Truck Series |
 |[Midwest Micro Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10858){:target="_blank"} |[Discord](https://discord.gg/QQpMWY49){:target="_blank"} |Winged Micro Sprints Fixed Series, Sunday night  at 7pm cst |
-|[Night Owl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} | |Just for fun and have a good time |
 |[NOCO Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10875){:target="_blank"} | |Northern Colorado Sim Racers |
 |[OSRL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10878){:target="_blank"} |[Discord](https://discord.gg/WRPAdpDm){:target="_blank"} | |
 |[OVAL\-UTION / FASTCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10852){:target="_blank"} | |Bretch Racing Studio / OVAL\-UTION Série FASTCAR  En rotation : ARCA / Craftsman Trucks / Xfinity / CUP  Évolution de pistes Short\-Tracks à Intermédiaires à SuperSpeedways |
@@ -36,7 +35,6 @@
 |[Practice League](https://members.iracing.com/membersite/member/LeagueView.do?league=10843){:target="_blank"} | | |
 |[Pro 4 AZ](https://members.iracing.com/membersite/member/LeagueView.do?league=10883){:target="_blank"} | |Pro 4 Truck Series |
 |[PUR Racing \- Weekly Time Trial League](https://members.iracing.com/membersite/member/LeagueView.do?league=10881){:target="_blank"} | | |
-|[Redemption Weekly Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10835){:target="_blank"} | |Redemption Weekly Racing Series was founded by a group of like\-minded individuals focused on fair play, respect, and predictability\. We pride ourselves on having something for everyone, and if we don't have it, our members are free to sponsor a series they like\! The best finishers in our seasons are rewarded with trophies, not cash, as we feel racing for money often brings out the worst in people\. Whether you like to sling dirt in a super late model, run a GT3 through the twists and turns of Mount Panorama, or try your luck at some of NASCARS' famed ovals, we've got you covered\! Come chase some trophies with us\! |
 |[Shake N Bake](https://members.iracing.com/membersite/member/LeagueView.do?league=10886){:target="_blank"} | | |
 |[Shameless Plug](https://members.iracing.com/membersite/member/LeagueView.do?league=10840){:target="_blank"} | |This is a shameless plug |
 |[Simdurance](https://members.iracing.com/membersite/member/LeagueView.do?league=10880){:target="_blank"} | | |
@@ -46,14 +44,12 @@
 |[Speed Demonz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10882){:target="_blank"} | |NASCAR Next Gen Cup Series\. |
 |[SRL Kids Race](https://members.iracing.com/membersite/member/LeagueView.do?league=10870){:target="_blank"} | |SRL Special Events league page |
 |[SRX Official](https://members.iracing.com/membersite/member/LeagueView.do?league=10869){:target="_blank"} | |SRX employees and friends |
-|[The Misfits of Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10831){:target="_blank"} | |Just a fun league where vets and rookies can get together and share knowledge and have a ton of fun\. |
 |[The SOG Leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=10868){:target="_blank"} | | |
+|[TRT League](https://members.iracing.com/membersite/member/LeagueView.do?league=10889){:target="_blank"} | | |
 |[UNDISPUTED RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10848){:target="_blank"} | |we will race fixed asphalt street stocks at all free tracks\. asphalt races will be every tuesday 8pm cst\. Certificates to the winner, top5, and top10 finishers per race\. Certificates will be available at fanvue\.com/urs and will have select races with payouts but must be registered at our fanvue page to get password to enter paying races\. anyone can run our non payout events as they will not be locked\. its $4\.99 a month to join and my goal will be to get multiple classes going at once\. |
 |[Vantage Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10859){:target="_blank"} |[Discord](https://discord.gg/AEw4AWcW){:target="_blank"} |Welcome to the first ever Vantage IRacing League, NASCAR Series |
 |[Virtual 87's Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10864){:target="_blank"} | |A faithful replication of the 1987 Winston Cup Season |
 |[Virtual Velocity Racing TV \(VVR\-TV\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10856){:target="_blank"} | |A regular race night league for members of the Virtual Velocity Racing community\. Heavy focus on oval tracks, but you never know what motorsport action might come over the airwaves of VVRTV\! |
-|[Xiru racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10836){:target="_blank"} | | |
-|[Auriga Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10834){:target="_blank"} | | |
 |[ECRL \- Friday Night Thunder Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10838){:target="_blank"} |[Discord](https://discord.gg/PzC76Zkr){:target="_blank"} |East Coast Racing League \- Friday Night Thunder Series |
 |[j3 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10872){:target="_blank"} | |F4 Fun with Friends |
 |[The Peoples SRX series](https://members.iracing.com/membersite/member/LeagueView.do?league=10871){:target="_blank"} | |Starting Fridays 7pm et\. June 21rst 2024 |

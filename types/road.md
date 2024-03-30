@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[ARCS Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |ARCS Race Experience 2024 S2 |North America |25 |2000 | |Nashville Fairgrounds Speedway |Fri, March 29 08:00PM EDT |Sat, March 30 12:00AM GMT |Sat, March 30 11:00AM AEDT |
+|[ARCS Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |ARCS Race Experience 2024 S2 |North America |27 |2107 | | | | | |
 |[ASPHALT OFFICIAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9747){:target="_blank"} |ASPHALT RACING XPERIENCE |North America |24 |2598 | | | | | |
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |SRX\- |North America |23 |1799 |Both |Nashville Fairgrounds Speedway |Thu, April 04 08:30PM EDT |Fri, April 05 01:30AM BST |Fri, April 05 11:30AM AEDT |
 |[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |THUNDERSTRUCK TRX |North America |23 |2052 | |Five Flags Speedway |Mon, April 01 08:00PM EDT |Tue, April 02 01:00AM BST |Tue, April 02 11:00AM AEDT |
