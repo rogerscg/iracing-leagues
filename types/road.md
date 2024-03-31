@@ -16,5 +16,7 @@
 |[NSR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5275){:target="_blank"} |SRX \- 2024 \- A |North America |20 |2303 |Open | | | | |
 |[STARS \- Smoking Tires Amateur Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4868){:target="_blank"} |SCARS \| S15 \| SRX |North America |20 |2235 |Fixed | | | | |
 |[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |VRA SRX \- 2024 Season 2 |Australia-NZ |20 |1563 | | | | | |
+|[213SimWear Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10055){:target="_blank"} |2024 SRX |North America |12 |2530 | | | | | |
+|[Apex Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9523){:target="_blank"} |ASRL SRX Season 1 |North America |12 |1814 | | | | | |
 |[Discord Iracing Championship Kup](https://members.iracing.com/membersite/member/LeagueView.do?league=10797){:target="_blank"} |Every Season Starts at DICKs SRX 1 |North America |12 |4720 | | | | | |
 
