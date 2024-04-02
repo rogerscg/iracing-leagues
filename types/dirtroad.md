@@ -26,8 +26,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
-|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |11 |1294 |Fixed |Wild Horse Pass Motorsports Park |Mon, April 01 09:30PM EDT |Tue, April 02 02:30AM BST |Tue, April 02 12:30PM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |11 |1326 |Fixed |Crandon International Raceway |Mon, April 08 09:30PM EDT |Tue, April 09 02:30AM BST |Tue, April 09 11:30AM AEST |
 
 ### Pro 4 Truck
 
