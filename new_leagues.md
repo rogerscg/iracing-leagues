@@ -4,9 +4,6 @@
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[\.08 Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10909){:target="_blank"} | |Weekend warriors looking to run laps and shoot the breeze with each other\. If you are reading this, then you are welcomed to join\. |
 |[ADEvents SimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10893){:target="_blank"} | |Rejoignez les ADEvents SimRacing pour une course plaisir chaque mois de l'année, dans le but de s'amuser et progresser ensemble\. Si le concept vous plait nous ferons encore plus de courses et varierons les voitures \! À bientôt les simracers\. |
-|[Asphalt Sprint cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10865){:target="_blank"} | |Asphalt sprint car racing at multiple tracks |
-|[blerg](https://members.iracing.com/membersite/member/LeagueView.do?league=10863){:target="_blank"} | |blarg |
-|[Buckeye Raceway](https://members.iracing.com/membersite/member/LeagueView.do?league=10866){:target="_blank"} | |Leagues |
 |[Coast Guard League](https://members.iracing.com/membersite/member/LeagueView.do?league=10873){:target="_blank"} | | |
 |[dirtslingers](https://members.iracing.com/membersite/member/LeagueView.do?league=10867){:target="_blank"} | |pro late model |
 |[Down south 602](https://members.iracing.com/membersite/member/LeagueView.do?league=10899){:target="_blank"} | |pro late model |
@@ -19,8 +16,10 @@
 |[JOKER RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10887){:target="_blank"} | |ump mod and street stock on dirt  I WILL DO MONEY RACES |
 |[Kickin' Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=10885){:target="_blank"} | | |
 |[Latemodel Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=10905){:target="_blank"} | |Mix of paved and dirt latemodels\. Mondays, starting May 6th |
+|[Midway Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10913){:target="_blank"} | |Xfinity Series League for intermediate drivers\. No pros\. Must be a class B and iRating between 800 and 2500\. We strive for a fun, clean and competitive environment\. We duplicate the entire real life Xfinity series\. We are a new league and there is no fee to join\. Cash prize for the series champion\. |
 |[Mirage Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10891){:target="_blank"} |[Discord](https://discord.gg/DypYhVRZvg){:target="_blank"} |Racing league for Mirage Racing |
 |[National Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10897){:target="_blank"} | |Race hard and race with respect, most of all have fun\! |
+|[NBR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10914){:target="_blank"} | | |
 |[NOCO Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10875){:target="_blank"} | |Northern Colorado Sim Racers |
 |[Oddwhiz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10904){:target="_blank"} |[Discord](https://discord.gg/5HH8phSySD){:target="_blank"} |THE official oval league brought to you by Oddwhiz\! Check out the twitch and the discord\! |
 |[OGRE '87 GLORY DAYS SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10895){:target="_blank"} | |Fixed Set 87's league for drivers age 50 and older |
@@ -32,21 +31,21 @@
 |[PUR Racing \- Weekly Time Trial League](https://members.iracing.com/membersite/member/LeagueView.do?league=10881){:target="_blank"} | | |
 |[Shake N Bake](https://members.iracing.com/membersite/member/LeagueView.do?league=10886){:target="_blank"} | | |
 |[Simdurance](https://members.iracing.com/membersite/member/LeagueView.do?league=10880){:target="_blank"} | | |
+|[Simuliatorių Akademija AUDI R8 GT3 JUTA](https://members.iracing.com/membersite/member/LeagueView.do?league=10911){:target="_blank"} | |Rinkite visi visi, ir maži ir dideli |
 |[Smokeingfast racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10884){:target="_blank"} | | |
 |[Son's of B\*\*\*\*'s](https://members.iracing.com/membersite/member/LeagueView.do?league=10879){:target="_blank"} | |Best of the Best |
 |[Speed Demonz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10882){:target="_blank"} | |NASCAR Next Gen Cup Series\. |
 |[SRL Kids Race](https://members.iracing.com/membersite/member/LeagueView.do?league=10870){:target="_blank"} | |SRL Special Events league page |
 |[SRX Official](https://members.iracing.com/membersite/member/LeagueView.do?league=10869){:target="_blank"} | |SRX employees and friends |
 |[The SOG Leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=10868){:target="_blank"} | | |
-|[TNGG Sim Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10896){:target="_blank"} |[Discord](https://discord.gg/69UXTRNrrF){:target="_blank"} |Were here to help you build your sim skills\. |
 |[TRS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10902){:target="_blank"} |[Discord](https://discord.gg/YRrEUMcbMr){:target="_blank"} |The iRacing Championship for the Formula Based TRS Racing League |
 |[TRT League](https://members.iracing.com/membersite/member/LeagueView.do?league=10889){:target="_blank"} | | |
 |[UNIVERSAL CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10910){:target="_blank"} | | |
 |[Villains Race Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10900){:target="_blank"} | |Destination for elite vidgya games car racing XP |
-|[Virtual 87's Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10864){:target="_blank"} | |A faithful replication of the 1987 Winston Cup Season |
 |[Fuggit Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10901){:target="_blank"} | |Just Fuggit |
 |[Full Send Motorsports Practice/Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=10906){:target="_blank"} | | |
 |[j3 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10872){:target="_blank"} | |F4 Fun with Friends |
+|[Southern Wis LMSC Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10912){:target="_blank"} | | |
 |[The Peoples SRX series](https://members.iracing.com/membersite/member/LeagueView.do?league=10871){:target="_blank"} | |Starting Fridays 7pm et\. June 21rst 2024 |
-|[WhiteLine eSport](https://members.iracing.com/membersite/member/LeagueView.do?league=10862){:target="_blank"} | | |
+|[TNGG Sim Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10896){:target="_blank"} |[Discord](https://discord.gg/69UXTRNrrF){:target="_blank"} |Were here to help you build your sim skills\. |
 

@@ -8,20 +8,20 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
-|[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2024\-S02 \- LMP2 |Europe |40 |2194 |Both |Algarve International Circuit |Thu, April 04 02:30PM EDT |Thu, April 04 07:30PM BST |Fri, April 05 05:30AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
+|[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2024\-S02 \- LMP2 |Europe |40 |2173 |Both |Road America |Thu, April 11 02:30PM EDT |Thu, April 11 07:30PM BST |Fri, April 12 04:30AM AEST |
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |30 |2637 | |Detroit Grand Prix at Belle Isle |Sun, April 07 05:00AM EDT |Sun, April 07 10:00AM BST |Sun, April 07 07:00PM AEST |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |15 |2042 |Fixed |Willow Springs International Raceway |Thu, April 04 08:30PM EDT |Fri, April 05 01:30AM BST |Fri, April 05 11:30AM AEDT |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |15 |1888 |Fixed | | | | |
 
 ### GTP
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
 |[RoushParts\.com Sunset @ Sebring](https://members.iracing.com/membersite/member/LeagueView.do?league=6614){:target="_blank"} |ROUSH Pro Series |North America |47 |3030 | | | | | |
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |42 |3418 | | | | | |
-|[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |29 |2031 | |Road America |Thu, April 04 08:00PM EDT |Fri, April 05 01:00AM BST |Fri, April 05 11:00AM AEDT |
+|[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |29 |2066 | |Autódromo José Carlos Pace |Thu, April 11 08:00PM EDT |Fri, April 12 01:00AM BST |Fri, April 12 10:00AM AEST |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Endurance |North America |12 |924 | | | | | |
 |[Slowbois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9743){:target="_blank"} |Season 5 \(Hybrid\) |North America |12 |1571 | | | | | |
 
@@ -42,7 +42,7 @@
 |[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S2 |North America |51 |2746 | |Autodromo Internazionale Enzo e Dino Ferrari |Mon, April 08 07:30PM EDT |Tue, April 09 12:30AM BST |Tue, April 09 09:30AM AEST |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO s4 |Europe |26 |2305 |Fixed | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prototype Challenge \- Season 2 |Europe |22 |2157 |Both | | | | |
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 2 |North America |18 |2613 |Open | | | | |
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 2 |North America |20 |2604 |Open | | | | |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |Practice Proto only |Europe |15 |2418 |Fixed | | | | |
 
 ### Ligier JS P320
@@ -60,20 +60,20 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |39 |3249 | |Watkins Glen International |Sun, April 07 02:10PM EDT |Sun, April 07 07:10PM BST |Mon, April 08 04:10AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |30 |2513 | |Watkins Glen International |Sun, April 07 07:30PM EDT |Mon, April 08 12:30AM BST |Mon, April 08 09:30AM AEST |
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |30 |None |Fixed | | | | |
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |23/24 BiS Radical Cup Canada Winter Series |North America |28 |2482 |Fixed | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 2 |Europe |24 |3129 |Open |Watkins Glen International |Thu, April 04 02:15PM EDT |Thu, April 04 07:15PM BST |Fri, April 05 05:15AM AEDT |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 2 |Europe |26 |3058 |Open |Autodromo Internazionale Enzo e Dino Ferrari |Thu, April 11 02:15PM EDT |Thu, April 11 07:15PM BST |Fri, April 12 04:15AM AEST |
 
 ### Radical SR8
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |28 |2416 |Fixed | | | | |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
+|[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |33 |2392 |Fixed |Autodromo Internazionale del Mugello |Thu, April 11 02:45PM EDT |Thu, April 11 07:45PM BST |Fri, April 12 04:45AM AEST |
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2024 Radical |North America |24 |1226 |Fixed | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Radical SR8 S1 2024 |North America |16 |1284 | |Daytona International Speedway |Wed, April 10 09:03AM EDT |Wed, April 10 02:03PM BST |Wed, April 10 11:03PM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |14 |1897 | | | | | |
@@ -86,8 +86,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|------------------|------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Riley Reid Returns |Australia-NZ |10 |1303 |Both |Motorsport Arena Oschersleben |Thu, April 04 04:30AM EDT |Thu, April 04 09:30AM BST |Thu, April 04 07:30PM AEDT |
+|----------------------------------------------------------------------------------------------------------------------|------------------|------------|-------|----|-----|-------------|--------|------|------|
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Riley Reid Returns |Australia-NZ |10 |1308 |Both | | | | |
 
 ### Spec Racer Ford
 

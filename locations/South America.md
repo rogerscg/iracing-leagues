@@ -55,9 +55,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/2 |South America |51 |1853 | |Road America |Thu, April 04 05:25PM EDT |Thu, April 04 10:25PM BST |Fri, April 05 08:25AM AEDT |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/2 |South America |47 |3601 | |Road America |Thu, April 04 07:25PM EDT |Fri, April 05 12:25AM BST |Fri, April 05 10:25AM AEDT |
+|------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/2 |South America |56 |1890 | | | | | |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/2 |South America |49 |3568 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |TEMPORADA 1 2024 \- GT3 |South America |26 |1943 | | | | | |
 
 ### IMSA23

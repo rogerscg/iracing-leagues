@@ -5,6 +5,14 @@
 
 # NASCAR
 
+### ARCA Series
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------|---------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[Throwback Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=726){:target="_blank"} |Friday season 1 |Fixed |Daytona International Speedway |Fri, April 12 08:00PM EDT |Sat, April 13 01:00AM BST |Sat, April 13 10:00AM AEST |
+
 ### Gen 4 Cup
 
 [Back to Top](#)  
@@ -12,6 +20,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
 |[OVR LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10898){:target="_blank"} |ARCA 24' CUP | |Martinsville Speedway |Fri, April 05 08:30PM EDT |Sat, April 06 01:30AM BST |Sat, April 06 11:30AM AEDT |
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|--------------------|-------------------------|-------------------------|--------------------------|
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2024 Season 2 NASCAR Reversed \(Friday Nights\) |Fixed |Texas Motor Speedway |Fri, April 12 06:15PM EDT |Fri, April 12 11:15PM BST |Sat, April 13 08:15AM AEST |
 
 ### NASCAR 2022 NextGen
 
@@ -24,24 +40,31 @@
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 Season 2 Next Gen Speedway Series | |Atlanta Motor Speedway |Fri, April 05 07:00PM EDT |Sat, April 06 12:00AM BST |Sat, April 06 10:00AM AEDT |
 |[Outcast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7861){:target="_blank"} |Season 7 | |Homestead Miami Speedway |Sat, April 06 07:00PM EDT |Sun, April 07 12:00AM BST |Sun, April 07 09:00AM AEST |
 
+### NASCAR Legends 1987
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2024 Season 2 1987 Nascar \(Thursday Night\) |Fixed |Daytona International Speedway |Thu, April 11 07:00PM EDT |Fri, April 12 12:00AM BST |Fri, April 12 09:00AM AEST |
+
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------------------------------------|-----|---------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------|------------------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
 |[Good Brothers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3487){:target="_blank"} |SEASON 7 Truck'n |Both |Martinsville Speedway |Sat, April 06 10:15PM EDT |Sun, April 07 03:15AM BST |Sun, April 07 12:15PM AEST |
 |[ISMC](https://members.iracing.com/membersite/member/LeagueView.do?league=10590){:target="_blank"} |ISMC NASCAR Truck Series | |Atlanta Motor Speedway |Sat, April 06 07:25PM EDT |Sun, April 07 12:25AM BST |Sun, April 07 09:25AM AEST |
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 Season 2 Truck  Speedway Series | |Indianapolis Motor Speedway |Thu, April 04 07:00PM EDT |Fri, April 05 12:00AM BST |Fri, April 05 10:00AM AEDT |
+|[RODDCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=4807){:target="_blank"} |Season 32 |Fixed |iRacing Superspeedway |Fri, April 05 08:00PM EDT |Sat, April 06 01:00AM BST |Sat, April 06 11:00AM AEDT |
 
 ### XFINITY Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
 |[eNASCAR Pepsi Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5628){:target="_blank"} |Season 1 \-\- Xfinity |Fixed |Atlanta Motor Speedway |Mon, April 08 07:00PM EDT |Tue, April 09 12:00AM BST |Tue, April 09 09:00AM AEST |
-|[Intense Racing Sim Series \(i\.R\.S\.S\.\)](https://members.iracing.com/membersite/member/LeagueView.do?league=8129){:target="_blank"} |Season 6 Xfinity |Fixed |Daytona International Speedway |Thu, April 04 07:30PM EDT |Fri, April 05 12:30AM BST |Fri, April 05 10:30AM AEDT |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Draught Masters S1 \- Afternoon |Both |Charlotte Motor Speedway |Sat, April 06 03:00PM EDT |Sat, April 06 08:00PM BST |Sun, April 07 05:00AM AEST |
 
 # Oval
@@ -61,8 +84,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|----------------------------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
-|[HARD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10512){:target="_blank"} |Legends Road Course Season 2 | |WeatherTech Raceway at Laguna Seca |Thu, April 04 08:00PM EDT |Fri, April 05 01:00AM BST |Fri, April 05 11:00AM AEDT |
+|-------------------------------------------------------------------------------------------------|---------------------|-----|------------|-------------------------|-------------------------|--------------------------|
 |[COCA](https://members.iracing.com/membersite/member/LeagueView.do?league=9563){:target="_blank"} |Inex Season 2 Legends |Open |The Bullring |Tue, April 09 06:35PM EDT |Tue, April 09 11:35PM BST |Wed, April 10 08:35AM AEST |
 
 ### Street Stock
@@ -105,20 +127,13 @@
 
 # Sports Car
 
-### Ferrari 296 GT3
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------|-----|-----------------|-------------------------|-------------------------|--------------------------|
-|[UGX Race Organisation](https://members.iracing.com/membersite/member/LeagueView.do?league=10378){:target="_blank"} |UGX 296 Trophy | |Circuit Zandvoort |Thu, April 04 02:00PM EDT |Thu, April 04 07:00PM BST |Fri, April 05 05:00AM AEDT |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|-----------------|-----|-----------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[American Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=36){:target="_blank"} |2024 Wednesday SportsCar Championship Spring \- Season 4 |Fixed |Watkins Glen International |Wed, April 10 07:30PM EDT |Thu, April 11 12:30AM BST |Thu, April 11 09:30AM AEST |
 |[TSRN Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |EPRL GT3 Season 2 |Both |Oran Park Raceway |Sat, April 06 03:00AM EDT |Sat, April 06 08:00AM BST |Sat, April 06 06:00PM AEDT |
 
 ### IMSA23
@@ -166,14 +181,6 @@
 
 # Dirt Oval
 
-### Dirt Late Model - Pro
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|-------------------|-------------------------|-------------------------|--------------------------|
-|[Short Track Rivals Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10070){:target="_blank"} |Pro Late Models Presented by Stranglehold Skins |Both |Cedar Lake Speedway |Thu, April 04 08:30PM EDT |Fri, April 05 01:30AM BST |Fri, April 05 11:30AM AEDT |
-
 ### Dirt Micro Sprint Car - Winged
 
 [Back to Top](#)  
@@ -181,14 +188,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|--------------|-----|----------------------------|-------------------------|-------------------------|--------------------------|
 |[Reigel Promotions E\-Sports Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2024 Gold Rush |Fixed |Kevin Harvick's Kern Raceway |Wed, April 10 08:00PM EDT |Thu, April 11 01:00AM BST |Thu, April 11 10:00AM AEST |
-
-### Dirt Midget
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|------|-----|---------------|-------------------------|-------------------------|--------------------------|
-|[NETCODEshop\.com Mighty Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3159){:target="_blank"} |2024B |Fixed |Kokomo Speedway |Thu, April 04 08:30PM EDT |Fri, April 05 01:30AM BST |Fri, April 05 11:30AM AEDT |
 
 ### Dirt Street Stock
 
@@ -213,8 +212,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[BMW CCA NCC Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4863){:target="_blank"} |2024 S2 Spring |Fixed |Rudskogen Motorsenter |Thu, April 04 07:00PM EDT |Fri, April 05 12:00AM BST |Fri, April 05 10:00AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
 |[Florida's Short Trackers](https://members.iracing.com/membersite/member/LeagueView.do?league=10764){:target="_blank"} |"Spitzer Lighting" Season 1 |Fixed |Daytona International Speedway |Sun, April 07 08:28PM EDT |Mon, April 08 01:28AM BST |Mon, April 08 10:28AM AEST |
+|[Passing Under Yellow](https://members.iracing.com/membersite/member/LeagueView.do?league=9684){:target="_blank"} |Season Intermission \- BANGER RACING\! |Fixed |Iowa Speedway |Fri, April 05 07:30PM EDT |Sat, April 06 12:30AM BST |Sat, April 06 10:30AM AEDT |
+|[SRC](https://members.iracing.com/membersite/member/LeagueView.do?league=10761){:target="_blank"} |Season 10 | |Charlotte Motor Speedway |Thu, April 11 07:29PM EDT |Fri, April 12 12:29AM BST |Fri, April 12 09:29AM AEST |
 |[Take It Easy Racing GT Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10546){:target="_blank"} |24S2 \| JWTC Series |Open |Road Atlanta |Thu, April 11 05:00PM EDT |Thu, April 11 10:00PM BST |Fri, April 12 07:00AM AEST |
+|[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |HARSH MULTI24 |Both |Circuit de Spa-Francorchamps |Fri, April 05 02:00PM EDT |Fri, April 05 07:00PM BST |Sat, April 06 05:00AM AEDT |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |$Free\.99 World Tour \- 2024\-04 |Fixed |Daytona Rallycross and Dirt Road |Sat, April 06 08:00PM EDT |Sun, April 07 01:00AM BST |Sun, April 07 10:00AM AEST |
 
