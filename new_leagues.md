@@ -3,6 +3,7 @@
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[\.08 Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10909){:target="_blank"} | |Weekend warriors looking to run laps and shoot the breeze with each other\. If you are reading this, then you are welcomed to join\. |
+|[280 OR SHE AIN'T A LADY TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10919){:target="_blank"} | |TRUCK SERIES FRIDAY NIGHT 9EST |
 |[ADEvents SimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10893){:target="_blank"} | |Rejoignez les ADEvents SimRacing pour une course plaisir chaque mois de l'année, dans le but de s'amuser et progresser ensemble\. Si le concept vous plait nous ferons encore plus de courses et varierons les voitures \! À bientôt les simracers\. |
 |[Coast Guard League](https://members.iracing.com/membersite/member/LeagueView.do?league=10873){:target="_blank"} | | |
 |[Down south 602](https://members.iracing.com/membersite/member/LeagueView.do?league=10899){:target="_blank"} | |pro late model |
@@ -14,6 +15,7 @@
 |[Jegs](https://members.iracing.com/membersite/member/LeagueView.do?league=10874){:target="_blank"} | |Practice |
 |[JOKER RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10887){:target="_blank"} | |ump mod and street stock on dirt  I WILL DO MONEY RACES |
 |[Kickin' Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=10885){:target="_blank"} | | |
+|[Kyle Panek](https://members.iracing.com/membersite/member/LeagueView.do?league=10917){:target="_blank"} | |Endurance Practic |
 |[Latemodel Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=10905){:target="_blank"} | |Mix of paved and dirt latemodels\. Mondays, starting May 6th |
 |[LIGA FRS](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} | |Liga de Automobilismo Virtual \- Patrocínio: 🎮 @logitechg 🛡️ @kasperskybr 🏎️ @rakeparts 💺 @limaracebr 🕹️ @rmssimracing |
 |[Midway Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10913){:target="_blank"} | |Xfinity Series League for intermediate drivers\. No pros\. Must be a class B \(or C with a safety rating of 4\.0\) and iRating between 800 and 2500\. We race every Thursday with practice starting at 8pm and race time at 9pm eastern\. We strive for a fun, clean and competitive environment\. We duplicate the entire real life Xfinity series\. We are a new league and there is no fee to join\. Cash prize for the series champion\. Visit our Discord for more info\. |
@@ -35,7 +37,7 @@
 |[Smokeingfast racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10884){:target="_blank"} | | |
 |[Son's of B\*\*\*\*'s](https://members.iracing.com/membersite/member/LeagueView.do?league=10879){:target="_blank"} | |Best of the Best |
 |[Speed Demonz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10882){:target="_blank"} | |NASCAR Next Gen Cup Series\. |
-|[SRL Kids Race](https://members.iracing.com/membersite/member/LeagueView.do?league=10870){:target="_blank"} | |SRL Special Events league page |
+|[TDR Media Group](https://members.iracing.com/membersite/member/LeagueView.do?league=10918){:target="_blank"} | |Welcome to TDR Media Group\. This is a weekly run live streamed league with a prize pot of $25 for the winner of the race\. At the end of the season the points leader will be crowned champion and receive the grand prize of $250\. The races run will follow their real life counterparts, on an off week in real life we will hold a vote for the track that week\. Races will be the same length as their real life counterparts\. |
 |[TRS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10902){:target="_blank"} |[Discord](https://discord.gg/YRrEUMcbMr){:target="_blank"} |The iRacing Championship for the Formula Based TRS Racing League |
 |[TRT League](https://members.iracing.com/membersite/member/LeagueView.do?league=10889){:target="_blank"} | | |
 |[UNIVERSAL CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10910){:target="_blank"} | | |
@@ -47,4 +49,5 @@
 |[Southern Wis LMSC Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10912){:target="_blank"} | | |
 |[The Peoples SRX series](https://members.iracing.com/membersite/member/LeagueView.do?league=10871){:target="_blank"} | |Starting Fridays 7pm et\. June 21rst 2024 |
 |[TNGG Sim Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10896){:target="_blank"} |[Discord](https://discord.gg/69UXTRNrrF){:target="_blank"} |Were here to help you build your sim skills\. |
+|[WombatRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10920){:target="_blank"} | |Training grounds for RadRally and beyond\. |
 

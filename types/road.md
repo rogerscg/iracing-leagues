@@ -18,7 +18,6 @@
 |[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |VRA SRX \- 2024 Season 2 |Australia-NZ |20 |1563 | | | | | |
 |[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |Short Track Series |North America |15 |1936 |Both | | | | |
 |[Discord Iracing Championship Kup](https://members.iracing.com/membersite/member/LeagueView.do?league=10797){:target="_blank"} |Every Season Starts at DICKs SRX 1 |North America |13 |4659 | | | | | |
-|[213SimWear Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10055){:target="_blank"} |2024 SRX |North America |12 |2530 | | | | | |
 |[Apex Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9523){:target="_blank"} |ASRL SRX Season 1 |North America |12 |1814 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Superslow Racing Experience \- 2024 |North America |12 |1726 |Fixed |Bristol Motor Speedway |Thu, April 11 07:00PM EDT |Fri, April 12 12:00AM BST |Fri, April 12 09:00AM AEST |
 
