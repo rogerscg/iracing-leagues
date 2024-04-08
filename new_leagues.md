@@ -5,14 +5,13 @@
 |[\.08 Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10909){:target="_blank"} | |Weekend warriors looking to run laps and shoot the breeze with each other\. If you are reading this, then you are welcomed to join\. |
 |[280 OR SHE AIN'T A LADY TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10919){:target="_blank"} | |TRUCK SERIES FRIDAY NIGHT 9EST |
 |[ADEvents SimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10893){:target="_blank"} | |Rejoignez les ADEvents SimRacing pour une course plaisir chaque mois de l'année, dans le but de s'amuser et progresser ensemble\. Si le concept vous plait nous ferons encore plus de courses et varierons les voitures \! À bientôt les simracers\. |
-|[Coast Guard League](https://members.iracing.com/membersite/member/LeagueView.do?league=10873){:target="_blank"} | | |
 |[Down south 602](https://members.iracing.com/membersite/member/LeagueView.do?league=10899){:target="_blank"} | |pro late model |
 |[Driverz Cup Formula Vee](https://members.iracing.com/membersite/member/LeagueView.do?league=10890){:target="_blank"} | |Welcome to the Driverz Cup Formula Vee iRacing League\.  This league was started by a group of us that race Formula Vee in "real life" across the eastern half of the United States either in Driverz Cup \(Southeast\), Challenge Cup \(Northeast\), or the SCCA\.  Here you will race against drivers with decades of racing experience in Formula Vee\.  You will race wheel to wheel with current and former SCCA Runoffs winners, Runoffs podium finishers, Driverz Cup Champions, SCCA Conference Champions, and many more\.    The introduction of Yokohama radial tires to Formula Vee racing in Driverz Cup and Challenge Cup has created massive growth in the number of these race cars coming to the track\.  Their excellent performance, low cost, and durability to last a whole season or more has made racing these cars much more affordable for amateur racers\.  Hopefully this iRacing league can introduce more people to this fast growing class of race cars and provide information and connections to those interested\. |
 |[Extreme Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=10892){:target="_blank"} | |A Unique League\!\!\! No Invite only, No Recruitment Races, Awards\. Join Discord Info Found At Facebook@ExtremeIracing As of now running all free tracks and cars to keep cost down\. In all disciplines\. |
+|[Fast Track Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10921){:target="_blank"} | |we are here to have fun\.\.\.\.\. |
 |[Prueba de liga](https://members.iracing.com/membersite/member/LeagueView.do?league=10877){:target="_blank"} | | |
 |[GRD iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10888){:target="_blank"} | |Official iRacing League of Garry's Mod Racing Development |
 |[HMD Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10876){:target="_blank"} | |HMD iRacing Challenge League |
-|[Jegs](https://members.iracing.com/membersite/member/LeagueView.do?league=10874){:target="_blank"} | |Practice |
 |[JOKER RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10887){:target="_blank"} | |ump mod and street stock on dirt  I WILL DO MONEY RACES |
 |[Kickin' Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=10885){:target="_blank"} | | |
 |[Kyle Panek](https://members.iracing.com/membersite/member/LeagueView.do?league=10917){:target="_blank"} | |Endurance Practic |
@@ -22,7 +21,6 @@
 |[Mirage Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10891){:target="_blank"} |[Discord](https://discord.gg/DypYhVRZvg){:target="_blank"} |Racing league for Mirage Racing |
 |[National Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10897){:target="_blank"} | |Race hard and race with respect, most of all have fun\! |
 |[NBR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10914){:target="_blank"} | | |
-|[NOCO Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10875){:target="_blank"} | |Northern Colorado Sim Racers |
 |[Oddwhiz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10904){:target="_blank"} |[Discord](https://discord.gg/5HH8phSySD){:target="_blank"} |THE official oval league brought to you by Oddwhiz\! Check out the twitch and the discord\! |
 |[OGRE '87 GLORY DAYS SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10895){:target="_blank"} | |Fixed Set 87's league for drivers age 50 and older |
 |[OGRE LATE MODEL SHORT TRACK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10894){:target="_blank"} | |Fixed Set Short Track League for drivers 50 years old and older |
@@ -44,10 +42,8 @@
 |[Villains Race Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10900){:target="_blank"} | |Destination for elite vidgya games car racing XP |
 |[Fuggit Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10901){:target="_blank"} | |Just Fuggit |
 |[Full Send Motorsports Practice/Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=10906){:target="_blank"} | | |
-|[j3 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10872){:target="_blank"} | |F4 Fun with Friends |
 |[Raceonoz iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=10915){:target="_blank"} | |Practice Events |
 |[Southern Wis LMSC Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10912){:target="_blank"} | | |
-|[The Peoples SRX series](https://members.iracing.com/membersite/member/LeagueView.do?league=10871){:target="_blank"} | |Starting Fridays 7pm et\. June 21rst 2024 |
 |[TNGG Sim Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10896){:target="_blank"} |[Discord](https://discord.gg/69UXTRNrrF){:target="_blank"} |Were here to help you build your sim skills\. |
 |[WombatRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10920){:target="_blank"} | |Training grounds for RadRally and beyond\. |
 

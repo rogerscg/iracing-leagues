@@ -18,7 +18,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Formula Thunderdome Revolution Presented by the Kermit9](https://members.iracing.com/membersite/member/LeagueView.do?league=7273){:target="_blank"} |Night of Fury Winter 2024 |North America |30 |1959 | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2024 |North America |26 |1928 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |21 |2247 |Fixed | | | | |
 
 ### Pro 2 Truck
