@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3196 | |Martinsville Speedway |Mon, April 08 06:30PM EDT |Mon, April 08 11:30PM BST |Tue, April 09 08:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3196 | |Texas Motor Speedway |Mon, April 15 06:30PM EDT |Mon, April 15 11:30PM BST |Tue, April 16 08:30AM AEST |
 
 ### NASCAR Truck Series
 
@@ -99,8 +99,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |43 |1850 | |Motorsport Arena Oschersleben |Mon, April 08 05:25PM EDT |Mon, April 08 10:25PM BST |Tue, April 09 07:25AM AEST |
-|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |38 |2132 | | | | | |
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |45 |1878 | | | | | |
+|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |38 |2132 | |Motorsport Arena Oschersleben |Tue, April 16 05:40PM EDT |Tue, April 16 10:40PM BST |Wed, April 17 07:40AM AEST |
 
 ### [Legacy] BMW Z4 GT3
 
@@ -137,6 +137,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |41 |1884 | | | | | |
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |32 |2453 | |Autodromo Internazionale Enzo e Dino Ferrari |Mon, April 08 05:30PM EDT |Mon, April 08 10:30PM BST |Tue, April 09 07:30AM AEST |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2469 | | | | | |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |17 |1746 | |Autodromo Internazionale Enzo e Dino Ferrari |Tue, April 09 06:30PM EDT |Tue, April 09 11:30PM BST |Wed, April 10 08:30AM AEST |
 
