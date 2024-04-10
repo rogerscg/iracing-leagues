@@ -8,9 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
 |[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2024\-S02 \- LMP2 |Europe |40 |2173 |Both |Road America |Thu, April 11 02:30PM EDT |Thu, April 11 07:30PM BST |Fri, April 12 04:30AM AEST |
-|[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |30 |2637 | |Detroit Grand Prix at Belle Isle |Tue, April 09 05:30AM EDT |Tue, April 09 10:30AM BST |Tue, April 09 07:30PM AEST |
+|[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |31 |2624 | | | | | |
 |[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |15 |1888 |Fixed | | | | |
 
 ### GTP
@@ -50,9 +50,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
 |[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2024\-2 LMP3 |Europe |17 |1951 |Fixed | | | | |
-|[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |Dad Bod Racing \- LMP3 2024s2 |North America |16 |2350 |Open |Road Atlanta |Tue, April 09 09:30PM EDT |Wed, April 10 02:30AM BST |Wed, April 10 11:30AM AEST |
+|[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |Dad Bod Racing \- LMP3 2024s2 |North America |16 |2372 |Open |Autodromo Internazionale Enzo e Dino Ferrari |Tue, April 16 09:30PM EDT |Wed, April 17 02:30AM BST |Wed, April 17 11:30AM AEST |
 
 ### Radical SR10
 
@@ -75,7 +75,7 @@
 |[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |33 |2392 |Fixed |Autodromo Internazionale del Mugello |Thu, April 11 02:45PM EDT |Thu, April 11 07:45PM BST |Fri, April 12 04:45AM AEST |
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2024 Radical |North America |24 |1226 |Fixed | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Radical SR8 S1 2024 |North America |15 |1242 | |Daytona International Speedway |Wed, April 10 09:03AM EDT |Wed, April 10 02:03PM BST |Wed, April 10 11:03PM AEST |
-|[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Radical SR8 Challenge |Europe |12 |1637 |Open |Circuit de Lédenon |Tue, April 09 03:00PM EDT |Tue, April 09 08:00PM BST |Wed, April 10 05:00AM AEST |
+|[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Radical SR8 Challenge |Europe |12 |1691 |Open |Virginia International Raceway |Tue, April 16 03:00PM EDT |Tue, April 16 08:00PM BST |Wed, April 17 05:00AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |12 |1923 | | | | | |
 |[The Average Racers League](https://members.iracing.com/membersite/member/LeagueView.do?league=10725){:target="_blank"} |Moist Cups |Europe |11 |2069 |Both | | | | |
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |PWE Season 1 |Europe |10 |4030 | | | | | |
@@ -93,9 +93,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024  Season 2 |North America |79 |2984 |Open |Virginia International Raceway |Sun, April 14 02:40PM EDT |Sun, April 14 07:40PM BST |Mon, April 15 04:40AM AEST |
 |[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |Season 1 |North America |40 |1659 |Fixed | | | | |
-|[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |SCCA Spec Racer Ford \- Season 2 |North America |32 |1786 |Fixed |Detroit Grand Prix at Belle Isle |Tue, April 09 07:00PM EDT |Wed, April 10 12:00AM BST |Wed, April 10 09:00AM AEST |
+|[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |SCCA Spec Racer Ford \- Season 2 |North America |33 |1820 |Fixed | | | | |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Spring Tour SRF |North America |16 |2600 |Open | | | | |
 

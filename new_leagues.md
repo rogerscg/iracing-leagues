@@ -11,6 +11,7 @@
 |[G\.S\.C\.C](https://members.iracing.com/membersite/member/LeagueView.do?league=10922){:target="_blank"} |[Discord](https://discord.gg/bUKtdDkRCn){:target="_blank"} |GT3 championship  discord \- https://discord\.gg/bUKtdDkRCn |
 |[Extreme Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=10892){:target="_blank"} | |A Unique League\!\!\! No Invite only, No Recruitment Races, Awards\. Join Discord Info Found At Facebook@ExtremeIracing As of now running all free tracks and cars to keep cost down\. In all disciplines\. |
 |[GRD iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10888){:target="_blank"} | |Official iRacing League of Garry's Mod Racing Development |
+|[HardBones Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10926){:target="_blank"} | | |
 |[JOKER RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10887){:target="_blank"} | |ump mod and street stock on dirt  I WILL DO MONEY RACES |
 |[Kickin' Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=10885){:target="_blank"} | | |
 |[Kyle Panek](https://members.iracing.com/membersite/member/LeagueView.do?league=10917){:target="_blank"} | |Endurance Practic |
@@ -25,20 +26,17 @@
 |[OGRE '87 GLORY DAYS SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10895){:target="_blank"} | |Fixed Set 87's league for drivers age 50 and older |
 |[OGRE LATE MODEL SHORT TRACK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10894){:target="_blank"} | |Fixed Set Short Track League for drivers 50 years old and older |
 |[OVR LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10898){:target="_blank"} |[Discord](https://discord.gg/BqZnWTfb){:target="_blank"} |OHIO VALLEY RACING LEAGUE SERIES\. PUT ON BY OHIO VALLEY RACING TEAM\. ARCA CUP CARS RUNNING THE 24' CUP SCHEDULE FRIDAYS AT 9:30PM |
-|[Pro 4 AZ](https://members.iracing.com/membersite/member/LeagueView.do?league=10883){:target="_blank"} | |Pro 4 Truck Series |
 |[Prodigy Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10908){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} |A racing league organization with multiple categories of racing leagues from iRacing, NR2003, Wreckfest, Gran Turismo 7, and more\! |
-|[PUR Racing \- Weekly Time Trial League](https://members.iracing.com/membersite/member/LeagueView.do?league=10881){:target="_blank"} | | |
 |[Schmiddy's Shiddy League](https://members.iracing.com/membersite/member/LeagueView.do?league=10923){:target="_blank"} | |We do it all Road Oval Dirt Oval and Dirt Rally |
 |[Shake N Bake](https://members.iracing.com/membersite/member/LeagueView.do?league=10886){:target="_blank"} | | |
-|[Simdurance](https://members.iracing.com/membersite/member/LeagueView.do?league=10880){:target="_blank"} | | |
 |[Simuliatorių Akademija AUDI R8 GT3 JUTA](https://members.iracing.com/membersite/member/LeagueView.do?league=10911){:target="_blank"} | |Rinkite visi visi, ir maži ir dideli |
-|[Smokeingfast racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10884){:target="_blank"} | | |
-|[Speed Demonz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10882){:target="_blank"} | |NASCAR Next Gen Cup Series\. |
 |[TDR Media Group](https://members.iracing.com/membersite/member/LeagueView.do?league=10918){:target="_blank"} | |Welcome to TDR Media Group\. This is a weekly run live streamed league with a prize pot of $25 for the winner of the race\. At the end of the season the points leader will be crowned champion and receive the grand prize of $250\. The races run will follow their real life counterparts, on an off week in real life we will hold a vote for the track that week\. Races will be the same length as their real life counterparts\. |
 |[TRS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10902){:target="_blank"} |[Discord](https://discord.gg/YRrEUMcbMr){:target="_blank"} |The iRacing Championship for the Formula Based TRS Racing League |
 |[TRT League](https://members.iracing.com/membersite/member/LeagueView.do?league=10889){:target="_blank"} | | |
 |[UNIVERSAL CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10910){:target="_blank"} | | |
 |[Villains Race Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10900){:target="_blank"} | |Destination for elite vidgya games car racing XP |
+|[Wisconsin Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10929){:target="_blank"} |[Discord](https://discord.gg/VHzEQsVN){:target="_blank"} |Late Model Stocks League on Tuesday Nights Practice at 6:30, Racing at 7:30 |
+|[ESE x XPE](https://members.iracing.com/membersite/member/LeagueView.do?league=10927){:target="_blank"} | |For combined team testing |
 |[Fuggit Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10901){:target="_blank"} | |Just Fuggit |
 |[Full Send Motorsports Practice/Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=10906){:target="_blank"} | | |
 |[Raceonoz iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=10915){:target="_blank"} | |Practice Events |
