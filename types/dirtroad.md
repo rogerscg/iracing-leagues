@@ -34,7 +34,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
-|[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2024 National Series |North America |41 |5366 |Open | | | | |
+|[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2024 National Series |North America |42 |5290 |Open | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |4X4 Rolling Thunder \- 2024 |North America |23 |1711 |Fixed | | | | |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Clustertruck Cup |North America |16 |1491 | |Fairbury Speedway |Tue, April 16 07:30PM EDT |Wed, April 17 12:30AM BST |Wed, April 17 09:30AM AEST |
 |[Mud Mule Off Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7070){:target="_blank"} |PDRL Off Road Season 1 |North America |14 |2317 | | | | | |

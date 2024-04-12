@@ -8,6 +8,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 13 \- BMW |International |30 |2044 | | | | | |
+|-----------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
+|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 13 \- BMW |International |30 |2044 | |Autodromo Nazionale Monza |Mon, April 15 01:30PM EDT |Mon, April 15 06:30PM BST |Tue, April 16 03:30AM AEST |
 
