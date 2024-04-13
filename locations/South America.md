@@ -100,7 +100,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |45 |1878 | | | | | |
-|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |38 |2132 | |Autódromo José Carlos Pace |Fri, April 12 09:00AM EDT |Fri, April 12 02:00PM BST |Fri, April 12 11:00PM AEST |
+|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |38 |2132 | |Autódromo José Carlos Pace |Sat, April 13 09:00AM EDT |Sat, April 13 02:00PM BST |Sat, April 13 11:00PM AEST |
 
 ### [Legacy] BMW Z4 GT3
 
