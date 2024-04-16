@@ -8,16 +8,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3186 | |Texas Motor Speedway |Mon, April 15 06:30PM EDT |Mon, April 15 11:30PM BST |Tue, April 16 08:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3193 | | | | | |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T2 |South America |24 |2440 | | | | | |
+|---------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-----------------------|-------------------------|-------------------------|--------------------------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T2 |South America |24 |2440 | |Talladega Superspeedway |Tue, April 23 06:30PM EDT |Tue, April 23 11:30PM BST |Wed, April 24 08:30AM AEST |
 
 # Open-wheel
 
@@ -26,8 +26,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-----------------------|-------------------------|-------------------------|--------------------------|
-|[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge |South America |46 |3156 | | | | | |
+|-------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
+|[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge |South America |46 |3156 | |Long Beach Street Circuit |Tue, April 23 05:40PM EDT |Tue, April 23 10:40PM BST |Wed, April 24 07:40AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |22 |2200 | | | | | |
 |[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/2 |South America |14 |2960 | |Nashville Superspeedway |Wed, April 17 07:35PM EDT |Thu, April 18 12:35AM BST |Thu, April 18 09:35AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Fórmula Indy \- Temporada 2 |South America |12 |3176 | |Road Atlanta |Wed, April 17 05:30PM EDT |Wed, April 17 10:30PM BST |Thu, April 18 07:30AM AEST |
@@ -74,16 +74,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/2 |South America |47 |2103 | |Motorsport Arena Oschersleben |Mon, April 15 05:25PM EDT |Mon, April 15 10:25PM BST |Tue, April 16 07:25AM AEST |
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/2 |South America |47 |2115 | | | | | |
 
 ### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|--------------|-------------------------|-------------------------|--------------------------|
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |23 |2506 | |Circuit Zolder |Mon, April 15 05:35PM EDT |Mon, April 15 10:35PM BST |Tue, April 16 07:35AM AEST |
+|----------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |23 |2581 | | | | | |
 
 ### Touring Car
 
@@ -98,9 +98,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |45 |1878 | | | | | |
-|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |38 |2132 | |Autódromo José Carlos Pace |Sat, April 13 09:00AM EDT |Sat, April 13 02:00PM BST |Sat, April 13 11:00PM AEST |
+|--------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |45 |1878 | |Sebring International Raceway |Mon, April 22 05:25PM EDT |Mon, April 22 10:25PM BST |Tue, April 23 07:25AM AEST |
+|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |39 |2132 | |Motorsport Arena Oschersleben |Tue, April 16 05:40PM EDT |Tue, April 16 10:40PM BST |Wed, April 17 07:40AM AEST |
 
 ### [Legacy] BMW Z4 GT3
 
@@ -108,7 +108,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |44 |1708 | | | | | |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |45 |1722 | | | | | |
 
 ### [Legacy] Ferrari 488 GT3
 
@@ -135,8 +135,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |44 |1900 | | | | | |
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2469 | | | | | |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |41 |1799 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2469 | |Long Beach Street Circuit |Mon, April 22 05:30PM EDT |Mon, April 22 10:30PM BST |Tue, April 23 07:30AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |17 |1804 | |Road Atlanta |Tue, April 16 06:30PM EDT |Tue, April 16 11:30PM BST |Wed, April 17 08:30AM AEST |
 
