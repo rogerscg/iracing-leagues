@@ -1,16 +1,18 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[\.08 Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10909){:target="_blank"} | |Weekend warriors looking to run laps and shoot the breeze with each other\. If you are reading this, then you are welcomed to join\. |
 |[280 OR SHE AIN'T A LADY TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10919){:target="_blank"} | |TRUCK SERIES FRIDAY NIGHT 9EST |
 |[ALTHERR\_RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10944){:target="_blank"} | |smokin tire |
-|[Ave and Aso](https://members.iracing.com/membersite/member/LeagueView.do?league=10947){:target="_blank"} | |Gang |
 |[BBC Super Prac](https://members.iracing.com/membersite/member/LeagueView.do?league=10942){:target="_blank"} | |Invite Only Super Late Model League |
+|[CTS Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10954){:target="_blank"} | |Beginner\intermediate league for drivers wanting to work on their racing craft without hostile judgment\. |
 |[Dirt Off Road Racing Assn\. \(DORA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10938){:target="_blank"} | | |
+|[Doug n Snoof AI Career](https://members.iracing.com/membersite/member/LeagueView.do?league=10955){:target="_blank"} | |doug n soof |
 |[Dude's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10934){:target="_blank"} | | |
 |[Fast Track Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10921){:target="_blank"} | |we are here to have fun\.\.\.\.\. |
 |[Flat Out Racing's Micro Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10933){:target="_blank"} | | |
+|[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} | |Full Length NASCAR Cup Series Saturday Night |
 |[G\.S\.C\.C](https://members.iracing.com/membersite/member/LeagueView.do?league=10922){:target="_blank"} |[Discord](https://discord.gg/bUKtdDkRCn){:target="_blank"} |GT3 championship  discord \- https://discord\.gg/bUKtdDkRCn |
 |[Gas And Grass](https://members.iracing.com/membersite/member/LeagueView.do?league=10928){:target="_blank"} | |Nascar Racing |
 |[HardBones Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10926){:target="_blank"} | |GT3/GT4 \.\.\. TCR  F4/SFL |
@@ -24,6 +26,8 @@
 |[NBR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10914){:target="_blank"} | | |
 |[Olivier iRacing League 🏁](https://members.iracing.com/membersite/member/LeagueView.do?league=10930){:target="_blank"} | |La League Communautaire Officielle de la chaîne Youtube |
 |[Prodigy Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10908){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} |A racing league organization with multiple categories of racing leagues from iRacing, NR2003, Wreckfest, Gran Turismo 7, and more\! |
+|[Proton Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10951){:target="_blank"} |[Discord](https://discord.gg/WsXvUZ4Y44){:target="_blank"} |An iRacing first league, running series in NASCAR and Open Wheel cars\. |
+|[Rusty IndyCar League](https://members.iracing.com/membersite/member/LeagueView.do?league=10953){:target="_blank"} | |A Fun environment with people who love racing road\. We are a newer league and we will be running the newest indycar on for now nothing but road courses and will follow the F1 points system\. If the league continues to grow it is a thought that we will try to follow the F1 schedule as close as possible or we could follow the indy schedule but we are in our first season so this is just a learning curve at this point\. come on out and have fun racing in a fair and competitive environment\. |
 |[Schmiddy's Shiddy League](https://members.iracing.com/membersite/member/LeagueView.do?league=10923){:target="_blank"} | |We do it all Road Oval Dirt Oval and Dirt Rally |
 |[Simuliatorių Akademija AUDI R8 GT3 JUTA](https://members.iracing.com/membersite/member/LeagueView.do?league=10911){:target="_blank"} | |Rinkite visi visi, ir maži ir dideli |
 |[SLS Sports Car Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10937){:target="_blank"} | |HPD, GTE, GT3 fun races\! Show up, have fun, don't be rude\! |
@@ -34,11 +38,11 @@
 |[UNIVERSAL CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10910){:target="_blank"} | | |
 |[Wisconsin Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10929){:target="_blank"} |[Discord](https://discord.gg/VHzEQsVN){:target="_blank"} |Late Model Stocks League on Tuesday Nights Practice at 6:30, Racing at 7:30 |
 |[WombatRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10920){:target="_blank"} | |Training grounds for RadRally and beyond\. |
+|[Ave and Aso](https://members.iracing.com/membersite/member/LeagueView.do?league=10947){:target="_blank"} | |Gang |
 |[CAS \- Combined Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10943){:target="_blank"} | |Series with two vehicles alternating weekly\. |
 |[Coopertown](https://members.iracing.com/membersite/member/LeagueView.do?league=10950){:target="_blank"} | | |
 |[Da Bois](https://members.iracing.com/membersite/member/LeagueView.do?league=10949){:target="_blank"} | | |
 |[ESE x XPE](https://members.iracing.com/membersite/member/LeagueView.do?league=10927){:target="_blank"} | |For combined team testing |
-|[Full Send Motorsports Practice/Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=10906){:target="_blank"} | | |
 |[Ignition Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10940){:target="_blank"} | | |
 |[Raceonoz iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=10915){:target="_blank"} | |Practice Events |
 |[RFEDA FIA MG Grupo 1](https://members.iracing.com/membersite/member/LeagueView.do?league=10936){:target="_blank"} | |RFEDA \- Campeonato clasificatorio FIA MG 2024 |

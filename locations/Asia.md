@@ -20,5 +20,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[China Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=10801){:target="_blank"} |Endurance Cup 2024 |Asia |31 |2050 | | | | | |
+|[China Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=10801){:target="_blank"} |Endurance Cup 2024 |Asia |31 |2232 | | | | | |
 

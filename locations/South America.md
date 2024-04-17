@@ -37,8 +37,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2024/2 |South America |10 |2303 | | | | | |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |2024/2 |South America |10 |2303 | |Homestead Miami Speedway |Wed, April 24 07:35PM EDT |Thu, April 25 12:35AM BST |Thu, April 25 09:35AM AEST |
 
 ### Super Formula Lights
 
@@ -66,8 +66,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T2 |South America |26 |2534 | | | | | |
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |19 |1633 | | | | | |
+|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T2 |South America |30 |2493 | | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |20 |1636 | | | | | |
 
 ### Mazda MX-5 Cup 2016
 
@@ -90,8 +90,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2024/2 |South America |27 |2706 | | | | | |
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2024/2 |South America |27 |2706 | |Autodromo Internazionale Enzo e Dino Ferrari |Wed, April 24 05:20PM EDT |Wed, April 24 10:20PM BST |Thu, April 25 07:20AM AEST |
 
 ### Toyota GR86
 
@@ -100,7 +100,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |45 |1878 | |Sebring International Raceway |Mon, April 22 05:25PM EDT |Mon, April 22 10:25PM BST |Tue, April 23 07:25AM AEST |
-|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |39 |2132 | |Motorsport Arena Oschersleben |Tue, April 16 05:40PM EDT |Tue, April 16 10:40PM BST |Wed, April 17 07:40AM AEST |
+|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |44 |2221 | | | | | |
 
 ### [Legacy] BMW Z4 GT3
 
@@ -138,5 +138,5 @@
 |-------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |41 |1799 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2469 | |Long Beach Street Circuit |Mon, April 22 05:30PM EDT |Mon, April 22 10:30PM BST |Tue, April 23 07:30AM AEST |
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |17 |1804 | |Road Atlanta |Tue, April 16 06:30PM EDT |Tue, April 16 11:30PM BST |Wed, April 17 08:30AM AEST |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |18 |1808 | |Long Beach Street Circuit |Tue, April 23 06:30PM EDT |Tue, April 23 11:30PM BST |Wed, April 24 08:30AM AEST |
 
