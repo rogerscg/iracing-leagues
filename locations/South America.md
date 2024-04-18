@@ -29,8 +29,8 @@
 |-------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
 |[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge |South America |46 |3156 | |Long Beach Street Circuit |Tue, April 23 05:40PM EDT |Tue, April 23 10:40PM BST |Wed, April 24 07:40AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IR\-18 Winter Season 2024 |South America |22 |2200 | | | | | |
-|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/2 |South America |14 |2960 | |Nashville Superspeedway |Wed, April 17 07:35PM EDT |Thu, April 18 12:35AM BST |Thu, April 18 09:35AM AEST |
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Fórmula Indy \- Temporada 2 |South America |12 |3176 | |Road Atlanta |Wed, April 17 05:30PM EDT |Wed, April 17 10:30PM BST |Thu, April 18 07:30AM AEST |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Fórmula Indy \- Temporada 2 |South America |15 |2388 | | | | | |
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/2 |South America |14 |3081 | | | | | |
 
 ### Lotus 79
 
@@ -45,8 +45,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|----------------------|-------------------------|-------------------------|--------------------------|
-|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |SuperFormula Lights 2024/2 |South America |42 |2468 | |Mobility Resort Motegi |Wed, April 17 05:25PM EDT |Wed, April 17 10:25PM BST |Thu, April 18 07:25AM AEST |
+|-------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |SuperFormula Lights 2024/2 |South America |42 |2445 | | | | | |
 
 # Sports Car
 
@@ -136,7 +136,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |41 |1799 | | | | | |
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |42 |1762 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2469 | |Long Beach Street Circuit |Mon, April 22 05:30PM EDT |Mon, April 22 10:30PM BST |Tue, April 23 07:30AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |18 |1808 | |Long Beach Street Circuit |Tue, April 23 06:30PM EDT |Tue, April 23 11:30PM BST |Wed, April 24 08:30AM AEST |
 

@@ -9,10 +9,10 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[ASPHALT OFFICIAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9747){:target="_blank"} |ASPHALT RACING XPERIENCE |North America |32 |2634 | | | | | |
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |SRX\- |North America |30 |1824 |Both |South Boston Speedway |Thu, April 18 08:30PM EDT |Fri, April 19 01:30AM BST |Fri, April 19 10:30AM AEST |
 |[ARCS Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |ARCS Race Experience 2024 S2 |North America |29 |2046 | | | | | |
-|[ASPHALT OFFICIAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9747){:target="_blank"} |ASPHALT RACING XPERIENCE |North America |28 |2606 | | | | | |
-|[NSR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5275){:target="_blank"} |SRX \- 2024 \- A |North America |26 |2342 |Open | | | | |
+|[NSR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5275){:target="_blank"} |SRX \- 2024 \- A |North America |26 |2326 |Open | | | | |
 |[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |THUNDERSTRUCK TRX |North America |25 |2110 | |Knoxville Raceway |Mon, April 22 08:00PM EDT |Tue, April 23 01:00AM BST |Tue, April 23 10:00AM AEST |
 |[STARS \- Smoking Tires Amateur Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4868){:target="_blank"} |SCARS \| S15 \| SRX |North America |21 |2336 |Fixed | | | | |
 |[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |VRA SRX \- 2024 Season 2 |Australia-NZ |20 |1563 | | | | | |
