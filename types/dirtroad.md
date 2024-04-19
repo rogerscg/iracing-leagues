@@ -25,10 +25,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
+|------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2024 National Series |North America |42 |5422 |Open | | | | |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Clustertruck Cup |North America |19 |1564 | |Summit Point Raceway |Tue, April 23 07:30PM EDT |Wed, April 24 12:30AM BST |Wed, April 24 09:30AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |4X4 Rolling Thunder \- 2024 |North America |16 |1991 |Fixed | | | | |
-|[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusTRUX Season 2 |Australia-NZ |14 |2826 | |Bark River International Raceway |Thu, April 18 06:30AM EDT |Thu, April 18 11:30AM BST |Thu, April 18 08:30PM AEST |
+|[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusTRUX Season 2 |Australia-NZ |16 |3018 | | | | | |
 |[Mud Mule Off Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7070){:target="_blank"} |PDRL Off Road Season 1 |North America |11 |2137 | | | | | |
 

@@ -28,9 +28,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[Friday Night Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=9619){:target="_blank"} |Cup season 4, 2024 | |Kentucky Speedway |Thu, April 18 09:00PM EDT |Fri, April 19 02:00AM BST |Fri, April 19 11:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[ITRL Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2808){:target="_blank"} |Premier Series Season IX |Fixed |Daytona International Speedway |Tue, April 23 08:00PM EDT |Wed, April 24 01:00AM BST |Wed, April 24 10:00AM AEST |
+
+### NASCAR Cup
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------|--------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[NERS Fisher Studios Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10093){:target="_blank"} |NARAS Season 1 | |Daytona International Speedway |Fri, April 26 07:00PM EDT |Sat, April 27 12:00AM BST |Sat, April 27 09:00AM AEST |
 
 ### NASCAR Truck Series
 
@@ -39,7 +46,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------|---------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |TRUCKS Season 5 |Both |Atlanta Motor Speedway |Mon, April 22 08:29PM EDT |Tue, April 23 01:29AM BST |Tue, April 23 10:29AM AEST |
-|[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |Trucks Season 2 |Fixed |Knoxville Raceway |Thu, April 18 09:30PM EDT |Fri, April 19 02:30AM BST |Fri, April 19 11:30AM AEST |
 
 ### XFINITY Series
 
@@ -78,14 +84,6 @@
 
 # Sports Car
 
-### Cadillac CTS-VR
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Otto Subway V8 series |Both |Willow Springs International Raceway |Thu, April 18 05:30AM EDT |Thu, April 18 10:30AM BST |Thu, April 18 07:30PM AEST |
-
 ### GT3 Class
 
 [Back to Top](#)  
@@ -94,21 +92,13 @@
 |--------------------------------------------------------------------------------------------------------|-------------------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[GPEsportsRD](https://members.iracing.com/membersite/member/LeagueView.do?league=9168){:target="_blank"} |BonAPlus GT3 Fixed CUP by GPeSportsRD | |Sebring International Raceway |Thu, April 25 08:00PM EDT |Fri, April 26 01:00AM BST |Fri, April 26 10:00AM AEST |
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |GT3 Challenge | |Charlotte Motor Speedway |Thu, April 18 07:00PM EDT |Fri, April 19 12:00AM BST |Fri, April 19 09:00AM AEST |
-|[Florida Bimmers iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10381){:target="_blank"} |FBDG iRacing Season 3 | |Sebring International Raceway |Thu, April 18 08:00PM EDT |Fri, April 19 01:00AM BST |Fri, April 19 10:00AM AEST |
-
 ### IMSA23
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-------------|-----|-----------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|[American Sim Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4610){:target="_blank"} |GT Challenge Series 2 |Fixed |Charlotte Motor Speedway |Mon, April 22 07:45PM EDT |Tue, April 23 12:45AM BST |Tue, April 23 09:45AM AEST |
 |[GoRacing Sim League IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8712){:target="_blank"} |2024 Season 2 | |Circuit of the Americas |Thu, April 25 07:30PM EDT |Fri, April 26 12:30AM BST |Fri, April 26 09:30AM AEST |
 
 ### Mazda MX-5 Cup 2016
@@ -193,12 +183,11 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |CMS Rolling Thunder LMP2/GT3 Series |Both |Circuit de Spa-Francorchamps |Tue, April 23 08:30PM EDT |Wed, April 24 01:30AM BST |Wed, April 24 10:30AM AEST |
-|[GRG eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=8880){:target="_blank"} |Jack of All Trades |Both |Circuit de Lédenon |Thu, April 18 08:00PM EDT |Fri, April 19 01:00AM BST |Fri, April 19 10:00AM AEST |
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10931){:target="_blank"} |International Racers Pro Am Series |Open |Circuit des 24 Heures du Mans |Sat, April 20 08:00AM EDT |Sat, April 20 01:00PM BST |Sat, April 20 10:00PM AEST |
-|[ORNL F1 League](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |ORNL IMSA League 2024 |Open |Daytona International Speedway |Thu, April 18 02:00PM EDT |Thu, April 18 07:00PM BST |Fri, April 19 04:00AM AEST |
 |[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |SRW \- Shannons Insurance F3 Nationals \- 2024 \- S2 | |Algarve International Circuit |Wed, April 24 04:00AM EDT |Wed, April 24 09:00AM BST |Wed, April 24 06:00PM AEST |
 |[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |Sports Car Practice Lobbies |Both |WeatherTech Raceway at Laguna Seca |Fri, April 19 07:00PM EDT |Sat, April 20 12:00AM BST |Sat, April 20 09:00AM AEST |
 |[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |Sports Car Series |Both |WeatherTech Raceway at Laguna Seca |Sat, April 20 08:00PM EDT |Sun, April 21 01:00AM BST |Sun, April 21 10:00AM AEST |
+|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP GTP/GT3 Endurance S5 | |WeatherTech Raceway at Laguna Seca |Fri, April 26 07:00PM EDT |Sat, April 27 12:00AM BST |Sat, April 27 09:00AM AEST |
 |[Virtual Velocity Racing TV \(VVR\-TV\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10856){:target="_blank"} |VVR\-TV Season 1: Racers Gather |Fixed |Charlotte Motor Speedway |Sat, April 20 10:00PM EDT |Sun, April 21 03:00AM BST |Sun, April 21 12:00PM AEST |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024B Wings N Slicks \- Super Formula Light |Both |Autodromo Nazionale Monza |Thu, April 18 05:25AM EDT |Thu, April 18 10:25AM BST |Thu, April 18 07:25PM AEST |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024B Mountain Men 200 Series |Both |Mount Panorama Circuit |Sat, April 20 05:30AM EDT |Sat, April 20 10:30AM BST |Sat, April 20 07:30PM AEST |
 
