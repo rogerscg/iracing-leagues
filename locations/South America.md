@@ -74,16 +74,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/2 |South America |47 |2115 | | | | | |
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/2 |South America |47 |2115 | |Virginia International Raceway |Mon, April 29 05:25PM EDT |Mon, April 29 10:25PM BST |Tue, April 30 07:25AM AEST |
 
 ### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |23 |2581 | | | | | |
+|----------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |23 |2581 | |Sebring International Raceway |Mon, April 29 05:35PM EDT |Mon, April 29 10:35PM BST |Tue, April 30 07:35AM AEST |
 
 ### Touring Car
 
@@ -137,7 +137,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |42 |1762 | | | | | |
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |37 |1704 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2469 | |Long Beach Street Circuit |Mon, April 22 05:30PM EDT |Mon, April 22 10:30PM BST |Tue, April 23 07:30AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |18 |1808 | |Long Beach Street Circuit |Tue, April 23 06:30PM EDT |Tue, April 23 11:30PM BST |Wed, April 24 08:30AM AEST |
 

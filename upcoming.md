@@ -10,10 +10,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------|--------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
 |[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |Oval S2 | |Charlotte Motor Speedway |Mon, April 22 10:00PM EDT |Tue, April 23 03:00AM BST |Tue, April 23 12:00PM AEST |
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Sunday Ovals \- ARCA Series |Both |Phoenix Raceway |Sun, April 21 05:28AM EDT |Sun, April 21 10:28AM BST |Sun, April 21 07:28PM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Xfinity Season 5 | |Talladega Superspeedway |Thu, April 25 08:13PM EDT |Fri, April 26 01:13AM BST |Fri, April 26 10:13AM AEST |
+
+### Ford Mustang - NextGen
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[Bluegrass Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10972){:target="_blank"} |Season 1 Next Gen | |Daytona International Speedway |Tue, April 23 09:00PM EDT |Wed, April 24 02:00AM BST |Wed, April 24 11:00AM AEST |
 
 ### Gen 4 Cup
 
@@ -22,7 +29,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|----------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[THE SHOW Community](https://members.iracing.com/membersite/member/LeagueView.do?league=9473){:target="_blank"} |2004 Nextel Cup Series |Open |Daytona International Speedway |Tue, April 23 07:30PM EDT |Wed, April 24 12:30AM BST |Wed, April 24 09:30AM AEST |
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Gen4 Season 5 | |Daytona International Speedway |Sun, April 21 08:13PM EDT |Mon, April 22 01:13AM BST |Mon, April 22 10:13AM AEST |
 
 ### NASCAR 2022 NextGen
 
@@ -53,7 +59,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------|---------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------|---------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|[DLine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4286){:target="_blank"} |NasTrucks | |Charlotte Motor Speedway |Mon, April 22 08:15PM EDT |Tue, April 23 01:15AM BST |Tue, April 23 10:15AM AEST |
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |TRUCKS Season 5 |Both |Atlanta Motor Speedway |Mon, April 22 08:29PM EDT |Tue, April 23 01:29AM BST |Tue, April 23 10:29AM AEST |
 
 ### XFINITY Series
@@ -61,7 +68,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[Internet Sim\-Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10688){:target="_blank"} |ISRA Xfinity Series |Fixed |Auto Club Speedway |Mon, April 29 08:35PM EDT |Tue, April 30 01:35AM BST |Tue, April 30 10:35AM AEST |
 |[NASRA \(2\) \- Pultz Poppers Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8949){:target="_blank"} |Season Two | |Daytona International Speedway |Tue, April 23 07:30PM EDT |Wed, April 24 12:30AM BST |Wed, April 24 09:30AM AEST |
 
 # Open-wheel
@@ -71,9 +79,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|------------------------|-----|--------------------|-------------------------|-------------------------|--------------------------|
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR F4 Championship |Open |Oran Park Raceway |Tue, April 23 03:00PM EDT |Tue, April 23 08:00PM BST |Wed, April 24 05:00AM AEST |
-|[Prueba de liga](https://members.iracing.com/membersite/member/LeagueView.do?league=10877){:target="_blank"} |FRC Rain Master \- Test |Fixed |Charlotte Motor Speedway |Sun, April 21 09:30PM EDT |Mon, April 22 02:30AM BST |Mon, April 22 11:30AM AEST |
+|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |Copa F4 Rumbo a Valencia | |Summit Point Raceway |Wed, April 24 08:30PM EDT |Thu, April 25 01:30AM BST |Thu, April 25 10:30AM AEST |
 
 ### Formula Vee
 
@@ -118,6 +126,14 @@
 |----------------------------------------------------------------------------------------------------------------|------------------|-----|------------|-------------------------|-------------------------|--------------------------|
 |[MMC \*Unofficial\*](https://members.iracing.com/membersite/member/LeagueView.do?league=10485){:target="_blank"} |Spring Season 2024 | |Road Atlanta |Mon, April 22 07:30PM EDT |Tue, April 23 12:30AM BST |Tue, April 23 09:30AM AEST |
 
+### GTE Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-------------------------|-------------------------|-------------------------|--------------------------|
+|[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2024\-S02 \- GTE |Both |Autodromo Nazionale Monza |Thu, April 25 02:30PM EDT |Thu, April 25 07:30PM BST |Fri, April 26 04:30AM AEST |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -132,8 +148,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|---------------------|-----|----------------------------|-------------------------|-------------------------|--------------------------|
 |[American Sim Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4610){:target="_blank"} |GT Challenge Series 2 |Fixed |Charlotte Motor Speedway |Mon, April 22 07:45PM EDT |Tue, April 23 12:45AM BST |Tue, April 23 09:45AM AEST |
+|[VRL UK](https://members.iracing.com/membersite/member/LeagueView.do?league=9622){:target="_blank"} |FTR GT3 World Series |Open |Circuit de Spa-Francorchamps |Mon, April 29 01:00PM EDT |Mon, April 29 06:00PM BST |Tue, April 30 03:00AM AEST |
 |[GoRacing Sim League IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8712){:target="_blank"} |2024 Season 2 | |Circuit of the Americas |Thu, April 25 07:30PM EDT |Fri, April 26 12:30AM BST |Fri, April 26 09:30AM AEST |
 
 ### Mazda MX-5 Cup 2016
@@ -143,22 +160,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------|-------------------------|-------------------------|--------------------------|
 |[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |MAZDA CUP Season 13 \(2024\) |Fixed |Circuit de Lédenon |Tue, April 23 09:30PM EDT |Wed, April 24 02:30AM BST |Wed, April 24 11:30AM AEST |
-
-### Porsche 911 GT3 R (992)
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------|-----|----------------------------|-------------------------|-------------------------|--------------------------|
-|[PCA S10 \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Races | |Circuit de Spa-Francorchamps |Sun, April 21 09:00PM EDT |Mon, April 22 02:00AM BST |Mon, April 22 11:00AM AEST |
-
-### Touring Car
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
-|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Sprint Season 1 \- TCR |Both |Phillip Island Circuit |Sun, April 21 03:00PM EDT |Sun, April 21 08:00PM BST |Mon, April 22 05:00AM AEST |
 
 ### Toyota GR86
 
@@ -176,8 +177,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|----------------|-----|-------------------------------|-------------------------|-------------------------|--------------------------|
-|[Mayhem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5425){:target="_blank"} |WWOMS SRX |Both |[Legacy] Phoenix Raceway - 2008 |Sun, April 21 08:00PM EDT |Mon, April 22 01:00AM BST |Mon, April 22 10:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|----------------------------|-------------------------|-------------------------|--------------------------|
+|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |ASRL SRX SPRING SHOOTOUT |Both |Five Flags Speedway |Tue, April 23 08:00PM EDT |Wed, April 24 01:00AM BST |Wed, April 24 10:00AM AEST |
+|[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |SRX Dirt vs Asphalt Tour |Fixed |Bristol Motor Speedway |Mon, April 22 07:30PM EDT |Tue, April 23 12:30AM BST |Tue, April 23 09:30AM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP SRX Season 5 | |Kevin Harvick's Kern Raceway |Tue, April 23 08:13PM EDT |Wed, April 24 01:13AM BST |Wed, April 24 10:13AM AEST |
 
 # Dirt Oval
@@ -202,6 +204,7 @@
 |[Digital Motorsport SK](https://members.iracing.com/membersite/member/LeagueView.do?league=8009){:target="_blank"} |2024\-DMSK\-Open Season |Both |Motorsport Arena Oschersleben |Thu, April 25 01:00PM EDT |Thu, April 25 06:00PM BST |Fri, April 26 03:00AM AEST |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Endurance Season 1 |Both |Autodromo Internazionale Enzo e Dino Ferrari |Sun, April 28 03:00PM EDT |Sun, April 28 08:00PM BST |Mon, April 29 05:00AM AEST |
 |[NEXUS FORMULA PRIX](https://members.iracing.com/membersite/member/LeagueView.do?league=8512){:target="_blank"} |SCC 2024 Season |Open |Circuit Gilles Villeneuve |Sun, April 28 07:15PM EDT |Mon, April 29 12:15AM BST |Mon, April 29 09:15AM AEST |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |The Long and Short of it | |[Legacy] Silverstone Circuit - 2008 |Wed, April 24 08:00PM EDT |Thu, April 25 01:00AM BST |Thu, April 25 10:00AM AEST |
 |[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |SRW \- Shannons Insurance F3 Nationals \- 2024 \- S2 | |Algarve International Circuit |Wed, April 24 04:00AM EDT |Wed, April 24 09:00AM BST |Wed, April 24 06:00PM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP GTP/GT3 Endurance S5 | |WeatherTech Raceway at Laguna Seca |Fri, April 26 07:00PM EDT |Sat, April 27 12:00AM BST |Sat, April 27 09:00AM AEST |
 

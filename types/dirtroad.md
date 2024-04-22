@@ -26,7 +26,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|------------------------|-------------------------|-------------------------|--------------------------|
-|[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2024 National Series |North America |42 |5415 |Open | | | | |
+|[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2024 National Series |North America |37 |5306 |Open | | | | |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Clustertruck Cup |North America |19 |1564 | |Summit Point Raceway |Tue, April 23 07:30PM EDT |Wed, April 24 12:30AM BST |Wed, April 24 09:30AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |4X4 Rolling Thunder \- 2024 |North America |16 |1991 |Fixed |Charlotte Motor Speedway |Thu, April 25 07:40PM EDT |Fri, April 26 12:40AM BST |Fri, April 26 09:40AM AEST |
 |[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusTRUX Season 2 |Australia-NZ |16 |3018 | | | | | |

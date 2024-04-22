@@ -10,8 +10,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
 |[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2024\-S02 \- LMP2 |Europe |41 |2210 |Both | | | | |
-|[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |30 |2624 | |Canadian Tire Motorsports Park |Sun, April 21 05:00AM EDT |Sun, April 21 10:00AM BST |Sun, April 21 07:00PM AEST |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |16 |1848 |Fixed |WeatherTech Raceway at Laguna Seca |Sun, April 21 08:30PM EDT |Mon, April 22 01:30AM BST |Mon, April 22 10:30AM AEST |
+|[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |31 |2624 | |Canadian Tire Motorsports Park |Tue, April 23 05:30AM EDT |Tue, April 23 10:30AM BST |Tue, April 23 07:30PM AEST |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |16 |1848 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, April 23 08:30PM EDT |Wed, April 24 01:30AM BST |Wed, April 24 10:30AM AEST |
 
 ### GTP
 
@@ -19,9 +19,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |39 |3369 | | | | | |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |39 |3328 | | | | | |
 |[RoushParts\.com Sunset @ Sebring](https://members.iracing.com/membersite/member/LeagueView.do?league=6614){:target="_blank"} |ROUSH Pro Series |North America |39 |3036 | | | | | |
-|[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |31 |2095 | | | | | |
+|[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |30 |2108 | | | | | |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Endurance |North America |12 |924 | | | | | |
 |[Slowbois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9743){:target="_blank"} |Season 5 \(Hybrid\) |North America |11 |1510 | | | | | |
 
@@ -30,8 +30,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|-------|--------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |HPD Cup |Europe |17 |2165 | |Autodromo Nazionale Monza |Sun, April 21 03:00PM EDT |Sun, April 21 08:00PM BST |Mon, April 22 05:00AM AEST |
+|----------------------------------------------------------------------------------------------------------|-------|--------|-------|----|-----|---------------------------|-------------------------|-------------------------|--------------------------|
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |HPD Cup |Europe |17 |2193 | |Fuji International Speedway |Sun, April 28 03:00PM EDT |Sun, April 28 08:00PM BST |Mon, April 29 05:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -83,8 +83,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024  Season 2 |North America |82 |2969 |Open |Canadian Tire Motorsports Park |Sun, April 21 02:40PM EDT |Sun, April 21 07:40PM BST |Mon, April 22 04:40AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024  Season 2 |North America |82 |2986 |Open | | | | |
 |[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |SCCA Spec Racer Ford \- Season 2 |North America |34 |1831 |Fixed | | | | |
 |[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |Season 1 |North America |34 |1697 |Fixed | | | | |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Spring Tour SRF |North America |23 |2410 |Open | | | | |
