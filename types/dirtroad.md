@@ -3,6 +3,14 @@
 
 # Dirt Road
 
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |13 |1328 |Fixed |Crandon International Raceway |Mon, April 29 09:30PM EDT |Tue, April 30 02:30AM BST |Tue, April 30 11:30AM AEST |
+
 ### Pro 2 Lite Truck
 
 [Back to Top](#)  
@@ -11,14 +19,6 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Formula Thunderdome Revolution Presented by the Kermit9](https://members.iracing.com/membersite/member/LeagueView.do?league=7273){:target="_blank"} |Night of Fury Winter 2024 |North America |30 |1959 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |21 |2247 |Fixed | | | | |
-
-### Pro 2 Truck
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-------------|--------|------|------|
-|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |12 |1323 |Fixed | | | | |
 
 ### Pro 4 Truck
 
