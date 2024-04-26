@@ -8,9 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |29 |2624 | | | | | |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |16 |1848 |Fixed |WeatherTech Raceway at Laguna Seca |Thu, April 25 08:30PM EDT |Fri, April 26 01:30AM BST |Fri, April 26 10:30AM AEST |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |16 |1842 |Fixed | | | | |
 
 ### GTP
 
@@ -40,7 +40,7 @@
 |----------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
 |[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S2 |North America |54 |2758 | |Autodromo Internazionale del Mugello |Mon, April 29 07:30PM EDT |Tue, April 30 12:30AM BST |Tue, April 30 09:30AM AEST |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO s4 |Europe |22 |2328 |Fixed | | | | |
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 2 |North America |21 |2783 |Open | | | | |
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 2 |North America |21 |2735 |Open | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prototype Challenge \- Season 2 |Europe |16 |2218 |Both | | | | |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |Practice Proto only |Europe |11 |2339 |Fixed | | | | |
 
@@ -58,10 +58,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |40 |3267 | |Autódromo José Carlos Pace |Sun, April 28 02:10PM EDT |Sun, April 28 07:10PM BST |Mon, April 29 04:10AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |29 |2482 | |Autódromo José Carlos Pace |Sun, April 28 07:30PM EDT |Mon, April 29 12:30AM BST |Mon, April 29 09:30AM AEST |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 2 |Europe |27 |2977 |Open |Autódromo José Carlos Pace |Thu, April 25 02:15PM EDT |Thu, April 25 07:15PM BST |Fri, April 26 04:15AM AEST |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 2 |Europe |27 |2971 |Open |Canadian Tire Motorsports Park |Thu, May 02 02:15PM EDT |Thu, May 02 07:15PM BST |Fri, May 03 04:15AM AEST |
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |23/24 BiS Radical Cup Canada Winter Series |North America |24 |2472 |Fixed | | | | |
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |24 |None |Fixed | | | | |
 
@@ -70,8 +70,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
-|[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |37 |2379 |Fixed |Autodromo Internazionale del Mugello |Thu, April 25 02:45PM EDT |Thu, April 25 07:45PM BST |Fri, April 26 04:45AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|------------------------------------|-----------------------|-----------------------|------------------------|
+|[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |37 |2379 |Fixed |Autodromo Internazionale del Mugello |Thu, May 02 02:45PM EDT |Thu, May 02 07:45PM BST |Fri, May 03 04:45AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Radical SR8 S1 2024 |North America |17 |1163 | | | | | |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Radical SR8 Challenge |Europe |12 |1671 |Open | | | | |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Radical 2024 Q1 |South America |11 |2020 | | | | | |
@@ -82,8 +82,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024  Season 2 |North America |82 |2986 |Open | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|---------------------|-------------------------|-------------------------|--------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024  Season 2 |North America |82 |2986 |Open |Rudskogen Motorsenter |Sun, April 28 02:40PM EDT |Sun, April 28 07:40PM BST |Mon, April 29 04:40AM AEST |
 |[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |SCCA Spec Racer Ford \- Season 2 |North America |39 |1821 |Fixed | | | | |
 |[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |Season 1 |North America |34 |1697 |Fixed | | | | |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Spring Tour SRF |North America |27 |2597 |Open | | | | |
