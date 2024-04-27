@@ -16,9 +16,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------------|-------------------------|-------------------------|--------------------------|
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |cadillac cts s1 2024 |North America |16 |1164 | | | | | |
-|[The Peoples Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=10625){:target="_blank"} |Season 2 |North America |14 |1130 | | | | | |
+|[The Peoples Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=10625){:target="_blank"} |Season 2 |North America |14 |1130 | |Red Bull Ring |Sun, April 28 06:00PM EDT |Sun, April 28 11:00PM BST |Mon, April 29 08:00AM AEST |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Otto Subway V8 series |Australia-NZ |10 |1412 |Both |Silverstone Circuit |Thu, May 02 05:30AM EDT |Thu, May 02 10:30AM BST |Thu, May 02 07:30PM AEST |
 
 ### Corvette C6R GT1
@@ -44,7 +44,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[American Muscle Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6810){:target="_blank"} |Season 6 |North America |59 |2399 | | | | | |
+|[American Muscle Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6810){:target="_blank"} |Season 6 |North America |57 |2402 | | | | | |
 |[Conemunity iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7568){:target="_blank"} |Man I Love Fords Series 1 |North America |15 |2153 | | | | | |
 
 ### GT1 Class
@@ -60,7 +60,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |ESR Season 4 GT3 Championship |Europe |61 |1930 | |Hungaroring |Thu, May 02 02:30PM EDT |Thu, May 02 07:30PM BST |Fri, May 03 04:30AM AEST |
 |[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/2 |South America |56 |1894 | |Red Bull Ring |Thu, May 02 05:25PM EDT |Thu, May 02 10:25PM BST |Fri, May 03 07:25AM AEST |
 |[OGRL Saturday Mixed Sprint \(GR86/GT4\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10244){:target="_blank"} |Coffee Cup |North America |56 |1569 | |Sebring International Raceway |Sun, April 28 08:00AM EDT |Sun, April 28 01:00PM BST |Sun, April 28 10:00PM AEST |
@@ -73,10 +73,9 @@
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024B GT3 Am Series \- By Waste Options |Australia-NZ |50 |1614 |Both |Sebring International Raceway |Mon, April 29 05:40AM EDT |Mon, April 29 10:40AM BST |Mon, April 29 07:40PM AEST |
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/2 |South America |49 |3638 | |Red Bull Ring |Thu, May 02 07:25PM EDT |Fri, May 03 12:25AM BST |Fri, May 03 09:25AM AEST |
 |[WGTC \(World GT Championship\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2193){:target="_blank"} |WGTC Season 15 |Europe |49 |3744 |Open |Sebring International Raceway |Mon, April 29 12:30PM EDT |Mon, April 29 05:30PM BST |Tue, April 30 02:30AM AEST |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60Plus Season 30 GT3 |North America |42 |1424 |Fixed |Sebring International Raceway |Fri, April 26 02:00PM EDT |Fri, April 26 07:00PM BST |Sat, April 27 04:00AM AEST |
-|[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GT3 Sprint Practice |North America |36 |None |Open |Circuit de Spa-Francorchamps |Fri, April 26 08:00PM EDT |Sat, April 27 01:00AM BST |Sat, April 27 10:00AM AEST |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60Plus Season 30 GT3 |North America |45 |1428 |Fixed |Red Bull Ring |Fri, May 03 02:00PM EDT |Fri, May 03 07:00PM BST |Sat, May 04 04:00AM AEST |
+|[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GT3 Sprint Practice |North America |37 |None |Open |Canadian Tire Motorsports Park |Fri, May 03 08:00PM EDT |Sat, May 04 01:00AM BST |Sat, May 04 10:00AM AEST |
 |[FLANC GT3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7591){:target="_blank"} |FLANC GT3 Serie 2023/24 \- GT3 |Europe |36 |2893 |Fixed | | | | |
-|[Aspire Racing Team \- League](https://members.iracing.com/membersite/member/LeagueView.do?league=10173){:target="_blank"} |ART GT3 SERIES IN PARTNERSHIP WITH INGEAR MOTORSPORT \- SEASON 3 |Europe |35 |1930 |Open | | | | |
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |CMS Rain GT3 Test Series |North America |35 |2026 |Both | | | | |
 |[FLANC GT3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7591){:target="_blank"} |Training |Europe |34 |None |Fixed | | | | |
 |[GPEsportsRD](https://members.iracing.com/membersite/member/LeagueView.do?league=9168){:target="_blank"} |BonAPlus GT3 Fixed CUP by GPeSportsRD |North America |32 |2426 | | | | | |
@@ -88,7 +87,8 @@
 |[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2024 S2 GT3 \(Tues 8:30pm\) |North America |17 |1716 |Fixed |Motorsport Arena Oschersleben |Tue, April 30 08:30PM EDT |Wed, May 01 01:30AM BST |Wed, May 01 10:30AM AEST |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |Practice Session GT3 only |Europe |17 |2400 |Fixed | | | | |
 |[Racing League Romania](https://members.iracing.com/membersite/member/LeagueView.do?league=350){:target="_blank"} |\[2024\] RLR Sezonul 5 \- GT3 Tour |Europe |17 |2719 | | | | | |
-|[DensuSimRacing\.de by twitch\.tv/densu83](https://members.iracing.com/membersite/member/LeagueView.do?league=4439){:target="_blank"} |DensuSimRacing Teamintern |Europe |17 |2800 |Open |Red Bull Ring |Tue, April 30 01:00PM EDT |Tue, April 30 06:00PM BST |Wed, May 01 03:00AM AEST |
+|[DensuSimRacing\.de by twitch\.tv/densu83](https://members.iracing.com/membersite/member/LeagueView.do?league=4439){:target="_blank"} |DensuSimRacing Teamintern |Europe |17 |2780 |Open |Red Bull Ring |Tue, April 30 01:00PM EDT |Tue, April 30 06:00PM BST |Wed, May 01 03:00AM AEST |
+|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |TANSO GT3 Season 2 |Europe |16 |1918 | |Red Bull Ring |Fri, May 03 02:30PM EDT |Fri, May 03 07:30PM BST |Sat, May 04 04:30AM AEST |
 |[Squirrel Endurance Xperience](https://members.iracing.com/membersite/member/LeagueView.do?league=10362){:target="_blank"} |SLRS Season 2 |North America |16 |1421 |Open |Red Bull Ring |Thu, May 02 08:00PM EDT |Fri, May 03 01:00AM BST |Fri, May 03 10:00AM AEST |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GT3 Series Season 1 |North America |15 |886 | |Circuit de Spa-Francorchamps |Sat, April 27 08:00PM EDT |Sun, April 28 01:00AM BST |Sun, April 28 10:00AM AEST |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |r2a s3 |North America |11 |1939 |Both |Daytona International Speedway |Sun, April 28 09:00PM EDT |Mon, April 29 02:00AM BST |Mon, April 29 11:00AM AEST |
@@ -108,10 +108,10 @@
 |[Roadster Rumble \- Simagic Showroom Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |GT4 Rumble \- season 1 |Australia-NZ |37 |1939 | | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |GT4 Sunday  2024\-S02 Spring |North America |36 |1202 |Fixed |Autodromo Nazionale Monza |Sun, April 28 01:00PM EDT |Sun, April 28 06:00PM BST |Mon, April 29 03:00AM AEST |
 |[JPB GT4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9751){:target="_blank"} |Season 4 |Europe |36 |2353 |Fixed |Hockenheimring Baden-Württemberg |Tue, April 30 02:00PM EDT |Tue, April 30 07:00PM BST |Wed, May 01 04:00AM AEST |
-|[Sim Racing Magazine Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7770){:target="_blank"} |SRM GT4 Challenge Season 4 |Europe |35 |2350 | | | | | |
+|[Sim Racing Magazine Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7770){:target="_blank"} |SRM GT4 Challenge Season 4 |Europe |34 |2357 | | | | | |
 |[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |GT4 Piston Cup 24S2 |North America |27 |1572 |Both |MotorLand Aragón |Sat, April 27 07:30PM EDT |Sun, April 28 12:30AM BST |Sun, April 28 09:30AM AEST |
-|[AFvRC](https://members.iracing.com/membersite/member/LeagueView.do?league=8081){:target="_blank"} |AFVRC24 |Europe |26 |1873 |Open | | | | |
 |[ADAC SimRacing Cup \- GT4 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10097){:target="_blank"} |GT4 Cup |Europe |25 |2342 | | | | | |
+|[AFvRC](https://members.iracing.com/membersite/member/LeagueView.do?league=8081){:target="_blank"} |AFVRC24 |Europe |25 |1893 |Open | | | | |
 |[JPB GT4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9751){:target="_blank"} |Season 3 |Europe |22 |2360 |Fixed | | | | |
 |[Skid Mark Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10396){:target="_blank"} |2024 Organized Chaos Season 2 \- GT4 |North America |17 |1372 |Open |Algarve International Circuit |Sun, April 28 09:00PM EDT |Mon, April 29 02:00AM BST |Mon, April 29 11:00AM AEST |
 |[Virtual Racing Perú](https://members.iracing.com/membersite/member/LeagueView.do?league=10575){:target="_blank"} |GT4 |North America |16 |2338 | | | | | |
@@ -122,8 +122,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-----------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2024\-S02 \- GTE |Europe |30 |2427 |Both | | | | |
+|--------------------------------------------------------------------------------------------------------------|-----------------------------------|--------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
+|[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2024\-S02 \- GTE |Europe |30 |2427 |Both |Circuit de Spa-Francorchamps |Thu, May 02 02:30PM EDT |Thu, May 02 07:30PM BST |Fri, May 03 04:30AM AEST |
 
 ### Hosted All Cars Class
 
@@ -131,7 +131,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|-------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
-|[V8 Veterans Season 16](https://members.iracing.com/membersite/member/LeagueView.do?league=6788){:target="_blank"} |Season 19 |Australia-NZ |164 |1831 | | | | | |
+|[V8 Veterans Season 16](https://members.iracing.com/membersite/member/LeagueView.do?league=6788){:target="_blank"} |Season 19 |Australia-NZ |164 |1831 | |Sonoma Raceway |Thu, May 02 05:31AM EDT |Thu, May 02 10:31AM BST |Thu, May 02 07:31PM AEST |
 |[V8SCOPS 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |V8SCOPS 2024 |Australia-NZ |138 |4173 |Open | | | | |
 |[FTR Events](https://members.iracing.com/membersite/member/LeagueView.do?league=6529){:target="_blank"} |Production Car Challenge Plus S1 |North America |63 |2982 | | | | | |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 5 |Europe |62 |2611 |Fixed | | | | |
@@ -139,18 +139,18 @@
 |[Motorsport UK Esports \- GT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10715){:target="_blank"} |2024 Asetek SimSports GT Challenge |Europe |55 |2692 | | | | | |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S19 \- Tuesday \- MX5/GR86 |North America |54 |1826 |Both |Sonoma Raceway |Tue, April 30 07:00PM EDT |Wed, May 01 12:00AM BST |Wed, May 01 09:00AM AEST |
 |[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |iRacing Cup Toyota \- Porsche |North America |54 |1820 | | | | | |
-|[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |NXTCC test session |Europe |54 |2415 |Fixed |Watkins Glen International |Mon, April 29 02:00PM EDT |Mon, April 29 07:00PM BST |Tue, April 30 04:00AM AEST |
 |[PREMIER ENDURANCE LEAGUE \- GT3 AUSTRALIA](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} |The Gamer Gear Direct Australian GT3 Endurance Championship Season 3 |Australia-NZ |52 |2054 |Open |Chicago Street Course |Wed, May 01 06:00AM EDT |Wed, May 01 11:00AM BST |Wed, May 01 08:00PM AEST |
 |[Logitech G Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8323){:target="_blank"} |2024 |Australia-NZ |49 |5190 | |Red Bull Ring |Wed, May 01 05:00AM EDT |Wed, May 01 10:00AM BST |Wed, May 01 07:00PM AEST |
 |[ANZ Eseries Enduro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9763){:target="_blank"} |GT3 National Championship // Season 1 |Australia-NZ |48 |4427 | |Road Atlanta |Sat, April 27 04:00AM EDT |Sat, April 27 09:00AM BST |Sat, April 27 06:00PM AEST |
 |[Sunday Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8024){:target="_blank"} |GT3 Rumble \- Season one |Australia-NZ |45 |1702 | | | | | |
 |[Aussie Outlaws GT3 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8718){:target="_blank"} |EveryThing Simulated GT3 Championship |Australia-NZ |44 |1854 | | | | | |
+|[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |NXTCC test session |Europe |44 |2521 |Fixed |Watkins Glen International |Mon, April 29 02:00PM EDT |Mon, April 29 07:00PM BST |Tue, April 30 04:00AM AEST |
 |[ChampCar iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2580){:target="_blank"} |Sprint \- ChampCar iRacing Series '24 |North America |43 |1892 |Fixed | | | | |
 |[SCOPS SUPPORTS 2024 \- GTC](https://members.iracing.com/membersite/member/LeagueView.do?league=10712){:target="_blank"} |GTC 2024 |Australia-NZ |43 |2651 | | | | | |
 |[ARL GT3 Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=6437){:target="_blank"} |Season 7 |Europe |41 |3457 | | | | | |
-|[GHD Ü40 CUP Saison 2](https://members.iracing.com/membersite/member/LeagueView.do?league=9049){:target="_blank"} |GHD Ü40 CUP Saison 4 |Europe |40 |2302 |Open | | | | |
 |[American Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=36){:target="_blank"} |2024 Wednesday SportsCar Championship Spring \- Season 4 |North America |39 |1803 |Fixed |Indianapolis Motor Speedway |Wed, May 01 07:30PM EDT |Thu, May 02 12:30AM BST |Thu, May 02 09:30AM AEST |
 |[ChampCar iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2580){:target="_blank"} |Practice Sessions '24 |North America |39 |1974 |Fixed | | | | |
+|[GHD Ü40 CUP Saison 2](https://members.iracing.com/membersite/member/LeagueView.do?league=9049){:target="_blank"} |GHD Ü40 CUP Saison 4 |Europe |39 |2343 |Open | | | | |
 |[ORNL 500](https://members.iracing.com/membersite/member/LeagueView.do?league=9724){:target="_blank"} |Porsche ORNL CarreraCup \- North America |Europe |39 |2166 | |Watkins Glen International |Wed, May 01 02:00PM EDT |Wed, May 01 07:00PM BST |Thu, May 02 04:00AM AEST |
 |[Event by Taytous "GT"](https://members.iracing.com/membersite/member/LeagueView.do?league=7530){:target="_blank"} |2024 |Europe |38 |2222 |Open | | | | |
 |[SCOPS SUPPORTS 2024 \- VEE\-Eights](https://members.iracing.com/membersite/member/LeagueView.do?league=10713){:target="_blank"} |VEE Eights 2024 |Australia-NZ |38 |2133 | | | | | |
@@ -163,7 +163,7 @@
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) S2 |Australia-NZ |32 |1764 |Open | | | | |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 13 \- BMW |International |31 |2036 | |Sebring International Raceway |Mon, April 29 01:30AM EDT |Mon, April 29 06:30AM BST |Mon, April 29 03:30PM AEST |
 |[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |2024 Porsche Carrera Cup Season 1 |Australia-NZ |31 |2612 | | | | | |
-|[PREMIER ENDURANCE LEAGUE \- GT4 AUSTRALIA](https://members.iracing.com/membersite/member/LeagueView.do?league=10553){:target="_blank"} |The Gamer Gear Direct Australian GT4 Championship |Australia-NZ |28 |1990 | |Mobility Resort Motegi |Fri, April 26 06:00AM EDT |Fri, April 26 11:00AM BST |Fri, April 26 08:00PM AEST |
+|[PREMIER ENDURANCE LEAGUE \- GT4 AUSTRALIA](https://members.iracing.com/membersite/member/LeagueView.do?league=10553){:target="_blank"} |The Gamer Gear Direct Australian GT4 Championship |Australia-NZ |30 |1990 | |Mobility Resort Motegi |Sun, April 28 05:00AM EDT |Sun, April 28 10:00AM BST |Sun, April 28 07:00PM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024B Production Car Chalenge |Australia-NZ |28 |2246 |Both | | | | |
 |[PROGNIS Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8197){:target="_blank"} |PROGNIS Cup 24s1 |Europe |27 |3064 |Fixed | | | | |
 |[ADAC SimRacing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5827){:target="_blank"} |GT3 Cup |Europe |26 |3518 | | | | | |
@@ -177,11 +177,10 @@
 |[Porsche TAG HEUER Esports Supercup All\-Star Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6129){:target="_blank"} |2024 PESC All\-Star Series |Europe |20 |4623 | | | | | |
 |[Southern Cross E\-Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=7490){:target="_blank"} |RaceKraft Simulations Summer Elantra Championship 2023/24 |Australia-NZ |19 |2764 | | | | | |
 |[ADAC SimRacing Cup \- Clubsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10120){:target="_blank"} |2024 |Europe |18 |1708 | | | | | |
+|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |PATCO 2024 Season 2 |North America |18 |1709 |Both |Rudskogen Motorsenter |Fri, May 03 10:15PM EDT |Sat, May 04 03:15AM BST |Sat, May 04 12:15PM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |OnlySends I \- 2024 |North America |17 |1555 |Fixed | | | | |
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |GT3 Challenge |North America |16 |894 | |WeatherTech Raceway at Laguna Seca |Thu, May 02 07:00PM EDT |Fri, May 03 12:00AM BST |Fri, May 03 09:00AM AEST |
-|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |PATCO 2024 Season 2 |North America |16 |1721 |Both |Circuit de Lédenon |Fri, April 26 10:15PM EDT |Sat, April 27 03:15AM BST |Sat, April 27 12:15PM AEST |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |MX\-5 Series Season 3 |North America |15 |1455 |Fixed |Virginia International Raceway |Mon, April 29 08:30PM EDT |Tue, April 30 01:30AM BST |Tue, April 30 10:30AM AEST |
-|[VRX \- World Cup Series Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=9892){:target="_blank"} |VRX Endurance Series |North America |15 |1016 |Fixed | | | | |
 |[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |SIMRIGS TOP 10 SHOOT OUT V8 AMS |Australia-NZ |15 |1945 |Open |Red Bull Ring |Tue, April 30 05:15AM EDT |Tue, April 30 10:15AM BST |Tue, April 30 07:15PM AEST |
 |[RaceCommunity\.nl \- Seizoen \#1 \- 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10415){:target="_blank"} |RCNL \- Seizoen \#2 |Europe |14 |1876 | |Long Beach Street Circuit |Wed, May 01 12:59PM EDT |Wed, May 01 05:59PM BST |Thu, May 02 02:59AM AEST |
 |[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |2024\-03 \| 1° Stagione |Europe |13 |1702 | | | | | |
@@ -201,14 +200,14 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
-|[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |GT3 National Championship / Pre Qualifying |Australia-NZ |85 |None |Fixed | | | | |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S19 \- Sunday \- GT3 |North America |84 |2058 |Both |Autodromo Internazionale del Mugello |Sun, April 28 07:00PM EDT |Mon, April 29 12:00AM BST |Mon, April 29 09:00AM AEST |
 |[RPM European GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7826){:target="_blank"} |RPM GT3 Season10 |Europe |83 |2208 |Open |Sebring International Raceway |Tue, April 30 02:00PM EDT |Tue, April 30 07:00PM BST |Wed, May 01 04:00AM AEST |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR Thursday GT3 |North America |79 |2122 |Open |Circuit de Spa-Francorchamps |Thu, May 02 10:45PM EDT |Fri, May 03 03:45AM BST |Fri, May 03 12:45PM AEST |
+|[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |GT3 National Championship / Pre Qualifying |Australia-NZ |76 |None |Fixed | | | | |
 |[Ligue de France](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |Manche 3 \- Mars \- Sebring |Europe |75 |2795 |Open | | | | |
-|[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |GT3 National Championship / Free Practice |Australia-NZ |69 |None |Fixed | | | | |
 |[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS 5 Onsdags Træning |Europe |68 |None | |Sebring International Raceway |Wed, May 01 01:00PM EDT |Wed, May 01 06:00PM BST |Thu, May 02 03:00AM AEST |
 |[OMEC: Osborne Motors Endurance Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9139){:target="_blank"} |OMEC \- Season 6 |North America |68 |1842 | |Circuit de Spa-Francorchamps |Tue, April 30 07:30PM EDT |Wed, May 01 12:30AM BST |Wed, May 01 09:30AM AEST |
+|[ANZ Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=9218){:target="_blank"} |GT3 National Championship / Free Practice |Australia-NZ |60 |None |Fixed | | | | |
 |[Aspire Racing Team \- League](https://members.iracing.com/membersite/member/LeagueView.do?league=10173){:target="_blank"} |ART GT3 SERIES IN PARTNERSHIP WITH INGEAR MOTORSPORT \- SEASON 4 |Europe |57 |1981 |Open | | | | |
 |[Ligue de France](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |Manche 2 \- Février \- Bathurst |Europe |57 |2865 |Open | | | | |
 |[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS S5 Server 2 |Europe |55 |1686 | |Sebring International Raceway |Thu, May 02 12:15PM EDT |Thu, May 02 05:15PM BST |Fri, May 03 02:15AM AEST |
@@ -222,7 +221,7 @@
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |CAMPEONATO GT3 SESSION 2 |North America |41 |1998 |Fixed |Mobility Resort Motegi |Mon, April 29 10:00PM EDT |Tue, April 30 03:00AM BST |Tue, April 30 12:00PM AEST |
 |[Apex Racing Québec](https://members.iracing.com/membersite/member/LeagueView.do?league=10679){:target="_blank"} |Serie GT3 2024 |North America |39 |1612 |Fixed |Circuit Zandvoort |Mon, April 29 07:30PM EDT |Tue, April 30 12:30AM BST |Tue, April 30 09:30AM AEST |
 |[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2024 SPRING \- SERIES II |North America |37 |1850 | | | | | |
-|[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2024 TESTING & PRACTICE |North America |36 |None | | | | | |
+|[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2024 TESTING & PRACTICE |North America |36 |None | |Circuit de Spa-Francorchamps |Sat, April 27 07:15PM EDT |Sun, April 28 12:15AM BST |Sun, April 28 09:15AM AEST |
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T2 |South America |30 |2493 | |Autodromo Internazionale del Mugello |Tue, April 30 06:30PM EDT |Tue, April 30 11:30PM BST |Wed, May 01 08:30AM AEST |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2024\-S2 GT3 |North America |29 |1759 |Both |Red Bull Ring |Thu, May 02 08:00PM EDT |Fri, May 03 01:00AM BST |Fri, May 03 10:00AM AEST |
 |[GoRacing Sim League IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8712){:target="_blank"} |2024 Season 2 |North America |28 |1518 | |Suzuka International Racing Course |Thu, May 02 07:30PM EDT |Fri, May 03 12:30AM BST |Fri, May 03 09:30AM AEST |
@@ -230,10 +229,10 @@
 |[F1 Friends Cup Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 4 |Europe |26 |2505 |Fixed |Red Bull Ring |Thu, May 02 01:55PM EDT |Thu, May 02 06:55PM BST |Fri, May 03 03:55AM AEST |
 |[LMS Liga Mexicana de Simracing 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10827){:target="_blank"} |LMS DIVISION PRO |North America |24 |2319 | | | | | |
 |[GT3 for not so serious](https://members.iracing.com/membersite/member/LeagueView.do?league=3953){:target="_blank"} |2024 Season 2 |North America |22 |1887 | |Sebring International Raceway |Sun, April 28 10:45AM EDT |Sun, April 28 03:45PM BST |Mon, April 29 12:45AM AEST |
-|[USRA Porsche GT3 R Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8692){:target="_blank"} |USRA GT3 Series Presented by Sim Speed Shop |North America |22 |1436 |Open |Brands Hatch Circuit |Fri, April 26 10:00PM EDT |Sat, April 27 03:00AM BST |Sat, April 27 12:00PM AEST |
+|[USRA Porsche GT3 R Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8692){:target="_blank"} |USRA GT3 Series Presented by Sim Speed Shop |North America |22 |1459 |Open |Circuit des 24 Heures du Mans |Fri, May 03 10:00PM EDT |Sat, May 04 03:00AM BST |Sat, May 04 12:00PM AEST |
 |[Coast2Coast Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=4598){:target="_blank"} |GT3 |North America |22 |1071 | |Winton Motor Raceway |Sun, April 28 08:00PM EDT |Mon, April 29 01:00AM BST |Mon, April 29 10:00AM AEST |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |20 |1645 | | | | | |
-|[LMS Liga Mexicana de Simracing 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10827){:target="_blank"} |LMS DIVISION 2 CHALLENGERS |North America |18 |1192 | | | | | |
+|[LMS Liga Mexicana de Simracing 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10827){:target="_blank"} |LMS DIVISION 2 CHALLENGERS |North America |19 |1204 | | | | | |
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |PRACTICA SEGUNDA SESION |North America |17 |1845 |Fixed |Mobility Resort Motegi |Sat, April 27 08:00PM EDT |Sun, April 28 01:00AM BST |Sun, April 28 10:00AM AEST |
 |[WGTC \(World GT Championship\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2193){:target="_blank"} |WGTC Test |Europe |16 |3947 |Open | | | | |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2024S2 Session 2 |North America |14 |1733 | |Circuit de Spa-Francorchamps |Mon, April 29 09:05PM EDT |Tue, April 30 02:05AM BST |Tue, April 30 11:05AM AEST |
@@ -253,8 +252,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Spring Tour SM |North America |28 |2284 |Open | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
+|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Spring Tour SM |North America |28 |2284 |Open |New Hampshire Motor Speedway |Tue, April 30 08:25AM EDT |Tue, April 30 01:25PM BST |Tue, April 30 10:25PM AEST |
 
 ### Mazda MX-5 Cup 2016
 
@@ -268,23 +267,22 @@
 |[Porsche Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S2 MX5 Cup Challenge |North America |39 |1666 |Both |Virginia International Raceway |Tue, April 30 07:30PM EDT |Wed, May 01 12:30AM BST |Wed, May 01 09:30AM AEST |
 |[Spec\-5 World Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=3784){:target="_blank"} |Spec\-5 World Tour Season 15 |North America |38 |2964 |Fixed | | | | |
 |[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |DIVISION ONE MX5WSS 2024 |Europe |33 |4215 |Fixed | | | | |
-|[OGRL Tuesday MX\-5 Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=10221){:target="_blank"} |Season 2 2024 |North America |33 |1352 | | | | | |
 |[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |CLUB CUP MX5WSS 2024 |Europe |32 |1457 |Fixed |Circuit de Lédenon |Sun, April 28 03:30PM EDT |Sun, April 28 08:30PM BST |Mon, April 29 05:30AM AEST |
 |[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |DIVISION TWO MX5WSS 2024 |Europe |31 |1812 |Fixed | | | | |
-|[cmsracing\.com special events](https://members.iracing.com/membersite/member/LeagueView.do?league=3065){:target="_blank"} |Mazda MX5 Championship and DDP Series |North America |26 |1970 |Open |Lime Rock Park |Fri, April 26 09:25PM EDT |Sat, April 27 02:25AM BST |Sat, April 27 11:25AM AEST |
+|[OGRL Tuesday MX\-5 Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=10221){:target="_blank"} |Season 2 2024 |North America |29 |1355 | | | | | |
+|[cmsracing\.com special events](https://members.iracing.com/membersite/member/LeagueView.do?league=3065){:target="_blank"} |Mazda MX5 Championship and DDP Series |North America |26 |1999 |Open |Daytona International Speedway |Fri, May 03 09:25PM EDT |Sat, May 04 02:25AM BST |Sat, May 04 11:25AM AEST |
 |[DIGITRAQZ Challenge \- Mazda MX5 Benelux](https://members.iracing.com/membersite/member/LeagueView.do?league=10593){:target="_blank"} |MAZDA MX5 BENELUX CHAMPIONSHIP 2024 |Europe |26 |2142 | | | | | |
 |[OVAL\-UTION / Évenements Spéciaux](https://members.iracing.com/membersite/member/LeagueView.do?league=10851){:target="_blank"} |Évenements Spéciaux Saison Printemps / Été 2024 |North America |25 |1371 | | | | | |
-|[Sidewinder Legends Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6934){:target="_blank"} |MX\-5 Cup Season 1 |North America |23 |1315 |Fixed | | | | |
+|[Sidewinder Legends Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6934){:target="_blank"} |MX\-5 Cup Season 1 |North America |24 |1320 |Fixed | | | | |
 |[BRLx](https://members.iracing.com/membersite/member/LeagueView.do?league=960){:target="_blank"} |Sportsman MS S01 |North America |22 |1262 |Fixed |Kevin Harvick's Kern Raceway |Sat, April 27 07:00PM EDT |Sun, April 28 12:00AM BST |Sun, April 28 09:00AM AEST |
 |[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |MAZDA CUP Season 13 \(2024\) |North America |20 |1794 |Fixed |Summit Point Raceway |Tue, April 30 09:30PM EDT |Wed, May 01 02:30AM BST |Wed, May 01 11:30AM AEST |
 |[Slingshot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8509){:target="_blank"} |Spring Classic: MX5 on 5 Series |North America |18 |1614 | | | | | |
 |[Championnat JCL Simulators](https://members.iracing.com/membersite/member/LeagueView.do?league=10855){:target="_blank"} |Championnat JCL Mx\-5 Cup 2024 |Europe |17 |2292 | | | | | |
 |[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2024 S2 Mazda MX\-5 \(Sun 7:30pm\) |North America |17 |1324 |Fixed |WeatherTech Raceway at Laguna Seca |Sun, April 28 07:30PM EDT |Mon, April 29 12:30AM BST |Mon, April 29 09:30AM AEST |
 |[UK SimRacing Community \- MX5 League Season 4](https://members.iracing.com/membersite/member/LeagueView.do?league=7891){:target="_blank"} |UKSR MX5 Season 6 |Europe |17 |2698 | |Oran Park Raceway |Wed, May 01 02:10PM EDT |Wed, May 01 07:10PM BST |Thu, May 02 04:10AM AEST |
-|[Short Racing MX5](https://members.iracing.com/membersite/member/LeagueView.do?league=10736){:target="_blank"} |MX5 |Europe |16 |1736 | |Lime Rock Park |Fri, April 26 03:00PM EDT |Fri, April 26 08:00PM BST |Sat, April 27 05:00AM AEST |
-|[AutoRacingConnected American Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9856){:target="_blank"} |2024\-A ARC IMB Racewear MX\-5 Cup |North America |15 |1429 |Fixed | | | | |
-|[Kart Canada iRacing League \(KARTPLEX\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter Season 2024 |North America |15 |1687 |Fixed | | | | |
+|[Short Racing MX5](https://members.iracing.com/membersite/member/LeagueView.do?league=10736){:target="_blank"} |MX5 |Europe |16 |1736 | | | | | |
 |[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |Mazda Cup |North America |15 |1605 | | | | | |
+|[AutoRacingConnected American Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9856){:target="_blank"} |2024\-A ARC IMB Racewear MX\-5 Cup |North America |12 |1407 |Fixed | | | | |
 |[BTN](https://members.iracing.com/membersite/member/LeagueView.do?league=7283){:target="_blank"} |Mazda Madness |North America |12 |1300 | | | | | |
 |[WTEC Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7058){:target="_blank"} |S12 |Europe |12 |2875 | | | | | |
 
@@ -318,7 +316,7 @@
 |[Porsche Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S8 The Americas Porsche Cup Challenge |North America |43 |2435 |Both |Mount Panorama Circuit |Thu, May 02 08:00PM EDT |Fri, May 03 01:00AM BST |Fri, May 03 10:00AM AEST |
 |[GSRC\.inc Porsche Cup \- Blackout Electrical Solutions](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2024A Porsche Cup |Australia-NZ |43 |2505 | | | | | |
 |[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |2024 Porsche Carrera Cup Season 2 |Australia-NZ |40 |2436 | | | | | |
-|[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 10 |Europe |37 |3773 | |Sebring International Raceway |Fri, April 26 01:00PM EDT |Fri, April 26 06:00PM BST |Sat, April 27 03:00AM AEST |
+|[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 10 |Europe |38 |3854 | |Mount Panorama Circuit |Thu, May 02 01:00PM EDT |Thu, May 02 06:00PM BST |Fri, May 03 03:00AM AEST |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |2024 911 Casual Cup |Europe |35 |1872 | | | | | |
 |[PROCUP / SIMRACER LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8652){:target="_blank"} |PROCUP 2024 |North America |35 |3438 | | | | | |
 |[PWA Touring Car Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9270){:target="_blank"} |Season 1 |Europe |34 |3171 |Open | | | | |
@@ -347,7 +345,7 @@
 |[PCA S10 \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Checkrides |North America |28 |1798 | | | | | |
 |[PCA \- Challenge Class](https://members.iracing.com/membersite/member/LeagueView.do?league=5372){:target="_blank"} |PCA Series 11 \- Challenge |North America |24 |972 | | | | | |
 |[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2024\-1 |North America |19 |1776 |Open |Long Beach Street Circuit |Mon, April 29 07:45PM EDT |Tue, April 30 12:45AM BST |Tue, April 30 09:45AM AEST |
-|[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2024 Practice |North America |15 |1618 |Open |Long Beach Street Circuit |Fri, April 26 08:30PM EDT |Sat, April 27 01:30AM BST |Sat, April 27 10:30AM AEST |
+|[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2024 Practice |North America |15 |1623 |Open |Long Beach Street Circuit |Sat, April 27 08:30PM EDT |Sun, April 28 01:30AM BST |Sun, April 28 10:30AM AEST |
 |[PCA S10 \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Races |North America |12 |1064 | | | | | |
 
 ### Renault Clio
@@ -364,7 +362,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------|-----------------------------------------|--------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
-|[VSR \- TCR](https://members.iracing.com/membersite/member/LeagueView.do?league=10630){:target="_blank"} |Odyssey TCR Series powered by Samsung SSD |Europe |48 |2817 | |Long Beach Street Circuit |Fri, April 26 01:00PM EDT |Fri, April 26 06:00PM BST |Sat, April 27 03:00AM AEST |
+|[VSR \- TCR](https://members.iracing.com/membersite/member/LeagueView.do?league=10630){:target="_blank"} |Odyssey TCR Series powered by Samsung SSD |Europe |48 |2817 | |Long Beach Street Circuit |Sat, April 27 01:00PM EDT |Sat, April 27 06:00PM BST |Sun, April 28 03:00AM AEST |
 
 ### Supercars - 2019
 
@@ -376,7 +374,6 @@
 |[SuperCars NZ V8 Championship season 1 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |V8 MONDAYS |Australia-NZ |42 |1516 | |Red Bull Ring |Mon, April 29 03:00AM EDT |Mon, April 29 08:00AM BST |Mon, April 29 05:00PM AEST |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing \- V8 Champions Challenge S1 2024 |Australia-NZ |35 |1395 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday Night season 6 |Australia-NZ |31 |1249 | | | | | |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday Night season 5 |Australia-NZ |14 |1236 | | | | | |
 
 ### Touring Car
 
@@ -387,12 +384,12 @@
 |[TOURING CAR YOMEL / SIMRACER LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8011){:target="_blank"} |TOURING CAR YOMEL 2024 |North America |71 |2958 |Fixed | | | | |
 |[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC S11 |North America |41 |2386 |Open |Knockhill Racing Circuit |Mon, April 29 06:45PM EDT |Mon, April 29 11:45PM BST |Tue, April 30 08:45AM AEST |
 |[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC 10 |North America |38 |2566 |Open | | | | |
-|[SRL Community GR86 League](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |Season 7 |Europe |37 |2648 |Fixed |Mid-Ohio Sports Car Course |Fri, April 26 03:20PM EDT |Fri, April 26 08:20PM BST |Sat, April 27 05:20AM AEST |
+|[SRL Community GR86 League](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |Season 7 |Europe |37 |2732 |Fixed | | | | |
 |[Red Ken Touring Car Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10691){:target="_blank"} |RKTCC \- Season 1 |Europe |36 |1978 |Fixed | | | | |
 |[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Seletiva |South America |36 |None | | | | | |
-|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |TCR Russia Cup 2024 |Europe |33 |2265 |Both | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Sprint Season 1 \- TCR |Europe |30 |1976 |Both | | | | |
 |[TCR Series by EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |ETCR Challenge S09 |North America |30 |1793 |Fixed | | | | |
+|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |TCR Russia Cup 2024 |Europe |28 |2265 |Both | | | | |
 |[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |2024/2 |South America |27 |2750 | | | | | |
 |[SRL Community GR86 League](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |Season 7 Practice |Europe |27 |None |Fixed |Detroit Grand Prix at Belle Isle |Thu, May 02 03:00PM EDT |Thu, May 02 08:00PM BST |Fri, May 03 05:00AM AEST |
 |[ADAC SimRacing Cup \- TC Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10098){:target="_blank"} |TC Cup |Europe |24 |2046 | | | | | |
@@ -409,18 +406,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
+|[NA VS OCE \- Battle At Sandown](https://members.iracing.com/membersite/member/LeagueView.do?league=7819){:target="_blank"} |Season 2 |North America |53 |2010 |Fixed |Daytona International Speedway |Fri, May 03 08:00PM EDT |Sat, May 04 01:00AM BST |Sat, May 04 10:00AM AEST |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |S2 2024 Tempest Gr86 |Europe |52 |2824 | | | | | |
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |45 |1898 | | | | | |
 |[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |44 |2221 | |Snetterton Circuit |Tue, April 30 05:40PM EDT |Tue, April 30 10:40PM BST |Wed, May 01 07:40AM AEST |
-|[NA VS OCE \- Battle At Sandown](https://members.iracing.com/membersite/member/LeagueView.do?league=7819){:target="_blank"} |Season 2 |North America |43 |1938 |Fixed |Lime Rock Park |Fri, April 26 08:00PM EDT |Sat, April 27 01:00AM BST |Sat, April 27 10:00AM AEST |
 |[SYM TV Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3607){:target="_blank"} |2024 Toyota Gazoo Racing North America GR Cup Esports League Season |North America |43 |4000 |Fixed |Sebring International Raceway |Sat, April 27 01:00PM EDT |Sat, April 27 06:00PM BST |Sun, April 28 03:00AM AEST |
 |[MNASZ – AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10742){:target="_blank"} |MNASZ\-HUNESZ Országos iRacing Bajnokság \- AM kategória \(2024\) |Europe |42 |1855 | | | | | |
-|[Ozicar Turbo Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3760){:target="_blank"} |Season 8 \- 86's World Tour |Australia-NZ |39 |2444 | | | | | |
+|[Ozicar Turbo Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3760){:target="_blank"} |Season 8 \- 86's World Tour |Australia-NZ |39 |2444 | |Detroit Grand Prix at Belle Isle |Sat, April 27 10:00PM EDT |Sun, April 28 03:00AM BST |Sun, April 28 12:00PM AEST |
 |[OZICAR Tin Top Christmas Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5926){:target="_blank"} |2024 |Australia-NZ |34 |2322 | | | | | |
 |[Evening Hack League](https://members.iracing.com/membersite/member/LeagueView.do?league=10846){:target="_blank"} |IRACING BANDIT LEAGUE S1 |Europe |27 |2250 | | | | | |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |SEL Funrace |Europe |24 |2352 | | | | | |
-|[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 7 |North America |22 |1956 |Fixed | | | | |
+|[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 7 |North America |22 |1956 |Fixed |Watkins Glen International |Mon, April 29 08:30PM EDT |Tue, April 30 01:30AM BST |Tue, April 30 10:30AM AEST |
 |[RECART\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10758){:target="_blank"} |GR86 cup |Europe |20 |1644 | |Rudskogen Motorsenter |Wed, May 01 01:30PM EDT |Wed, May 01 06:30PM BST |Thu, May 02 03:30AM AEST |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |Fun Runs and Practice |North America |19 |None |Both | | | | |
 |[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} |DSC Toyota GR86 Cup |Europe |19 |1695 | |Red Bull Ring |Thu, May 02 12:30PM EDT |Thu, May 02 05:30PM BST |Fri, May 03 02:30AM AEST |
@@ -431,7 +428,7 @@
 |[Florida Bimmers iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10381){:target="_blank"} |FBDG iRacing Season 2 |North America |14 |1283 | | | | | |
 |[Philly SCCA](https://members.iracing.com/membersite/member/LeagueView.do?league=2619){:target="_blank"} |Winter 2023/2024 Season |North America |14 |1926 | | | | | |
 |[The Peoples Road League](https://members.iracing.com/membersite/member/LeagueView.do?league=10625){:target="_blank"} |Season 1 |North America |14 |1105 | | | | | |
-|[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |Toyota GR86 |Europe |10 |4146 | | | | | |
+|[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |Toyota GR86 |Europe |10 |4294 | | | | | |
 
 ### [Legacy] BMW Z4 GT3
 
@@ -440,14 +437,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |45 |1753 | | | | | |
-
-### [Legacy] Ferrari 488 GT3
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Ferrari Italiana |South America |12 |1593 | | | | | |
 
 ### [Legacy] V8Supercars
 

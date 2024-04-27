@@ -1,7 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[ALTHERR\_RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10944){:target="_blank"} | |smokin tire |
 |[Are burritos superior to tacos?](https://members.iracing.com/membersite/member/LeagueView.do?league=10960){:target="_blank"} | | |
 |[Ascenso XP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10986){:target="_blank"} | |Liga de ascenso XP Series Latam |
@@ -15,9 +15,14 @@
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10988){:target="_blank"} |[Discord](https://discord.gg/23sdkPyk){:target="_blank"} |Grass Roots Racing late model dirt series is just like your typical dirt track \.\.\. FAST,FUN,N BADASS race clean enjoy your time |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} | |Respectful racing, Beginner to Seasoned |
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |[Discord](https://discord.gg/Z3JBZvnu4y){:target="_blank"} |Where hard racing is held \! |
+|[Inferno team testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10995){:target="_blank"} | |testing |
 |[Jack D's League O Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=10989){:target="_blank"} | |Testing league workflow |
 |[late models](https://members.iracing.com/membersite/member/LeagueView.do?league=10964){:target="_blank"} | |have fun |
 |[Midwest Super Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10984){:target="_blank"} | |Super Late Models & UMP Mods |
+|[Monday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=10996){:target="_blank"} | |Sports Car racing |
+|[NEC Formula 4](https://members.iracing.com/membersite/member/LeagueView.do?league=10994){:target="_blank"} | |NEC Formula 4 |
+|[NEC Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=10993){:target="_blank"} | |NEC Rallycross |
+|[OGRL Monday Trans Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10968){:target="_blank"} | |Monday Night Trans Am Style Race with Late Model Stock Cars on Road Courses |
 |[Petek GP2 Team Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=10958){:target="_blank"} | | |
 |[PNW V\-Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10987){:target="_blank"} | | |
 |[Pro Mazda \- PFM \- Star Mazda](https://members.iracing.com/membersite/member/LeagueView.do?league=10977){:target="_blank"} | |A league devoted entirely to the Legacy Pro Mazda\. |
@@ -37,7 +42,6 @@
 |[Summit Open Wheel Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10976){:target="_blank"} |[Discord](https://discord.gg/6PzJrE22){:target="_blank"} |Multi\-class open\-wheel racing championship\. 3 events per season @ Bathurst, Du Mans, and Nurburgring Combined Long using the SF23, iR\-01, W12, W13, and the FW31\. |
 |[Tanner Pettit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10975){:target="_blank"} | | |
 |[TBD](https://members.iracing.com/membersite/member/LeagueView.do?league=10948){:target="_blank"} | |Trucks Sunday Nights |
-|[TeamWWF TNT/Presented by GGT Energy Solutions](https://members.iracing.com/membersite/member/LeagueView.do?league=10939){:target="_blank"} |[Discord](https://discord.gg/nQbQS5KG){:target="_blank"} |The Wings and Wheels Foundation TNT inaugral season is set to start June 20th\. This league features the MX\-5 Global car\. This series will run for 11 weeks\. The first week is an Exhibition race at The Charlotte Roval\. The rest of the season will have 6 road courses and 4 ovals\. Series is broken up with PRO and AM classes\. This league will have professional drivers from multiple series across racing\. Money and other prizes will be presented\. |
 |[Thursday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=10981){:target="_blank"} | |Short track fun |
 |[Trucking Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=10941){:target="_blank"} |[Discord](https://discord.gg/8GaG4qB8Mw){:target="_blank"} |Current gen NASCAR trucks every Thursday\. Official iRacing rules apply\. 30 minute practices, 10 min qualifier and 25% length with fixed iRacing setup each race\. Please join the discord for further rules and information\. |
 |[Wings of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} | | |
@@ -53,6 +57,5 @@
 |[Ignition Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10940){:target="_blank"} | | |
 |[Legend Track Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=10956){:target="_blank"} | | |
 |[Nascar Community Cup JPB](https://members.iracing.com/membersite/member/LeagueView.do?league=10974){:target="_blank"} | |European NASCAR League |
-|[OGRL Monday Trans Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10968){:target="_blank"} | |Monday Night Trans Am Style Race with Late Model Stock Cars on Road Courses |
 |[Race2Real](https://members.iracing.com/membersite/member/LeagueView.do?league=10967){:target="_blank"} | |Win a real experience |
 
