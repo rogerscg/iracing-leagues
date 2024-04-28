@@ -8,9 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |27 |2643 | | | | | |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |16 |1842 |Fixed | | | | |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |16 |1842 |Fixed |Long Beach Street Circuit |Sun, May 05 08:30PM EDT |Mon, May 06 01:30AM BST |Mon, May 06 10:30AM AEST |
 
 ### GTP
 
@@ -18,8 +18,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |39 |3328 | | | | | |
-|[RoushParts\.com Sunset @ Sebring](https://members.iracing.com/membersite/member/LeagueView.do?league=6614){:target="_blank"} |ROUSH Pro Series |North America |39 |3036 | | | | | |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 7 |Europe |39 |3680 | | | | | |
+|[RoushParts\.com Sunset @ Sebring](https://members.iracing.com/membersite/member/LeagueView.do?league=6614){:target="_blank"} |ROUSH Pro Series |North America |32 |2986 | | | | | |
 |[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |30 |2108 | | | | | |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Endurance |North America |12 |924 | | | | | |
 |[Slowbois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9743){:target="_blank"} |Season 5 \(Hybrid\) |North America |11 |1510 | | | | | |
@@ -43,7 +43,6 @@
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO s4 |Europe |22 |2328 |Fixed | | | | |
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 2 |North America |21 |2735 |Open | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prototype Challenge \- Season 2 |Europe |16 |2218 |Both | | | | |
-|[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |Practice Proto only |Europe |11 |2339 |Fixed | | | | |
 
 ### Ligier JS P320
 
@@ -59,11 +58,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |40 |3267 | |Autódromo José Carlos Pace |Sun, April 28 02:10PM EDT |Sun, April 28 07:10PM BST |Mon, April 29 04:10AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |29 |2482 | |Autódromo José Carlos Pace |Sun, April 28 07:30PM EDT |Mon, April 29 12:30AM BST |Mon, April 29 09:30AM AEST |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 2 |Europe |27 |2971 |Open |Canadian Tire Motorsports Park |Thu, May 02 02:15PM EDT |Thu, May 02 07:15PM BST |Fri, May 03 04:15AM AEST |
-|[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |23/24 BiS Radical Cup Canada Winter Series |North America |24 |2472 |Fixed | | | | |
 |[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |24 |None |Fixed | | | | |
 
 ### Radical SR8
@@ -73,7 +71,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|------------------------------------|-----------------------|-----------------------|------------------------|
 |[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |37 |2379 |Fixed |Autodromo Internazionale del Mugello |Thu, May 02 02:45PM EDT |Thu, May 02 07:45PM BST |Fri, May 03 04:45AM AEST |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Radical SR8 S1 2024 |North America |17 |1163 | | | | | |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Radical SR8 S1 2024 |North America |14 |1138 | | | | | |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Radical SR8 Challenge |Europe |12 |1671 |Open | | | | |
 |[The Average Racers League](https://members.iracing.com/membersite/member/LeagueView.do?league=10725){:target="_blank"} |Moist Cups |Europe |11 |2069 |Both | | | | |
 

@@ -31,5 +31,4 @@
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |4X4 Rolling Thunder \- 2024 |North America |19 |1954 |Fixed |Motorsport Arena Oschersleben |Thu, May 02 07:40PM EDT |Fri, May 03 12:40AM BST |Fri, May 03 09:40AM AEST |
 |[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusTRUX Season 2 |Australia-NZ |16 |3018 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Truck Rallye \- 2024 |North America |13 |2089 |Fixed | | | | |
-|[Mud Mule Off Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7070){:target="_blank"} |PDRL Off Road Season 1 |North America |10 |2178 | | | | | |
 
