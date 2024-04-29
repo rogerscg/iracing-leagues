@@ -91,8 +91,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|------------------|-------------------------|-------------------------|------------------------|
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |45 |1898 | | | | | |
+|--------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|------------------------|
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |45 |1898 | |Long Beach Street Circuit |Mon, May 06 05:25PM EDT |Mon, May 06 10:25PM BST |Tue, May 07 07:25AM AEST |
 |[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |44 |2221 | |Snetterton Circuit |Tue, April 30 05:40PM EDT |Tue, April 30 10:40PM BST |Wed, May 01 07:40AM AEST |
 
 ### [Legacy] BMW Z4 GT3
@@ -113,6 +113,6 @@
 |-------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |47 |2583 | |Sebring International Raceway |Mon, April 29 05:35PM EDT |Mon, April 29 10:35PM BST |Tue, April 30 07:35AM AEST |
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |41 |1746 | | | | | |
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2490 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2490 | |Circuit de Spa-Francorchamps |Mon, May 06 05:30PM EDT |Mon, May 06 10:30PM BST |Tue, May 07 07:30AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |18 |1820 | |Circuit Zandvoort |Tue, April 30 06:30PM EDT |Tue, April 30 11:30PM BST |Wed, May 01 08:30AM AEST |
 

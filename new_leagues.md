@@ -2,7 +2,7 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[ALTHERR\_RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10944){:target="_blank"} | |smokin tire |
+|[OGRL Monday Trans Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10968){:target="_blank"} | |Monday Night Trans Am Style Race with Late Model Stock Cars on Road Courses |
 |[Are burritos superior to tacos?](https://members.iracing.com/membersite/member/LeagueView.do?league=10960){:target="_blank"} | | |
 |[Ascenso XP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10986){:target="_blank"} | |Liga de ascenso XP Series Latam |
 |[Carolina Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=10969){:target="_blank"} | | |
@@ -10,6 +10,7 @@
 |[CTS Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10954){:target="_blank"} | |Beginner\intermediate league for drivers wanting to work on their racing craft without hostile judgment\. |
 |[Cypher Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10991){:target="_blank"} | |Liga para correr con los amigos de child |
 |[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} | |Full Length NASCAR Cup Series Saturday Night |
+|[FUN TOUR BY NNRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11003){:target="_blank"} |[Discord](https://discord.gg/BXEnazwmb8){:target="_blank"} |du fun avant tout mais pas que \.\.\. |
 |[Gateway Kartplex Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10962){:target="_blank"} | | |
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10988){:target="_blank"} |[Discord](https://discord.gg/23sdkPyk){:target="_blank"} |Grass Roots Racing late model dirt series is just like your typical dirt track \.\.\. FAST,FUN,N BADASS race clean enjoy your time |
 |[Gt3 Brothers](https://members.iracing.com/membersite/member/LeagueView.do?league=10997){:target="_blank"} | | |
@@ -17,17 +18,20 @@
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |[Discord](https://discord.gg/Z3JBZvnu4y){:target="_blank"} |Where hard racing is held \! |
 |[Inferno team testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10995){:target="_blank"} | |testing |
 |[Jack D's League O Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=10989){:target="_blank"} | |Testing league workflow |
+|[L\.A\. Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11004){:target="_blank"} | |Libres Argentina Media TV |
 |[late models](https://members.iracing.com/membersite/member/LeagueView.do?league=10964){:target="_blank"} | |have fun |
+|[LMS Dirt Only league](https://members.iracing.com/membersite/member/LeagueView.do?league=11005){:target="_blank"} | | |
 |[Midwest Super Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10984){:target="_blank"} | |Super Late Models & UMP Mods |
 |[Monday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=10996){:target="_blank"} | |Sports Car racing |
 |[NEC Formula 4](https://members.iracing.com/membersite/member/LeagueView.do?league=10994){:target="_blank"} | |NEC Formula 4 |
 |[NEC Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=10993){:target="_blank"} | |NEC Rallycross |
 |[NMWD Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10998){:target="_blank"} | |wattaaa |
-|[OGRL Monday Trans Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10968){:target="_blank"} | |Monday Night Trans Am Style Race with Late Model Stock Cars on Road Courses |
 |[Petek GP2 Team Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=10958){:target="_blank"} | | |
 |[PNW V\-Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10987){:target="_blank"} | | |
 |[Pro Mazda \- PFM \- Star Mazda](https://members.iracing.com/membersite/member/LeagueView.do?league=10977){:target="_blank"} | |A league devoted entirely to the Legacy Pro Mazda\. |
 |[Proton Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10951){:target="_blank"} |[Discord](https://discord.gg/WsXvUZ4Y44){:target="_blank"} |An iRacing first league, running series in NASCAR and Open Wheel cars\. |
+|[PUR Karting League](https://members.iracing.com/membersite/member/LeagueView.do?league=11007){:target="_blank"} |[Discord](https://discord.gg/znWNTjm5v3){:target="_blank"} |Outlaw Micro Sprints Non\-Winged at Short Road Courses |
+|[Quick Finishers](https://members.iracing.com/membersite/member/LeagueView.do?league=11006){:target="_blank"} | | |
 |[RFEDA FIA MG Grupo 2](https://members.iracing.com/membersite/member/LeagueView.do?league=10946){:target="_blank"} | |RFEDA \- Campeonato clasificatorio FIA MG 2024 |
 |[RLCC Québec](https://members.iracing.com/membersite/member/LeagueView.do?league=10979){:target="_blank"} | | |
 |[RuffNeck\-DIRT\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10990){:target="_blank"} |[Discord](https://discord.gg/aQ2n9fwqFB){:target="_blank"} |Ruff\-Neck\-Racing DIRT Series\! |
@@ -49,12 +53,13 @@
 |[Ave and Aso](https://members.iracing.com/membersite/member/LeagueView.do?league=10947){:target="_blank"} | |Gang |
 |[Bluegrass Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10972){:target="_blank"} | |Next Gen Cup |
 |[Bright Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=10970){:target="_blank"} | | |
-|[CAS \- Combined Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10943){:target="_blank"} | |Series with two vehicles alternating weekly\. |
 |[Coopertown](https://members.iracing.com/membersite/member/LeagueView.do?league=10950){:target="_blank"} | | |
 |[CRC Virtual Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=10980){:target="_blank"} | |Welcome to the CRC Virtual Velocity\! Join us as we push the boundaries of virtual racing, bringing together the finest drivers from across the globe for an unparalleled experience on the iRacing platform\. Whether you're a seasoned pro or a newcomer eager to test your skills, our league offers an inclusive and electrifying atmosphere where camaraderie thrives alongside fierce competition\. |
 |[Da Bois](https://members.iracing.com/membersite/member/LeagueView.do?league=10949){:target="_blank"} | | |
 |[Doug n Snoof AI Career](https://members.iracing.com/membersite/member/LeagueView.do?league=10955){:target="_blank"} | |doug n soof |
 |[Legend Track Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=10956){:target="_blank"} | | |
+|[Money Shift Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11008){:target="_blank"} | |Oval Leg of the MSSS |
 |[Nascar Community Cup JPB](https://members.iracing.com/membersite/member/LeagueView.do?league=10974){:target="_blank"} | |European NASCAR League |
 |[Race2Real](https://members.iracing.com/membersite/member/LeagueView.do?league=10967){:target="_blank"} | |Win a real experience |
+|[Tier 1 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10999){:target="_blank"} | | |
 
