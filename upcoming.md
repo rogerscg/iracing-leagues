@@ -44,8 +44,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|-------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[Internet Sim\-Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10688){:target="_blank"} |ISRA Xfinity Series |Fixed |Auto Club Speedway |Mon, April 29 08:35PM EDT |Tue, April 30 01:35AM BST |Tue, April 30 10:35AM AEST |
+|--------------------------------------------------------------------------------------------------------|--------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[XJ iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10963){:target="_blank"} |2024 Season 1A |Open |Daytona International Speedway |Wed, May 01 09:00PM EDT |Thu, May 02 02:00AM BST |Thu, May 02 11:00AM AEST |
 
 # Oval
@@ -55,8 +54,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[OGRL Monday Trans Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10968){:target="_blank"} |Trans Am Season 2 | |Sebring International Raceway |Mon, April 29 08:00PM EDT |Tue, April 30 01:00AM BST |Tue, April 30 10:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-------------------------|-------------------------|-----------------------|------------------------|
+|[OGRL Monday Trans Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10968){:target="_blank"} |Trans Am Season 2 | |Brands Hatch Circuit |Mon, May 06 08:00PM EDT |Tue, May 07 01:00AM BST |Tue, May 07 10:00AM AEST |
+|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |ACTION Late Model Series |Fixed |North Wilkesboro Speedway |Thu, May 02 07:30PM EDT |Fri, May 03 12:30AM BST |Fri, May 03 09:30AM AEST |
 |[Wisconsin Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10929){:target="_blank"} |Wisconsin Touring Series |Fixed |Five Flags Speedway |Tue, April 30 07:30PM EDT |Wed, May 01 12:30AM BST |Wed, May 01 09:30AM AEST |
 |[WSL Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} |WSL Summer Short Track 2024 | |LA Coliseum Raceway |Mon, May 06 09:00PM EDT |Tue, May 07 02:00AM BST |Tue, May 07 11:00AM AEST |
 
@@ -92,8 +92,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------------------|-----------------|-----|-----------------------------------|-----------------------|-----------------------|------------------------|
 |[League Zero \- Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season X |Fixed |Circuit de Barcelona Catalunya |Thu, May 02 08:00PM EDT |Fri, May 03 01:00AM BST |Fri, May 03 10:00AM AEST |
+|[Proton Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10951){:target="_blank"} |PRS Open Wheel S1 |Both |[Legacy] Silverstone Circuit - 2008 |Fri, May 03 08:00PM EDT |Sat, May 04 01:00AM BST |Sat, May 04 10:00AM AEST |
 
 # Sports Car
 
@@ -119,8 +120,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[VRL UK](https://members.iracing.com/membersite/member/LeagueView.do?league=9622){:target="_blank"} |FTR GT3 World Series |Open |Circuit de Spa-Francorchamps |Mon, April 29 01:00PM EDT |Mon, April 29 06:00PM BST |Tue, April 30 03:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[Ligue de France](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |Manche 4 \- Mai \- Nurburgring |Open |Nürburgring Grand-Prix-Strecke |Wed, May 01 12:00PM EDT |Wed, May 01 05:00PM BST |Thu, May 02 02:00AM AEST |
 
 ### Mazda MX-5 Cup
@@ -131,14 +131,6 @@
 |-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----|------------------------------|-------------------------|-----------------------|------------------------|
 |[FSS eSports iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8845){:target="_blank"} |2024 Spec Miata Season 2 \- 4/30/24 TO 7/9/24 \(10 WEEKS\) |Both |Virginia International Raceway |Tue, April 30 07:00PM EDT |Wed, May 01 12:00AM BST |Wed, May 01 09:00AM AEST |
 
-### Porsche 911 GT3 Cup (992)
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|----------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |Porsche SuperCup | |Rudskogen Motorsenter |Mon, April 29 10:00PM EDT |Tue, April 30 03:00AM BST |Tue, April 30 12:00PM AEST |
-
 ### Porsche 911 GT3 R (992)
 
 [Back to Top](#)  
@@ -147,13 +139,20 @@
 |---------------------------------------------------------------------------------------------------------|------------------------|-----|-------------|-----------------------|-----------------------|------------------------|
 |[GTChampions](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |GTC Porsche EuroCup 2024 |Fixed |Red Bull Ring |Sat, May 04 11:00AM EDT |Sat, May 04 04:00PM BST |Sun, May 05 01:00AM AEST |
 
+### Touring Car
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------|--------------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Temporada 2024 | |WeatherTech Raceway at Laguna Seca |Wed, May 01 05:00PM EDT |Wed, May 01 10:00PM BST |Thu, May 02 07:00AM AEST |
+
 ### Toyota GR86
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[KCERacing](https://members.iracing.com/membersite/member/LeagueView.do?league=7607){:target="_blank"} |KCERacing Road Series GR86 Season 1 |Fixed |Daytona International Speedway |Mon, April 29 08:00PM EDT |Tue, April 30 01:00AM BST |Tue, April 30 10:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------------------|---------------|-----|---------------------|-----------------------|-----------------------|------------------------|
 |[TANSO RACING GROUP SUBSCRIPTION EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10654){:target="_blank"} |AQUA TWIST GR86 | |Rudskogen Motorsenter |Sun, May 05 03:00PM EDT |Sun, May 05 08:00PM BST |Mon, May 06 05:00AM AEST |
 
 # Prototype
@@ -184,15 +183,13 @@
 |--------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----|------------------------------------|-----------------------|-----------------------|------------------------|
 |[NASTS\- North American Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5281){:target="_blank"} |NASTS Mighty Micros |Fixed |Federated Auto Parts Raceway at I-55 |Mon, May 06 09:15PM EDT |Tue, May 07 02:15AM BST |Tue, May 07 11:15AM AEST |
 
-# Rallycross
-
-### Rallycross
+### Dirt SprintCar - 360
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
-|[Battle Scarred Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10456){:target="_blank"} |2024 BSM Time Attack | |Mount Washington Hillclimb |Mon, April 29 06:00PM EDT |Mon, April 29 11:00PM BST |Tue, April 30 08:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|---------------------------|-------------------------|-------------------------|--------------------------|
+|[OAS IRACING DIRT LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10680){:target="_blank"} |OAS 2024 Sprints and Big Blocks | |The Dirt Track at Charlotte |Tue, April 30 05:30AM EDT |Tue, April 30 10:30AM BST |Tue, April 30 07:30PM AEST |
 
 # Multi-class/Unclassified
 
