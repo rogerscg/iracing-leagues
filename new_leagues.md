@@ -7,12 +7,11 @@
 |[Ascenso XP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10986){:target="_blank"} | |Liga de ascenso XP Series Latam |
 |[Carolina Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=10969){:target="_blank"} | | |
 |[Ceeyen Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10965){:target="_blank"} |[Discord](https://discord.gg/rDq2QbyHZY){:target="_blank"} |Just a group of chilled people\. Clean racing, Discord Community  Check Discord link |
-|[CTS Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10954){:target="_blank"} | |Beginner\intermediate league for drivers wanting to work on their racing craft without hostile judgment\. |
 |[Cypher Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10991){:target="_blank"} | |Liga para correr con los amigos de child |
-|[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} | |Full Length NASCAR Cup Series Saturday Night |
 |[FUN TOUR BY NNRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11003){:target="_blank"} |[Discord](https://discord.gg/BXEnazwmb8){:target="_blank"} |du fun avant tout mais pas que \.\.\. |
 |[Gateway Kartplex Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10962){:target="_blank"} | | |
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10988){:target="_blank"} |[Discord](https://discord.gg/23sdkPyk){:target="_blank"} |Grass Roots Racing late model dirt series is just like your typical dirt track \.\.\. FAST,FUN,N BADASS race clean enjoy your time |
+|[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11012){:target="_blank"} | |This is a friendly GT4 League\. We race Tuesdays at 7:15 PM |
 |[Gt3 Brothers](https://members.iracing.com/membersite/member/LeagueView.do?league=10997){:target="_blank"} | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} | |Respectful racing, Beginner to Seasoned |
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |[Discord](https://discord.gg/Z3JBZvnu4y){:target="_blank"} |Where hard racing is held \! |
@@ -30,12 +29,10 @@
 |[Petek GP2 Team Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=10958){:target="_blank"} | | |
 |[PNW V\-Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10987){:target="_blank"} | | |
 |[Pro Mazda \- PFM \- Star Mazda](https://members.iracing.com/membersite/member/LeagueView.do?league=10977){:target="_blank"} | |A league devoted entirely to the Legacy Pro Mazda\. |
-|[Proton Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10951){:target="_blank"} |[Discord](https://discord.gg/WsXvUZ4Y44){:target="_blank"} |An iRacing first league, running series in NASCAR and Open Wheel cars\. |
 |[PUR Karting League](https://members.iracing.com/membersite/member/LeagueView.do?league=11007){:target="_blank"} |[Discord](https://discord.gg/znWNTjm5v3){:target="_blank"} |Outlaw Micro Sprints Non\-Winged at Short Road Courses |
 |[Quick Finishers](https://members.iracing.com/membersite/member/LeagueView.do?league=11006){:target="_blank"} | | |
 |[RLCC Québec](https://members.iracing.com/membersite/member/LeagueView.do?league=10979){:target="_blank"} | | |
 |[RuffNeck\-DIRT\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10990){:target="_blank"} |[Discord](https://discord.gg/aQ2n9fwqFB){:target="_blank"} |Ruff\-Neck\-Racing DIRT Series\! |
-|[Rusty IndyCar League](https://members.iracing.com/membersite/member/LeagueView.do?league=10953){:target="_blank"} | |A Fun environment with people who love racing road\. We are a newer league and we will be running the newest indycar on for now nothing but road courses and will follow the F1 points system\. If the league continues to grow it is a thought that we will try to follow the F1 schedule as close as possible or we could follow the indy schedule but we are in our first season so this is just a learning curve at this point\. come on out and have fun racing in a fair and competitive environment\. |
 |[Salsa Roja](https://members.iracing.com/membersite/member/LeagueView.do?league=10961){:target="_blank"} | | |
 |[Scarlet Vause Strong 125](https://members.iracing.com/membersite/member/LeagueView.do?league=10978){:target="_blank"} | | |
 |[Screen To Speed Test](https://members.iracing.com/membersite/member/LeagueView.do?league=10966){:target="_blank"} | |Test |
@@ -48,14 +45,13 @@
 |[Tanner Pettit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10975){:target="_blank"} | | |
 |[Team53 Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=11010){:target="_blank"} |[Discord](https://discord.gg/44ZD5Kbkhk.){:target="_blank"} |We offer both a Pro Late Model, GT3, and Pro 2 Lite League\. All leagues will be free entry\. |
 |[Thursday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=10981){:target="_blank"} | |Short track fun |
+|[Trying not to Crash](https://members.iracing.com/membersite/member/LeagueView.do?league=11013){:target="_blank"} | | |
 |[Wings of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} | | |
 |[XJ iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10963){:target="_blank"} |[Discord](https://discord.gg/B9YrZTh8){:target="_blank"} |Clean, competitive, fun Nascar Xfinity Series racing |
 |[Bluegrass Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10972){:target="_blank"} | |Next Gen Cup |
 |[Bright Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=10970){:target="_blank"} | | |
 |[CRC Virtual Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=10980){:target="_blank"} | |Welcome to the CRC Virtual Velocity\! Join us as we push the boundaries of virtual racing, bringing together the finest drivers from across the globe for an unparalleled experience on the iRacing platform\. Whether you're a seasoned pro or a newcomer eager to test your skills, our league offers an inclusive and electrifying atmosphere where camaraderie thrives alongside fierce competition\. |
-|[Doug n Snoof AI Career](https://members.iracing.com/membersite/member/LeagueView.do?league=10955){:target="_blank"} | |doug n soof |
 |[Fantasy Nascar](https://members.iracing.com/membersite/member/LeagueView.do?league=11011){:target="_blank"} | | |
-|[Legend Track Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=10956){:target="_blank"} | | |
 |[Money Shift Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11008){:target="_blank"} | |Oval Leg of the MSSS |
 |[Nascar Community Cup JPB](https://members.iracing.com/membersite/member/LeagueView.do?league=10974){:target="_blank"} | |European NASCAR League |
 |[Race2Real](https://members.iracing.com/membersite/member/LeagueView.do?league=10967){:target="_blank"} | |Win a real experience |
