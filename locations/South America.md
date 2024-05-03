@@ -55,9 +55,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|-----------------------|-----------------------|------------------------|
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/2 |South America |56 |1894 | |Red Bull Ring |Thu, May 02 05:25PM EDT |Thu, May 02 10:25PM BST |Fri, May 03 07:25AM AEST |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/2 |South America |49 |3638 | |Red Bull Ring |Thu, May 02 07:25PM EDT |Fri, May 03 12:25AM BST |Fri, May 03 09:25AM AEST |
+|------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/2 |South America |56 |1905 | | | | | |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/2 |South America |49 |3662 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |TEMPORADA 1 2024 \- GT3 |South America |30 |2003 | | | | | |
 
 ### IMSA23
@@ -102,7 +102,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |45 |1753 | | | | | |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |43 |1765 | | | | | |
 
 # Multi-class/Unclassified
 

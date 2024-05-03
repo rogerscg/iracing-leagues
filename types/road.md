@@ -27,6 +27,6 @@
 |[Discord Iracing Championship Kup](https://members.iracing.com/membersite/member/LeagueView.do?league=10797){:target="_blank"} |Every Season Starts at DICKs SRX 1 |North America |13 |4638 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Superslow Racing Experience \- 2024 |North America |13 |1615 |Fixed | | | | |
 |[STSL SRX Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10816){:target="_blank"} |STSL SRX Season 0 |North America |12 |2179 |Fixed | | | | |
-|[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |SRX\- |North America |11 |1760 |Both |Stafford Motor Speedway |Thu, May 02 08:30PM EDT |Fri, May 03 01:30AM BST |Fri, May 03 10:30AM AEST |
+|[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |SRX\- |North America |11 |1760 |Both |Limaland Motorsports Park |Thu, May 09 08:30PM EDT |Fri, May 10 01:30AM BST |Fri, May 10 10:30AM AEST |
 |[OG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6203){:target="_blank"} |SRX Count Down |North America |11 |1898 |Fixed | | | | |
 
