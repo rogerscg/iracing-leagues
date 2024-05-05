@@ -1,14 +1,15 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[AOLL Special Events League](https://members.iracing.com/membersite/member/LeagueView.do?league=11019){:target="_blank"} | |League designated for Aoll's Special Events |
 |[Ascenso XP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10986){:target="_blank"} | |Liga de ascenso XP Series Latam |
+|[Buttcrack Motorsports 2K Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11020){:target="_blank"} | |100% race length Truck Series for drivers with less than a 2k iRating\. |
 |[Cypher Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10991){:target="_blank"} | |Liga para correr con los amigos de child |
 |[FUN TOUR BY NNRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11003){:target="_blank"} |[Discord](https://discord.gg/BXEnazwmb8){:target="_blank"} |du fun avant tout mais pas que \.\.\. |
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10988){:target="_blank"} |[Discord](https://discord.gg/23sdkPyk){:target="_blank"} |Grass Roots Racing late model dirt series is just like your typical dirt track \.\.\. FAST,FUN,N BADASS race clean enjoy your time |
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11012){:target="_blank"} | |This is a friendly GT4 League\. We race Tuesdays at 7:15 PM |
 |[Gt3 Brothers](https://members.iracing.com/membersite/member/LeagueView.do?league=10997){:target="_blank"} | | |
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} | |Respectful racing, Beginner to Seasoned |
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |[Discord](https://discord.gg/Z3JBZvnu4y){:target="_blank"} |Where hard racing is held \! |
 |[Icrash](https://members.iracing.com/membersite/member/LeagueView.do?league=11018){:target="_blank"} | |Drive Fast Eat Yanno and Try not to Crash |
 |[Inferno team testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10995){:target="_blank"} | |testing |
@@ -32,21 +33,20 @@
 |[Sector 1 Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10982){:target="_blank"} | |Founded on the Gran Turismo platform in 2020 and becoming one of Australia's biggest sim racing leagues on Playstation, Sector 1 \(S1\) is brought to you by a team of passionate racing fans to create one of Australia and New Zealand's premier sim racing leagues\. The aim for S1 is to be THE BEST SIM RACING CHAMPIONSHIP EXPERIENCE across Australia and New Zealand: by creating a community that is easy going and respectful, together with the inclusion of established sim racing teams and some of the fastest racers this side of the equator competing for top honors\. Of course, all this is professionally presented and commentated, LIVE weekly on YouTube\! |
 |[SHN PCA](https://members.iracing.com/membersite/member/LeagueView.do?league=10985){:target="_blank"} | |The Shenandoah Region of the Porsche Club of America \(PCA\) |
 |[Speedway Junkies](https://members.iracing.com/membersite/member/LeagueView.do?league=10973){:target="_blank"} | |New Gen & Truck Racing League |
+|[Spring Madness Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11021){:target="_blank"} | | |
 |[Summit Open Wheel Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10976){:target="_blank"} |[Discord](https://discord.gg/6PzJrE22){:target="_blank"} |Multi\-class open\-wheel racing championship\. 3 events per season @ Bathurst, Du Mans, and Nurburgring Combined Long using the SF23, iR\-01, W12, W13, and the FW31\. |
 |[Tachycardia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11017){:target="_blank"} | | |
 |[Tanner Pettit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10975){:target="_blank"} | | |
 |[Team53 Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=11010){:target="_blank"} |[Discord](https://discord.gg/44ZD5Kbkhk.){:target="_blank"} |We offer both a Pro Late Model, GT3, and Pro 2 Lite League\. All leagues will be free entry\. |
 |[TexSEF Undisputed Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11014){:target="_blank"} | |Championship for TexSEF 2024 |
 |[Thursday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=10981){:target="_blank"} | |Short track fun |
+|[Tier 1 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10999){:target="_blank"} | | |
 |[Trying not to Crash](https://members.iracing.com/membersite/member/LeagueView.do?league=11013){:target="_blank"} | | |
 |[Wings of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} | | |
-|[AOLL Special Events League](https://members.iracing.com/membersite/member/LeagueView.do?league=11019){:target="_blank"} | |League designated for Aoll's Special Events |
 |[AZR Motorsport Performance Center](https://members.iracing.com/membersite/member/LeagueView.do?league=11016){:target="_blank"} | |Liga privada para treinos e corridas\. |
 |[Bluegrass Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10972){:target="_blank"} | |Next Gen Cup |
-|[Bright Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=10970){:target="_blank"} | | |
 |[CRC Virtual Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=10980){:target="_blank"} | |Welcome to the CRC Virtual Velocity\! Join us as we push the boundaries of virtual racing, bringing together the finest drivers from across the globe for an unparalleled experience on the iRacing platform\. Whether you're a seasoned pro or a newcomer eager to test your skills, our league offers an inclusive and electrifying atmosphere where camaraderie thrives alongside fierce competition\. |
 |[Fantasy Nascar](https://members.iracing.com/membersite/member/LeagueView.do?league=11011){:target="_blank"} | | |
 |[Money Shift Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11008){:target="_blank"} | |Oval Leg of the MSSS |
 |[Nascar Community Cup JPB](https://members.iracing.com/membersite/member/LeagueView.do?league=10974){:target="_blank"} | |European NASCAR League |
-|[Tier 1 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10999){:target="_blank"} | | |
 
