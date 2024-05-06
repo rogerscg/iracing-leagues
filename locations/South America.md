@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3200 | | | | | |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|---------------|-----------------------|-----------------------|------------------------|
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3200 | |Kansas Speedway |Mon, May 06 06:30PM EDT |Mon, May 06 11:30PM BST |Tue, May 07 08:30AM AEST |
 
 ### NASCAR Truck Series
 
@@ -74,8 +74,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/2 |South America |47 |2149 | | | | | |
+|---------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------|-----------------------|-----------------------|------------------------|
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |2024/2 |South America |47 |2149 | |Lime Rock Park |Mon, May 13 05:25PM EDT |Mon, May 13 10:25PM BST |Tue, May 14 07:25AM AEST |
 
 ### Touring Car
 
@@ -113,7 +113,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |59 |1781 | | | | | |
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |47 |2610 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |47 |2610 | |Circuit de Spa-Francorchamps |Mon, May 13 06:00PM EDT |Mon, May 13 11:00PM BST |Tue, May 14 08:00AM AEST |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2490 | |Circuit de Spa-Francorchamps |Mon, May 06 05:30PM EDT |Mon, May 06 10:30PM BST |Tue, May 07 07:30AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |19 |1858 | |Circuit de Spa-Francorchamps |Tue, May 07 06:30PM EDT |Tue, May 07 11:30PM BST |Wed, May 08 08:30AM AEST |
 

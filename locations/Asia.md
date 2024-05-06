@@ -19,7 +19,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|------------------|--------|-------|----|-----|-----------------------------|-----------------------|-----------------------|------------------------|
-|[China Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=10801){:target="_blank"} |Endurance Cup 2024 |Asia |32 |2232 | | | | | |
-|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |10 |1225 | |Motorsport Arena Oschersleben |Sun, May 05 08:00AM EDT |Sun, May 05 01:00PM BST |Sun, May 05 10:00PM AEST |
+|----------------------------------------------------------------------------------------------------------------------|------------------|--------|-------|----|-----|-----------------|-----------------------|-----------------------|------------------------|
+|[China Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=10801){:target="_blank"} |Endurance Cup 2024 |Asia |32 |2516 | | | | | |
+|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |10 |1278 | |Oran Park Raceway |Sat, May 11 08:00AM EDT |Sat, May 11 01:00PM BST |Sat, May 11 10:00PM AEST |
 

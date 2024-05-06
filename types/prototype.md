@@ -9,8 +9,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
-|[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |27 |2643 | |WeatherTech Raceway at Laguna Seca |Sun, May 05 05:00AM EDT |Sun, May 05 10:00AM BST |Sun, May 05 07:00PM AEST |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |16 |1842 |Fixed |Long Beach Street Circuit |Sun, May 05 08:30PM EDT |Mon, May 06 01:30AM BST |Mon, May 06 10:30AM AEST |
+|[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |27 |2643 | |WeatherTech Raceway at Laguna Seca |Tue, May 07 05:30AM EDT |Tue, May 07 10:30AM BST |Tue, May 07 07:30PM AEST |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |16 |1842 |Fixed |Long Beach Street Circuit |Tue, May 07 08:30PM EDT |Wed, May 08 01:30AM BST |Wed, May 08 10:30AM AEST |
 
 ### GTP
 
@@ -21,7 +21,6 @@
 |[RoushParts\.com Sunset @ Sebring](https://members.iracing.com/membersite/member/LeagueView.do?league=6614){:target="_blank"} |ROUSH Pro Series |North America |32 |2986 | | | | | |
 |[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |30 |2108 | | | | | |
 |[Slowbois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9743){:target="_blank"} |Season 5 \(Hybrid\) |North America |11 |1510 | | | | | |
-|[DCRA Member League](https://members.iracing.com/membersite/member/LeagueView.do?league=7937){:target="_blank"} |DCRA Winter League 2024 |North America |10 |1400 | | | | | |
 
 ### HPD ARX-01c
 
@@ -61,7 +60,7 @@
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |41 |3316 | |Barber Motorsports Park |Sun, May 12 02:10PM EDT |Sun, May 12 07:10PM BST |Mon, May 13 04:10AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |32 |2492 | |Barber Motorsports Park |Sun, May 12 07:30PM EDT |Mon, May 13 12:30AM BST |Mon, May 13 09:30AM AEST |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 2 |Europe |27 |2979 |Open |Barber Motorsports Park |Thu, May 09 02:15PM EDT |Thu, May 09 07:15PM BST |Fri, May 10 04:15AM AEST |
-|[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |24 |None |Fixed | | | | |
+|[BiS Radical Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |16 |None |Fixed | | | | |
 
 ### Radical SR8
 
@@ -79,9 +78,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|--------------------------------|-----------------------|-----------------------|------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024  Season 2 |North America |86 |3013 |Open |Detroit Grand Prix at Belle Isle |Sun, May 05 02:40PM EDT |Sun, May 05 07:40PM BST |Mon, May 06 04:40AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------------------------|-----------------------|-----------------------|------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024  Season 2 |North America |86 |3049 |Open |[Legacy] Phoenix Raceway - 2008 |Sun, May 12 02:40PM EDT |Sun, May 12 07:40PM BST |Mon, May 13 04:40AM AEST |
 |[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |SCCA Spec Racer Ford \- Season 2 |North America |40 |1825 |Fixed | | | | |
-|[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |Season 1 |North America |31 |1710 |Fixed | | | | |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Spring Tour SRF |North America |27 |2597 |Open |Homestead Miami Speedway |Tue, May 07 08:25AM EDT |Tue, May 07 01:25PM BST |Tue, May 07 10:25PM AEST |
+|[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |Season 1 |North America |25 |1657 |Fixed | | | | |
 
