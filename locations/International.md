@@ -17,5 +17,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
-|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |Porsche SuperCup |International |15 |2214 | |WeatherTech Raceway at Laguna Seca |Mon, May 06 10:00PM EDT |Tue, May 07 03:00AM BST |Tue, May 07 12:00PM AEST |
+|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |Porsche SuperCup |International |16 |2214 | |WeatherTech Raceway at Laguna Seca |Tue, May 07 10:00PM EDT |Wed, May 08 03:00AM BST |Wed, May 08 12:00PM AEST |
 
