@@ -8,21 +8,20 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[ASPHALT OFFICIAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9747){:target="_blank"} |ASPHALT RACING XPERIENCE |North America |32 |2634 | | | | | |
+|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP SRX Season 5 |North America |30 |2131 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024B Stockcar Series \- SRX |Australia-NZ |30 |1629 |Both |Sonoma Raceway |Fri, May 10 04:20AM EDT |Fri, May 10 09:20AM BST |Fri, May 10 06:20PM AEST |
 |[ARCS Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |ARCS Race Experience 2024 S2 |North America |29 |2046 | | | | | |
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP SRX Season 5 |North America |27 |2096 | |Nashville Fairgrounds Speedway |Tue, May 07 08:14PM EDT |Wed, May 08 01:14AM BST |Wed, May 08 10:14AM AEST |
 |[NSR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5275){:target="_blank"} |SRX \- 2024 \- A |North America |26 |2414 |Open | | | | |
 |[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |THUNDERSTRUCK TRX |North America |26 |2217 | | | | | |
 |[STARS \- Smoking Tires Amateur Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4868){:target="_blank"} |SCARS \| S15 \| SRX |North America |22 |2337 |Fixed | | | | |
+|[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |Short Track Series |North America |21 |1810 |Both |Eldora Speedway |Tue, May 14 07:00PM EDT |Wed, May 15 12:00AM BST |Wed, May 15 09:00AM AEST |
+|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |ASRL SRX SPRING SHOOTOUT |North America |20 |2320 |Both | | | | |
 |[ASND Special events league\( Currently inactive\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |Harman Designs SRX |Australia-NZ |20 |1340 | | | | | |
 |[Mayhem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5425){:target="_blank"} |WWOMS SRX |North America |20 |1709 |Both | | | | |
 |[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |VRA SRX \- 2024 Season 2 |Australia-NZ |20 |1563 | | | | | |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |SRX Dirt vs Asphalt Tour |North America |19 |1340 |Fixed | | | | |
-|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |ASRL SRX SPRING SHOOTOUT |North America |17 |2278 |Both |Nashville Fairgrounds Speedway |Tue, May 07 08:00PM EDT |Wed, May 08 01:00AM BST |Wed, May 08 10:00AM AEST |
-|[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |Short Track Series |North America |15 |1936 |Both |South Boston Speedway |Tue, May 07 07:00PM EDT |Wed, May 08 12:00AM BST |Wed, May 08 09:00AM AEST |
-|[Red Solo Cup Series SK Mods/Late Models Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |SRX Series S1 |North America |14 |2260 |Fixed | | | | |
 |[Apex Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9523){:target="_blank"} |ASRL SRX Season 1 |North America |13 |1802 | | | | | |
 |[Discord Iracing Championship Kup](https://members.iracing.com/membersite/member/LeagueView.do?league=10797){:target="_blank"} |Every Season Starts at DICKs SRX 1 |North America |13 |4633 | | | | | |
 |[OG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6203){:target="_blank"} |SRX Count Down |North America |13 |1886 |Fixed | | | | |
