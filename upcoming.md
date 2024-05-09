@@ -13,21 +13,24 @@
 |------------------------------------------------------------------------------------------------|--------------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[CCR](https://members.iracing.com/membersite/member/LeagueView.do?league=9885){:target="_blank"} |Friday Arca Season 3 |Open |Michigan International Speedway |Fri, May 10 07:30PM EDT |Sat, May 11 12:30AM BST |Sat, May 11 09:30AM AEST |
 
-### NASCAR Legends 1987
+### NASCAR 2022 NextGen
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------|----------|-----|----------------------|-----------------------|-----------------------|------------------------|
-|[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |87 Legends |Both |Atlanta Motor Speedway |Wed, May 08 10:15PM EDT |Thu, May 09 03:15AM BST |Thu, May 09 12:15PM AEST |
+|------------------------------------------------------------------------------------------------------------|----------------|-----|------------------|-----------------------|-----------------------|------------------------|
+|[Squirrel League](https://members.iracing.com/membersite/member/LeagueView.do?league=9676){:target="_blank"} |2024 \| Season 2 | |Darlington Raceway |Tue, May 14 08:00PM EDT |Wed, May 15 01:00AM BST |Wed, May 15 10:00AM AEST |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|----------------------|-----|---------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|[High Slide Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4997){:target="_blank"} |High Slide Truck Series Season 4 | |Las Vegas Motor Speedway |Thu, May 16 07:00PM EDT |Fri, May 17 12:00AM BST |Fri, May 17 09:00AM AEST |
 |[OGRL Thursday Thunder Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10243){:target="_blank"} |PreSeason \- No Points |Fixed |Kansas Speedway |Thu, May 09 08:00PM EDT |Fri, May 10 01:00AM BST |Fri, May 10 10:00AM AEST |
+|[OGRL Thursday Thunder Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10243){:target="_blank"} |Thursday Thunder Summer 24 Series |Fixed |Daytona International Speedway |Thu, May 16 08:00PM EDT |Fri, May 17 01:00AM BST |Fri, May 17 10:00AM AEST |
+|[Virginia iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |Season 2: Trucks |Fixed |Five Flags Speedway |Thu, May 16 07:00PM EDT |Fri, May 17 12:00AM BST |Fri, May 17 09:00AM AEST |
 
 ### XFINITY Series
 
@@ -49,6 +52,14 @@
 |--------------------------------------------------------------------------------------------------------------------|--------------|-----|-------------------|-----------------------|-----------------------|------------------------|
 |[Virginia iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |Season 2: LMSC |Fixed |Five Flags Speedway |Wed, May 15 07:00PM EDT |Thu, May 16 12:00AM BST |Thu, May 16 09:00AM AEST |
 
+### Legends
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|--------|-----|-------------------|-----------------------|-----------------------|------------------------|
+|[Dario's Giga League](https://members.iracing.com/membersite/member/LeagueView.do?league=11039){:target="_blank"} |Season 0 | |Oulton Park Circuit |Fri, May 10 03:00PM EDT |Fri, May 10 08:00PM BST |Sat, May 11 05:00AM AEST |
+
 ### Street Stock
 
 [Back to Top](#)  
@@ -64,8 +75,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|--------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |DAU F4 Series: Season 2 |Both |Lime Rock Park |Sat, May 11 01:00PM EDT |Sat, May 11 06:00PM BST |Sun, May 12 03:00AM AEST |
+|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |FIA GAME CUP – ACC – FEDECOLDE | |Virginia International Raceway |Thu, May 16 09:30PM EDT |Fri, May 17 02:30AM BST |Fri, May 17 11:30AM AEST |
 
 ### Formula Vee
 
@@ -74,6 +86,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-----|--------------|-----------------------|-----------------------|------------------------|
 |[Arago Simsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10857){:target="_blank"} |Arago Simsports \- Ring of Fire Tour \- Summer 2024 |Open |Sonoma Raceway |Thu, May 09 09:30PM EDT |Fri, May 10 02:30AM BST |Fri, May 10 11:30AM AEST |
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------|---------------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
+|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Special Events Season 5 | |Indianapolis Motor Speedway |Tue, May 14 07:30PM EDT |Wed, May 15 12:30AM BST |Wed, May 15 09:30AM AEST |
 
 ### Lotus 49
 
@@ -106,8 +126,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|-------------------|-----|--------------------|-----------------------|-----------------------|------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------------|-----------------------|-----------------------|------------------------|
 |[BeSim\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8092){:target="_blank"} |Road to Series 2024 | |Nürburgring Combined |Fri, May 10 01:30PM EDT |Fri, May 10 06:30PM BST |Sat, May 11 03:30AM AEST |
+|[OGRL Tuesday MX\-5 Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=10221){:target="_blank"} |Season 3 2024 \- Late | |Tsukuba Circuit |Tue, May 14 09:05PM EDT |Wed, May 15 02:05AM BST |Wed, May 15 11:05AM AEST |
 
 ### IMSA23
 
@@ -118,14 +139,6 @@
 |[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Challenge \#3 Pre\-Qualifying |Fixed |Daytona International Speedway |Sat, May 11 08:00AM EDT |Sat, May 11 01:00PM BST |Sat, May 11 10:00PM AEST |
 
 # Prototype
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-----------------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
-|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso Radical Fun Racce | |Donington Park Racing Circuit |Wed, May 08 03:00PM EDT |Wed, May 08 08:00PM BST |Thu, May 09 05:00AM AEST |
 
 ### Radical SR8
 
@@ -142,7 +155,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|---------------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
+|[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |OBRL Exhibition Races |Fixed |Michigan International Speedway |Mon, May 13 08:00PM EDT |Tue, May 14 01:00AM BST |Tue, May 14 10:00AM AEST |
 |[RLMS \- Retro Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10661){:target="_blank"} |RLMS Season 1 |Open |Sebring International Raceway |Sun, May 12 02:15PM EDT |Sun, May 12 07:15PM BST |Mon, May 13 04:15AM AEST |
-|[SRN KSP Performance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10957){:target="_blank"} |Season 1 | |New Hampshire Motor Speedway |Wed, May 08 08:00PM EDT |Thu, May 09 01:00AM BST |Thu, May 09 10:00AM AEST |
 
