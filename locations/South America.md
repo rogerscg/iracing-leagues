@@ -117,7 +117,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |43 |1765 | | | | | |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |37 |1785 | | | | | |
 
 # Multi-class/Unclassified
 

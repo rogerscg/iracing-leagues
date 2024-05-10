@@ -22,10 +22,12 @@
 |[Mayhem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5425){:target="_blank"} |WWOMS SRX |North America |20 |1709 |Both | | | | |
 |[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |VRA SRX \- 2024 Season 2 |Australia-NZ |20 |1563 | | | | | |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |SRX Dirt vs Asphalt Tour |North America |19 |1340 |Fixed | | | | |
+|[TDR Thursday Night SRX](https://members.iracing.com/membersite/member/LeagueView.do?league=8833){:target="_blank"} |TDR SRX Asphalt |North America |17 |1926 | | | | | |
 |[Apex Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9523){:target="_blank"} |ASRL SRX Season 1 |North America |13 |1802 | | | | | |
 |[Discord Iracing Championship Kup](https://members.iracing.com/membersite/member/LeagueView.do?league=10797){:target="_blank"} |Every Season Starts at DICKs SRX 1 |North America |13 |4633 | | | | | |
 |[OG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6203){:target="_blank"} |SRX Count Down |North America |13 |1886 |Fixed | | | | |
+|[TDR Thursday Night SRX](https://members.iracing.com/membersite/member/LeagueView.do?league=8833){:target="_blank"} |TDR SRX Dirt |North America |13 |2113 | |Limaland Motorsports Park |Thu, May 16 07:30PM EDT |Fri, May 17 12:30AM BST |Fri, May 17 09:30AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Superslow Racing Experience \- 2024 |North America |13 |1615 |Fixed | | | | |
 |[STSL SRX Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10816){:target="_blank"} |STSL SRX Season 0 |North America |12 |2179 |Fixed |Knoxville Raceway |Mon, May 13 08:30PM EDT |Tue, May 14 01:30AM BST |Tue, May 14 10:30AM AEST |
-|[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |SRX\- |North America |11 |1760 |Both |Limaland Motorsports Park |Thu, May 09 08:30PM EDT |Fri, May 10 01:30AM BST |Fri, May 10 10:30AM AEST |
+|[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |SRX\- |North America |11 |1760 |Both |New Smyrna Speedway |Thu, May 16 08:30PM EDT |Fri, May 17 01:30AM BST |Fri, May 17 10:30AM AEST |
 
