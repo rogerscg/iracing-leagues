@@ -5,14 +5,6 @@
 
 # NASCAR
 
-### ARCA Series
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------|--------------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
-|[CCR](https://members.iracing.com/membersite/member/LeagueView.do?league=9885){:target="_blank"} |Friday Arca Season 3 |Open |Michigan International Speedway |Fri, May 10 07:30PM EDT |Sat, May 11 12:30AM BST |Sat, May 11 09:30AM AEST |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -35,10 +27,19 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|[FASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=9952){:target="_blank"} |2024 PatriotView Truck Series | |Daytona International Speedway |Sat, May 18 06:00PM EDT |Sat, May 18 11:00PM BST |Sun, May 19 08:00AM AEST |
 |[Friday Night Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10861){:target="_blank"} |Friday Night Touring Series Trucks | |Daytona International Speedway |Fri, May 17 08:30PM EDT |Sat, May 18 01:30AM BST |Sat, May 18 10:30AM AEST |
 |[High Slide Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4997){:target="_blank"} |High Slide Truck Series Season 4 | |Las Vegas Motor Speedway |Thu, May 16 07:00PM EDT |Fri, May 17 12:00AM BST |Fri, May 17 09:00AM AEST |
 |[OGRL Thursday Thunder Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10243){:target="_blank"} |Thursday Thunder Summer 24 Series |Fixed |Daytona International Speedway |Thu, May 16 08:00PM EDT |Fri, May 17 01:00AM BST |Fri, May 17 10:00AM AEST |
 |[Virginia iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |Season 2: Trucks |Fixed |Five Flags Speedway |Thu, May 16 07:00PM EDT |Fri, May 17 12:00AM BST |Fri, May 17 09:00AM AEST |
+
+### Silverado
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------|-----------------------|-----------------------|------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Oval \- Temporada 2 2024 | |Charlotte Motor Speedway |Sat, May 18 01:55PM EDT |Sat, May 18 06:55PM BST |Sun, May 19 03:55AM AEST |
 
 ### XFINITY Series
 
@@ -58,14 +59,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|--------------|-----|-------------------|-----------------------|-----------------------|------------------------|
 |[Virginia iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |Season 2: LMSC |Fixed |Five Flags Speedway |Wed, May 15 07:00PM EDT |Thu, May 16 12:00AM BST |Thu, May 16 09:00AM AEST |
-
-### Legends
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------|-----|-------------------|-----------------------|-----------------------|------------------------|
-|[Dario's Giga League](https://members.iracing.com/membersite/member/LeagueView.do?league=11039){:target="_blank"} |Season 0 | |Oulton Park Circuit |Fri, May 10 03:00PM EDT |Fri, May 10 08:00PM BST |Sat, May 11 05:00AM AEST |
 
 ### Street Stock
 
@@ -118,6 +111,14 @@
 |----------------------------------------------------------------------------------------------------------|---------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |FF Trophy | |Okayama International Circuit |Sun, May 12 03:00PM EDT |Sun, May 12 08:00PM BST |Mon, May 13 05:00AM AEST |
 
+### [Legacy] Dallara IR-05
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|----------------------|-----------------------|-----------------------|------------------------|
+|[Indy Lights IRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11048){:target="_blank"} |Indy Lights IRacing League |Open |Atlanta Motor Speedway |Sat, May 18 08:00PM EDT |Sun, May 19 01:00AM BST |Sun, May 19 10:00AM AEST |
+
 # Sports Car
 
 ### GT4 Class
@@ -134,7 +135,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|--------------------|-----------------------|-----------------------|------------------------|
-|[BeSim\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8092){:target="_blank"} |Road to Series 2024 | |Nürburgring Combined |Fri, May 10 01:30PM EDT |Fri, May 10 06:30PM BST |Sat, May 11 03:30AM AEST |
 |[OGRL Tuesday MX\-5 Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=10221){:target="_blank"} |Season 3 2024 \- Late | |Tsukuba Circuit |Tue, May 14 09:05PM EDT |Wed, May 15 02:05AM BST |Wed, May 15 11:05AM AEST |
 |[Take It Easy Racing GT Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10546){:target="_blank"} |2024 \| Special Events Prep Series |Open |Nürburgring Combined |Fri, May 17 04:00PM EDT |Fri, May 17 09:00PM BST |Sat, May 18 06:00AM AEST |
 

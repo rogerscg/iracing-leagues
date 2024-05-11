@@ -10,13 +10,14 @@
 |[Corporate Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11045){:target="_blank"} | | |
 |[Crazy Cuzins Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11028){:target="_blank"} | |Welcome to the adrenaline\-fueled world of Crazy Cuzins Racing, where dirt meets determination in the ultimate test of skill and speed\. As a premier dirt late model league, we're dedicated to pushing the limits of racing excitement while fostering a tight\-knit community of drivers, fans, and enthusiasts\. Get ready to experience the thrill of high\-octane competition, where every turn, every lap, and every victory is earned through sheer grit and passion\. Join us as we rev up the engines and embark on a journey that's as wild as it is exhilarating\. Welcome to Crazy Cuzins Racing—where the dirt never settles and the competition never sleeps\. |
 |[Dario's Giga League](https://members.iracing.com/membersite/member/LeagueView.do?league=11039){:target="_blank"} | | |
+|[friday nights frenzy](https://members.iracing.com/membersite/member/LeagueView.do?league=11047){:target="_blank"} | | |
 |[FUN TOUR BY NNRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11003){:target="_blank"} |[Discord](https://discord.gg/BXEnazwmb8){:target="_blank"} |du fun avant tout mais pas que \.\.\. |
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11012){:target="_blank"} | |This is a friendly GT4 League\. We race Tuesdays at 7:15 PM |
 |[Grumpy Goats Go Fast](https://members.iracing.com/membersite/member/LeagueView.do?league=11024){:target="_blank"} | |nascar nex gen |
 |[Gt3 Brothers](https://members.iracing.com/membersite/member/LeagueView.do?league=10997){:target="_blank"} | | |
 |[High Performance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11044){:target="_blank"} | |The High Performance Racing League will features a Nascar Truck Series League\. The series will be full length truck races\. Practice room will start at 7:15 PM EST followed by qualifying at 8 PM and race to follow\. We will have Lucky dog, wave by, and stage racing\. Check us out and sign up today\. |
 |[Icrash](https://members.iracing.com/membersite/member/LeagueView.do?league=11018){:target="_blank"} | |Drive Fast Eat Yanno and Try not to Crash |
-|[Inferno team testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10995){:target="_blank"} | |testing |
+|[Indy Lights IRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11048){:target="_blank"} |[Discord](https://discord.gg/KnxdybMh){:target="_blank"} |AN INDYCAR LEAGUE WITH THE IR\-05 AND FULL OVALS :D |
 |[Jamaica Simulation Racing Association \(JSRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11037){:target="_blank"} |[Discord](https://discord.gg/8JTzZyg7ae){:target="_blank"} |Home of sim racing in Jamaica, open to racers from all across the globe for high, clean and competitive racing\! |
 |[JMR](https://members.iracing.com/membersite/member/LeagueView.do?league=11025){:target="_blank"} | | |
 |[L\.A\. Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11004){:target="_blank"} | |Libres Argentina Media TV |
@@ -25,11 +26,8 @@
 |[Live Leagues eSports GT4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11022){:target="_blank"} |[Discord](https://discord.gg/VBn3fPuF7S){:target="_blank"} |Live Leagues eSports GT4 Series is a fantastic action packed season for any level of experience bringing good racing to all tracks\.   Live Leagues Discord: https://discord\.gg/VBn3fPuF7S |
 |[LMS Dirt Only league](https://members.iracing.com/membersite/member/LeagueView.do?league=11005){:target="_blank"} | | |
 |[MC Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |[Discord](https://discord.gg/ScFqpWPdCE){:target="_blank"} |Australian & Beyond \- Sim Racing League |
-|[Monday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=10996){:target="_blank"} | |Sports Car racing |
 |[MVG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11009){:target="_blank"} | | |
 |[NASCAR MULTICLASS SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11015){:target="_blank"} |[Discord](https://discord.gg/Te2D8ef9kd){:target="_blank"} |https://discord\.gg/Te2D8ef9kd |
-|[NEC Formula 4](https://members.iracing.com/membersite/member/LeagueView.do?league=10994){:target="_blank"} | |NEC Formula 4 |
-|[NEC Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=10993){:target="_blank"} | |NEC Rallycross |
 |[Next Gen Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11031){:target="_blank"} | | |
 |[NMWD Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10998){:target="_blank"} | |wattaaa |
 |[PALracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11038){:target="_blank"} | |Player Advancement League, since its iteration as a competitive counter strike hub, has always made peer comradery it's center point; we are all here for what is insistently a community hub for the benefit of improving oneself and others, now with it's very own iRacing branch\! |
