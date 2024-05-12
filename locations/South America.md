@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------|-----------------------|-----------------------|------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3207 | |Darlington Raceway |Mon, May 13 06:30PM EDT |Mon, May 13 11:30PM BST |Tue, May 14 08:30AM AEST |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3209 | |Darlington Raceway |Mon, May 13 06:30PM EDT |Mon, May 13 11:30PM BST |Tue, May 14 08:30AM AEST |
 
 ### NASCAR Truck Series
 
@@ -101,7 +101,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-----------------------------|-----------------------|-----------------------|------------------------|
 |[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |46 |2264 | |Okayama International Circuit |Tue, May 14 05:40PM EDT |Tue, May 14 10:40PM BST |Wed, May 15 07:40AM AEST |
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |45 |1900 | | | | | |
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |42 |1921 | | | | | |
 
 ### VW Jetta TDI Cup
 

@@ -14,7 +14,6 @@
 |[FUN TOUR BY NNRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11003){:target="_blank"} |[Discord](https://discord.gg/BXEnazwmb8){:target="_blank"} |du fun avant tout mais pas que \.\.\. |
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11012){:target="_blank"} | |This is a friendly GT4 League\. We race Tuesdays at 7:15 PM |
 |[Grumpy Goats Go Fast](https://members.iracing.com/membersite/member/LeagueView.do?league=11024){:target="_blank"} | |nascar nex gen |
-|[Gt3 Brothers](https://members.iracing.com/membersite/member/LeagueView.do?league=10997){:target="_blank"} | | |
 |[High Performance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11044){:target="_blank"} | |The High Performance Racing League will features a Nascar Truck Series League\. The series will be full length truck races\. Practice room will start at 7:15 PM EST followed by qualifying at 8 PM and race to follow\. We will have Lucky dog, wave by, and stage racing\. Check us out and sign up today\. |
 |[Icrash](https://members.iracing.com/membersite/member/LeagueView.do?league=11018){:target="_blank"} | |Drive Fast Eat Yanno and Try not to Crash |
 |[Indy Lights IRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11048){:target="_blank"} |[Discord](https://discord.gg/KnxdybMh){:target="_blank"} |AN INDYCAR LEAGUE WITH THE IR\-05 AND FULL OVALS :D |
@@ -29,20 +28,19 @@
 |[MVG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11009){:target="_blank"} | | |
 |[NASCAR MULTICLASS SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11015){:target="_blank"} |[Discord](https://discord.gg/Te2D8ef9kd){:target="_blank"} |https://discord\.gg/Te2D8ef9kd |
 |[Next Gen Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11031){:target="_blank"} | | |
-|[NMWD Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10998){:target="_blank"} | |wattaaa |
 |[PALracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11038){:target="_blank"} | |Player Advancement League, since its iteration as a competitive counter strike hub, has always made peer comradery it's center point; we are all here for what is insistently a community hub for the benefit of improving oneself and others, now with it's very own iRacing branch\! |
 |[PDRL \- Draft Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=11033){:target="_blank"} | | |
-|[PUR Karting League](https://members.iracing.com/membersite/member/LeagueView.do?league=11007){:target="_blank"} |[Discord](https://discord.gg/znWNTjm5v3){:target="_blank"} |Outlaw Micro Sprints Non\-Winged at Short Road Courses |
 |[Quick Finishers](https://members.iracing.com/membersite/member/LeagueView.do?league=11006){:target="_blank"} | | |
 |[RiA IRL ComChamp FORCECAR 12 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11036){:target="_blank"} | |Rainbow's iRacing Association's International Racing League Community Championship of Favorite Oval Race Cars Enduro Cup of America by RainbowLion12 World Series \(Short FORCECAR\) Takes Current NASCAR, IndyCar, Late Models And Street Stocks To Short Tracks, Intermediates, Superspeedways And Road Courses In Unique Multi\-Class Racing Events With Up To 60 Cars On Track\. Join The Madness Now\! |
 |[Slingshot Sim Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11046){:target="_blank"} | |Truck Series Fix Setup |
 |[speedway 95](https://members.iracing.com/membersite/member/LeagueView.do?league=11042){:target="_blank"} | | |
 |[Spring Madness Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11021){:target="_blank"} | | |
 |[SRL: Savage Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11030){:target="_blank"} |[Discord](https://discord.gg/5VBPJxssfM){:target="_blank"} |Join the SRL for ARCA, Gen4, IndyCar, and Super Formula racing\. All skill levels welcome\. Compete, connect, and win\! |
+|[Subpar Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11049){:target="_blank"} | |A league where being subpar is to be celebrated\. |
 |[Tachycardia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11017){:target="_blank"} | | |
 |[Team53 Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=11010){:target="_blank"} |[Discord](https://discord.gg/44ZD5Kbkhk.){:target="_blank"} |We offer both a Pro Late Model, GT3, and Pro 2 Lite League\. All leagues will be free entry\. |
 |[TexSEF Undisputed Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11014){:target="_blank"} | |Championship for TexSEF 2024 |
-|[Tier 1 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10999){:target="_blank"} | |All points and results will be posted on our discord server\. |
+|[PUR Karting League](https://members.iracing.com/membersite/member/LeagueView.do?league=11007){:target="_blank"} |[Discord](https://discord.gg/znWNTjm5v3){:target="_blank"} |Outlaw Micro Sprints Non\-Winged at Short Road Courses |
 |[Trying not to Crash](https://members.iracing.com/membersite/member/LeagueView.do?league=11013){:target="_blank"} | | |
 |[World of outlaw Micro league](https://members.iracing.com/membersite/member/LeagueView.do?league=11040){:target="_blank"} | | |
 |[AZR Motorsport Performance Center](https://members.iracing.com/membersite/member/LeagueView.do?league=11016){:target="_blank"} | |Liga privada para treinos e corridas\. |

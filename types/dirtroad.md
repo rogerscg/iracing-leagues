@@ -9,16 +9,17 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|--------------------------------|-----------------------|-----------------------|------------------------|
-|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |13 |1344 |Fixed |Wild Horse Pass Motorsports Park |Mon, May 13 09:30PM EDT |Tue, May 14 02:30AM BST |Tue, May 14 11:30AM AEST |
+|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |12 |1361 |Fixed |Wild Horse Pass Motorsports Park |Mon, May 13 09:30PM EDT |Tue, May 14 02:30AM BST |Tue, May 14 11:30AM AEST |
 
 ### Pro 2 Lite Truck
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Formula Thunderdome Revolution Presented by the Kermit9](https://members.iracing.com/membersite/member/LeagueView.do?league=7273){:target="_blank"} |Night of Fury Winter 2024 |North America |30 |1959 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |20 |2076 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Kemimoto ORCGP \- Grand National Sport \- 2024 |North America |10 |1904 |Fixed | | | | |
 
 ### Pro 4 Truck
 
