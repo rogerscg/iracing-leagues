@@ -17,7 +17,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T2 |South America |26 |2452 | | | | | |
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T2 |South America |24 |2480 | | | | | |
 
 # Open-wheel
 
@@ -74,7 +74,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T2 |South America |30 |2512 | |WeatherTech Raceway at Laguna Seca |Tue, May 14 06:30PM EDT |Tue, May 14 11:30PM BST |Wed, May 15 08:30AM AEST |
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |20 |1632 | | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |17 |1629 | | | | | |
 
 ### Mazda MX-5 Cup 2016
 
@@ -101,7 +101,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-----------------------------|-----------------------|-----------------------|------------------------|
 |[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |46 |2264 | |Okayama International Circuit |Tue, May 14 05:40PM EDT |Tue, May 14 10:40PM BST |Wed, May 15 07:40AM AEST |
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |42 |1921 | | | | | |
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |42 |1921 | |Snetterton Circuit |Mon, May 20 05:25PM EDT |Mon, May 20 10:25PM BST |Tue, May 21 07:25AM AEST |
 
 ### VW Jetta TDI Cup
 
@@ -129,6 +129,6 @@
 |-------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |55 |1761 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |47 |2610 | |Circuit de Spa-Francorchamps |Mon, May 13 06:00PM EDT |Mon, May 13 11:00PM BST |Tue, May 14 08:00AM AEST |
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2489 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2489 | |Indianapolis Motor Speedway |Mon, May 20 05:30PM EDT |Mon, May 20 10:30PM BST |Tue, May 21 07:30AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |20 |1892 | |WeatherTech Raceway at Laguna Seca |Tue, May 14 06:30PM EDT |Tue, May 14 11:30PM BST |Wed, May 15 08:30AM AEST |
 

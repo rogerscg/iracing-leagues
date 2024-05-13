@@ -18,7 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|----------------|-----|------------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Cup Series Season 6 | |Daytona International Speedway |Mon, May 20 07:30PM EDT |Tue, May 21 12:30AM BST |Tue, May 21 09:30AM AEST |
 |[Squirrel League](https://members.iracing.com/membersite/member/LeagueView.do?league=9676){:target="_blank"} |2024 \| Season 2 | |Darlington Raceway |Tue, May 14 08:00PM EDT |Wed, May 15 01:00AM BST |Wed, May 15 10:00AM AEST |
 
 ### NASCAR Legends 1987
@@ -56,9 +57,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------|-----------------------|-----------------------|------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[AARL Orr Lawn Care Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5936){:target="_blank"} |AARL 2024 Xfinity Mini Series |Fixed |Charlotte Motor Speedway |Sun, May 19 07:20PM EDT |Mon, May 20 12:20AM BST |Mon, May 20 09:20AM AEST |
 |[Rev Limit Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10560){:target="_blank"} |Season 1 |Fixed |Atlanta Motor Speedway |Mon, May 13 08:30PM EDT |Tue, May 14 01:30AM BST |Tue, May 14 10:30AM AEST |
+|[MPI Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9426){:target="_blank"} |PRACTICE | |North Wilkesboro Speedway |Tue, May 14 07:00PM EDT |Wed, May 15 12:00AM BST |Wed, May 15 09:00AM AEST |
 
 # Oval
 
@@ -69,6 +71,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|--------------|-----|-------------------|-----------------------|-----------------------|------------------------|
 |[Virginia iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |Season 2: LMSC |Fixed |Five Flags Speedway |Wed, May 15 07:00PM EDT |Thu, May 16 12:00AM BST |Thu, May 16 09:00AM AEST |
+
+### Legends
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |Lundi \- LEGEND \(Été/Summer 2024\) | |Okayama International Circuit |Mon, May 20 07:30PM EDT |Tue, May 21 12:30AM BST |Tue, May 21 09:30AM AEST |
 
 ### Street Stock
 
@@ -96,21 +106,13 @@
 |------------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |FIA GAME CUP – ACC – FEDECOLDE | |Virginia International Raceway |Thu, May 16 09:30PM EDT |Fri, May 17 02:30AM BST |Fri, May 17 11:30AM AEST |
 
-### Hosted All Cars Class
+### Super Formula Lights
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|---------------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Special Events Season 5 | |Indianapolis Motor Speedway |Tue, May 14 07:30PM EDT |Wed, May 15 12:30AM BST |Wed, May 15 09:30AM AEST |
-
-### Ray FF1600
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|---------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |FF Trophy | |Okayama International Circuit |Sun, May 12 03:00PM EDT |Sun, May 12 08:00PM BST |Mon, May 13 05:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------|-----------------------|-----------------------|------------------------|
+|[Pre\-Event Challenge by DIGITRAQZ](https://members.iracing.com/membersite/member/LeagueView.do?league=10044){:target="_blank"} |FORMULA 3 \- SEASON 2 | |Hungaroring |Mon, May 20 02:30PM EDT |Mon, May 20 07:30PM BST |Tue, May 21 04:30AM AEST |
 
 ### [Legacy] Dallara IR-05
 
@@ -157,16 +159,6 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|--------------------|-----------------------|-----------------------|------------------------|
 |[LFR \- Loose is Fast Racing Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=8433){:target="_blank"} |North Atlantic Radical Run |Open |Brands Hatch Circuit |Wed, May 15 08:30PM EDT |Thu, May 16 01:30AM BST |Thu, May 16 10:30AM AEST |
 
-# Dirt Oval
-
-### Dirt 358 Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------|-----|-------------------|-----------------------|-----------------------|------------------------|
-|[The Peoples Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=10083){:target="_blank"} |Season 7 |Fixed |Cedar Lake Speedway |Sun, May 12 07:05PM EDT |Mon, May 13 12:05AM BST |Mon, May 13 09:05AM AEST |
-
 # Multi-class/Unclassified
 
 ### Hosted All Cars Class
@@ -174,10 +166,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
-|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |2024 May IMSA \+ Porsche Cup Sessions | |WeatherTech Raceway at Laguna Seca |Sun, May 12 08:00AM EDT |Sun, May 12 01:00PM BST |Sun, May 12 10:00PM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[Iracing Buddies \(NASA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9088){:target="_blank"} |CHATGP Season 1  | |Lime Rock Park |Mon, May 13 08:55PM EDT |Tue, May 14 01:55AM BST |Tue, May 14 10:55AM AEST |
+|[Latemodel Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=10905){:target="_blank"} |Latemodel Shootout | |Lernerville Speedway |Mon, May 20 06:45PM EDT |Mon, May 20 11:45PM BST |Tue, May 21 08:45AM AEST |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO S5 HOT STINTS |Fixed |Sebring International Raceway |Wed, May 15 02:00PM EDT |Wed, May 15 07:00PM BST |Thu, May 16 04:00AM AEST |
 |[Old Bastards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |OBRL Exhibition Races |Fixed |Michigan International Speedway |Mon, May 13 08:00PM EDT |Tue, May 14 01:00AM BST |Tue, May 14 10:00AM AEST |
-|[RLMS \- Retro Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10661){:target="_blank"} |RLMS Season 1 |Open |Sebring International Raceway |Sun, May 12 02:15PM EDT |Sun, May 12 07:15PM BST |Mon, May 13 04:15AM AEST |
+|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Special Events Season 5 | |Indianapolis Motor Speedway |Tue, May 14 07:30PM EDT |Wed, May 15 12:30AM BST |Wed, May 15 09:30AM AEST |
 
