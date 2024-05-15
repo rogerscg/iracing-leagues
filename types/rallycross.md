@@ -11,7 +11,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|--------------------|-----------------------|-----------------------|------------------------|
 |[Racecraft Spec Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2024 RX1 S1 |North America |26 |5336 | | | | | |
 |[RX2 \(fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10282){:target="_blank"} |2024 RX2 S1 |Europe |24 |2684 | | | | | |
-|[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 7 |Australia-NZ |23 |2776 | |Lånkebanen (Hell RX) |Thu, May 16 05:30AM EDT |Thu, May 16 10:30AM BST |Thu, May 16 07:30PM AEST |
+|[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 7 |Australia-NZ |23 |2790 | |Lånkebanen (Hell RX) |Thu, May 16 05:30AM EDT |Thu, May 16 10:30AM BST |Thu, May 16 07:30PM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Super Rally \- 2024 |North America |21 |1967 |Fixed | | | | |
 |[Overwatch Specialty Service NASA Rallycross Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 2024A |North America |17 |3331 | | | | | |
 |[Overwatch Specialty Service NASA Rallycross Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 2024A |North America |17 |4997 | | | | | |
