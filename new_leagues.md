@@ -46,5 +46,6 @@
 |[Bornhoft's League](https://members.iracing.com/membersite/member/LeagueView.do?league=11023){:target="_blank"} | |Description |
 |[Checkered Sloth Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11050){:target="_blank"} | | |
 |[EXTRA OOPS LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11055){:target="_blank"} | | |
+|[MJK Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=11065){:target="_blank"} | | |
 |[Team SzachMat](https://members.iracing.com/membersite/member/LeagueView.do?league=11027){:target="_blank"} | | |
 

@@ -16,6 +16,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |Porsche SuperCup |International |16 |2216 | |Nürburgring Grand-Prix-Strecke |Thu, May 16 08:35PM EDT |Fri, May 17 01:35AM BST |Fri, May 17 10:35AM AEST |
+|---------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|------------------|-----------------------|-----------------------|------------------------|
+|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |Porsche SuperCup |International |18 |2265 | |Snetterton Circuit |Sun, May 19 10:00PM EDT |Mon, May 20 03:00AM BST |Mon, May 20 12:00PM AEST |
 
