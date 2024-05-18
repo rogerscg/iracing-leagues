@@ -51,34 +51,34 @@
 |[WSL Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} |WSL Summer Short Track 2024 |North America |19 |1376 | |Martinsville Speedway |Mon, May 20 09:00PM EDT |Tue, May 21 02:00AM BST |Tue, May 21 11:00AM AEST |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S4 Late model Stock Hometown series |North America |18 |1876 |Both | | | | |
 |[COCA](https://members.iracing.com/membersite/member/LeagueView.do?league=9563){:target="_blank"} |Late Model S2 |North America |18 |1377 |Open | | | | |
+|[LMS Dirt Only league](https://members.iracing.com/membersite/member/LeagueView.do?league=11005){:target="_blank"} |winner choice LMS |North America |18 |1215 | | | | | |
 |[OG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6203){:target="_blank"} |Open Setup LMSC |North America |18 |1784 |Fixed | | | | |
 |[Flat Out Racing League Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8484){:target="_blank"} |Late Model Season 4 |North America |17 |1969 | |Langley Speedway |Sat, May 18 08:00PM EDT |Sun, May 19 01:00AM BST |Sun, May 19 10:00AM AEST |
-|[LMS Dirt Only league](https://members.iracing.com/membersite/member/LeagueView.do?league=11005){:target="_blank"} |winner choice LMS |North America |17 |1242 | |Lincoln Speedway |Fri, May 17 09:00PM EDT |Sat, May 18 02:00AM BST |Sat, May 18 11:00AM AEST |
 |[Mid\-Atlantic Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10440){:target="_blank"} |MASS Late Model Championship Series |North America |17 |1542 | | | | | |
-|[Twisted Chassis Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10613){:target="_blank"} |Late Model Stock Season 1 |North America |16 |1570 | |Five Flags Speedway |Sun, May 19 07:30PM EDT |Mon, May 20 12:30AM BST |Mon, May 20 09:30AM AEST |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 30 Late Model |North America |15 |1227 |Fixed |Stafford Motor Speedway |Fri, May 24 12:00PM EDT |Fri, May 24 05:00PM BST |Sat, May 25 02:00AM AEST |
 |[DW26 Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=8070){:target="_blank"} |DW26 Season LM 2 |North America |15 |3392 | | | | | |
 |[Lucky Dog Sim Racing Super Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=9127){:target="_blank"} |Season 4 |North America |15 |1632 | | | | | |
+|[Twisted Chassis Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10613){:target="_blank"} |Late Model Stock Season 1 |North America |15 |1544 | |Five Flags Speedway |Sun, May 19 07:30PM EDT |Mon, May 20 12:30AM BST |Mon, May 20 09:30AM AEST |
 |[DOB LMSC Hickory Weekly](https://members.iracing.com/membersite/member/LeagueView.do?league=3678){:target="_blank"} |2024 LMSC Tour |North America |15 |2246 |Fixed | | | | |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 30 Late Model |North America |14 |1229 |Fixed |Lanier National Speedway |Fri, May 17 12:00PM EDT |Fri, May 17 05:00PM BST |Sat, May 18 02:00AM AEST |
 |[Donhue Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10587){:target="_blank"} |DRL Late Model Stock Championship |North America |14 |1517 |Fixed | | | | |
 |[Anarchy Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=27){:target="_blank"} |AMS Off\-Season Series |North America |13 |2488 |Fixed | | | | |
 |[The Grit Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=3843){:target="_blank"} |2023 GreaseCar Season |North America |13 |2755 |Fixed | | | | |
-|[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Late Model Fixed Tour \- Season\#02 |Europe |13 |2599 |Both | | | | |
-|[Import Auto Care](https://members.iracing.com/membersite/member/LeagueView.do?league=4568){:target="_blank"} |Import Autocare Late model Stocks |North America |13 |1497 | | | | | |
 |[ABN Stock Car Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=9138){:target="_blank"} |HTL Grassroots Tour Season 1 |North America |12 |2239 |Fixed | | | | |
+|[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Late Model Fixed Tour \- Season\#02 |Europe |12 |2587 |Both | | | | |
 |[WHEELER BROTHERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |CASH CLOWNS SEASON 2 |North America |11 |1716 | | | | | |
 |[OGRE LATE MODEL SHORT TRACK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10894){:target="_blank"} |OGRE SHORT TRACK SEASON 1 |North America |11 |1443 | |Martinsville Speedway |Sun, May 19 07:00PM EDT |Mon, May 20 12:00AM BST |Mon, May 20 09:00AM AEST |
 |[The Misfits of Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10831){:target="_blank"} |Misfit of Motorsports Late Model Stock |North America |11 |1473 | |Nashville Fairgrounds Speedway |Sat, May 18 09:00PM EDT |Sun, May 19 02:00AM BST |Sun, May 19 11:00AM AEST |
-|[WHEELER BROTHERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |CASH CLOWNS SEASON 1 |North America |10 |1802 | | | | | |
+|[WHEELER BROTHERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |CASH CLOWNS SEASON 1 |North America |10 |1772 | | | | | |
 |[Friday Night Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=9619){:target="_blank"} |Late Model St\. Season 1, 2024 |North America |10 |1930 | | | | | |
 |[OG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6203){:target="_blank"} |LMSC Fixed |North America |10 |1918 |Fixed | | | | |
+|[Import Auto Care](https://members.iracing.com/membersite/member/LeagueView.do?league=4568){:target="_blank"} |Import Autocare Late model Stocks |North America |10 |1475 | | | | | |
 
 ### Legends
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |24 Spring Legends |North America |46 |1806 |Both |Hickory Motor Speedway |Mon, May 20 08:00PM EDT |Tue, May 21 01:00AM BST |Tue, May 21 10:00AM AEST |
 |[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends Summer Sizzler |North America |30 |2008 | |New Smyrna Speedway |Sat, May 18 09:30AM EDT |Sat, May 18 02:30PM BST |Sat, May 18 11:30PM AEST |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends League Season 1 |North America |25 |1920 |Fixed | | | | |
@@ -87,7 +87,7 @@
 |[Short Track Rivals Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10070){:target="_blank"} |Battle of the Legends |North America |22 |1729 |Both |Kevin Harvick's Kern Raceway |Mon, May 20 08:30PM EDT |Tue, May 21 01:30AM BST |Tue, May 21 10:30AM AEST |
 |[Smokin Tires Gen 4 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4023){:target="_blank"} |Showtime Advance Legends Series |North America |22 |1536 |Fixed | | | | |
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |32 Legends coup shoot out |North America |20 |1393 | |Langley Speedway |Mon, May 20 11:00PM EDT |Tue, May 21 04:00AM BST |Tue, May 21 01:00PM AEST |
-|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 2 |Australia-NZ |19 |2013 |Fixed | | | | |
+|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 2 |Australia-NZ |19 |2013 |Fixed |[Legacy] Phoenix Raceway - 2008 |Sat, May 18 04:45AM EDT |Sat, May 18 09:45AM BST |Sat, May 18 06:45PM AEST |
 |[HARD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10512){:target="_blank"} |Legends Road Course Season 2 |North America |17 |2160 | |Motorsport Arena Oschersleben |Thu, May 23 08:00PM EDT |Fri, May 24 01:00AM BST |Fri, May 24 10:00AM AEST |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S4 Legends Hometown series |North America |17 |1900 |Both | | | | |
 |[BRLx](https://members.iracing.com/membersite/member/LeagueView.do?league=960){:target="_blank"} |Sportsman LEG S02 |North America |17 |1981 |Fixed | | | | |
@@ -128,8 +128,8 @@
 |[PHILDECARACING INDYCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10621){:target="_blank"} |CHAMPIONNAT OVAL 2024 |Europe |24 |1466 | | | | | |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S3 Street Stock Hometown Series |North America |23 |1446 |Both | | | | |
 |[Red Solo Cup Series SK Mods/Late Models Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Street Stock S1 |North America |23 |2018 |Fixed | | | | |
-|[SRL \- RACE22\.COM Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8060){:target="_blank"} |Season 5 |North America |21 |1711 |Fixed |Nashville Fairgrounds Speedway |Sun, May 19 08:30PM EDT |Mon, May 20 01:30AM BST |Mon, May 20 10:30AM AEST |
-|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S30 |North America |19 |1701 |Fixed |New Smyrna Speedway |Fri, May 17 07:00PM EDT |Sat, May 18 12:00AM BST |Sat, May 18 09:00AM AEST |
+|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S30 |North America |19 |1707 |Fixed | | | | |
+|[SRL \- RACE22\.COM Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8060){:target="_blank"} |Season 5 |North America |18 |1654 |Fixed |Nashville Fairgrounds Speedway |Sun, May 19 08:30PM EDT |Mon, May 20 01:30AM BST |Mon, May 20 10:30AM AEST |
 |[iRacing SR Donation Society](https://members.iracing.com/membersite/member/LeagueView.do?league=10255){:target="_blank"} |Euro Street Stock Series |Europe |15 |1967 |Open | | | | |
 |[Bearder Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9926){:target="_blank"} |BRC BASIC Street Stocks Series Season 1 |North America |13 |1701 | | | | | |
 |[MLR Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4968){:target="_blank"} |STREET STOCK \- SEASON 1 |North America |13 |1836 | |Phoenix Raceway |Thu, May 23 07:00PM EDT |Fri, May 24 12:00AM BST |Fri, May 24 09:00AM AEST |
@@ -146,7 +146,7 @@
 |[SARA \- Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1412){:target="_blank"} |Super Series \- 2024 S1 |North America |40 |5434 |Open | | | | |
 |[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |Sunoco SLM Invite Summer Series |North America |32 |3031 | | | | | |
 |[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Monday Night Madness Season \#12 |North America |31 |2612 |Both | | | | |
-|[BRL Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S25 |North America |24 |1754 |Fixed |New Smyrna Speedway |Fri, May 17 07:50PM EDT |Sat, May 18 12:50AM BST |Sat, May 18 09:50AM AEST |
+|[BRL Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S25 |North America |24 |1751 |Fixed | | | | |
 |[RAID iSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |America's Mattress Super Late Model Tour |North America |23 |2783 |Fixed | | | | |
 |[OG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6203){:target="_blank"} |SLM Weekly racing |North America |22 |1906 |Fixed | | | | |
 |[ARCS Xtreme Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=6505){:target="_blank"} |Xtreme 2024 Super Late Model |North America |20 |2043 | |Five Flags Speedway |Mon, May 20 08:30PM EDT |Tue, May 21 01:30AM BST |Tue, May 21 10:30AM AEST |

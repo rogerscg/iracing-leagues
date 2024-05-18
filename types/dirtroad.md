@@ -16,10 +16,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|-----------------------------|-----------------------|-----------------------|------------------------|
 |[Formula Thunderdome Revolution Presented by the Kermit9](https://members.iracing.com/membersite/member/LeagueView.do?league=7273){:target="_blank"} |Night of Fury Winter 2024 |North America |30 |1959 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |20 |2076 |Fixed | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Kemimoto ORCGP \- Grand National Sport \- 2024 |North America |10 |1904 |Fixed | | | | |
+|[Florida's Short Trackers](https://members.iracing.com/membersite/member/LeagueView.do?league=10764){:target="_blank"} |SRQ Taxes Preseason |North America |12 |1389 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Kemimoto ORCGP \- Grand National Sport \- 2024 |North America |10 |1904 |Fixed |Crandon International Raceway |Sat, May 25 09:40PM EDT |Sun, May 26 02:40AM BST |Sun, May 26 11:40AM AEST |
 
 ### Pro 4 Truck
 

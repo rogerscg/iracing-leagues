@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
-|[Australian NASCAR eSeries \- Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10465){:target="_blank"} |Season 1 2024 |Australia-NZ |40 |2320 |Open |North Wilkesboro Speedway |Sun, May 19 06:00AM EDT |Sun, May 19 11:00AM BST |Sun, May 19 08:00PM AEST |
+|[Australian NASCAR eSeries \- Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10465){:target="_blank"} |Season 1 2024 |Australia-NZ |37 |2299 |Open |North Wilkesboro Speedway |Sun, May 19 06:00AM EDT |Sun, May 19 11:00AM BST |Sun, May 19 08:00PM AEST |
 |[Sim Motorsport New Zealand](https://members.iracing.com/membersite/member/LeagueView.do?league=7651){:target="_blank"} |ENSCAR Cup Series S1 2024 |Australia-NZ |36 |1871 | | | | | |
 
 ### NASCAR Cup
@@ -25,9 +25,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-----------------|------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------------|-----------------|------------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[ANZCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=2447){:target="_blank"} |2024 Truck Series |Australia-NZ |55 |2253 | | | | | |
-|[Australian Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10125){:target="_blank"} |Season 1 2024 |Australia-NZ |50 |2019 | |North Wilkesboro Speedway |Fri, May 17 06:00AM EDT |Fri, May 17 11:00AM BST |Fri, May 17 08:00PM AEST |
+|[Australian Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10125){:target="_blank"} |Season 1 2024 |Australia-NZ |50 |2042 | |Charlotte Motor Speedway |Fri, May 24 06:00AM EDT |Fri, May 24 11:00AM BST |Fri, May 24 08:00PM AEST |
 
 ### XFINITY Series
 
@@ -45,8 +45,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-------------|------------|-------|----|-----|-------------|--------|------|------|
-|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 2 |Australia-NZ |19 |2013 |Fixed | | | | |
+|-----------------------------------------------------------------------------------------------------------------------|-------------|------------|-------|----|-----|-------------------------------|-----------------------|-----------------------|------------------------|
+|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 2 |Australia-NZ |19 |2013 |Fixed |[Legacy] Phoenix Raceway - 2008 |Sat, May 18 04:45AM EDT |Sat, May 18 09:45AM BST |Sat, May 18 06:45PM AEST |
 
 # Open-wheel
 
@@ -122,7 +122,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|------------|-------|----|-----|--------------------------------|-----------------------|-----------------------|------------------------|
 |[V8 Veterans Season 16](https://members.iracing.com/membersite/member/LeagueView.do?league=6788){:target="_blank"} |Season 19 |Australia-NZ |163 |1820 | | | | | |
-|[V8SCOPS 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |V8SCOPS 2024 |Australia-NZ |100 |4228 |Open | | | | |
+|[V8SCOPS 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |V8SCOPS 2024 |Australia-NZ |82 |3882 |Open | | | | |
 |[Supercheap Auto East Coast V8 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3008){:target="_blank"} |Season 10 |Australia-NZ |63 |2857 |Open | | | | |
 |[Sunday Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8024){:target="_blank"} |GT3 Rumble \- Season one |Australia-NZ |53 |1703 | | | | | |
 |[Logitech G Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8323){:target="_blank"} |2024 |Australia-NZ |52 |4305 | |Circuito de Jerez - Ángel Nieto |Wed, May 22 05:00AM EDT |Wed, May 22 10:00AM BST |Wed, May 22 07:00PM AEST |
@@ -174,7 +174,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------|-------|----|-----|-----------------------------|-----------------------|-----------------------|------------------------|
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Imports \- Supercars Championship S1 \(2024\) |Australia-NZ |62 |1440 |Both |Algarve International Circuit |Mon, May 20 05:30AM EDT |Mon, May 20 10:30AM BST |Mon, May 20 07:30PM AEST |
-|[SuperCars NZ V8 Championship season 1 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |V8 MONDAYS |Australia-NZ |42 |1514 | | | | | |
+|[SuperCars NZ V8 Championship season 1 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |V8 MONDAYS |Australia-NZ |42 |1514 | |Algarve International Circuit |Mon, May 20 04:00AM EDT |Mon, May 20 09:00AM BST |Mon, May 20 06:00PM AEST |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing \- V8 Champions Challenge S1 2024 |Australia-NZ |32 |1392 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday Night season 6 |Australia-NZ |31 |1235 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprint Series V8's Season 8 |Australia-NZ |17 |1268 | | | | | |
@@ -215,10 +215,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|------------|-------|----|-----|-------------|-----------------------|-----------------------|------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024B Stockcar Series \- SRX |Australia-NZ |30 |1603 |Both |Red Bull Ring |Fri, May 17 04:20AM EDT |Fri, May 17 09:20AM BST |Fri, May 17 06:20PM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|------------|-------|----|-----|---------------------|-----------------------|-----------------------|------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024B Stockcar Series \- SRX |Australia-NZ |31 |1581 |Both |South Boston Speedway |Fri, May 24 04:20AM EDT |Fri, May 24 09:20AM BST |Fri, May 24 06:20PM AEST |
 |[ASND Special events league\( Currently inactive\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |Harman Designs SRX |Australia-NZ |21 |1347 | | | | | |
-|[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |VRA SRX \- 2024 Season 2 |Australia-NZ |15 |1562 | | | | | |
 
 # Dirt Oval
 
@@ -255,9 +254,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |Extreme Dirt Series |Australia-NZ |65 |2832 | | | | | |
+|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |Extreme Dirt Series |Australia-NZ |56 |2845 | | | | | |
 |[OAS IRACING DIRT LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10680){:target="_blank"} |OAS 2024 Sprints and Big Blocks |Australia-NZ |47 |3276 | | | | | |
-|[New Zealand iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=10766){:target="_blank"} |NZIC THD SimSports SprintCar Super Dash Season 1 |Australia-NZ |21 |2443 |Open | | | | |
+|[New Zealand iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=10766){:target="_blank"} |NZIC THD SimSports SprintCar Super Dash Season 1 |Australia-NZ |21 |2528 |Open | | | | |
 
 ### Dirt Sprintcar - 410
 
@@ -272,9 +271,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------|-------|----|-----|------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------|-------|----|-----|-----------------|-----------------------|-----------------------|------------------------|
 |[Victorian Formula 500 Association](https://members.iracing.com/membersite/member/LeagueView.do?league=7590){:target="_blank"} |Powri Racing Australia Micro sprints Non\-wing E\-series presented by Lake Liddell Speedbowl |Australia-NZ |67 |3078 | | | | | |
-|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Micro Sprints Super Series 2024 |Australia-NZ |51 |2460 | |Lucas Oil Speedway |Fri, May 17 07:00AM EDT |Fri, May 17 12:00PM BST |Fri, May 17 09:00PM AEST |
+|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Micro Sprints Super Series 2024 |Australia-NZ |57 |2477 | |Fairbury Speedway |Fri, May 24 07:00AM EDT |Fri, May 24 12:00PM BST |Fri, May 24 09:00PM AEST |
 |[Ultimate Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7464){:target="_blank"} |Rapid Race Replicas Non Wing Micro Sprint Series |Australia-NZ |51 |2366 | | | | | |
 |[2023 360 Power Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2024 ASC SERIES |Australia-NZ |50 |3991 | | | | | |
 
@@ -323,12 +322,12 @@
 |[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |2 for 1 Wednesdays |Australia-NZ |28 |1316 |Both | | | | |
 |[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Simblacks \#SundaySendit |Australia-NZ |27 |1470 |Both | | | | |
 |[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |F1 Shadow Series |Australia-NZ |26 |2036 | | | | | |
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |FRIDAY FUN SESSIONS |Australia-NZ |23 |1749 |Both | | | | |
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |FRIDAY FUN SESSIONS |Australia-NZ |23 |1722 |Both | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing \- Weekly Challenge S1 2024 |Australia-NZ |22 |1519 | | | | | |
 |[SRW \- Prototypes](https://members.iracing.com/membersite/member/LeagueView.do?league=8996){:target="_blank"} |2024 Season 1 |Australia-NZ |21 |1774 | | | | | |
 |[Just For Fun AU](https://members.iracing.com/membersite/member/LeagueView.do?league=10223){:target="_blank"} |Monday Night Multi\-Class \(MNMC\) \- Season 1 |Australia-NZ |19 |1626 |Both |Virginia International Raceway |Mon, May 20 05:00AM EDT |Mon, May 20 10:00AM BST |Mon, May 20 07:00PM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |Monthly Special Events |Australia-NZ |17 |2434 |Both | | | | |
 |[Retro Karting Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=4488){:target="_blank"} |Racing Fun |Australia-NZ |16 |1420 | | | | | |
-|[Misfits challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10618){:target="_blank"} |2024 S2  Truck racing series |Australia-NZ |14 |1155 |Both |iRacing Superspeedway |Sun, May 19 02:45AM EDT |Sun, May 19 07:45AM BST |Sun, May 19 04:45PM AEST |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |STONECOLD RACING POP\-UP EVENTS |Australia-NZ |13 |1292 | | | | | |
+|[Misfits challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10618){:target="_blank"} |2024 S2  Truck racing series |Australia-NZ |12 |1149 |Both |iRacing Superspeedway |Sun, May 19 02:45AM EDT |Sun, May 19 07:45AM BST |Sun, May 19 04:45PM AEST |
 

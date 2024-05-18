@@ -5,12 +5,12 @@
 |[A and J racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11041){:target="_blank"} | |join we love big blocks and 358s |
 |[A2 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11026){:target="_blank"} | | |
 |[A2 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11063){:target="_blank"} | |A2 League |
-|[AOLL Special Events League](https://members.iracing.com/membersite/member/LeagueView.do?league=11019){:target="_blank"} | |League designated for Aoll's Special Events |
 |[Buttcrack Motorsports 2K Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11020){:target="_blank"} | |100% race length Truck Series for drivers with less than a 2k iRating\. |
 |[CAC Street Stock League](https://members.iracing.com/membersite/member/LeagueView.do?league=11060){:target="_blank"} |[Discord](https://discord.gg/cJmdE4rM){:target="_blank"} |fun racing league with on fun tracks with fun cars |
 |[Circular Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11029){:target="_blank"} | |Racing Circularly |
 |[Corporate Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11045){:target="_blank"} | | |
 |[Crazy Cuzins Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11028){:target="_blank"} | |Welcome to the adrenaline\-fueled world of Crazy Cuzins Racing, where dirt meets determination in the ultimate test of skill and speed\. As a premier dirt late model league, we're dedicated to pushing the limits of racing excitement while fostering a tight\-knit community of drivers, fans, and enthusiasts\. Get ready to experience the thrill of high\-octane competition, where every turn, every lap, and every victory is earned through sheer grit and passion\. Join us as we rev up the engines and embark on a journey that's as wild as it is exhilarating\. Welcome to Crazy Cuzins Racing—where the dirt never settles and the competition never sleeps\. |
+|[Danger Zone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11066){:target="_blank"} | | |
 |[Dario's Giga League](https://members.iracing.com/membersite/member/LeagueView.do?league=11039){:target="_blank"} | | |
 |[DCinside SimRacing Game Gallery Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11052){:target="_blank"} | |심레이싱 게임 갤러리의 갤멀 리그 |
 |[friday nights frenzy](https://members.iracing.com/membersite/member/LeagueView.do?league=11047){:target="_blank"} | | |
@@ -22,6 +22,7 @@
 |[Indy Lights IRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11048){:target="_blank"} |[Discord](https://discord.gg/KnxdybMh){:target="_blank"} |AN INDYCAR LEAGUE WITH THE IR\-05 AND FULL OVALS :D |
 |[Jamaica Simulation Racing Association \(JSRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11037){:target="_blank"} |[Discord](https://discord.gg/8JTzZyg7ae){:target="_blank"} |Home of sim racing in Jamaica, open to racers from all across the globe for high, clean and competitive racing\! |
 |[JMR](https://members.iracing.com/membersite/member/LeagueView.do?league=11025){:target="_blank"} | | |
+|[JWB Paints Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11068){:target="_blank"} |[Discord](https://discord.gg/WwN9rsGY){:target="_blank"} |87 Nascar Iracing League\! |
 |[League of Outlaws \(LoO\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11032){:target="_blank"} | |Home of the LoO IMCA Style Modifieds |
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} | | |
 |[Live Leagues eSports GT4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11022){:target="_blank"} |[Discord](https://discord.gg/VBn3fPuF7S){:target="_blank"} |Live Leagues eSports GT4 Series is a fantastic action packed season for any level of experience bringing good racing to all tracks\.   Live Leagues Discord: https://discord\.gg/VBn3fPuF7S |
@@ -35,6 +36,7 @@
 |[RiA IRL ComChamp FORCECAR 12 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11036){:target="_blank"} | |Rainbow's iRacing Association's International Racing League Community Championship of Favorite Oval Race Cars Enduro Cup of America by RainbowLion12 World Series \(Short FORCECAR\) Takes Current NASCAR, IndyCar, Late Models And Street Stocks To Short Tracks, Intermediates, Superspeedways And Road Courses In Unique Multi\-Class Racing Events With Up To 60 Cars On Track\. Join The Madness Now\! |
 |[Showtime Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11061){:target="_blank"} | |Tuesday Night Fun League |
 |[Slingshot Sim Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11046){:target="_blank"} | |Truck Series Fix Setup |
+|[SPEED Independent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11067){:target="_blank"} | |A league for my friends and I\. |
 |[speedway 95](https://members.iracing.com/membersite/member/LeagueView.do?league=11042){:target="_blank"} | | |
 |[Spring Madness Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11021){:target="_blank"} | | |
 |[SRL: Savage Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11030){:target="_blank"} |[Discord](https://discord.gg/5VBPJxssfM){:target="_blank"} |Join the SRL for ARCA, Gen4, IndyCar, and Super Formula racing\. All skill levels welcome\. Compete, connect, and win\! |

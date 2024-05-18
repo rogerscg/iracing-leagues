@@ -21,7 +21,6 @@
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2024 \- HYPERCARS ADVANTEDGE PC |North America |31 |1820 |Fixed | | | | |
 |[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |28 |2204 | | | | | |
 |[RoushParts\.com Sunset @ Sebring](https://members.iracing.com/membersite/member/LeagueView.do?league=6614){:target="_blank"} |ROUSH Pro Series |North America |25 |2938 | | | | | |
-|[Slowbois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9743){:target="_blank"} |Season 5 \(Hybrid\) |North America |11 |1510 | | | | | |
 
 ### HPD ARX-01c
 
@@ -48,9 +47,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
 |[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |Dad Bod Racing \- LMP3 2024s2 |North America |21 |2402 |Open |Circuit de Spa-Francorchamps |Tue, May 21 09:30PM EDT |Wed, May 22 02:30AM BST |Wed, May 22 11:30AM AEST |
-|[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2024\-2 LMP3 |Europe |15 |1935 |Fixed |WeatherTech Raceway at Laguna Seca |Fri, May 17 04:00PM EDT |Fri, May 17 09:00PM BST |Sat, May 18 06:00AM AEST |
+|[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2024\-2 LMP3 |Europe |15 |1992 |Fixed |Circuit de Spa-Francorchamps |Fri, May 24 04:00PM EDT |Fri, May 24 09:00PM BST |Sat, May 25 06:00AM AEST |
 
 ### Radical SR10
 
@@ -80,7 +79,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|--------------------------|-----------------------|-----------------------|------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024  Season 2 |North America |89 |3059 |Open |Mid-Ohio Sports Car Course |Sun, May 19 02:40PM EDT |Sun, May 19 07:40PM BST |Mon, May 20 04:40AM AEST |
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024  Season 2 |North America |83 |3062 |Open |Mid-Ohio Sports Car Course |Sun, May 19 02:40PM EDT |Sun, May 19 07:40PM BST |Mon, May 20 04:40AM AEST |
 |[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |SCCA Spec Racer Ford \- Season 2 |North America |40 |1825 |Fixed | | | | |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Spring Tour SRF |North America |28 |2653 |Open | | | | |
 
