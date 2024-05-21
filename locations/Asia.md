@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|----------|--------|-------|----|-----|-------------|--------|------|------|
-|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Season one |Asia |12 |1384 | | | | | |
+|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Season one |Asia |26 |1392 | | | | | |
 
 # Sports Car
 
@@ -36,7 +36,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |13 |1333 | |Wild West Motorsports Park |Sat, May 18 07:00AM EDT |Sat, May 18 12:00PM BST |Sat, May 18 09:00PM AEST |
-|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |2024 May IMSA \+ Porsche Cup Sessions |Asia |10 |2048 | |Indianapolis Motor Speedway |Sun, May 19 08:00AM EDT |Sun, May 19 01:00PM BST |Sun, May 19 10:00PM AEST |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
+|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |15 |1336 | | | | | |
+|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |2024 May IMSA \+ Porsche Cup Sessions |Asia |11 |1972 | |Misano World Circuit Marco Simoncelli |Sun, May 26 08:00AM EDT |Sun, May 26 01:00PM BST |Sun, May 26 10:00PM AEST |
 

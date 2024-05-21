@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-----------------------------|-----------------------|-----------------------|------------------------|
-|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |12 |1361 |Fixed |Crandon International Raceway |Mon, May 20 09:30PM EDT |Tue, May 21 02:30AM BST |Tue, May 21 11:30AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-------------|--------|------|------|
+|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |11 |1336 |Fixed | | | | |
 
 ### Pro 2 Lite Truck
 
@@ -30,7 +30,7 @@
 |------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|---------------|-----------------------|-----------------------|------------------------|
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2024 National Series |North America |39 |5420 |Open | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |4X4 Rolling Thunder \- 2024 |North America |28 |2075 |Fixed |Tsukuba Circuit |Thu, May 23 08:40PM EDT |Fri, May 24 01:40AM BST |Fri, May 24 10:40AM AEST |
-|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Clustertruck Cup |North America |20 |1524 | | | | | |
+|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Clustertruck Cup |North America |20 |1531 | | | | | |
 |[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusTRUX Season 2 |Australia-NZ |17 |2950 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Truck Rallye \- 2024 |North America |13 |2089 |Fixed | | | | |
 
