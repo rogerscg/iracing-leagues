@@ -8,8 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|--------------------------|-----------------------|-----------------------|------------------------|
-|[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |26 |2638 | |Watkins Glen International |Tue, May 21 05:30AM EDT |Tue, May 21 10:30AM BST |Tue, May 21 07:30PM AEST |
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------|-----------------------|-----------------------|------------------------|
+|[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |26 |2611 | | | | | |
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 2 |North America |17 |2738 |Open | | | | |
 |[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |16 |1856 |Fixed |Road Atlanta |Sun, May 26 08:30PM EDT |Mon, May 27 01:30AM BST |Mon, May 27 10:30AM AEST |
 
 ### GTP
@@ -19,24 +20,15 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2024 \- HYPERCARS ADVANTEDGE PC |North America |31 |1820 |Fixed | | | | |
-|[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |28 |2204 | | | | | |
-
-### HPD ARX-01c
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|-------|--------|-------|----|-----|-------------|--------|------|------|
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |HPD Cup |Europe |17 |2213 | | | | | |
+|[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |23 |2231 | | | | | |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
 |[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S2 |North America |56 |2787 | |Misano World Circuit Marco Simoncelli |Mon, May 27 07:30PM EDT |Tue, May 28 12:30AM BST |Tue, May 28 09:30AM AEST |
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 2 |North America |22 |2756 |Open | | | | |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO s4 |Europe |15 |2352 |Fixed | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |15 |2133 |Open |Circuit de Spa-Francorchamps |Wed, May 22 07:30PM EDT |Thu, May 23 12:30AM BST |Thu, May 23 09:30AM AEST |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso Radical Fun Racce |Europe |13 |1688 | |Summit Point Raceway |Wed, May 22 02:00PM EDT |Wed, May 22 07:00PM BST |Thu, May 23 04:00AM AEST |
@@ -47,7 +39,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
-|[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |Dad Bod Racing \- LMP3 2024s2 |North America |20 |2395 |Open |Circuit de Spa-Francorchamps |Tue, May 21 09:30PM EDT |Wed, May 22 02:30AM BST |Wed, May 22 11:30AM AEST |
+|[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |Dad Bod Racing \- LMP3 2024s2 |North America |20 |2406 |Open |Mid-Ohio Sports Car Course |Tue, May 28 09:30PM EDT |Wed, May 29 02:30AM BST |Wed, May 29 11:30AM AEST |
 |[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2024\-2 LMP3 |Europe |15 |1992 |Fixed |Circuit de Spa-Francorchamps |Fri, May 24 04:00PM EDT |Fri, May 24 09:00PM BST |Sat, May 25 06:00AM AEST |
 
 ### Radical SR10
@@ -58,7 +50,7 @@
 |--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |34 |3362 | | | | | |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |29 |2571 | | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 2 |Europe |24 |3013 |Open |Nürburgring Nordschleife |Thu, May 23 02:15PM EDT |Thu, May 23 07:15PM BST |Fri, May 24 04:15AM AEST |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 2 |Europe |23 |3014 |Open |Nürburgring Nordschleife |Thu, May 23 02:15PM EDT |Thu, May 23 07:15PM BST |Fri, May 24 04:15AM AEST |
 
 ### Radical SR8
 
@@ -66,7 +58,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------------|-----------------------|-----------------------|------------------------|
-|[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |37 |2411 |Fixed | | | | |
+|[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |37 |2419 |Fixed | | | | |
 |[LFR \- Loose is Fast Racing Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=8433){:target="_blank"} |North Atlantic Radical Run |North America |20 |1773 |Open |Oulton Park Circuit |Wed, May 22 08:30PM EDT |Thu, May 23 01:30AM BST |Thu, May 23 10:30AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Radical SR8 S1 2024 |North America |12 |1043 | | | | | |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Radical SR8 Challenge |Europe |10 |1702 |Open | | | | |

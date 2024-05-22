@@ -16,8 +16,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T2 |South America |24 |2480 | |Charlotte Motor Speedway |Tue, May 21 06:30PM EDT |Tue, May 21 11:30PM BST |Wed, May 22 08:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T2 |South America |24 |2517 | | | | | |
 
 ### Silverado
 
@@ -43,9 +43,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge |South America |52 |3300 | |Indianapolis Motor Speedway |Tue, May 21 05:40PM EDT |Tue, May 21 10:40PM BST |Wed, May 22 07:40AM AEST |
+|[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge |South America |54 |3284 | | | | | |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Fórmula Indy \- Temporada 2 |South America |17 |2495 | |Indianapolis Motor Speedway |Wed, May 22 05:30PM EDT |Wed, May 22 10:30PM BST |Thu, May 23 07:30AM AEST |
-|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/2 |South America |14 |3240 | | | | | |
+|[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/2 |South America |14 |3240 | |Texas Motor Speedway |Wed, May 29 07:35PM EDT |Thu, May 30 12:35AM BST |Thu, May 30 09:35AM AEST |
 
 ### Lotus 79
 
@@ -60,8 +60,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |SuperFormula Lights 2024/2 |South America |42 |2540 | | | | | |
+|-------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-----------------------|-----------------------|-----------------------|------------------------|
+|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |SuperFormula Lights 2024/2 |South America |42 |2540 | |Circuit of the Americas |Wed, May 29 05:25PM EDT |Wed, May 29 10:25PM BST |Thu, May 30 07:25AM AEST |
 
 # Sports Car
 
@@ -71,9 +71,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|--------------------|-----------------------|-----------------------|------------------------|
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/2 |South America |56 |1926 | | | | | |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/2 |South America |49 |3671 | | | | | |
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |TEMPORADA 1 2024 \- GT3 |South America |31 |2030 | |Nürburgring Combined |Tue, May 21 07:00PM EDT |Wed, May 22 12:00AM BST |Wed, May 22 09:00AM AEST |
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/2 |South America |52 |1944 | | | | | |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/2 |South America |49 |3688 | | | | | |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |TEMPORADA 1 2024 \- GT3 |South America |31 |2030 | |Nürburgring Combined |Wed, May 22 06:00PM EDT |Wed, May 22 11:00PM BST |Thu, May 23 08:00AM AEST |
 
 ### IMSA23
 
@@ -116,8 +116,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |For Gretta |South America |14 |1380 | |Virginia International Raceway |Tue, May 21 07:35PM EDT |Wed, May 22 12:35AM BST |Wed, May 22 09:35AM AEST |
+|------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|---------------|-----------------------|-----------------------|------------------------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |For Gretta |South America |16 |1360 | |Tsukuba Circuit |Tue, May 28 07:35PM EDT |Wed, May 29 12:35AM BST |Wed, May 29 09:35AM AEST |
 
 ### [Legacy] BMW Z4 GT3
 
@@ -134,9 +134,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |58 |1712 | | | | | |
+|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |57 |1907 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |44 |2731 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2552 | | | | | |
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |20 |1893 | |Indianapolis Motor Speedway |Tue, May 21 06:30PM EDT |Tue, May 21 11:30PM BST |Wed, May 22 08:30AM AEST |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |21 |1878 | | | | | |
 
