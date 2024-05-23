@@ -38,6 +38,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
-|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |15 |1336 | | | | | |
+|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |15 |1336 | |Lime Rock Park |Sat, May 25 07:00AM EDT |Sat, May 25 12:00PM BST |Sat, May 25 09:00PM AEST |
 |[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |2024 May IMSA \+ Porsche Cup Sessions |Asia |11 |1972 | |Misano World Circuit Marco Simoncelli |Sun, May 26 08:00AM EDT |Sun, May 26 01:00PM BST |Sun, May 26 10:00PM AEST |
 

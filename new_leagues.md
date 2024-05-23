@@ -2,15 +2,14 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[A and J racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11041){:target="_blank"} | |join we love big blocks and 358s |
 |[A2 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11063){:target="_blank"} | |A2 League |
 |[AK Informatica](https://members.iracing.com/membersite/member/LeagueView.do?league=11071){:target="_blank"} | |test |
 |[British Pro/AM Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11081){:target="_blank"} | |A mainly British GT based league with a PRO/AM team set up\. With the odd special calendar event thrown in for good measure\! |
 |[CAC Street Stock League](https://members.iracing.com/membersite/member/LeagueView.do?league=11060){:target="_blank"} |[Discord](https://discord.gg/cJmdE4rM){:target="_blank"} |fun racing league with on fun tracks with fun cars |
 |[Corporate Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11045){:target="_blank"} | | |
 |[Danger Zone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11066){:target="_blank"} | | |
-|[Dario's Giga League](https://members.iracing.com/membersite/member/LeagueView.do?league=11039){:target="_blank"} | | |
 |[DCinside SimRacing Game Gallery Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11052){:target="_blank"} | |심레이싱 게임 갤러리의 갤멀 리그 |
+|[Dirt Kings](https://members.iracing.com/membersite/member/LeagueView.do?league=11087){:target="_blank"} | |this league is all about dirt track racking because it is the best type of racing |
 |[DxDroids League Hotlap](https://members.iracing.com/membersite/member/LeagueView.do?league=11077){:target="_blank"} | |DxDroids League Hotlap |
 |[friday nights frenzy](https://members.iracing.com/membersite/member/LeagueView.do?league=11047){:target="_blank"} | | |
 |[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} | |8 week summer time series consisting of Indy Car, ARCA and Trucks |
@@ -19,6 +18,7 @@
 |[Good Egg Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11084){:target="_blank"} | |The purpose of this leage is to learn and have fun with friends |
 |[High Performance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11044){:target="_blank"} | |The High Performance Racing League will features a Nascar Truck Series League\. The series will be full length truck races\. Practice room will start at 7:15 PM EST followed by qualifying at 8 PM and race to follow\. We will have Lucky dog, wave by, and stage racing\. Check us out and sign up today\. |
 |[Indy Lights IRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11048){:target="_blank"} |[Discord](https://discord.gg/KnxdybMh){:target="_blank"} |AN INDYCAR LEAGUE WITH THE IR\-05 AND FULL OVALS :D |
+|[Iracing Fixed Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11086){:target="_blank"} | |Fixed Series with Open/NiS race lengths |
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} | | |
 |[Metal Heads](https://members.iracing.com/membersite/member/LeagueView.do?league=11053){:target="_blank"} | |Truck Series |
 |[Mid South Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11070){:target="_blank"} | |Competitive racers, Respectful racers, Myself and the other owners look forward to competing with you in this new league\. |
@@ -32,7 +32,6 @@
 |[Slingshot Sim Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11046){:target="_blank"} | |Truck Series Fix Setup |
 |[Slip & Grip Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11080){:target="_blank"} | |Semi Casual sim racing league based in the UK with a heavy influence on the social aspects\. |
 |[SPEED Independent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11067){:target="_blank"} | |A league for my friends and I\. |
-|[speedway 95](https://members.iracing.com/membersite/member/LeagueView.do?league=11042){:target="_blank"} | | |
 |[Street Sweepers](https://members.iracing.com/membersite/member/LeagueView.do?league=11083){:target="_blank"} | | |
 |[Subpar Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11049){:target="_blank"} | |A league where being subpar is to be celebrated\. |
 |[Sullys league](https://members.iracing.com/membersite/member/LeagueView.do?league=11076){:target="_blank"} | | |
@@ -42,9 +41,9 @@
 |[Virtual Racing Aotearoa \- 2024 Midget Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} | | |
 |[VMP](https://members.iracing.com/membersite/member/LeagueView.do?league=11074){:target="_blank"} | |Liga de carreras virtuales creada para sentir el maximo realismo del mundo de las carreras reales\. |
 |[Wicked Exiles Gaming](https://members.iracing.com/membersite/member/LeagueView.do?league=11056){:target="_blank"} | | |
-|[World of outlaw Micro league](https://members.iracing.com/membersite/member/LeagueView.do?league=11040){:target="_blank"} | | |
 |[Checkered Sloth Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11050){:target="_blank"} | | |
 |[EXTRA OOPS LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11055){:target="_blank"} | | |
 |[Lame Sheep Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11069){:target="_blank"} | | |
+|[NxtLvl Racing Present's\-Street stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} | |All types of racing |
 |[XPress eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11079){:target="_blank"} | | |
 
