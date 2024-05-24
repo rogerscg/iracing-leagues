@@ -29,7 +29,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-----------------------------|-----------------------|-----------------------|------------------------|
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2024 National Series |North America |34 |5474 |Open | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |4X4 Rolling Thunder \- 2024 |North America |25 |2126 |Fixed |Tsukuba Circuit |Thu, May 23 08:40PM EDT |Fri, May 24 01:40AM BST |Fri, May 24 10:40AM AEST |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |4X4 Rolling Thunder \- 2024 |North America |26 |2174 |Fixed | | | | |
 |[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusTRUX Season 2 |Australia-NZ |17 |2950 | |Crandon International Raceway |Thu, May 30 06:30AM EDT |Thu, May 30 11:30AM BST |Thu, May 30 08:30PM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Truck Rallye \- 2024 |North America |13 |2089 |Fixed | | | | |
 

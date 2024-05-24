@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|---------------------------|-----------------------|-----------------------|------------------------|
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP SRX Season 5 |North America |35 |2032 | | | | | |
-|[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |SRX\- |North America |34 |1846 |Both |Knoxville Raceway |Thu, May 23 08:30PM EDT |Fri, May 24 01:30AM BST |Fri, May 24 10:30AM AEST |
+|[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |SRX\- |North America |34 |1837 |Both |Slinger Speedway |Thu, May 30 08:30PM EDT |Fri, May 31 01:30AM BST |Fri, May 31 10:30AM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024B Stockcar Series \- SRX |Australia-NZ |31 |1581 |Both |South Boston Speedway |Fri, May 24 04:20AM EDT |Fri, May 24 09:20AM BST |Fri, May 24 06:20PM AEST |
 |[ASPHALT OFFICIAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9747){:target="_blank"} |ASPHALT RACING XPERIENCE |North America |27 |2640 | | | | | |
 |[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |THUNDERSTRUCK TRX |North America |26 |2234 | | | | | |
@@ -20,7 +20,7 @@
 |[ASND Special events league\( Currently inactive\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |Harman Designs SRX |Australia-NZ |21 |1347 | | | | | |
 |[Mayhem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5425){:target="_blank"} |WWOMS SRX |North America |20 |1728 |Both |Lanier National Speedway |Sun, May 26 08:00PM EDT |Mon, May 27 01:00AM BST |Mon, May 27 10:00AM AEST |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |SRX Dirt vs Asphalt Tour |North America |19 |1355 |Fixed | | | | |
-|[TDR Thursday Night SRX](https://members.iracing.com/membersite/member/LeagueView.do?league=8833){:target="_blank"} |TDR SRX Asphalt |North America |17 |1926 | |Five Flags Speedway |Thu, May 23 07:30PM EDT |Fri, May 24 12:30AM BST |Fri, May 24 09:30AM AEST |
+|[TDR Thursday Night SRX](https://members.iracing.com/membersite/member/LeagueView.do?league=8833){:target="_blank"} |TDR SRX Asphalt |North America |19 |1958 | | | | | |
 |[TDR Thursday Night SRX](https://members.iracing.com/membersite/member/LeagueView.do?league=8833){:target="_blank"} |TDR SRX Dirt |North America |15 |2018 | |Eldora Speedway |Thu, May 30 07:30PM EDT |Fri, May 31 12:30AM BST |Fri, May 31 09:30AM AEST |
 |[NSR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5275){:target="_blank"} |SRX \- 2024 \- A |North America |14 |2465 |Open | | | | |
 |[STSL SRX Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10816){:target="_blank"} |STSL SRX Season 0 |North America |13 |2228 |Fixed |Martinsville Speedway |Mon, May 27 08:30PM EDT |Tue, May 28 01:30AM BST |Tue, May 28 10:30AM AEST |

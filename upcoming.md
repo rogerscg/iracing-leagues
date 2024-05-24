@@ -31,9 +31,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |2024 Summer Super Truck Series |Fixed |Charlotte Motor Speedway |Thu, May 23 07:45PM EDT |Fri, May 24 12:45AM BST |Fri, May 24 09:45AM AEST |
 |[Friday Night Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10861){:target="_blank"} |Friday Night Touring Series Trucks | |Kansas Speedway |Fri, May 24 08:30PM EDT |Sat, May 25 01:30AM BST |Sat, May 25 10:30AM AEST |
-|[Iracing Fixed Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11086){:target="_blank"} |NASCAR CRAFTSMAN TRUCK SERIES | |Charlotte Motor Speedway |Thu, May 23 06:28PM EDT |Thu, May 23 11:28PM BST |Fri, May 24 08:28AM AEST |
 |[Ruff\-Neck Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9844){:target="_blank"} |James Wagoner Welding Truck Series Season 4 |Fixed |Las Vegas Motor Speedway |Wed, May 29 07:00PM EDT |Thu, May 30 12:00AM BST |Thu, May 30 09:00AM AEST |
 |[Venom Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6861){:target="_blank"} |Venom Truck Series Season 8 |Fixed |Daytona International Speedway |Tue, May 28 07:30PM EDT |Wed, May 29 12:30AM BST |Wed, May 29 09:30AM AEST |
 
@@ -42,11 +40,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[Area 51 Thursday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5043){:target="_blank"} |2024 Area 51 Xfinity Season 2 | |Daytona International Speedway |Thu, May 23 08:00PM EDT |Fri, May 24 01:00AM BST |Fri, May 24 10:00AM AEST |
-|[Iracing Fixed Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11086){:target="_blank"} |NASCAR XFINITY SERIES | |Charlotte Motor Speedway |Sat, May 25 08:28PM EDT |Sun, May 26 01:28AM BST |Sun, May 26 10:28AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[Reigel Promotions E\-Sports Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2024 Victory Fuel 125 |Fixed |Charlotte Motor Speedway |Tue, May 28 08:00PM EDT |Wed, May 29 01:00AM BST |Wed, May 29 10:00AM AEST |
-|[ANZCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=2447){:target="_blank"} |2024 ANZCAR Thunder Series | |Charlotte Motor Speedway |Thu, May 23 05:00AM EDT |Thu, May 23 10:00AM BST |Thu, May 23 07:00PM AEST |
 
 # Oval
 
@@ -72,8 +67,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-------------|-----|--------------------------|-----------------------|-----------------------|------------------------|
-|[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} |2024 Season 2 |Fixed |Lanier National Speedway |Thu, May 23 10:55PM EDT |Fri, May 24 03:55AM BST |Fri, May 24 12:55PM AEST |
+|-------------------------------------------------------------------------------------------------|---------|-----|--------------------------|-----------------------|-----------------------|------------------------|
 |[SRC](https://members.iracing.com/membersite/member/LeagueView.do?league=10761){:target="_blank"} |SEASON 11 | |USA International Speedway |Thu, May 30 07:30PM EDT |Fri, May 31 12:30AM BST |Fri, May 31 09:30AM AEST |
 
 # Open-wheel
@@ -83,8 +77,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[AOLL Racing's TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4855){:target="_blank"} |2024 Season 2 \- Dallara IR\-18 |Fixed |North Wilkesboro Speedway |Thu, May 23 06:00PM EDT |Thu, May 23 11:00PM BST |Fri, May 24 08:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|-----------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
+|[FSL & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=9273){:target="_blank"} |FUN FUN FUN | |Indianapolis Motor Speedway |Fri, May 31 09:26AM EDT |Fri, May 31 02:26PM BST |Fri, May 31 11:26PM AEST |
 |[BiS IndyCar Test Committee](https://members.iracing.com/membersite/member/LeagueView.do?league=10578){:target="_blank"} |Non\-Championship | |Indianapolis Motor Speedway |Sat, May 25 12:00PM EDT |Sat, May 25 05:00PM BST |Sun, May 26 02:00AM AEST |
 
 ### FIA F4
@@ -92,17 +86,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------|--------------------------------------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |Mardi \- FORMULE 4 \(Été/Summer 2024\) | |WeatherTech Raceway at Laguna Seca |Tue, May 28 07:30PM EDT |Wed, May 29 12:30AM BST |Wed, May 29 09:30AM AEST |
-|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |FIA GAME CUP SALA C | |Virginia International Raceway |Thu, May 23 08:30PM EDT |Fri, May 24 01:30AM BST |Fri, May 24 10:30AM AEST |
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|---------------|-----|---------------------|-----------------------|-----------------------|------------------------|
-|[24 Hours of Lemons iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |The 2024 Season | |Chicago Street Course |Thu, May 23 08:00PM EDT |Fri, May 24 01:00AM BST |Fri, May 24 10:00AM AEST |
 
 ### Ray FF1600
 
@@ -111,6 +96,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------------------|-----|-------------------|-----------------------|-----------------------|------------------------|
 |[Ceeyen Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10965){:target="_blank"} |FF1600 Mini Series | |Oulton Park Circuit |Sun, May 26 12:30AM EDT |Sun, May 26 05:30AM BST |Sun, May 26 02:30PM AEST |
+
+### Super Formula Lights
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------|----------------|-----|-------------------------------------|-----------------------|-----------------------|-------------------------|
+|[FUN TOUR BY NNRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11003){:target="_blank"} |fun tour 2024/01 | |Misano World Circuit Marco Simoncelli |Fri, May 31 02:00PM EDT |Fri, May 31 07:00PM BST |Sat, June 01 04:00AM AEST |
 
 # Sports Car
 
@@ -164,6 +157,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|---------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
+|[Dario's Giga League](https://members.iracing.com/membersite/member/LeagueView.do?league=11039){:target="_blank"} |Season 1 | |Circuit de Spa-Francorchamps |Fri, May 24 03:00PM EDT |Fri, May 24 08:00PM BST |Sat, May 25 05:00AM AEST |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup | |[Legacy] Phoenix Raceway - 2008 |Tue, May 28 08:00PM EDT |Wed, May 29 01:00AM BST |Wed, May 29 10:00AM AEST |
 
 # Dirt Oval
@@ -174,7 +168,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|----------------------|-----|-----------------|-----------------------|-----------------------|------------------------|
-|[LMS Dirt Only league](https://members.iracing.com/membersite/member/LeagueView.do?league=11005){:target="_blank"} |358's | |Kokomo Speedway |Thu, May 23 09:00PM EDT |Fri, May 24 02:00AM BST |Fri, May 24 11:00AM AEST |
 |[The Misfits of Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10831){:target="_blank"} |Rusty Misfits 358 mods | |Fairbury Speedway |Wed, May 29 08:00PM EDT |Thu, May 30 01:00AM BST |Thu, May 30 10:00AM AEST |
 
 ### Dirt Street Stock
@@ -185,22 +178,14 @@
 |---------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|---------------|-----------------------|-----------------------|------------------------|
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Street Stock Winter Series 2024 | |Eldora Speedway |Tue, May 28 07:00AM EDT |Tue, May 28 12:00PM BST |Tue, May 28 09:00PM AEST |
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[NDRA\- National Dirt Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |SRA Pro Late Model Series Season 1 Open Set  ups |Both |The Dirt Track at Charlotte |Thu, May 23 09:00PM EDT |Fri, May 24 02:00AM BST |Fri, May 24 11:00AM AEST |
-
 ### Millbridge23
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|-------------------|-----------------------|-----------------------|------------------------|
-|[Sprint Car Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5481){:target="_blank"} |Outlaw Winged Micro Sprints | |Millbridge Speedway |Mon, May 27 08:00PM EDT |Tue, May 28 01:00AM BST |Tue, May 28 10:00AM AEST |
 |[The Misfits of Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10831){:target="_blank"} |Rusty Misfits Dirt Outlaw Micro Sprints | |Fairbury Speedway |Wed, May 29 09:00PM EDT |Thu, May 30 02:00AM BST |Thu, May 30 11:00AM AEST |
+|[Sprint Car Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5481){:target="_blank"} |Outlaw Winged Micro Sprints | |Millbridge Speedway |Mon, May 27 08:00PM EDT |Tue, May 28 01:00AM BST |Tue, May 28 10:00AM AEST |
 
 # Multi-class/Unclassified
 
@@ -209,9 +194,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|------------------------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[AutoRacingConnected American Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9856){:target="_blank"} |iRacing European Endurance Championship presented by ARC |Open |Circuit de Barcelona Catalunya |Sat, May 25 08:00AM EDT |Sat, May 25 01:00PM BST |Sat, May 25 10:00PM AEST |
-|[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO/GT3 S5 |Fixed |Autodromo Internazionale del Mugello |Thu, May 23 02:00PM EDT |Thu, May 23 07:00PM BST |Fri, May 24 04:00AM AEST |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR 2024 Endurance Challenge |Open |Barber Motorsports Park |Fri, May 24 10:00PM EDT |Sat, May 25 03:00AM BST |Sat, May 25 12:00PM AEST |
 |[Kevin's Cool League for Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=7508){:target="_blank"} |cant load testdrive | |Summit Point Raceway |Wed, May 29 11:30AM EDT |Wed, May 29 04:30PM BST |Thu, May 30 01:30AM AEST |
 
