@@ -10,11 +10,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-------------------------|-----------------------|-----------------------|------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------|-------|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[FTSR Cup Series \(Mondays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2485){:target="_blank"} |2024\-B |Open |Charlotte Motor Speedway |Mon, May 27 08:00PM EDT |Tue, May 28 01:00AM BST |Tue, May 28 10:00AM AEST |
 |[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |2024A |Open |Charlotte Motor Speedway |Sat, May 25 07:30PM EDT |Sun, May 26 12:30AM BST |Sun, May 26 09:30AM AEST |
-|[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |Qualifying |Open |Charlotte Motor Speedway |Fri, May 24 08:00PM EDT |Sat, May 25 01:00AM BST |Sat, May 25 10:00AM AEST |
-|[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9598){:target="_blank"} |Season 3 non points and practices |Fixed |North Wilkesboro Speedway |Fri, May 24 07:00PM EDT |Sat, May 25 12:00AM BST |Sat, May 25 09:00AM AEST |
 
 ### NASCAR Cup
 
@@ -30,10 +28,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[Friday Night Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10861){:target="_blank"} |Friday Night Touring Series Trucks | |Kansas Speedway |Fri, May 24 08:30PM EDT |Sat, May 25 01:30AM BST |Sat, May 25 10:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[Ruff\-Neck Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9844){:target="_blank"} |James Wagoner Welding Truck Series Season 4 |Fixed |Las Vegas Motor Speedway |Wed, May 29 07:00PM EDT |Thu, May 30 12:00AM BST |Thu, May 30 09:00AM AEST |
 |[Venom Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6861){:target="_blank"} |Venom Truck Series Season 8 |Fixed |Daytona International Speedway |Tue, May 28 07:30PM EDT |Wed, May 29 12:30AM BST |Wed, May 29 09:30AM AEST |
+
+### Silverado
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|----------|-----|-----------------------|------------------------|------------------------|-------------------------|
+|[Misfits challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10618){:target="_blank"} |Crash fest |Both |Talladega Superspeedway |Sat, June 01 11:36PM EDT |Sun, June 02 04:36AM BST |Sun, June 02 01:36PM AEST |
 
 ### XFINITY Series
 
@@ -58,9 +63,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 2 |Fixed |Concord Speedway |Thu, May 30 08:00PM EDT |Fri, May 31 01:00AM BST |Fri, May 31 10:00AM AEST |
-|[Infinity Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |Legends World Challenge Season 1 | |Donington Park Racing Circuit |Fri, May 24 05:30AM EDT |Fri, May 24 10:30AM BST |Fri, May 24 07:30PM AEST |
+|[ISMC](https://members.iracing.com/membersite/member/LeagueView.do?league=10590){:target="_blank"} |Preseason Races | |WeatherTech Raceway at Laguna Seca |Sat, June 01 07:25PM EDT |Sun, June 02 12:25AM BST |Sun, June 02 09:25AM AEST |
 
 ### Street Stock
 
@@ -86,8 +91,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|--------------------------------------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |Mardi \- FORMULE 4 \(Été/Summer 2024\) | |WeatherTech Raceway at Laguna Seca |Tue, May 28 07:30PM EDT |Wed, May 29 12:30AM BST |Wed, May 29 09:30AM AEST |
+|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |TEST SEASON | |Motorsport Arena Oschersleben |Mon, May 27 08:30PM EDT |Tue, May 28 01:30AM BST |Tue, May 28 10:30AM AEST |
 
 ### Ray FF1600
 
@@ -141,14 +147,6 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
 |[GT3 Under 2k \- VRS Sim Racing Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |Challenge \#4 Pre\-Qualifying | |Circuit de Spa-Francorchamps |Sat, May 25 08:00AM EDT |Sat, May 25 01:00PM BST |Sat, May 25 10:00PM AEST |
 
-### [Legacy] V8Supercars
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------|-----|-----------------|-----------------------|-----------------------|------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |Super 3 20204D |Both |Oran Park Raceway |Fri, May 24 04:10AM EDT |Fri, May 24 09:10AM BST |Fri, May 24 06:10PM AEST |
-
 # Prototype
 
 ### Radical SR8
@@ -157,7 +155,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|---------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
-|[Dario's Giga League](https://members.iracing.com/membersite/member/LeagueView.do?league=11039){:target="_blank"} |Season 1 | |Circuit de Spa-Francorchamps |Fri, May 24 03:00PM EDT |Fri, May 24 08:00PM BST |Sat, May 25 05:00AM AEST |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup | |[Legacy] Phoenix Raceway - 2008 |Tue, May 28 08:00PM EDT |Wed, May 29 01:00AM BST |Wed, May 29 10:00AM AEST |
 
 # Dirt Oval
@@ -196,6 +193,5 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[AutoRacingConnected American Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9856){:target="_blank"} |iRacing European Endurance Championship presented by ARC |Open |Circuit de Barcelona Catalunya |Sat, May 25 08:00AM EDT |Sat, May 25 01:00PM BST |Sat, May 25 10:00PM AEST |
-|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR 2024 Endurance Challenge |Open |Barber Motorsports Park |Fri, May 24 10:00PM EDT |Sat, May 25 03:00AM BST |Sat, May 25 12:00PM AEST |
 |[Kevin's Cool League for Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=7508){:target="_blank"} |cant load testdrive | |Summit Point Raceway |Wed, May 29 11:30AM EDT |Wed, May 29 04:30PM BST |Thu, May 30 01:30AM AEST |
 
