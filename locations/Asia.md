@@ -8,9 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Oman Digital Motorsport F4 Championship |Asia |27 |1500 | | | | | |
-|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Season one |Asia |26 |1392 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Oman Digital Motorsport F4 Championship |Asia |27 |1500 | |WeatherTech Raceway at Laguna Seca |Wed, May 29 12:00PM EDT |Wed, May 29 05:00PM BST |Thu, May 30 02:00AM AEST |
+|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Season one |Asia |22 |1332 | | | | | |
 
 # Sports Car
 
@@ -38,6 +38,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
-|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |15 |1336 | |Lime Rock Park |Sat, May 25 07:00AM EDT |Sat, May 25 12:00PM BST |Sat, May 25 09:00PM AEST |
+|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |15 |1307 | | | | | |
 |[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |2024 May IMSA \+ Porsche Cup Sessions |Asia |11 |1972 | |Misano World Circuit Marco Simoncelli |Sun, May 26 08:00AM EDT |Sun, May 26 01:00PM BST |Sun, May 26 10:00PM AEST |
 

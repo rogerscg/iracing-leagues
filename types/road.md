@@ -13,9 +13,9 @@
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |SRX\- |North America |34 |1837 |Both |Slinger Speedway |Thu, May 30 08:30PM EDT |Fri, May 31 01:30AM BST |Fri, May 31 10:30AM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024B Stockcar Series \- SRX |Australia-NZ |34 |1592 |Both |Chicago Street Course |Fri, May 31 04:20AM EDT |Fri, May 31 09:20AM BST |Fri, May 31 06:20PM AEST |
 |[ASPHALT OFFICIAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9747){:target="_blank"} |ASPHALT RACING XPERIENCE |North America |27 |2640 | | | | | |
-|[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |THUNDERSTRUCK TRX |North America |26 |2234 | | | | | |
 |[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |Short Track Series |North America |24 |1806 |Both | | | | |
 |[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |ASRL SRX SPRING SHOOTOUT |North America |23 |2379 |Both | | | | |
+|[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |THUNDERSTRUCK TRX |North America |22 |2272 | | | | | |
 |[ARCS Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |ARCS Race Experience 2024 S2 |North America |21 |2018 | | | | | |
 |[ASND Special events league\( Currently inactive\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |Harman Designs SRX |Australia-NZ |21 |1347 | | | | | |
 |[Mayhem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5425){:target="_blank"} |WWOMS SRX |North America |20 |1728 |Both |Lanier National Speedway |Sun, May 26 08:00PM EDT |Mon, May 27 01:00AM BST |Mon, May 27 10:00AM AEST |

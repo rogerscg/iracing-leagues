@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3223 | |Charlotte Motor Speedway |Mon, May 27 06:30PM EDT |Mon, May 27 11:30PM BST |Tue, May 28 08:30AM AEST |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3234 | |Charlotte Motor Speedway |Mon, May 27 06:30PM EDT |Mon, May 27 11:30PM BST |Tue, May 28 08:30AM AEST |
 
 ### NASCAR Truck Series
 
@@ -24,8 +24,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|-------------------------------|-----------------------|-----------------------|------------------------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Oval \- Temporada 2 2024 |South America |20 |1845 | |[Legacy] Phoenix Raceway - 2008 |Sat, May 25 01:55PM EDT |Sat, May 25 06:55PM BST |Sun, May 26 03:55AM AEST |
+|--------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Oval \- Temporada 2 2024 |South America |22 |1778 | |Daytona International Speedway |Sat, June 01 01:55PM EDT |Sat, June 01 06:55PM BST |Sun, June 02 03:55AM AEST |
 
 # Open-wheel
 
@@ -80,7 +80,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
+|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T2 |South America |29 |2571 | |Misano World Circuit Marco Simoncelli |Tue, May 28 06:30PM EDT |Tue, May 28 11:30PM BST |Wed, May 29 08:30AM AEST |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |17 |1625 | | | | | |
 
 ### Mazda MX-5 Cup 2016
@@ -108,7 +109,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |46 |2288 | |WeatherTech Raceway at Laguna Seca |Tue, May 28 05:40PM EDT |Tue, May 28 10:40PM BST |Wed, May 29 07:40AM AEST |
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |42 |1953 | | | | | |
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |2024/2 |South America |41 |1970 | | | | | |
 
 ### VW Jetta TDI Cup
 
@@ -133,10 +134,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |68 |2012 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |44 |2731 | | | | | |
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2552 | | | | | |
-|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T2 |South America |29 |2571 | |Misano World Circuit Marco Simoncelli |Tue, May 28 06:30PM EDT |Tue, May 28 11:30PM BST |Wed, May 29 08:30AM AEST |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |34 |2571 | | | | | |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |21 |1878 | | | | | |
+
+### Stock Car Brasil
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |1ª Fase \- Seletiva E\-Stock |South America |105 |None | |WeatherTech Raceway at Laguna Seca |Sun, May 26 11:00AM EDT |Sun, May 26 04:00PM BST |Mon, May 27 01:00AM AEST |
 

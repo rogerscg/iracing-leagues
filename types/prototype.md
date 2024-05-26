@@ -28,7 +28,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
-|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S2 |North America |56 |2787 | |Misano World Circuit Marco Simoncelli |Mon, May 27 07:30PM EDT |Tue, May 28 12:30AM BST |Tue, May 28 09:30AM AEST |
+|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S2 |North America |56 |2800 | |Misano World Circuit Marco Simoncelli |Mon, May 27 07:30PM EDT |Tue, May 28 12:30AM BST |Tue, May 28 09:30AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |16 |2098 |Open |Brands Hatch Circuit |Wed, May 29 07:30PM EDT |Thu, May 30 12:30AM BST |Thu, May 30 09:30AM AEST |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO s4 |Europe |15 |2352 |Fixed | | | | |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso Radical Fun Racce |Europe |14 |1696 | | | | | |
@@ -47,9 +47,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------|-----------------------|-----------------------|------------------------|
-|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |34 |3362 | | | | | |
-|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |29 |2571 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
+|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |34 |3362 | |Road America |Sun, June 02 02:10PM EDT |Sun, June 02 07:10PM BST |Mon, June 03 04:10AM AEST |
+|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |29 |2571 | |Road America |Sun, June 02 07:30PM EDT |Mon, June 03 12:30AM BST |Mon, June 03 09:30AM AEST |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 2 |Europe |23 |2978 |Open |Road America |Thu, May 30 02:15PM EDT |Thu, May 30 07:15PM BST |Fri, May 31 04:15AM AEST |
 
 ### Radical SR8

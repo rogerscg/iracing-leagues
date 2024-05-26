@@ -12,7 +12,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|-------|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[FTSR Cup Series \(Mondays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2485){:target="_blank"} |2024\-B |Open |Charlotte Motor Speedway |Mon, May 27 08:00PM EDT |Tue, May 28 01:00AM BST |Tue, May 28 10:00AM AEST |
-|[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |2024A |Open |Charlotte Motor Speedway |Sat, May 25 07:30PM EDT |Sun, May 26 12:30AM BST |Sun, May 26 09:30AM AEST |
 
 ### NASCAR Cup
 
@@ -28,7 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[CTS Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10954){:target="_blank"} |CTS Season 1 | |Daytona International Speedway |Sun, June 02 07:00PM EDT |Mon, June 03 12:00AM BST |Mon, June 03 09:00AM AEST |
 |[Ruff\-Neck Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9844){:target="_blank"} |James Wagoner Welding Truck Series Season 4 |Fixed |Las Vegas Motor Speedway |Wed, May 29 07:00PM EDT |Thu, May 30 12:00AM BST |Thu, May 30 09:00AM AEST |
 |[Venom Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6861){:target="_blank"} |Venom Truck Series Season 8 |Fixed |Daytona International Speedway |Tue, May 28 07:30PM EDT |Wed, May 29 12:30AM BST |Wed, May 29 09:30AM AEST |
 
@@ -82,9 +82,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-----------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
+|----------------------------------------------------------------------------------------------------------|-----------|-----|---------------------------|-----------------------|-----------------------|------------------------|
 |[FSL & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=9273){:target="_blank"} |FUN FUN FUN | |Indianapolis Motor Speedway |Fri, May 31 09:26AM EDT |Fri, May 31 02:26PM BST |Fri, May 31 11:26PM AEST |
-|[BiS IndyCar Test Committee](https://members.iracing.com/membersite/member/LeagueView.do?league=10578){:target="_blank"} |Non\-Championship | |Indianapolis Motor Speedway |Sat, May 25 12:00PM EDT |Sat, May 25 05:00PM BST |Sun, May 26 02:00AM AEST |
 
 ### FIA F4
 
@@ -95,23 +94,24 @@
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |Mardi \- FORMULE 4 \(Été/Summer 2024\) | |WeatherTech Raceway at Laguna Seca |Tue, May 28 07:30PM EDT |Wed, May 29 12:30AM BST |Wed, May 29 09:30AM AEST |
 |[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |TEST SEASON | |Motorsport Arena Oschersleben |Mon, May 27 08:30PM EDT |Tue, May 28 01:30AM BST |Tue, May 28 10:30AM AEST |
 
-### Ray FF1600
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------------------|-----|-------------------|-----------------------|-----------------------|------------------------|
-|[Ceeyen Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10965){:target="_blank"} |FF1600 Mini Series | |Oulton Park Circuit |Sun, May 26 12:30AM EDT |Sun, May 26 05:30AM BST |Sun, May 26 02:30PM AEST |
-
 ### Super Formula Lights
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|----------------|-----|-------------------------------------|-----------------------|-----------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------|----------------|-----|-------------------------------------|-----------------------|-----------------------|-------------------------|
 |[FUN TOUR BY NNRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11003){:target="_blank"} |fun tour 2024/01 | |Misano World Circuit Marco Simoncelli |Fri, May 31 02:00PM EDT |Fri, May 31 07:00PM BST |Sat, June 01 04:00AM AEST |
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SFlite S2 |Both |Mobility Resort Motegi |Tue, May 28 05:30AM EDT |Tue, May 28 10:30AM BST |Tue, May 28 07:30PM AEST |
 
 # Sports Car
+
+### Cadillac CTS-VR
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|----------------|-----|--------------------|-----------------------|-----------------------|------------------------|
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Budjet V8 series |Both |Winton Motor Raceway |Thu, May 30 05:19AM EDT |Thu, May 30 10:19AM BST |Thu, May 30 07:19PM AEST |
 
 ### GT3 Class
 
@@ -139,14 +139,6 @@
 |[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |BRC WORLDWIDE ARMANDO INVITATIONAL | |Lanier National Speedway |Wed, May 29 10:00PM EDT |Thu, May 30 03:00AM BST |Thu, May 30 12:00PM AEST |
 |[PCDC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=2870){:target="_blank"} |Definitely not Global MX\-5 Cup |Both |Daytona International Speedway |Sun, May 26 12:35PM EDT |Sun, May 26 05:35PM BST |Mon, May 27 02:35AM AEST |
 
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
-|[GT3 Under 2k \- VRS Sim Racing Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |Challenge \#4 Pre\-Qualifying | |Circuit de Spa-Francorchamps |Sat, May 25 08:00AM EDT |Sat, May 25 01:00PM BST |Sat, May 25 10:00PM AEST |
-
 # Prototype
 
 ### Radical SR8
@@ -156,6 +148,16 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|---------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup | |[Legacy] Phoenix Raceway - 2008 |Tue, May 28 08:00PM EDT |Wed, May 29 01:00AM BST |Wed, May 29 10:00AM AEST |
+
+# Road
+
+### SRX
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------|------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|[OutLaw Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=9205){:target="_blank"} |SRX |Both |Daytona International Speedway |Mon, May 27 07:00PM EDT |Tue, May 28 12:00AM BST |Tue, May 28 09:00AM AEST |
 
 # Dirt Oval
 
@@ -191,7 +193,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[AutoRacingConnected American Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9856){:target="_blank"} |iRacing European Endurance Championship presented by ARC |Open |Circuit de Barcelona Catalunya |Sat, May 25 08:00AM EDT |Sat, May 25 01:00PM BST |Sat, May 25 10:00PM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Preseason Sessions \- No Points |Both |USA International Speedway |Sun, June 02 08:00PM EDT |Mon, June 03 01:00AM BST |Mon, June 03 10:00AM AEST |
+|[RiA IRL ComChamp FORCECAR 12 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11036){:target="_blank"} |RAINBOW |Open |USA International Speedway |Sun, June 02 10:30AM EDT |Sun, June 02 03:30PM BST |Mon, June 03 12:30AM AEST |
 |[Kevin's Cool League for Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=7508){:target="_blank"} |cant load testdrive | |Summit Point Raceway |Wed, May 29 11:30AM EDT |Wed, May 29 04:30PM BST |Thu, May 30 01:30AM AEST |
 
