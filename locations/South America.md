@@ -17,7 +17,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T2 |South America |24 |2517 | | | | | |
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T2 |South America |23 |2523 | | | | | |
 
 ### Silverado
 
@@ -34,16 +34,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Alpha Session |South America |24 |1499 |Fixed | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-----------------------------------------------|------------------------|------------------------|-------------------------|
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Alpha Session |South America |24 |1499 |Fixed |[Legacy] Michigan International Speedway - 2009 |Mon, June 03 06:40PM EDT |Mon, June 03 11:40PM BST |Tue, June 04 08:40AM AEST |
 
 ### Dallara IR18
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|--------------------|-----------------------|-----------------------|------------------------|
-|[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge |South America |54 |3284 | | | | | |
+|-------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
+|[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge |South America |44 |3332 | |Detroit Grand Prix at Belle Isle |Mon, June 03 05:40PM EDT |Mon, June 03 10:40PM BST |Tue, June 04 07:40AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Fórmula Indy \- Temporada 2 |South America |18 |2286 | | | | | |
 |[F1BC Indi Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9335){:target="_blank"} |2024/2 |South America |14 |3240 | |Texas Motor Speedway |Wed, May 29 07:35PM EDT |Thu, May 30 12:35AM BST |Thu, May 30 09:35AM AEST |
 
@@ -82,7 +82,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T2 |South America |29 |2571 | |Misano World Circuit Marco Simoncelli |Tue, May 28 06:30PM EDT |Tue, May 28 11:30PM BST |Wed, May 29 08:30AM AEST |
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |17 |1625 | | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |17 |1623 | | | | | |
 
 ### Mazda MX-5 Cup 2016
 
@@ -145,6 +145,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
-|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |1ª Fase \- Seletiva E\-Stock |South America |105 |None | |WeatherTech Raceway at Laguna Seca |Sun, May 26 11:00AM EDT |Sun, May 26 04:00PM BST |Mon, May 27 01:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |1ª Fase \- Seletiva E\-Stock |South America |114 |None | | | | | |
 

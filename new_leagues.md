@@ -11,20 +11,19 @@
 |[CAC Street Stock League](https://members.iracing.com/membersite/member/LeagueView.do?league=11060){:target="_blank"} |[Discord](https://discord.gg/cJmdE4rM){:target="_blank"} |fun racing league with on fun tracks with fun cars |
 |[Champion Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11093){:target="_blank"} | |In our iRacing series, modeled after the European Le Mans Series, teams consist of two drivers, but each driver competes solo\. This unique format adds an extra layer of strategy and intensity as each driver must manage their race independently while still working towards a common goal for their team\. |
 |[Danger Zone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11066){:target="_blank"} | | |
-|[DCinside SimRacing Game Gallery Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11052){:target="_blank"} | |심레이싱 게임 갤러리의 갤멀 리그 |
 |[Dirt Kings](https://members.iracing.com/membersite/member/LeagueView.do?league=11087){:target="_blank"} | |this league is all about dirt track racking because it is the best type of racing |
 |[DxDroids League Hotlap](https://members.iracing.com/membersite/member/LeagueView.do?league=11077){:target="_blank"} | |DxDroids League Hotlap |
 |[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} | |8 week summer time series consisting of Indy Car, ARCA and Trucks |
-|[GO FAST OR BE LAST AI EDITION](https://members.iracing.com/membersite/member/LeagueView.do?league=11051){:target="_blank"} | |WE ARE RUNNING 125% STRENGTH AI |
 |[Golgotha Esports And Broadcasting](https://members.iracing.com/membersite/member/LeagueView.do?league=11058){:target="_blank"} | |Fun, Friendly League with a Competitive Attitude\. We are family here, Chill And have fun\. |
 |[Good Egg Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11084){:target="_blank"} | |The purpose of this leage is to learn and have fun with friends |
 |[Iracing Fixed Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11086){:target="_blank"} |[Discord](https://discord.com/channels/1243012539168591892/1243012539772833834){:target="_blank"} |Fixed Series with Open/NiS race lengths |
+|[J @ J](https://members.iracing.com/membersite/member/LeagueView.do?league=11099){:target="_blank"} | | |
 |[Light Wheel Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11092){:target="_blank"} | |Multi class light car \(VEE with FF1600 and Radical next week\) |
-|[Metal Heads](https://members.iracing.com/membersite/member/LeagueView.do?league=11053){:target="_blank"} | |Truck Series |
 |[Mid South Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11070){:target="_blank"} | |Competitive racers, Respectful racers, Myself and the other owners look forward to competing with you in this new league\. |
 |[Midwest Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11078){:target="_blank"} | |Craftsman trucks/fixed series |
 |[MJK Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=11065){:target="_blank"} | | |
 |[Morning Wood](https://members.iracing.com/membersite/member/LeagueView.do?league=11095){:target="_blank"} | |GT3 road course |
+|[Mukka Motorsport Midget Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=11098){:target="_blank"} | | |
 |[MXLT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11073){:target="_blank"} | |A league dedicated to yesteryear\. Monster energy cup, Legacy Xfinity, Legacy Trucks |
 |[No RTV Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11064){:target="_blank"} | |A GR86 racing league with all of the fun, none of the oil starvation\. |
 |[OC GR CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11057){:target="_blank"} |[Discord](https://discord.gg/ShAcCH2cuQ){:target="_blank"} |Opp Central GR86 Championship \(Dont be an opp\) |
@@ -41,10 +40,8 @@
 |[Sunday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=11062){:target="_blank"} |[Discord](https://discord.com/channels/1240057977809932358/1240057977809932361){:target="_blank"} |This is intended to be a developmental series for new talent entering the server, as well as a place where veterans can come and enjoy a pressure free event\. Our hope is that veterans, yes will race hard for the wins, but also be vocal and encouraging toward struggling drivers\. We'd like to see a mentorship mentality from the veterans that choose to spend their evenings with us\. Everyone is welcome to enjoy a low pressure and low risk series\. |
 |[Total Speed Racing League \(Xfinity\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11072){:target="_blank"} | |Xfinity side of the AI league |
 |[TRX Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11082){:target="_blank"} | |Xfinity Series |
-|[Virtual Racing Aotearoa \- 2024 Midget Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} | | |
 |[VMP](https://members.iracing.com/membersite/member/LeagueView.do?league=11074){:target="_blank"} |[Discord](https://discord.gg/CymAZBNy){:target="_blank"} |Liga de carreras virtuales creada para sentir el maximo realismo del mundo de las carreras reales\. |
 |[Wicked Exiles Gaming](https://members.iracing.com/membersite/member/LeagueView.do?league=11056){:target="_blank"} | | |
-|[Checkered Sloth Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11050){:target="_blank"} | | |
 |[EXTRA OOPS LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11055){:target="_blank"} | | |
 |[Lame Sheep Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11069){:target="_blank"} | | |
 |[NxtLvl Racing Present's\-Street stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} | |All types of racing |

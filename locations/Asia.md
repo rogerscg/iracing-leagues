@@ -37,7 +37,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
 |[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |15 |1307 | | | | | |
-|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |2024 May IMSA \+ Porsche Cup Sessions |Asia |11 |1972 | |Misano World Circuit Marco Simoncelli |Sun, May 26 08:00AM EDT |Sun, May 26 01:00PM BST |Sun, May 26 10:00PM AEST |
+|[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |2024 May IMSA \+ Porsche Cup Sessions |Asia |12 |1963 | |Detroit Grand Prix at Belle Isle |Sun, June 02 08:00AM EDT |Sun, June 02 01:00PM BST |Sun, June 02 10:00PM AEST |
 
