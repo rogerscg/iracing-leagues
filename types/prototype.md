@@ -27,8 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
-|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S2 |North America |56 |2800 | |Misano World Circuit Marco Simoncelli |Mon, May 27 07:30PM EDT |Tue, May 28 12:30AM BST |Tue, May 28 09:30AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------------|-----------------------|-----------------------|------------------------|
+|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S2 |North America |56 |2814 | | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |16 |2098 |Open |Brands Hatch Circuit |Wed, May 29 07:30PM EDT |Thu, May 30 12:30AM BST |Thu, May 30 09:30AM AEST |
 |[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO s4 |Europe |15 |2352 |Fixed | | | | |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso Radical Fun Racce |Europe |14 |1696 | | | | | |
@@ -61,7 +61,6 @@
 |[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |37 |2419 |Fixed | | | | |
 |[LFR \- Loose is Fast Racing Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=8433){:target="_blank"} |North Atlantic Radical Run |North America |26 |1763 |Open |Circuit Gilles Villeneuve |Wed, May 29 08:30PM EDT |Thu, May 30 01:30AM BST |Thu, May 30 10:30AM AEST |
 |[Dario's Giga League](https://members.iracing.com/membersite/member/LeagueView.do?league=11039){:target="_blank"} |Season 1 |Europe |16 |2156 | | | | | |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Radical SR8 S1 2024 |North America |12 |1043 | | | | | |
 
 ### Spec Racer Ford
 

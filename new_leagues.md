@@ -25,8 +25,10 @@
 |[Morning Wood](https://members.iracing.com/membersite/member/LeagueView.do?league=11095){:target="_blank"} | |GT3 road course |
 |[Mukka Motorsport Midget Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=11098){:target="_blank"} | | |
 |[MXLT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11073){:target="_blank"} | |A league dedicated to yesteryear\. Monster energy cup, Legacy Xfinity, Legacy Trucks |
+|[NASCAR CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11100){:target="_blank"} |[Discord](https://discord.gg/x35UMEMD){:target="_blank"} |JOIN THE DISCORD https://discord\.gg/x35UMEMD |
 |[No RTV Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11064){:target="_blank"} | |A GR86 racing league with all of the fun, none of the oil starvation\. |
 |[OC GR CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11057){:target="_blank"} |[Discord](https://discord.gg/ShAcCH2cuQ){:target="_blank"} |Opp Central GR86 Championship \(Dont be an opp\) |
+|[OEXP Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=11101){:target="_blank"} | |Liga de comunidad Omega EXP |
 |[OnlyTrucks iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11075){:target="_blank"} |[Discord](https://discord.gg/N4bkUkKZ5M){:target="_blank"} |OnlyTrucks iRacing Series is an iRacing league founded with the purpose of creating friendships, developing drivers, and having great competitive races\. |
 |[Pandemonium SimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11094){:target="_blank"} | |PSR events\! |
 |[Racers Elite \- Stafford Motor Speedway Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11089){:target="_blank"} | | |
@@ -41,8 +43,6 @@
 |[Total Speed Racing League \(Xfinity\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11072){:target="_blank"} | |Xfinity side of the AI league |
 |[TRX Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11082){:target="_blank"} | |Xfinity Series |
 |[VMP](https://members.iracing.com/membersite/member/LeagueView.do?league=11074){:target="_blank"} |[Discord](https://discord.gg/CymAZBNy){:target="_blank"} |Liga de carreras virtuales creada para sentir el maximo realismo del mundo de las carreras reales\. |
-|[Wicked Exiles Gaming](https://members.iracing.com/membersite/member/LeagueView.do?league=11056){:target="_blank"} | | |
-|[EXTRA OOPS LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11055){:target="_blank"} | | |
 |[Lame Sheep Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11069){:target="_blank"} | | |
 |[NxtLvl Racing Present's\-Street stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} | |All types of racing |
 |[XPress eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11079){:target="_blank"} | | |
