@@ -8,14 +8,12 @@
 |[Aussie Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11090){:target="_blank"} |[Discord](https://discord.gg/tkdFJSsrK2){:target="_blank"} |Australian East Coast based Tuesday night IMSA endurance league\.  Race Schedule follows iRacing Official Calander  AEST TIMES:  7:00pm Open Practice  7:40pm Open Qualifying  8:00pm 2Hr Race |
 |[British Pro/AM Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11081){:target="_blank"} | |A mainly British GT based league with a PRO/AM team set up\. With the odd special calendar event thrown in for good measure\! |
 |[Bulls Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11096){:target="_blank"} | |League for Bulls Racing members\. |
-|[CAC Street Stock League](https://members.iracing.com/membersite/member/LeagueView.do?league=11060){:target="_blank"} |[Discord](https://discord.gg/cJmdE4rM){:target="_blank"} |fun racing league with on fun tracks with fun cars |
 |[Champion Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11093){:target="_blank"} | |In our iRacing series, modeled after the European Le Mans Series, teams consist of two drivers, but each driver competes solo\. This unique format adds an extra layer of strategy and intensity as each driver must manage their race independently while still working towards a common goal for their team\. |
 |[Danger Zone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11066){:target="_blank"} | | |
 |[Dirt Kings](https://members.iracing.com/membersite/member/LeagueView.do?league=11087){:target="_blank"} | |this league is all about dirt track racking because it is the best type of racing |
 |[DxDroids League Hotlap](https://members.iracing.com/membersite/member/LeagueView.do?league=11077){:target="_blank"} | |DxDroids League Hotlap |
-|[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} | |8 week summer time series consisting of Indy Car, ARCA and Trucks |
-|[Golgotha Esports And Broadcasting](https://members.iracing.com/membersite/member/LeagueView.do?league=11058){:target="_blank"} | |Fun, Friendly League with a Competitive Attitude\. We are family here, Chill And have fun\. |
 |[Good Egg Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11084){:target="_blank"} | |The purpose of this leage is to learn and have fun with friends |
+|[iCar Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11103){:target="_blank"} | | |
 |[Iracing Fixed Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11086){:target="_blank"} |[Discord](https://discord.com/channels/1243012539168591892/1243012539772833834){:target="_blank"} |Fixed Series with Open/NiS race lengths |
 |[J @ J](https://members.iracing.com/membersite/member/LeagueView.do?league=11099){:target="_blank"} | | |
 |[Light Wheel Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11092){:target="_blank"} | |Multi class light car \(VEE with FF1600 and Radical next week\) |
@@ -27,7 +25,6 @@
 |[MXLT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11073){:target="_blank"} | |A league dedicated to yesteryear\. Monster energy cup, Legacy Xfinity, Legacy Trucks |
 |[NASCAR CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11100){:target="_blank"} |[Discord](https://discord.gg/x35UMEMD){:target="_blank"} |JOIN THE DISCORD https://discord\.gg/x35UMEMD |
 |[No RTV Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11064){:target="_blank"} | |A GR86 racing league with all of the fun, none of the oil starvation\. |
-|[OC GR CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11057){:target="_blank"} |[Discord](https://discord.gg/ShAcCH2cuQ){:target="_blank"} |Opp Central GR86 Championship \(Dont be an opp\) |
 |[OEXP Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=11101){:target="_blank"} | |Liga de comunidad Omega EXP |
 |[OnlyTrucks iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11075){:target="_blank"} |[Discord](https://discord.gg/N4bkUkKZ5M){:target="_blank"} |OnlyTrucks iRacing Series is an iRacing league founded with the purpose of creating friendships, developing drivers, and having great competitive races\. |
 |[Pandemonium SimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11094){:target="_blank"} | |PSR events\! |
@@ -45,5 +42,6 @@
 |[VMP](https://members.iracing.com/membersite/member/LeagueView.do?league=11074){:target="_blank"} |[Discord](https://discord.gg/CymAZBNy){:target="_blank"} |Liga de carreras virtuales creada para sentir el maximo realismo del mundo de las carreras reales\. |
 |[Lame Sheep Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11069){:target="_blank"} | | |
 |[NxtLvl Racing Present's\-Street stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} | |All types of racing |
+|[Trak Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=11102){:target="_blank"} | |TRAK RACER VIP EVENT \- BEAT NIELS LANGEVELD |
 |[XPress eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11079){:target="_blank"} | | |
 

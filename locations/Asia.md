@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Oman Digital Motorsport F4 Championship |Asia |27 |1500 | |WeatherTech Raceway at Laguna Seca |Wed, May 29 12:00PM EDT |Wed, May 29 05:00PM BST |Thu, May 30 02:00AM AEST |
-|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Season one |Asia |24 |1325 | | | | | |
+|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Season one |Asia |26 |1359 | | | | | |
 
 # Sports Car
 
@@ -38,6 +38,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
-|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |15 |1307 | | | | | |
+|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |15 |1307 | |Tsukuba Circuit |Sat, June 01 06:00AM EDT |Sat, June 01 11:00AM BST |Sat, June 01 08:00PM AEST |
 |[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |2024 May IMSA \+ Porsche Cup Sessions |Asia |12 |1963 | |Detroit Grand Prix at Belle Isle |Sun, June 02 08:00AM EDT |Sun, June 02 01:00PM BST |Sun, June 02 10:00PM AEST |
 
