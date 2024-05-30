@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
-|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Oman Digital Motorsport F4 Championship |Asia |27 |1500 | |WeatherTech Raceway at Laguna Seca |Wed, May 29 12:00PM EDT |Wed, May 29 05:00PM BST |Thu, May 30 02:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
+|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Oman Digital Motorsport F4 Championship |Asia |30 |1626 | |Oulton Park Circuit |Tue, June 04 12:00PM EDT |Tue, June 04 05:00PM BST |Wed, June 05 02:00AM AEST |
 |[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Season one |Asia |26 |1359 | | | | | |
 
 # Sports Car

@@ -1,8 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[A2 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11063){:target="_blank"} | |A2 League |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[AK Informatica](https://members.iracing.com/membersite/member/LeagueView.do?league=11071){:target="_blank"} | |test |
 |[ArmyBZ](https://members.iracing.com/membersite/member/LeagueView.do?league=11097){:target="_blank"} | | |
 |[Aussie Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11090){:target="_blank"} |[Discord](https://discord.gg/tkdFJSsrK2){:target="_blank"} |Australian East Coast based Tuesday night IMSA endurance league\.  Race Schedule follows iRacing Official Calander  AEST TIMES:  7:00pm Open Practice  7:40pm Open Qualifying  8:00pm 2Hr Race |
@@ -24,22 +23,22 @@
 |[Mukka Motorsport Midget Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=11098){:target="_blank"} | | |
 |[MXLT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11073){:target="_blank"} | |A league dedicated to yesteryear\. Monster energy cup, Legacy Xfinity, Legacy Trucks |
 |[NASCAR CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11100){:target="_blank"} |[Discord](https://discord.gg/x35UMEMD){:target="_blank"} |JOIN THE DISCORD https://discord\.gg/x35UMEMD |
-|[No RTV Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11064){:target="_blank"} | |A GR86 racing league with all of the fun, none of the oil starvation\. |
 |[OEXP Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=11101){:target="_blank"} | |Liga de comunidad Omega EXP |
 |[OnlyTrucks iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11075){:target="_blank"} |[Discord](https://discord.gg/N4bkUkKZ5M){:target="_blank"} |OnlyTrucks iRacing Series is an iRacing league founded with the purpose of creating friendships, developing drivers, and having great competitive races\. |
 |[Pandemonium SimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11094){:target="_blank"} | |PSR events\! |
 |[Racers Elite \- Stafford Motor Speedway Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11089){:target="_blank"} | | |
 |[Revolution eRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11088){:target="_blank"} | | |
-|[Showtime Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11061){:target="_blank"} | |Tuesday Night Fun League |
 |[Sim Xpress Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11091){:target="_blank"} | |This isnt your cookie cutter league\. each season will have 1 random car and 15 random tracks\. each week there will be 100% field inversion to maximize the 1 hour session\. |
 |[Slip & Grip Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11080){:target="_blank"} | |Semi Casual sim racing league based in the UK with a heavy influence on the social aspects\. |
+|[SM IRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11106){:target="_blank"} | |SM employee weekly IRacing league |
 |[SPEED Independent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11067){:target="_blank"} | |A league for my friends and I\. |
 |[Street Sweepers](https://members.iracing.com/membersite/member/LeagueView.do?league=11083){:target="_blank"} | | |
 |[Sullys league](https://members.iracing.com/membersite/member/LeagueView.do?league=11076){:target="_blank"} | | |
-|[Sunday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=11062){:target="_blank"} |[Discord](https://discord.com/channels/1240057977809932358/1240057977809932361){:target="_blank"} |This is intended to be a developmental series for new talent entering the server, as well as a place where veterans can come and enjoy a pressure free event\. Our hope is that veterans, yes will race hard for the wins, but also be vocal and encouraging toward struggling drivers\. We'd like to see a mentorship mentality from the veterans that choose to spend their evenings with us\. Everyone is welcome to enjoy a low pressure and low risk series\. |
 |[Total Speed Racing League \(Xfinity\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11072){:target="_blank"} | |Xfinity side of the AI league |
 |[TRX Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11082){:target="_blank"} | |Xfinity Series |
+|[USORL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11105){:target="_blank"} | |Official USORL Trucks League Page |
 |[VMP](https://members.iracing.com/membersite/member/LeagueView.do?league=11074){:target="_blank"} |[Discord](https://discord.gg/CymAZBNy){:target="_blank"} |Liga de carreras virtuales creada para sentir el maximo realismo del mundo de las carreras reales\. |
+|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} | |A league built on mateship , compete hard,fair & with respect |
 |[Lame Sheep Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11069){:target="_blank"} | | |
 |[NxtLvl Racing Present's\-Street stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} | |All types of racing |
 |[Trak Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=11102){:target="_blank"} | |TRAK RACER VIP EVENT \- BEAT NIELS LANGEVELD |
