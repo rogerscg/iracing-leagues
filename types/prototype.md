@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------|-----------------------|-----------------------|------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |26 |2575 | | | | | |
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 2 |North America |17 |2773 |Open | | | | |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |15 |1819 |Fixed |Road Atlanta |Thu, May 30 08:30PM EDT |Fri, May 31 01:30AM BST |Fri, May 31 10:30AM AEST |
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |Prototype Challenge Season 2 |North America |17 |2758 |Open | | | | |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 3 : LMP2 Showdown |North America |15 |1826 |Fixed |Watkins Glen International |Sun, June 02 08:30PM EDT |Mon, June 03 01:30AM BST |Mon, June 03 10:30AM AEST |
 
 ### GTP
 
@@ -49,7 +49,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |34 |3362 | |Road America |Sun, June 02 02:10PM EDT |Sun, June 02 07:10PM BST |Mon, June 03 04:10AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |29 |2571 | |Road America |Sun, June 02 07:30PM EDT |Mon, June 03 12:30AM BST |Mon, June 03 09:30AM AEST |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 2 |Europe |22 |2913 |Open |Road America |Thu, May 30 02:15PM EDT |Thu, May 30 07:15PM BST |Fri, May 31 04:15AM AEST |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 2 |Europe |22 |2960 |Open | | | | |
 |[OVAL\-UTION / Évenements Spéciaux](https://members.iracing.com/membersite/member/LeagueView.do?league=10851){:target="_blank"} |Évenements Spéciaux Saison Printemps / Été 2024 |North America |14 |1602 | | | | | |
 
 ### Radical SR8
@@ -68,7 +68,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024  Season 2 |North America |83 |3100 |Open |Watkins Glen International |Sun, June 02 02:40PM EDT |Sun, June 02 07:40PM BST |Mon, June 03 04:40AM AEST |
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024  Season 2 |North America |71 |3112 |Open |Watkins Glen International |Sun, June 02 02:40PM EDT |Sun, June 02 07:40PM BST |Mon, June 03 04:40AM AEST |
 |[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |SCCA Spec Racer Ford \- Season 2 |North America |31 |1847 |Fixed | | | | |
 |[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Spring Tour SRF |North America |31 |2646 |Open | | | | |
 

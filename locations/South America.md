@@ -70,9 +70,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|-----------------------|-----------------------|------------------------|
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/2 |South America |52 |1944 | |Road Atlanta |Thu, May 30 05:25PM EDT |Thu, May 30 10:25PM BST |Fri, May 31 07:25AM AEST |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/2 |South America |49 |3688 | |Road Atlanta |Thu, May 30 07:25PM EDT |Fri, May 31 12:25AM BST |Fri, May 31 09:25AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |2024/2 |South America |52 |1980 | | | | | |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |2024/2 |South America |49 |3766 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -133,7 +133,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |24 |1843 | | | | | |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Road \- 2024 T1 |South America |18 |1909 | | | | | |
 
 # Multi-class/Unclassified
 
