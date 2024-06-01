@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|---------|-------------|-------|----|-----|-------------|--------|------|------|
-|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |11 |1338 |Fixed | | | | |
+|[American Dirt Series Pro2/Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |PRO2/PRO4 |North America |10 |1324 |Fixed | | | | |
 
 ### Pro 2 Lite Truck
 

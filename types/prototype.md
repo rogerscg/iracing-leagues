@@ -28,7 +28,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
-|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S2 |North America |56 |2814 | | | | | |
+|[PRL Production Car Series \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2 Series 2024/S2 |North America |54 |2815 | | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |17 |2084 |Open |Circuit Gilles Villeneuve |Wed, June 05 07:30PM EDT |Thu, June 06 12:30AM BST |Thu, June 06 09:30AM AEST |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso Radical Fun Racce |Europe |14 |1696 | | | | | |
 
@@ -37,9 +37,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|--------------------------|-----------------------|-----------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Purple Sector Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |Dad Bod Racing \- LMP3 2024s2 |North America |17 |2428 |Open | | | | |
-|[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2024\-2 LMP3 |Europe |12 |2008 |Fixed |Mid-Ohio Sports Car Course |Fri, May 31 04:00PM EDT |Fri, May 31 09:00PM BST |Sat, June 01 06:00AM AEST |
+|[JackknifeRacing\.TV F3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=7969){:target="_blank"} |2024\-2 LMP3 |Europe |12 |2019 |Fixed | | | | |
 
 ### Radical SR10
 

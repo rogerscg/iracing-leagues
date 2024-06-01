@@ -15,10 +15,12 @@
 |[Good Egg Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11084){:target="_blank"} | |The purpose of this leage is to learn and have fun with friends |
 |[iCar Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11103){:target="_blank"} | | |
 |[Iracing Fixed Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11086){:target="_blank"} |[Discord](https://discord.com/channels/1243012539168591892/1243012539772833834){:target="_blank"} |Fixed Series with Open/NiS race lengths |
+|[IVR Interliga Virtual Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} | |Mexico League |
 |[J @ J](https://members.iracing.com/membersite/member/LeagueView.do?league=11099){:target="_blank"} | | |
 |[Light Wheel Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11092){:target="_blank"} | |Multi class light car \(VEE with FF1600 and Radical next week\) |
 |[Mid South Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11070){:target="_blank"} | |Competitive racers, Respectful racers, Myself and the other owners look forward to competing with you in this new league\. |
 |[Midwest Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11078){:target="_blank"} | |Craftsman trucks/fixed series |
+|[Misfit Touring Series \| Season 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11109){:target="_blank"} | | |
 |[Morning Wood](https://members.iracing.com/membersite/member/LeagueView.do?league=11095){:target="_blank"} | |GT3 road course |
 |[Mukka Motorsport Midget Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=11098){:target="_blank"} | | |
 |[MXLT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11073){:target="_blank"} | |A league dedicated to yesteryear\. Monster energy cup, Legacy Xfinity, Legacy Trucks |
@@ -31,7 +33,6 @@
 |[Sim Xpress Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11091){:target="_blank"} | |This isnt your cookie cutter league\. each season will have 1 random car and 15 random tracks\. each week there will be 100% field inversion to maximize the 1 hour session\. |
 |[Slip & Grip Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11080){:target="_blank"} | |Semi Casual sim racing league based in the UK with a heavy influence on the social aspects\. |
 |[SM IRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11106){:target="_blank"} | |SM employee weekly IRacing league |
-|[SPEED Independent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11067){:target="_blank"} | |A league for my friends and I\. |
 |[Street Sweepers](https://members.iracing.com/membersite/member/LeagueView.do?league=11083){:target="_blank"} | | |
 |[Sullys league](https://members.iracing.com/membersite/member/LeagueView.do?league=11076){:target="_blank"} | | |
 |[Total Speed Racing League \(Xfinity\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11072){:target="_blank"} | |Xfinity side of the AI league |
