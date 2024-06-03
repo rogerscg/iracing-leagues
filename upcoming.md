@@ -18,9 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|-----------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------|------------------------|------------------------|-------------------------|
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR Gen 4 2024 Season 2 |Fixed |The Milwaukee Mile |Mon, June 03 08:15PM EDT |Tue, June 04 01:15AM BST |Tue, June 04 10:15AM AEST |
-|[Round The Outside Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7175){:target="_blank"} |Season 1 Mini\-Series |Fixed |Talladega Superspeedway |Sun, June 02 07:30PM EDT |Mon, June 03 12:30AM BST |Mon, June 03 09:30AM AEST |
 
 ### NASCAR 2022 NextGen
 
@@ -28,6 +27,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[A2 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11026){:target="_blank"} |A2 Racing | |Daytona International Speedway |Mon, June 10 08:30PM EDT |Tue, June 11 01:30AM BST |Tue, June 11 10:30AM AEST |
 |[GEARS Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9223){:target="_blank"} |2024 GEARS Sprocket Series |Fixed |Daytona International Speedway |Mon, June 03 07:00PM EDT |Tue, June 04 12:00AM BST |Tue, June 04 09:00AM AEST |
 
 ### NASCAR Cup
@@ -44,6 +44,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|---------------------------------------|------------------------|------------------------|-------------------------|
+|[AI Simulator Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11107){:target="_blank"} |2024 Truck Racing Season \#1 |Fixed |Richmond Raceway |Thu, June 06 08:00PM EDT |Fri, June 07 01:00AM BST |Fri, June 07 10:00AM AEST |
 |[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} |Relevant Sounds Truck Series | |Talladega Superspeedway |Thu, June 06 07:00PM EDT |Fri, June 07 12:00AM BST |Fri, June 07 09:00AM AEST |
 |[iSNF: TRUCK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6603){:target="_blank"} |TRUCK SEASON 11 | |Sonoma Raceway |Sat, June 08 08:00PM EDT |Sun, June 09 01:00AM BST |Sun, June 09 10:00AM AEST |
 |[Midwest Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11078){:target="_blank"} |Midwest Truck Series | |Daytona International Speedway |Wed, June 05 08:00PM EDT |Thu, June 06 01:00AM BST |Thu, June 06 10:00AM AEST |
@@ -64,10 +65,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-------------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |Xfinity Season 2 2024 |Both |Daytona International Speedway |Tue, June 04 07:00PM EDT |Wed, June 05 12:00AM BST |Wed, June 05 09:00AM AEST |
-|[3 Wide Gen 4 Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7668){:target="_blank"} |Fast n Fun Xfinity Season 1 |Fixed |Michigan International Speedway |Sun, June 02 08:45PM EDT |Mon, June 03 01:45AM BST |Mon, June 03 10:45AM AEST |
 |[Great Lakes Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Summer Series \- Season 2 |Fixed |Auto Club Speedway |Tue, June 04 06:55PM EDT |Tue, June 04 11:55PM BST |Wed, June 05 08:55AM AEST |
+|[The Simpit Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4263){:target="_blank"} |The Simpit Season 23/ Xfinity |Fixed |Atlanta Motor Speedway |Mon, June 10 08:00PM EDT |Tue, June 11 01:00AM BST |Tue, June 11 10:00AM AEST |
 |[Lucky Dog Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9984){:target="_blank"} |Top Tier Racing Season 1 |Fixed |Iowa Speedway |Tue, June 04 09:00PM EDT |Wed, June 05 02:00AM BST |Wed, June 05 11:00AM AEST |
 
 # Oval
@@ -97,19 +98,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----|-------------------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------|----------------|-----|--------------------|------------------------|------------------------|-------------------------|
 |[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} |GLR IndyCar | |Iowa Speedway |Tue, June 04 07:00PM EDT |Wed, June 05 12:00AM BST |Wed, June 05 09:00AM AEST |
-|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |Madness |Open |Indianapolis Motor Speedway |Sun, June 02 02:00PM EDT |Sun, June 02 07:00PM BST |Mon, June 03 04:00AM AEST |
 |[Magic Manzo](https://members.iracing.com/membersite/member/LeagueView.do?league=8359){:target="_blank"} |Indy Oval League | |Texas Motor Speedway |Wed, June 05 09:30PM EDT |Thu, June 06 02:30AM BST |Thu, June 06 11:30AM AEST |
-|[STARS \- Smoking Tires Amateur Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4868){:target="_blank"} |Off Season Fun Races |Fixed |Michigan International Speedway |Sun, June 02 07:30PM EDT |Mon, June 03 12:30AM BST |Mon, June 03 09:30AM AEST |
 
 ### FIA F4
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[Jamaica Simulation Racing Association \(JSRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11037){:target="_blank"} |FIA Formula 4 Championship | |Virginia International Raceway |Sun, June 02 02:00PM EDT |Sun, June 02 07:00PM BST |Mon, June 03 04:00AM AEST |
+|---------------------------------------------------------------------------------------------------------|-------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[L\.A\. Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11004){:target="_blank"} |Copa F4 \- Season I |Both |WeatherTech Raceway at Laguna Seca |Mon, June 03 08:10PM EDT |Tue, June 04 01:10AM BST |Tue, June 04 10:10AM AEST |
 
 ### Lotus 49
@@ -143,8 +141,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|---------------|-----|------------|------------------------|------------------------|-------------------------|
-|[Llama Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |DHRL \- Pursuit |Both |Road America |Sun, June 02 07:30PM EDT |Mon, June 03 12:30AM BST |Mon, June 03 09:30AM AEST |
+|-----------------------------------------------------------------------------------------------------------|---------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[MC Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |GT3 \- Season 1 |Fixed |Motorsport Arena Oschersleben |Mon, June 10 05:00AM EDT |Mon, June 10 10:00AM BST |Mon, June 10 07:00PM AEST |
 
 ### GT4 Class
 
@@ -152,15 +150,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|--------------|-----|------------|------------------------|------------------------|-------------------------|
-|[BMW CCA NCC Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4863){:target="_blank"} |2024 S3 SUMMER |Fixed |Hungaroring |Wed, June 05 07:00PM EDT |Thu, June 06 12:00AM BST |Thu, June 06 09:00AM AEST |
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Evolution Sim Racing MONDAY PRACTICE](https://members.iracing.com/membersite/member/LeagueView.do?league=10200){:target="_blank"} |Sunday Multi\-Class Social League | |Virginia International Raceway |Sun, June 02 02:30PM EDT |Sun, June 02 07:30PM BST |Mon, June 03 04:30AM AEST |
+|[BMW CCA NCC Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4863){:target="_blank"} |2024 S3 SUMMER |Fixed |Hungaroring |Thu, June 06 07:00PM EDT |Fri, June 07 12:00AM BST |Fri, June 07 09:00AM AEST |
 
 ### IMSA23
 
@@ -185,6 +175,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------|-----------------------|-----|--------------------|------------------------|------------------------|-------------------------|
 |[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |2024\-06 \| 2° Stagione | |Brands Hatch Circuit |Tue, June 04 03:15PM EDT |Tue, June 04 08:15PM BST |Wed, June 05 05:15AM AEST |
+
+### Touring Car
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|-------------------|-----|--------------------|------------------------|------------------------|-------------------------|
+|[SRL Community GR86 League](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |SRL Freebie Fridays |Fixed |Winton Motor Raceway |Fri, June 07 03:20AM EDT |Fri, June 07 08:20AM BST |Fri, June 07 05:20PM AEST |
 
 ### Toyota GR86
 
@@ -224,12 +222,29 @@
 
 # Dirt Oval
 
+### Dirt Outlaw Micro Sprint Car - Winged
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------|------------------------|------------------------|-------------------------|
+|[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |Outlaw Micro Sprints Season 2 |Both |Lanier National Speedway |Mon, June 10 07:30PM EDT |Tue, June 11 12:30AM BST |Tue, June 11 09:30AM AEST |
+
+### Dirt SprintCar - 360
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-----------------|------------------------|------------------------|-------------------------|
+|[TRL Street Stock Title 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |2024 360 Sprintcar Rumble | |Knoxville Raceway |Mon, June 10 06:30AM EDT |Mon, June 10 11:30AM BST |Mon, June 10 08:30PM AEST |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------|-----|-------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|-------------------------|------------------------|------------------------|-------------------------|
+|[Reigel Promotions E\-Sports Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2024 Summer Showcase \- Monday, June 10 Wing 360s |Fixed |Lanier National Speedway |Mon, June 10 09:00PM EDT |Tue, June 11 02:00AM BST |Tue, June 11 11:00AM AEST |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- FUN RUN |Open |Limaland Motorsports Park |Mon, June 03 07:00PM EDT |Tue, June 04 12:00AM BST |Tue, June 04 09:00AM AEST |
 
 # Multi-class/Unclassified
@@ -239,14 +254,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|----------------------------------------|------------------------|------------------------|-------------------------|
-|[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Preseason Sessions \- No Points |Both |USA International Speedway |Sun, June 02 08:00PM EDT |Mon, June 03 01:00AM BST |Mon, June 03 10:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|----------------------------------------|------------------------|------------------------|-------------------------|
 |[Llama Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |Nordschleife Season 2 |Both |Nürburgring Nordschleife |Wed, June 05 08:15PM EDT |Thu, June 06 01:15AM BST |Thu, June 06 10:15AM AEST |
 |[League of Extraordinarily Average Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=7272){:target="_blank"} |6 | |Thompson Speedway Motorsports Park |Thu, June 06 08:45PM EDT |Fri, June 07 01:45AM BST |Fri, June 07 10:45AM AEST |
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |Legend Gang Week 13 | |Five Flags Speedway |Mon, June 03 07:00PM EDT |Tue, June 04 12:00AM BST |Tue, June 04 09:00AM AEST |
 |[RiA IRL ComChamp FORCECAR 12 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11036){:target="_blank"} |FASTEST |Open |Las Vegas Motor Speedway |Sat, June 08 06:00AM EDT |Sat, June 08 11:00AM BST |Sat, June 08 08:00PM AEST |
 |[RiA IRL ComChamp FORCECAR 12 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11036){:target="_blank"} |MESS |Open |[Legacy] Charlotte Motor Speedway - 2008 |Fri, June 07 07:30AM EDT |Fri, June 07 12:30PM BST |Fri, June 07 09:30PM AEST |
-|[RiA IRL ComChamp FORCECAR 12 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11036){:target="_blank"} |RAINBOW |Open |USA International Speedway |Sun, June 02 10:30AM EDT |Sun, June 02 03:30PM BST |Mon, June 03 12:30AM AEST |
 |[RiA IRL ComChamp FORCECAR 12 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11036){:target="_blank"} |TOMCAT |Open |New Smyrna Speedway |Fri, June 07 10:30AM EDT |Fri, June 07 03:30PM BST |Sat, June 08 12:30AM AEST |
 |[RiA IRL ComChamp FORCECAR 12 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11036){:target="_blank"} |WRECKing |Open |iRacing Superspeedway |Mon, June 03 11:45AM EDT |Mon, June 03 04:45PM BST |Tue, June 04 01:45AM AEST |
 |[SRS Feierabend Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10307){:target="_blank"} |SRS\-iRFC DRM 2024 | |Hockenheimring Baden-Württemberg |Mon, June 03 01:15PM EDT |Mon, June 03 06:15PM BST |Tue, June 04 03:15AM AEST |

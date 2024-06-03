@@ -6,6 +6,7 @@
 |[ARCS Fast Fridays](https://members.iracing.com/membersite/member/LeagueView.do?league=11108){:target="_blank"} | |Xfinity Cars for ARCS |
 |[ArmyBZ](https://members.iracing.com/membersite/member/LeagueView.do?league=11097){:target="_blank"} | | |
 |[Aussie Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11090){:target="_blank"} |[Discord](https://discord.gg/tkdFJSsrK2){:target="_blank"} |Australian East Coast based Tuesday night IMSA endurance league\.  Race Schedule follows iRacing Official Calander  AEST TIMES:  7:00pm Open Practice  7:40pm Open Qualifying  8:00pm 2Hr Race |
+|[blade racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11119){:target="_blank"} | | |
 |[British Pro/AM Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11081){:target="_blank"} | |A mainly British GT based league with a PRO/AM team set up\. With the odd special calendar event thrown in for good measure\! |
 |[Bulls Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11096){:target="_blank"} | |League for Bulls Racing members\. |
 |[Champion Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11093){:target="_blank"} | |In our iRacing series, modeled after the European Le Mans Series, teams consist of two drivers, but each driver competes solo\. This unique format adds an extra layer of strategy and intensity as each driver must manage their race independently while still working towards a common goal for their team\. |
@@ -15,6 +16,7 @@
 |[FTS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11115){:target="_blank"} | |Follow The Sun Racing League |
 |[Good Egg Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11084){:target="_blank"} | |The purpose of this leage is to learn and have fun with friends |
 |[iCar Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11103){:target="_blank"} | | |
+|[Indy Car Career](https://members.iracing.com/membersite/member/LeagueView.do?league=11117){:target="_blank"} | |Career Mode |
 |[Iracing Fixed Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11086){:target="_blank"} |[Discord](https://discord.com/channels/1243012539168591892/1243012539772833834){:target="_blank"} |Fixed Series with Open/NiS race lengths |
 |[IVR Interliga Virtual Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} | |Mexico League |
 |[J @ J](https://members.iracing.com/membersite/member/LeagueView.do?league=11099){:target="_blank"} | | |
@@ -27,7 +29,6 @@
 |[Mukka Motorsport Midget Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=11098){:target="_blank"} | | |
 |[NASCAR CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11100){:target="_blank"} |[Discord](https://discord.gg/x35UMEMD){:target="_blank"} |JOIN THE DISCORD https://discord\.gg/x35UMEMD |
 |[OEXP Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=11101){:target="_blank"} | |Liga de comunidad Omega EXP |
-|[OnlyTrucks iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11075){:target="_blank"} |[Discord](https://discord.gg/N4bkUkKZ5M){:target="_blank"} |OnlyTrucks iRacing Series is an iRacing league founded with the purpose of creating friendships, developing drivers, and having great competitive races\. |
 |[Pandemonium SimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11094){:target="_blank"} | |PSR events\! |
 |[Racers Elite \- Stafford Motor Speedway Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11089){:target="_blank"} | | |
 |[Revolution eRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11088){:target="_blank"} | | |
@@ -36,10 +37,10 @@
 |[Slip & Grip Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11080){:target="_blank"} | |Semi Casual sim racing league based in the UK with a heavy influence on the social aspects\. |
 |[SM IRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11106){:target="_blank"} | |SM employee weekly IRacing league |
 |[Street Sweepers](https://members.iracing.com/membersite/member/LeagueView.do?league=11083){:target="_blank"} | | |
-|[Sullys league](https://members.iracing.com/membersite/member/LeagueView.do?league=11076){:target="_blank"} | | |
+|[The League \(An iRacing Series\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11118){:target="_blank"} | |The League for iRacers by iRacers |
+|[Total Speed Racing League IndyCar](https://members.iracing.com/membersite/member/LeagueView.do?league=11116){:target="_blank"} |[Discord](https://discord.gg/d2dUdAZGtB){:target="_blank"} |This is our IndyCar league\! We have two other leagues outside of this, check out our discord to find out ways to join\! :\) |
 |[TRX Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11082){:target="_blank"} | |Xfinity Series |
 |[USORL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11105){:target="_blank"} | |Official USORL Trucks League Page |
-|[VMP](https://members.iracing.com/membersite/member/LeagueView.do?league=11074){:target="_blank"} |[Discord](https://discord.gg/CymAZBNy){:target="_blank"} |Liga de carreras virtuales creada para sentir el maximo realismo del mundo de las carreras reales\. |
 |[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} | |A league built on mateship , compete hard,fair & with respect |
 |[NxtLvl Racing Present's\-Street stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} | |All types of racing |
 |[Trak Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=11102){:target="_blank"} | |TRAK RACER VIP EVENT \- BEAT NIELS LANGEVELD |
