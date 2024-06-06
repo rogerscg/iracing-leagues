@@ -20,7 +20,7 @@
 |[TDR Thursday Night SRX](https://members.iracing.com/membersite/member/LeagueView.do?league=8833){:target="_blank"} |TDR SRX Asphalt |North America |19 |1958 | |Nashville Fairgrounds Speedway |Thu, June 06 07:30PM EDT |Fri, June 07 12:30AM BST |Fri, June 07 09:30AM AEST |
 |[ARCS Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |ARCS Race Experience 2024 S2 |North America |18 |2000 | | | | | |
 |[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |Short Track Series |North America |18 |1742 |Both | | | | |
-|[TDR Thursday Night SRX](https://members.iracing.com/membersite/member/LeagueView.do?league=8833){:target="_blank"} |TDR SRX Dirt |North America |16 |1983 | | | | | |
+|[TDR Thursday Night SRX](https://members.iracing.com/membersite/member/LeagueView.do?league=8833){:target="_blank"} |TDR SRX Dirt |North America |16 |1983 | |Knoxville Raceway |Thu, June 13 07:30PM EDT |Fri, June 14 12:30AM BST |Fri, June 14 09:30AM AEST |
 |[STSL SRX Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10816){:target="_blank"} |STSL SRX Season 0 |North America |13 |2139 |Fixed |Eldora Speedway |Mon, June 10 08:30PM EDT |Tue, June 11 01:30AM BST |Tue, June 11 10:30AM AEST |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2024 Season 2 SRX \(Tuesday's\) |North America |12 |955 |Fixed |Eldora Speedway |Tue, June 11 07:00PM EDT |Wed, June 12 12:00AM BST |Wed, June 12 09:00AM AEST |
 |[NSR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5275){:target="_blank"} |SRX \- 2024 \- A |North America |11 |2417 |Open | | | | |
