@@ -23,12 +23,9 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[AI Simulator Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11107){:target="_blank"} |2024 Truck Racing Season \#1 |Fixed |Richmond Raceway |Thu, June 06 08:00PM EDT |Fri, June 07 01:00AM BST |Fri, June 07 10:00AM AEST |
-|[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} |Relevant Sounds Truck Series | |Talladega Superspeedway |Thu, June 06 07:00PM EDT |Fri, June 07 12:00AM BST |Fri, June 07 09:00AM AEST |
 |[iSNF: TRUCK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6603){:target="_blank"} |TRUCK SEASON 11 | |Sonoma Raceway |Sat, June 08 08:00PM EDT |Sun, June 09 01:00AM BST |Sun, June 09 10:00AM AEST |
 |[Mid Atlantic Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10854){:target="_blank"} |Mid Atlantic Racine Series Trucks Season 2 | |Iowa Speedway |Tue, June 11 06:30PM EDT |Tue, June 11 11:30PM BST |Wed, June 12 08:30AM AEST |
 |[Racers Elite \- Tuesday](https://members.iracing.com/membersite/member/LeagueView.do?league=9801){:target="_blank"} |Racers Elite \- Truck Fixed Series \(Season 4\) |Fixed |Homestead Miami Speedway |Tue, June 11 06:35PM EDT |Tue, June 11 11:35PM BST |Wed, June 12 08:35AM AEST |
-|[Road N' Plate](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} |Season 3 |Fixed |Daytona International Speedway |Thu, June 06 08:00PM EDT |Fri, June 07 01:00AM BST |Fri, June 07 10:00AM AEST |
 |[EFRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6409){:target="_blank"} |Rusty Misfits Speedway Series | |Daytona International Speedway |Tue, June 11 09:00PM EDT |Wed, June 12 02:00AM BST |Wed, June 12 11:00AM AEST |
 
 ### XFINITY Series
@@ -55,9 +52,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[LMSC Summer Sunset Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11113){:target="_blank"} |Summer 2024 \(Season 1\) | |Nashville Fairgrounds Speedway |Wed, June 12 08:30PM EDT |Thu, June 13 01:30AM BST |Thu, June 13 10:30AM AEST |
-|[Quarantine Racing League QRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9419){:target="_blank"} |Summer 24 |Fixed |Martinsville Speedway |Thu, June 06 07:45PM EDT |Fri, June 07 12:45AM BST |Fri, June 07 09:45AM AEST |
 
 ### Legends
 
@@ -75,9 +71,16 @@
 |----------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|----------------------------------------|------------------------|------------------------|-------------------------|
 |[Legends Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1301){:target="_blank"} |Street Stock Season 9 "Summer Showdown" |Fixed |[Legacy] Charlotte Motor Speedway - 2008 |Wed, June 12 07:00PM EDT |Thu, June 13 12:00AM BST |Thu, June 13 09:00AM AEST |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Wednesday Night Short Track Tour |Both |Southern National Motorsports Park |Wed, June 12 11:15PM EDT |Thu, June 13 04:15AM BST |Thu, June 13 01:15PM AEST |
-|[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 8 \- Street Stocks | |The Bullring |Thu, June 06 08:58PM EDT |Fri, June 07 01:58AM BST |Fri, June 07 10:58AM AEST |
 
 # Open-wheel
+
+### Dallara F3
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|--------------------|-----|----------------------------|------------------------|------------------------|-------------------------|
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 31 F3 |Fixed |Circuit de Spa-Francorchamps |Tue, June 11 02:30PM EDT |Tue, June 11 07:30PM BST |Wed, June 12 04:30AM AEST |
 
 ### Dallara IR18
 
@@ -93,8 +96,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------------|------------------------|------------------------|-------------------------|
 |[L\.A\. Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11004){:target="_blank"} |Copa F4 \- Season I |Both |Oulton Park Circuit |Mon, June 10 08:10PM EDT |Tue, June 11 01:10AM BST |Tue, June 11 10:10AM AEST |
+|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR Monday F4 Season 10 |Open |Autodromo Internazionale del Mugello |Mon, June 10 09:00PM EDT |Tue, June 11 02:00AM BST |Tue, June 11 11:00AM AEST |
 
 ### Lotus 49
 
@@ -104,13 +108,21 @@
 |--------------------------------------------------------------------------------------------------------------------|------------------------|-----|----------------------------|------------------------|------------------------|-------------------------|
 |[1967 Grand Prix Season](https://members.iracing.com/membersite/member/LeagueView.do?league=10775){:target="_blank"} |1967 Grand Prix Season 1 |Open |Circuit de Spa-Francorchamps |Sat, June 08 07:30PM EDT |Sun, June 09 12:30AM BST |Sun, June 09 09:30AM AEST |
 
+### Lotus 79
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------|--------|-----|-------------------------------|------------------------|------------------------|-------------------------|
+|[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 8 |Fixed |[Legacy] Phoenix Raceway - 2008 |Fri, June 14 07:00PM EDT |Sat, June 15 12:00AM BST |Sat, June 15 09:00AM AEST |
+
 ### Super Formula Lights
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[Sim Racing Alliance \- Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 2: Super Formula Lights |Open |Okayama International Circuit |Thu, June 06 08:10PM EDT |Fri, June 07 01:10AM BST |Fri, June 07 10:10AM AEST |
+|---------------------------------------------------------------------------------------------------------------|--------------------|-----|------------------|------------------------|------------------------|-------------------------|
+|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Super Formula Lights | |Snetterton Circuit |Tue, June 11 02:30PM EDT |Tue, June 11 07:30PM BST |Wed, June 12 04:30AM AEST |
 
 ### Super Formula SF23
 
@@ -122,31 +134,32 @@
 
 # Sports Car
 
-### GT4 Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|--------------|-----|------------|------------------------|------------------------|-------------------------|
-|[BMW CCA NCC Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4863){:target="_blank"} |2024 S3 SUMMER |Fixed |Hungaroring |Thu, June 06 07:00PM EDT |Fri, June 07 12:00AM BST |Fri, June 07 09:00AM AEST |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S20 \- Tuesday \- MX5/Mustang/GR86 |Both |Okayama International Circuit |Tue, June 11 07:00PM EDT |Wed, June 12 12:00AM BST |Wed, June 12 09:00AM AEST |
 |[MC Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |GT3 \- Season 1 |Fixed |Motorsport Arena Oschersleben |Mon, June 10 05:00AM EDT |Mon, June 10 10:00AM BST |Mon, June 10 07:00PM AEST |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Revving Red's Roaring Road Racing Revelry \- Season 5 |Both |Circuit de Spa-Francorchamps |Tue, June 11 11:00PM EDT |Wed, June 12 04:00AM BST |Wed, June 12 01:00PM AEST |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |The System Pre Season : GT3 Endurance |Fixed |Autodromo Nazionale Monza |Fri, June 14 07:00PM EDT |Sat, June 15 12:00AM BST |Sat, June 15 09:00AM AEST |
+
+### Porsche 911 GT3 Cup (992)
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------|------------------------|------------------------|-------------------------|
+|[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S20 \- Thursday \- Porsche Cup |Both |Snetterton Circuit |Thu, June 13 07:00PM EDT |Fri, June 14 12:00AM BST |Fri, June 14 09:00AM AEST |
 
 ### Supercars - 2019
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|-----------------------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Thursday Season 1 \- Supercars |Open |Daytona International Speedway |Thu, June 13 10:00PM EDT |Fri, June 14 03:00AM BST |Fri, June 14 12:00PM AEST |
-|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 1 preseason challenge | |Sandown International Motor Raceway |Thu, June 06 05:30AM EDT |Thu, June 06 10:30AM BST |Thu, June 06 07:30PM AEST |
 
 ### Touring Car
 
@@ -171,6 +184,16 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|----------|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |TDI cup S2 | |WeatherTech Raceway at Laguna Seca |Fri, June 07 05:00PM EDT |Fri, June 07 10:00PM BST |Sat, June 08 07:00AM AEST |
+
+# Prototype
+
+### Dallara P217
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dallara Dash |Both |Daytona International Speedway |Fri, June 14 10:05PM EDT |Sat, June 15 03:05AM BST |Sat, June 15 12:05PM AEST |
 
 # Dirt Oval
 
@@ -211,16 +234,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-----------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|-------------------|------------------------|------------------------|-------------------------|
 |[TRL Street Stock Title 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |2024 360 Sprintcar Rumble | |Knoxville Raceway |Mon, June 10 06:30AM EDT |Mon, June 10 11:30AM BST |Mon, June 10 08:30PM AEST |
-
-### Dirt Street Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------|------------------------|------------------------|-------------------------|
-|[LMS Dirt Only league](https://members.iracing.com/membersite/member/LeagueView.do?league=11005){:target="_blank"} |DSS THURSDAY NIGHT PAYBACKS\!\! | |Lanier National Speedway |Thu, June 06 09:00PM EDT |Fri, June 07 02:00AM BST |Fri, June 07 11:00AM AEST |
+|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |360 Sprintcars Super Series 2024 | |Cedar Lake Speedway |Fri, June 14 07:00AM EDT |Fri, June 14 12:00PM BST |Fri, June 14 09:00PM AEST |
 
 ### Dirt UMP Modified
 
@@ -248,6 +264,14 @@
 |------------------------------------------------------------------------------------------------------|---------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |Fun Runs and Practice |Both |WeatherTech Raceway at Laguna Seca |Sun, June 09 07:00PM EDT |Mon, June 10 12:00AM BST |Mon, June 10 09:00AM AEST |
 
+### Pro 2 Lite Truck
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[eSports Gaming Network](https://members.iracing.com/membersite/member/LeagueView.do?league=10143){:target="_blank"} |TOADCAST Off Road Racing Series "Rookie" | |Wild West Motorsports Park |Fri, June 14 09:30PM EDT |Sat, June 15 02:30AM BST |Sat, June 15 11:30AM AEST |
+
 # Multi-class/Unclassified
 
 ### GT3 Class
@@ -255,22 +279,32 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|----------------------|-----|--------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |Friday W13 Fun Run |Both |Circuito de Navarra |Fri, June 07 07:30PM EDT |Sat, June 08 12:30AM BST |Sat, June 08 09:30AM AEST |
 |[Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"} |E4A 2024S2 |Fixed |Road America |Wed, June 12 07:00PM EDT |Thu, June 13 12:00AM BST |Thu, June 13 09:00AM AEST |
 |[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |2024 GT3 Autumn Ambush | |Watkins Glen International |Mon, June 10 04:00AM EDT |Mon, June 10 09:00AM BST |Mon, June 10 06:00PM AEST |
+|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR Thursday GT3 by GripWerx Season 10 |Open |Circuit de Barcelona Catalunya |Thu, June 13 09:00PM EDT |Fri, June 14 02:00AM BST |Fri, June 14 11:00AM AEST |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|----------------------------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|----------------------------------------|------------------------|------------------------|-------------------------|
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 31 Practice Sessions |Fixed |Circuit de Spa-Francorchamps |Sat, June 08 02:00PM EDT |Sat, June 08 07:00PM BST |Sun, June 09 04:00AM AEST |
 |[Aussie Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11090){:target="_blank"} |AES Season 1 |Open |Watkins Glen International |Tue, June 11 05:00AM EDT |Tue, June 11 10:00AM BST |Tue, June 11 07:00PM AEST |
 |[RiA IRL ComChamp FORCECAR 12 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11036){:target="_blank"} |FASTEST |Open |Las Vegas Motor Speedway |Sat, June 08 06:00AM EDT |Sat, June 08 11:00AM BST |Sat, June 08 08:00PM AEST |
 |[RiA IRL ComChamp FORCECAR 12 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11036){:target="_blank"} |MESS |Open |[Legacy] Charlotte Motor Speedway - 2008 |Fri, June 07 07:30AM EDT |Fri, June 07 12:30PM BST |Fri, June 07 09:30PM AEST |
 |[RiA IRL ComChamp FORCECAR 12 World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11036){:target="_blank"} |TOMCAT |Open |New Smyrna Speedway |Fri, June 07 10:30AM EDT |Fri, June 07 03:30PM BST |Sat, June 08 12:30AM AEST |
-|[League of Extraordinarily Average Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=7272){:target="_blank"} |6 | |Thompson Speedway Motorsports Park |Thu, June 06 08:45PM EDT |Fri, June 07 01:45AM BST |Fri, June 07 10:45AM AEST |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dallara Formula Series |Both |Indianapolis Motor Speedway |Wed, June 12 10:05PM EDT |Thu, June 13 03:05AM BST |Thu, June 13 12:05PM AEST |
 |[Pandemonium SimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11094){:target="_blank"} |IMSA Sprint Cup \- Season Two |Both |Watkins Glen International |Thu, June 13 01:00PM EDT |Thu, June 13 06:00PM BST |Fri, June 14 03:00AM AEST |
+|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR Tuesday LMP3/GT4 by IOSecure Season 10 |Open |Motorsport Arena Oschersleben |Tue, June 11 09:00PM EDT |Wed, June 12 02:00AM BST |Wed, June 12 11:00AM AEST |
+
+### Stock Car Brasil
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|---------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
+|[Olivier iRacing League 🏁](https://members.iracing.com/membersite/member/LeagueView.do?league=10930){:target="_blank"} |Brazilian Cup 🏁 | |WeatherTech Raceway at Laguna Seca |Fri, June 14 01:00PM EDT |Fri, June 14 06:00PM BST |Sat, June 15 03:00AM AEST |
 
