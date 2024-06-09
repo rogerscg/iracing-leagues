@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
 |[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Oman Digital Motorsport F4 Championship |Asia |30 |1613 | |Oulton Park Circuit |Tue, June 11 12:00PM EDT |Tue, June 11 05:00PM BST |Wed, June 12 02:00AM AEST |
-|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Season one |Asia |25 |1826 | | | | | |
+|[Oman Grand Prix Pre Season Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |Season one |Asia |25 |1826 | |Oulton Park Circuit |Mon, June 10 01:00PM EDT |Mon, June 10 06:00PM BST |Tue, June 11 03:00AM AEST |
 
 # Sports Car
 
@@ -29,8 +29,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[China Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=10801){:target="_blank"} |Endurance Cup 2024 |Asia |19 |2664 | |Watkins Glen International |Sat, June 08 10:00PM EDT |Sun, June 09 03:00AM BST |Sun, June 09 12:00PM AEST |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[China Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=10801){:target="_blank"} |Endurance Cup 2024 |Asia |19 |2664 | | | | | |
 |[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |17 |1319 | | | | | |
 |[Asia Sim Racing Federation \- ASRF](https://members.iracing.com/membersite/member/LeagueView.do?league=9673){:target="_blank"} |2024 May IMSA \+ Porsche Cup Sessions |Asia |12 |1963 | | | | | |
 |[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |test |Asia |11 |1094 | | | | | |

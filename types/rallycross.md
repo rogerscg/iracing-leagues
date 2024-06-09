@@ -21,8 +21,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Kemimoto ORCGP \- Super Beetle \- 2024 |North America |12 |1946 |Fixed |Bark River International Raceway |Sat, June 08 09:20PM EDT |Sun, June 09 02:20AM BST |Sun, June 09 11:20AM AEST |
+|-------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Kemimoto ORCGP \- Super Beetle \- 2024 |North America |16 |1947 |Fixed |Crandon International Raceway |Sat, June 15 09:20PM EDT |Sun, June 16 02:20AM BST |Sun, June 16 11:20AM AEST |
 
 ### VW Beetle Lite
 
