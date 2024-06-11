@@ -29,7 +29,6 @@
 |[Modified's Of Madness Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=11133){:target="_blank"} | |We are a Nascar Whelen Modified Tour series running local short track style races\. |
 |[Moonlight Racing League Endurance Sportscar Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11111){:target="_blank"} | | |
 |[mud slinging saturday](https://members.iracing.com/membersite/member/LeagueView.do?league=11146){:target="_blank"} | |305 sprint cars |
-|[NASCAR CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11100){:target="_blank"} |[Discord](https://discord.gg/x35UMEMD){:target="_blank"} |JOIN THE DISCORD https://discord\.gg/x35UMEMD |
 |[NASRAC on iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11149){:target="_blank"} | |A league for all NASRAC members transitioning to iRacing to land for clean racing and connections\. |
 |[NIECECAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11143){:target="_blank"} |[Discord](https://discord.gg/r2gjvzWwyp){:target="_blank"} |Welcome to NIECECAR, the iRacing league for Niece Motorsports employees and friends\! We are looking to start this league in the coming weeks and will feature a 10 race championship for Season 1\. 🏁 Races will be hosted on a weekly basis on Monday nights starting at 7:00 PM Eastern\. 📆 Our Season 1 schedule is currently TBD as we gather picks from everyone that signs up\. The schedule will be shown in the "Schedule" text channel thread once we come to that conclusion\. |
 |[NOUS Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11152){:target="_blank"} | |Campeonatos de esports organizado por la comunidad de NOUS Simracing Series |
@@ -45,15 +44,17 @@
 |[TRACKILICIOUS](https://members.iracing.com/membersite/member/LeagueView.do?league=11120){:target="_blank"} |[Discord](https://discord.gg/trackilicious){:target="_blank"} |Fun League for all Skills |
 |[Trak Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=11102){:target="_blank"} | |TRAK RACER VIP EVENT \- BEAT NIELS LANGEVELD |
 |[Trent Curtis Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11122){:target="_blank"} | |Official Home of Trent Curtis Racing test sessions |
+|[Tuesday Night Vees](https://members.iracing.com/membersite/member/LeagueView.do?league=11157){:target="_blank"} | |Close out the week with some Vee racing\. Races start at 11:30pm ET / 8:30pm PT\. All skill levels welcome\. |
 |[USORL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11105){:target="_blank"} | |Official USORL Trucks League Page |
 |[Virtual Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11145){:target="_blank"} | |VDL is a group of mostly adult drivers all after the same goal\. Good, clean, drama free races with lots of laughs every Tuesday night\! The overall goal is to have fun and help each other get faster and build better cars\. |
 |[HEGT \- iRacing Division](https://members.iracing.com/membersite/member/LeagueView.do?league=11142){:target="_blank"} | |A Chinese GT club founded in 2020 composed of passionate players from various industries and regions around the world\. The newly formed iRacing division welcomes all iRacing players to join\. |
 |[ASCA \- Alliance Stock Car Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11125){:target="_blank"} |[Discord](https://discord.gg/asca){:target="_blank"} |The Alliance Stock Car Association is a league that specializes in racing with the Car of Tomorrow\.   Join our discord today\!: discord\.gg/asca |
 |[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} | |A league built on mateship , compete hard,fair & with respect |
+|[Degenerate Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=11156){:target="_blank"} | | |
 |[Hoverfly](https://members.iracing.com/membersite/member/LeagueView.do?league=11151){:target="_blank"} | |Private racing league |
 |[MiCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11144){:target="_blank"} | |Competitive NASCAR racing with a casual atmosphere\. |
 |[Misfit Touring Series \| Season 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11109){:target="_blank"} | | |
-|[OEXP Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=11101){:target="_blank"} | |Liga de comunidad Omega EXP |
 |[Pink Cowboys](https://members.iracing.com/membersite/member/LeagueView.do?league=11132){:target="_blank"} | | |
 |[Suncar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11141){:target="_blank"} | |Alternative to Mooncar for those who don't get to turn left\. |
+|[TSRC \- GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11155){:target="_blank"} | |A community made for all sim racing enthusiasts\. |
 
