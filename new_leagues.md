@@ -8,6 +8,7 @@
 |[AIRL](https://members.iracing.com/membersite/member/LeagueView.do?league=11153){:target="_blank"} | |AIRL is the \(All In Racing League\) |
 |[American Virtual Motorsports Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11135){:target="_blank"} | |American Virtual Motorsports Racing Association |
 |[ARCS Fast Fridays](https://members.iracing.com/membersite/member/LeagueView.do?league=11108){:target="_blank"} | |Xfinity Cars for ARCS |
+|[ASTARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=11160){:target="_blank"} |[Discord](https://discord.gg/e3mrBkmJtB){:target="_blank"} |League Information: https://docs\.google\.com/document/d/17BBiKlX6st\-YxeoBj4bpxcUhVYN3uV52h\-3ye\-vJqi0/edit?usp\=sharing   League SimRacerHub: https://www\.simracerhub\.com/scoring/league\_series\.php?league\_id\=4922 |
 |[Atomic Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11121){:target="_blank"} | |ARL 2024 |
 |[blade racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11119){:target="_blank"} | | |
 |[Chas](https://members.iracing.com/membersite/member/LeagueView.do?league=11130){:target="_blank"} | | |
@@ -21,7 +22,6 @@
 |[FNR Endurance Cup \[PL\]](https://members.iracing.com/membersite/member/LeagueView.do?league=11150){:target="_blank"} |[Discord](https://discord.gg/ccK2wENe){:target="_blank"} |Jesteśmy grupą pasjonatów simracingu którzy wybrali sobie iRacing jako platformę zmagań\. Jest nas 10 osób z różnym poziomem iRating ale jednym celem \- fajne czyste ściganie się\.  Znamy się już jakiś czas i mamy pewne doświadczenie w organizacji wyścigów, więc wpadliśmy na pomysł organizacji serii wyścigów trochę dłuższych niż standardowe na torach znanych z serii wyścigów długodystansowych\. |
 |[FTS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11115){:target="_blank"} | |Follow The Sun Racing League |
 |[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} | |Super Formula |
-|[iCar Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11103){:target="_blank"} | | |
 |[Indy Car Career](https://members.iracing.com/membersite/member/LeagueView.do?league=11117){:target="_blank"} | |Career Mode |
 |[IVR Interliga Virtual Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} | |Mexico League |
 |[LMSC Summer Sunset Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11113){:target="_blank"} |[Discord](https://discord.gg/6fvH95cD){:target="_blank"} |10 weeks of outstanding LMSC racing, by some of Iracing's best drivers\. |
@@ -42,7 +42,6 @@
 |[The League \(An iRacing Series\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11118){:target="_blank"} |[Discord](https://discord.gg/tvaPnKfU){:target="_blank"} |The League for iRacers by iRacers |
 |[Total Speed Racing League IndyCar](https://members.iracing.com/membersite/member/LeagueView.do?league=11116){:target="_blank"} |[Discord](https://discord.gg/d2dUdAZGtB){:target="_blank"} |This is our IndyCar league\! We have two other leagues outside of this, check out our discord to find out ways to join\! :\) |
 |[TRACKILICIOUS](https://members.iracing.com/membersite/member/LeagueView.do?league=11120){:target="_blank"} |[Discord](https://discord.gg/trackilicious){:target="_blank"} |Fun League for all Skills |
-|[Trak Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=11102){:target="_blank"} | |TRAK RACER VIP EVENT \- BEAT NIELS LANGEVELD |
 |[Trent Curtis Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11122){:target="_blank"} | |Official Home of Trent Curtis Racing test sessions |
 |[Tuesday Night Vees](https://members.iracing.com/membersite/member/LeagueView.do?league=11157){:target="_blank"} | |Close out the week with some Vee racing\. Races start at 11:30pm ET / 8:30pm PT\. All skill levels welcome\. |
 |[USORL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11105){:target="_blank"} | |Official USORL Trucks League Page |
@@ -51,6 +50,8 @@
 |[ASCA \- Alliance Stock Car Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11125){:target="_blank"} |[Discord](https://discord.gg/asca){:target="_blank"} |The Alliance Stock Car Association is a league that specializes in racing with the Car of Tomorrow\.   Join our discord today\!: discord\.gg/asca |
 |[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} | |A league built on mateship , compete hard,fair & with respect |
 |[Degenerate Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=11156){:target="_blank"} | | |
+|[Doohan OK MX\-5 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11158){:target="_blank"} | |6 round dash for cash\. $3000 prize pool\.  45min prac,  10min open qualifier,  20min reverse heat,  40 min feature with one stop\. |
+|[FBMM](https://members.iracing.com/membersite/member/LeagueView.do?league=11159){:target="_blank"} | | |
 |[Hoverfly](https://members.iracing.com/membersite/member/LeagueView.do?league=11151){:target="_blank"} | |Private racing league |
 |[MiCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11144){:target="_blank"} | |Competitive NASCAR racing with a casual atmosphere\. |
 |[Misfit Touring Series \| Season 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11109){:target="_blank"} | | |
