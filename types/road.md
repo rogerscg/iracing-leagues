@@ -24,4 +24,5 @@
 |[TDR Thursday Night SRX](https://members.iracing.com/membersite/member/LeagueView.do?league=8833){:target="_blank"} |TDR SRX Dirt |North America |16 |1983 | |Knoxville Raceway |Thu, June 13 07:30PM EDT |Fri, June 14 12:30AM BST |Fri, June 14 09:30AM AEST |
 |[Friday Night Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=6312){:target="_blank"} |Spring 2024 |North America |12 |1924 | | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2024 Season 2 SRX \(Tuesday's\) |North America |12 |962 |Fixed | | | | |
+|[Rob\-Car](https://members.iracing.com/membersite/member/LeagueView.do?league=6353){:target="_blank"} |RSRX2 |North America |10 |2076 | |Eldora Speedway |Wed, June 19 07:40PM EDT |Thu, June 20 12:40AM BST |Thu, June 20 09:40AM AEST |
 

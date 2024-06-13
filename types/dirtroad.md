@@ -8,9 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Kemimoto ORCGP \- Grand National Sport \- 2024 |North America |16 |2009 |Fixed |Wild Horse Pass Motorsports Park |Sat, June 15 09:40PM EDT |Sun, June 16 02:40AM BST |Sun, June 16 11:40AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |14 |2181 |Fixed | | | | |
+|[Sim Racers Anonymous](https://members.iracing.com/membersite/member/LeagueView.do?league=6574){:target="_blank"} |SRA Pro 2 Lite Fuckery |North America |12 |1346 |Fixed |Daytona Rallycross and Dirt Road |Wed, June 19 08:00PM EDT |Thu, June 20 01:00AM BST |Thu, June 20 10:00AM AEST |
 
 ### Pro 4 Truck
 
