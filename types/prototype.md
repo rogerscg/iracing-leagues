@@ -13,14 +13,6 @@
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP2 \- Season 3 Presented by P1Doks\.com |North America |13 |2472 |Open | | | | |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dallara Dash |North America |13 |1271 |Both |Virginia International Raceway |Fri, June 21 10:00PM EDT |Sat, June 22 03:00AM BST |Sat, June 22 12:00PM AEST |
 
-### GTP
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[CiL CR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CIL Collegiate Prototype Challenge Season 10 |North America |17 |2105 | | | | | |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -48,7 +40,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|--------------------|------------------------|------------------------|-------------------------|
-|[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |28 |2448 |Fixed | | | | |
+|[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |27 |2485 |Fixed | | | | |
 |[LFR \- Loose is Fast Racing Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=8433){:target="_blank"} |North Atlantic Radical Run |North America |26 |1812 |Open |Road Atlanta |Wed, June 19 08:30PM EDT |Thu, June 20 01:30AM BST |Thu, June 20 10:30AM AEST |
 |[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |GT Masters Fun Race |Africa |15 |1715 | | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |13 |1036 |Open |Brands Hatch Circuit |Tue, June 18 10:00PM EDT |Wed, June 19 03:00AM BST |Wed, June 19 12:00PM AEST |

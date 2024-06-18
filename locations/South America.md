@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3130 | |Iowa Speedway |Mon, June 17 06:30PM EDT |Mon, June 17 11:30PM BST |Tue, June 18 08:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3154 | |New Hampshire Motor Speedway |Mon, June 24 06:30PM EDT |Mon, June 24 11:30PM BST |Tue, June 25 08:30AM AEST |
 
 ### NASCAR Truck Series
 
@@ -34,8 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|------------------------------------|------------------------|------------------------|-------------------------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Alpha Session |South America |24 |1446 |Fixed |[Legacy] Texas Motor Speedway - 2009 |Mon, June 17 06:40PM EDT |Mon, June 17 11:40PM BST |Tue, June 18 08:40AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Alpha Session |South America |24 |1440 |Fixed | | | | |
 
 ### Dallara IR18
 
@@ -66,16 +66,17 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Temporada 2024 |South America |49 |3284 | | | | | |
-|[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Seletiva |South America |18 |None | | | | | |
 |[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Treinos |South America |15 |None | | | | | |
+|[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Seletiva |South America |10 |None | | | | | |
 
 ### Toyota GR86
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge |South America |38 |2352 | | | | | |
+|--------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge \- 24S2 |South America |34 |2376 | | | | | |
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/3 |South America |33 |1809 | | | | | |
 
 ### VW Jetta TDI Cup
 
