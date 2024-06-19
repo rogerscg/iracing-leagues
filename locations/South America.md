@@ -59,6 +59,14 @@
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |JeTeTrez |South America |16 |1618 | | | | | |
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |Production Cup 2024/3 |South America |16 |2534 | |Circuit de Lédenon |Mon, June 24 05:25PM EDT |Mon, June 24 10:25PM BST |Tue, June 25 07:25AM AEST |
 
+### Mazda MX-5 Cup 2016
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT MAZDA CUP Season 14 |South America |21 |1906 |Fixed | | | | |
+
 ### Touring Car
 
 [Back to Top](#)  
@@ -67,7 +75,6 @@
 |-------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Temporada 2024 |South America |49 |3284 | | | | | |
 |[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Treinos |South America |15 |None | | | | | |
-|[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Seletiva |South America |10 |None | | | | | |
 
 ### Toyota GR86
 
@@ -83,8 +90,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |For Gretta |South America |18 |1397 | |Motorsport Arena Oschersleben |Tue, June 18 07:35PM EDT |Wed, June 19 12:35AM BST |Wed, June 19 09:35AM AEST |
+|------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|------------------------|------------------------|------------------------|-------------------------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |For Gretta |South America |18 |1418 | |Nürburgring Nordschleife |Tue, June 25 07:35PM EDT |Wed, June 26 12:35AM BST |Wed, June 26 09:35AM AEST |
 
 # Multi-class/Unclassified
 
