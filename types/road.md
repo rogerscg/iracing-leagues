@@ -19,6 +19,6 @@
 |[ARCS Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |ARCS Race Experience 2024 S2 |North America |16 |1990 | | | | | |
 |[STSL SRX Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10816){:target="_blank"} |STSL SRX Season 0 |North America |16 |2153 |Fixed | | | | |
 |[OCRP Member League](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |Fast Chair Racing Xperience |North America |16 |1727 | |Five Flags Speedway |Thu, June 20 08:00PM EDT |Fri, June 21 01:00AM BST |Fri, June 21 10:00AM AEST |
+|[Rob\-Car](https://members.iracing.com/membersite/member/LeagueView.do?league=6353){:target="_blank"} |RSRX2 |North America |11 |2154 | |Five Flags Speedway |Wed, June 26 07:40PM EDT |Thu, June 27 12:40AM BST |Thu, June 27 09:40AM AEST |
 |[Friday Night Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=6312){:target="_blank"} |Spring 2024 |North America |10 |2024 | | | | | |
-|[Rob\-Car](https://members.iracing.com/membersite/member/LeagueView.do?league=6353){:target="_blank"} |RSRX2 |North America |10 |2076 | |Eldora Speedway |Wed, June 19 07:40PM EDT |Thu, June 20 12:40AM BST |Thu, June 20 09:40AM AEST |
 
