@@ -13,16 +13,15 @@
 |[Bonsai Motorsports MX\-5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11199){:target="_blank"} |[Discord](https://discord.gg/wHa8JjJ8rS){:target="_blank"} |Bonsai Motorsports presents a cup for all skill levels on the MX\-5\. 1st place gets $20, 2nd place gets $10, 3rd place gets $5\. |
 |[Cookies for Kids Cancer](https://members.iracing.com/membersite/member/LeagueView.do?league=11170){:target="_blank"} | |This is where the cookies for kids cancer race will be held\. |
 |[CRF Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11192){:target="_blank"} | |League/Endurance Racing |
-|[DaGuy3000](https://members.iracing.com/membersite/member/LeagueView.do?league=11147){:target="_blank"} | |DaGuy |
 |[DCW Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=11202){:target="_blank"} | |The DCW Racing League \- for endurance practice and fun community races |
 |[Disney Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11190){:target="_blank"} | |a racing league that dose it all\! |
-|[Doms GT3s Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11148){:target="_blank"} | |GT3\!\!\! |
 |[2Fast Community](https://members.iracing.com/membersite/member/LeagueView.do?league=11167){:target="_blank"} | |This league is an endurance racing league in iracing we have some very special races that happen once a month and we have an endurance racing championship\. |
 |[fiercelyforward](https://members.iracing.com/membersite/member/LeagueView.do?league=11180){:target="_blank"} | |team |
 |[FMC F3](https://members.iracing.com/membersite/member/LeagueView.do?league=11168){:target="_blank"} | |F1 support series Stage 1 |
 |[FNR Endurance Cup \[PL\]](https://members.iracing.com/membersite/member/LeagueView.do?league=11150){:target="_blank"} |[Discord](https://discord.gg/ccK2wENe){:target="_blank"} |Jesteśmy grupą pasjonatów simracingu którzy wybrali sobie iRacing jako platformę zmagań\. Jest nas 10 osób z różnym poziomem iRating ale jednym celem \- fajne czyste ściganie się\.  Znamy się już jakiś czas i mamy pewne doświadczenie w organizacji wyścigów, więc wpadliśmy na pomysł organizacji serii wyścigów trochę dłuższych niż standardowe na torach znanych z serii wyścigów długodystansowych\. |
 |[Gunslinger Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11187){:target="_blank"} | |Fastest of the Fastest |
 |[Hoverfly](https://members.iracing.com/membersite/member/LeagueView.do?league=11151){:target="_blank"} | |Private racing league |
+|[IRAIL](https://members.iracing.com/membersite/member/LeagueView.do?league=11204){:target="_blank"} |[Discord](https://discord.gg/CaSuKA35){:target="_blank"} |The Internet Racing ai and player league\. Private and closed |
 |[IVR Copa Canterana](https://members.iracing.com/membersite/member/LeagueView.do?league=11194){:target="_blank"} | |Liga Hispana |
 |[Jones\-Collins Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11198){:target="_blank"} | |NASCAR Legends |
 |[Juiced Racing Next Gen Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11165){:target="_blank"} | |Juiced Racing |
@@ -33,8 +32,6 @@
 |[maxxed out offroad](https://members.iracing.com/membersite/member/LeagueView.do?league=11196){:target="_blank"} |[Discord](https://discord.gg/eaDjqSEe){:target="_blank"} |rules in discord |
 |[Middle Pack Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11162){:target="_blank"} |[Discord](https://discord.gg/nGfNW37E){:target="_blank"} |This is a Beginner to Intermediate \(Sports Car iR 1k \- 2\.5k\) league loosely based around IMSA Endurance Series in iRacing\.   We offer a choice of 3 car classes; GTP, LMP2, and GT3\.  Race length will average 2 hours in time\.  Please see discord for more information and to submit an application to join\. |
 |[MidWest Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |[Discord](https://discord.gg/Tn6ANbbRtc){:target="_blank"} | |
-|[mud slinging saturday](https://members.iracing.com/membersite/member/LeagueView.do?league=11146){:target="_blank"} | |305 sprint cars |
-|[NASRAC on iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11149){:target="_blank"} | |A league for all NASRAC members transitioning to iRacing to land for clean racing and connections\. |
 |[North America Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} | |Friendly Open Wheel League for lesser experienced people\. |
 |[NOUS Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11152){:target="_blank"} | |Campeonatos de esports organizado por la comunidad de NOUS Simracing Series |
 |[Octane Outlaws Dirt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=11175){:target="_blank"} | |Welcome to the Octane Outlaws Dirt Oval Series\. We here at Octane strive to provide close action packed racing across multiple different cars\. Join the discord and enjoy a fun environment, keep up to date with future plans, and meet some new people that enjoy doing what you do\. |
@@ -52,11 +49,11 @@
 |[Tuesday Night Vees](https://members.iracing.com/membersite/member/LeagueView.do?league=11157){:target="_blank"} | |Close out the week with some Vee racing\. Races start at 11:30pm ET / 8:30pm PT\. All skill levels welcome\. |
 |[V\-Club Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11182){:target="_blank"} | | |
 |[Vice Motorsport IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11185){:target="_blank"} | | |
-|[Virtual Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11145){:target="_blank"} | |VDL is a group of mostly adult drivers all after the same goal\. Good, clean, drama free races with lots of laughs every Tuesday night\! The overall goal is to have fun and help each other get faster and build better cars\. |
 |[Wolfpack Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11176){:target="_blank"} |[Discord](https://discord.gg/3xpGUzBf){:target="_blank"} |Gen 4, No Chase Format, Every Point Matters\. Who is the Alpha Of The Pack? Is it You? Let's find out\! |
 |[Degenerate Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=11156){:target="_blank"} | | |
 |[Doohan OK MX\-5 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11158){:target="_blank"} | |6 round dash for cash\. $3000 prize pool\.  45min prac,  10min open qualifier,  20min reverse heat,  40 min feature with one stop\. |
 |[FBMM](https://members.iracing.com/membersite/member/LeagueView.do?league=11159){:target="_blank"} | | |
+|[Formula Flex Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11205){:target="_blank"} | | |
 |[Stateline Showdown Series Presented by Army National Guard](https://members.iracing.com/membersite/member/LeagueView.do?league=11197){:target="_blank"} | |Join the Pioneers next stop on the Stateline Showdown Series, a thrilling iRacing tournament, proudly presented by the Army National Guard\. Experience high\-speed action and competitive racing as virtual tracks heat up with adrenaline\-fueled battles\! Payouts will be awarded to the Top 5 of the Final race\! Qualifying races are one and done format\. You only get one shot to make the final race, Do you have what it takes?" |
 |[TSRC \- GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11155){:target="_blank"} | |A community made for all sim racing enthusiasts\. |
 
