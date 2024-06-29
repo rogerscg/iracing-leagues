@@ -8,11 +8,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |16 |2546 | | | | | |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dallara Dash |North America |15 |1212 |Both |Oulton Park Circuit |Fri, June 28 10:05PM EDT |Sat, June 29 03:05AM BST |Sat, June 29 12:05PM AEST |
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dallara Dash |North America |15 |1237 |Both |Road America |Fri, July 05 10:05PM EDT |Sat, July 06 03:05AM BST |Sat, July 06 12:05PM AEST |
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP2 \- Season 3 Presented by P1Doks\.com |North America |13 |2510 |Open | | | | |
-|[GT3 Under 2k \- VRS Sim Racing Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |Challenge \#5 Pre\-Qualifying |Europe |10 |2349 | |Silverstone Circuit |Fri, June 28 08:00AM EDT |Fri, June 28 01:00PM BST |Fri, June 28 10:00PM AEST |
+|[GT3 Under 2k \- VRS Sim Racing Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |Challenge \#5 Pre\-Qualifying |Europe |13 |2353 | | | | | |
 
 ### Hosted All Cars Class
 

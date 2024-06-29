@@ -20,9 +20,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |Contender Series \- 2024 S1 |North America |54 |4112 |Open | | | | |
-|[\#0 Donut Box Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8942){:target="_blank"} |Firestone Late Model Stocks Season 2 |North America |36 |1781 |Fixed |Irwindale Speedway |Mon, July 01 07:30PM EDT |Tue, July 02 12:30AM BST |Tue, July 02 09:30AM AEST |
+|[\#0 Donut Box Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8942){:target="_blank"} |Firestone Late Model Stocks Season 2 |North America |35 |1780 |Fixed |Irwindale Speedway |Mon, July 01 07:30PM EDT |Tue, July 02 12:30AM BST |Tue, July 02 09:30AM AEST |
 |[National Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10897){:target="_blank"} |National Short Track Series Season 1 |North America |35 |2019 | | | | | |
 |[ReScreened LLC Regional LM Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5815){:target="_blank"} |Spark ReScreened Regional LM Tour S2 |North America |34 |2216 |Fixed | | | | |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S4 Late model Stock Hometown series |North America |33 |1676 |Both | | | | |
@@ -33,22 +33,21 @@
 |[Madhouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10353){:target="_blank"} |season 3 |North America |25 |1910 | | | | | |
 |[WSL Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} |WSL Summer Short Track 2024 |North America |25 |1378 | |Nashville Fairgrounds Speedway |Mon, July 01 09:00PM EDT |Tue, July 02 02:00AM BST |Tue, July 02 11:00AM AEST |
 |[URL Pro Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=785){:target="_blank"} |2024 Beths Colorful Creations Pro Series |North America |24 |2668 |Fixed | | | | |
-|[North South Racing League Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=4812){:target="_blank"} |NSRL Late Model Stocks Spring 2024 |North America |23 |2564 | | | | | |
 |[OGRL Monday Trans Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10968){:target="_blank"} |Trans Am Season 2 |North America |22 |1597 | |Canadian Tire Motorsports Park |Mon, July 01 08:00PM EDT |Tue, July 02 01:00AM BST |Tue, July 02 10:00AM AEST |
 |[FSBRACING\.COM](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Racing Late Model Series Season 49 |North America |20 |1694 |Fixed |Myrtle Beach Speedway |Sun, June 30 07:30PM EDT |Mon, July 01 12:30AM BST |Mon, July 01 09:30AM AEST |
-|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S27 |North America |20 |1663 |Fixed | | | | |
+|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S27 |North America |20 |1663 |Fixed |Thompson Speedway Motorsports Park |Sat, June 29 08:35PM EDT |Sun, June 30 01:35AM BST |Sun, June 30 10:35AM AEST |
+|[North South Racing League Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=4812){:target="_blank"} |NSRL Late Model Stocks Spring 2024 |North America |20 |2609 | | | | | |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S3 Late Model Stock Hometown Series |North America |19 |1733 |Both | | | | |
 |[Big Toe Xfinity League](https://members.iracing.com/membersite/member/LeagueView.do?league=5644){:target="_blank"} |Season 1 |North America |19 |2870 | | | | | |
 |[Strictly Stock Motor Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=3109){:target="_blank"} |SSMS Late Model Stock \( Open Setup's \) |North America |19 |2157 |Fixed |Kevin Harvick's Kern Raceway |Mon, July 01 08:00PM EDT |Tue, July 02 01:00AM BST |Tue, July 02 10:00AM AEST |
 |[LMS Dirt Only league](https://members.iracing.com/membersite/member/LeagueView.do?league=11005){:target="_blank"} |winner choice LMS |North America |18 |1192 | | | | | |
 |[Quarantine Racing League QRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9419){:target="_blank"} |Summer 24 |North America |18 |1735 |Fixed | | | | |
 |[COCA](https://members.iracing.com/membersite/member/LeagueView.do?league=9563){:target="_blank"} |Late Model S2 |North America |18 |1394 |Open | | | | |
-|[OG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6203){:target="_blank"} |Open Setup LMSC |North America |17 |1890 |Fixed | | | | |
 |[The Grit Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=3843){:target="_blank"} |2024A GreaseCar Season |North America |14 |2412 |Fixed | | | | |
 |[Quarantine Racing League QRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9437){:target="_blank"} |CARS Season 2 |North America |13 |1623 |Fixed | | | | |
 |[MLR Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4968){:target="_blank"} |LATE MODEL \- SEASON 1 |North America |13 |1740 | | | | | |
 |[Mid\-Atlantic Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10440){:target="_blank"} |MASS Late Model Championship Series |North America |13 |1481 | | | | | |
-|[OGRE LATE MODEL SHORT TRACK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10894){:target="_blank"} |OGRE SHORT TRACK SEASON 1 |North America |12 |1453 | | | | | |
+|[OGRE LATE MODEL SHORT TRACK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10894){:target="_blank"} |OGRE SHORT TRACK SEASON 1 |North America |12 |1453 | |Richmond Raceway |Sun, June 30 07:00PM EDT |Mon, July 01 12:00AM BST |Mon, July 01 09:00AM AEST |
 |[NBS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10189){:target="_blank"} |sKunkmeat late model |North America |12 |1948 | | | | | |
 |[Virginia iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |Season 2: LMSC |North America |12 |1550 |Fixed | | | | |
 |[WHEELER BROTHERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |CASH CLOWNS SEASON 2 |North America |11 |1758 | | | | | |
@@ -65,17 +64,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-----------------------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 2 |North America |36 |2128 |Fixed | | | | |
 |[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends Summer Sizzler |North America |32 |1941 | |Langley Speedway |Sat, June 29 09:30AM EDT |Sat, June 29 02:30PM BST |Sat, June 29 11:30PM AEST |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S4 Legends Hometown series |North America |31 |1645 |Both | | | | |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends League Season 1 |North America |26 |2046 |Fixed | | | | |
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |Des 34 Legends Season 2 |North America |19 |1473 | |Langley Speedway |Mon, July 01 11:00PM EDT |Tue, July 02 04:00AM BST |Tue, July 02 01:00PM AEST |
+|[Infinity Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |Legends World Challenge Season 1 |Australia-NZ |19 |1716 | |Mount Panorama Circuit |Fri, July 05 05:30AM EDT |Fri, July 05 10:30AM BST |Fri, July 05 07:30PM AEST |
 |[HARD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10512){:target="_blank"} |Legends Road Course Season 2 |North America |18 |1958 | | | | | |
 |[COCA](https://members.iracing.com/membersite/member/LeagueView.do?league=9563){:target="_blank"} |Inex Season 2 Legends |North America |17 |1388 |Open | | | | |
 |[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 2 |Australia-NZ |16 |1822 |Fixed | | | | |
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |Legends Season 9 |North America |16 |1746 |Both | | | | |
-|[Infinity Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |Legends World Challenge Season 1 |Australia-NZ |16 |1729 | |Sandown International Motor Raceway |Fri, June 28 05:30AM EDT |Fri, June 28 10:30AM BST |Fri, June 28 07:30PM AEST |
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |Sunday night Legends Gang |North America |15 |2086 | | | | | |
 |[BRLx](https://members.iracing.com/membersite/member/LeagueView.do?league=960){:target="_blank"} |Sportsman LEG S02 |North America |14 |1915 |Fixed | | | | |
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |Lundi \- LEGEND \(Été/Summer 2024\) |North America |11 |1606 | |Oran Park Raceway |Mon, July 01 07:30PM EDT |Tue, July 02 12:30AM BST |Tue, July 02 09:30AM AEST |
@@ -118,12 +117,12 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|---------------------|------------------------|------------------------|-------------------------|
 |[All Pro Sim Winter Heat](https://members.iracing.com/membersite/member/LeagueView.do?league=9161){:target="_blank"} |ALL\-STAR Sim Series National Tour 2024 |North America |57 |2519 | | | | | |
-|[All Pro Sim Super Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=208){:target="_blank"} |2024 Super Late Models |North America |48 |2937 |Fixed | | | | |
+|[All Pro Sim Super Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=208){:target="_blank"} |2024 Super Late Models |North America |48 |2944 |Fixed | | | | |
 |[American Sim Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |Sunoco SLM Invite Summer Series |North America |28 |3080 | | | | | |
 |[Madhouse LMSC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9847){:target="_blank"} |Madhouse Pro Late Model Series |North America |25 |2467 | |Martinsville Speedway |Sun, June 30 08:00PM EDT |Mon, July 01 01:00AM BST |Mon, July 01 10:00AM AEST |
-|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Monday Night Madness Season \#12 |North America |23 |2628 |Both | | | | |
 |[BRL Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S25 |North America |22 |1794 |Fixed | | | | |
 |[SARA \- Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1412){:target="_blank"} |Super Series \- 2024 S1 |North America |21 |5877 |Open | | | | |
+|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Monday Night Madness Season \#12 |North America |20 |2671 |Both | | | | |
 |[RatPack Racing Test Team](https://members.iracing.com/membersite/member/LeagueView.do?league=7812){:target="_blank"} |2024 SSRL Premier Series |North America |17 |2344 |Open |Slinger Speedway |Tue, July 02 08:20PM EDT |Wed, July 03 01:20AM BST |Wed, July 03 10:20AM AEST |
-|[ARCS Xtreme Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=6505){:target="_blank"} |Xtreme 2024 Super Late Model |North America |11 |2222 | | | | | |
+|[ARCS Xtreme Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=6505){:target="_blank"} |Xtreme 2024 Super Late Model |North America |10 |2257 | | | | | |
 

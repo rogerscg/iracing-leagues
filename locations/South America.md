@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3179 | | | | | |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3161 | | | | | |
 
 ### NASCAR Truck Series
 
@@ -80,7 +80,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |18 |2808 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |16 |2847 | | | | | |
 
 ### Ring Meister 2024S3
 
