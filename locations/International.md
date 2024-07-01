@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[Jamaica Simulation Racing Association \(JSRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11037){:target="_blank"} |FIA Formula 4 Championship |International |28 |1667 | | | | | |
+|[Jamaica Simulation Racing Association \(JSRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11037){:target="_blank"} |FIA Formula 4 Championship |International |34 |1598 | |Tsukuba Circuit |Sun, July 07 02:00PM EDT |Sun, July 07 07:00PM BST |Mon, July 08 04:00AM AEST |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 15 \- PRO FIA F4 |International |21 |2088 | |Motorsport Arena Oschersleben |Mon, July 01 01:30PM EDT |Mon, July 01 06:30PM BST |Tue, July 02 03:30AM AEST |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 15 \- Am FIA F4 |International |17 |1221 | |Motorsport Arena Oschersleben |Mon, July 01 12:30PM EDT |Mon, July 01 05:30PM BST |Tue, July 02 02:30AM AEST |
 |[NOUS Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11152){:target="_blank"} |F4 Paraguay Series |International |14 |1351 |Fixed |Okayama International Circuit |Tue, July 02 09:40PM EDT |Wed, July 03 02:40AM BST |Wed, July 03 11:40AM AEST |

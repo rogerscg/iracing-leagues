@@ -13,6 +13,7 @@
 |[Falisec Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11230){:target="_blank"} |[Discord](https://discord.gg/WuN9DuSUPs){:target="_blank"} |fia 4 |
 |[fiercelyforward](https://members.iracing.com/membersite/member/LeagueView.do?league=11180){:target="_blank"} | |team |
 |[Gunslinger Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11187){:target="_blank"} | |Fastest of the Fastest |
+|[iiS \- international iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11236){:target="_blank"} |[Discord](https://discord.gg/btNgsWGhbr){:target="_blank"} |NASCAR League Next Gen Open Full Lenght with stages\.  Every other Friday in parallel with the Nascar irl season  Server opening: 7:00 pm  Qualifying: 9:00 p\.m\.  Race: 9:10 p\.m\.  Time zones: Paris / Brussels  Discord : https://discord\.gg/btNgsWGhbr |
 |[INDYCAR ButtKicker iRacing Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11225){:target="_blank"} | | |
 |[iRacingHrvatska\-SLUŽBENO PRVENSTVO HRVATSKE](https://members.iracing.com/membersite/member/LeagueView.do?league=11207){:target="_blank"} | |Sluzbeno PH \- samo pretkvalificirani vozaci |
 |[IRAIL](https://members.iracing.com/membersite/member/LeagueView.do?league=11204){:target="_blank"} |[Discord](https://discord.gg/CaSuKA35){:target="_blank"} |The Internet Racing ai and player league\. Private and closed |
@@ -20,7 +21,6 @@
 |[K A T M E A T](https://members.iracing.com/membersite/member/LeagueView.do?league=11212){:target="_blank"} | |Shouldn't ask, honestly if youre pondering direction in life you probably should pit now |
 |[Late Model stock racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11183){:target="_blank"} |[Discord](https://discord.gg/Ebd46jMJ){:target="_blank"} |Just some good oval track racing and having fun\. |
 |[Lights Out iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11217){:target="_blank"} | |This is a community focused league of internet / irl friends brought together over 2 years ago looking to race and expand into the iRacing space\. |
-|[Maine Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11179){:target="_blank"} | |Late Model Weekly |
 |[Marshall Thomas Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11231){:target="_blank"} | |Indy Car Challenge |
 |[maxxed out offroad](https://members.iracing.com/membersite/member/LeagueView.do?league=11196){:target="_blank"} |[Discord](https://discord.gg/eaDjqSEe){:target="_blank"} |rules in discord |
 |[MidWest Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |[Discord](https://discord.gg/Tn6ANbbRtc){:target="_blank"} | |
@@ -28,6 +28,7 @@
 |[NARL CASH DAYS 24h Ironman Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11222){:target="_blank"} | |NARL Special Event |
 |[NASCAR Cinnabon Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11229){:target="_blank"} |[Discord](https://discord.gg/H9Ps69wNqG){:target="_blank"} | |
 |[Jones\-Collins Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11198){:target="_blank"} | |NASCAR Legends |
+|[New England Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11235){:target="_blank"} | | |
 |[Noba Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11211){:target="_blank"} |[Discord](https://discord.gg/TQuA67WJVY){:target="_blank"} |Comunidad y club simracing en Colombia y para latam |
 |[North America Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} | |Friendly Open Wheel League for lesser experienced people\. |
 |[Northeast Modified Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11226){:target="_blank"} | |An iracing league dedicated to the spirit of asphalt modified racing |
@@ -38,18 +39,19 @@
 |[Pinnacle Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11227){:target="_blank"} | |Dirt series racing league |
 |[Rad Radical Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11214){:target="_blank"} |[Discord](https://discord.gg/22NemDV5){:target="_blank"} |Craving a league that pushes you to the limit and puts pure, unadulterated speed at your fingertips? The Radical Racing League is your nitro\-fueled answer\! This league isn't just about raw speed, though\. We're building a community of motivated racers who are hungry to learn and push each other to be better\. Respectful competition is our motto, where clean racing and constant improvement go hand\-in\-hand\. Whether you're a seasoned pro or a rookie with fire in your eyes, we want racers who are down to share tips, celebrate victories \(because let's be honest, winning is awesome\!\), and shred lap times together\. Ready to ditch the ordinary and embrace the Radical? Sign up today and experience the thrill of racing like never before\! This league is more than competition – it's a supportive team environment where everyone wins \(except maybe your tires\) |
 |[Raubcar](https://members.iracing.com/membersite/member/LeagueView.do?league=11209){:target="_blank"} |[Discord](https://discord.gg/T4GDFwrvNF){:target="_blank"} |The iRacing League for Raubcar |
-|[SHiFT eRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11178){:target="_blank"} |[Discord](https://discord.gg/NFh4tBTq){:target="_blank"} |Weekly races with prizes for podium |
 |[Short Track Showdown Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11208){:target="_blank"} | |We are a SK Modified League looking for drivers and a clean community\. Looking to start running recruitment races in the fall\. |
 |[Slick Sim Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=11186){:target="_blank"} | |Modified Madness Summer Tour |
 |[Stateline Showdown Series Presented by Army National Guard](https://members.iracing.com/membersite/member/LeagueView.do?league=11197){:target="_blank"} |[Discord](https://discord.gg/pioneers){:target="_blank"} |Join the Pioneers next stop on the Stateline Showdown Series, a thrilling iRacing tournament, proudly presented by the Army National Guard\. Experience high\-speed action and competitive racing as virtual tracks heat up with adrenaline\-fueled battles\! Payouts will be awarded to the Top 5 of the Final race\! Qualifying races are one and done format\. You only get one shot to make the final race, Do you have what it takes?" |
 |[That One Dude's League](https://members.iracing.com/membersite/member/LeagueView.do?league=11200){:target="_blank"} | |Building\.\.\.\. |
 |[The International 400 Mile Sweepstakes](https://members.iracing.com/membersite/member/LeagueView.do?league=11188){:target="_blank"} |[Discord](https://discord.gg/TNRHm8GgA9){:target="_blank"} | |
+|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} | | |
 |[Tonya Boisvert Memorial](https://members.iracing.com/membersite/member/LeagueView.do?league=11206){:target="_blank"} | |This will be an Annual event to honor Tonya Boisvert |
 |[Trident Renn Gruppe Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11181){:target="_blank"} | |Competitive spirit, gentleman conduct |
 |[V\-Club Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11182){:target="_blank"} | | |
 |[Variety Pack Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11228){:target="_blank"} | |Fixed Xfinity Super Speedway Series rotating between Daytona, Talladega, Atlanta and I Racing SS for our Inaugural Season 1 starting July 13th to Oct 5th\. |
 |[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |[Discord](https://discord.gg/esSepSvkU8){:target="_blank"} |OpenWheeler \- Volles Qualifying \- Volle Renndistanzen \- Echtes Safety Car \- Echte Rennleitung |
 |[Vice Motorsport IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11185){:target="_blank"} | | |
+|[Wanna See It Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11233){:target="_blank"} | | |
 |[ytr dhf](https://members.iracing.com/membersite/member/LeagueView.do?league=11218){:target="_blank"} | | |
 |[Formula Flex Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11205){:target="_blank"} | | |
 |[GTRLIVEtv](https://members.iracing.com/membersite/member/LeagueView.do?league=11224){:target="_blank"} | |New |
