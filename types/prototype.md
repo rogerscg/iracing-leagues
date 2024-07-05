@@ -14,13 +14,21 @@
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP2 \- Season 3 Presented by P1Doks\.com |North America |13 |2510 |Open | | | | |
 |[GT3 Under 2k \- VRS Sim Racing Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |Challenge \#5 Pre\-Qualifying |Europe |13 |2353 | | | | | |
 
+### GTP
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------|-----------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |2024\-05 \| 2° Stagione |Europe |11 |1559 | | | | | |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
-|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |18 |2203 |Open |Road America |Wed, July 03 07:30PM EDT |Thu, July 04 12:30AM BST |Thu, July 04 09:30AM AEST |
+|------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|------------------------------------|------------------------|------------------------|-------------------------|
+|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |19 |2198 |Open |Autodromo Internazionale del Mugello |Wed, July 10 07:30PM EDT |Thu, July 11 12:30AM BST |Thu, July 11 09:30AM AEST |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso Radical Fun Racce |Europe |14 |1696 | | | | | |
 
 ### Radical SR10
@@ -29,10 +37,10 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Sharky's Radical Thursday's |North America |28 |1117 |Fixed |Suzuka International Racing Course |Thu, July 04 08:00PM EDT |Fri, July 05 01:00AM BST |Fri, July 05 10:00AM AEST |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Sharky's Radical Thursday's |North America |29 |1114 |Fixed |WeatherTech Raceway at Laguna Seca |Thu, July 11 08:00PM EDT |Fri, July 12 01:00AM BST |Fri, July 12 10:00AM AEST |
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3359 | | | | | |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |23 |2508 | | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |20 |3036 |Open |Suzuka International Racing Course |Thu, July 04 02:15PM EDT |Thu, July 04 07:15PM BST |Fri, July 05 04:15AM AEST |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |20 |3086 |Open |WeatherTech Raceway at Laguna Seca |Thu, July 11 02:15PM EDT |Thu, July 11 07:15PM BST |Fri, July 12 04:15AM AEST |
 
 ### Radical SR8
 
