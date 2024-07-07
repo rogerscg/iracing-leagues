@@ -3,13 +3,13 @@
 
 # NASCAR
 
-### Draft Master 2023S4
+### NASCAR 2022 NextGen
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|---------------------|------------------------|------------------------|-------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3214 | |Chicago Street Course |Mon, July 08 06:30PM EDT |Mon, July 08 11:30PM BST |Tue, July 09 08:30AM AEST |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3206 | |Chicago Street Course |Mon, July 08 06:30PM EDT |Mon, July 08 11:30PM BST |Tue, July 09 08:30AM AEST |
 
 ### NASCAR Truck Series
 
@@ -35,7 +35,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Alpha Session |South America |24 |1427 |Fixed |[Legacy] Pocono Raceway - 2009 |Mon, July 08 06:40PM EDT |Mon, July 08 11:40PM BST |Tue, July 09 08:40AM AEST |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Alpha Session |South America |24 |1411 |Fixed |[Legacy] Pocono Raceway - 2009 |Mon, July 08 06:40PM EDT |Mon, July 08 11:40PM BST |Tue, July 09 08:40AM AEST |
 
 ### Dallara IR18
 
@@ -83,14 +83,6 @@
 |[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT MAZDA CUP Season 14 |South America |24 |2044 |Fixed |Circuito de Navarra |Tue, July 09 08:30PM EDT |Wed, July 10 01:30AM BST |Wed, July 10 10:30AM AEST |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Mundo Agro Virtual Mazda MX\-5 Cup |South America |21 |2048 |Fixed |Rudskogen Motorsenter |Thu, July 11 06:00PM EDT |Thu, July 11 11:00PM BST |Fri, July 12 08:00AM AEST |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Prata \- Mundo Agro Virtual Mazda MX\-5 Cup |South America |18 |1216 |Fixed |Rudskogen Motorsenter |Thu, July 11 07:30PM EDT |Fri, July 12 12:30AM BST |Fri, July 12 09:30AM AEST |
-
-### Porsche 911 GT3 Cup (992)
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL \- RXP \- PORSCHE CARRERA CUP \- TEMPORADA 1 |South America |16 |2847 | | | | | |
 
 ### Touring Car
 
@@ -149,9 +141,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |56 |1951 | | | | | |
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MULTICLASS IMSA T4 |South America |30 |2675 | | | | | |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA IMSA \- Temporada 1 |South America |13 |1912 | | | | | |
 
 ### Stock Car Brasil

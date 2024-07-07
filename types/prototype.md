@@ -8,9 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dallara Dash |North America |17 |1234 |Both |Watkins Glen International |Fri, July 12 10:05PM EDT |Sat, July 13 03:05AM BST |Sat, July 13 12:05PM AEST |
 |[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |16 |2546 | | | | | |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dallara Dash |North America |15 |1237 |Both |Road America |Fri, July 05 10:05PM EDT |Sat, July 06 03:05AM BST |Sat, July 06 12:05PM AEST |
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP2 \- Season 3 Presented by P1Doks\.com |North America |13 |2510 |Open | | | | |
 |[GT3 Under 2k \- VRS Sim Racing Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |Challenge \#5 Pre\-Qualifying |Europe |13 |2353 | | | | | |
 
@@ -39,7 +39,7 @@
 |--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Sharky's Radical Thursday's |North America |29 |1114 |Fixed |WeatherTech Raceway at Laguna Seca |Thu, July 11 08:00PM EDT |Fri, July 12 01:00AM BST |Fri, July 12 10:00AM AEST |
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3359 | | | | | |
-|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |23 |2508 | | | | | |
+|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |23 |2508 | |WeatherTech Raceway at Laguna Seca |Sun, July 14 07:30PM EDT |Mon, July 15 12:30AM BST |Mon, July 15 09:30AM AEST |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |20 |3086 |Open |WeatherTech Raceway at Laguna Seca |Thu, July 11 02:15PM EDT |Thu, July 11 07:15PM BST |Fri, July 12 04:15AM AEST |
 
 ### Radical SR8
