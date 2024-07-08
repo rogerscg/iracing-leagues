@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dallara Dash |North America |17 |1234 |Both |Watkins Glen International |Fri, July 12 10:05PM EDT |Sat, July 13 03:05AM BST |Sat, July 13 12:05PM AEST |
-|[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |16 |2546 | | | | | |
+|[Südspeed Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10115){:target="_blank"} |Südspeed Sportscar Series 2024\-1 |Australia-NZ |15 |2502 | | | | | |
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP2 \- Season 3 Presented by P1Doks\.com |North America |13 |2510 |Open | | | | |
 |[GT3 Under 2k \- VRS Sim Racing Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |Challenge \#5 Pre\-Qualifying |Europe |13 |2353 | | | | | |
 
@@ -20,7 +20,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------|-----------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |2024\-05 \| 2° Stagione |Europe |11 |1559 | | | | | |
+|[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |2024\-05 \| 2° Stagione |Europe |10 |1558 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -58,7 +58,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024S3 |North America |44 |2827 |Open |Autodromo Nazionale Monza |Sun, July 07 02:40PM EDT |Sun, July 07 07:40PM BST |Mon, July 08 04:40AM AEST |
-|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Spring Tour SRF |North America |19 |2684 |Open | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024S3 |North America |48 |2922 |Open |Motorsport Arena Oschersleben |Sun, July 14 02:40PM EDT |Sun, July 14 07:40PM BST |Mon, July 15 04:40AM AEST |
+|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Spring Tour SRF |North America |19 |2685 |Open | | | | |
 
