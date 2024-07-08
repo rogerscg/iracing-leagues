@@ -1,9 +1,10 @@
-markdown: kramdown
-name: ""
-title: "iRacing League Directory"
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-google_analytics: G-5V7QQRNGXT
 github:
   is_project_page: false
+google_analytics: G-5V7QQRNGXT
+last_updated: Monday, July 08, 2024
+markdown: kramdown
+name: ''
+plugins:
+- jekyll-remote-theme
+remote_theme: pages-themes/cayman@v0.2.0
+title: iRacing League Directory
