@@ -27,9 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|------------------------------------|------------------------|------------------------|-------------------------|
-|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |19 |2198 |Open |Autodromo Internazionale del Mugello |Wed, July 10 07:30PM EDT |Thu, July 11 12:30AM BST |Thu, July 11 09:30AM AEST |
-|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso Radical Fun Racce |Europe |14 |1696 | | | | | |
+|------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|------------------------------------|------------------------|------------------------|-------------------------|
+|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |18 |2210 |Open |Autodromo Internazionale del Mugello |Wed, July 10 07:30PM EDT |Thu, July 11 12:30AM BST |Thu, July 11 09:30AM AEST |
 
 ### Radical SR10
 

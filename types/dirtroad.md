@@ -29,8 +29,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|----------------|------------------------|------------------------|-------------------------|
 |[Average Off\-Road Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8568){:target="_blank"} |AORRL SEASON 3 PRESENTED BY ROTATION |North America |23 |1738 | | | | | |
-|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck Cup 2: Bigger Harder Faster Stronger |North America |14 |1725 | | | | | |
+|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck Cup 2: Bigger Harder Faster Stronger |North America |14 |1725 | |Concord Speedway |Tue, July 16 08:00PM EDT |Wed, July 17 01:00AM BST |Wed, July 17 10:00AM AEST |
 |[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusTRUX Season 2 |Australia-NZ |12 |2680 | | | | | |
 
