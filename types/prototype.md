@@ -46,11 +46,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[LFR \- Loose is Fast Racing Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=8433){:target="_blank"} |North Atlantic Radical Run |North America |26 |1818 |Open | | | | |
-|[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |Radical 2024 |Europe |18 |2482 |Fixed | | | | |
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |17 |1501 | |Sebring International Raceway |Tue, July 09 07:50PM EDT |Wed, July 10 12:50AM BST |Wed, July 10 09:50AM AEST |
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |13 |1132 |Open |Long Beach Street Circuit |Tue, July 09 10:00PM EDT |Wed, July 10 03:00AM BST |Wed, July 10 12:00PM AEST |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |19 |1470 | |Virginia International Raceway |Tue, July 16 07:50PM EDT |Wed, July 17 12:50AM BST |Wed, July 17 09:50AM AEST |
+|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |13 |1156 |Open |Circuit de Spa-Francorchamps |Tue, July 16 10:00PM EDT |Wed, July 17 03:00AM BST |Wed, July 17 12:00PM AEST |
 
 ### Spec Racer Ford
 

@@ -1,14 +1,14 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[4th Annual MS Charity Race benefiting the National MS Society](https://members.iracing.com/membersite/member/LeagueView.do?league=11239){:target="_blank"} | | |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[3 Days in Hell](https://members.iracing.com/membersite/member/LeagueView.do?league=11276){:target="_blank"} | |Money Racing |
 |[ADAC Simracing Expo 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11259){:target="_blank"} | |Official League for the ADAC Simracing Expo 2024 |
-|[ARCA at the Fairgrounds](https://members.iracing.com/membersite/member/LeagueView.do?league=11213){:target="_blank"} | |Weekly race at the Nashville Fairgrounds |
 |[Beginner Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11215){:target="_blank"} | |League for beginners and newbies |
 |[BNC BOYZ](https://members.iracing.com/membersite/member/LeagueView.do?league=11245){:target="_blank"} | |BNC Discord |
 |[Bull Racer](https://members.iracing.com/membersite/member/LeagueView.do?league=11252){:target="_blank"} | | |
 |[CBA](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} | |Campeonato oficial da CBA \- Confederação Brasileira de Automobilismo |
+|[CHR League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11273){:target="_blank"} | | |
 |[D's Nutz & Boltz Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11246){:target="_blank"} | |fur da bruuuuusssss |
 |[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} | | |
 |[esr](https://members.iracing.com/membersite/member/LeagueView.do?league=11249){:target="_blank"} | | |
@@ -20,6 +20,7 @@
 |[iDRA](https://members.iracing.com/membersite/member/LeagueView.do?league=11260){:target="_blank"} | |iRacing Dirt Racing Association |
 |[iiS \- international iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11236){:target="_blank"} |[Discord](https://discord.gg/btNgsWGhbr){:target="_blank"} |NASCAR League Next Gen Open Full Lenght with stages\.  Every other Friday in parallel with the Nascar irl season  Server opening: 7:00 pm  Qualifying: 9:00 p\.m\.  Race: 9:10 p\.m\.  Time zones: Paris / Brussels  Discord : https://discord\.gg/btNgsWGhbr |
 |[INDYCAR ButtKicker iRacing Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11225){:target="_blank"} | | |
+|[Lightning League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11275){:target="_blank"} |[Discord](https://discord.gg/SFffvn3d){:target="_blank"} |We are an Iracing team starting our first season |
 |[Lights Out iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11217){:target="_blank"} |[Discord](https://discord.gg/Ps6BZSpZP4){:target="_blank"} |This is a community focused league of internet / irl friends brought together over 2 years ago looking to race and expand into the iRacing space\. |
 |[Marshall Thomas Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11231){:target="_blank"} | |Indy Car Challenge |
 |[NARL CASH DAYS 24h Ironman Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11222){:target="_blank"} | |NARL Special Event |
@@ -33,7 +34,6 @@
 |[Oval Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=11232){:target="_blank"} | | |
 |[Wanna See It Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11233){:target="_blank"} | | |
 |[Pinnacle Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11227){:target="_blank"} |[Discord](https://discord.gg/cPtunyum){:target="_blank"} |Dirt series racing league |
-|[Rad Radical Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11214){:target="_blank"} |[Discord](https://discord.gg/22NemDV5){:target="_blank"} |Craving a league that pushes you to the limit and puts pure, unadulterated speed at your fingertips? The Radical Racing League is your nitro\-fueled answer\! This league isn't just about raw speed, though\. We're building a community of motivated racers who are hungry to learn and push each other to be better\. Respectful competition is our motto, where clean racing and constant improvement go hand\-in\-hand\. Whether you're a seasoned pro or a rookie with fire in your eyes, we want racers who are down to share tips, celebrate victories \(because let's be honest, winning is awesome\!\), and shred lap times together\. Ready to ditch the ordinary and embrace the Radical? Sign up today and experience the thrill of racing like never before\! This league is more than competition – it's a supportive team environment where everyone wins \(except maybe your tires\) |
 |[SIMpletons](https://members.iracing.com/membersite/member/LeagueView.do?league=11241){:target="_blank"} | | |
 |[Simunation Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11242){:target="_blank"} | |A Simunation Series iRacing szakosztályának ligája |
 |[Smitty's Late Night LMS League](https://members.iracing.com/membersite/member/LeagueView.do?league=11258){:target="_blank"} |[Discord](https://discord.gg/GB7kcbJV){:target="_blank"} |Smitty's Late Night Late Model Stock League |
@@ -53,12 +53,14 @@
 |[World GT4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11267){:target="_blank"} | |Jackyboy Racing Community Championship |
 |[World Touring Car Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11270){:target="_blank"} | |Jackyboy Racing World Touring Car Championship |
 |[ytr dhf](https://members.iracing.com/membersite/member/LeagueView.do?league=11218){:target="_blank"} | | |
+|[FIA F4 eSports Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11277){:target="_blank"} | | |
 |[GM Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11271){:target="_blank"} | |GM Motorsports iRacing League for Chevrolet & Cadillac Racing\! For all motorsports employees under Chevrolet & Cadillac\! |
 |[GTRLIVEtv](https://members.iracing.com/membersite/member/LeagueView.do?league=11224){:target="_blank"} | |New |
 |[Pan\-Am Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11216){:target="_blank"} |[Discord](https://discord.gg/drivepanam){:target="_blank"} |Pan\-Am Racing is a US based racing league that offers exciting and competitive racing for all skill levels of sim racing enthusiasts\. |
 |[Porsche Carrera Cup Benelux by Simwear\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=11264){:target="_blank"} | | |
 |[SSR](https://members.iracing.com/membersite/member/LeagueView.do?league=11263){:target="_blank"} | | |
 |[Summer Madness Cup by NDSRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11220){:target="_blank"} |[Discord](https://discord.gg/qwC95Bntxw){:target="_blank"} | |
+|[That's Life Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11274){:target="_blank"} | | |
 |[Tri\-Spire Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=11251){:target="_blank"} | |Welcome to the Tri\-Spire Stock Car Racing League, where passion for speed and competitive spirit come alive on the virtual track\. Our league features three distinct series, each designed to cater to different levels of racing expertise and intensity\. Whether you're a seasoned driver or a newcomer eager to make your mark, there's a place for you in the Tri\-Spire family\. |
 |[Walk Racing Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=11223){:target="_blank"} | |Walk Racing Esports |
 
