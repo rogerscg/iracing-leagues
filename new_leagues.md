@@ -4,9 +4,9 @@
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[3 Days in Hell](https://members.iracing.com/membersite/member/LeagueView.do?league=11276){:target="_blank"} | |Money Racing |
 |[ADAC Simracing Expo 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11259){:target="_blank"} | |Official League for the ADAC Simracing Expo 2024 |
-|[Beginner Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11215){:target="_blank"} | |League for beginners and newbies |
 |[BNC BOYZ](https://members.iracing.com/membersite/member/LeagueView.do?league=11245){:target="_blank"} | |BNC Discord |
 |[Bull Racer](https://members.iracing.com/membersite/member/LeagueView.do?league=11252){:target="_blank"} | | |
+|[Burnt Rubber Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11279){:target="_blank"} |[Discord](https://discord.gg/DKGC7sU58h){:target="_blank"} |Race clean\| Be Fast\| And Love All |
 |[CBA](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} | |Campeonato oficial da CBA \- Confederação Brasileira de Automobilismo |
 |[CHR League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11273){:target="_blank"} | | |
 |[D's Nutz & Boltz Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11246){:target="_blank"} | |fur da bruuuuusssss |
@@ -21,7 +21,6 @@
 |[iiS \- international iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11236){:target="_blank"} |[Discord](https://discord.gg/btNgsWGhbr){:target="_blank"} |NASCAR League Next Gen Open Full Lenght with stages\.  Every other Friday in parallel with the Nascar irl season  Server opening: 7:00 pm  Qualifying: 9:00 p\.m\.  Race: 9:10 p\.m\.  Time zones: Paris / Brussels  Discord : https://discord\.gg/btNgsWGhbr |
 |[INDYCAR ButtKicker iRacing Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11225){:target="_blank"} | | |
 |[Lightning League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11275){:target="_blank"} |[Discord](https://discord.gg/SFffvn3d){:target="_blank"} |We are an Iracing team starting our first season |
-|[Lights Out iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11217){:target="_blank"} |[Discord](https://discord.gg/Ps6BZSpZP4){:target="_blank"} |This is a community focused league of internet / irl friends brought together over 2 years ago looking to race and expand into the iRacing space\. |
 |[Marshall Thomas Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11231){:target="_blank"} | |Indy Car Challenge |
 |[NARL CASH DAYS 24h Ironman Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11222){:target="_blank"} | |NARL Special Event |
 |[NASCAR Cinnabon Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11229){:target="_blank"} |[Discord](https://discord.gg/H9Ps69wNqG){:target="_blank"} | |
@@ -32,8 +31,10 @@
 |[Nuerburgring Langstrecken Serie Australien](https://members.iracing.com/membersite/member/LeagueView.do?league=11244){:target="_blank"} |[Discord](https://discord.gg/bScTfxsA){:target="_blank"} |Designed to replicate the real world NLS for the Australian Timezone\. Catering for the seasoned pro to the simracing rookie\. |
 |[outlaw oval racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=11221){:target="_blank"} | |fixed competitive racing and fun environment |
 |[Oval Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=11232){:target="_blank"} | | |
+|[Pacific Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11281){:target="_blank"} | | |
 |[Wanna See It Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11233){:target="_blank"} | | |
 |[Pinnacle Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11227){:target="_blank"} |[Discord](https://discord.gg/cPtunyum){:target="_blank"} |Dirt series racing league |
+|[Sim Racers United](https://members.iracing.com/membersite/member/LeagueView.do?league=11280){:target="_blank"} |[Discord](https://discord.gg/K9Cjuq23Pn){:target="_blank"} |Racing Tuesday, Wednesday, and Thursday nights Following the NASCAR schedule |
 |[SIMpletons](https://members.iracing.com/membersite/member/LeagueView.do?league=11241){:target="_blank"} | | |
 |[Simunation Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11242){:target="_blank"} | |A Simunation Series iRacing szakosztályának ligája |
 |[Smitty's Late Night LMS League](https://members.iracing.com/membersite/member/LeagueView.do?league=11258){:target="_blank"} |[Discord](https://discord.gg/GB7kcbJV){:target="_blank"} |Smitty's Late Night Late Model Stock League |
@@ -56,7 +57,6 @@
 |[FIA F4 eSports Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11277){:target="_blank"} | | |
 |[GM Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11271){:target="_blank"} | |GM Motorsports iRacing League for Chevrolet & Cadillac Racing\! For all motorsports employees under Chevrolet & Cadillac\! |
 |[GTRLIVEtv](https://members.iracing.com/membersite/member/LeagueView.do?league=11224){:target="_blank"} | |New |
-|[Pan\-Am Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11216){:target="_blank"} |[Discord](https://discord.gg/drivepanam){:target="_blank"} |Pan\-Am Racing is a US based racing league that offers exciting and competitive racing for all skill levels of sim racing enthusiasts\. |
 |[Porsche Carrera Cup Benelux by Simwear\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=11264){:target="_blank"} | | |
 |[SSR](https://members.iracing.com/membersite/member/LeagueView.do?league=11263){:target="_blank"} | | |
 |[Summer Madness Cup by NDSRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11220){:target="_blank"} |[Discord](https://discord.gg/qwC95Bntxw){:target="_blank"} | |

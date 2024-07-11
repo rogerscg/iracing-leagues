@@ -27,8 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|------------------------------------|------------------------|------------------------|-------------------------|
-|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |18 |2210 |Open |Autodromo Internazionale del Mugello |Wed, July 10 07:30PM EDT |Thu, July 11 12:30AM BST |Thu, July 11 09:30AM AEST |
+|------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
+|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |18 |2210 |Open |Red Bull Ring |Wed, July 17 07:30PM EDT |Thu, July 18 12:30AM BST |Thu, July 18 09:30AM AEST |
 
 ### Radical SR10
 
