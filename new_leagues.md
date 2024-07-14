@@ -12,7 +12,6 @@
 |[D's Nutz & Boltz Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11246){:target="_blank"} | |fur da bruuuuusssss |
 |[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} | | |
 |[esr](https://members.iracing.com/membersite/member/LeagueView.do?league=11249){:target="_blank"} | | |
-|[Falisec Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11230){:target="_blank"} |[Discord](https://discord.gg/WuN9DuSUPs){:target="_blank"} |fia 4 |
 |[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |[Discord](https://discord.gg/friendmotorsport){:target="_blank"} |Join FRIEND \| SR10, the Monday Night League where drivers of all iRating experience thrilling SR10 races, expert coaching, and weekly prizes in a supportive community\. Enjoy competitive yet relaxed racing every Monday at 9pm EST —simply join our Discord to get started\! |
 |[FullSend Xfinity Racing League Summer 24'](https://members.iracing.com/membersite/member/LeagueView.do?league=11268){:target="_blank"} |[Discord](https://discord.gg/9StTG8ed){:target="_blank"} |COMPLETELY FREE\!\!\! SAT, July 13TH , races will be ran every other saturday, we want to accuminate for everyone's schedule, please join discord below\! |
 |[GGC BMW CCA](https://members.iracing.com/membersite/member/LeagueView.do?league=11240){:target="_blank"} | |Official League for the GGC BMW CCA |
@@ -20,14 +19,11 @@
 |[iDRA](https://members.iracing.com/membersite/member/LeagueView.do?league=11260){:target="_blank"} | |iRacing Dirt Racing Association |
 |[iiS \- international iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11236){:target="_blank"} |[Discord](https://discord.gg/btNgsWGhbr){:target="_blank"} |NASCAR League Next Gen Open Full Lenght with stages\.  Every other Friday in parallel with the Nascar irl season  Server opening: 7:00 pm  Qualifying: 9:00 p\.m\.  Race: 9:10 p\.m\.  Time zones: Paris / Brussels  Discord : https://discord\.gg/btNgsWGhbr |
 |[Lightning League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11275){:target="_blank"} |[Discord](https://discord.gg/SFffvn3d){:target="_blank"} |We are an Iracing team starting our first season |
-|[Marshall Thomas Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11231){:target="_blank"} | |Indy Car Challenge |
 |[National MS Society Charity Race](https://members.iracing.com/membersite/member/LeagueView.do?league=11269){:target="_blank"} | |This is the league where we will host the MS Charity Race Broadcast |
 |[New England Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11235){:target="_blank"} | | |
 |[No Lift Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=11256){:target="_blank"} | | |
 |[Nuerburgring Langstrecken Serie Australien](https://members.iracing.com/membersite/member/LeagueView.do?league=11244){:target="_blank"} |[Discord](https://discord.gg/bScTfxsA){:target="_blank"} |Designed to replicate the real world NLS for the Australian Timezone\. Catering for the seasoned pro to the simracing rookie\. |
-|[Oval Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=11232){:target="_blank"} | | |
 |[Pacific Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11281){:target="_blank"} | | |
-|[Wanna See It Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11233){:target="_blank"} | | |
 |[Sim Racers United](https://members.iracing.com/membersite/member/LeagueView.do?league=11280){:target="_blank"} |[Discord](https://discord.gg/K9Cjuq23Pn){:target="_blank"} |Racing Tuesday, Wednesday, and Thursday nights Following the NASCAR schedule |
 |[SIMpletons](https://members.iracing.com/membersite/member/LeagueView.do?league=11241){:target="_blank"} | | |
 |[Simunation Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11242){:target="_blank"} | |A Simunation Series iRacing szakosztályának ligája |

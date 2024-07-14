@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3080 | |Pocono Raceway |Mon, July 15 06:30PM EDT |Mon, July 15 11:30PM BST |Tue, July 16 08:30AM AEST |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3049 | |Pocono Raceway |Mon, July 15 06:30PM EDT |Mon, July 15 11:30PM BST |Tue, July 16 08:30AM AEST |
 
 ### NASCAR Truck Series
 

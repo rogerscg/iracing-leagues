@@ -19,6 +19,5 @@
 |[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |SRX Series |North America |15 |1488 | |Eldora Speedway |Wed, July 17 07:00PM EDT |Thu, July 18 12:00AM BST |Thu, July 18 09:00AM AEST |
 |[OVAL\-UTION / Évenements Spéciaux](https://members.iracing.com/membersite/member/LeagueView.do?league=10851){:target="_blank"} |Évenements Spéciaux Saison Printemps / Été 2024 |North America |14 |2017 | | | | | |
 |[Mayhem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5425){:target="_blank"} |WWOMS SRX |North America |13 |1589 |Both | | | | |
-|[STSL SRX Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10816){:target="_blank"} |STSL SRX Season 0 |North America |11 |2197 |Fixed | | | | |
 |[ARCS Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |ARCS Race Experience 2024 S2 |North America |10 |1806 | | | | | |
 
