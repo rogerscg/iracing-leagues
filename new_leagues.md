@@ -17,27 +17,29 @@
 |[GGC BMW CCA](https://members.iracing.com/membersite/member/LeagueView.do?league=11240){:target="_blank"} | |Official League for the GGC BMW CCA |
 |[High Velocity Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=11243){:target="_blank"} | |This league is tailored for drivers that are more on the experienced side, but aren't on rails\. This league is a 60% league that runs on Tuesday nights\. We run stages, and will be tracking points for a championship winner |
 |[iDRA](https://members.iracing.com/membersite/member/LeagueView.do?league=11260){:target="_blank"} | |iRacing Dirt Racing Association |
-|[iiS \- international iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11236){:target="_blank"} |[Discord](https://discord.gg/btNgsWGhbr){:target="_blank"} |NASCAR League Next Gen Open Full Lenght with stages\.  Every other Friday in parallel with the Nascar irl season  Server opening: 7:00 pm  Qualifying: 9:00 p\.m\.  Race: 9:10 p\.m\.  Time zones: Paris / Brussels  Discord : https://discord\.gg/btNgsWGhbr |
 |[Lightning League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11275){:target="_blank"} |[Discord](https://discord.gg/SFffvn3d){:target="_blank"} |We are an Iracing team starting our first season |
 |[National MS Society Charity Race](https://members.iracing.com/membersite/member/LeagueView.do?league=11269){:target="_blank"} | |This is the league where we will host the MS Charity Race Broadcast |
-|[New England Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11235){:target="_blank"} | | |
+|[NNIRL](https://members.iracing.com/membersite/member/LeagueView.do?league=11288){:target="_blank"} | |National Nascar iRacing League |
 |[No Lift Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=11256){:target="_blank"} | | |
 |[Nuerburgring Langstrecken Serie Australien](https://members.iracing.com/membersite/member/LeagueView.do?league=11244){:target="_blank"} |[Discord](https://discord.gg/bScTfxsA){:target="_blank"} |Designed to replicate the real world NLS for the Australian Timezone\. Catering for the seasoned pro to the simracing rookie\. |
 |[Pacific Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11281){:target="_blank"} | | |
+|[SAAC GT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11289){:target="_blank"} |[Discord](https://discord.gg/7X6qpquf){:target="_blank"} |The GT3 series hosted by SAAC\. MUST JOIN DISCORD TO RACE |
 |[Sim Racers United](https://members.iracing.com/membersite/member/LeagueView.do?league=11280){:target="_blank"} |[Discord](https://discord.gg/K9Cjuq23Pn){:target="_blank"} |Racing Tuesday, Wednesday, and Thursday nights Following the NASCAR schedule |
 |[SIMpletons](https://members.iracing.com/membersite/member/LeagueView.do?league=11241){:target="_blank"} | | |
 |[Simunation Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11242){:target="_blank"} | |A Simunation Series iRacing szakosztályának ligája |
+|[SlapSlingers](https://members.iracing.com/membersite/member/LeagueView.do?league=11287){:target="_blank"} | |Fun Dirt Track Racing |
 |[Smitty's Late Night LMS League](https://members.iracing.com/membersite/member/LeagueView.do?league=11258){:target="_blank"} |[Discord](https://discord.gg/GB7kcbJV){:target="_blank"} |Smitty's Late Night Late Model Stock League |
 |[Soggy Bottom Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11266){:target="_blank"} | |Soggy Bottom Racing Official League\! |
 |[Speed Masters GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=11257){:target="_blank"} | |WIP |
 |[SPEED Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11247){:target="_blank"} | |SPEED Xfinity Series \- Tuesday nights, utilizing the NASCAR Xfinity Series cars\. Practice 8:15pm EST, Qualifying @ 9:15pm EST |
 |[SRL Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11261){:target="_blank"} | | |
+|[SSRBC](https://members.iracing.com/membersite/member/LeagueView.do?league=11290){:target="_blank"} | |This is our entry level league that will run 15 races on Monday nights\. It is broadcasted by SSR and has an IR Cap of 2500 |
 |[Superlap Communnity](https://members.iracing.com/membersite/member/LeagueView.do?league=11265){:target="_blank"} | |Superlap Leagues open to discord members |
 |[The Motor Racing Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11283){:target="_blank"} | |Academy Challenges |
-|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} | | |
 |[USA F1 & Sports Car](https://members.iracing.com/membersite/member/LeagueView.do?league=11254){:target="_blank"} | |Tired of racing with others with bad internet and loads of disrespect? Looking to race along side mature, competitive but respectful racers? Then come join the USA F1 & Sports Car league\. Road course races for the Rookie Formula 1 and Sports Car Series\. Races Every Tuesday & Thursday\. |
 |[WAIT\! \- Wednesday AI Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=11272){:target="_blank"} | | |
 |[wednesday night rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=11262){:target="_blank"} | | |
+|[Whacky Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11286){:target="_blank"} | |Just for fun |
 |[Winged Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11250){:target="_blank"} | |Here at the league we 99% of the time will race OutLaw Micro Winged Sprint cars just wanna keep it clean, fast, fun, fair,and equal for all racers\. We are all people here, The owner is a Trans\-Sex person ill explain more upon asking\. We are here for the respect on the track and have great track respect for everyone\. This is a place of Chill racing hard and keeping it fun for the broadcaster \(keeping them on their toes\) all races will streamed on my Twitch \( https://www\.twitch\.tv/jocelynyourstonercow420 \) |
 |[Wingless Racing Oz](https://members.iracing.com/membersite/member/LeagueView.do?league=11237){:target="_blank"} | |Virtual 360 & 410 Wingless Racing For Australia\. |
 |[World GT4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11267){:target="_blank"} | |Jackyboy Racing Community Championship |
