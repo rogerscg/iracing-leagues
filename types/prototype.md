@@ -30,7 +30,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
-|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |18 |2210 |Open |Red Bull Ring |Wed, July 17 07:30PM EDT |Thu, July 18 12:30AM BST |Thu, July 18 09:30AM AEST |
+|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |17 |2211 |Open |Red Bull Ring |Wed, July 17 07:30PM EDT |Thu, July 18 12:30AM BST |Thu, July 18 09:30AM AEST |
 
 ### Radical SR10
 
@@ -42,6 +42,7 @@
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |23 |3348 | | | | | |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |21 |2388 | | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |20 |3086 |Open |Road Atlanta |Thu, July 18 02:15PM EDT |Thu, July 18 07:15PM BST |Fri, July 19 04:15AM AEST |
+|[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |Season 1 \- Beta |North America |11 |2102 | | | | | |
 
 ### Radical SR8
 

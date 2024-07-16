@@ -12,9 +12,10 @@
 |[D's Nutz & Boltz Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11246){:target="_blank"} | |fur da bruuuuusssss |
 |[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} | | |
 |[esr](https://members.iracing.com/membersite/member/LeagueView.do?league=11249){:target="_blank"} | | |
+|[F4 Uruguay](https://members.iracing.com/membersite/member/LeagueView.do?league=11294){:target="_blank"} | |Road to FIA MOTORSPORTS GAMES 2024 |
 |[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |[Discord](https://discord.gg/friendmotorsport){:target="_blank"} |Join FRIEND \| SR10, the Monday Night League where drivers of all iRating experience thrilling SR10 races, expert coaching, and weekly prizes in a supportive community\. Enjoy competitive yet relaxed racing every Monday at 9pm EST —simply join our Discord to get started\! |
 |[FullSend Xfinity Racing League Summer 24'](https://members.iracing.com/membersite/member/LeagueView.do?league=11268){:target="_blank"} |[Discord](https://discord.gg/9StTG8ed){:target="_blank"} |COMPLETELY FREE\!\!\! SAT, July 13TH , races will be ran every other saturday, we want to accuminate for everyone's schedule, please join discord below\! |
-|[GGC BMW CCA](https://members.iracing.com/membersite/member/LeagueView.do?league=11240){:target="_blank"} | |Official League for the GGC BMW CCA |
+|[High School Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11295){:target="_blank"} | |Street Stock High School League\. This is a league for high school drivers only\. Races begin in August and go through October\. To Apply Join the Discord Link\. |
 |[High Velocity Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=11243){:target="_blank"} | |This league is tailored for drivers that are more on the experienced side, but aren't on rails\. This league is a 60% league that runs on Tuesday nights\. We run stages, and will be tracking points for a championship winner |
 |[iDRA](https://members.iracing.com/membersite/member/LeagueView.do?league=11260){:target="_blank"} | |iRacing Dirt Racing Association |
 |[Lightning League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11275){:target="_blank"} |[Discord](https://discord.gg/SFffvn3d){:target="_blank"} |We are an Iracing team starting our first season |
@@ -23,9 +24,9 @@
 |[No Lift Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=11256){:target="_blank"} | | |
 |[Nuerburgring Langstrecken Serie Australien](https://members.iracing.com/membersite/member/LeagueView.do?league=11244){:target="_blank"} |[Discord](https://discord.gg/bScTfxsA){:target="_blank"} |Designed to replicate the real world NLS for the Australian Timezone\. Catering for the seasoned pro to the simracing rookie\. |
 |[Pacific Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11281){:target="_blank"} | | |
+|[Piston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11292){:target="_blank"} | |Orignated on XB1 in 2020, we have grown to the iracing platform\! |
 |[SAAC GT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11289){:target="_blank"} |[Discord](https://discord.gg/7X6qpquf){:target="_blank"} |The GT3 series hosted by SAAC\. MUST JOIN DISCORD TO RACE |
 |[Sim Racers United](https://members.iracing.com/membersite/member/LeagueView.do?league=11280){:target="_blank"} |[Discord](https://discord.gg/K9Cjuq23Pn){:target="_blank"} |Racing Tuesday, Wednesday, and Thursday nights Following the NASCAR schedule |
-|[SIMpletons](https://members.iracing.com/membersite/member/LeagueView.do?league=11241){:target="_blank"} | | |
 |[Simunation Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11242){:target="_blank"} | |A Simunation Series iRacing szakosztályának ligája |
 |[SlapSlingers](https://members.iracing.com/membersite/member/LeagueView.do?league=11287){:target="_blank"} | |Fun Dirt Track Racing |
 |[Smitty's Late Night LMS League](https://members.iracing.com/membersite/member/LeagueView.do?league=11258){:target="_blank"} |[Discord](https://discord.gg/GB7kcbJV){:target="_blank"} |Smitty's Late Night Late Model Stock League |
@@ -36,14 +37,16 @@
 |[SSRBC](https://members.iracing.com/membersite/member/LeagueView.do?league=11290){:target="_blank"} | |This is our entry level league that will run 15 races on Monday nights\. It is broadcasted by SSR and has an IR Cap of 2500 |
 |[Superlap Communnity](https://members.iracing.com/membersite/member/LeagueView.do?league=11265){:target="_blank"} | |Superlap Leagues open to discord members |
 |[The Motor Racing Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11283){:target="_blank"} | |Academy Challenges |
+|[The Motor Racing Academy 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11293){:target="_blank"} | |20 Challenges that will make you a competitive driver\. Become an Academy Member and learn how to tackle each challenge in detail at www\.suellioalmeida\.com |
 |[USA F1 & Sports Car](https://members.iracing.com/membersite/member/LeagueView.do?league=11254){:target="_blank"} | |Tired of racing with others with bad internet and loads of disrespect? Looking to race along side mature, competitive but respectful racers? Then come join the USA F1 & Sports Car league\. Road course races for the Rookie Formula 1 and Sports Car Series\. Races Every Tuesday & Thursday\. |
 |[WAIT\! \- Wednesday AI Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=11272){:target="_blank"} | | |
 |[wednesday night rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=11262){:target="_blank"} | | |
 |[Whacky Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11286){:target="_blank"} | |Just for fun |
 |[Winged Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11250){:target="_blank"} | |Here at the league we 99% of the time will race OutLaw Micro Winged Sprint cars just wanna keep it clean, fast, fun, fair,and equal for all racers\. We are all people here, The owner is a Trans\-Sex person ill explain more upon asking\. We are here for the respect on the track and have great track respect for everyone\. This is a place of Chill racing hard and keeping it fun for the broadcaster \(keeping them on their toes\) all races will streamed on my Twitch \( https://www\.twitch\.tv/jocelynyourstonercow420 \) |
-|[Wingless Racing Oz](https://members.iracing.com/membersite/member/LeagueView.do?league=11237){:target="_blank"} | |Virtual 360 & 410 Wingless Racing For Australia\. |
 |[World GT4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11267){:target="_blank"} | |Jackyboy Racing Community Championship |
 |[World Touring Car Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11270){:target="_blank"} | |Jackyboy Racing World Touring Car Championship |
+|[Zoom Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11296){:target="_blank"} |[Discord](https://discord.gg/G5y5pa8yyn){:target="_blank"} |Weekly premium GT3 series, following the schedule of GT3 Spring or IMSA depending on weekly series popularity\. |
+|[Dörr Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=11291){:target="_blank"} | | |
 |[FIA F4 eSports Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11277){:target="_blank"} | | |
 |[Gen 4](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} | | |
 |[GM Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11271){:target="_blank"} | |GM Motorsports iRacing League for Chevrolet & Cadillac Racing\! For all motorsports employees under Chevrolet & Cadillac\! |
