@@ -44,7 +44,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|---------------------------|------------------------|------------------------|-------------------------|
 |[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge \- 24S2 |South America |37 |2596 | |Indianapolis Motor Speedway |Tue, July 23 05:40PM EDT |Tue, July 23 10:40PM BST |Wed, July 24 07:40AM AEST |
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Fórmula Indy \- Temporada 2 |South America |15 |2268 | | | | | |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Fórmula Indy \- Temporada 2 |South America |15 |2268 | |Indianapolis Motor Speedway |Wed, July 24 05:30PM EDT |Wed, July 24 10:30PM BST |Thu, July 25 07:30AM AEST |
 
 ### FIA F4
 
@@ -52,23 +52,23 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[CBA](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2024 \- Campeonato Brasileiro F4 |South America |70 |1816 | |Okayama International Circuit |Tue, July 16 05:00AM EDT |Tue, July 16 10:00AM BST |Tue, July 16 07:00PM AEST |
+|[CBA](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2024 \- Campeonato Brasileiro F4 |South America |87 |1809 | |Okayama International Circuit |Wed, July 17 05:00AM EDT |Wed, July 17 10:00AM BST |Wed, July 17 07:00PM AEST |
 
 ### Super Formula Lights
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |SuperFormula Lights 2024/3 |South America |29 |2092 | | | | | |
+|-------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|---------------------------|------------------------|------------------------|-------------------------|
+|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |SuperFormula Lights 2024/3 |South America |29 |2092 | |Fuji International Speedway |Wed, July 24 05:25PM EDT |Wed, July 24 10:25PM BST |Thu, July 25 07:25AM AEST |
 
 ### Super Formula SF23
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |SuperFormula 2024/3 |South America |22 |2348 | | | | | |
+|-------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|---------------------------|------------------------|------------------------|-------------------------|
+|[F1BC Formula Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |SuperFormula 2024/3 |South America |22 |2348 | |Fuji International Speedway |Wed, July 24 07:25PM EDT |Thu, July 25 12:25AM BST |Thu, July 25 09:25AM AEST |
 
 # Sports Car
 
@@ -88,7 +88,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Pro 2024/3 |South America |32 |2956 | |WeatherTech Raceway at Laguna Seca |Mon, July 22 07:25PM EDT |Tue, July 23 12:25AM BST |Tue, July 23 09:25AM AEST |
-|[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT MAZDA CUP Season 14 |South America |25 |2062 |Fixed |Rudskogen Motorsenter |Tue, July 16 08:30PM EDT |Wed, July 17 01:30AM BST |Wed, July 17 10:30AM AEST |
+|[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT MAZDA CUP Season 14 |South America |26 |2107 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, July 23 08:30PM EDT |Wed, July 24 01:30AM BST |Wed, July 24 10:30AM AEST |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Mundo Agro Virtual Mazda MX\-5 Cup |South America |21 |2048 |Fixed | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Prata \- Mundo Agro Virtual Mazda MX\-5 Cup |South America |18 |1216 |Fixed | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MAZDA MX\-5 CUP |South America |16 |2390 | | | | | |
@@ -108,9 +108,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge \- 24S2 |South America |42 |2445 | | | | | |
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/3 |South America |36 |1989 | | | | | |
-|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge \- 24S2 |South America |36 |2402 | |Virginia International Raceway |Tue, July 16 05:40PM EDT |Tue, July 16 10:40PM BST |Wed, July 17 07:40AM AEST |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Prata \- EJ Construções Toyota GR86 Cup 2024/T3 |South America |24 |1250 |Fixed | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Toyota GR86 Cup 2024/T3 |South America |23 |1871 |Fixed |Motorsport Arena Oschersleben |Thu, July 18 07:00PM EDT |Fri, July 19 12:00AM BST |Fri, July 19 09:00AM AEST |
 
@@ -129,8 +129,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |19 |1470 | |Virginia International Raceway |Tue, July 16 07:50PM EDT |Wed, July 17 12:50AM BST |Wed, July 17 09:50AM AEST |
+|------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |19 |1473 | |Oulton Park Circuit |Tue, July 23 07:50PM EDT |Wed, July 24 12:50AM BST |Wed, July 24 09:50AM AEST |
 
 # Multi-class/Unclassified
 
@@ -142,7 +142,7 @@
 |------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|--------------------|------------------------|------------------------|-------------------------|
 |[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/3 |South America |48 |1700 | | | | | |
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Pro 2024/3 |South America |39 |2703 | | | | | |
-|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024\-T3 |South America |35 |2564 | |Brands Hatch Circuit |Tue, July 16 06:30PM EDT |Tue, July 16 11:30PM BST |Wed, July 17 08:30AM AEST |
+|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024\-T3 |South America |36 |2589 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |24 |2190 | |Brands Hatch Circuit |Wed, July 17 07:00PM EDT |Thu, July 18 12:00AM BST |Thu, July 18 09:00AM AEST |
 
 ### Hosted All Cars Class
