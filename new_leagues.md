@@ -3,7 +3,6 @@
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[3 Days in Hell](https://members.iracing.com/membersite/member/LeagueView.do?league=11276){:target="_blank"} | |Money Racing |
-|[ADAC Simracing Expo 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11259){:target="_blank"} | |Official League for the ADAC Simracing Expo 2024 |
 |[Big Book Gaming](https://members.iracing.com/membersite/member/LeagueView.do?league=11301){:target="_blank"} |[Discord](https://discord.gg/9CNuRrPf4R){:target="_blank"} |This league will start out a the Street Stock Level\. As you grow in the league you will have chances to race in other series in this league\. |
 |[Bromley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11297){:target="_blank"} | |We are Bromley's, and we go Racing\! |
 |[Burnt Rubber Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11279){:target="_blank"} |[Discord](https://discord.gg/DKGC7sU58h){:target="_blank"} |Race clean\| Be Fast\| And Love All |
@@ -13,7 +12,6 @@
 |[Fast Track Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11307){:target="_blank"} |[Discord](https://discord.gg/8xeqcZgjDr){:target="_blank"} |This is a dirt league with a bunch of different series |
 |[FullSend Xfinity Racing League Summer 24'](https://members.iracing.com/membersite/member/LeagueView.do?league=11268){:target="_blank"} |[Discord](https://discord.gg/9StTG8ed){:target="_blank"} |COMPLETELY FREE\!\!\! SAT, July 13TH , races will be ran every other saturday, we want to accuminate for everyone's schedule, please join discord below\! |
 |[High School Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11295){:target="_blank"} | |Street Stock High School League\. This is a league for high school drivers only\. Races begin in August and go through October\. To Apply Join the Discord Link\. |
-|[iDRA](https://members.iracing.com/membersite/member/LeagueView.do?league=11260){:target="_blank"} | |iRacing Dirt Racing Association |
 |[LIGA FRS \- F4](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
 |[LIGA FRS \- FUN](https://members.iracing.com/membersite/member/LeagueView.do?league=11303){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
 |[Lightning League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11275){:target="_blank"} |[Discord](https://discord.gg/SFffvn3d){:target="_blank"} |We are an Iracing team starting our first season |
@@ -27,7 +25,6 @@
 |[SSRBC](https://members.iracing.com/membersite/member/LeagueView.do?league=11290){:target="_blank"} | |This is our entry level league that will run 15 races on Monday nights\. It is broadcasted by SSR and has an IR Cap of 2500 |
 |[Soggy Bottom Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11266){:target="_blank"} | |Soggy Bottom Racing Official League\! |
 |[SRL Coupes](https://members.iracing.com/membersite/member/LeagueView.do?league=11305){:target="_blank"} | | |
-|[SRL Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11261){:target="_blank"} | | |
 |[Superlap Communnity](https://members.iracing.com/membersite/member/LeagueView.do?league=11265){:target="_blank"} | |Superlap Leagues open to discord members |
 |[The Motor Racing Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11283){:target="_blank"} | |Academy Challenges |
 |[WAIT\! \- Wednesday AI Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=11272){:target="_blank"} | | |

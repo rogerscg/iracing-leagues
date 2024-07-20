@@ -27,15 +27,6 @@
 
 # Oval
 
-### Legends
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[Infinity Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |Legends Season 2 | |Detroit Grand Prix at Belle Isle |Fri, July 19 05:30AM EDT |Fri, July 19 10:30AM BST |Fri, July 19 07:30PM AEST |
-|[The Legend Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |The Legend Championship Season 2 | |WeatherTech Raceway at Laguna Seca |Fri, July 19 04:00PM EDT |Fri, July 19 09:00PM BST |Sat, July 20 06:00AM AEST |
-
 ### Street Stocks
 
 [Back to Top](#)  
@@ -48,13 +39,13 @@
 
 # Open-wheel
 
-### Dallara DW12
+### Ray FF1600
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|----------------|-----|-------------|------------------------|------------------------|-------------------------|
-|[VOR IndyCar Super Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6877){:target="_blank"} |DW12 \- Season 2 |Fixed |Iowa Speedway |Fri, July 19 02:35PM EDT |Fri, July 19 07:35PM BST |Sat, July 20 04:35AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------|----------------|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Formula Ford |Open |Watkins Glen International |Mon, July 22 03:00PM EDT |Mon, July 22 08:00PM BST |Tue, July 23 05:00AM AEST |
 
 ### Super Formula Lights
 
@@ -75,14 +66,6 @@
 |-----------------------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[OGRL Tuesday MX\-5 Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=10221){:target="_blank"} |Season 4 2024 | |Lime Rock Park |Tue, July 23 07:00PM EDT |Wed, July 24 12:00AM BST |Wed, July 24 09:00AM AEST |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 7 |Fixed |Circuit de Barcelona Catalunya |Tue, July 23 02:00PM EDT |Tue, July 23 07:00PM BST |Wed, July 24 04:00AM AEST |
-
-### Mazda MX-5 Cup 2016
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[Virtual Racing Brasil](https://members.iracing.com/membersite/member/LeagueView.do?league=11284){:target="_blank"} |Virtual Racing Brasil \- MX\-5 Mazda | |WeatherTech Raceway at Laguna Seca |Fri, July 19 07:00PM EDT |Sat, July 20 12:00AM BST |Sat, July 20 09:00AM AEST |
 
 ### Supercars - 2019
 
@@ -133,9 +116,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|--------------------------------|------------------------|------------------------|-------------------------|
-|[Racers Elite \- Stafford Motor Speedway Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11089){:target="_blank"} |Pre\-Season | |Stafford Motor Speedway |Fri, July 19 07:00PM EDT |Sat, July 20 12:00AM BST |Sat, July 20 09:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|--------------------------------|------------------------|------------------------|-------------------------|
 |[SuperCars NZ V8 Championship season 1 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |MRX WINTER ENDURO CHAMPIONSAHIP 2024 | |Daytona International Speedway |Tue, July 23 02:45AM EDT |Tue, July 23 07:45AM BST |Tue, July 23 04:45PM AEST |
-|[SRW \- Legends World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW 24S3 Legends World Challenge | |Detroit Grand Prix at Belle Isle |Fri, July 19 04:00AM EDT |Fri, July 19 09:00AM BST |Fri, July 19 06:00PM AEST |
+|[SRW \- Legends World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW 24S3 Legends World Challenge | |Detroit Grand Prix at Belle Isle |Fri, July 26 04:00AM EDT |Fri, July 26 09:00AM BST |Fri, July 26 06:00PM AEST |
 |[Whacky Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11286){:target="_blank"} |Whacky races season 1 | |Brands Hatch Circuit |Sun, July 21 05:00AM EDT |Sun, July 21 10:00AM BST |Sun, July 21 07:00PM AEST |
 

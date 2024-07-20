@@ -52,7 +52,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[CBA](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2024 \- Campeonato Brasileiro F4 |South America |93 |1821 | |Okayama International Circuit |Fri, July 19 05:00AM EDT |Fri, July 19 10:00AM BST |Fri, July 19 07:00PM AEST |
+|[CBA](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2024 \- Campeonato Brasileiro F4 |South America |95 |1822 | |Okayama International Circuit |Sat, July 20 05:00AM EDT |Sat, July 20 10:00AM BST |Sat, July 20 07:00PM AEST |
 
 ### Super Formula Lights
 
