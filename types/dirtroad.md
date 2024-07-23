@@ -29,7 +29,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[Average Off\-Road Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8568){:target="_blank"} |AORRL SEASON 3 PRESENTED BY ROTATION |North America |23 |1738 | |Crandon International Raceway |Mon, July 22 09:00PM EDT |Tue, July 23 02:00AM BST |Tue, July 23 11:00AM AEST |
-|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck Cup 2: Bigger Harder Faster Stronger |North America |14 |1708 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
+|[Average Off\-Road Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8568){:target="_blank"} |AORRL SEASON 3 PRESENTED BY ROTATION |North America |28 |1693 | |Wild West Motorsports Park |Mon, July 29 09:00PM EDT |Tue, July 30 02:00AM BST |Tue, July 30 11:00AM AEST |
+|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck Cup 2: Bigger Harder Faster Stronger |North America |12 |1657 | |Wild Horse Pass Motorsports Park |Tue, July 30 08:00PM EDT |Wed, July 31 01:00AM BST |Wed, July 31 10:00AM AEST |
 
