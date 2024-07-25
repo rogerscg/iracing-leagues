@@ -27,8 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |16 |2189 |Open |Mid-Ohio Sports Car Course |Wed, July 24 07:30PM EDT |Thu, July 25 12:30AM BST |Thu, July 25 09:30AM AEST |
+|------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-----------------------------|------------------------|--------------------------|---------------------------|
+|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |16 |2144 |Open |Circuit des 24 Heures du Mans |Wed, July 31 07:30PM EDT |Thu, August 01 12:30AM BST |Thu, August 01 09:30AM AEST |
 
 ### Radical SR10
 
