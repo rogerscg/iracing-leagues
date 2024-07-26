@@ -25,7 +25,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Oval \- Temporada 2 2024 |South America |22 |2026 | | | | | |
+|[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Friends Cup Oval \- Temporada 2 2024 |South America |19 |2105 | | | | | |
 
 # Open-wheel
 
@@ -89,8 +89,8 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Pro 2024/3 |South America |32 |3022 | | | | | |
 |[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT MAZDA CUP Season 14 |South America |28 |2152 |Fixed |Lime Rock Park |Tue, July 30 08:30PM EDT |Wed, July 31 01:30AM BST |Wed, July 31 10:30AM AEST |
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Mundo Agro Virtual Mazda MX\-5 Cup |South America |21 |2048 |Fixed |Lime Rock Park |Thu, July 25 06:00PM EDT |Thu, July 25 11:00PM BST |Fri, July 26 08:00AM AEST |
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Prata \- Mundo Agro Virtual Mazda MX\-5 Cup |South America |18 |1216 |Fixed |Lime Rock Park |Thu, July 25 07:30PM EDT |Fri, July 26 12:30AM BST |Fri, July 26 09:30AM AEST |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Mundo Agro Virtual Mazda MX\-5 Cup |South America |24 |2144 |Fixed | | | | |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Prata \- Mundo Agro Virtual Mazda MX\-5 Cup |South America |21 |1188 |Fixed | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MAZDA MX\-5 CUP |South America |16 |2390 | |Lime Rock Park |Mon, July 29 05:30PM EDT |Mon, July 29 10:30PM BST |Tue, July 30 07:30AM AEST |
 
 ### Touring Car
@@ -140,9 +140,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/3 |South America |48 |1700 | |Nürburgring Grand-Prix-Strecke |Thu, July 25 05:25PM EDT |Thu, July 25 10:25PM BST |Fri, July 26 07:25AM AEST |
+|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/3 |South America |56 |1766 | | | | | |
+|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Pro 2024/3 |South America |40 |2772 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |40 |2264 | | | | | |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Pro 2024/3 |South America |39 |2703 | |Nürburgring Grand-Prix-Strecke |Thu, July 25 07:25PM EDT |Fri, July 26 12:25AM BST |Fri, July 26 09:25AM AEST |
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024\-T3 |South America |36 |2589 | |Nürburgring Grand-Prix-Strecke |Tue, July 30 06:30PM EDT |Tue, July 30 11:30PM BST |Wed, July 31 08:30AM AEST |
 
 ### Hosted All Cars Class
@@ -160,7 +160,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |1ª Fase \- Seletiva E\-Stock |South America |87 |None | | | | | |
-|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |PRO \- E\-Stock 2024 S1 |South America |43 |4296 | | | | | |
-|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |PRO\-AM \- E\-Stock 2024 S1 |South America |40 |2355 | | | | | |
+|[IRB \- Pro Racing TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2957){:target="_blank"} |1ª Fase \- Seletiva E\-Stock |South America |70 |None | | | | | |
+|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |PRO \- E\-Stock 2024 S1 |South America |43 |4445 | | | | | |
+|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |PRO\-AM \- E\-Stock 2024 S1 |South America |40 |2446 | | | | | |
 

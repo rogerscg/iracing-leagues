@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024C DFL \- LMP2 |Australia-NZ |42 |2438 |Both |Mobility Resort Motegi |Thu, July 25 04:08AM EDT |Thu, July 25 09:08AM BST |Thu, July 25 06:08PM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024C DFL \- LMP2 |Australia-NZ |46 |2497 |Both |Phillip Island Circuit |Thu, August 01 04:20AM EDT |Thu, August 01 09:20AM BST |Thu, August 01 06:20PM AEST |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dallara Dash |North America |20 |1200 |Both |WeatherTech Raceway at Laguna Seca |Fri, July 26 10:05PM EDT |Sat, July 27 03:05AM BST |Sat, July 27 12:05PM AEST |
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP2 \- Season 3 Presented by P1Doks\.com |North America |17 |2571 |Open | | | | |
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP2 \- Season 3 Presented by P1Doks\.com |North America |17 |2628 |Open | | | | |
 |[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Challenge \#5 Pre\-Qualifying |Europe |17 |5221 |Fixed | | | | |
 
 ### GTP
@@ -35,11 +35,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Sharky's Radical Thursday's |North America |30 |1124 |Fixed |Silverstone Circuit |Thu, July 25 08:00PM EDT |Fri, July 26 01:00AM BST |Fri, July 26 10:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Sharky's Radical Thursday's |North America |31 |1128 |Fixed |Autodromo Nazionale Monza |Thu, August 01 08:00PM EDT |Fri, August 02 01:00AM BST |Fri, August 02 10:00AM AEST |
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |23 |3348 | |Silverstone Circuit |Sun, July 28 02:10PM EDT |Sun, July 28 07:10PM BST |Mon, July 29 04:10AM AEST |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |22 |3162 |Open |Autodromo Nazionale Monza |Thu, August 01 02:15PM EDT |Thu, August 01 07:15PM BST |Fri, August 02 04:15AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |21 |2388 | | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |20 |3197 |Open |Silverstone Circuit |Thu, July 25 02:15PM EDT |Thu, July 25 07:15PM BST |Fri, July 26 04:15AM AEST |
 |[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |Season 1 \- Beta |North America |12 |2138 | | | | | |
 
 ### Radical SR8

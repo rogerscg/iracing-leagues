@@ -20,7 +20,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|------------|--------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------|------|--------|-------|----|-----|-------------|--------|------|------|
 |[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |test |Asia |11 |1288 | | | | | |
-|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |Weekly Races |Asia |10 |1270 | | | | | |
 
