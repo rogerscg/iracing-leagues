@@ -7,6 +7,7 @@
 |[Bromley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11297){:target="_blank"} | |We are Bromley's, and we go Racing\! |
 |[COAST 2 COAST RACING SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11306){:target="_blank"} | | |
 |[Double Zero Simracing Tournaments](https://members.iracing.com/membersite/member/LeagueView.do?league=11309){:target="_blank"} | | |
+|[EGT Canada \- Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11322){:target="_blank"} | |Série d'endurance EGT Canada |
 |[F4 Uruguay](https://members.iracing.com/membersite/member/LeagueView.do?league=11294){:target="_blank"} | |Road to FIA MOTORSPORTS GAMES 2024 |
 |[Fast Track Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11307){:target="_blank"} |[Discord](https://discord.gg/8xeqcZgjDr){:target="_blank"} |This is a dirt league with a bunch of different series |
 |[Florida Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11313){:target="_blank"} | |10 race series of street stocks fighting to see who is the best and gets all the bragging rights |
@@ -16,7 +17,7 @@
 |[LIGA FRS \- F4](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
 |[LIGA FRS \- FUN](https://members.iracing.com/membersite/member/LeagueView.do?league=11303){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
 |[NNIRL](https://members.iracing.com/membersite/member/LeagueView.do?league=11288){:target="_blank"} | |National Nascar iRacing League |
-|[NorthEast iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11315){:target="_blank"} | |A league for drivers and fans from Can Am Speedway, Brockville Speedway and Cornwall Speedway |
+|[NorthEast iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11315){:target="_blank"} |[Discord](https://discord.gg/yNrtfZW7ra){:target="_blank"} |A league for drivers and fans from Can Am Speedway, Brockville Speedway and Cornwall Speedway |
 |[NZ Sim Network](https://members.iracing.com/membersite/member/LeagueView.do?league=11317){:target="_blank"} | | |
 |[Piston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11292){:target="_blank"} | |Orignated on XB1 in 2020, we have grown to the iracing platform\! |
 |[SAAC GT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11289){:target="_blank"} |[Discord](https://discord.gg/7X6qpquf){:target="_blank"} |The GT3 series hosted by SAAC\. MUST JOIN DISCORD TO RACE |
@@ -28,6 +29,8 @@
 |[SRL Coupes](https://members.iracing.com/membersite/member/LeagueView.do?league=11305){:target="_blank"} | | |
 |[The Motor Racing Academy 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11293){:target="_blank"} | |20 Challenges that will make you a competitive driver\. Become an Academy Member and learn how to tackle each challenge in detail at www\.suellioalmeida\.com |
 |[Tri\-Nations Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11318){:target="_blank"} | | |
+|[ViPER Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11323){:target="_blank"} | |Short Track Racing Community |
+|[Vortex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11324){:target="_blank"} | |funfunfun |
 |[VSPEED InVitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11314){:target="_blank"} | |Take a chance at glory and fight through two rounds of races for a chance to win it all\. Only open to the first 75 drivers participating in VSPEED broadcasted leagues\. Drivers will be invited to the VSPEED Invitational League prior to the first sessions |
 |[Whacky Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11286){:target="_blank"} | |Just for fun |
 |[World Series of Modified Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11299){:target="_blank"} | |Tour Mods\. 23 race schedule with weekly payouts\. |
@@ -36,6 +39,4 @@
 |[Dörr Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=11291){:target="_blank"} | | |
 |[fafas](https://members.iracing.com/membersite/member/LeagueView.do?league=11300){:target="_blank"} | |treino |
 |[Fresno SCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11311){:target="_blank"} | |Fresno SCCA Sim Racing league\. Coming Soon\. |
-|[Gen 4](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} | | |
-|[Virtual Racing Brasil](https://members.iracing.com/membersite/member/LeagueView.do?league=11284){:target="_blank"} | |Liga oficial da Virtual Racing Brasil |
 
