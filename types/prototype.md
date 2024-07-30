@@ -14,21 +14,13 @@
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP2 \- Season 3 Presented by P1Doks\.com |North America |17 |2628 |Open | | | | |
 |[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Challenge \#5 Pre\-Qualifying |Europe |17 |5221 |Fixed | | | | |
 
-### GTP
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|-----------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |2024\-05 \| 2° Stagione |Europe |10 |1550 | | | | | |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-----------------------------|------------------------|--------------------------|---------------------------|
-|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |16 |2144 |Open |Circuit des 24 Heures du Mans |Wed, July 31 07:30PM EDT |Thu, August 01 12:30AM BST |Thu, August 01 09:30AM AEST |
+|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |14 |2159 |Open |Circuit des 24 Heures du Mans |Wed, July 31 07:30PM EDT |Thu, August 01 12:30AM BST |Thu, August 01 09:30AM AEST |
 
 ### Radical SR10
 
@@ -37,10 +29,10 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|-------------------------|--------------------------|--------------------------|---------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Sharky's Radical Thursday's |North America |31 |1128 |Fixed |Autodromo Nazionale Monza |Thu, August 01 08:00PM EDT |Fri, August 02 01:00AM BST |Fri, August 02 10:00AM AEST |
-|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |23 |3348 | |Silverstone Circuit |Sun, July 28 02:10PM EDT |Sun, July 28 07:10PM BST |Mon, July 29 04:10AM AEST |
+|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3370 | | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |22 |3162 |Open |Autodromo Nazionale Monza |Thu, August 01 02:15PM EDT |Thu, August 01 07:15PM BST |Fri, August 02 04:15AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |21 |2388 | | | | | |
-|[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |Season 1 \- Beta |North America |12 |2138 | | | | | |
+|[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |Season 1 \- Beta |North America |13 |2163 | | | | | |
 
 ### Radical SR8
 
@@ -56,7 +48,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024S3 |North America |55 |2950 |Open |Daytona International Speedway |Sun, July 28 02:40PM EDT |Sun, July 28 07:40PM BST |Mon, July 29 04:40AM AEST |
-|[Ray ESports Unofficial SCCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |2024 Spring Tour SRF |North America |15 |2607 |Open | | | | |
+|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024S3 |North America |63 |2934 |Open |Okayama International Circuit |Sun, August 04 02:40PM EDT |Sun, August 04 07:40PM BST |Mon, August 05 04:40AM AEST |
 
