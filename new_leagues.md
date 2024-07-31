@@ -5,7 +5,6 @@
 |[43c racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11321){:target="_blank"} | | |
 |[Big Book Gaming](https://members.iracing.com/membersite/member/LeagueView.do?league=11301){:target="_blank"} |[Discord](https://discord.gg/9CNuRrPf4R){:target="_blank"} |This league will start out a the Street Stock Level\. As you grow in the league you will have chances to race in other series in this league\. |
 |[Blackout Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11326){:target="_blank"} | |We are a league dedicated to having fun while pushing the limits of rookie and veteran drivers to the game\. If you feel like you gotta push the limits and have fun don't be shy\. |
-|[Bromley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11297){:target="_blank"} | |We are Bromley's, and we go Racing\! |
 |[BSR Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11328){:target="_blank"} | | |
 |[CMS Sunday Night Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11327){:target="_blank"} |[Discord](https://discord.gg/cmsracing){:target="_blank"} |A new Sunday Night Nascar Truck Series starting in August\.   Head over to Champion Motorsports' Discord at https://discord\.gg/cmsracing and look for the Sunday Night Trucks discussion channel\!   More information regarding numbers, etc\. coming very, very soon\! |
 |[COAST 2 COAST RACING SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11306){:target="_blank"} | | |
@@ -26,12 +25,12 @@
 |[Simsports Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=11319){:target="_blank"} | |Canadian Simsports league |
 |[Spring Madness Winter Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=11312){:target="_blank"} | | |
 |[SRL Coupes](https://members.iracing.com/membersite/member/LeagueView.do?league=11305){:target="_blank"} | |More info and link to the discord at dgsRacing\.com |
+|[Street Stock Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11331){:target="_blank"} | | |
 |[Tri\-Nations Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11318){:target="_blank"} | | |
 |[ViPER Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11323){:target="_blank"} | |Short Track Racing Community |
 |[Vortex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11324){:target="_blank"} | |funfunfun |
 |[VSPEED InVitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11314){:target="_blank"} | |Take a chance at glory and fight through two rounds of races for a chance to win it all\. Only open to the first 75 drivers participating in VSPEED broadcasted leagues\. Drivers will be invited to the VSPEED Invitational League prior to the first sessions |
-|[World Series of Modified Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11299){:target="_blank"} | |Tour Mods\. 23 race schedule with weekly payouts\. |
-|[ZSM racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=11298){:target="_blank"} |[Discord](https://discord.gg/qAJaSCkapw){:target="_blank"} | |
+|[DirtFX Designs](https://members.iracing.com/membersite/member/LeagueView.do?league=11332){:target="_blank"} | | |
 |[fafas](https://members.iracing.com/membersite/member/LeagueView.do?league=11300){:target="_blank"} | |treino |
 |[Fresno SCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11311){:target="_blank"} | |Fresno SCCA Sim Racing league\. Coming Soon\. |
 

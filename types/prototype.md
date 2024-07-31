@@ -39,9 +39,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1486 | |Autodromo Nazionale Monza |Tue, July 30 07:50PM EDT |Wed, July 31 12:50AM BST |Wed, July 31 09:50AM AEST |
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |14 |1142 |Open |WeatherTech Raceway at Laguna Seca |Tue, July 30 10:00PM EDT |Wed, July 31 03:00AM BST |Wed, July 31 12:00PM AEST |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1485 | |Circuit de Spa-Francorchamps |Tue, August 06 07:50PM EDT |Wed, August 07 12:50AM BST |Wed, August 07 09:50AM AEST |
+|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |14 |1128 |Open |Road Atlanta |Tue, August 06 10:00PM EDT |Wed, August 07 03:00AM BST |Wed, August 07 12:00PM AEST |
 
 ### Spec Racer Ford
 

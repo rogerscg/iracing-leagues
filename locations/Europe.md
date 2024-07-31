@@ -9,8 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------|-------|--------|-------|----|-----|-------------|--------|------|------|
-|[i\-FRN](https://members.iracing.com/membersite/member/LeagueView.do?league=2658){:target="_blank"} |Split 1 |Europe |26 |1862 | | | | | |
-|[i\-FRN](https://members.iracing.com/membersite/member/LeagueView.do?league=2658){:target="_blank"} |Split 2 |Europe |16 |2056 | | | | | |
+|[i\-FRN](https://members.iracing.com/membersite/member/LeagueView.do?league=2658){:target="_blank"} |Split 1 |Europe |22 |1750 | | | | | |
 
 ### NASCAR 2022 NextGen
 
@@ -27,8 +26,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|--------------------------------------|--------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
-|[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |NASCAR'87 Legends Series \- Season\#03 |Europe |32 |2449 |Both |Bristol Motor Speedway |Tue, July 30 02:30PM EDT |Tue, July 30 07:30PM BST |Wed, July 31 04:30AM AEST |
+|--------------------------------------------------------------------------------------------------------------|--------------------------------------|--------|-------|----|-----|---------------------------|--------------------------|--------------------------|---------------------------|
+|[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |NASCAR'87 Legends Series \- Season\#03 |Europe |32 |2520 |Both |Indianapolis Motor Speedway |Thu, August 01 02:30PM EDT |Thu, August 01 07:30PM BST |Fri, August 02 04:30AM AEST |
 
 ### NASCAR Truck Series
 
@@ -47,7 +46,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|--------------------------------|--------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[The Legend Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |The Legend Championship Season 2 |Europe |28 |1807 | |Okayama International Circuit |Mon, August 05 03:30PM EDT |Mon, August 05 08:30PM BST |Tue, August 06 05:30AM AEST |
-|[DGTS hygge liga](https://members.iracing.com/membersite/member/LeagueView.do?league=3683){:target="_blank"} |Legend car cup |Europe |12 |1566 |Open |Oran Park Raceway |Tue, July 30 02:00PM EDT |Tue, July 30 07:00PM BST |Wed, July 31 04:00AM AEST |
+|[DGTS hygge liga](https://members.iracing.com/membersite/member/LeagueView.do?league=3683){:target="_blank"} |Legend car cup |Europe |12 |1566 |Open | | | | |
 
 # Open-wheel
 
@@ -114,9 +113,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------------------|--------------------------|--------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |Snetterton Majster Event |Europe |18 |2312 |Both | | | | |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |Snetterton Majster Trening |Europe |17 |None |Both | | | | |
+|[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Formula Ford |Europe |10 |1894 |Open |Donington Park Racing Circuit |Mon, August 05 03:00PM EDT |Mon, August 05 08:00PM BST |Tue, August 06 05:00AM AEST |
 
 ### Skip Barber Race Series
 
@@ -140,8 +140,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|--------|--------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |Säsong 1 |Europe |23 |1577 | |Suzuka International Racing Course |Tue, July 30 03:00PM EDT |Tue, July 30 08:00PM BST |Wed, July 31 05:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |Säsong 1 |Europe |23 |1596 | |Autodromo Nazionale Monza |Tue, August 06 03:00PM EDT |Tue, August 06 08:00PM BST |Wed, August 07 05:00AM AEST |
+|[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |Wakacje na szybkości |Europe |14 |2294 |Both |Nürburgring Grand-Prix-Strecke |Wed, July 31 02:00PM EDT |Wed, July 31 07:00PM BST |Thu, August 01 04:00AM AEST |
 
 # Sports Car
 
@@ -151,7 +152,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|--------------|--------|-------|----|-----|-------------|--------|------|------|
-|[UGX Race Organisation](https://members.iracing.com/membersite/member/LeagueView.do?league=10378){:target="_blank"} |UGX 296 Trophy |Europe |14 |1618 | | | | | |
+|[UGX Race Organisation](https://members.iracing.com/membersite/member/LeagueView.do?league=10378){:target="_blank"} |UGX 296 Trophy |Europe |12 |1606 | | | | | |
 
 ### GT4 Class
 
@@ -159,7 +160,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|-----------------------------------|--------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
-|[Sim Racing Magazine Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7770){:target="_blank"} |SRM GT4 Challenge Season 5 |Europe |37 |2830 | |Watkins Glen International |Tue, July 30 02:00PM EDT |Tue, July 30 07:00PM BST |Wed, July 31 04:00AM AEST |
+|[Sim Racing Magazine Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7770){:target="_blank"} |SRM GT4 Challenge Season 5 |Europe |40 |2804 | | | | | |
 |[SCHERER eSPORT GT4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10804){:target="_blank"} |SCHERER eSPORT GT4 Series Season II |Europe |36 |2438 |Fixed |Circuit de Spa-Francorchamps |Wed, July 31 01:00PM EDT |Wed, July 31 06:00PM BST |Thu, August 01 03:00AM AEST |
 |[The Sim Racing Collective](https://members.iracing.com/membersite/member/LeagueView.do?league=10182){:target="_blank"} |TSRC GT4 Series S1 |Europe |34 |2890 |Both |Long Beach Street Circuit |Fri, August 02 01:59PM EDT |Fri, August 02 06:59PM BST |Sat, August 03 03:59AM AEST |
 |[UKSR \- Week 13 Daytona](https://members.iracing.com/membersite/member/LeagueView.do?league=6743){:target="_blank"} |British GT4 Season 2 |Europe |17 |2252 |Fixed |Knockhill Racing Circuit |Wed, July 31 02:00PM EDT |Wed, July 31 07:00PM BST |Thu, August 01 04:00AM AEST |
@@ -177,14 +178,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|--------|-------|----|-----|--------------------------------|--------------------------|--------------------------|---------------------------|
-|[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 7 |Europe |44 |2579 |Fixed |Hockenheimring Baden-Württemberg |Tue, July 30 02:00PM EDT |Tue, July 30 07:00PM BST |Wed, July 31 04:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|--------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 7 |Europe |54 |2580 |Fixed | | | | |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 7 Test |Europe |43 |2545 |Fixed | | | | |
 |[ADAC Simracing Expo 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11259){:target="_blank"} |ADAC Digital GT500 2024 Season |Europe |37 |6384 | | | | | |
 |[SRL Community GR86 League](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |SRL Freebie Fridays |Europe |34 |2281 |Fixed |Long Beach Street Circuit |Fri, August 02 03:20PM EDT |Fri, August 02 08:20PM BST |Sat, August 03 05:20AM AEST |
 |[SimRC\.de GT3 Meisterschaft](https://members.iracing.com/membersite/member/LeagueView.do?league=8674){:target="_blank"} |GT3 Frühling Saison 2024 |Europe |31 |2993 | | | | | |
-|[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS S5 Server 1 |Europe |27 |2950 | | | | | |
-|[Rookie Sports Car Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11164){:target="_blank"} |2024 Rookie Sports Car Cup |Europe |27 |1536 | |Lime Rock Park |Tue, July 30 01:30PM EDT |Tue, July 30 06:30PM BST |Wed, July 31 03:30AM AEST |
+|[Rookie Sports Car Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11164){:target="_blank"} |2024 Rookie Sports Car Cup |Europe |27 |1544 | | | | | |
 |[ORNL Manufacturer Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5652){:target="_blank"} |ORNL Ferrari Challenge \- European Series |Europe |25 |1892 |Fixed |Circuit de Barcelona Catalunya |Wed, July 31 02:00PM EDT |Wed, July 31 07:00PM BST |Thu, August 01 04:00AM AEST |
 |[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |7DRIVE RingSeries 2024 |Europe |21 |1759 |Both | | | | |
 |[UK SimRacing Community \- GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=6296){:target="_blank"} |Season 13 |Europe |17 |2449 |Open | | | | |
@@ -229,10 +229,8 @@
 |----------------------------------------------------------------------------------------------------------------------------------|------------------------------------|--------|-------|----|-----|--------------------------------|--------------------------|--------------------------|---------------------------|
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2024S3 \- Porsche 992 Cup |Europe |67 |2645 |Open |Hockenheimring Baden-Württemberg |Mon, August 05 01:30PM EDT |Mon, August 05 06:30PM BST |Tue, August 06 03:30AM AEST |
 |[Porsche Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S9 Euro/Global Porsche Cup Challenge |Europe |43 |3300 |Both |Mount Panorama Circuit |Sun, August 04 02:00PM EDT |Sun, August 04 07:00PM BST |Mon, August 05 04:00AM AEST |
-|[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 11 |Europe |35 |3746 | |Watkins Glen International |Tue, July 30 01:00PM EDT |Tue, July 30 06:00PM BST |Wed, July 31 03:00AM AEST |
-|[Trak Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=11102){:target="_blank"} |Trak Racer VIP Event |Europe |28 |3093 | | | | | |
+|[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 11 |Europe |35 |3503 | |Watkins Glen International |Wed, July 31 01:00PM EDT |Wed, July 31 06:00PM BST |Thu, August 01 03:00AM AEST |
 |[UK SimRacing Community \- Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6897){:target="_blank"} |Season 11 |Europe |23 |2709 |Open | | | | |
-|[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 10 |Europe |16 |3656 | | | | | |
 
 ### Renault Clio
 
@@ -260,7 +258,7 @@
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Sprint Season 1 \- TCR |Europe |44 |2044 |Both | | | | |
 |[Virtual Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9493){:target="_blank"} |VTCS Season 7 |Europe |39 |2206 |Fixed | | | | |
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |TCR 2024 |Europe |17 |1445 |Both | | | | |
-|[VTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=10564){:target="_blank"} |Season B |Europe |12 |2049 | | | | | |
+|[VTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=10564){:target="_blank"} |Season B |Europe |12 |1997 | | | | | |
 
 ### Toyota GR86
 
@@ -271,7 +269,7 @@
 |[TANSO RACING GROUP SUBSCRIPTION EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10654){:target="_blank"} |TH Jordan GR86 |Europe |32 |1810 | |MotorLand Aragón |Sun, August 04 03:00PM EDT |Sun, August 04 08:00PM BST |Mon, August 05 05:00AM AEST |
 |[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2024\-S03 \- GR86 |Europe |26 |2060 |Both | | | | |
 |[Evening Hack League](https://members.iracing.com/membersite/member/LeagueView.do?league=10846){:target="_blank"} |EVENING HACK LEAGUE S2 |Europe |16 |1952 | | | | | |
-|[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |Toyota GR86 |Europe |16 |3926 | | | | | |
+|[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |Toyota GR86 |Europe |12 |3806 | | | | | |
 
 ### VW Jetta TDI Cup
 
@@ -309,19 +307,19 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|--------|-------|----|-----|------------------------------------|--------------------------|--------------------------|---------------------------|
 |[GT3 Under 2k \- VRS Sim Racing Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |Racing Unleashed GT3 Pre\-Q |Europe |108 |3001 | | | | | |
-|[RPM European GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7826){:target="_blank"} |RPM GT3 Season 11 |Europe |82 |2253 |Open |Nürburgring Grand-Prix-Strecke |Tue, July 30 02:00PM EDT |Tue, July 30 07:00PM BST |Wed, July 31 04:00AM AEST |
+|[RPM European GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7826){:target="_blank"} |RPM GT3 Season 11 |Europe |82 |2253 |Open |Nürburgring Grand-Prix-Strecke |Wed, July 31 01:30PM EDT |Wed, July 31 06:30PM BST |Thu, August 01 03:30AM AEST |
 |[Dahara](https://members.iracing.com/membersite/member/LeagueView.do?league=6798){:target="_blank"} |DGTL Season 6 |Europe |65 |3002 |Open | | | | |
 |[ARL GT3 Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=6437){:target="_blank"} |Season 8 |Europe |63 |3520 | | | | | |
 |[Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |ESR GT3 Championship \- Season 5 |Europe |63 |1848 | |Autodromo Internazionale del Mugello |Thu, August 01 02:30PM EDT |Thu, August 01 07:30PM BST |Fri, August 02 04:30AM AEST |
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid GT3 Championship 2024 S\-3 |Europe |61 |2390 |Fixed |Road America |Sun, August 04 02:00PM EDT |Sun, August 04 07:00PM BST |Mon, August 05 04:00AM AEST |
 |[WGTC \(World GT Championship\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2193){:target="_blank"} |WGTC Season 16 |Europe |59 |4065 |Open |Circuito de Jerez - Ángel Nieto |Mon, August 05 12:30PM EDT |Mon, August 05 05:30PM BST |Tue, August 06 02:30AM AEST |
 |[GT3 Under 2k \- VRS Sim Racing Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |Racing Unleashed GT3 Series |Europe |58 |3613 | | | | | |
-|[CAS\- iRacing\- Community](https://members.iracing.com/membersite/member/LeagueView.do?league=9707){:target="_blank"} |GT3 World Championship Tour \(Season 5\) |Europe |56 |2211 |Both |Nürburgring Grand-Prix-Strecke |Tue, July 30 12:30PM EDT |Tue, July 30 05:30PM BST |Wed, July 31 02:30AM AEST |
+|[CAS\- iRacing\- Community](https://members.iracing.com/membersite/member/LeagueView.do?league=9707){:target="_blank"} |GT3 World Championship Tour \(Season 5\) |Europe |57 |2183 |Both | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2024 S3 GT3 Series |Europe |55 |2538 |Both | | | | |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |2024 GT3 Casual cup |Europe |47 |1927 | |Autodromo Internazionale del Mugello |Wed, July 31 01:00PM EDT |Wed, July 31 06:00PM BST |Thu, August 01 03:00AM AEST |
 |[Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |ESR Season 5 \- Wednesday GT3 Practice |Europe |42 |None | |Autodromo Internazionale del Mugello |Wed, July 31 02:30PM EDT |Wed, July 31 07:30PM BST |Thu, August 01 04:30AM AEST |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Tanso GT3 Season 3 |Europe |24 |1711 | |Autodromo Internazionale del Mugello |Mon, August 05 02:30PM EDT |Mon, August 05 07:30PM BST |Tue, August 06 04:30AM AEST |
-|[DensuSimRacing\.de by twitch\.tv/densu83](https://members.iracing.com/membersite/member/LeagueView.do?league=4439){:target="_blank"} |DSR Trainings\-Cup Season 3 2024 |Europe |14 |2674 |Open | | | | |
+|[DensuSimRacing\.de by twitch\.tv/densu83](https://members.iracing.com/membersite/member/LeagueView.do?league=4439){:target="_blank"} |DSR Trainings\-Cup Season 3 2024 |Europe |14 |2698 |Open | | | | |
 
 ### Hosted All Cars Class
 
@@ -329,7 +327,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|--------|-------|----|-----|--------------------------------------------|--------------------------|--------------------------|---------------------------|
-|[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO/GT3 S5 |Europe |62 |2238 |Fixed |Algarve International Circuit |Thu, August 01 02:00PM EDT |Thu, August 01 07:00PM BST |Fri, August 02 04:00AM AEST |
+|[NXTGEN iRacing PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |PROTO/GT3 S5 |Europe |60 |2232 |Fixed |Algarve International Circuit |Thu, August 01 02:00PM EDT |Thu, August 01 07:00PM BST |Fri, August 02 04:00AM AEST |
 |[UK SimRacing Community \- Prototype League](https://members.iracing.com/membersite/member/LeagueView.do?league=7965){:target="_blank"} |Season 2 |Europe |60 |2885 |Open | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Endurance Season 1 |Europe |46 |2006 |Both | | | | |
 |[Pandemonium SimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11094){:target="_blank"} |IMSA Sprint Cup \- Season Two |Europe |43 |2980 |Both | | | | |
@@ -348,7 +346,6 @@
 |[Delta V Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8919){:target="_blank"} |Training |Europe |26 |None | | | | | |
 |[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} |Season 8 \- Fun Oval Challenge |Europe |26 |2209 | | | | | |
 |[PCGB Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4489){:target="_blank"} |PCGB Season 8 |Europe |26 |1833 | | | | | |
-|[FUN TOUR BY NNRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11003){:target="_blank"} |fun tour 2024/01 |Europe |25 |1996 | | | | | |
 |[BeSim\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8092){:target="_blank"} |Road to Series 2024 |Europe |24 |2522 | | | | | |
 |[SRS Feierabend Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10307){:target="_blank"} |SRS\-iRFC DRM 2024 |Europe |24 |1877 | | | | | |
 |[The Wishful Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8400){:target="_blank"} |The Wishful 2024 Series by Technogel |Europe |24 |2381 | | | | | |
@@ -364,8 +361,9 @@
 |[ORNL F1 League](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |2024 Kamel GT |Europe |17 |2326 |Open |Circuit de Barcelona Catalunya |Thu, August 01 02:00PM EDT |Thu, August 01 07:00PM BST |Fri, August 02 04:00AM AEST |
 |[ORNL 500](https://members.iracing.com/membersite/member/LeagueView.do?league=9724){:target="_blank"} |ORNL Historic GrandPrix |Europe |17 |2115 | | | | | |
 |[CAS \- Combined Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10943){:target="_blank"} |CC\- Cup 4th Season |Europe |16 |1604 | |Rudskogen Motorsenter |Fri, August 02 01:00PM EDT |Fri, August 02 06:00PM BST |Sat, August 03 03:00AM AEST |
+|[Virtual GP](https://members.iracing.com/membersite/member/LeagueView.do?league=3963){:target="_blank"} |Testing |Europe |15 |4121 |Open |Silverstone Circuit |Thu, August 01 01:00PM EDT |Thu, August 01 06:00PM BST |Fri, August 02 03:00AM AEST |
+|[FUN TOUR BY NNRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11003){:target="_blank"} |fun tour 2024/01 |Europe |14 |1663 | | | | | |
 |[Simunation Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11242){:target="_blank"} |Funrace |Europe |14 |1635 |Both | | | | |
-|[Virtual GP](https://members.iracing.com/membersite/member/LeagueView.do?league=3963){:target="_blank"} |Testing |Europe |14 |3908 |Open |Silverstone Circuit |Tue, July 30 01:00PM EDT |Tue, July 30 06:00PM BST |Wed, July 31 03:00AM AEST |
 |[DGTS hygge liga](https://members.iracing.com/membersite/member/LeagueView.do?league=3683){:target="_blank"} |Retro ESS |Europe |12 |2764 |Open |Circuit de Barcelona Catalunya |Thu, August 01 02:00PM EDT |Thu, August 01 07:00PM BST |Fri, August 02 04:00AM AEST |
 |[British Pro/AM Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11081){:target="_blank"} |British Pro\-Am Championship Season 1 |Europe |11 |1607 |Open |Oulton Park Circuit |Sun, August 04 12:00PM EDT |Sun, August 04 05:00PM BST |Mon, August 05 02:00AM AEST |
 |[iRacing Hrvatska \- Croatian drivers only](https://members.iracing.com/membersite/member/LeagueView.do?league=3785){:target="_blank"} |2024 \- Run4Fun \- iRHR |Europe |11 |1899 | | | | | |
