@@ -107,11 +107,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge \- 24S2 |South America |44 |2561 | | | | | |
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/3 |South America |36 |2022 | | | | | |
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Prata \- EJ Construções Toyota GR86 Cup 2024/T3 |South America |24 |1259 |Fixed |Okayama International Circuit |Thu, August 01 07:30PM EDT |Fri, August 02 12:30AM BST |Fri, August 02 09:30AM AEST |
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Toyota GR86 Cup 2024/T3 |South America |23 |2023 |Fixed |Okayama International Circuit |Thu, August 01 06:00PM EDT |Thu, August 01 11:00PM BST |Fri, August 02 08:00AM AEST |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Prata \- EJ Construções Toyota GR86 Cup 2024/T3 |South America |24 |1287 |Fixed | | | | |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Toyota GR86 Cup 2024/T3 |South America |23 |2131 |Fixed | | | | |
 
 ### VW Jetta TDI Cup
 
@@ -140,8 +140,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|--------------------------------------------|--------------------------|--------------------------|---------------------------|
 |[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/3 |South America |56 |1766 | |Autodromo Internazionale Enzo e Dino Ferrari |Thu, August 08 05:25PM EDT |Thu, August 08 10:25PM BST |Fri, August 09 07:25AM AEST |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |42 |2263 | | | | | |
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Pro 2024/3 |South America |40 |2772 | |Autodromo Internazionale Enzo e Dino Ferrari |Thu, August 08 07:25PM EDT |Fri, August 09 12:25AM BST |Fri, August 09 09:25AM AEST |
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |40 |2264 | |Nürburgring Grand-Prix-Strecke |Thu, August 01 06:50PM EDT |Thu, August 01 11:50PM BST |Fri, August 02 08:50AM AEST |
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024\-T3 |South America |36 |2587 | | | | | |
 |[Racing e\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |1ª Temporada \- GT3 Cup \- by racinge\-sports\.com |South America |22 |2072 | |Autodromo Internazionale del Mugello |Tue, August 06 12:00PM EDT |Tue, August 06 05:00PM BST |Wed, August 07 02:00AM AEST |
 
@@ -159,7 +159,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------------------------|--------------------------|--------------------------|---------------------------|
-|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |PRO \- E\-Stock 2024 S1 |South America |43 |4445 | |Hockenheimring Baden-Württemberg |Thu, August 01 06:25PM EDT |Thu, August 01 11:25PM BST |Fri, August 02 08:25AM AEST |
-|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |PRO\-AM \- E\-Stock 2024 S1 |South America |40 |2446 | |Hockenheimring Baden-Württemberg |Thu, August 01 05:00PM EDT |Thu, August 01 10:00PM BST |Fri, August 02 07:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |PRO \- E\-Stock 2024 S1 |South America |43 |4466 | | | | | |
+|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |PRO\-AM \- E\-Stock 2024 S1 |South America |40 |2460 | | | | | |
 
