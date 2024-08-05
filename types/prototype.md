@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-----------------------|--------------------------|--------------------------|---------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|---------------------------|--------------------------|--------------------------|---------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024C DFL \- LMP2 |Australia-NZ |50 |2569 |Both |Silverstone Circuit |Thu, August 08 04:08AM EDT |Thu, August 08 09:08AM BST |Thu, August 08 06:08PM AEST |
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP2 \- Season 3 Presented by P1Doks\.com |North America |22 |2732 |Open | | | | |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dallara Dash |North America |21 |1191 |Both |Circuit of the Americas |Fri, August 02 10:05PM EDT |Sat, August 03 03:05AM BST |Sat, August 03 12:05PM AEST |
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dallara Dash |North America |21 |1222 |Both |Indianapolis Motor Speedway |Fri, August 09 10:05PM EDT |Sat, August 10 03:05AM BST |Sat, August 10 12:05PM AEST |
 |[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Challenge \#5 Pre\-Qualifying |Europe |17 |5221 |Fixed | | | | |
 
 ### Hosted All Cars Class
@@ -20,7 +20,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |14 |2203 |Open | | | | |
+|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |13 |2215 |Open | | | | |
 
 ### Radical SR10
 
@@ -41,7 +41,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1485 | |Circuit de Spa-Francorchamps |Tue, August 06 07:50PM EDT |Wed, August 07 12:50AM BST |Wed, August 07 09:50AM AEST |
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |14 |1128 |Open |Road Atlanta |Tue, August 06 10:00PM EDT |Wed, August 07 03:00AM BST |Wed, August 07 12:00PM AEST |
+|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |11 |1146 |Open |Road Atlanta |Tue, August 06 10:00PM EDT |Wed, August 07 03:00AM BST |Wed, August 07 12:00PM AEST |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 radical |Australia-NZ |10 |1376 |Fixed |Oulton Park Circuit |Thu, August 08 05:30AM EDT |Thu, August 08 10:30AM BST |Thu, August 08 07:30PM AEST |
 
 ### Spec Racer Ford
@@ -49,6 +49,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024S3 |North America |63 |2934 |Open |Okayama International Circuit |Sun, August 04 02:40PM EDT |Sun, August 04 07:40PM BST |Mon, August 05 04:40AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-----------------|--------------------------|--------------------------|---------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024S3 |North America |65 |2994 |Open |Circuit Zandvoort |Sun, August 11 02:40PM EDT |Sun, August 11 07:40PM BST |Mon, August 12 04:40AM AEST |
 

@@ -9,9 +9,10 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|------------------|--------------------------|--------------------------|---------------------------|
-|[Sim Racers Anonymous](https://members.iracing.com/membersite/member/LeagueView.do?league=6574){:target="_blank"} |SRA Pro 2 Lite Fuckery |North America |17 |1322 |Fixed |Lucas Oil Speedway |Wed, August 07 08:00PM EDT |Thu, August 08 01:00AM BST |Thu, August 08 10:00AM AEST |
+|[Sim Racers Anonymous](https://members.iracing.com/membersite/member/LeagueView.do?league=6574){:target="_blank"} |SRA Pro 2 Lite Fuckery |North America |17 |1318 |Fixed |Lucas Oil Speedway |Wed, August 07 08:00PM EDT |Thu, August 08 01:00AM BST |Thu, August 08 10:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK VIII \- 2024 |North America |13 |1785 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Kemimoto ORCGP \- Grand National Sport \- 2024 |North America |11 |2564 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2024 |North America |10 |2128 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |10 |2060 |Fixed | | | | |
 
 ### Pro 2 Truck
@@ -20,8 +21,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Racecraft Off\-Road Pro Spec](https://members.iracing.com/membersite/member/LeagueView.do?league=9734){:target="_blank"} |2024 Spec Class Pro 2 Championship |North America |32 |2676 | | | | | |
-|[Racecraft Off\-Road](https://members.iracing.com/membersite/member/LeagueView.do?league=5142){:target="_blank"} |2024 Open Class Pro 2 Championship |North America |20 |4707 |Open | | | | |
+|[Racecraft Off\-Road Pro Spec](https://members.iracing.com/membersite/member/LeagueView.do?league=9734){:target="_blank"} |2024 Spec Class Pro 2 Championship |North America |32 |2668 | | | | | |
+|[Racecraft Off\-Road](https://members.iracing.com/membersite/member/LeagueView.do?league=5142){:target="_blank"} |2024 Open Class Pro 2 Championship |North America |20 |4605 |Open | | | | |
 
 ### Pro 4 Truck
 
@@ -31,5 +32,5 @@
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[Average Off\-Road Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8568){:target="_blank"} |AORRL SEASON 3 PRESENTED BY ROTATION |North America |29 |1691 | |Crandon International Raceway |Mon, August 05 09:00PM EDT |Tue, August 06 02:00AM BST |Tue, August 06 11:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |2024 Summer Series \- 4x4 Rolling Thunder |North America |14 |2226 |Fixed |Brands Hatch Circuit |Thu, August 08 07:00PM EDT |Fri, August 09 12:00AM BST |Fri, August 09 09:00AM AEST |
-|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck Cup 2: Bigger Harder Faster Stronger |North America |12 |1758 | | | | | |
+|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck Cup 2: Bigger Harder Faster Stronger |North America |10 |1760 | | | | | |
 
