@@ -27,12 +27,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|--------------|--------------------------|--------------------------|---------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Sharky's Radical Thursday's |North America |32 |1128 |Fixed |Road America |Thu, August 08 08:00PM EDT |Fri, August 09 01:00AM BST |Fri, August 09 10:00AM AEST |
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3372 | | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |22 |3130 |Open |Road America |Thu, August 08 02:15PM EDT |Thu, August 08 07:15PM BST |Fri, August 09 04:15AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |19 |2434 | | | | | |
-|[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |Season 1 \- Beta |North America |13 |2163 | |Circuit de Spa-Francorchamps |Mon, August 05 09:00PM EDT |Tue, August 06 02:00AM BST |Tue, August 06 11:00AM AEST |
+|[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |Season 1 \- Beta |North America |13 |2223 | |Lime Rock Park |Mon, August 12 09:00PM EDT |Tue, August 13 02:00AM BST |Tue, August 13 11:00AM AEST |
 
 ### Radical SR8
 
