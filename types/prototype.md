@@ -39,10 +39,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1485 | |Circuit de Spa-Francorchamps |Tue, August 06 07:50PM EDT |Wed, August 07 12:50AM BST |Wed, August 07 09:50AM AEST |
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |11 |1146 |Open |Road Atlanta |Tue, August 06 10:00PM EDT |Wed, August 07 03:00AM BST |Wed, August 07 12:00PM AEST |
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1479 | |Motorsport Arena Oschersleben |Tue, August 13 07:50PM EDT |Wed, August 14 12:50AM BST |Wed, August 14 09:50AM AEST |
+|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |11 |1131 |Open |Sebring International Raceway |Tue, August 13 10:00PM EDT |Wed, August 14 03:00AM BST |Wed, August 14 12:00PM AEST |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 radical |Australia-NZ |10 |1376 |Fixed |Oulton Park Circuit |Thu, August 08 05:30AM EDT |Thu, August 08 10:30AM BST |Thu, August 08 07:30PM AEST |
+|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup |North America |10 |1271 | | | | | |
 
 ### Spec Racer Ford
 

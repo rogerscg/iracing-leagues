@@ -4,6 +4,8 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[2004 Nascar](https://members.iracing.com/membersite/member/LeagueView.do?league=11361){:target="_blank"} | | |
 |[43c racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11321){:target="_blank"} | | |
+|[ANZ ESeries // VX Rookie Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11365){:target="_blank"} | | |
+|[ASRA IMSA Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11363){:target="_blank"} | |IMSA league running 60 minute timed races |
 |[BALCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11338){:target="_blank"} |[Discord](https://discord.gg/balca){:target="_blank"} |A competitive racing league built and managed by the BALCA E\-Sports Racing Team\. Join the discord at the League URL\. New drivers will have to undergo a quick onboarding chat\. We are open to collaborating with other racing teams for the upcoming league season\. |
 |[Banana](https://members.iracing.com/membersite/member/LeagueView.do?league=11333){:target="_blank"} | | |
 |[Blackout Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11326){:target="_blank"} | |We are a league dedicated to having fun while pushing the limits of rookie and veteran drivers to the game\. If you feel like you gotta push the limits and have fun don't be shy\. |
@@ -27,7 +29,6 @@
 |[Legend Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11316){:target="_blank"} | | |
 |[Legend Car Series Beginner Division](https://members.iracing.com/membersite/member/LeagueView.do?league=11344){:target="_blank"} | | |
 |[Monday Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=11359){:target="_blank"} | |Bi\-Weekly 3 races in one night series\. Fixed Setup 358 Modifieds on Dirt Ovals\. |
-|[NorthEast iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11315){:target="_blank"} |[Discord](https://discord.gg/yNrtfZW7ra){:target="_blank"} |A league for drivers and fans from Can Am Speedway, Brockville Speedway and Cornwall Speedway |
 |[NZ Sim Network](https://members.iracing.com/membersite/member/LeagueView.do?league=11317){:target="_blank"} | | |
 |[OGG\- Rookie League \- No Damage](https://members.iracing.com/membersite/member/LeagueView.do?league=11340){:target="_blank"} | |Occasional Gentlemen Gaming |
 |[OGRE GT SERIES By Bong Water](https://members.iracing.com/membersite/member/LeagueView.do?league=11350){:target="_blank"} | |GT3 Series for drivers 50 years and older |
@@ -45,9 +46,9 @@
 |[ViPER Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11323){:target="_blank"} | |Short Track Racing Community |
 |[Virtual Velocity Racing \- Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11337){:target="_blank"} | | |
 |[Vortex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11324){:target="_blank"} | |funfunfun |
-|[VSPEED InVitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11314){:target="_blank"} | |Take a chance at glory and fight through two rounds of races for a chance to win it all\. Only open to the first 75 drivers participating in VSPEED broadcasted leagues\. Drivers will be invited to the VSPEED Invitational League prior to the first sessions |
 |[WizardBenny Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11346){:target="_blank"} | |Have fun make friends |
 |[YESCAR Virtual Racing League \| Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11335){:target="_blank"} | |KeithSaysYes\.com Truck Series |
+|[Carpool Lane](https://members.iracing.com/membersite/member/LeagueView.do?league=11364){:target="_blank"} | |Slow and safe wins the\.\.\. safety rating? |
 |[Mistakes Were Made](https://members.iracing.com/membersite/member/LeagueView.do?league=11334){:target="_blank"} | | |
 |[Old Pueblo Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11351){:target="_blank"} | | |
 

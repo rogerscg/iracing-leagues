@@ -16,8 +16,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|----------------|--------------------------|--------------------------|---------------------------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T3 |South America |29 |2682 | |Richmond Raceway |Tue, August 06 06:30PM EDT |Tue, August 06 11:30PM BST |Wed, August 07 08:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T3 |South America |29 |2727 | | | | | |
 
 ### Silverado
 
@@ -42,8 +42,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------|-------|----|-----|--------------------------|--------------------------|--------------------------|---------------------------|
-|[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge \- 24S2 |South America |39 |2614 | |Autódromo José Carlos Pace |Tue, August 06 05:40PM EDT |Tue, August 06 10:40PM BST |Wed, August 07 07:40AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge \- 24S2 |South America |45 |2686 | | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Dr\. Norberto Martins IR18 Rookie Challenge \- 2024/T3 |South America |23 |1543 |Fixed | | | | |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Fórmula Indy \- Temporada 2 |South America |14 |2263 | | | | | |
 
@@ -93,7 +93,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|--------------------------|--------------------------|--------------------------|---------------------------|
 |[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Temporada 2024 |South America |44 |3414 | |Watkins Glen International |Wed, August 07 05:00PM EDT |Wed, August 07 10:00PM BST |Thu, August 08 07:00AM AEST |
-|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |TCR Cup 2024/3 |South America |23 |3175 | | | | | |
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |TCR Cup 2024/3 |South America |23 |3175 | |Mount Panorama Circuit |Wed, August 14 05:25PM EDT |Wed, August 14 10:25PM BST |Thu, August 15 07:25AM AEST |
 
 ### Toyota GR86
 
@@ -121,8 +121,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1485 | |Circuit de Spa-Francorchamps |Tue, August 06 07:50PM EDT |Wed, August 07 12:50AM BST |Wed, August 07 09:50AM AEST |
+|------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1479 | |Motorsport Arena Oschersleben |Tue, August 13 07:50PM EDT |Wed, August 14 12:50AM BST |Wed, August 14 09:50AM AEST |
 
 # Multi-class/Unclassified
 
@@ -136,7 +136,7 @@
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |42 |2263 | | | | | |
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Pro 2024/3 |South America |40 |2772 | |Autodromo Internazionale Enzo e Dino Ferrari |Thu, August 08 07:25PM EDT |Fri, August 09 12:25AM BST |Fri, August 09 09:25AM AEST |
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024\-T3 |South America |36 |2587 | |Autodromo Internazionale Enzo e Dino Ferrari |Tue, August 13 06:30PM EDT |Tue, August 13 11:30PM BST |Wed, August 14 08:30AM AEST |
-|[Racing e\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |1ª Temporada \- GT3 Cup \- by racinge\-sports\.com |South America |22 |2072 | |Autodromo Internazionale del Mugello |Tue, August 06 12:00PM EDT |Tue, August 06 05:00PM BST |Wed, August 07 02:00AM AEST |
+|[Racing e\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |1ª Temporada \- GT3 Cup \- by racinge\-sports\.com |South America |24 |2263 | | | | | |
 
 ### Hosted All Cars Class
 
