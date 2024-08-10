@@ -11,7 +11,7 @@
 |-----------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Sim Racers Anonymous](https://members.iracing.com/membersite/member/LeagueView.do?league=6574){:target="_blank"} |SRA Pro 2 Lite Fuckery |North America |17 |1318 |Fixed |Virginia International Raceway |Wed, August 14 08:00PM EDT |Thu, August 15 01:00AM BST |Thu, August 15 10:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK VIII \- 2024 |North America |13 |1785 |Fixed | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2024 |North America |10 |2128 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2024 |North America |10 |2128 |Fixed |Knockhill Racing Circuit |Sat, August 10 08:00PM EDT |Sun, August 11 01:00AM BST |Sun, August 11 10:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |10 |2060 |Fixed | | | | |
 
 ### Pro 2 Truck

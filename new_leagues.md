@@ -11,6 +11,7 @@
 |[BMS League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11362){:target="_blank"} |[Discord](https://discord.gg/qnNBrYZRUq){:target="_blank"} |BaXide Motorsports |
 |[BSR Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11328){:target="_blank"} | | |
 |[Campeonato Nacional de Automovilismo Virtual 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11358){:target="_blank"} | |Campeonato Avalado |
+|[Canva Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11368){:target="_blank"} | | |
 |[CKR Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=11341){:target="_blank"} | |Late models, UMP, Big Blocks |
 |[Clio Cup Series by Fast Lane](https://members.iracing.com/membersite/member/LeagueView.do?league=11336){:target="_blank"} | |9 rounds, 18 races, fixed setup and prizes for the podium\. |
 |[CMS Sunday Night Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11327){:target="_blank"} |[Discord](https://discord.gg/cmsracing){:target="_blank"} |A new Sunday Night Nascar Truck Series starting in August\.   Head over to Champion Motorsports' Discord at https://discord\.gg/cmsracing and look for the Sunday Night Trucks discussion channel\!   More information regarding numbers, etc\. coming very, very soon\! |
@@ -18,8 +19,8 @@
 |[\[DMPC\] \- Late Summer](https://members.iracing.com/membersite/member/LeagueView.do?league=11357){:target="_blank"} | | |
 |[Draft Apprentices](https://members.iracing.com/membersite/member/LeagueView.do?league=11349){:target="_blank"} | |Trucks, Xfinity, and 87's going fast\! |
 |[Dumb and Dumber](https://members.iracing.com/membersite/member/LeagueView.do?league=11325){:target="_blank"} | | |
-|[EGT Canada \- Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11322){:target="_blank"} | |Série d'endurance EGT Canada |
-|[ERACING4MONEY CBDEL](https://members.iracing.com/membersite/member/LeagueView.do?league=11367){:target="_blank"} | | |
+|[ERACING4MONEY MAZDA MX\-5 \- CBDEL](https://members.iracing.com/membersite/member/LeagueView.do?league=11369){:target="_blank"} | |E\-Racing4Money   Campeonato com Premiação Total de até R$ 8\.000,00, por Categoria\!   Categorias \- MAZDA MX\-5   Prêmios em dinheiro de até:   \* R$ 100,00 \- P3;  \* R$ 150,00 \- P2;  \* R$ 200,00 \- P1\.   Campeão do Campeonato   \* Até R$ 1\.875,00\.   Transmissão ao vivo no canal do YouTube  NEONBRASILTV  https://youtube\.com/@neonbrasiltv?si\=UMr4H8t9fcBoOMR2 |
+|[ERACING4MONEY CBDEL](https://members.iracing.com/membersite/member/LeagueView.do?league=11367){:target="_blank"} | |O E\-RACING4MONEY   TCR 8k é um campeonato com Premiação Total de até R$ 8\.000,00\!   Prêmios em dinheiro de até:   P3 \- R$ 100,00 \(10% do valor das inscrições da etapa\);  P2 \- R$ 150,00 \(15% do valor das inscrições da etapa\);  P1 \- R$ 200,00 \(20% do valor das inscrições da etapa\)\.   \- Campeão leva até R$ 1\.875,00 , \(15% do saldo por etapa\) |
 |[GR86 Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11345){:target="_blank"} | |Road Racing with the Toyota GR86 |
 |[GT4 Rookie Class](https://members.iracing.com/membersite/member/LeagueView.do?league=11353){:target="_blank"} | |Drivers under 1500 iRating |
 |[\(IIR\) Indy Internet Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11348){:target="_blank"} | |NASCAR |

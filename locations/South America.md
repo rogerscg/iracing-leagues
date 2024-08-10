@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3110 | | | | | |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------|--------------------------|--------------------------|---------------------------|
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |41 |3245 | |Richmond Raceway |Mon, August 12 06:30PM EDT |Mon, August 12 11:30PM BST |Tue, August 13 08:30AM AEST |
 
 ### NASCAR Truck Series
 
@@ -42,9 +42,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------|-------|----|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
 |[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge \- 24S2 |South America |45 |2686 | | | | | |
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Dr\. Norberto Martins IR18 Rookie Challenge \- 2024/T3 |South America |23 |1543 |Fixed | | | | |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Dr\. Norberto Martins IR18 Rookie Challenge \- 2024/T3 |South America |23 |1543 |Fixed |[Legacy] Phoenix Raceway - 2008 |Mon, August 12 05:30PM EDT |Mon, August 12 10:30PM BST |Tue, August 13 07:30AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Fórmula Indy \- Temporada 2 |South America |14 |2263 | | | | | |
 
 ### FIA F4
