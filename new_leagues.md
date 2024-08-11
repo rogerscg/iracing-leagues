@@ -23,6 +23,8 @@
 |[ERACING4MONEY CBDEL](https://members.iracing.com/membersite/member/LeagueView.do?league=11367){:target="_blank"} | |O E\-RACING4MONEY   TCR 8k é um campeonato com Premiação Total de até R$ 8\.000,00\!   Prêmios em dinheiro de até:   P3 \- R$ 100,00 \(10% do valor das inscrições da etapa\);  P2 \- R$ 150,00 \(15% do valor das inscrições da etapa\);  P1 \- R$ 200,00 \(20% do valor das inscrições da etapa\)\.   \- Campeão leva até R$ 1\.875,00 , \(15% do saldo por etapa\) |
 |[GR86 Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11345){:target="_blank"} | |Road Racing with the Toyota GR86 |
 |[GT4 Rookie Class](https://members.iracing.com/membersite/member/LeagueView.do?league=11353){:target="_blank"} | |Drivers under 1500 iRating |
+|[High Voltage Racing \(GT3\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11371){:target="_blank"} |[Discord](https://discord.gg/FtgVGDmYXS){:target="_blank"} |High Voltage Racing is a new and upcoming iRacing league aiming to aid new racers and create a fun and competitive environment for experienced racers, join the league and register in our discord and we will get you racing as soon as possible\! Have fun, and win some races\! \(This one is for the GT3 races\) |
+|[High Voltage Racing \(NASCAR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11372){:target="_blank"} |[Discord](https://discord.gg/FtgVGDmYXS){:target="_blank"} |High Voltage Racing is a new and upcoming iRacing league aiming to aid new racers and create a fun and competitive environment for experienced racers, join the league and register in our discord and we will get you racing as soon as possible\! Have fun, and win some races\! |
 |[\(IIR\) Indy Internet Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11348){:target="_blank"} | |NASCAR |
 |[JK Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11329){:target="_blank"} | | |
 |[League of Ordinary Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=11347){:target="_blank"} | |BUNCH OF NOOBS DRIVIN AROUND |
@@ -40,12 +42,12 @@
 |[TAG Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11355){:target="_blank"} | | |
 |[The Advanced Learning Platform](https://members.iracing.com/membersite/member/LeagueView.do?league=11343){:target="_blank"} | |After completing over 500 coaching sessions with Real\-Life drivers & SimRacers, we developed this method that includes all the elements a student needs to properly learn a new concept\. Most of our courses follow this structure, which guarantees your success\. |
 |[Tuesday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=11339){:target="_blank"} |[Discord](https://discord.gg/qsrsimulations){:target="_blank"} |QSR Truck Series |
-|[ViPER Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11323){:target="_blank"} | |Short Track Racing Community |
 |[Virtual Velocity Racing \- Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11337){:target="_blank"} | | |
-|[Vortex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11324){:target="_blank"} | |funfunfun |
 |[WizardBenny Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11346){:target="_blank"} | |Have fun make friends |
 |[YESCAR Virtual Racing League \| Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11335){:target="_blank"} | |KeithSaysYes\.com Truck Series |
+|[Yohan Lesire Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11373){:target="_blank"} |[Discord](https://discord.gg/Fs2KhZne4p){:target="_blank"} |\. |
 |[Carpool Lane](https://members.iracing.com/membersite/member/LeagueView.do?league=11364){:target="_blank"} | |Slow and safe wins the\.\.\. safety rating? |
 |[Mistakes Were Made](https://members.iracing.com/membersite/member/LeagueView.do?league=11334){:target="_blank"} | | |
 |[Old Pueblo Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11351){:target="_blank"} | | |
+|[Smack Talk Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11370){:target="_blank"} | |Tuesday Night Fun |
 

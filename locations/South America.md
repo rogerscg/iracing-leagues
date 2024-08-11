@@ -112,7 +112,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |For Gretta |South America |16 |1527 | | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |For Gretta |South America |15 |1554 | | | | | |
 
 # Prototype
 

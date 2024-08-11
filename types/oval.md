@@ -8,13 +8,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|---------------------------------------|--------------------------|--------------------------|---------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|---------------------|--------------------------|--------------------------|---------------------------|
 |[Southern Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1400){:target="_blank"} |debut season |North America |63 |2132 |Fixed | | | | |
 |[SARA \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=363){:target="_blank"} |2024 National Tour |North America |51 |4792 |Open | | | | |
-|[Short Track Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9790){:target="_blank"} |ERA Summer 2024 |North America |28 |2311 | | | | | |
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 Season 3 SLM/LM Series |North America |25 |2313 | |World Wide Technology Raceway (Gateway) |Sat, August 10 07:00PM EDT |Sun, August 11 12:00AM BST |Sun, August 11 09:00AM AEST |
-|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |titans of iracing |North America |16 |1105 |Open |South Boston Speedway |Sat, August 10 09:00PM EDT |Sun, August 11 02:00AM BST |Sun, August 11 11:00AM AEST |
-|[ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=10635){:target="_blank"} |titans of iracing |North America |15 |1072 |Open |South Boston Speedway |Sat, August 10 08:00PM EDT |Sun, August 11 01:00AM BST |Sun, August 11 10:00AM AEST |
+|[Short Track Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9790){:target="_blank"} |ERA Summer 2024 |North America |27 |2330 | | | | | |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 Season 3 SLM/LM Series |North America |27 |2361 | |Rockingham Speedway |Sat, August 17 07:00PM EDT |Sun, August 18 12:00AM BST |Sun, August 18 09:00AM AEST |
+|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |titans of iracing |North America |18 |1082 |Open |Langley Speedway |Sat, August 17 09:00PM EDT |Sun, August 18 02:00AM BST |Sun, August 18 11:00AM AEST |
+|[ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=10635){:target="_blank"} |titans of iracing |North America |15 |1072 |Open |South Boston Speedway |Sat, August 17 08:00PM EDT |Sun, August 18 01:00AM BST |Sun, August 18 10:00AM AEST |
 |[COCA](https://members.iracing.com/membersite/member/LeagueView.do?league=9563){:target="_blank"} |Late Model S2 |North America |10 |1620 |Open | | | | |
 
 ### Late Model Stock
@@ -27,8 +27,9 @@
 |[FSBRACING\.COM](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Racing Late Model Series Season 49 |North America |32 |1825 |Fixed | | | | |
 |[MDiTV EDIRT Series Pro Big Blocks](https://members.iracing.com/membersite/member/LeagueView.do?league=6865){:target="_blank"} |Kickin' Asphalt Late Models Season 2 |North America |31 |2071 | | | | | |
 |[All\-Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |CHESTNUT HILL LATE MODEL STOCK SERIES |North America |29 |2309 |Fixed |Myrtle Beach Speedway |Tue, August 13 07:59PM EDT |Wed, August 14 12:59AM BST |Wed, August 14 09:59AM AEST |
+|[SRL Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11261){:target="_blank"} |Season 1 |North America |29 |2464 | |Rockingham Speedway |Sun, August 11 07:30PM EDT |Mon, August 12 12:30AM BST |Mon, August 12 09:30AM AEST |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S4 Late model Stock Hometown series |North America |27 |1574 |Both | | | | |
-|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S27 |North America |27 |1675 |Fixed | | | | |
+|[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S27 |North America |27 |1688 |Fixed | | | | |
 |[\#0 Donut Box Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8942){:target="_blank"} |Firestone Late Model Stocks Season 2 |North America |26 |1976 |Fixed | | | | |
 |[Red Solo Cup Series SK Mods/Late Models Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Models S9 |North America |26 |2125 |Fixed | | | | |
 |[AOLL Racing's Sportsman Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5052){:target="_blank"} |2024 Season 2 \- Late Model Stock |North America |22 |1678 |Fixed |Bristol Motor Speedway |Wed, August 14 06:00PM EDT |Wed, August 14 11:00PM BST |Thu, August 15 08:00AM AEST |
@@ -38,16 +39,16 @@
 |[RAID iSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |CARS Late Model Tour Season 2 2024 |North America |19 |2495 |Fixed | | | | |
 |[Smitty's Late Night LMS League](https://members.iracing.com/membersite/member/LeagueView.do?league=11258){:target="_blank"} |Inaugural Smitty's LMS League |North America |19 |1474 | | | | | |
 |[NDRA\- National Dirt Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |SRA LMSC Season 1 Pavement Series |North America |19 |2037 |Both |Richmond Raceway |Tue, August 13 09:00PM EDT |Wed, August 14 02:00AM BST |Wed, August 14 11:00AM AEST |
-|[Showtime Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11061){:target="_blank"} |Showtime Late Model Series |North America |18 |1658 |Fixed | | | | |
 |[OGRL Monday Trans Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10968){:target="_blank"} |Trans Am Season 2 |North America |17 |1526 | | | | | |
 |[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S26 |North America |17 |1756 |Fixed | | | | |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |ACTION Late Model Series |North America |15 |2264 |Fixed | | | | |
 |[National Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10897){:target="_blank"} |National Short Track Series Season 1 |North America |15 |1994 | | | | | |
+|[Showtime Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11061){:target="_blank"} |Showtime Late Model Series |North America |13 |1678 |Fixed | | | | |
 |[OG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6203){:target="_blank"} |LMSC Fixed |North America |13 |2167 |Fixed | | | | |
 |[NBS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10189){:target="_blank"} |sKunkmeat late model |North America |13 |2140 | | | | | |
 |[MLR Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4968){:target="_blank"} |LATE MODEL \- SEASON 1 |North America |13 |1776 | | | | | |
 |[Dialed In Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4068){:target="_blank"} |Dialed In Late Model Stock Season |North America |11 |2079 | |Southern National Motorsports Park |Tue, August 13 07:00PM EDT |Wed, August 14 12:00AM BST |Wed, August 14 09:00AM AEST |
-|[Flat Out Racing League Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8484){:target="_blank"} |2024 Season 2 |North America |11 |1773 | |Langley Speedway |Sat, August 10 08:00PM EDT |Sun, August 11 01:00AM BST |Sun, August 11 10:00AM AEST |
+|[Flat Out Racing League Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8484){:target="_blank"} |2024 Season 2 |North America |11 |1823 | |North Wilkesboro Speedway |Sat, August 17 08:00PM EDT |Sun, August 18 01:00AM BST |Sun, August 18 10:00AM AEST |
 |[American Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=18){:target="_blank"} |2024 All American Series |North America |11 |1527 |Fixed | | | | |
 |[Lucky Dog Sim Racing Super Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=9127){:target="_blank"} |Five |North America |10 |1786 | | | | | |
 |[Madhouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10353){:target="_blank"} |season 3 |North America |10 |2074 | | | | | |
@@ -75,13 +76,21 @@
 |[COCA](https://members.iracing.com/membersite/member/LeagueView.do?league=9563){:target="_blank"} |Inex Season 2 Legends |North America |11 |1379 |Open | | | | |
 |[Bearder Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9926){:target="_blank"} |BRC Bee Legends Series Season 2 |North America |10 |1862 | |Tsukuba Circuit |Tue, August 13 07:45PM EDT |Wed, August 14 12:45AM BST |Wed, August 14 09:45AM AEST |
 
+### Rookie Legends
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|----------------|--------------------------|--------------------------|---------------------------|
+|[BMS League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11362){:target="_blank"} |BMS League Racing |North America |10 |1447 | |Concord Speedway |Sat, August 17 09:00PM EDT |Sun, August 18 02:00AM BST |Sun, August 18 11:00AM AEST |
+
 ### Street Stock - Panther C1
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|----------------------------------------|--------------------------|--------------------------|---------------------------|
-|[Mayhem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5425){:target="_blank"} |Days of Thunder Street Stocks |North America |18 |1571 |Both |[Legacy] Charlotte Motor Speedway - 2008 |Tue, August 13 08:00PM EDT |Wed, August 14 01:00AM BST |Wed, August 14 10:00AM AEST |
+|[Mayhem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5425){:target="_blank"} |Days of Thunder Street Stocks |North America |17 |1575 |Both |[Legacy] Charlotte Motor Speedway - 2008 |Tue, August 13 08:00PM EDT |Wed, August 14 01:00AM BST |Wed, August 14 10:00AM AEST |
 |[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} |2024 Season 2 |North America |17 |3269 |Fixed |Nashville Fairgrounds Speedway |Thu, August 15 10:55PM EDT |Fri, August 16 03:55AM BST |Fri, August 16 12:55PM AEST |
 |[Sunday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=11062){:target="_blank"} |Season 1 |North America |16 |1814 | |Martinsville Speedway |Sun, August 11 07:30PM EDT |Mon, August 12 12:30AM BST |Mon, August 12 09:30AM AEST |
 
@@ -96,16 +105,17 @@
 |[Legends Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1301){:target="_blank"} |Street Stock Season 9 "Summer Showdown" |North America |54 |2467 |Fixed | | | | |
 |[WD Broadcasting Network SLM Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5801){:target="_blank"} |2024 Street Stock Showdown |North America |46 |2390 | | | | | |
 |[TDR Thursday Night SRX](https://members.iracing.com/membersite/member/LeagueView.do?league=8833){:target="_blank"} |Street Stock Twin 50's |North America |41 |1854 | |Charlotte Motor Speedway |Thu, August 15 07:30PM EDT |Fri, August 16 12:30AM BST |Fri, August 16 09:30AM AEST |
-|[iNation eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6758){:target="_blank"} |C12 Motorsports Street Stock Challenge \[OVAL\] |North America |40 |2157 | | | | | |
-|[XCAL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1264){:target="_blank"} |2024 XCAL RACING WEB SHOP SERIES |North America |38 |2887 |Both | | | | |
+|[iNation eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6758){:target="_blank"} |C12 Motorsports Street Stock Challenge \[OVAL\] |North America |40 |2157 | |Atlanta Motor Speedway |Wed, August 14 10:00PM EDT |Thu, August 15 03:00AM BST |Thu, August 15 12:00PM AEST |
 |[Midwest Pavement Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9661){:target="_blank"} |MARS Street Stock Summer Series '24 |North America |34 |2240 | | | | | |
-|[iNation eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6758){:target="_blank"} |C12 Motorsports Street Stock Challenge \[ROVAL\] |North America |33 |1428 | | | | | |
+|[iNation eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6758){:target="_blank"} |C12 Motorsports Street Stock Challenge \[ROVAL\] |North America |33 |1428 | |Atlanta Motor Speedway |Wed, August 14 08:00PM EDT |Thu, August 15 01:00AM BST |Thu, August 15 10:00AM AEST |
 |[JRS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7247){:target="_blank"} |Slip & Slide Racing League Season \#1 |North America |33 |5279 | | | | | |
+|[XCAL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1264){:target="_blank"} |2024 XCAL RACING WEB SHOP SERIES |North America |33 |2954 |Both | | | | |
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |Street Stock Season 1 |North America |32 |891 | |Concord Speedway |Fri, August 16 08:30PM EDT |Sat, August 17 01:30AM BST |Sat, August 17 10:30AM AEST |
 |[Full Throttle racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=10782){:target="_blank"} |street stocks season 2 |North America |31 |2010 | | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |Street Stock Series Season 1 |North America |27 |2182 |Fixed |Oswego Speedway |Sun, August 11 08:30PM EDT |Mon, August 12 01:30AM BST |Mon, August 12 10:30AM AEST |
 |[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2024 S3 Street Stocks \(Thurs 7:30pm\) |North America |27 |1885 |Fixed |Nashville Fairgrounds Speedway |Thu, August 15 07:30PM EDT |Fri, August 16 12:30AM BST |Fri, August 16 09:30AM AEST |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL S4 Street Stock Hometown Series |North America |25 |1607 |Both | | | | |
+|[SRL \- RACE22\.COM Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8060){:target="_blank"} |Season 6 |North America |25 |2313 |Fixed |Rockingham Speedway |Sun, August 11 08:30PM EDT |Mon, August 12 01:30AM BST |Mon, August 12 10:30AM AEST |
 |[CORE](https://members.iracing.com/membersite/member/LeagueView.do?league=5648){:target="_blank"} |Summer Series 2024 |North America |25 |3059 | | | | | |
 |[Red Solo Cup Series SK Mods/Late Models Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Street Stocks S2 |North America |23 |1995 |Fixed | | | | |
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |Rising Stars Season 9 |North America |22 |1710 |Both |Five Flags Speedway |Thu, August 15 08:45PM EDT |Fri, August 16 01:45AM BST |Fri, August 16 10:45AM AEST |
@@ -118,6 +128,7 @@
 |[American Stock Car Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11166){:target="_blank"} |ASCT Season 1 |North America |14 |1238 |Fixed | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 31 Street Stock |North America |13 |1101 |Fixed |Lucas Oil Indianapolis Raceway Park |Fri, August 16 12:00PM EDT |Fri, August 16 05:00PM BST |Sat, August 17 02:00AM AEST |
 |[The GTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=8466){:target="_blank"} |Spark SS Season 1 |North America |13 |2117 | | | | | |
+|[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2024 Fun Racing |North America |10 |1769 |Fixed | | | | |
 |[RaceONE](https://members.iracing.com/membersite/member/LeagueView.do?league=3973){:target="_blank"} |Test Season |North America |10 |2261 |Open | | | | |
 
 ### Super Late Model

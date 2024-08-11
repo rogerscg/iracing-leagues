@@ -29,9 +29,9 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|----------------------|--------------------------|--------------------------|---------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Sharky's Radical Thursday's |North America |37 |1149 |Fixed |Phillip Island Circuit |Thu, August 15 08:00PM EDT |Fri, August 16 01:00AM BST |Fri, August 16 10:00AM AEST |
-|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3372 | | | | | |
+|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3372 | |Phillip Island Circuit |Sun, August 18 02:10PM EDT |Sun, August 18 07:10PM BST |Mon, August 19 04:10AM AEST |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |22 |3104 |Open |Phillip Island Circuit |Thu, August 15 02:15PM EDT |Thu, August 15 07:15PM BST |Fri, August 16 04:15AM AEST |
-|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |19 |2434 | | | | | |
+|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |19 |2434 | |Phillip Island Circuit |Sun, August 18 07:30PM EDT |Mon, August 19 12:30AM BST |Mon, August 19 09:30AM AEST |
 |[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |Season 1 \- Beta |North America |13 |2223 | |Lime Rock Park |Mon, August 12 09:00PM EDT |Tue, August 13 02:00AM BST |Tue, August 13 11:00AM AEST |
 
 ### Radical SR8
@@ -42,8 +42,8 @@
 |----------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1479 | |Motorsport Arena Oschersleben |Tue, August 13 07:50PM EDT |Wed, August 14 12:50AM BST |Wed, August 14 09:50AM AEST |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 radical |Australia-NZ |12 |1415 |Fixed |Donington Park Racing Circuit |Thu, August 15 05:30AM EDT |Thu, August 15 10:30AM BST |Thu, August 15 07:30PM AEST |
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |11 |1131 |Open |Sebring International Raceway |Tue, August 13 10:00PM EDT |Wed, August 14 03:00AM BST |Wed, August 14 12:00PM AEST |
-|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup |North America |10 |1271 | | | | | |
+|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |11 |1135 |Open |Sebring International Raceway |Tue, August 13 10:00PM EDT |Wed, August 14 03:00AM BST |Wed, August 14 12:00PM AEST |
+|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup |North America |10 |1192 | | | | | |
 
 ### Spec Racer Ford
 

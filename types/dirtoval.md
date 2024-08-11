@@ -44,6 +44,7 @@
 |[LM 'Tasmanian / JSI Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11177){:target="_blank"} |LM ' Tasmanian / JSI Series |Australia-NZ |49 |3199 | | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |North America |37 |2531 |Open |Federated Auto Parts Raceway at I-55 |Sun, August 11 07:15PM EDT |Mon, August 12 12:15AM BST |Mon, August 12 09:15AM AEST |
 |[Night Owl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |Pro late models |North America |27 |1886 | | | | | |
+|[Old Money Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10035){:target="_blank"} |OMR Fall PROLM |North America |20 |1942 |Fixed | | | | |
 |[West Desert iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} |J&BLMT Season 1 |North America |16 |1871 | | | | | |
 |[Pro Late Model Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4122){:target="_blank"} |PRO LATE MODEL DIRT SERIES \- 2024 |North America |16 |2286 |Fixed |The Dirt Track at Charlotte |Wed, August 14 08:00PM EDT |Thu, August 15 01:00AM BST |Thu, August 15 10:00AM AEST |
 |[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |high side hustlers Pro Late Models season 5 |North America |10 |1919 | |Lincoln Speedway |Sun, August 11 06:00PM EDT |Sun, August 11 11:00PM BST |Mon, August 12 08:00AM AEST |
@@ -58,6 +59,7 @@
 |[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |HSSL S5 |North America |40 |3178 | |Lucas Oil Speedway |Tue, August 13 08:30PM EDT |Wed, August 14 01:30AM BST |Wed, August 14 10:30AM AEST |
 |[Spring Madness Pro Invitational Main Event](https://members.iracing.com/membersite/member/LeagueView.do?league=10540){:target="_blank"} |Spring Madness Pro Invitational Season 1 |North America |34 |6206 | | | | | |
 |[Slinging Dirt Series by PBM](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |Hooked Up Super Lates 2024\.2 |North America |21 |2926 |Both |Knoxville Raceway |Sun, August 11 06:00PM EDT |Sun, August 11 11:00PM BST |Mon, August 12 08:00AM AEST |
+|[OSRL Off\-Season Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7291){:target="_blank"} |Pro Cup Season 1 |North America |15 |1872 |Fixed | | | | |
 
 ### Dirt Legends
 
@@ -81,7 +83,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
-|[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |2024 S3 Dirt Midget |North America |51 |3182 |Open |Limaland Motorsports Park |Tue, August 13 09:30PM EDT |Wed, August 14 02:30AM BST |Wed, August 14 11:30AM AEST |
+|[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |2024 S3 Dirt Midget |North America |48 |3222 |Open |Limaland Motorsports Park |Tue, August 13 09:30PM EDT |Wed, August 14 02:30AM BST |Wed, August 14 11:30AM AEST |
 |[TRL Street Stock Title 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |Midgets Madness 2024 |Australia-NZ |38 |3220 | |Kevin Harvick's Kern Raceway |Mon, August 12 06:30AM EDT |Mon, August 12 11:30AM BST |Mon, August 12 08:30PM AEST |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MIDGET |North America |26 |2334 |Open | | | | |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |24S3 Monday Midgets |North America |20 |1942 |Fixed | | | | |
@@ -92,11 +94,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|---------------|--------------------------|--------------------------|---------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|---------------------------|--------------------------|--------------------------|---------------------------|
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |Local Legend 3 |North America |21 |1691 | | | | | |
-|[Race Chatter Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10392){:target="_blank"} |micro winged sprints season 1 |North America |21 |2079 |Both | | | | |
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |Outlaw Micro Sprints Season 2 |North America |19 |1338 |Fixed | | | | |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 31 Micro Sprint |North America |11 |1181 |Fixed |Kokomo Speedway |Mon, August 12 12:00PM EDT |Mon, August 12 05:00PM BST |Tue, August 13 02:00AM AEST |
+|[Race Chatter Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10392){:target="_blank"} |micro winged sprints season 1 |North America |18 |2097 |Both | | | | |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 31 Micro Sprint |North America |11 |1181 |Fixed |The Dirt Track at Charlotte |Mon, August 12 12:00PM EDT |Mon, August 12 05:00PM BST |Tue, August 13 02:00AM AEST |
 
 ### Dirt SprintCar - 305
 
@@ -112,10 +114,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|----------------------------|--------------------------|--------------------------|---------------------------|
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |360 Sprintcars Super Series 2024 |Australia-NZ |83 |3632 | | | | | |
 |[Reigel Promotions E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2024 Summer Sizzle |North America |80 |2754 |Fixed |Lanier National Speedway |Mon, August 12 08:40PM EDT |Tue, August 13 01:40AM BST |Tue, August 13 10:40AM AEST |
-|[ASND Elite 360 Sprintcar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7201){:target="_blank"} |2024 Knoxville 360 Nationals |Australia-NZ |69 |2906 | | | | | |
+|[ASND Elite 360 Sprintcar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7201){:target="_blank"} |2024 Knoxville 360 Nationals |Australia-NZ |69 |2906 | |Knoxville Raceway |Sun, August 11 06:15AM EDT |Sun, August 11 11:15AM BST |Sun, August 11 08:15PM AEST |
 |[ASND Evolution 360 sprintcar series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Open 360 Sprintcar Series |Australia-NZ |61 |3281 | | | | | |
 |[TRL Street Stock Title 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |2024 360 Sprintcar Rumble |Australia-NZ |55 |3785 | | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |North America |48 |2095 |Open |USA International Speedway |Mon, August 12 07:10PM EDT |Tue, August 13 12:10AM BST |Tue, August 13 09:10AM AEST |
@@ -123,9 +125,10 @@
 |[National Auto Racing Club Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=5580){:target="_blank"} |Fuel Your Victory Showdown at Knoxville |North America |42 |3191 | | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |North America |38 |2357 |Open |Lernerville Speedway |Wed, August 14 07:15PM EDT |Thu, August 15 12:15AM BST |Thu, August 15 09:15AM AEST |
 |[ASND Special events league\( Currently inactive\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |2024 Evolution Sprintcar Series |Australia-NZ |35 |2186 | | | | | |
-|[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 360 Season 19 |North America |33 |3895 |Open | | | | |
+|[Virtual Racing Aotearoa \- 2024 Midget Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |2024 Sprintcar Series |Australia-NZ |28 |3439 | |Eldora Speedway |Thu, August 15 04:15AM EDT |Thu, August 15 09:15AM BST |Thu, August 15 06:15PM AEST |
 |[Race Chatter Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10392){:target="_blank"} |RCR 360 season 2 |North America |21 |2350 |Both | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |North America |21 |1809 |Open |USA International Speedway |Mon, August 12 01:30PM EDT |Mon, August 12 06:30PM BST |Tue, August 13 03:30AM AEST |
+|[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 360 Season 19 |North America |18 |3610 |Open | | | | |
 |[Elite Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3804){:target="_blank"} |2024 Season 1 DSC360 |North America |15 |2032 |Fixed |Kevin Harvick's Kern Raceway |Mon, August 12 10:55PM EDT |Tue, August 13 03:55AM BST |Tue, August 13 12:55PM AEST |
 
 ### Dirt SprintCar - 360wingless
@@ -151,8 +154,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2024 Williams Grove Track Championship |North America |28 |3313 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2024 Speedweeks |North America |26 |3315 |Open | | | | |
+|[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2024 Williams Grove Track Championship |North America |25 |3299 |Open | | | | |
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 410 Season 19 |North America |24 |3453 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2024 Lernerville Track Championship |North America |22 |3111 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2024 Port Royal Track Championship |North America |20 |3237 |Open | | | | |
@@ -165,7 +168,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-------------|-------|----|-----|------------------------|--------------------------|--------------------------|---------------------------|
-|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Street Stock Winter Series 2024 |Australia-NZ |64 |3181 | | | | | |
 |[LMS Dirt Only league](https://members.iracing.com/membersite/member/LeagueView.do?league=11005){:target="_blank"} |Tuesday night dss showdown |North America |30 |2927 | |Port Royal Speedway |Tue, August 13 08:30PM EDT |Wed, August 14 01:30AM BST |Wed, August 14 10:30AM AEST |
 |[Short Track Rivals Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10070){:target="_blank"} |Buttkicker's Midwest Invasion Tour |North America |27 |3060 |Both |Cedar Lake Speedway |Fri, August 16 08:30PM EDT |Sat, August 17 01:30AM BST |Sat, August 17 10:30AM AEST |
 |[SRL \- CaveRP\.com 360 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8763){:target="_blank"} |Fortworth Screen Printing Dirt Street Stock Tour Season 3 |North America |20 |1798 | | | | | |
@@ -185,7 +187,7 @@
 |[Vortex UMP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9974){:target="_blank"} |Vortex UMP Series 2024 |North America |21 |2892 | | | | | |
 |[DSRL Wednesday Night Warriors Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4374){:target="_blank"} |UMP Summer Season 24 |North America |14 |2758 | | | | | |
 |[League of Outlaws \(LoO\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11032){:target="_blank"} |2024 LoO IMCA Style Modifieds Season C |North America |12 |2754 | | | | | |
-|[Virtual Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11145){:target="_blank"} |Hot Summer Nights UMP |North America |11 |1852 | | | | | |
+|[Virtual Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11145){:target="_blank"} |Hot Summer Nights UMP |North America |11 |1862 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -197,9 +199,9 @@
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |North America |41 |2551 |Open | | | | |
 |[Australian Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=10294){:target="_blank"} |King Of Wings 2024 |Australia-NZ |40 |3503 | | | | | |
 |[B\-Main Bandits Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7114){:target="_blank"} |King of Wings |North America |29 |2639 |Fixed | | | | |
-|[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |ligue été \(avril @ octobre\) |North America |22 |2840 | | | | | |
 |[Extreme Forces DIRTKARS](https://members.iracing.com/membersite/member/LeagueView.do?league=7932){:target="_blank"} |Season 7 |North America |22 |2383 | |Knoxville Raceway |Thu, August 15 09:00PM EDT |Fri, August 16 02:00AM BST |Fri, August 16 11:00AM AEST |
-|[C2C \- Retreads \(55\+\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6024){:target="_blank"} |RETREADS \- DIRT |North America |22 |1343 | | | | | |
+|[C2C \- Retreads \(55\+\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6024){:target="_blank"} |RETREADS \- DIRT |North America |21 |1328 | | | | | |
+|[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |ligue été \(avril @ octobre\) |North America |19 |3018 | | | | | |
 |[Chop Shop Racing Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=9941){:target="_blank"} |Adrenaline Dirt Tour |North America |18 |2494 | | | | | |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Summer 2024 \- Spin the Wheel |North America |18 |2242 |Fixed | | | | |
 |[B\-Main Bandits Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7114){:target="_blank"} |National Support Series |North America |17 |2663 |Fixed |Lucas Oil Speedway |Tue, August 13 07:45PM EDT |Wed, August 14 12:45AM BST |Wed, August 14 09:45AM AEST |
