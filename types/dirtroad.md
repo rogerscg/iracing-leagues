@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
-|[Sim Racers Anonymous](https://members.iracing.com/membersite/member/LeagueView.do?league=6574){:target="_blank"} |SRA Pro 2 Lite Fuckery |North America |17 |1318 |Fixed |Virginia International Raceway |Wed, August 14 08:00PM EDT |Thu, August 15 01:00AM BST |Thu, August 15 10:00AM AEST |
+|[Sim Racers Anonymous](https://members.iracing.com/membersite/member/LeagueView.do?league=6574){:target="_blank"} |SRA Pro 2 Lite Fuckery |North America |15 |1316 |Fixed |Virginia International Raceway |Wed, August 14 08:00PM EDT |Thu, August 15 01:00AM BST |Thu, August 15 10:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK VIII \- 2024 |North America |13 |1785 |Fixed | | | | |
 |[Extreme Forces TRUCK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7933){:target="_blank"} |Season 3 |North America |10 |1472 | |Crandon International Raceway |Mon, August 12 08:00PM EDT |Tue, August 13 01:00AM BST |Tue, August 13 10:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2024 |North America |10 |2154 |Fixed | | | | |
@@ -21,8 +21,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Racecraft Off\-Road Pro Spec](https://members.iracing.com/membersite/member/LeagueView.do?league=9734){:target="_blank"} |2024 Spec Class Pro 2 Championship |North America |32 |2668 | | | | | |
-|[Racecraft Off\-Road](https://members.iracing.com/membersite/member/LeagueView.do?league=5142){:target="_blank"} |2024 Open Class Pro 2 Championship |North America |20 |4605 |Open | | | | |
+|[Racecraft Off\-Road Pro Spec](https://members.iracing.com/membersite/member/LeagueView.do?league=9734){:target="_blank"} |2024 Spec Class Pro 2 Championship |North America |32 |2581 | | | | | |
+|[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2024 \- PRO2 ERACER |North America |21 |1651 |Fixed | | | | |
+|[Racecraft Off\-Road](https://members.iracing.com/membersite/member/LeagueView.do?league=5142){:target="_blank"} |2024 Open Class Pro 2 Championship |North America |20 |4469 |Open | | | | |
 
 ### Pro 4 Truck
 
