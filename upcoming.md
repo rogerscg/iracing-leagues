@@ -13,6 +13,14 @@
 |----------------------------------------------------------------------------------------------------------|------------------------------------|-----|-----------------------|--------------------------|--------------------------|---------------------------|
 |[FSBRACING\.COM](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |S49 OFF SEASON SUPER SPEEDWAY SERIES |Fixed |Talladega Superspeedway |Thu, August 15 08:00PM EDT |Fri, August 16 01:00AM BST |Fri, August 16 10:00AM AEST |
 
+### NASCAR 2022 NextGen
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------|-------------|-----|---------------------------|--------------------------|--------------------------|---------------------------|
+|[Doghouse Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9994){:target="_blank"} |2024 Season 2 |Open |Indianapolis Motor Speedway |Thu, August 22 07:00PM EDT |Fri, August 23 12:00AM BST |Fri, August 23 09:00AM AEST |
+
 ### NASCAR Truck Series
 
 [Back to Top](#)  
@@ -21,7 +29,6 @@
 |-------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|-----------------------------------------------|--------------------------|--------------------------|---------------------------|
 |[CMS Sunday Night Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11327){:target="_blank"} |2024 S1 Sunday Night Truck Series |Open |[Legacy] Michigan International Speedway - 2009 |Sun, August 18 08:45PM EDT |Mon, August 19 01:45AM BST |Mon, August 19 10:45AM AEST |
 |[FASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=9952){:target="_blank"} |2024 PatriotView Truck Series | |Nashville Superspeedway |Sat, August 17 06:00PM EDT |Sat, August 17 11:00PM BST |Sun, August 18 08:00AM AEST |
-|[Saturday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9745){:target="_blank"} |Challenger Series S1 |Fixed |Daytona International Speedway |Sat, August 17 07:00PM EDT |Sun, August 18 12:00AM BST |Sun, August 18 09:00AM AEST |
 |[GOAT Racing Diecast Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8392){:target="_blank"} |2024 WBD Diecast Fall Truck Series | |Rockingham Speedway |Wed, August 21 07:30PM EDT |Thu, August 22 12:30AM BST |Thu, August 22 09:30AM AEST |
 |[Squirrel League](https://members.iracing.com/membersite/member/LeagueView.do?league=9676){:target="_blank"} |2024 \| Season 3 | |Daytona International Speedway |Tue, August 20 08:00PM EDT |Wed, August 21 01:00AM BST |Wed, August 21 10:00AM AEST |
 |[High Lane Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2464){:target="_blank"} |VLE Truck Series | |Daytona International Speedway |Thu, August 15 06:30PM EDT |Thu, August 15 11:30PM BST |Fri, August 16 08:30AM AEST |
@@ -31,11 +38,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[\#0 5150 Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8915){:target="_blank"} |2024 Quarterly 1 |Open |Daytona International Speedway |Fri, August 16 07:30PM EDT |Sat, August 17 12:30AM BST |Sat, August 17 09:30AM AEST |
 |[\#0 Donut Box Historic Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9591){:target="_blank"} |Donut Box Xfinity Series S2 |Open |Kentucky Speedway |Thu, August 15 07:30PM EDT |Fri, August 16 12:30AM BST |Fri, August 16 09:30AM AEST |
-|[\(NSR\) Nortex Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=499){:target="_blank"} |NSR Xfinity Series |Fixed |Chicagoland Speedway |Wed, August 14 09:00PM EDT |Thu, August 15 02:00AM BST |Thu, August 15 11:00AM AEST |
-|[Wednesday Night Dash on StadiumScene\.TV](https://members.iracing.com/membersite/member/LeagueView.do?league=8100){:target="_blank"} |Season 10 \- Xfinity Series |Fixed |Kansas Speedway |Wed, August 14 09:30PM EDT |Thu, August 15 02:30AM BST |Thu, August 15 11:30AM AEST |
 
 # Oval
 
@@ -58,30 +63,6 @@
 |[Smokin Tires Gen 4 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4023){:target="_blank"} |204 League Legends DASH series |Fixed |USA International Speedway |Thu, August 15 07:00PM EDT |Fri, August 16 12:00AM BST |Fri, August 16 09:00AM AEST |
 
 # Open-wheel
-
-### Dallara IR18
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|------------|-----|---------------------------------------|--------------------------|--------------------------|---------------------------|
-|[GoRacing Sim League IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8712){:target="_blank"} |2024 Indycar | |World Wide Technology Raceway (Gateway) |Wed, August 14 07:30PM EDT |Thu, August 15 12:30AM BST |Thu, August 15 09:30AM AEST |
-
-### Dallara iR-01
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|----------------------------|--------------------------|--------------------------|---------------------------|
-|[Solstice Racing League \- Tuesday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9120){:target="_blank"} |Champ Car World Tour \- Season 1 |Fixed |Circuit de Spa-Francorchamps |Wed, August 14 08:00PM EDT |Thu, August 15 01:00AM BST |Thu, August 15 10:00AM AEST |
-
-### FIA F4
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------|--------------------------|--------------------------|---------------------------|
-|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |FIA Game Cup Sala 7 | |Circuito de Navarra |Wed, August 14 08:30PM EDT |Thu, August 15 01:30AM BST |Thu, August 15 10:30AM AEST |
 
 ### Hosted All Cars Class
 
@@ -149,9 +130,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------------------------|-----|--------------------------|--------------------------|--------------------------|---------------------------|
-|[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |2024 Toyota GR86 Fun cup | |Circuito de Navarra |Wed, August 14 01:00PM EDT |Wed, August 14 06:00PM BST |Thu, August 15 03:00AM AEST |
-|[ORNL RallyX](https://members.iracing.com/membersite/member/LeagueView.do?league=5805){:target="_blank"} |ORNL Toyota GR83 Cup |Both |Watkins Glen International |Wed, August 14 02:00PM EDT |Wed, August 14 07:00PM BST |Thu, August 15 04:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-----------------|--------------------------|--------------------------|---------------------------|
+|[ANZ ESeries // VX Rookie Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11365){:target="_blank"} |VX Rookie Series // Motorsport Australia | |Oran Park Raceway |Thu, August 15 04:00AM EDT |Thu, August 15 09:00AM BST |Thu, August 15 06:00PM AEST |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |TANSO GR86 North America | |Sonoma Raceway |Sat, August 17 03:00PM EDT |Sat, August 17 08:00PM BST |Sun, August 18 05:00AM AEST |
 
 # Prototype
@@ -198,9 +178,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|[Campeonato Nacional de Automovilismo Virtual 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11358){:target="_blank"} |CNAV 2024 | |WeatherTech Raceway at Laguna Seca |Sat, August 17 08:00PM EDT |Sun, August 18 01:00AM BST |Sun, August 18 10:00AM AEST |
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |EGT Canada \- LMP3/GT4 Classification | |Circuit Gilles Villeneuve |Thu, August 15 07:00PM EDT |Fri, August 16 12:00AM BST |Fri, August 16 09:00AM AEST |
-|[OGRE GT SERIES By Bong Water](https://members.iracing.com/membersite/member/LeagueView.do?league=11350){:target="_blank"} |OGRE GT SERIES SEASON 1 | |Watkins Glen International |Wed, August 14 08:00PM EDT |Thu, August 15 01:00AM BST |Thu, August 15 10:00AM AEST |
-|[RaceCommunity\.nl \- Seizoen \#1 \- 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=10415){:target="_blank"} |RCNL \- Seizoen \#3 | |Virginia International Raceway |Wed, August 14 01:59PM EDT |Wed, August 14 06:59PM BST |Thu, August 15 03:59AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S3 ZPM NASCAR 7:30P |Open |Daytona International Speedway |Wed, August 21 07:30PM EDT |Thu, August 22 12:30AM BST |Thu, August 22 09:30AM AEST |
 

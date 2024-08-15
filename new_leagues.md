@@ -7,7 +7,7 @@
 |[Asetek SimSport 24HLan](https://members.iracing.com/membersite/member/LeagueView.do?league=11380){:target="_blank"} | | |
 |[ASRA IMSA Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11363){:target="_blank"} |[Discord](https://discord.gg/KcA4fWbwQ9){:target="_blank"} |IMSA league running 60 minute timed races |
 |[BALCA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11338){:target="_blank"} |[Discord](https://discord.gg/balca){:target="_blank"} |A competitive racing league built and managed by the BALCA E\-Sports Racing Team\. Join the discord at the League URL\. New drivers will have to undergo a quick onboarding chat\. We are open to collaborating with other racing teams for the upcoming league season\. |
-|[Banana](https://members.iracing.com/membersite/member/LeagueView.do?league=11333){:target="_blank"} | | |
+|[Blazin' Motorsports Championship Cash League](https://members.iracing.com/membersite/member/LeagueView.do?league=11385){:target="_blank"} | | |
 |[Blue Collar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11375){:target="_blank"} | |Bunch of drunks that like to go left\! |
 |[BMS League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11362){:target="_blank"} |[Discord](https://discord.gg/qnNBrYZRUq){:target="_blank"} |BaXide Motorsports |
 |[Campeonato Nacional de Automovilismo Virtual 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11358){:target="_blank"} | |Campeonato Avalado |
@@ -26,6 +26,7 @@
 |[High Voltage Racing \(GT3\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11371){:target="_blank"} |[Discord](https://discord.gg/FtgVGDmYXS){:target="_blank"} |High Voltage Racing is a new and upcoming iRacing league aiming to aid new racers and create a fun and competitive environment for experienced racers, join the league and register in our discord and we will get you racing as soon as possible\! Have fun, and win some races\! \(This one is for the GT3 races\) |
 |[High Voltage Racing \(NASCAR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11372){:target="_blank"} |[Discord](https://discord.gg/FtgVGDmYXS){:target="_blank"} |High Voltage Racing is a new and upcoming iRacing league aiming to aid new racers and create a fun and competitive environment for experienced racers, join the league and register in our discord and we will get you racing as soon as possible\! Have fun, and win some races\! |
 |[\(IIR\) Indy Internet Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11348){:target="_blank"} | |NASCAR |
+|[Kamikaze Florida Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11386){:target="_blank"} | |Grass Roots Racin' |
 |[League of Ordinary Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=11347){:target="_blank"} | |BUNCH OF NOOBS DRIVIN AROUND |
 |[Legacy Sim Works Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11377){:target="_blank"} |[Discord](https://discord.gg/7gN4ePJMd5){:target="_blank"} |LSW Cup Series Season 1 |
 |[Legend Car Series Beginner Division](https://members.iracing.com/membersite/member/LeagueView.do?league=11344){:target="_blank"} | | |
@@ -36,6 +37,7 @@
 |[MRL \| Tour Mods \- Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11384){:target="_blank"} |[Discord](https://discord.gg/CPuUEsTmyh){:target="_blank"} | |
 |[OGG\- Rookie League \- No Damage](https://members.iracing.com/membersite/member/LeagueView.do?league=11340){:target="_blank"} | |Occasional Gentlemen Gaming |
 |[OGRE GT SERIES By Bong Water](https://members.iracing.com/membersite/member/LeagueView.do?league=11350){:target="_blank"} | |GT3 Series for drivers 50 years and older |
+|[OOOG x SUPERLAP](https://members.iracing.com/membersite/member/LeagueView.do?league=11387){:target="_blank"} | |Private Sim Night for OOOG |
 |[PCG Truck Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11366){:target="_blank"} | |Saturday's @ 8pm EST\. Reach out to cluca6707 on discord for more information |
 |[Pop Smoke Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11352){:target="_blank"} |[Discord](https://discord.gg/tdQr3tBd2z){:target="_blank"} |18\+ ONLY\!\!\! Welcome to Pop Smoke Racing League\. New league slowly building, looking for clean and respectful drivers\. Hang tight while we grow and will start our first season when we reach 15 drivers or more\. Nascar fixed cup series cars to start but will open up more as we go\. Hang out, meet new drivers and even invite your friends\. Discord coming soon\!\!\!\!\! |
 |[Saturday Night Racing League Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11381){:target="_blank"} | |Saturday Night Racing League's Challenger Series is an iRating capped series for drivers below 3500 iRating and is the stepping stone to the Saturday Night Racing League Cup Series presented by M&J Distributors\. |
@@ -48,9 +50,8 @@
 |[Tuesday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=11339){:target="_blank"} |[Discord](https://discord.gg/qsrsimulations){:target="_blank"} |QSR Truck Series |
 |[Virtual Velocity Racing \- Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11337){:target="_blank"} | | |
 |[WizardBenny Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11346){:target="_blank"} | |Have fun make friends |
-|[YESCAR Virtual Racing League \| Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11335){:target="_blank"} | |KeithSaysYes\.com Truck Series |
+|[X\-Golf Rapid City](https://members.iracing.com/membersite/member/LeagueView.do?league=11388){:target="_blank"} | | |
 |[Yohan Lesire Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11373){:target="_blank"} |[Discord](https://discord.gg/Fs2KhZne4p){:target="_blank"} |\. |
 |[Carpool Lane](https://members.iracing.com/membersite/member/LeagueView.do?league=11364){:target="_blank"} | |Slow and safe wins the\.\.\. safety rating? |
-|[Mistakes Were Made](https://members.iracing.com/membersite/member/LeagueView.do?league=11334){:target="_blank"} | | |
 |[Old Pueblo Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11351){:target="_blank"} | | |
 
