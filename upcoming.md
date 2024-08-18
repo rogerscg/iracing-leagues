@@ -20,7 +20,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[League FCD](https://members.iracing.com/membersite/member/LeagueView.do?league=10399){:target="_blank"} |CUP S2 |Fixed |Daytona International Speedway |Fri, August 23 02:30PM EDT |Fri, August 23 07:30PM BST |Sat, August 24 04:30AM AEST |
-|[BOXCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10113){:target="_blank"} |Season 3 |Fixed |Daytona International Speedway |Sat, August 17 07:45PM EDT |Sun, August 18 12:45AM BST |Sun, August 18 09:45AM AEST |
 |[Doghouse Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9994){:target="_blank"} |2024 Season 2 |Open |Indianapolis Motor Speedway |Thu, August 22 07:00PM EDT |Fri, August 23 12:00AM BST |Fri, August 23 09:00AM AEST |
 
 ### NASCAR Legends 1987
@@ -37,10 +36,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-----------------------------------------------|--------------------------|--------------------------|---------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-----------------------------------------------|--------------------------|--------------------------|---------------------------|
 |[CMS Sunday Night Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11327){:target="_blank"} |2024 S1 Sunday Night Truck Series |Open |[Legacy] Michigan International Speedway - 2009 |Sun, August 18 08:45PM EDT |Mon, August 19 01:45AM BST |Mon, August 19 10:45AM AEST |
-|[FASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=9952){:target="_blank"} |2024 PatriotView Truck Series | |Nashville Superspeedway |Sat, August 17 06:00PM EDT |Sat, August 17 11:00PM BST |Sun, August 18 08:00AM AEST |
-|[Saturday Night Racing League Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11381){:target="_blank"} |SNR Challenger Series Season 1 | |Daytona International Speedway |Sat, August 17 07:00PM EDT |Sun, August 18 12:00AM BST |Sun, August 18 09:00AM AEST |
 |[GOAT Racing Diecast Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8392){:target="_blank"} |2024 WBD Diecast Fall Truck Series | |Rockingham Speedway |Wed, August 21 07:30PM EDT |Thu, August 22 12:30AM BST |Thu, August 22 09:30AM AEST |
 |[Squirrel League](https://members.iracing.com/membersite/member/LeagueView.do?league=9676){:target="_blank"} |2024 \| Season 3 | |Daytona International Speedway |Tue, August 20 08:00PM EDT |Wed, August 21 01:00AM BST |Wed, August 21 10:00AM AEST |
 |[HRT2HEART RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HEART2HEART \- Craftsman Trucks \- Season 4 |Fixed |Atlanta Motor Speedway |Sat, August 24 07:00PM EDT |Sun, August 25 12:00AM BST |Sun, August 25 09:00AM AEST |
@@ -64,13 +61,13 @@
 |[\#0 Donut Box Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8942){:target="_blank"} |DBLMS season 5 |Fixed |North Wilkesboro Speedway |Mon, August 19 07:30PM EDT |Tue, August 20 12:30AM BST |Tue, August 20 09:30AM AEST |
 |[HRT2HEART RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |Latemodel Stocks Season 4 |Fixed |Hickory Motor Speedway |Wed, August 21 07:00PM EDT |Thu, August 22 12:00AM BST |Thu, August 22 09:00AM AEST |
 
-### Legends
+### Street Stocks
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------|--------------------------|--------------------------|---------------------------|
-|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends Fall Brawl | |Lanier National Speedway |Sat, August 17 09:30AM EDT |Sat, August 17 02:30PM BST |Sat, August 17 11:30PM AEST |
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|--------------------------|--------------------------|--------------------------|---------------------------|
+|[Kamikaze Florida Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11386){:target="_blank"} |KORF Street Stocks Fall Season 1 |Fixed |USA International Speedway |Sun, August 25 09:00PM EDT |Mon, August 26 02:00AM BST |Mon, August 26 11:00AM AEST |
 
 # Open-wheel
 
@@ -87,16 +84,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
-|[The Motor Racing Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11283){:target="_blank"} |Hosted Race \#4 | |WeatherTech Raceway at Laguna Seca |Sat, August 17 02:00PM EDT |Sat, August 17 07:00PM BST |Sun, August 18 04:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|--------------|--------------------------|--------------------------|---------------------------|
+|[\(iRRL\) iRacersResource\.com League](https://members.iracing.com/membersite/member/LeagueView.do?league=25){:target="_blank"} |RaceDeed’s Rookie Revolution Season 1 |Both |Lime Rock Park |Tue, August 20 08:00PM EDT |Wed, August 21 01:00AM BST |Wed, August 21 10:00AM AEST |
 
-### Super Formula Lights
+### Skip Barber Race Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------|-----|--------------------|--------------------------|--------------------------|---------------------------|
-|[Old Glory Open Wheels](https://members.iracing.com/membersite/member/LeagueView.do?league=9915){:target="_blank"} |2024 part b | |Summit Point Raceway |Sat, August 17 08:00PM EDT |Sun, August 18 01:00AM BST |Sun, August 18 10:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------|-------------------------|-----|--------------------|--------------------------|--------------------------|---------------------------|
+|[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |SKIP BARBER \- Season\#08 |Both |Brands Hatch Circuit |Sun, August 25 01:00PM EDT |Sun, August 25 06:00PM BST |Mon, August 26 03:00AM AEST |
 
 # Sports Car
 
@@ -134,14 +131,6 @@
 |--------------------------------------------------------------------------------------------------------------------|------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC12 |Open |Virginia International Raceway |Mon, August 19 06:45PM EDT |Mon, August 19 11:45PM BST |Tue, August 20 08:45AM AEST |
 
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------------------------|-----|--------------|--------------------------|--------------------------|---------------------------|
-|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |TANSO GR86 North America | |Sonoma Raceway |Sat, August 17 03:00PM EDT |Sat, August 17 08:00PM BST |Sun, August 18 05:00AM AEST |
-
 # Prototype
 
 ### Ligier JS P320
@@ -169,8 +158,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|--------------------------------|--------------------------|--------------------------|---------------------------|
-|[GT3 Under 2k \- VRS Sim Racing Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |RU GT3 Pre\-Q Hockenheim | |Hockenheimring Baden-Württemberg |Sat, August 17 09:00AM EDT |Sat, August 17 02:00PM BST |Sat, August 17 11:00PM AEST |
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|[Formula Champions Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6211){:target="_blank"} |Formula Champions GT3 Season 4 Autumn 2024 |Open |Autodromo Nazionale Monza |Thu, August 22 03:00PM EDT |Thu, August 22 08:00PM BST |Fri, August 23 05:00AM AEST |
 
 ### Hosted All Cars Class
 

@@ -73,7 +73,7 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Pro 2024/3 |South America |33 |3056 | |Virginia International Raceway |Mon, August 19 07:25PM EDT |Tue, August 20 12:25AM BST |Tue, August 20 09:25AM AEST |
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |Production Cup 2024/3 |South America |28 |1784 | |Virginia International Raceway |Mon, August 19 05:25PM EDT |Mon, August 19 10:25PM BST |Tue, August 20 07:25AM AEST |
-|[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT MAZDA CUP Season 14 |South America |28 |2181 |Fixed | | | | |
+|[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT MAZDA CUP Season 14 |South America |26 |2227 |Fixed | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Mundo Agro Virtual Mazda MX\-5 Cup |South America |25 |2272 |Fixed |Okayama International Circuit |Thu, August 22 06:00PM EDT |Thu, August 22 11:00PM BST |Fri, August 23 08:00AM AEST |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Prata \- Mundo Agro Virtual Mazda MX\-5 Cup |South America |22 |1220 |Fixed |Okayama International Circuit |Thu, August 22 07:30PM EDT |Fri, August 23 12:30AM BST |Fri, August 23 09:30AM AEST |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MAZDA MX\-5 CUP |South America |21 |2452 | | | | | |
@@ -104,7 +104,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |For Gretta |South America |15 |1554 | | | | | |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |For Gretta |South America |15 |1563 | | | | | |
 
 # Prototype
 
@@ -145,6 +145,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------------------|--------------------------|--------------------------|---------------------------|
+|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |Seletiva E\-Stock 2024 |South America |86 |None | |Circuito de Navarra |Sun, August 18 10:00AM EDT |Sun, August 18 03:00PM BST |Mon, August 19 12:00AM AEST |
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |PRO \- E\-Stock 2024 S1 |South America |40 |4650 | |Autódromo José Carlos Pace |Sun, August 18 10:30AM EDT |Sun, August 18 03:30PM BST |Mon, August 19 12:30AM AEST |
 |[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |PRO\-AM \- E\-Stock 2024 S1 |South America |37 |2494 | | | | | |
 

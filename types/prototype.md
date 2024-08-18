@@ -44,7 +44,7 @@
 |----------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|------------------------|--------------------------|--------------------------|---------------------------|
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1472 | |Nürburgring Nordschleife |Tue, August 20 07:50PM EDT |Wed, August 21 12:50AM BST |Wed, August 21 09:50AM AEST |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 radical |Australia-NZ |12 |1428 |Fixed | | | | |
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |11 |1142 |Open |Circuit Zandvoort |Tue, August 20 10:00PM EDT |Wed, August 21 03:00AM BST |Wed, August 21 12:00PM AEST |
+|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |11 |1136 |Open |Circuit Zandvoort |Tue, August 20 10:00PM EDT |Wed, August 21 03:00AM BST |Wed, August 21 12:00PM AEST |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup |North America |10 |1192 | | | | | |
 
 ### Spec Racer Ford
