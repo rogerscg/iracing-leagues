@@ -12,7 +12,6 @@
 |[Campeonato Nacional de Automovilismo Virtual 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11358){:target="_blank"} | |Campeonato Avalado |
 |[Canva Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11368){:target="_blank"} | | |
 |[Checkered Flag Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11400){:target="_blank"} | |Grassroots short track racing |
-|[\[DMPC\] \- Late Summer](https://members.iracing.com/membersite/member/LeagueView.do?league=11357){:target="_blank"} | | |
 |[DRS Cylinder Glow Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11374){:target="_blank"} | | |
 |[ELMRA Eastern Late Mpdel Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11392){:target="_blank"} | |Premier Late Model Stock League |
 |[ERACING4MONEY MAZDA MX\-5 \- CBDEL](https://members.iracing.com/membersite/member/LeagueView.do?league=11369){:target="_blank"} | |E\-Racing4Money   Campeonato com Premiação Total de até R$ 8\.000,00, por Categoria\!   Categorias \- MAZDA MX\-5   Prêmios em dinheiro de até:   \* R$ 100,00 \- P3;  \* R$ 150,00 \- P2;  \* R$ 200,00 \- P1\.   Campeão do Campeonato   \* Até R$ 1\.875,00\.   Transmissão ao vivo no canal do YouTube  NEONBRASILTV  https://youtube\.com/@neonbrasiltv?si\=UMr4H8t9fcBoOMR2 |
@@ -24,27 +23,28 @@
 |[High Voltage Racing \(NASCAR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11372){:target="_blank"} |[Discord](https://discord.gg/FtgVGDmYXS){:target="_blank"} |High Voltage Racing is a new and upcoming iRacing league aiming to aid new racers and create a fun and competitive environment for experienced racers, join the league and register in our discord and we will get you racing as soon as possible\! Have fun, and win some races\! |
 |[Kamikaze Florida Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11386){:target="_blank"} |[Discord](https://discord.gg/tRN6jQHqam){:target="_blank"} |Grass Roots Racin' |
 |[Legacy Sim Works Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11377){:target="_blank"} |[Discord](https://discord.gg/7gN4ePJMd5){:target="_blank"} |LSW Cup Series Season 1 |
+|[Legends of Stock Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11405){:target="_blank"} |[Discord](https://discord.gg/xHevegq9){:target="_blank"} |Welcome to the COT Legends of Stock Car Racing league\! Have fun, be respectful and race hard\! |
 |[Mazda MX\-5 speed tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11394){:target="_blank"} | |MX\-5's at high speed road courses along with some ovals\. BEGGINER FRIENDLY\. |
 |[Midget Money Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11378){:target="_blank"} | |3 Weekly Races, 8 Week Points Championship |
 |[Monday Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=11359){:target="_blank"} | |Bi\-Weekly 3 races in one night series\. Fixed Setup 358 Modifieds on Dirt Ovals\. |
 |[MRL \| American Short Trackers \- Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11382){:target="_blank"} |[Discord](https://discord.gg/CPuUEsTmyh){:target="_blank"} | |
-|[MRL \| Street Stocks \- Season 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11383){:target="_blank"} |[Discord](https://discord.gg/CPuUEsTmyh){:target="_blank"} | |
 |[MRL \| Tour Mods \- Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11384){:target="_blank"} |[Discord](https://discord.gg/CPuUEsTmyh){:target="_blank"} | |
+|[MRL \| Street Stocks \- Season 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11383){:target="_blank"} |[Discord](https://discord.gg/CPuUEsTmyh){:target="_blank"} | |
 |[OOOG x SUPERLAP](https://members.iracing.com/membersite/member/LeagueView.do?league=11387){:target="_blank"} | |Private Sim Night for OOOG |
 |[PCG Truck Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11366){:target="_blank"} | |Saturday's @ 8pm EST\. Reach out to cluca6707 on discord for more information |
+|[Radical Motorsport Racing Mexico](https://members.iracing.com/membersite/member/LeagueView.do?league=11403){:target="_blank"} | |Radical Motorsport Enthusiasts |
 |[Rat Fink Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11397){:target="_blank"} | |Old School Team |
 |[Remnant Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11395){:target="_blank"} | |Remnants of WoO turned iRacing on Dirt |
 |[Ross and Chris' League](https://members.iracing.com/membersite/member/LeagueView.do?league=11391){:target="_blank"} | | |
 |[Saturday Night Racing League Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11381){:target="_blank"} | |Saturday Night Racing League's Challenger Series is an iRating capped series for drivers below 3500 iRating and is the stepping stone to the Saturday Night Racing League Cup Series presented by M&J Distributors\. |
 |[Sidewider Racing League Legends Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11401){:target="_blank"} | |SRL Legends Series hosted on Sunday evenings at 7pm ET\. Please check out our Discord to apply to the league |
-|[Silly Sundays by NCR](https://members.iracing.com/membersite/member/LeagueView.do?league=11356){:target="_blank"} |[Discord](https://discord.gg/SRJSTXwh){:target="_blank"} |Recruiting Clean Racers |
-|[SKRR Squad & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=11398){:target="_blank"} | |Welcome to the SKRR Squad and Friends league here we race for fun a bit serious and competitive but we don't try hard, just have some fun |
+|[SKRR Squad & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=11398){:target="_blank"} |[Discord](https://discord.gg/mEwBf8xVDS){:target="_blank"} |Welcome to the SKRR Squad and Friends league here we race for fun a bit serious and competitive but we don't try hard, just have some fun |
 |[Smack Talk Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11370){:target="_blank"} | |Tuesday Night Fun |
 |[Stinger Racing Association \- Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11360){:target="_blank"} | |Super Speedways, Xfinity, Gen 4 Cup, Trucks |
-|[Street Gang League](https://members.iracing.com/membersite/member/LeagueView.do?league=11354){:target="_blank"} | |Street Stocks, open set ups |
-|[TAG Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11355){:target="_blank"} | | |
 |[Team Philippines](https://members.iracing.com/membersite/member/LeagueView.do?league=11396){:target="_blank"} | | |
+|[US Pro Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=11402){:target="_blank"} | |Open set up Legends |
 |[Virtual Racing Aotearoa \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11389){:target="_blank"} | | |
+|[Virtual Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=11404){:target="_blank"} | | |
 |[X\-Golf Rapid City](https://members.iracing.com/membersite/member/LeagueView.do?league=11388){:target="_blank"} | | |
 |[Yohan Lesire Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11373){:target="_blank"} |[Discord](https://discord.gg/Fs2KhZne4p){:target="_blank"} |\. |
 |[Carpool Lane](https://members.iracing.com/membersite/member/LeagueView.do?league=11364){:target="_blank"} | |Slow and safe wins the\.\.\. safety rating? |

@@ -36,19 +36,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-----------------------------------------------|--------------------------|--------------------------|---------------------------|
-|[CMS Sunday Night Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11327){:target="_blank"} |2024 S1 Sunday Night Truck Series |Open |[Legacy] Michigan International Speedway - 2009 |Sun, August 18 08:45PM EDT |Mon, August 19 01:45AM BST |Mon, August 19 10:45AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[HRT2HEART RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HEART2HEART \- Craftsman Trucks \- Season 4 |Fixed |Atlanta Motor Speedway |Sat, August 24 07:00PM EDT |Sun, August 25 12:00AM BST |Sun, August 25 09:00AM AEST |
 |[GOAT Racing Diecast Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8392){:target="_blank"} |2024 WBD Diecast Fall Truck Series | |Rockingham Speedway |Wed, August 21 07:30PM EDT |Thu, August 22 12:30AM BST |Thu, August 22 09:30AM AEST |
 |[Squirrel League](https://members.iracing.com/membersite/member/LeagueView.do?league=9676){:target="_blank"} |2024 \| Season 3 | |Daytona International Speedway |Tue, August 20 08:00PM EDT |Wed, August 21 01:00AM BST |Wed, August 21 10:00AM AEST |
-|[HRT2HEART RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HEART2HEART \- Craftsman Trucks \- Season 4 |Fixed |Atlanta Motor Speedway |Sat, August 24 07:00PM EDT |Sun, August 25 12:00AM BST |Sun, August 25 09:00AM AEST |
 
 ### XFINITY Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[STRICTLY STREET STOCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5491){:target="_blank"} |PSRC Xfinity Series Season \#2 2024 |Open |Daytona International Speedway |Tue, August 20 08:00PM EDT |Wed, August 21 01:00AM BST |Wed, August 21 10:00AM AEST |
+|[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |NASCAR xfinity S1\-24/25 | |Auto Club Speedway |Mon, August 26 01:00PM EDT |Mon, August 26 06:00PM BST |Tue, August 27 03:00AM AEST |
 
 # Oval
 
@@ -77,7 +77,16 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|[Good Egg Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11084){:target="_blank"} |Formula Step\-up | |Summit Point Raceway |Sun, August 25 09:00PM EDT |Mon, August 26 02:00AM BST |Mon, August 26 11:00AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S3 ZPM Open Wheel |Open |Autodromo Nazionale Monza |Wed, August 21 08:30PM EDT |Thu, August 22 01:30AM BST |Thu, August 22 10:30AM AEST |
+
+### Mercedes-AMG W12 E Performance
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------------|--------------------------|--------------------------|---------------------------|
+|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Grand Prix Series Season 4 | |Circuit de Spa-Francorchamps |Mon, August 19 08:00PM EDT |Tue, August 20 01:00AM BST |Tue, August 20 10:00AM AEST |
 
 ### Ray FF1600
 
@@ -94,6 +103,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|-------------------------|-----|--------------------|--------------------------|--------------------------|---------------------------|
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |SKIP BARBER \- Season\#08 |Both |Brands Hatch Circuit |Sun, August 25 01:00PM EDT |Sun, August 25 06:00PM BST |Mon, August 26 03:00AM AEST |
+
+### Super Formula Lights
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|------------|-----|------------|--------------------------|--------------------------|---------------------------|
+|[SKRR Squad & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=11398){:target="_blank"} |SFL season 1 | |Road Atlanta |Sat, August 24 04:30PM EDT |Sat, August 24 09:30PM BST |Sun, August 25 06:30AM AEST |
 
 # Sports Car
 
@@ -114,14 +131,23 @@
 |-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|-----|-----------------------|--------------------------|--------------------------|---------------------------|
 |[FSS eSports iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8845){:target="_blank"} |2024 Spec Miata Season 3 \- 8/20/24 TO 10/22/24 \(10 Weeks\) |Both |Barber Motorsports Park |Tue, August 20 07:00PM EDT |Wed, August 21 12:00AM BST |Wed, August 21 09:00AM AEST |
 
+### Mazda MX-5 Cup 2016
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|--------------|-----|--------------|--------------------------|--------------------------|---------------------------|
+|[UNOH iRacing eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=8038){:target="_blank"} |MX\-5 Monday's |Fixed |Lime Rock Park |Mon, August 26 08:00PM EDT |Tue, August 27 01:00AM BST |Tue, August 27 10:00AM AEST |
+
 ### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------------|-----|-----------------------|--------------------------|--------------------------|---------------------------|
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[ADAC SimRacing Junior Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7760){:target="_blank"} |Saison 2024 | |Sachsenring |Tue, August 20 12:00PM EDT |Tue, August 20 05:00PM BST |Wed, August 21 02:00AM AEST |
 |[GM PDT Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6251){:target="_blank"} |Porsche Cup \- Gm PDT | |Barber Motorsports Park |Tue, August 20 07:30PM EDT |Wed, August 21 12:30AM BST |Wed, August 21 09:30AM AEST |
+|[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |2024 Porsche Carrera Cup Season 3 | |Circuit de Barcelona Catalunya |Mon, August 26 04:00AM EDT |Mon, August 26 09:00AM BST |Mon, August 26 06:00PM AEST |
 
 ### Touring Car
 
@@ -143,13 +169,13 @@
 
 # Dirt Oval
 
-### Dirt SprintCar - 305
+### Dirt Outlaw Micro Sprint Car - Winged
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------------------|--------------------------|--------------------------|---------------------------|
-|[Midwest Micro Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10858){:target="_blank"} |Midwest 305 Sprint Car Series |Fixed |Federated Auto Parts Raceway at I-55 |Sun, August 18 08:00PM EDT |Mon, August 19 01:00AM BST |Mon, August 19 10:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|------------------------------------|--------------------------|--------------------------|---------------------------|
+|[OAS IRACING DIRT LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10680){:target="_blank"} |OAS IRACING AUSTRALIAN FORMULA 500 TITLE | |Federated Auto Parts Raceway at I-55 |Mon, August 26 06:30AM EDT |Mon, August 26 11:30AM BST |Mon, August 26 08:30PM AEST |
 
 # Multi-class/Unclassified
 

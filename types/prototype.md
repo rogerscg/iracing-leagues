@@ -22,7 +22,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Motorsport UK Esports Silverstone 300](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2024 Abruzzi Prototype Challenge |Europe |43 |2375 | |Daytona International Speedway |Mon, August 19 01:00PM EDT |Mon, August 19 06:00PM BST |Tue, August 20 03:00AM AEST |
-|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |13 |2210 |Open | | | | |
+|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |13 |2176 |Open | | | | |
 
 ### Radical SR10
 
@@ -31,8 +31,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Sharky's Radical Thursday's |North America |36 |1168 |Fixed |Sebring International Raceway |Thu, August 22 08:00PM EDT |Fri, August 23 01:00AM BST |Fri, August 23 10:00AM AEST |
-|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3372 | |Phillip Island Circuit |Sun, August 18 02:10PM EDT |Sun, August 18 07:10PM BST |Mon, August 19 04:10AM AEST |
-|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |19 |2434 | |Phillip Island Circuit |Sun, August 18 07:30PM EDT |Mon, August 19 12:30AM BST |Mon, August 19 09:30AM AEST |
+|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3506 | | | | | |
+|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |20 |2447 | | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |19 |3133 |Open |Sebring International Raceway |Thu, August 22 02:15PM EDT |Thu, August 22 07:15PM BST |Fri, August 23 04:15AM AEST |
 |[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |Season 1 \- Beta |North America |14 |2410 | | | | | |
 
@@ -52,6 +52,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|--------------------|--------------------------|--------------------------|---------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024S3 |North America |60 |3052 |Open |Nürburgring Combined |Sun, August 18 02:40PM EDT |Sun, August 18 07:40PM BST |Mon, August 19 04:40AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-------------------|--------------------------|--------------------------|---------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |SRF WW 2024S3 |North America |62 |3073 |Open |Circuito de Navarra |Sun, August 25 02:40PM EDT |Sun, August 25 07:40PM BST |Mon, August 26 04:40AM AEST |
 
