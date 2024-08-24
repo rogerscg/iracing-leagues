@@ -28,7 +28,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[GLR NEXT GEN SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=6838){:target="_blank"} |Cruisin Classics Next Gen Season 6 | |Talladega Superspeedway |Wed, August 28 07:00PM EDT |Thu, August 29 12:00AM BST |Thu, August 29 09:00AM AEST |
-|[League FCD](https://members.iracing.com/membersite/member/LeagueView.do?league=10399){:target="_blank"} |CUP S2 |Fixed |Daytona International Speedway |Fri, August 23 02:30PM EDT |Fri, August 23 07:30PM BST |Sat, August 24 04:30AM AEST |
 |[ROAR CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=10081){:target="_blank"} |NEXT GEN CUP |Fixed |Daytona International Speedway |Wed, August 28 07:40PM EDT |Thu, August 29 12:40AM BST |Thu, August 29 09:40AM AEST |
 |[TDR Sunday Night Next Gen](https://members.iracing.com/membersite/member/LeagueView.do?league=9478){:target="_blank"} |TDR Next Gen Series 3 w/playoff's | |Kansas Speedway |Sat, August 24 07:30PM EDT |Sun, August 25 12:30AM BST |Sun, August 25 09:30AM AEST |
 
@@ -90,13 +89,13 @@
 |---------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |Open wheel weekends | |Michigan International Speedway |Sat, August 24 05:00PM EDT |Sat, August 24 10:00PM BST |Sun, August 25 07:00AM AEST |
 
-### Dallara IR18
+### FIA F4
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |IR18 Season 2 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, August 27 05:30AM EDT |Tue, August 27 10:30AM BST |Tue, August 27 07:30PM AEST |
+|------------------------------------------------------------------------------------------------------------|--------------------------|-----|-------------------|--------------------------|-----------------------------|------------------------------|
+|[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11418){:target="_blank"} |F4 Grand Tour Championship | |Circuito de Navarra |Sat, August 31 07:30PM EDT |Sun, September 01 12:30AM BST |Sun, September 01 09:30AM AEST |
 
 ### Hosted All Cars Class
 
