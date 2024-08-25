@@ -12,11 +12,14 @@
 |[CTD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11415){:target="_blank"} | |Discover the adrenaline\-fueled world of the CTD Racing League\. We are dedicated to promoting virtual racing excellence, showcasing league points, and providing a platform to engage with fellow racing enthusiasts\. Join us today and experience the thrill of competitive online racing\. |
 |[DRS Cylinder Glow Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11374){:target="_blank"} | | |
 |[ELMRA Eastern Late Mpdel Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11392){:target="_blank"} | |Premier Late Model Stock League |
+|[Ferrari 296 GT3 \- Liga Hispana](https://members.iracing.com/membersite/member/LeagueView.do?league=11431){:target="_blank"} | | |
+|[Fia Game CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11428){:target="_blank"} | |Evento Oficial |
 |[FNR Racing F4 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11379){:target="_blank"} |[Discord](https://discord.gg/3dpv9BtBDt){:target="_blank"} |Polska liga F4 |
 |[Friday Night Thunder Presented by Freedom Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11417){:target="_blank"} | | |
 |[GLR Sunday Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11390){:target="_blank"} | |Sunday Trucks |
 |[Hard Luck Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11376){:target="_blank"} | |Open set pro lates |
 |[Hiso\-Yuuki Formula eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11416){:target="_blank"} |[Discord](https://discord.gg/8CStQgs5w7){:target="_blank"} |Hiso\-Yuuki Gaming Team presents "Hiso\-Yuuki Formula eSports" |
+|[Indy One Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11430){:target="_blank"} |[Discord](https://discord.gg/8VU7Dx4U){:target="_blank"} |Hello we are a competitive but fun IndyCar League, We will race on Tuesday nights with sessions opening at 6pm Eastern\. |
 |[Kamikaze Florida Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11386){:target="_blank"} |[Discord](https://discord.gg/tRN6jQHqam){:target="_blank"} |Grass Roots Racin' |
 |[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} | |Pro4 Asphalt Oval |
 |[Legacy Sim Works Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11377){:target="_blank"} |[Discord](https://discord.gg/7gN4ePJMd5){:target="_blank"} |LSW Cup Series Season 1 |
@@ -28,6 +31,7 @@
 |[MRL \| Street Stocks \- Season 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11383){:target="_blank"} |[Discord](https://discord.gg/CPuUEsTmyh){:target="_blank"} | |
 |[Never Nothing Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11423){:target="_blank"} | |Practicing / Try Outs |
 |[NiShiKeN's test](https://members.iracing.com/membersite/member/LeagueView.do?league=11410){:target="_blank"} | | |
+|[NZEHL \- NZ Esports HyperFibre League](https://members.iracing.com/membersite/member/LeagueView.do?league=11427){:target="_blank"} | |2024 NZEHL NZ Esports HyperFibre League |
 |[OMSRA \- Online Mini Stock Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11425){:target="_blank"} | |Mini Stocks \- Short Pavement Ovals \(1/2 mile and smaller\) \- Local Feel \- Track conditions will mimic other classes racing through\-out the night on the track\. |
 |[Onsdags spiller](https://members.iracing.com/membersite/member/LeagueView.do?league=11411){:target="_blank"} | | |
 |[OOOG x SUPERLAP](https://members.iracing.com/membersite/member/LeagueView.do?league=11387){:target="_blank"} | |Private Sim Night for OOOG |
@@ -43,6 +47,7 @@
 |[SINDY](https://members.iracing.com/membersite/member/LeagueView.do?league=11406){:target="_blank"} | |SIMRGEN has initiated and organized this league, SINDY creates a platform for Hoosier SIM racers to compete and shine globally in the race capital of the world\! |
 |[SKRR Squad & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=11398){:target="_blank"} |[Discord](https://discord.gg/mEwBf8xVDS){:target="_blank"} |Welcome to the SKRR Squad and Friends league here we race for fun a bit serious and competitive but we don't try hard, just have some fun |
 |[Sonic Truck series](https://members.iracing.com/membersite/member/LeagueView.do?league=11394){:target="_blank"} | |Nascar trucks\. BEGGINER FRIENDLY\. |
+|[Speedway Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11432){:target="_blank"} | |Fixed Setup XFINITY \| Brought to you by Juiced Racing & P1 Racing |
 |[Team Philippines](https://members.iracing.com/membersite/member/LeagueView.do?league=11396){:target="_blank"} | | |
 |[US Pro Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=11402){:target="_blank"} | |Open set up Legends |
 |[Virtual Racing Aotearoa \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11389){:target="_blank"} | | |
@@ -50,9 +55,9 @@
 |[WFR\#9](https://members.iracing.com/membersite/member/LeagueView.do?league=11409){:target="_blank"} | |Will Franklin Racing |
 |[X\-Golf Rapid City](https://members.iracing.com/membersite/member/LeagueView.do?league=11388){:target="_blank"} | | |
 |[XIR](https://members.iracing.com/membersite/member/LeagueView.do?league=11424){:target="_blank"} | | |
-|[Yohan Lesire Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11373){:target="_blank"} |[Discord](https://discord.gg/Fs2KhZne4p){:target="_blank"} |\. |
 |[RaceVLR](https://members.iracing.com/membersite/member/LeagueView.do?league=11407){:target="_blank"} | | |
 |[Busters Corner](https://members.iracing.com/membersite/member/LeagueView.do?league=11413){:target="_blank"} | |Sponsors Only |
+|[CAS \- MEMBER CREATED SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11429){:target="_blank"} | |Von den Mitgliedern der CAS\- iRacing Community erstellte Serien\. |
 |[NFS Latemodels](https://members.iracing.com/membersite/member/LeagueView.do?league=11393){:target="_blank"} | |NFS |
 |[Slick Racing Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=11399){:target="_blank"} | | |
 

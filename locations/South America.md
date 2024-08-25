@@ -17,7 +17,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T3 |South America |29 |2696 | | | | | |
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024\-T3 |South America |29 |2690 | | | | | |
 
 # Open-wheel
 
@@ -35,7 +35,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------|-------|----|-----|------------------------|--------------------------|--------------------------|---------------------------|
-|[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge \- 24S2 |South America |48 |2742 | | | | | |
+|[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge \- 24S2 |South America |41 |2797 | | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Dr\. Norberto Martins IR18 Rookie Challenge \- 2024/T3 |South America |23 |1549 |Fixed |Charlotte Motor Speedway |Mon, August 26 05:30PM EDT |Mon, August 26 10:30PM BST |Tue, August 27 07:30AM AEST |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA Fórmula Indy \- Temporada 2 |South America |13 |2550 | | | | | |
 
@@ -72,8 +72,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Pro 2024/3 |South America |33 |3150 | | | | | |
-|[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT MAZDA CUP Season 14 |South America |26 |2227 |Fixed | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Mundo Agro Virtual Mazda MX\-5 Cup |South America |25 |2306 |Fixed | | | | |
+|[TNT Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9654){:target="_blank"} |TNT MAZDA CUP Season 14 |South America |25 |2251 |Fixed | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Prata \- Mundo Agro Virtual Mazda MX\-5 Cup |South America |22 |1214 |Fixed | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MAZDA MX\-5 CUP |South America |21 |2452 | |Okayama International Circuit |Mon, August 26 05:30PM EDT |Mon, August 26 10:30PM BST |Tue, August 27 07:30AM AEST |
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |Production Cup 2024/3 |South America |21 |1781 | | | | | |
@@ -97,14 +97,6 @@
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/3 |South America |34 |2143 | |Mount Panorama Circuit |Mon, August 26 05:25PM EDT |Mon, August 26 10:25PM BST |Tue, August 27 07:25AM AEST |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Prata \- EJ Construções Toyota GR86 Cup 2024/T3 |South America |23 |1343 |Fixed | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Toyota GR86 Cup 2024/T3 |South America |19 |2301 |Fixed |WeatherTech Raceway at Laguna Seca |Thu, August 29 06:00PM EDT |Thu, August 29 11:00PM BST |Fri, August 30 08:00AM AEST |
-
-### VW Jetta TDI Cup
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |For Gretta |South America |15 |1563 | | | | | |
 
 # Prototype
 
@@ -145,7 +137,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------------|--------------------------|--------------------------|---------------------------|
-|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |Seletiva E\-Stock 2024 |South America |153 |None | |Circuito de Navarra |Sat, August 24 10:00AM EDT |Sat, August 24 03:00PM BST |Sun, August 25 12:00AM AEST |
+|[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |Seletiva E\-Stock 2024 |South America |160 |None | |Circuito de Navarra |Sun, August 25 10:00AM EDT |Sun, August 25 03:00PM BST |Mon, August 26 12:00AM AEST |
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |PRO \- E\-Stock 2024 S1 |South America |33 |4778 | | | | | |
 |[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |PRO\-AM \- E\-Stock 2024 S1 |South America |29 |2552 | | | | | |
 

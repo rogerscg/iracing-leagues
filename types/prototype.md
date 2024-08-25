@@ -40,7 +40,7 @@
 |--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|------------------------|--------------------------|--------------------------|---------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Sharky's Radical Thursday's |North America |36 |1167 |Fixed |Nürburgring Nordschleife |Thu, August 29 08:00PM EDT |Fri, August 30 01:00AM BST |Fri, August 30 10:00AM AEST |
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3593 | | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |19 |3176 |Open | | | | |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |19 |3176 |Open |Hungaroring |Thu, August 29 02:15PM EDT |Thu, August 29 07:15PM BST |Fri, August 30 04:15AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |18 |2402 | | | | | |
 |[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |Season 1 \- Beta |North America |14 |2544 | |Circuit Zolder |Mon, August 26 09:00PM EDT |Tue, August 27 02:00AM BST |Tue, August 27 11:00AM AEST |
 
@@ -49,11 +49,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-------------------|--------------------------|--------------------------|---------------------------|
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-------------------|--------------------------|--------------------------|---------------------------|
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1472 | | | | | |
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 radical |Australia-NZ |13 |1391 |Fixed | | | | |
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |11 |1129 |Open |Silverstone Circuit |Tue, August 27 10:00PM EDT |Wed, August 28 03:00AM BST |Wed, August 28 12:00PM AEST |
-|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup |North America |10 |1176 | | | | | |
+|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 1 \- Radical SR8 |North America |10 |1102 |Open |Silverstone Circuit |Tue, August 27 10:00PM EDT |Wed, August 28 03:00AM BST |Wed, August 28 12:00PM AEST |
 
 ### Spec Racer Ford
 

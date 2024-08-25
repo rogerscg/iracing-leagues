@@ -13,7 +13,7 @@
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK VIII \- 2024 |North America |13 |1785 |Fixed | | | | |
 |[Extreme Forces TRUCK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7933){:target="_blank"} |Season 3 |North America |12 |1540 | |Daytona Rallycross and Dirt Road |Mon, August 26 08:00PM EDT |Tue, August 27 01:00AM BST |Tue, August 27 10:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2024 |North America |10 |2154 |Fixed | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK RX \- 2024 |North America |10 |2274 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK RX \- 2024 |North America |10 |2586 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX Light Truck \- 2024 |North America |10 |2060 |Fixed | | | | |
 
 ### Pro 2 Truck

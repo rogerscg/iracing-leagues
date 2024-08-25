@@ -11,5 +11,5 @@
 |--------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|--------------------------------------------|--------------------------|--------------------------|---------------------------|
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 15 \- Am FIA F4 |International |23 |1302 | |Autodromo Internazionale Enzo e Dino Ferrari |Mon, August 26 12:30PM EDT |Mon, August 26 05:30PM BST |Tue, August 27 02:30AM AEST |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season 15 \- PRO FIA F4 |International |21 |2271 | |Autodromo Internazionale Enzo e Dino Ferrari |Mon, August 26 01:30PM EDT |Mon, August 26 06:30PM BST |Tue, August 27 03:30AM AEST |
-|[NOUS Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11152){:target="_blank"} |F4 Paraguay Series |International |15 |1572 |Fixed | | | | |
+|[NOUS Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11152){:target="_blank"} |F4 Paraguay Series |International |12 |1625 |Fixed | | | | |
 
