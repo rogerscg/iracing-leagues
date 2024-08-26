@@ -1,28 +1,29 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|[RaceVLR](https://members.iracing.com/membersite/member/LeagueView.do?league=11407){:target="_blank"} | | |
 |[2024 Spring Fling Group 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11419){:target="_blank"} | |www\.racevlr\.com |
 |[Affinity Racing GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11426){:target="_blank"} | |Affinity Racing Series is a collaboration league of several highly regarded drivers from different leagues that have come together to form one major racing series\. |
+|[All wheel racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11435){:target="_blank"} | | |
+|[Allain's Short Track National Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11436){:target="_blank"} | |Three Testing/Racing Nights |
 |[Asetek SimSport 24HLan](https://members.iracing.com/membersite/member/LeagueView.do?league=11380){:target="_blank"} | | |
 |[Blazin' Motorsports Championship Cash League](https://members.iracing.com/membersite/member/LeagueView.do?league=11385){:target="_blank"} | | |
-|[Blue Collar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11375){:target="_blank"} | |Bunch of drunks that like to go left\! |
 |[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11418){:target="_blank"} |[Discord](https://discord.com/invite/Ajw38BFHEd){:target="_blank"} |BrakeFast Club starts their entry\-level racing league off right with their F4 Grand Tour Championship\. Join us to win $50 iRacing credit\! Entries are completely FREE\! |
 |[Checkered Flag Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11400){:target="_blank"} | |Grassroots short track racing |
 |[CTD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11415){:target="_blank"} | |Discover the adrenaline\-fueled world of the CTD Racing League\. We are dedicated to promoting virtual racing excellence, showcasing league points, and providing a platform to engage with fellow racing enthusiasts\. Join us today and experience the thrill of competitive online racing\. |
-|[DRS Cylinder Glow Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11374){:target="_blank"} | | |
 |[ELMRA Eastern Late Mpdel Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11392){:target="_blank"} | |Premier Late Model Stock League |
-|[Ferrari 296 GT3 \- Liga Hispana](https://members.iracing.com/membersite/member/LeagueView.do?league=11431){:target="_blank"} | | |
 |[Fia Game CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11428){:target="_blank"} | |Evento Oficial |
 |[FNR Racing F4 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11379){:target="_blank"} |[Discord](https://discord.gg/3dpv9BtBDt){:target="_blank"} |Polska liga F4 |
 |[Friday Night Thunder Presented by Freedom Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11417){:target="_blank"} | | |
 |[GLR Sunday Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11390){:target="_blank"} | |Sunday Trucks |
-|[Hard Luck Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11376){:target="_blank"} | |Open set pro lates |
+|[GT Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=11434){:target="_blank"} | |german / english |
+|[Ferrari 296 GT3 \- Liga Hispana](https://members.iracing.com/membersite/member/LeagueView.do?league=11431){:target="_blank"} | |Liga de Carreras GT3 Limpias para pilotos de habla hispana\. |
 |[Hiso\-Yuuki Formula eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11416){:target="_blank"} |[Discord](https://discord.gg/8CStQgs5w7){:target="_blank"} |Hiso\-Yuuki Gaming Team presents "Hiso\-Yuuki Formula eSports" |
 |[Indy One Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11430){:target="_blank"} |[Discord](https://discord.gg/8VU7Dx4U){:target="_blank"} |Hello we are a competitive but fun IndyCar League, We will race on Tuesday nights with sessions opening at 6pm Eastern\. |
+|[International GT Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11433){:target="_blank"} | |Welcome to International GT Championship\.   This is an Australian based league BUT this league is not just for the Aussies its for everyone as we are planning to do what other leagues haven't done and that is sharing the time zones for each race \(AEST, GMT & EST\) to make it even for all competitors time wise\. Every race will start at 8pm Saturday for the time zone that is pick for that event |
 |[Kamikaze Florida Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11386){:target="_blank"} |[Discord](https://discord.gg/tRN6jQHqam){:target="_blank"} |Grass Roots Racin' |
 |[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} | |Pro4 Asphalt Oval |
-|[Legacy Sim Works Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11377){:target="_blank"} |[Discord](https://discord.gg/7gN4ePJMd5){:target="_blank"} |LSW Cup Series Season 1 |
 |[Legends of Stock Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11405){:target="_blank"} |[Discord](https://discord.gg/xHevegq9){:target="_blank"} |Welcome to the COT Legends of Stock Car Racing league\! Have fun, be respectful and race hard\! |
 |[Merica Extreme Dirt and Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=11422){:target="_blank"} |[Discord](https://discord.gg/6rVgYPAChE){:target="_blank"} |We are here to have fun driving with others with no drama\! |
 |[Midget Money Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11378){:target="_blank"} | |3 Weekly Races, 8 Week Points Championship |
@@ -48,6 +49,7 @@
 |[SKRR Squad & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=11398){:target="_blank"} |[Discord](https://discord.gg/mEwBf8xVDS){:target="_blank"} |Welcome to the SKRR Squad and Friends league here we race for fun a bit serious and competitive but we don't try hard, just have some fun |
 |[Sonic Truck series](https://members.iracing.com/membersite/member/LeagueView.do?league=11394){:target="_blank"} | |Nascar trucks\. BEGGINER FRIENDLY\. |
 |[Speedway Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11432){:target="_blank"} | |Fixed Setup XFINITY \| Brought to you by Juiced Racing & P1 Racing |
+|[StreetTrends Motorsport Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11437){:target="_blank"} | |Make it FUN\! |
 |[Team Philippines](https://members.iracing.com/membersite/member/LeagueView.do?league=11396){:target="_blank"} | | |
 |[US Pro Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=11402){:target="_blank"} | |Open set up Legends |
 |[Virtual Racing Aotearoa \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11389){:target="_blank"} | | |
@@ -55,9 +57,9 @@
 |[WFR\#9](https://members.iracing.com/membersite/member/LeagueView.do?league=11409){:target="_blank"} | |Will Franklin Racing |
 |[X\-Golf Rapid City](https://members.iracing.com/membersite/member/LeagueView.do?league=11388){:target="_blank"} | | |
 |[XIR](https://members.iracing.com/membersite/member/LeagueView.do?league=11424){:target="_blank"} | | |
-|[RaceVLR](https://members.iracing.com/membersite/member/LeagueView.do?league=11407){:target="_blank"} | | |
 |[Busters Corner](https://members.iracing.com/membersite/member/LeagueView.do?league=11413){:target="_blank"} | |Sponsors Only |
 |[CAS \- MEMBER CREATED SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11429){:target="_blank"} | |Von den Mitgliedern der CAS\- iRacing Community erstellte Serien\. |
 |[NFS Latemodels](https://members.iracing.com/membersite/member/LeagueView.do?league=11393){:target="_blank"} | |NFS |
 |[Slick Racing Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=11399){:target="_blank"} | | |
+|[Stock Car World Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11438){:target="_blank"} | | |
 
