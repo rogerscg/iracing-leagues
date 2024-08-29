@@ -28,8 +28,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Motorsport UK Esports Silverstone 300](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2024 Abruzzi Prototype Challenge |Europe |47 |2435 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Motorsport UK Esports Silverstone 300](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2024 Abruzzi Prototype Challenge |Europe |47 |2435 | |Suzuka International Racing Course |Mon, September 02 01:00PM EDT |Mon, September 02 06:00PM BST |Tue, September 03 03:00AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S2 Proto\-Mania |North America |12 |2107 |Open | | | | |
 
 ### Ligier JS P320
@@ -37,8 +37,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|-------------------|--------------------------|--------------------------|---------------------------|
-|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Dentistry Conference World Tour |North America |25 |2408 | |Circuito de Navarra |Wed, August 28 09:00PM EDT |Thu, August 29 02:00AM BST |Thu, August 29 11:00AM AEST |
+|-------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
+|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Dentistry Conference World Tour |North America |33 |2434 | |Circuit de Spa-Francorchamps |Wed, September 04 09:00PM EDT |Thu, September 05 02:00AM BST |Thu, September 05 11:00AM AEST |
 
 ### Radical SR10
 
