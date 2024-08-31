@@ -77,6 +77,7 @@
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |Production Cup 2024/3 |South America |21 |1781 | |Summit Point Raceway |Mon, September 02 05:25PM EDT |Mon, September 02 10:25PM BST |Tue, September 03 07:25AM AEST |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Mundo Agro Virtual Mazda MX\-5 Cup |South America |21 |2370 |Fixed |Summit Point Raceway |Thu, September 05 06:00PM EDT |Thu, September 05 11:00PM BST |Fri, September 06 08:00AM AEST |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Prata \- Mundo Agro Virtual Mazda MX\-5 Cup |South America |16 |1213 |Fixed |Summit Point Raceway |Thu, September 05 07:30PM EDT |Fri, September 06 12:30AM BST |Fri, September 06 09:30AM AEST |
+|[Virtual Racing Brasil](https://members.iracing.com/membersite/member/LeagueView.do?league=11284){:target="_blank"} |Virtual Racing Brasil \- MX\-5 Mazda |South America |10 |2108 |Fixed | | | | |
 
 ### Touring Car
 
