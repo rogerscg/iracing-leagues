@@ -19,8 +19,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} |eGP Hypercar Championship \- Season 1 |Europe |21 |2923 | | | | | |
+|------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
+|[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} |eGP Hypercar Championship \- Season 1 |Europe |21 |2923 | |Autodromo Nazionale Monza |Sun, September 01 01:00PM EDT |Sun, September 01 06:00PM BST |Mon, September 02 03:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -44,10 +44,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|--------------------|-----------------------------|-----------------------------|------------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Sharky's Radical Thursday's |North America |33 |1203 |Fixed | | | | |
-|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3593 | | | | | |
-|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |18 |2402 | | | | | |
+|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3593 | |Brands Hatch Circuit |Sun, September 08 02:10PM EDT |Sun, September 08 07:10PM BST |Mon, September 09 04:10AM AEST |
+|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |18 |2402 | |Brands Hatch Circuit |Sun, September 08 07:30PM EDT |Mon, September 09 12:30AM BST |Mon, September 09 09:30AM AEST |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 3 |Europe |17 |3230 |Open | | | | |
 |[FRIEND \| SR10](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |Season 1 \- Beta |North America |14 |2572 | | | | | |
 

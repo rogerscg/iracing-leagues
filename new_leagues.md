@@ -11,7 +11,6 @@
 |[Bakersfield Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=11445){:target="_blank"} | |Late Model Racing |
 |[BMR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11446){:target="_blank"} | | |
 |[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11418){:target="_blank"} |[Discord](https://discord.com/invite/Ajw38BFHEd){:target="_blank"} |BrakeFast Club starts their entry\-level racing league off right with their F4 Grand Tour Championship\. Join us to win $50 iRacing credit\! Entries are completely FREE\! |
-|[Checkered Flag Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11400){:target="_blank"} | |Grassroots short track racing |
 |[CTD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11415){:target="_blank"} | |Discover the adrenaline\-fueled world of the CTD Racing League\. We are dedicated to promoting virtual racing excellence, showcasing league points, and providing a platform to engage with fellow racing enthusiasts\. Join us today and experience the thrill of competitive online racing\. |
 |[FAA Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11448){:target="_blank"} | |Simracing league of Armenia |
 |[Fia Game CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11428){:target="_blank"} | |Evento Oficial |
@@ -39,27 +38,27 @@
 |[RaceVLR](https://members.iracing.com/membersite/member/LeagueView.do?league=11407){:target="_blank"} | |www\.racevlr\.com |
 |[2024 Spring Fling Group 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11419){:target="_blank"} | |www\.racevlr\.com |
 |[Radical Motorsport Racing Mexico](https://members.iracing.com/membersite/member/LeagueView.do?league=11403){:target="_blank"} | |Radical Motorsport Enthusiasts |
-|[Sidewider Racing League Legends Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11401){:target="_blank"} | |SRL Legends Series hosted on Sunday evenings at 7pm ET\. Please check out our Discord to apply to the league |
+|[SCJ Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11458){:target="_blank"} | |Having a crack |
 |[Sim Racers Group Tuesday Rookie](https://members.iracing.com/membersite/member/LeagueView.do?league=11455){:target="_blank"} | |FIA FF1600 Tuesday nights PST |
 |[Sim Racers Group Wednesday Intermediate](https://members.iracing.com/membersite/member/LeagueView.do?league=11451){:target="_blank"} | |FIA F\-4 Wednesday nights PST |
 |[SINDY](https://members.iracing.com/membersite/member/LeagueView.do?league=11406){:target="_blank"} | |SIMRGEN has initiated and organized this league, SINDY creates a platform for Hoosier SIM racers to compete and shine globally in the race capital of the world\! |
-|[SKRR Squad & Friends](https://members.iracing.com/membersite/member/LeagueView.do?league=11398){:target="_blank"} |[Discord](https://discord.gg/mEwBf8xVDS){:target="_blank"} |Welcome to the SKRR Squad and Friends league here we race for fun a bit serious and competitive but we don't try hard, just have some fun |
 |[Southern Ontario Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11442){:target="_blank"} | | |
 |[Speedway Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11432){:target="_blank"} | |Fixed Setup XFINITY \| Brought to you by Juiced Racing & P1 Racing |
 |[RaceVLR](https://members.iracing.com/membersite/member/LeagueView.do?league=11421){:target="_blank"} | | |
 |[StreetTrends Motorsport Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11437){:target="_blank"} | |Make it FUN\! |
+|[Super Truck 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11460){:target="_blank"} | |Pro Truck Road Course League |
 |[Supercharged Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11440){:target="_blank"} |[Discord](https://discord.gg/G3EdAy5yCY){:target="_blank"} |We are a community with ACC and F1 Leagues Moving to iRacing Also |
 |[Team NRS](https://members.iracing.com/membersite/member/LeagueView.do?league=11439){:target="_blank"} | | |
 |[Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=11454){:target="_blank"} | |Test |
-|[US Pro Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=11402){:target="_blank"} | |Open set up Legends |
+|[V2Rtv Sim Center Tournaments](https://members.iracing.com/membersite/member/LeagueView.do?league=11459){:target="_blank"} | |Sim Center Tourney's |
 |[Velocity Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11456){:target="_blank"} |[Discord](https://discord.gg/kSmrTWvzrT){:target="_blank"} |We will be running 10 week seasons for now just trucks and cup series |
 |[Virtual Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=11404){:target="_blank"} | | |
 |[We Know How to Mower](https://members.iracing.com/membersite/member/LeagueView.do?league=11441){:target="_blank"} | |A group of guys that build mowers and try to kill ai in a league |
 |[WFR\#9](https://members.iracing.com/membersite/member/LeagueView.do?league=11409){:target="_blank"} | |Will Franklin Racing |
 |[XIR](https://members.iracing.com/membersite/member/LeagueView.do?league=11424){:target="_blank"} | | |
+|[YETI RACING PRO STREET STOCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11461){:target="_blank"} | | |
 |[Busters Corner](https://members.iracing.com/membersite/member/LeagueView.do?league=11413){:target="_blank"} | |Sponsors Only |
 |[CAS \- MEMBER CREATED SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11429){:target="_blank"} | |Von den Mitgliedern der CAS\- iRacing Community erstellte Serien\. |
-|[Slick Racing Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=11399){:target="_blank"} | | |
 |[Stock Car World Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11438){:target="_blank"} | | |
 |[Tyler's League Test](https://members.iracing.com/membersite/member/LeagueView.do?league=11412){:target="_blank"} | |SRG's FF1600 Rookie League |
 
