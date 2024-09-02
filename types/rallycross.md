@@ -18,6 +18,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[North American Trans\-Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9778){:target="_blank"} |GRL RallyX Season 1 |North America |18 |2204 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
+|[North American Trans\-Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9778){:target="_blank"} |GRL RallyX Season 1 |North America |18 |2204 | |Crandon International Raceway |Sun, September 08 07:58PM EDT |Mon, September 09 12:58AM BST |Mon, September 09 09:58AM AEST |
 
