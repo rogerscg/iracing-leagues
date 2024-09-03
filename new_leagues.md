@@ -6,9 +6,12 @@
 |[358 Super Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11450){:target="_blank"} |[Discord](https://discord.gg/sDKjFvbRaK){:target="_blank"} |Full Schedule 358 Season\. More Details to come soon\! |
 |[Affinity Racing GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11426){:target="_blank"} | |Affinity Racing Series is a collaboration league of several highly regarded drivers from different leagues that have come together to form one major racing series\. |
 |[AJ Performance League](https://members.iracing.com/membersite/member/LeagueView.do?league=11457){:target="_blank"} |[Discord](https://discord.gg/AAsNH5TmYe){:target="_blank"} |https://discord\.gg/AAsNH5TmYe |
+|[ALL STAR STREET STOCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11461){:target="_blank"} | | |
 |[All wheel racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11435){:target="_blank"} | | |
 |[Allain's Short Track National Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11436){:target="_blank"} | |Three Testing/Racing Nights |
+|[Asphalt world chamionship](https://members.iracing.com/membersite/member/LeagueView.do?league=11469){:target="_blank"} | | |
 |[Bakersfield Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=11445){:target="_blank"} | |Late Model Racing |
+|[Barnyard cup series](https://members.iracing.com/membersite/member/LeagueView.do?league=11473){:target="_blank"} | | |
 |[BMR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11446){:target="_blank"} | | |
 |[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11418){:target="_blank"} |[Discord](https://discord.com/invite/Ajw38BFHEd){:target="_blank"} |BrakeFast Club starts their entry\-level racing league off right with their F4 Grand Tour Championship\. Join us to win $50 iRacing credit\! Entries are completely FREE\! |
 |[Chequered Duck](https://members.iracing.com/membersite/member/LeagueView.do?league=11462){:target="_blank"} | |Competitive, Respectable Fun |
@@ -35,30 +38,37 @@
 |[Onsdags spiller](https://members.iracing.com/membersite/member/LeagueView.do?league=11411){:target="_blank"} | | |
 |[ORL IRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11444){:target="_blank"} |[Discord](https://discord.gg/odysseyracingleague){:target="_blank"} |Join us for some casual fun in the Toytoa GR86\! |
 |[Proton Racing Series \- SFL](https://members.iracing.com/membersite/member/LeagueView.do?league=11408){:target="_blank"} | |Super Formula Lights \- 19:00 UTC Sundays |
-|[RaceVLR](https://members.iracing.com/membersite/member/LeagueView.do?league=11407){:target="_blank"} | |www\.racevlr\.com |
 |[2024 Spring Fling Group 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11419){:target="_blank"} | |www\.racevlr\.com |
 |[SCJ Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11458){:target="_blank"} | |Having a crack |
+|[Showtime Pony Stock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11470){:target="_blank"} | | |
 |[Sim Racers Group Tuesday Rookie](https://members.iracing.com/membersite/member/LeagueView.do?league=11455){:target="_blank"} | |FIA FF1600 Tuesday nights PST |
 |[Sim Racers Group Wednesday Intermediate](https://members.iracing.com/membersite/member/LeagueView.do?league=11451){:target="_blank"} | |FIA F\-4 Wednesday nights PST |
-|[SINDY](https://members.iracing.com/membersite/member/LeagueView.do?league=11406){:target="_blank"} | |SIMRGEN has initiated and organized this league, SINDY creates a platform for Hoosier SIM racers to compete and shine globally in the race capital of the world\! |
 |[Southern Ontario Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11442){:target="_blank"} | | |
 |[Speedway Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11432){:target="_blank"} | |Fixed Setup XFINITY \| Brought to you by Juiced Racing & P1 Racing |
 |[RaceVLR](https://members.iracing.com/membersite/member/LeagueView.do?league=11421){:target="_blank"} | | |
 |[StreetTrends Motorsport Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11437){:target="_blank"} | |Make it FUN\! |
+|[Sunday Stang](https://members.iracing.com/membersite/member/LeagueView.do?league=11476){:target="_blank"} | |Sunday Stang |
 |[Super Truck 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11460){:target="_blank"} | |Pro Truck Road Course League |
 |[Supercharged Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11440){:target="_blank"} |[Discord](https://discord.gg/G3EdAy5yCY){:target="_blank"} |We are a community with ACC and F1 Leagues Moving to iRacing Also |
+|[SuperStar ARCA Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11475){:target="_blank"} | |A beginner friendly ARCA league starting soon, we look to innovate on how league racing is ran and how we can continue to improve it moving forward\. We have some great ideas for our 12 race schedule why don't you message us and find out about it from me the owner Samuel Hoff \(Discord:vroomvroom212121\) Feel free to reach out on IRacing or Discord to me |
 |[Team NRS](https://members.iracing.com/membersite/member/LeagueView.do?league=11439){:target="_blank"} | | |
 |[Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=11454){:target="_blank"} | |Test |
+|[The Pelican World Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11465){:target="_blank"} | |Pelicans Only |
 |[tisum cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11464){:target="_blank"} | |Win by any means neccesary |
 |[V2Rtv Sim Center Tournaments](https://members.iracing.com/membersite/member/LeagueView.do?league=11459){:target="_blank"} | |Sim Center Tourney's |
 |[Velocity Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11456){:target="_blank"} |[Discord](https://discord.gg/kSmrTWvzrT){:target="_blank"} |We will be running 10 week seasons for now just trucks and cup series |
 |[We Know How to Mower](https://members.iracing.com/membersite/member/LeagueView.do?league=11441){:target="_blank"} | |A group of guys that build mowers and try to kill ai in a league |
 |[WFR\#9](https://members.iracing.com/membersite/member/LeagueView.do?league=11409){:target="_blank"} | |Will Franklin Racing |
 |[XIR](https://members.iracing.com/membersite/member/LeagueView.do?league=11424){:target="_blank"} | | |
-|[YETI RACING PRO STREET STOCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11461){:target="_blank"} | | |
 |[Busters Corner](https://members.iracing.com/membersite/member/LeagueView.do?league=11413){:target="_blank"} | |Sponsors Only |
 |[CAS \- MEMBER CREATED SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11429){:target="_blank"} | |Von den Mitgliedern der CAS\- iRacing Community erstellte Serien\. |
 |[ICR](https://members.iracing.com/membersite/member/LeagueView.do?league=11463){:target="_blank"} | |Ibrahim Campbell Racing\. Just two fools working towards their dream\. |
 |[Stock Car World Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11438){:target="_blank"} | | |
 |[Tyler's League Test](https://members.iracing.com/membersite/member/LeagueView.do?league=11412){:target="_blank"} | |SRG's FF1600 Rookie League |
+|[Xcelerate Racing League Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=11471){:target="_blank"} | | |
+|[Xcelerate Racing League Monday](https://members.iracing.com/membersite/member/LeagueView.do?league=11467){:target="_blank"} | | |
+|[Xcelerate Racing League Sunday](https://members.iracing.com/membersite/member/LeagueView.do?league=11468){:target="_blank"} | | |
+|[Xcelerate Racing League Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=11472){:target="_blank"} | | |
+|[Xcelerate Racing League Tuesday](https://members.iracing.com/membersite/member/LeagueView.do?league=11466){:target="_blank"} | | |
+|[Xcelerate Racing League Wednesday](https://members.iracing.com/membersite/member/LeagueView.do?league=11474){:target="_blank"} | | |
 
