@@ -7,15 +7,17 @@
 |[Affinity Racing GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11426){:target="_blank"} | |Affinity Racing Series is a collaboration league of several highly regarded drivers from different leagues that have come together to form one major racing series\. |
 |[AJ Performance League](https://members.iracing.com/membersite/member/LeagueView.do?league=11457){:target="_blank"} |[Discord](https://discord.gg/AAsNH5TmYe){:target="_blank"} |https://discord\.gg/AAsNH5TmYe |
 |[ALL STAR STREET STOCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11461){:target="_blank"} | | |
-|[All wheel racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11435){:target="_blank"} | | |
+|[All wheel racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11435){:target="_blank"} | |Racing anything and everything\. |
 |[Allain's Short Track National Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11436){:target="_blank"} | |Three Testing/Racing Nights |
 |[Asphalt world chamionship](https://members.iracing.com/membersite/member/LeagueView.do?league=11469){:target="_blank"} | | |
 |[Bakersfield Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=11445){:target="_blank"} | |Late Model Racing |
 |[Barnyard cup series](https://members.iracing.com/membersite/member/LeagueView.do?league=11473){:target="_blank"} | | |
 |[BMR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11446){:target="_blank"} | | |
 |[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11418){:target="_blank"} |[Discord](https://discord.com/invite/Ajw38BFHEd){:target="_blank"} |BrakeFast Club starts their entry\-level racing league off right with their F4 Grand Tour Championship\. Join us to win $50 iRacing credit\! Entries are completely FREE\! |
+|[Chasing the Delta Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11482){:target="_blank"} | |A coaching league with the goal of getting every driver to that 2k IR milestone\. |
 |[Chequered Duck](https://members.iracing.com/membersite/member/LeagueView.do?league=11462){:target="_blank"} | |Competitive, Respectable Fun |
 |[CTD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11415){:target="_blank"} | |Discover the adrenaline\-fueled world of the CTD Racing League\. We are dedicated to promoting virtual racing excellence, showcasing league points, and providing a platform to engage with fellow racing enthusiasts\. Join us today and experience the thrill of competitive online racing\. |
+|[Eurostock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11477){:target="_blank"} |[Discord](https://discord.gg/qwkCbauHCS){:target="_blank"} |Inspired by EuroNASCAR this is a Late Model series on european tracks\. |
 |[FAA Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11448){:target="_blank"} | |Simracing league of Armenia |
 |[Fia Game CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11428){:target="_blank"} | |Evento Oficial |
 |[Friday Night Thunder Presented by Freedom Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11417){:target="_blank"} | | |
@@ -37,9 +39,9 @@
 |[OMSRA \- Online Mini Stock Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11425){:target="_blank"} | |Mini Stocks \- Short Pavement Ovals \(1/2 mile and smaller\) \- Local Feel \- Track conditions will mimic other classes racing through\-out the night on the track\. |
 |[Onsdags spiller](https://members.iracing.com/membersite/member/LeagueView.do?league=11411){:target="_blank"} | | |
 |[ORL IRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11444){:target="_blank"} |[Discord](https://discord.gg/odysseyracingleague){:target="_blank"} |Join us for some casual fun in the Toytoa GR86\! |
-|[Proton Racing Series \- SFL](https://members.iracing.com/membersite/member/LeagueView.do?league=11408){:target="_blank"} | |Super Formula Lights \- 19:00 UTC Sundays |
 |[2024 Spring Fling Group 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11419){:target="_blank"} | |www\.racevlr\.com |
 |[SCJ Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11458){:target="_blank"} | |Having a crack |
+|[Second Saturday Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=11478){:target="_blank"} |[Discord](https://discord.gg/PTjzhu9V2A){:target="_blank"} |An IMPC style league with GT4 and TCR cars on Saturday evenings\. Two hour races you can run solo or with any number of friends\. All are welcome\. |
 |[Showtime Pony Stock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11470){:target="_blank"} | | |
 |[Sim Racers Group Tuesday Rookie](https://members.iracing.com/membersite/member/LeagueView.do?league=11455){:target="_blank"} | |FIA FF1600 Tuesday nights PST |
 |[Sim Racers Group Wednesday Intermediate](https://members.iracing.com/membersite/member/LeagueView.do?league=11451){:target="_blank"} | |FIA F\-4 Wednesday nights PST |
@@ -54,12 +56,13 @@
 |[Team NRS](https://members.iracing.com/membersite/member/LeagueView.do?league=11439){:target="_blank"} | | |
 |[Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=11454){:target="_blank"} | |Test |
 |[The Pelican World Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11465){:target="_blank"} | |Pelicans Only |
+|[THE STARTERS NASCAR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11481){:target="_blank"} | |The STARTERS NASCAR Cup series is a brand new league for any new/medicore drivers that are looking for some fun\!\! there will be prizes and more for winners throughout the season\. We will race weekly on Thursday nights\. Hope to see you there |
 |[tisum cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11464){:target="_blank"} | |Win by any means neccesary |
 |[V2Rtv Sim Center Tournaments](https://members.iracing.com/membersite/member/LeagueView.do?league=11459){:target="_blank"} | |Sim Center Tourney's |
 |[Velocity Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11456){:target="_blank"} |[Discord](https://discord.gg/kSmrTWvzrT){:target="_blank"} |We will be running 10 week seasons for now just trucks and cup series |
 |[We Know How to Mower](https://members.iracing.com/membersite/member/LeagueView.do?league=11441){:target="_blank"} | |A group of guys that build mowers and try to kill ai in a league |
-|[WFR\#9](https://members.iracing.com/membersite/member/LeagueView.do?league=11409){:target="_blank"} | |Will Franklin Racing |
 |[XIR](https://members.iracing.com/membersite/member/LeagueView.do?league=11424){:target="_blank"} | | |
+|[Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=11480){:target="_blank"} |[Discord](https://discord.gg/3Z9ZtYrjtx){:target="_blank"} | |
 |[Busters Corner](https://members.iracing.com/membersite/member/LeagueView.do?league=11413){:target="_blank"} | |Sponsors Only |
 |[CAS \- MEMBER CREATED SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11429){:target="_blank"} | |Von den Mitgliedern der CAS\- iRacing Community erstellte Serien\. |
 |[ICR](https://members.iracing.com/membersite/member/LeagueView.do?league=11463){:target="_blank"} | |Ibrahim Campbell Racing\. Just two fools working towards their dream\. |
