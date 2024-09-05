@@ -8,10 +8,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024C DFL \- LMP2 |Australia-NZ |56 |2642 |Both |Autódromo José Carlos Pace |Thu, September 05 04:20AM EDT |Thu, September 05 09:20AM BST |Thu, September 05 06:20PM AEST |
 |[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Challenge \#5 Pre\-Qualifying |Europe |17 |5221 |Fixed | | | | |
 |[ARL Clio Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=4757){:target="_blank"} |Racing Unleashed Racer League Challenge |Europe |12 |4310 |Fixed | | | | |
+|[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |High Point Racing LMP2 Season 1  |North America |11 |1050 |Both |Red Bull Ring |Wed, September 11 08:30PM EDT |Thu, September 12 01:30AM BST |Thu, September 12 10:30AM AEST |
 
 ### GTP
 
@@ -19,7 +20,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
-|[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} |eGP Hypercar Championship \- Season 1 |Europe |24 |2945 | |Watkins Glen International |Wed, September 04 01:00PM EDT |Wed, September 04 06:00PM BST |Thu, September 05 03:00AM AEST |
+|[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} |eGP Hypercar Championship \- Season 1 |Europe |24 |2945 | |Watkins Glen International |Sun, September 08 01:00PM EDT |Sun, September 08 06:00PM BST |Mon, September 09 03:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -35,8 +36,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Dentistry Conference World Tour |North America |33 |2434 | |Circuit de Spa-Francorchamps |Wed, September 04 09:00PM EDT |Thu, September 05 02:00AM BST |Thu, September 05 11:00AM AEST |
+|-------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|----------------|-----------------------------|-----------------------------|------------------------------|
+|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Dentistry Conference World Tour |North America |43 |2433 | |MotorLand Aragón |Wed, September 11 09:00PM EDT |Thu, September 12 02:00AM BST |Thu, September 12 11:00AM AEST |
 
 ### Radical SR10
 
