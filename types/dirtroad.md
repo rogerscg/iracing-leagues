@@ -14,6 +14,7 @@
 |[Extreme Forces TRUCK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7933){:target="_blank"} |Season 3 |North America |13 |1545 | |[Legacy] Phoenix Raceway - 2008 |Mon, September 09 08:00PM EDT |Tue, September 10 01:00AM BST |Tue, September 10 10:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2024 |North America |12 |2057 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK RX \- 2024 |North America |12 |2394 |Fixed | | | | |
+|[RIL A1 Revolution](https://members.iracing.com/membersite/member/LeagueView.do?league=10239){:target="_blank"} |Season 1 |North America |11 |1637 | | | | | |
 
 ### Pro 2 Truck
 

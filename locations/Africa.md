@@ -8,7 +8,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Sports & GT Masters Season 11 \- Practice |Africa |30 |1737 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------|--------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Sports & GT Masters Season 11 \- Practice |Africa |30 |1723 | |Watkins Glen International |Mon, September 09 02:00PM EDT |Mon, September 09 07:00PM BST |Tue, September 10 04:00AM AEST |
 |[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Sports & GT Masters Season 11 |Africa |26 |1783 | | | | | |
 
