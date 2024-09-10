@@ -10,8 +10,10 @@
 |[aw racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=11496){:target="_blank"} | |liga de aw racing |
 |[Bakersfield Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=11445){:target="_blank"} | |Late Model Racing |
 |[Barnyard cup series](https://members.iracing.com/membersite/member/LeagueView.do?league=11473){:target="_blank"} | | |
+|[Black Wolf Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11513){:target="_blank"} | | |
 |[BMR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11446){:target="_blank"} | | |
 |[Boosted Toaster Motorsports League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11486){:target="_blank"} |[Discord](https://discord.gg/UAtwkZ42s7){:target="_blank"} | |
+|[Buckeye Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11517){:target="_blank"} | | |
 |[canadian tire mini stock series](https://members.iracing.com/membersite/member/LeagueView.do?league=11488){:target="_blank"} | |mini stock series |
 |[Caribbean Sim Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11483){:target="_blank"} | | |
 |[Champion Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11501){:target="_blank"} |[Discord](https://discord.gg/GTxZusHE){:target="_blank"} |Oval racing |
@@ -31,6 +33,7 @@
 |[Knottical Marine Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11510){:target="_blank"} | |The new Mini Stock class presented by Knottical Marine brings you the best drivers from the Northwest |
 |[Legend Cars Australia I\-Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11509){:target="_blank"} |[Discord](https://discord.gg/fs7V9e47){:target="_blank"} |This Portrays the IRL Legend Cars Series but with multiple other tracks being incorporated into the calendar to provide amazing racing\. |
 |[Madness Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11497){:target="_blank"} | |This is a league for serious and safe SF23 drivers\. |
+|[Mini Stock Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=11514){:target="_blank"} | |Mixture of the Mini Stocks on many different types of tracks, both dirt and asphalt\. Running two races a night, for three Mondays in a row\. Starting September 16th, and ending September 30th\. Open to everyone who follows the rules\! |
 |[Need for Speed league](https://members.iracing.com/membersite/member/LeagueView.do?league=11452){:target="_blank"} | | |
 |[North American Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11500){:target="_blank"} | |Late Model Stock, Open Setups, Many Races and events \+ Prizes |
 |[nw mini stock tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11504){:target="_blank"} | |fastest mini stock drivers in the nw |
@@ -42,15 +45,12 @@
 |[Showtime Pony Stock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11470){:target="_blank"} | | |
 |[Sim Racers Group Wednesday Intermediate](https://members.iracing.com/membersite/member/LeagueView.do?league=11451){:target="_blank"} | |FIA F\-4 Wednesday nights PST |
 |[Simracing for Mental Helse Ungdom 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11484){:target="_blank"} | |Velkommen til Simracing for Mental Helse Ungdom 2024   Norges viktigste simracingløp; 28\. September   Kvalifisering: Startrekkefølgen pr klasse avgjøres av hvor mye man har samlet inn til sin deltakerside \(som man får når man er påmeldt\)   Justér riggen, sjekk rattet, og gjør deg klar for en 4 timers utfordring på Road Atlanta\. Du vet hva dette innebærer: spenning, strategi og lagarbeid i et mini\-endurance i GT3\. Husk at dette ikke bare handler om racing, men også om å støtte en god sak\. Påmeldingsavgiften går til Mental Helse Ungdom\.   Gjør din del for å støtte psykisk helse for unge i Norge\! |
-|[Southern Ontario Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11442){:target="_blank"} | | |
 |[Spec Mini Stock](https://members.iracing.com/membersite/member/LeagueView.do?league=11493){:target="_blank"} | |The home of fixed Mini Stock racing on iRacing\. |
 |[Speed Trap Bets](https://members.iracing.com/membersite/member/LeagueView.do?league=11489){:target="_blank"} | |The league for betting on Speed Trap Bets NASCAR players |
 |[SPORTSMANS LATE MODEL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=11498){:target="_blank"} | | |
 |[Sunday Stang](https://members.iracing.com/membersite/member/LeagueView.do?league=11476){:target="_blank"} | |Sunday Stang |
 |[Super Truck 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11460){:target="_blank"} | |Pro Truck Road Course League |
-|[Supercharged Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11440){:target="_blank"} |[Discord](https://discord.gg/G3EdAy5yCY){:target="_blank"} |We are a community with ACC and F1 Leagues Moving to iRacing Also |
 |[SuperStar ARCA Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11475){:target="_blank"} | |A beginner friendly ARCA league starting soon, we look to innovate on how league racing is ran and how we can continue to improve it moving forward\. We have some great ideas for our 12 race schedule why don't you message us and find out about it from me the owner Samuel Hoff \(Discord:vroomvroom212121\) Feel free to reach out on IRacing or Discord to me |
-|[Team NRS](https://members.iracing.com/membersite/member/LeagueView.do?league=11439){:target="_blank"} | | |
 |[Team Rocket\!](https://members.iracing.com/membersite/member/LeagueView.do?league=11503){:target="_blank"} | | |
 |[TenMadMen](https://members.iracing.com/membersite/member/LeagueView.do?league=11507){:target="_blank"} | |FunRace |
 |[Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=11454){:target="_blank"} | |Test |
@@ -61,9 +61,10 @@
 |[UNIZONE Test match](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} | | |
 |[V2Rtv Sim Center Tournaments](https://members.iracing.com/membersite/member/LeagueView.do?league=11459){:target="_blank"} | |Sim Center Tourney's |
 |[Velocity Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11456){:target="_blank"} |[Discord](https://discord.gg/kSmrTWvzrT){:target="_blank"} |We will be running 10 week seasons for now just trucks and cup series |
-|[We Know How to Mower](https://members.iracing.com/membersite/member/LeagueView.do?league=11441){:target="_blank"} | |A group of guys that build mowers and try to kill ai in a league |
 |[Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=11480){:target="_blank"} |[Discord](https://discord.gg/3Z9ZtYrjtx){:target="_blank"} | |
 |[CVMF / SGT AWE Charity Race](https://members.iracing.com/membersite/member/LeagueView.do?league=11495){:target="_blank"} | |This league is for a charity races for the Campbell Veterans Memorial Foundation and my son Sgt\. Adam Estep Scholarship Endowment\. We plan to run 2 races a year\. One around Veterans Day where the funds will go to the Campbell Veterans Memorial Foundation and one on/around April 29th each year to honor my son Sgt\. Adam Estep by continuing to build his scholarship endowment at West Valley College\. I remember returning from veteran services, going back to school and starting my family\. Those were challenges then\. We meeting returning veterans each year\. The impact we are able to make by enabling these veterans pursing their education and future is immeasurable\. Your support and contribution can and do changes lives\. Join us doing something we enjoy and make a difference in the future of veterans and their families\. We thank you\. I thank you\. Kenneth Estep, Proud father of Sgt Adam Estep, KIA OIF 2004 |
+|[EMS GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11516){:target="_blank"} |[Discord](https://discord.gg/h5DaG3wvFe){:target="_blank"} |A branch new chapter in simracing leagues  https://discord\.gg/h5DaG3wvFe |
+|[Escondida Formula Path League](https://members.iracing.com/membersite/member/LeagueView.do?league=11515){:target="_blank"} | |The fastest, most challenging, most exciting road racing |
 |[Jordan Wiseley Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=11505){:target="_blank"} | |e\-Series |
 |[Kamino Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11502){:target="_blank"} | | |
 |[Sim Racers Group Tuesday Rookie](https://members.iracing.com/membersite/member/LeagueView.do?league=11455){:target="_blank"} | |FIA FF1600 Tuesday nights PST |
