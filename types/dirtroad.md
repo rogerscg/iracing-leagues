@@ -35,4 +35,5 @@
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |2024 Summer Series \- 4x4 Rolling Thunder |North America |20 |2306 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |4x4 Rolling Thunder II \- 2024 |North America |12 |2032 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks West \- 2024 |North America |12 |2289 |Fixed |WeatherTech Raceway at Laguna Seca |Thu, September 12 07:20PM EDT |Fri, September 13 12:20AM BST |Fri, September 13 09:20AM AEST |
+|[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} |Season 1 Pro4 Road |North America |10 |1374 |Both | | | | |
 

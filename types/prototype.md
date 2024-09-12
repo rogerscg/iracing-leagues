@@ -19,7 +19,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|-------------------------------------|--------|-------|----|-----|-------------|-----------------------------|-----------------------------|------------------------------|
-|[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} |eGP Hypercar Championship \- Season 1 |Europe |26 |2889 | |Road America |Wed, September 11 01:00PM EDT |Wed, September 11 06:00PM BST |Thu, September 12 03:00AM AEST |
+|[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} |eGP Hypercar Championship \- Season 1 |Europe |26 |2889 | |Road America |Sun, September 15 01:00PM EDT |Sun, September 15 06:00PM BST |Mon, September 16 03:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -35,8 +35,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|----------------|-----------------------------|-----------------------------|------------------------------|
-|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Dentistry Conference World Tour |North America |43 |2433 | |MotorLand Aragón |Wed, September 11 09:00PM EDT |Thu, September 12 02:00AM BST |Thu, September 12 11:00AM AEST |
+|-------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|--------------------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Dentistry Conference World Tour |North America |46 |2437 | |Autodromo Internazionale Enzo e Dino Ferrari |Wed, September 18 09:00PM EDT |Thu, September 19 02:00AM BST |Thu, September 19 11:00AM AEST |
 
 ### Radical SR10
 
