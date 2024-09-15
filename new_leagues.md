@@ -4,7 +4,6 @@
 |---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[358 Mods](https://members.iracing.com/membersite/member/LeagueView.do?league=11532){:target="_blank"} | |358 Modifides |
 |[765 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11494){:target="_blank"} | | |
-|[ALL STAR STREET STOCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11461){:target="_blank"} | | |
 |[Asphalt world chamionship](https://members.iracing.com/membersite/member/LeagueView.do?league=11469){:target="_blank"} | | |
 |[aw racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=11496){:target="_blank"} | |liga de aw racing |
 |[Azz Tech Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11528){:target="_blank"} | |League hosted and ran by E\-Sports team Azz Tech Racing\. |
@@ -38,7 +37,6 @@
 |[nw mini stock tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11504){:target="_blank"} | |fastest mini stock drivers in the nw |
 |[RW RACING ALL FREE SEREIS SEASON 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11520){:target="_blank"} | |RW RACING Presents the ALL FREE SEASON 8 cars 8 tracks over 8 weeks\. All from the free content\. you just need the iRacing subscription and your good to go\. |
 |[Schumi V Hill](https://members.iracing.com/membersite/member/LeagueView.do?league=11490){:target="_blank"} | | |
-|[SCJ Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11458){:target="_blank"} | |Having a crack |
 |[se7en team](https://members.iracing.com/membersite/member/LeagueView.do?league=11533){:target="_blank"} | |Locos de la Secta |
 |[Second Saturday Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=11478){:target="_blank"} |[Discord](https://discord.gg/PTjzhu9V2A){:target="_blank"} |An IMPC style league with GT4 and TCR cars on Saturday evenings\. Two hour races you can run solo or with any number of friends\. All are welcome\. |
 |[Short Bus Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=11491){:target="_blank"} | |GT3 League 8 Rounds 20 min races fixed setup |
@@ -49,7 +47,6 @@
 |[Speed Trap Bets](https://members.iracing.com/membersite/member/LeagueView.do?league=11489){:target="_blank"} | |The league for betting on Speed Trap Bets NASCAR players |
 |[SPORTSMANS LATE MODEL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=11498){:target="_blank"} | | |
 |[Sunday Stang](https://members.iracing.com/membersite/member/LeagueView.do?league=11476){:target="_blank"} | |Sunday Stang |
-|[Super Truck 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11460){:target="_blank"} | |Pro Truck Road Course League |
 |[SuperStar ARCA Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11475){:target="_blank"} | |A beginner friendly ARCA league starting soon, we look to innovate on how league racing is ran and how we can continue to improve it moving forward\. We have some great ideas for our 12 race schedule why don't you message us and find out about it from me the owner Samuel Hoff \(Discord:vroomvroom212121\) Feel free to reach out on IRacing or Discord to me |
 |[Team Rocket\!](https://members.iracing.com/membersite/member/LeagueView.do?league=11503){:target="_blank"} | | |
 |[TenMadMen](https://members.iracing.com/membersite/member/LeagueView.do?league=11507){:target="_blank"} | |FunRace |
@@ -59,7 +56,6 @@
 |[tisum cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11464){:target="_blank"} | |Win by any means neccesary |
 |[trailbraker\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=11525){:target="_blank"} | |think you can race clean well son \! Put Your Money Where Your Mouth Is\! we re a private league for SERIOUSLY CLEAN Iracer Basically you can win your money back by racing Clean our system implies a entering charge that you can win back\! be a founder or a peeker |
 |[UNIZONE Test match](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} | | |
-|[V2Rtv Sim Center Tournaments](https://members.iracing.com/membersite/member/LeagueView.do?league=11459){:target="_blank"} | |Sim Center Tourney's |
 |[vbr racing leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=11529){:target="_blank"} | | |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} | |Mini\-Stock weekly racing every Wednesday night at 8pm central time\! |
 |[Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=11480){:target="_blank"} |[Discord](https://discord.gg/3Z9ZtYrjtx){:target="_blank"} | |
@@ -69,7 +65,7 @@
 |[IRACING MEDIA RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11518){:target="_blank"} |[Discord](https://discord.gg/gjadNFqM){:target="_blank"} |https://discord\.gg/gjadNFqM |
 |[Jordan Wiseley Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=11505){:target="_blank"} | |e\-Series |
 |[Kamino Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11502){:target="_blank"} | | |
-|[MidWestSimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11536){:target="_blank"} | |House League |
+|[MWSS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11536){:target="_blank"} | |House League |
 |[Slip & Slide Sim Racing \- The Furry Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11519){:target="_blank"} | | |
 |[Testing 123ABC](https://members.iracing.com/membersite/member/LeagueView.do?league=11492){:target="_blank"} | | |
 |[Xcelerate Racing League Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=11471){:target="_blank"} | | |
