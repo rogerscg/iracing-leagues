@@ -4,6 +4,7 @@
 |---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[358 Mods](https://members.iracing.com/membersite/member/LeagueView.do?league=11532){:target="_blank"} | |358 Modifides |
 |[765 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11494){:target="_blank"} | | |
+|[AP RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11539){:target="_blank"} | | |
 |[Asphalt world chamionship](https://members.iracing.com/membersite/member/LeagueView.do?league=11469){:target="_blank"} | | |
 |[aw racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=11496){:target="_blank"} | |liga de aw racing |
 |[Azz Tech Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11528){:target="_blank"} | |League hosted and ran by E\-Sports team Azz Tech Racing\. |
@@ -17,18 +18,18 @@
 |[Caribbean Sim Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11483){:target="_blank"} | | |
 |[Champion Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11501){:target="_blank"} |[Discord](https://discord.gg/GTxZusHE){:target="_blank"} |Oval racing |
 |[Chasing the Delta Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11482){:target="_blank"} | |A coaching league with the goal of getting every driver to that 2k IR milestone\. |
-|[Chequered Duck](https://members.iracing.com/membersite/member/LeagueView.do?league=11462){:target="_blank"} | |Competitive, Respectable Fun |
 |[CROSS COUNTRY MODIFIED SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11499){:target="_blank"} | | |
 |[DF Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11530){:target="_blank"} | | |
 |[Dirt Craze](https://members.iracing.com/membersite/member/LeagueView.do?league=11485){:target="_blank"} |[Discord](https://discord.gg/JQ9zhaEK){:target="_blank"} |Clean racing and having fun |
 |[EMS GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11516){:target="_blank"} |[Discord](https://discord.gg/h5DaG3wvFe){:target="_blank"} |A branch new chapter in simracing leagues  https://discord\.gg/h5DaG3wvFe |
 |[Eurostock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11477){:target="_blank"} |[Discord](https://discord.gg/qwkCbauHCS){:target="_blank"} |Inspired by EuroNASCAR this is a Late Model series on european tracks\. |
 |[Event Horizon Gaming Network](https://members.iracing.com/membersite/member/LeagueView.do?league=11511){:target="_blank"} | |Event Horizon Gaming Network iRacing League for discord members |
+|[F4 FRIDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=11537){:target="_blank"} | |NXTGEN F4 LEAGUE |
+|[Fall Brawl Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11538){:target="_blank"} | |Late Model Stocks |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |[Discord](https://discord.gg/6hykhM4HJp){:target="_blank"} |A startup league for any and all racers\. |
 |[Friday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=11487){:target="_blank"} |[Discord](https://discord.gg/Rgs8bKJq){:target="_blank"} |Super Formula Lights Fixed Set\-Up |
 |[FSG Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=11531){:target="_blank"} | | |
 |[Green Emerald Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11527){:target="_blank"} | | |
-|[ICR](https://members.iracing.com/membersite/member/LeagueView.do?league=11463){:target="_blank"} | |Ibrahim Campbell Racing\. Just two fools working towards their dream\. |
 |[Knottical Marine Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11510){:target="_blank"} | |The new Mini Stock class presented by Knottical Marine brings you the best drivers from the Northwest |
 |[Legend Cars Australia I\-Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11509){:target="_blank"} |[Discord](https://discord.gg/fs7V9e47){:target="_blank"} |This Portrays the IRL Legend Cars Series but with multiple other tracks being incorporated into the calendar to provide amazing racing\. |
 |[Madness Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11497){:target="_blank"} | |This is a league for serious and safe SF23 drivers\. |
@@ -53,11 +54,12 @@
 |[The Pelican World Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11465){:target="_blank"} | |Pelicans Only |
 |[THE STARTERS NASCAR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11481){:target="_blank"} | |The STARTERS NASCAR Cup series is a brand new league for any new/medicore drivers that are looking for some fun\!\! there will be prizes and more for winners throughout the season\. We will race weekly on Thursday nights\. Hope to see you there |
 |[The UPS iRacing League\.](https://members.iracing.com/membersite/member/LeagueView.do?league=11508){:target="_blank"} | |A league funded by me, Jackson Snellings\. Feel free to join through the discord server linked at the website\. |
-|[tisum cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11464){:target="_blank"} | |Win by any means neccesary |
 |[trailbraker\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=11525){:target="_blank"} | |think you can race clean well son \! Put Your Money Where Your Mouth Is\! we re a private league for SERIOUSLY CLEAN Iracer Basically you can win your money back by racing Clean our system implies a entering charge that you can win back\! be a founder or a peeker |
 |[UNIZONE Test match](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} | | |
+|[V2Rtv Sim Center Tournaments](https://members.iracing.com/membersite/member/LeagueView.do?league=11540){:target="_blank"} | |League format for the Sim Center Tournaments |
 |[vbr racing leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=11529){:target="_blank"} | | |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} | |Mini\-Stock weekly racing every Wednesday night at 8pm central time\! |
+|[Xcelerate Racing League Sunday](https://members.iracing.com/membersite/member/LeagueView.do?league=11468){:target="_blank"} | | |
 |[Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=11480){:target="_blank"} |[Discord](https://discord.gg/3Z9ZtYrjtx){:target="_blank"} | |
 |[CVMF / SGT AWE Charity Race](https://members.iracing.com/membersite/member/LeagueView.do?league=11495){:target="_blank"} | |This league is for a charity races for the Campbell Veterans Memorial Foundation and my son Sgt\. Adam Estep Scholarship Endowment\. We plan to run 2 races a year\. One around Veterans Day where the funds will go to the Campbell Veterans Memorial Foundation and one on/around April 29th each year to honor my son Sgt\. Adam Estep by continuing to build his scholarship endowment at West Valley College\. I remember returning from veteran services, going back to school and starting my family\. Those were challenges then\. We meeting returning veterans each year\. The impact we are able to make by enabling these veterans pursing their education and future is immeasurable\. Your support and contribution can and do changes lives\. Join us doing something we enjoy and make a difference in the future of veterans and their families\. We thank you\. I thank you\. Kenneth Estep, Proud father of Sgt Adam Estep, KIA OIF 2004 |
 |[Escondida Formula Path League](https://members.iracing.com/membersite/member/LeagueView.do?league=11515){:target="_blank"} | |The fastest, most challenging, most exciting road racing |
@@ -70,7 +72,6 @@
 |[Testing 123ABC](https://members.iracing.com/membersite/member/LeagueView.do?league=11492){:target="_blank"} | | |
 |[Xcelerate Racing League Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=11471){:target="_blank"} | | |
 |[Xcelerate Racing League Monday](https://members.iracing.com/membersite/member/LeagueView.do?league=11467){:target="_blank"} | | |
-|[Xcelerate Racing League Sunday](https://members.iracing.com/membersite/member/LeagueView.do?league=11468){:target="_blank"} | | |
 |[Xcelerate Racing League Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=11472){:target="_blank"} | | |
 |[Xcelerate Racing League Tuesday](https://members.iracing.com/membersite/member/LeagueView.do?league=11466){:target="_blank"} | | |
 |[Xcelerate Racing League Wednesday](https://members.iracing.com/membersite/member/LeagueView.do?league=11474){:target="_blank"} | | |
