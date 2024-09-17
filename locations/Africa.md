@@ -1,14 +1,13 @@
 * TOC  
 {:toc}
 
-# Multi-class/Unclassified
+# Open-wheel
 
-### Hosted All Cars Class
+### Dallara F3
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-----------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Sports & GT Masters Season 11 \- Practice |Africa |31 |1704 | | | | | |
-|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |Sports & GT Masters Season 11 |Africa |27 |1761 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[WP Sports/GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |GT MASTERS SEASON 12 \- PRACTICE |Africa |15 |1813 | | | | | |
 
