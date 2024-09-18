@@ -13,6 +13,14 @@
 
 # Sports Car
 
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|-------------------|--------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
+|[\#SRE Sim Racing Enthusiast](https://members.iracing.com/membersite/member/LeagueView.do?league=7113){:target="_blank"} |SRE League Season 3 |Asia |28 |1873 | |Motorsport Arena Oschersleben |Wed, September 25 08:30AM EDT |Wed, September 25 01:30PM BST |Wed, September 25 10:30PM AEST |
+
 ### Mazda MX-5 Cup 2016
 
 [Back to Top](#)  
@@ -20,14 +28,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|---------|--------|-------|----|-----|-------------|--------|------|------|
 |[HEGT \- iRacing Division](https://members.iracing.com/membersite/member/LeagueView.do?league=11142){:target="_blank"} |2024 暑期娱乐 |Asia |18 |1451 |Fixed | | | | |
-
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[\#SRE Sim Racing Enthusiast](https://members.iracing.com/membersite/member/LeagueView.do?league=7113){:target="_blank"} |SRE League Season 3 |Asia |28 |1873 | | | | | |
 
 # Multi-class/Unclassified
 
