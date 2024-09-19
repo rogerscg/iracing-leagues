@@ -32,6 +32,6 @@
 |[Average Off\-Road Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8568){:target="_blank"} |AORRL SEASON 3 PRESENTED BY ROTATION |North America |26 |1770 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |2024 Summer Series \- 4x4 Rolling Thunder |North America |20 |2379 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks West \- 2024 |North America |15 |2462 |Fixed |[Legacy] Phoenix Raceway - 2008 |Thu, September 19 07:00PM EDT |Fri, September 20 12:00AM BST |Fri, September 20 09:00AM AEST |
+|[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} |Season 1 Pro4 Road |North America |12 |1364 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |4x4 Rolling Thunder II \- 2024 |North America |12 |2032 |Fixed | | | | |
-|[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} |Season 1 Pro4 Road |North America |10 |1374 |Both |Summit Point Raceway |Wed, September 18 08:00PM EDT |Thu, September 19 01:00AM BST |Thu, September 19 10:00AM AEST |
 
