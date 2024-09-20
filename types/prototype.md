@@ -8,8 +8,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------|------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024C DFL \- LMP2 |Australia-NZ |45 |2720 |Both | | | | |
+|----------------------------------------------------------------------------------------------------------------|--------------|--------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |LMP2 Challenge |Europe |23 |1960 | |Virginia International Raceway |Tue, September 24 03:00PM EDT |Tue, September 24 08:00PM BST |Wed, September 25 05:00AM AEST |
 
 ### GTP
@@ -43,9 +42,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3555 | | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |19 |2721 |Open |Oulton Park Circuit |Thu, September 19 02:15PM EDT |Thu, September 19 07:15PM BST |Fri, September 20 04:15AM AEST |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |22 |2790 |Open |Circuit de Spa-Francorchamps |Thu, September 26 02:15PM EDT |Thu, September 26 07:15PM BST |Fri, September 27 04:15AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |17 |2514 | | | | | |
 
 ### Radical SR8
@@ -54,11 +53,11 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Sim Racing Alliance \- Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |25 |1919 |Open |Snetterton Circuit |Thu, September 19 09:00PM EDT |Fri, September 20 02:00AM BST |Fri, September 20 11:00AM AEST |
+|[Sim Racing Alliance \- Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |28 |1866 |Open |Motorsport Arena Oschersleben |Thu, September 26 09:00PM EDT |Fri, September 27 02:00AM BST |Fri, September 27 11:00AM AEST |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1471 | | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |20 |2641 |Open |Autodromo Internazionale del Mugello |Fri, September 20 09:00PM EDT |Sat, September 21 02:00AM BST |Sat, September 21 11:00AM AEST |
 |[JPB Nascar Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |20 |2785 | |Road America |Mon, September 23 03:00PM EDT |Mon, September 23 08:00PM BST |Tue, September 24 05:00AM AEST |
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 Season2 |Australia-NZ |13 |1385 |Fixed |Fuji International Speedway |Thu, September 19 05:30AM EDT |Thu, September 19 10:30AM BST |Thu, September 19 07:30PM AEST |
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 Season2 |Australia-NZ |13 |1377 |Fixed |Sandown International Motor Raceway |Thu, September 26 05:30AM EDT |Thu, September 26 10:30AM BST |Thu, September 26 07:30PM AEST |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup |North America |12 |1218 | | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 2 \- Radical SR8 |North America |11 |986 |Open |Brands Hatch Circuit |Tue, September 24 10:00PM EDT |Wed, September 25 03:00AM BST |Wed, September 25 12:00PM AEST |
 
