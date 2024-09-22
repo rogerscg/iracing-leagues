@@ -43,9 +43,10 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3555 | | | | | |
+|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3555 | |Circuit de Spa-Francorchamps |Sun, September 29 02:10PM EDT |Sun, September 29 07:10PM BST |Mon, September 30 04:10AM AEST |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |22 |2790 |Open |Circuit de Spa-Francorchamps |Thu, September 26 02:15PM EDT |Thu, September 26 07:15PM BST |Fri, September 27 04:15AM AEST |
-|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |17 |2514 | | | | | |
+|[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |17 |2514 | |Circuit de Spa-Francorchamps |Sun, September 29 07:30PM EDT |Mon, September 30 12:30AM BST |Mon, September 30 09:30AM AEST |
+|[Need 4 Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |11 |1460 |Fixed |Barber Motorsports Park |Sat, September 28 07:30PM EDT |Sun, September 29 12:30AM BST |Sun, September 29 09:30AM AEST |
 
 ### Radical SR8
 

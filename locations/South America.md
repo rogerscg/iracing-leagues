@@ -9,7 +9,15 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3383 | |Bristol Motor Speedway |Mon, September 23 06:30PM EDT |Mon, September 23 11:30PM BST |Tue, September 24 08:30AM AEST |
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |39 |3391 | |Bristol Motor Speedway |Mon, September 23 06:30PM EDT |Mon, September 23 11:30PM BST |Tue, September 24 08:30AM AEST |
+
+### NASCAR Truck Series
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T4 |South America |41 |2423 | | | | | |
 
 # Open-wheel
 
@@ -63,10 +71,10 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Pro 2024/3 |South America |31 |3188 | | | | | |
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Pro 2024/3 |South America |30 |3200 | | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |MX\-5 Cup 2024 T4 |South America |25 |1782 |Fixed | | | | |
-|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |Production Cup 2024/3 |South America |21 |1876 | | | | | |
 |[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MAZDA MX\-5 CUP |South America |20 |2755 | | | | | |
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |Production Cup 2024/3 |South America |17 |1922 | | | | | |
 
 ### Touring Car
 
@@ -76,15 +84,6 @@
 |---------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Temporada 2024 |South America |40 |3588 | | | | | |
 |[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |TCR Cup 2024/3 |South America |18 |2994 | | | | | |
-
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge \- 24S2 |South America |38 |2774 | | | | | |
-|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/3 |South America |34 |2233 | | | | | |
 
 # Prototype
 
@@ -105,8 +104,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |58 |1982 | | | | | |
-|[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/3 |South America |51 |1854 | | | | | |
-|[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Pro 2024/3 |South America |37 |3092 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |35 |2437 | | | | | |
 |[Racing e\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |1ª Temporada \- GT3 Cup \- by racinge\-sports\.com |South America |24 |2404 | | | | | |
 
