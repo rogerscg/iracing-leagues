@@ -33,9 +33,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|------------------------------|
+|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Dentistry Conference World Tour |North America |47 |2439 | |Circuit des 24 Heures du Mans |Wed, September 25 09:00PM EDT |Thu, September 26 02:00AM BST |Thu, September 26 11:00AM AEST |
-|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship \- Season 4 |Europe |38 |2323 |Fixed |Autodromo Internazionale del Mugello |Sun, September 22 02:00PM EDT |Sun, September 22 07:00PM BST |Mon, September 23 04:00AM AEST |
+|[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship \- Season 4 |Europe |41 |2332 |Fixed |Road Atlanta |Sun, September 29 02:00PM EDT |Sun, September 29 07:00PM BST |Mon, September 30 04:00AM AEST |
 
 ### Radical SR10
 
@@ -56,18 +56,18 @@
 |-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Sim Racing Alliance \- Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |28 |1866 |Open |Motorsport Arena Oschersleben |Thu, September 26 09:00PM EDT |Fri, September 27 02:00AM BST |Fri, September 27 11:00AM AEST |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |26 |2392 |Open |Oulton Park Circuit |Fri, September 27 08:50PM EDT |Sat, September 28 01:50AM BST |Sat, September 28 10:50AM AEST |
-|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |20 |1471 | | | | | |
 |[JPB Nascar Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |20 |2785 | |Road America |Mon, September 23 03:00PM EDT |Mon, September 23 08:00PM BST |Tue, September 24 05:00AM AEST |
+|[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |19 |1457 | | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 Season2 |Australia-NZ |13 |1377 |Fixed |Sandown International Motor Raceway |Thu, September 26 05:30AM EDT |Thu, September 26 10:30AM BST |Thu, September 26 07:30PM AEST |
-|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup |North America |12 |1218 | | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 2 \- Radical SR8 |North America |11 |986 |Open |Brands Hatch Circuit |Tue, September 24 10:00PM EDT |Wed, September 25 03:00AM BST |Wed, September 25 12:00PM AEST |
+|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup |North America |11 |1293 | | | | | |
 
 ### Spec Racer Ford
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------|--------|-------|----|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |Europe |39 |3093 |Open |Cadwell Park Circuit |Sun, September 22 02:40PM EDT |Sun, September 22 07:40PM BST |Mon, September 23 04:40AM AEST |
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN Spec Cup |Europe |10 |2280 | |[Legacy] Phoenix Raceway - 2008 |Sun, September 22 02:29PM EDT |Sun, September 22 07:29PM BST |Mon, September 23 04:29AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|--------------|-----------------------------|-----------------------------|------------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |48 |2981 |Open | | | | |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN Spec Cup |Europe |10 |2325 | |Lime Rock Park |Sun, September 29 02:29PM EDT |Sun, September 29 07:29PM BST |Mon, September 30 04:29AM AEST |
 
