@@ -18,7 +18,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} |eGP Hypercar Championship \- Season 1 |Europe |28 |2870 | |Suzuka International Racing Course |Wed, September 25 01:00PM EDT |Wed, September 25 06:00PM BST |Thu, September 26 03:00AM AEST |
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2024 Season 4 \- Session 2 |North America |10 |1632 | |Canadian Tire Motorsports Park |Mon, September 23 09:06PM EDT |Tue, September 24 02:06AM BST |Tue, September 24 11:06AM AEST |
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2024 Season 4 \- Session 2 |North America |13 |1686 | |Circuit de Spa-Francorchamps |Mon, September 30 09:06PM EDT |Tue, October 01 02:06AM BST |Tue, October 01 11:06AM AEST |
 
 ### Hosted All Cars Class
 
@@ -56,7 +56,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Sim Racing Alliance \- Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |28 |1866 |Open |Motorsport Arena Oschersleben |Thu, September 26 09:00PM EDT |Fri, September 27 02:00AM BST |Fri, September 27 11:00AM AEST |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |26 |2392 |Open |Oulton Park Circuit |Fri, September 27 08:50PM EDT |Sat, September 28 01:50AM BST |Sat, September 28 10:50AM AEST |
-|[JPB Nascar Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |20 |2785 | |Road America |Mon, September 23 03:00PM EDT |Mon, September 23 08:00PM BST |Tue, September 24 05:00AM AEST |
+|[JPB Nascar Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |20 |2843 | |Autodromo Nazionale Monza |Mon, September 30 03:00PM EDT |Mon, September 30 08:00PM BST |Tue, October 01 05:00AM AEST |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |19 |1457 | | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 Season2 |Australia-NZ |13 |1377 |Fixed |Sandown International Motor Raceway |Thu, September 26 05:30AM EDT |Thu, September 26 10:30AM BST |Thu, September 26 07:30PM AEST |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 2 \- Radical SR8 |North America |11 |986 |Open |Brands Hatch Circuit |Tue, September 24 10:00PM EDT |Wed, September 25 03:00AM BST |Wed, September 25 12:00PM AEST |
@@ -67,7 +67,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|--------------|-----------------------------|-----------------------------|------------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |48 |2981 |Open | | | | |
+|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |48 |2981 |Open |WeatherTech Raceway at Laguna Seca |Sun, September 29 02:40PM EDT |Sun, September 29 07:40PM BST |Mon, September 30 04:40AM AEST |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN Spec Cup |Europe |10 |2325 | |Lime Rock Park |Sun, September 29 02:29PM EDT |Sun, September 29 07:29PM BST |Mon, September 30 04:29AM AEST |
 

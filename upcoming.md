@@ -5,6 +5,20 @@
 
 # NASCAR
 
+### Draft Master
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Trucks Season 5 |Fixed |Daytona International Speedway |Tue, October 01 07:59PM EDT |Wed, October 02 12:59AM BST |Wed, October 02 09:59AM AEST |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 Season 4 Truck Short Series | |Dover Motor Speedway |Tue, September 24 07:00PM EDT |Wed, September 25 12:00AM BST |Wed, September 25 09:00AM AEST |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 Season 4 Truck Speedway Series | |Daytona International Speedway |Thu, September 26 07:00PM EDT |Fri, September 27 12:00AM BST |Fri, September 27 09:00AM AEST |
+|[Racers Elite \- Tuesday](https://members.iracing.com/membersite/member/LeagueView.do?league=9801){:target="_blank"} |Racers Elite \- Truck Fixed Series \(Season 5\) |Fixed |Atlanta Motor Speedway |Tue, September 24 05:35PM EDT |Tue, September 24 10:35PM BST |Wed, September 25 07:35AM AEST |
+|[Super\-High Intensity Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9997){:target="_blank"} |Season 4 |Fixed |Las Vegas Motor Speedway |Sat, September 28 08:00PM EDT |Sun, September 29 01:00AM BST |Sun, September 29 10:00AM AEST |
+|[Lucky Dog Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9984){:target="_blank"} |Top Tier Racing Season 2 |Fixed |Iowa Speedway |Tue, October 01 08:00PM EDT |Wed, October 02 01:00AM BST |Wed, October 02 10:00AM AEST |
+|[Mid Atlantic Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10854){:target="_blank"} |Mid Atlantic Racing Series Trucks Season 3 | |Charlotte Motor Speedway |Tue, September 24 06:25PM EDT |Tue, September 24 11:25PM BST |Wed, September 25 08:25AM AEST |
+
 ### Gen 4 Cup
 
 [Back to Top](#)  
@@ -28,9 +42,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|---------------|-----------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Cup season 5 |Fixed |Daytona International Speedway |Wed, September 25 07:59PM EDT |Thu, September 26 12:59AM BST |Thu, September 26 09:59AM AEST |
 |[Racers Elite \- Weekend](https://members.iracing.com/membersite/member/LeagueView.do?league=9514){:target="_blank"} |Racers Elite \- Next Gen Fixed Series \(Season 5\) |Fixed |Kansas Speedway |Thu, September 26 05:35PM EDT |Thu, September 26 10:35PM BST |Fri, September 27 07:35AM AEST |
-|[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Portugal Cup Series 2024 | |Kansas Speedway |Mon, September 23 04:30PM EDT |Mon, September 23 09:30PM BST |Tue, September 24 06:30AM AEST |
 |[RatPack Racing Test Team](https://members.iracing.com/membersite/member/LeagueView.do?league=7812){:target="_blank"} |2025 Masters Series |Open |Kansas Speedway |Tue, September 24 08:30PM EDT |Wed, September 25 01:30AM BST |Wed, September 25 10:30AM AEST |
 
 ### NASCAR Cup
@@ -38,10 +52,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[True North National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8764){:target="_blank"} |GLSR Nexus Designs Grand National Series | |Martinsville Speedway |Mon, September 23 08:00PM EDT |Tue, September 24 01:00AM BST |Tue, September 24 10:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Outlaw K&N Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3603){:target="_blank"} |Gen 6 Season 1 |Fixed |Daytona International Speedway |Fri, September 27 07:00PM EDT |Sat, September 28 12:00AM BST |Sat, September 28 09:00AM AEST |
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 Season 4 Cup Intermediate Series | |Las Vegas Motor Speedway |Mon, September 23 07:00PM EDT |Tue, September 24 12:00AM BST |Tue, September 24 09:00AM AEST |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 Season 4 Cup Speedway Series | |Michigan International Speedway |Fri, September 27 07:00PM EDT |Sat, September 28 12:00AM BST |Sat, September 28 09:00AM AEST |
 
 ### NASCAR Legends 1987
@@ -51,18 +63,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[BANDIT RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5234){:target="_blank"} |GEEZER AUTHENTIC'S SEASON 13 |Fixed |Daytona International Speedway |Tue, September 24 08:10PM EDT |Wed, September 25 01:10AM BST |Wed, September 25 10:10AM AEST |
-
-### NASCAR Truck Series
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 Season 4 Truck Short Series | |Dover Motor Speedway |Tue, September 24 07:00PM EDT |Wed, September 25 12:00AM BST |Wed, September 25 09:00AM AEST |
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 Season 4 Truck Speedway Series | |Daytona International Speedway |Thu, September 26 07:00PM EDT |Fri, September 27 12:00AM BST |Fri, September 27 09:00AM AEST |
-|[Racers Elite \- Tuesday](https://members.iracing.com/membersite/member/LeagueView.do?league=9801){:target="_blank"} |Racers Elite \- Truck Fixed Series \(Season 5\) |Fixed |Atlanta Motor Speedway |Tue, September 24 05:35PM EDT |Tue, September 24 10:35PM BST |Wed, September 25 07:35AM AEST |
-|[Super\-High Intensity Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9997){:target="_blank"} |Season 4 |Fixed |Las Vegas Motor Speedway |Sat, September 28 08:00PM EDT |Sun, September 29 01:00AM BST |Sun, September 29 10:00AM AEST |
-|[Mid Atlantic Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10854){:target="_blank"} |Mid Atlantic Racing Series Trucks Season 3 | |Charlotte Motor Speedway |Tue, September 24 06:25PM EDT |Tue, September 24 11:25PM BST |Wed, September 25 08:25AM AEST |
 
 ### SK Modified
 
@@ -78,7 +78,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Xfinity Season 5 |Fixed |Daytona International Speedway |Mon, September 23 08:00PM EDT |Tue, September 24 01:00AM BST |Tue, September 24 10:00AM AEST |
 |[Area 51 Thursday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5043){:target="_blank"} |2024 Area 51 Xfinity Season 3 | |Talladega Superspeedway |Thu, September 26 08:00PM EDT |Fri, September 27 01:00AM BST |Fri, September 27 10:00AM AEST |
 |[Racers Elite \- Wednesday](https://members.iracing.com/membersite/member/LeagueView.do?league=9180){:target="_blank"} |Racers Elite \- Xfinity Fixed Series \(Season 5\) |Fixed |Michigan International Speedway |Wed, September 25 05:35PM EDT |Wed, September 25 10:35PM BST |Thu, September 26 07:35AM AEST |
 |[Sim Racing Unleashed Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=4890){:target="_blank"} |Xfinity Series Season 8 |Fixed |Daytona International Speedway |Wed, September 25 06:59PM EDT |Wed, September 25 11:59PM BST |Thu, September 26 08:59AM AEST |
@@ -98,17 +97,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|----------------------------|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024 Season 4  SLM/LM Series | |Southern National Motorsports Park |Mon, September 23 07:00PM EDT |Tue, September 24 12:00AM BST |Tue, September 24 09:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[gRaceland Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7020){:target="_blank"} |Season 8 |Fixed |Nashville Fairgrounds Speedway |Tue, September 24 08:00PM EDT |Wed, September 25 01:00AM BST |Wed, September 25 10:00AM AEST |
 
 ### Late Model Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|------------------------------------------------------------------------------------------------------------------|----------------|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Late Model Stock |Fixed |Lanier National Speedway |Wed, September 25 08:00PM EDT |Thu, September 26 01:00AM BST |Thu, September 26 10:00AM AEST |
-|[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |Showdown Season 10 LMSC |Both |Nashville Fairgrounds Speedway |Mon, September 23 08:45PM EDT |Tue, September 24 01:45AM BST |Tue, September 24 10:45AM AEST |
 |[BRL Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S28 |Fixed |North Wilkesboro Speedway |Sat, September 28 08:35PM EDT |Sun, September 29 01:35AM BST |Sun, September 29 10:35AM AEST |
 
 ### Mini Stock
@@ -118,7 +116,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Atlantic Mini Stocks 2024S04 Fall |Fixed |Five Flags Speedway |Wed, September 25 07:00PM EDT |Thu, September 26 12:00AM BST |Thu, September 26 09:00AM AEST |
-|[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |Rising Stars Season 10 |Both |Nashville Fairgrounds Speedway |Mon, September 23 07:00PM EDT |Tue, September 24 12:00AM BST |Tue, September 24 09:00AM AEST |
 |[TwoPointZero](https://members.iracing.com/membersite/member/LeagueView.do?league=10646){:target="_blank"} |Turn 2: Season 1 |Fixed |Daytona International Speedway |Fri, September 27 07:58PM EDT |Sat, September 28 12:58AM BST |Sat, September 28 09:58AM AEST |
 
 ### Silver Crown
@@ -147,22 +144,6 @@
 
 # Open-wheel
 
-### Dallara DW12
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----|----------------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar DW12 Rookie |Fixed |[Legacy] Charlotte Motor Speedway - 2008 |Mon, September 23 06:00PM EDT |Mon, September 23 11:00PM BST |Tue, September 24 08:00AM AEST |
-
-### FIA F4
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|-------------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[FRG \- F4A](https://members.iracing.com/membersite/member/LeagueView.do?league=9819){:target="_blank"} |2024 MOTORSPORT AUSTRALIA F4 ESPORTS CHAMPIONSHIP | |Misano World Circuit Marco Simoncelli |Mon, September 23 05:40AM EDT |Mon, September 23 10:40AM BST |Mon, September 23 07:40PM AEST |
-
 ### Formula Renault 3.5
 
 [Back to Top](#)  
@@ -179,14 +160,6 @@
 |----------------------------------------------------------------------------------------------------------|------------------------------------------|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Scotchison's](https://members.iracing.com/membersite/member/LeagueView.do?league=11558){:target="_blank"} |Scotchison's iRacing Championship Fall '24 | |WeatherTech Raceway at Laguna Seca |Wed, September 25 07:45PM EDT |Thu, September 26 12:45AM BST |Thu, September 26 09:45AM AEST |
 
-### Skip Barber Race Series
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Dirty Burg Derby](https://members.iracing.com/membersite/member/LeagueView.do?league=9513){:target="_blank"} |Skip Barber Formula 2000 \- Season 2 |Fixed |Okayama International Circuit |Mon, September 23 09:00PM EDT |Tue, September 24 02:00AM BST |Tue, September 24 11:00AM AEST |
-
 ### Super Formula SF23 - Toyota
 
 [Back to Top](#)  
@@ -202,18 +175,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|----------------------|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2024 S4 GT4 TCR series |Both |Indianapolis Motor Speedway |Mon, September 23 02:00PM EDT |Mon, September 23 07:00PM BST |Tue, September 24 04:00AM AEST |
-|[Infinity Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |GT4 Season 1 | |Detroit Grand Prix at Belle Isle |Mon, September 23 03:59AM EDT |Mon, September 23 08:59AM BST |Mon, September 23 05:59PM AEST |
+|-----------------------------------------------------------------------------------------------------------------------|----------------------|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
+|[OGRL Tuesday MX\-5 Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=10221){:target="_blank"} |Preseason \- No Points | |Autódromo José Carlos Pace |Tue, October 01 07:00PM EDT |Wed, October 02 12:00AM BST |Wed, October 02 09:00AM AEST |
 |[se7en team](https://members.iracing.com/membersite/member/LeagueView.do?league=11533){:target="_blank"} |Seven 7eam |Both |Nürburgring Combined |Fri, September 27 01:58PM EDT |Fri, September 27 06:58PM BST |Sat, September 28 03:58AM AEST |
 
-### Mazda MX-5 Cup 2016
+### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|--------------------|-----------------------------|-----------------------------|------------------------------|
-|[Virtual Racing Brasil](https://members.iracing.com/membersite/member/LeagueView.do?league=11284){:target="_blank"} |Squirrel Horizon \- MX\-5 Mazda Cup \- Season 4 |Fixed |Winton Motor Raceway |Mon, September 23 05:40PM EDT |Mon, September 23 10:40PM BST |Tue, September 24 07:40AM AEST |
+|-------------------------------------------------------------------------------------------------------|-----------------------|-----|-------------------------------------|---------------------------|---------------------------|----------------------------|
+|[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |2024\-10 \| 4° Stagione | |Misano World Circuit Marco Simoncelli |Tue, October 01 03:15PM EDT |Tue, October 01 08:15PM BST |Wed, October 02 05:15AM AEST |
 
 ### Toyota GR86
 
@@ -233,16 +205,6 @@
 |-----------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------|-----------------------------|-----------------------------|------------------------------|
 |[CAS \- Combined Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10943){:target="_blank"} |CC\- Cup 5th Season | |Red Bull Ring |Fri, September 27 01:00PM EDT |Fri, September 27 06:00PM BST |Sat, September 28 03:00AM AEST |
 
-# Dirt Oval
-
-### Dirt SprintCar - 305
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----|---------------------|-----------------------------|-----------------------------|------------------------------|
-|[Midwest misfits](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |The UMP Road to Florida Brought to you by Right Rear Racing |Fixed |Volusia Speedway Park |Mon, September 23 08:30PM EDT |Tue, September 24 01:30AM BST |Tue, September 24 10:30AM AEST |
-
 # Dirt Road
 
 ### Pro 2 Lite Truck
@@ -250,8 +212,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------|--------------------------------|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |Off\-Season Off\-Road Exhibition |Fixed |[Legacy] Phoenix Raceway - 2008 |Thu, September 26 08:30PM EDT |Fri, September 27 01:30AM BST |Fri, September 27 10:30AM AEST |
+|[JPB Nascar Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |JPB Truck Series | |Detroit Grand Prix at Belle Isle |Fri, September 27 02:00PM EDT |Fri, September 27 07:00PM BST |Sat, September 28 04:00AM AEST |
 
 # Multi-class/Unclassified
 
@@ -261,12 +224,8 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[EMS GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11516){:target="_blank"} |Primera Division | |Autodromo Nazionale Monza |Mon, September 23 03:30PM EDT |Mon, September 23 08:30PM BST |Tue, September 24 05:30AM AEST |
-|[EMS GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11516){:target="_blank"} |Segunda Division | |Autodromo Nazionale Monza |Mon, September 23 02:00PM EDT |Mon, September 23 07:00PM BST |Tue, September 24 04:00AM AEST |
-|[F1 Friends Cup Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |Fixed |Autodromo Nazionale Monza |Tue, September 24 02:55PM EDT |Tue, September 24 07:55PM BST |Wed, September 25 04:55AM AEST |
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2024/4 | |Circuit des 24 Heures du Mans |Thu, September 26 07:25PM EDT |Fri, September 27 12:25AM BST |Fri, September 27 09:25AM AEST |
 |[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/4 | |Circuit des 24 Heures du Mans |Thu, September 26 05:25PM EDT |Thu, September 26 10:25PM BST |Fri, September 27 07:25AM AEST |
-|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Clark St\. James GT3 Season 4 | |Autodromo Nazionale Monza |Mon, September 23 02:30PM EDT |Mon, September 23 07:30PM BST |Tue, September 24 04:30AM AEST |
 |[GSRC\.inc GT3 Am Split \- Presented by Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5306){:target="_blank"} |2024D GT3 Am Series | |Circuit des 24 Heures du Mans |Mon, September 30 05:15AM EDT |Mon, September 30 10:15AM BST |Mon, September 30 07:15PM AEST |
 |[GSRC\.inc GT3 Pro Split \- Presented by Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2024D GT3 Pro Series | |Circuit des 24 Heures du Mans |Mon, September 30 05:15AM EDT |Mon, September 30 10:15AM BST |Mon, September 30 07:15PM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D GT3 Pro\-Am Challenge \- Waste Options |Both |Circuit des 24 Heures du Mans |Mon, September 30 05:15AM EDT |Mon, September 30 10:15AM BST |Mon, September 30 07:15PM AEST |
