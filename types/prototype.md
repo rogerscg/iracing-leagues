@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|--------------|--------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |LMP2 Challenge |Europe |23 |1960 | |Virginia International Raceway |Tue, September 24 03:00PM EDT |Tue, September 24 08:00PM BST |Wed, September 25 05:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------|--------------|--------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |LMP2 Challenge |Europe |24 |1951 | |Circuit de Barcelona Catalunya |Tue, October 01 03:00PM EDT |Tue, October 01 08:00PM BST |Wed, October 02 05:00AM AEST |
 
 ### GTP
 
@@ -59,7 +59,7 @@
 |[JPB Nascar Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |20 |2843 | |Autodromo Nazionale Monza |Mon, September 30 03:00PM EDT |Mon, September 30 08:00PM BST |Tue, October 01 05:00AM AEST |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |19 |1457 | | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 Season2 |Australia-NZ |13 |1377 |Fixed |Sandown International Motor Raceway |Thu, September 26 05:30AM EDT |Thu, September 26 10:30AM BST |Thu, September 26 07:30PM AEST |
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 2 \- Radical SR8 |North America |11 |986 |Open |Brands Hatch Circuit |Tue, September 24 10:00PM EDT |Wed, September 25 03:00AM BST |Wed, September 25 12:00PM AEST |
+|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 2 \- Radical SR8 |North America |12 |975 |Open |Circuit de Spa-Francorchamps |Tue, October 01 10:00PM EDT |Wed, October 02 03:00AM BST |Wed, October 02 12:00PM AEST |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup |North America |11 |1293 | | | | | |
 
 ### Spec Racer Ford

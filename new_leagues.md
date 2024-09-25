@@ -3,6 +3,7 @@
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[358 Mods](https://members.iracing.com/membersite/member/LeagueView.do?league=11532){:target="_blank"} | |358 Modifides |
+|[4 cylinder cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11574){:target="_blank"} | |4 cylinder racing on dirt |
 |[420 OZ SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} | |Welcome to 420 oz sim racing we are a small friendly, funny, out going but growing sim racing community, we have events for acc and now iracing, everyone is welcome to race\. if you need help just ask the admins aswell as join the discord for more info on how to join the other league races drivers briefing and to chat to other drivers |
 |[AP RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11539){:target="_blank"} | | |
 |[Azz Tech Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11528){:target="_blank"} | |League hosted and ran by E\-Sports team Azz Tech Racing\. |
@@ -20,6 +21,8 @@
 |[Flemish SimRacing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11546){:target="_blank"} | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |[Discord](https://discord.gg/6hykhM4HJp){:target="_blank"} |A startup league for any and all racers\. |
 |[Friday Night Showdown \(Southern National\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11551){:target="_blank"} |[Discord](https://discord.gg/egmdeDFy){:target="_blank"} |FRIDAY NIGHTS WE ONLY RUN SOUTHREN NATIONAL \(4 CLASSES\) LATE MODEL/SK MODS/MINI STOCK/STREET STOCK CARS CHANGE WEEK TO WEEK\.  \-25 Min Practice  \-3 Lap Lone Qualifying  \- 55 Lap Race \(subject to change\)  \-Point Scaling System to be Determined  \-Open setups  \-Night racing  \-Full Course Cautions  \-Lucky dog rule \(Admin will enforce\)  \-One Quick Repair  \-Session opens at 8pm \(EST\)   Practice 8pm \(EST\)  Racing 9pm \(EST\)   CURRENTLY RECRUITING ONCE WE HAVE ENOUGH PEOPLE WE WILL START REGULAR SEASON AS OF NOW WE WILL BE RUNNING PRE SEASON \(NO POINTS\) |
+|[FRS \- GT4 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
+|[FRS \- MX5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11577){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
 |[FSG Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=11531){:target="_blank"} | | |
 |[V2Rtv Sim Center Tournaments](https://members.iracing.com/membersite/member/LeagueView.do?league=11540){:target="_blank"} | |League format for the Sim Center Tournaments |
 |[G\.O\. Motorsports Iracing Road Course World Finals](https://members.iracing.com/membersite/member/LeagueView.do?league=11554){:target="_blank"} | | |
@@ -34,10 +37,12 @@
 |[Rookie Rush Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11548){:target="_blank"} | |Welcome to Rookie Rush Racing, the perfect league for newcomers and intermediate drivers eager to dive into competitive sim racing\! Focused on Mini Stock and other entry\-level vehicles, our league features 10\-16 exciting oval races each season\. Teams can enter with up to 5 cars and compete in an environment that blends excitement with skill development\. With a strong emphasis on clean racing and fostering a supportive community, Rookie Rush Racing offers an ideal platform to sharpen your abilities and enjoy thrilling competition\. Join us and experience the rush of racing from the start\! |
 |[RW RACING ALL FREE SEREIS SEASON 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11520){:target="_blank"} | |RW RACING Presents the ALL FREE SEASON 8 cars 8 tracks over 8 weeks\. All from the free content\. you just need the iRacing subscription and your good to go\. |
 |[Scotchison's](https://members.iracing.com/membersite/member/LeagueView.do?league=11558){:target="_blank"} | | |
+|[SDR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11575){:target="_blank"} | |By Gulf MX |
 |[se7en team](https://members.iracing.com/membersite/member/LeagueView.do?league=11533){:target="_blank"} | |Locos de la Secta |
 |[Sim Racers Group Thursday Advanced](https://members.iracing.com/membersite/member/LeagueView.do?league=11561){:target="_blank"} | |Super Formula Toyota Following iRacing schedule exactly |
 |[slow](https://members.iracing.com/membersite/member/LeagueView.do?league=11535){:target="_blank"} | |slow only |
 |[Spanish league LFS Style](https://members.iracing.com/membersite/member/LeagueView.do?league=11571){:target="_blank"} | |Liga española de iRacing siguiendo el antiguo estilo de liveforspeed\.es\. |
+|[Squirrel's mini turd dirt racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11578){:target="_blank"} | |testing |
 |[tenaris algoma tubes](https://members.iracing.com/membersite/member/LeagueView.do?league=11557){:target="_blank"} | |lay pipe and turn left |
 |[The GBM Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=11566){:target="_blank"} | |Every Lap gets Johnny C one can of Sardines\. Promo Code MOLE |
 |[trailbraker\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=11525){:target="_blank"} | |think you can race clean well son \! Put Your Money Where Your Mouth Is\! we re a private league for SERIOUSLY CLEAN Iracer Basically you can win your money back by racing Clean our system implies a entering charge that you can win back\! be a founder or a peeker |
@@ -52,9 +57,7 @@
 |[Andy and Paddy's Scrambler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11568){:target="_blank"} | |Andy and Paddy's Thunder Cup Series against moderate skill AI opponents |
 |[Dave Cam Legends UK Tour Split 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11544){:target="_blank"} | |https://www\.thesimgrid\.com/championships/9323 |
 |[FastFlyingCars](https://members.iracing.com/membersite/member/LeagueView.do?league=11534){:target="_blank"} | | |
-|[IRACING MEDIA RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11518){:target="_blank"} |[Discord](https://discord.gg/gjadNFqM){:target="_blank"} |https://discord\.gg/gjadNFqM |
 |[MWSS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11536){:target="_blank"} | |House League |
-|[Slip & Slide Sim Racing \- The Furry Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11519){:target="_blank"} | | |
 |[TestingTesting](https://members.iracing.com/membersite/member/LeagueView.do?league=11553){:target="_blank"} | |Testing |
 |[Votive Truck Sliders Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11550){:target="_blank"} | | |
 
