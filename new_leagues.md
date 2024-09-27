@@ -6,9 +6,9 @@
 |[4 cylinder cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11574){:target="_blank"} | |4 cylinder racing on dirt |
 |[420 OZ SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} | |Welcome to 420 oz sim racing we are a small friendly, funny, out going but growing sim racing community, we have events for acc and now iracing, everyone is welcome to race\. if you need help just ask the admins aswell as join the discord for more info on how to join the other league races drivers briefing and to chat to other drivers |
 |[AP RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11539){:target="_blank"} | | |
-|[Azz Tech Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11528){:target="_blank"} | |League hosted and ran by E\-Sports team Azz Tech Racing\. |
 |[BULLET RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11572){:target="_blank"} | |ELITE DRIVERS LEAGUE |
 |[Carolina Sim Sports Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11556){:target="_blank"} | |Dirt Racing League |
+|[CHR Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11585){:target="_blank"} | |CHR |
 |[Dad Bod Motorsports Gt3 Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11560){:target="_blank"} |[Discord](https://discord.gg/rQh5XgbT3M){:target="_blank"} |https://discord\.gg/rQh5XgbT3M |
 |[DF Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11530){:target="_blank"} | | |
 |[Dylan Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11549){:target="_blank"} | |Racing 'n Stuff |
@@ -23,10 +23,12 @@
 |[FSG Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=11531){:target="_blank"} | | |
 |[V2Rtv Sim Center Tournaments](https://members.iracing.com/membersite/member/LeagueView.do?league=11540){:target="_blank"} | |League format for the Sim Center Tournaments |
 |[G\.O\. Motorsports Iracing Road Course World Finals](https://members.iracing.com/membersite/member/LeagueView.do?league=11554){:target="_blank"} | | |
-|[Green Emerald Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11527){:target="_blank"} | | |
 |[Grid Finder Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11542){:target="_blank"} | |The home of all Grid Finder organised Community Racing on iRacing |
+|[KLTS fun league](https://members.iracing.com/membersite/member/LeagueView.do?league=11582){:target="_blank"} | |One for the boys |
 |[Major League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11555){:target="_blank"} | |Racing for fun |
+|[MX5 International](https://members.iracing.com/membersite/member/LeagueView.do?league=11581){:target="_blank"} | |MX5 to keep the performance even and wins based on driver skill, this league will run both the free and paid tracks during the season |
 |[NORA Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11573){:target="_blank"} | |New series coming to NORA starting in 2025\! Starting back in 2004, we will allow the league to have a say in what direction this league goes\! From crown jewel races, what tracks get a 2nd race, which tracks LOSE a 2nd race\. It is all in the drivers hands\. Don't want the "win and in" format? When the year comes \(if we make it that far\), don't vote for it\!\! |
+|[Oasis Sims League](https://members.iracing.com/membersite/member/LeagueView.do?league=11584){:target="_blank"} | |Come and race it running all kinds of races |
 |[P2 Racing League Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11559){:target="_blank"} |[Discord](https://discord.gg/7x8UKWEqWN){:target="_blank"} | |
 |[Regarded Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=11562){:target="_blank"} | |Season 1 \(2024/2025\) |
 |[RIL Roval Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11567){:target="_blank"} | | |
@@ -44,7 +46,6 @@
 |[The GBM Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=11566){:target="_blank"} | |Every Lap gets Johnny C one can of Sardines\. Promo Code MOLE |
 |[Turnt Tuner Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=11563){:target="_blank"} | |Spenamil Throwing D |
 |[ULTRA ProAm Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11552){:target="_blank"} | |B Open series with 100% race length\. |
-|[vbr racing leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=11529){:target="_blank"} | | |
 |[Wall Is Friend](https://members.iracing.com/membersite/member/LeagueView.do?league=11541){:target="_blank"} | | |
 |[Warp speed and wicked deeds](https://members.iracing.com/membersite/member/LeagueView.do?league=11579){:target="_blank"} | |Burning Man participants who sim race on iRacing are a unique blend of free\-spirited creativity and competitive drive\. These digital nomads bring the festival’s ethos of radical self\-expression, communal effort, and innovation into the virtual racing world\. Whether designing wild car liveries, organizing themed events, or pushing the limits on the digital track, they merge counter\-culture with motorsport\. For them, racing isn’t just about speed—it's an artistic expression, collaboration, and a celebration of the unconventional\. |
 |[WTL](https://members.iracing.com/membersite/member/LeagueView.do?league=11565){:target="_blank"} | |Wizards Team League for private races and championships\./ Wizards Team League для единичных ивентов и целых чемпионатов |
@@ -53,6 +54,7 @@
 |[Andy and Paddy's Scrambler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11568){:target="_blank"} | |Andy and Paddy's Thunder Cup Series against moderate skill AI opponents |
 |[Dave Cam Legends UK Tour Split 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11544){:target="_blank"} | |https://www\.thesimgrid\.com/championships/9323 |
 |[FastFlyingCars](https://members.iracing.com/membersite/member/LeagueView.do?league=11534){:target="_blank"} | | |
+|[League of Champions](https://members.iracing.com/membersite/member/LeagueView.do?league=11583){:target="_blank"} |[Discord](https://discord.gg/CAgARq8gdp){:target="_blank"} |This is the official League of Champions |
 |[MWSS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11536){:target="_blank"} | |House League |
 |[TestingTesting](https://members.iracing.com/membersite/member/LeagueView.do?league=11553){:target="_blank"} | |Testing |
 |[Votive Truck Sliders Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11550){:target="_blank"} | | |
