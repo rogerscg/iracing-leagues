@@ -25,8 +25,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Motorsport UK Esports Silverstone 300](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2024 Abruzzi Prototype Challenge |Europe |49 |2415 | | | | | |
+|[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |Summer Fun League |North America |16 |2084 |Open | | | | |
 
 ### Ligier JS P320
 
@@ -43,7 +44,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |26 |3555 | |Circuit de Spa-Francorchamps |Sun, September 29 02:10PM EDT |Sun, September 29 07:10PM BST |Mon, September 30 04:10AM AEST |
+|[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |22 |3626 | |Circuit de Spa-Francorchamps |Sun, September 29 02:10PM EDT |Sun, September 29 07:10PM BST |Mon, September 30 04:10AM AEST |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |22 |2835 |Open |Circuit Zandvoort |Thu, October 03 02:15PM EDT |Thu, October 03 07:15PM BST |Fri, October 04 04:15AM AEST |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |17 |2514 | |Circuit de Spa-Francorchamps |Sun, September 29 07:30PM EDT |Mon, September 30 12:30AM BST |Mon, September 30 09:30AM AEST |
 |[Need 4 Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |11 |1460 |Fixed |Barber Motorsports Park |Sat, September 28 07:30PM EDT |Sun, September 29 12:30AM BST |Sun, September 29 09:30AM AEST |
@@ -53,9 +54,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|----------------------------|
 |[Sim Racing Alliance \- Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |28 |1872 |Open |Autodromo Internazionale del Mugello |Thu, October 03 08:30PM EDT |Fri, October 04 01:30AM BST |Fri, October 04 10:30AM AEST |
-|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |26 |2392 |Open |Oulton Park Circuit |Fri, September 27 08:50PM EDT |Sat, September 28 01:50AM BST |Sat, September 28 10:50AM AEST |
+|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |28 |2391 |Open |Willow Springs International Raceway |Fri, October 04 09:00PM EDT |Sat, October 05 02:00AM BST |Sat, October 05 11:00AM AEST |
 |[JPB Nascar Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |20 |2843 | |Autodromo Nazionale Monza |Mon, September 30 03:00PM EDT |Mon, September 30 08:00PM BST |Tue, October 01 05:00AM AEST |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |19 |1457 | | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 Season2 |Australia-NZ |15 |1391 |Fixed |Circuito de Navarra |Thu, October 03 05:30AM EDT |Thu, October 03 10:30AM BST |Thu, October 03 07:30PM AEST |

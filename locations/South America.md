@@ -118,10 +118,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |61 |1997 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |35 |2437 | | | | | |
 |[Racing e\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |1ª Temporada \- GT3 Cup \- by racinge\-sports\.com |South America |17 |2737 | | | | | |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |TREINO |South America |10 |1419 | |Mount Panorama Circuit |Sat, September 28 07:03PM EDT |Sun, September 29 12:03AM BST |Sun, September 29 09:03AM AEST |
 
 ### Stock Car Brasil
 
