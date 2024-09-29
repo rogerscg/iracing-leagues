@@ -29,8 +29,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Average Off\-Road Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8568){:target="_blank"} |AORRL SEASON 3 PRESENTED BY ROTATION |North America |24 |1825 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |2024 Summer Series \- 4x4 Rolling Thunder |North America |20 |2444 |Fixed | | | | |
+|[Average Off\-Road Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8568){:target="_blank"} |AORRL SEASON 3 PRESENTED BY ROTATION |North America |16 |1895 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks West \- 2024 |North America |15 |2539 |Fixed | | | | |
 |[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} |Season 1 Pro4 Road |North America |12 |1359 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |4x4 Rolling Thunder II \- 2024 |North America |10 |2009 |Fixed | | | | |

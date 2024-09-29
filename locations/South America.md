@@ -34,8 +34,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|----------------------------|
-|[TK GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Indycar Challenge \- 24S2 |South America |41 |3007 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|----------------------------|
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar IR18 2024 T4 |South America |19 |1714 |Fixed |[Legacy] Texas Motor Speedway - 2009 |Mon, September 30 06:00PM EDT |Mon, September 30 11:00PM BST |Tue, October 01 08:00AM AEST |
 
 ### FIA F4
@@ -72,8 +71,8 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Pro 2024/3 |South America |30 |3200 | | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |MX\-5 Cup 2024 T4 |South America |25 |1782 |Fixed | | | | |
-|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MAZDA MX\-5 CUP |South America |20 |2755 | | | | | |
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |Production Cup 2024/3 |South America |17 |1922 | | | | | |
+|[BR LEAGUE E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8144){:target="_blank"} |BRL RXP MAZDA MX\-5 CUP |South America |15 |2876 | | | | | |
 
 ### Touring Car
 
@@ -112,17 +111,18 @@
 |-----------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2024/4 |South America |42 |2896 | | | | | |
 |[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/4 |South America |34 |1868 | | | | | |
+|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T4 |South America |27 |2724 | | | | | |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |61 |1997 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |35 |2437 | | | | | |
 |[Racing e\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |1ª Temporada \- GT3 Cup \- by racinge\-sports\.com |South America |17 |2737 | | | | | |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |TREINO |South America |10 |1419 | |Mount Panorama Circuit |Sat, September 28 07:03PM EDT |Sun, September 29 12:03AM BST |Sun, September 29 09:03AM AEST |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |TREINO |South America |13 |1423 | |Nürburgring Combined |Sun, October 06 07:03PM EDT |Mon, October 07 12:03AM BST |Mon, October 07 10:03AM AEDT |
 
 ### Stock Car Brasil
 
@@ -132,5 +132,5 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |Seletiva E\-Stock 2024 |South America |171 |None | | | | | |
 |[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |PRO\-AM \- E\-Stock 2024 S2 |South America |38 |2072 | |Motorsport Arena Oschersleben |Thu, October 03 05:00PM EDT |Thu, October 03 10:00PM BST |Fri, October 04 07:00AM AEST |
-|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |PRO \- E\-Stock 2024 S2 |South America |36 |3368 | | | | | |
+|[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |PRO \- E\-Stock 2024 S2 |South America |36 |3368 | |Motorsport Arena Oschersleben |Sun, October 06 10:00AM EDT |Sun, October 06 03:00PM BST |Mon, October 07 01:00AM AEDT |
 
