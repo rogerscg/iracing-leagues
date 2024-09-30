@@ -20,7 +20,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------|-------------|-------|----|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
-|[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Futures 24B |North America |28 |2717 | |Atlanta Motor Speedway |Sun, September 29 07:00PM EDT |Mon, September 30 12:00AM BST |Mon, September 30 09:00AM AEST |
-|[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Lites 24B |North America |17 |3886 | |Atlanta Motor Speedway |Sun, September 29 08:00PM EDT |Mon, September 30 01:00AM BST |Mon, September 30 10:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------|-----------|-------------|-------|----|-----|-------------|--------|------|------|
+|[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Futures 24B |North America |28 |2765 | | | | | |
+|[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Lites 24B |North America |18 |3852 | | | | | |
 
