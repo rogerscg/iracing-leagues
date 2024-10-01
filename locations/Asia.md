@@ -36,6 +36,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------|--------|-------|----|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
-|[\#SRE Sim Racing Enthusiast](https://members.iracing.com/membersite/member/LeagueView.do?league=7113){:target="_blank"} |SRE League Season 3 Testing |Asia |32 |1878 | |Fuji International Speedway |Mon, September 30 08:30AM EDT |Mon, September 30 01:30PM BST |Mon, September 30 10:30PM AEST |
+|------------------------------------------------------------------------------------------------------------------------|---------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[\#SRE Sim Racing Enthusiast](https://members.iracing.com/membersite/member/LeagueView.do?league=7113){:target="_blank"} |SRE League Season 3 Testing |Asia |36 |1861 | | | | | |
 

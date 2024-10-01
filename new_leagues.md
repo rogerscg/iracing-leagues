@@ -9,23 +9,23 @@
 |[Carolina Sim Sports Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11556){:target="_blank"} | |Dirt Racing League |
 |[CHR Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11585){:target="_blank"} | |CHR |
 |[Dad Bod Motorsports Gt3 Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11560){:target="_blank"} |[Discord](https://discord.gg/rQh5XgbT3M){:target="_blank"} |https://discord\.gg/rQh5XgbT3M |
+|[DES S3 Pr League](https://members.iracing.com/membersite/member/LeagueView.do?league=11600){:target="_blank"} | |Premier League |
 |[Dylan Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11549){:target="_blank"} | |Racing 'n Stuff |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} | | |
 |[Excalibur GT League](https://members.iracing.com/membersite/member/LeagueView.do?league=11596){:target="_blank"} | | |
-|[Flatout Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11543){:target="_blank"} | | |
 |[Flemish SimRacing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11546){:target="_blank"} | | |
 |[Formula AI](https://members.iracing.com/membersite/member/LeagueView.do?league=11592){:target="_blank"} | |An AI Formula league |
 |[Friday Night Showdown \(Southern National\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11551){:target="_blank"} |[Discord](https://discord.gg/egmdeDFy){:target="_blank"} |FRIDAY NIGHTS WE ONLY RUN SOUTHREN NATIONAL \(4 CLASSES\) LATE MODEL/SK MODS/MINI STOCK/STREET STOCK CARS CHANGE WEEK TO WEEK\.  \-25 Min Practice  \-3 Lap Lone Qualifying  \- 55 Lap Race \(subject to change\)  \-Point Scaling System to be Determined  \-Open setups  \-Night racing  \-Full Course Cautions  \-Lucky dog rule \(Admin will enforce\)  \-One Quick Repair  \-Session opens at 8pm \(EST\)   Practice 8pm \(EST\)  Racing 9pm \(EST\)   CURRENTLY RECRUITING ONCE WE HAVE ENOUGH PEOPLE WE WILL START REGULAR SEASON AS OF NOW WE WILL BE RUNNING PRE SEASON \(NO POINTS\) |
 |[FRS \- GT4 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
 |[FRS \- MX5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11577){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
 |[G\.O\. Motorsports Iracing Road Course World Finals](https://members.iracing.com/membersite/member/LeagueView.do?league=11554){:target="_blank"} | | |
-|[Grid Finder Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11542){:target="_blank"} | |The home of all Grid Finder organised Community Racing on iRacing |
 |[KLTS fun league](https://members.iracing.com/membersite/member/LeagueView.do?league=11582){:target="_blank"} | |One for the boys |
 |[KYSCCA Monday Mania](https://members.iracing.com/membersite/member/LeagueView.do?league=11590){:target="_blank"} | |Season 1 KYSCCA Monday Miata Mania |
 |[Major League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11555){:target="_blank"} | |Racing for fun |
 |[Mata Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11588){:target="_blank"} | |All Fun |
 |[Matts League](https://members.iracing.com/membersite/member/LeagueView.do?league=11591){:target="_blank"} | |s |
 |[NORA Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11573){:target="_blank"} | |New series coming to NORA starting in 2025\! Starting back in 2004, we will allow the league to have a say in what direction this league goes\! From crown jewel races, what tracks get a 2nd race, which tracks LOSE a 2nd race\. It is all in the drivers hands\. Don't want the "win and in" format? When the year comes \(if we make it that far\), don't vote for it\!\! |
+|[Nurburgring Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=11598){:target="_blank"} | |Weekly Nurburgring Endurance League\. Season 1\.   3 hour Multi Class GT3 & GT4 races around the Nurburgring\.   15m Practice  45m Qualifying  3h Race |
 |[Oasis Sims League](https://members.iracing.com/membersite/member/LeagueView.do?league=11584){:target="_blank"} | |Come and race it running all kinds of races |
 |[P2 Racing League Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11559){:target="_blank"} |[Discord](https://discord.gg/7x8UKWEqWN){:target="_blank"} | |
 |[Regarded Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=11562){:target="_blank"} | |Season 1 \(2024/2025\) |
@@ -36,6 +36,7 @@
 |[Scotchison's](https://members.iracing.com/membersite/member/LeagueView.do?league=11558){:target="_blank"} | | |
 |[SDR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11575){:target="_blank"} | |By Gulf MX |
 |[Sim Racers Group Thursday Advanced](https://members.iracing.com/membersite/member/LeagueView.do?league=11561){:target="_blank"} | |Super Formula Toyota Following iRacing schedule exactly |
+|[Skid mark](https://members.iracing.com/membersite/member/LeagueView.do?league=11599){:target="_blank"} | | |
 |[Soo Crew iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11594){:target="_blank"} | |Soo and Area Racers |
 |[Spanish league LFS Style](https://members.iracing.com/membersite/member/LeagueView.do?league=11571){:target="_blank"} | |Liga española de iRacing siguiendo el antiguo estilo de liveforspeed\.es\. |
 |[Squirrel's mini turd dirt racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11578){:target="_blank"} | |testing |
@@ -47,6 +48,7 @@
 |[ULTRA ProAm Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11552){:target="_blank"} | |B Open series with 100% race length\. |
 |[USF 2000 AFK](https://members.iracing.com/membersite/member/LeagueView.do?league=11593){:target="_blank"} | | |
 |[Warp speed and wicked deeds](https://members.iracing.com/membersite/member/LeagueView.do?league=11579){:target="_blank"} | |Burning Man participants who sim race on iRacing are a unique blend of free\-spirited creativity and competitive drive\. These digital nomads bring the festival’s ethos of radical self\-expression, communal effort, and innovation into the virtual racing world\. Whether designing wild car liveries, organizing themed events, or pushing the limits on the digital track, they merge counter\-culture with motorsport\. For them, racing isn’t just about speed—it's an artistic expression, collaboration, and a celebration of the unconventional\. |
+|[Wilver Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11597){:target="_blank"} | | |
 |[WTL](https://members.iracing.com/membersite/member/LeagueView.do?league=11565){:target="_blank"} | |Wizards Team League for private races and championships\./ Wizards Team League для единичных ивентов и целых чемпионатов |
 |[ZEK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11547){:target="_blank"} |[Discord](https://discord.gg/DPhuPrpmp7){:target="_blank"} |Campeonato GT3 Individual / GT3 Individual Championship |
 |[Albanian eSports F4 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11545){:target="_blank"} | | |
