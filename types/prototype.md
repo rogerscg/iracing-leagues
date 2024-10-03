@@ -26,8 +26,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
 |[Motorsport UK Esports Silverstone 300](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2024 Abruzzi Prototype Challenge |Europe |49 |2415 | | | | | |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |16 |4300 | |Circuit de Spa-Francorchamps |Thu, October 03 01:00PM EDT |Thu, October 03 06:00PM BST |Fri, October 04 03:00AM AEST |
 |[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |Summer Fun League |North America |16 |2084 |Open | | | | |
 
 ### Ligier JS P320
@@ -64,6 +65,7 @@
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 Season2 |Australia-NZ |15 |1391 |Fixed |Circuito de Navarra |Thu, October 03 05:30AM EDT |Thu, October 03 10:30AM BST |Thu, October 03 07:30PM AEST |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 2 \- Radical SR8 |North America |12 |1008 |Open |Okayama International Circuit |Tue, October 08 10:00PM EDT |Wed, October 09 03:00AM BST |Wed, October 09 01:00PM AEDT |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |The Carpy's Cup |North America |11 |1293 | | | | | |
+|[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |Radical Season |North America |10 |1679 | |Oulton Park Circuit |Wed, October 09 08:30PM EDT |Thu, October 10 01:30AM BST |Thu, October 10 11:30AM AEDT |
 
 ### Spec Racer Ford
 
