@@ -15,25 +15,25 @@
 |[Excalibur GT League](https://members.iracing.com/membersite/member/LeagueView.do?league=11596){:target="_blank"} | | |
 |[Formula AI](https://members.iracing.com/membersite/member/LeagueView.do?league=11592){:target="_blank"} | |An AI Formula league |
 |[Formula madness](https://members.iracing.com/membersite/member/LeagueView.do?league=11606){:target="_blank"} |[Discord](https://discord.gg/JgnNgf4mge){:target="_blank"} |Any formula car ranging from Formula vee to F4 is allowed |
-|[FRS \- GT4 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
 |[FRS \- MX5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11577){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
 |[Grand Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11610){:target="_blank"} | | |
+|[Greybeard Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11614){:target="_blank"} | |Safe place for 40\+ y/o drivers to learn and perfect their race craft\. No targeting, or malicious wrecking of other drivers\. |
 |[Ground Pounder Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11608){:target="_blank"} | |SK and Tour Modifieds |
 |[KLTS fun league](https://members.iracing.com/membersite/member/LeagueView.do?league=11582){:target="_blank"} | |One for the boys |
 |[Koreylandia](https://members.iracing.com/membersite/member/LeagueView.do?league=11613){:target="_blank"} | |4Fun @Koreylandia |
 |[KYSCCA Monday Mania](https://members.iracing.com/membersite/member/LeagueView.do?league=11590){:target="_blank"} | |Season 1 KYSCCA Monday Miata Mania |
+|[FRS \- GT4 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
 |[Mata Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11588){:target="_blank"} | |All Fun |
 |[Matts League](https://members.iracing.com/membersite/member/LeagueView.do?league=11591){:target="_blank"} | |s |
+|[New LEague](https://members.iracing.com/membersite/member/LeagueView.do?league=11615){:target="_blank"} | | |
 |[NORA Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11573){:target="_blank"} | |New series coming to NORA starting in 2025\! Starting back in 2004, we will allow the league to have a say in what direction this league goes\! From crown jewel races, what tracks get a 2nd race, which tracks LOSE a 2nd race\. It is all in the drivers hands\. Don't want the "win and in" format? When the year comes \(if we make it that far\), don't vote for it\!\! |
 |[Oasis Sims League](https://members.iracing.com/membersite/member/LeagueView.do?league=11584){:target="_blank"} | |Come and race it running all kinds of races |
-|[P2 Racing League Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11559){:target="_blank"} |[Discord](https://discord.gg/7x8UKWEqWN){:target="_blank"} | |
 |[Powerslide Testing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11609){:target="_blank"} | |Powerslide Testing League |
 |[Redline Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11607){:target="_blank"} | | |
 |[Regarded Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=11562){:target="_blank"} | |Season 1 \(2024/2025\) |
 |[RIL Roval Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11567){:target="_blank"} | | |
 |[MX5 International](https://members.iracing.com/membersite/member/LeagueView.do?league=11581){:target="_blank"} | |MX5 to keep the performance even and wins based on driver skill, this league will run both the free and paid tracks during the season |
 |[Rookie Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11570){:target="_blank"} | |Wir sind eine anfängerfreundliche Rennliga\. Wir haben uns auf einen einfachen Einstieg ins Sim\-Racing fokussiert bieten aber auch Racing für erfahrene Racer an\! |
-|[Scotchison's](https://members.iracing.com/membersite/member/LeagueView.do?league=11558){:target="_blank"} | | |
 |[SDR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11575){:target="_blank"} | |By Gulf MX |
 |[Sim Racers Group Thursday Advanced](https://members.iracing.com/membersite/member/LeagueView.do?league=11561){:target="_blank"} | |Super Formula Toyota Following iRacing schedule exactly |
 |[SimracerX](https://members.iracing.com/membersite/member/LeagueView.do?league=11602){:target="_blank"} | |GT3 Meisterschaft |
