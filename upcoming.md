@@ -29,8 +29,16 @@
 |------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[Intense Racing Sim Series \(i\.R\.S\.S\.\)](https://members.iracing.com/membersite/member/LeagueView.do?league=8129){:target="_blank"} |Season 7 Trucks |Fixed |Daytona International Speedway |Thu, October 10 07:30PM EDT |Fri, October 11 12:30AM BST |Fri, October 11 10:30AM AEDT |
 |[Millertime Motorsports 360 Dirt Sprint League](https://members.iracing.com/membersite/member/LeagueView.do?league=7083){:target="_blank"} |Season 2 Nascar Truck Series Presented by Tarmac eSports | |Daytona International Speedway |Wed, October 09 07:00PM EDT |Thu, October 10 12:00AM BST |Thu, October 10 10:00AM AEDT |
-|[ORRL \- Rebels Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=6103){:target="_blank"} |Season 9 Rebels Trucks | |Daytona International Speedway |Sun, October 06 08:00PM EDT |Mon, October 07 01:00AM BST |Mon, October 07 11:00AM AEDT |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Eternity Trucks October 2024 Championship | |Talladega Superspeedway |Mon, October 07 09:00PM EDT |Tue, October 08 02:00AM BST |Tue, October 08 12:00PM AEDT |
+|[WSL](https://members.iracing.com/membersite/member/LeagueView.do?league=9800){:target="_blank"} |WSL Truck Series Oct 24 \- May 25 |Fixed |Talladega Superspeedway |Mon, October 14 08:00PM EDT |Tue, October 15 01:00AM BST |Tue, October 15 11:00AM AEDT |
+
+### Silverado
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|[Smokey Mountain XASCAR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10530){:target="_blank"} |XASCAR Rally House Truck Series \- Season 10 | |Daytona International Speedway |Mon, October 07 09:30PM EDT |Tue, October 08 02:30AM BST |Tue, October 08 12:30PM AEDT |
 
 # Oval
 
@@ -65,10 +73,8 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
-|[Full Throttle racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=10782){:target="_blank"} |mini stocks | |Martinsville Speedway |Sun, October 06 08:00PM EDT |Mon, October 07 01:00AM BST |Mon, October 07 11:00AM AEDT |
 |[Extreme Forces NEXTGEN Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8578){:target="_blank"} |RMRL ALLTHEDIRT PAVEMENT SERIES SEASON 4 | |Langley Speedway |Tue, October 08 09:00PM EDT |Wed, October 09 02:00AM BST |Wed, October 09 12:00PM AEDT |
 |[MLR Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4968){:target="_blank"} |MINI STOCK \- SEASON 2 | |Southern National Motorsports Park |Thu, October 10 08:00PM EDT |Fri, October 11 01:00AM BST |Fri, October 11 11:00AM AEDT |
-|[Mello's SRX Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10240){:target="_blank"} |2024\-2025 Mini Stock Season |Fixed |Nashville Superspeedway |Sun, October 06 08:00PM EDT |Mon, October 07 01:00AM BST |Mon, October 07 11:00AM AEDT |
 
 ### Street Stocks
 
@@ -109,9 +115,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------------------------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------|----------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
 |[Friday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=11487){:target="_blank"} |2024 \- Season 4 | |Circuit de Spa-Francorchamps |Fri, October 11 08:15PM EDT |Sat, October 12 01:15AM BST |Sat, October 12 11:15AM AEDT |
-|[LIGA FRS \- F4](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS Super Formula Lights \- 24T4 | |Sebring International Raceway |Sun, October 06 05:00PM EDT |Sun, October 06 10:00PM BST |Mon, October 07 08:00AM AEDT |
 
 ### Super Formula SF23
 
@@ -154,8 +159,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|-----------------|---------------------------|---------------------------|----------------------------|
-|[Flemish SimRacing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11546){:target="_blank"} |Flemish TCR Cup | |Circuit Zandvoort |Sun, October 06 01:30PM EDT |Sun, October 06 06:30PM BST |Mon, October 07 04:30AM AEDT |
+|------------------------------------------------------------------------------------------------------------|-------------------------------|-----|-----------------|---------------------------|---------------------------|----------------------------|
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |FLANC Club Serie 2024/25 \- TCR |Fixed |Circuit Zandvoort |Thu, October 10 12:30PM EDT |Thu, October 10 05:30PM BST |Fri, October 11 03:30AM AEDT |
 
 ### Toyota GR86
@@ -169,21 +173,12 @@
 
 # Prototype
 
-### GTP
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------|--------------|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[FMC F3](https://members.iracing.com/membersite/member/LeagueView.do?league=11168){:target="_blank"} |Week 2 October |Open |Charlotte Motor Speedway |Sun, October 06 11:00PM EDT |Mon, October 07 04:00AM BST |Mon, October 07 02:00PM AEDT |
-
 ### Radical SR8
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|-------------------------|---------------------------|---------------------------|----------------------------|
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 1 |Fixed |Autodromo Nazionale Monza |Sun, October 06 08:00PM EDT |Mon, October 07 01:00AM BST |Mon, October 07 11:00AM AEDT |
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
 |[Kart Canada iRacing League \(KARTPLEX\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |Fixed |Circuito de Navarra |Wed, October 09 12:05AM EDT |Wed, October 09 05:05AM BST |Wed, October 09 03:05PM AEDT |
 
 # Dirt Oval
@@ -204,14 +199,22 @@
 |---------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|---------------------------|---------------------------|---------------------------|----------------------------|
 |[💀Dööm Crüe \- iRacing Chapter💀](https://members.iracing.com/membersite/member/LeagueView.do?league=9235){:target="_blank"} |Dirt Demons Pro Late Models |Fixed |The Dirt Track at Charlotte |Thu, October 10 07:00PM EDT |Fri, October 11 12:00AM BST |Fri, October 11 10:00AM AEDT |
 
+### Dirt SprintCar - 305
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------|--------------------|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|[Reigel Promotions E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2024 305 Harvest Cup |Fixed |USA International Speedway |Mon, October 14 07:00PM EDT |Tue, October 15 12:00AM BST |Tue, October 15 10:00AM AEDT |
+
 ### Dirt SprintCar - 360
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|[Reigel Promotions E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2024 360 Harvest Cup |Fixed |USA International Speedway |Mon, October 14 08:00PM EDT |Tue, October 15 01:00AM BST |Tue, October 15 11:00AM AEDT |
 |[Sprint Car Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5481){:target="_blank"} |Fall Winter 2024 360 Winged Sprints | |Knoxville Raceway |Mon, October 07 09:00PM EDT |Tue, October 08 02:00AM BST |Tue, October 08 12:00PM AEDT |
-|[National Auto Racing Club \- Ignition Series \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5331){:target="_blank"} |NARC No Limit 360 Sprints 24\.4 |Open |USA International Speedway |Sun, October 06 08:45PM EDT |Mon, October 07 01:45AM BST |Mon, October 07 11:45AM AEDT |
 
 ### Dirt Sprintcar - 410
 
@@ -233,18 +236,14 @@
 |[ESR Academy \- 12H Sebring](https://members.iracing.com/membersite/member/LeagueView.do?league=4647){:target="_blank"} |ESR Sportscar Trophy 2024 | |Circuit de Spa-Francorchamps |Mon, October 07 12:00PM EDT |Mon, October 07 05:00PM BST |Tue, October 08 03:00AM AEDT |
 |[American Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=36){:target="_blank"} |2024 Wednesday SportsCar Championship Fall \- Season 5 |Fixed |Road Atlanta |Wed, October 09 07:30PM EDT |Thu, October 10 12:30AM BST |Thu, October 10 10:30AM AEDT |
 |[Azz Tech Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11528){:target="_blank"} |ATRL ES S1 |Both |Road Atlanta |Sat, October 12 07:20AM EDT |Sat, October 12 12:20PM BST |Sat, October 12 10:20PM AEDT |
-|[MOP](https://members.iracing.com/membersite/member/LeagueView.do?league=6669){:target="_blank"} |SNOWBALL |Fixed |Five Flags Speedway |Sun, October 06 06:15PM EDT |Sun, October 06 11:15PM BST |Mon, October 07 09:15AM AEDT |
 |[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |SRW \- Super Formula Lights \- 2024 \- S4 | |Road Atlanta |Wed, October 09 03:00AM EDT |Wed, October 09 08:00AM BST |Wed, October 09 06:00PM AEDT |
-|[CE\-GT3 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Prologue | |Circuit de Spa-Francorchamps |Sun, October 06 01:00PM EDT |Sun, October 06 06:00PM BST |Mon, October 07 04:00AM AEDT |
 
 ### Ring Meister
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------------|--------------------------|-----|-------------------------|---------------------------|---------------------------|----------------------------|
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |GT Series Season 9 |Fixed |Circuit Zolder |Thu, October 10 08:30PM EDT |Fri, October 11 01:30AM BST |Fri, October 11 11:30AM AEDT |
-|[Llama Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |DHRL GTD Season 3 |Both |Circuit de Spa-Francorchamps |Sun, October 06 07:30PM EDT |Mon, October 07 12:30AM BST |Mon, October 07 10:30AM AEDT |
 |[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 4: GT3 Extravaganza |Both |Autodromo Nazionale Monza |Mon, October 07 08:30PM EDT |Tue, October 08 01:30AM BST |Tue, October 08 11:30AM AEDT |
-|[East 2 West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7380){:target="_blank"} |OGR |Both |Lime Rock Park |Sun, October 06 09:30PM EDT |Mon, October 07 02:30AM BST |Mon, October 07 12:30PM AEDT |
 
