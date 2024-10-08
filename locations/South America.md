@@ -8,16 +8,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-----------------------|---------------------------|---------------------------|----------------------------|
-|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3382 | |Talladega Superspeedway |Mon, October 07 06:30PM EDT |Mon, October 07 11:30PM BST |Tue, October 08 09:30AM AEDT |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
+|[VC Cup Series 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3379 | |Charlotte Motor Speedway |Mon, October 14 06:30PM EDT |Mon, October 14 11:30PM BST |Tue, October 15 09:30AM AEDT |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T4 |South America |45 |2416 | | | | | |
+|---------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
+|[Diecasts & Collectables Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T4 |South America |45 |2416 | |Las Vegas Motor Speedway |Tue, October 15 06:30PM EDT |Tue, October 15 11:30PM BST |Wed, October 16 09:30AM AEDT |
 
 # Open-wheel
 
@@ -26,8 +26,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-----------------------------------------------|---------------------------|---------------------------|----------------------------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar DW12 Rookie |South America |21 |1458 |Fixed |[Legacy] Michigan International Speedway - 2009 |Mon, October 07 06:00PM EDT |Mon, October 07 11:00PM BST |Tue, October 08 09:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar DW12 Rookie |South America |21 |1484 |Fixed | | | | |
 
 ### FIA F4
 
@@ -89,7 +89,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------|---------------------------|---------------------------|----------------------------|
-|[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Temporada 2024 |South America |41 |3581 | | | | | |
+|[IRB League](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Temporada 2024 |South America |40 |3598 | | | | | |
 |[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |TCR Cup 2024/4 |South America |21 |2414 | |Road Atlanta |Wed, October 09 07:25PM EDT |Thu, October 10 12:25AM BST |Thu, October 10 10:25AM AEDT |
 
 ### Toyota GR86
@@ -98,6 +98,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/4 |South America |38 |2064 | | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GR Cup 2024 T4 |South America |18 |1917 |Fixed |Motorsport Arena Oschersleben |Thu, October 10 06:30PM EDT |Thu, October 10 11:30PM BST |Fri, October 11 09:30AM AEDT |
 
 # Prototype
@@ -112,20 +113,7 @@
 
 # Multi-class/Unclassified
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |63 |1907 | | | | | |
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |52 |2295 | | | | | |
-|[F1BC BMW M Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2024/4 |South America |21 |1942 | | | | | |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP |South America |16 |1401 | |Circuit de Spa-Francorchamps |Sun, October 13 02:00PM EDT |Sun, October 13 07:00PM BST |Mon, October 14 05:00AM AEDT |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |TREINO |South America |16 |1435 | |Circuit de Spa-Francorchamps |Fri, October 11 07:03PM EDT |Sat, October 12 12:03AM BST |Sat, October 12 10:03AM AEDT |
-|[Racing e\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |1ª Temporada \- GT3 Cup \- by racinge\-sports\.com |South America |14 |2828 | | | | | |
-
-### Ring Meister
+### GT3 Class
 
 [Back to Top](#)  
 
@@ -134,6 +122,19 @@
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2024/4 |South America |42 |2896 | |Circuit de Barcelona Catalunya |Thu, October 10 07:25PM EDT |Fri, October 11 12:25AM BST |Fri, October 11 10:25AM AEDT |
 |[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/4 |South America |34 |1868 | |Circuit de Barcelona Catalunya |Thu, October 10 05:25PM EDT |Thu, October 10 10:25PM BST |Fri, October 11 08:25AM AEDT |
 |[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T4 |South America |27 |2724 | |Indianapolis Motor Speedway |Tue, October 08 06:30PM EDT |Tue, October 08 11:30PM BST |Wed, October 09 09:30AM AEDT |
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |62 |1884 | | | | | |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |52 |2295 | | | | | |
+|[F1BC BMW M Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2024/4 |South America |21 |1942 | | | | | |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP |South America |16 |1401 | |Circuit de Spa-Francorchamps |Sun, October 13 02:00PM EDT |Sun, October 13 07:00PM BST |Mon, October 14 05:00AM AEDT |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |TREINO |South America |16 |1435 | |Circuit de Spa-Francorchamps |Fri, October 11 07:03PM EDT |Sat, October 12 12:03AM BST |Sat, October 12 10:03AM AEDT |
+|[Racing e\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |1ª Temporada \- GT3 Cup \- by racinge\-sports\.com |South America |14 |2828 | | | | | |
 
 ### Stock Car Brasil
 
