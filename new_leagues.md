@@ -2,10 +2,11 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[4 cylinder cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11574){:target="_blank"} | |4 cylinder racing on dirt |
 |[A\.I Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=11589){:target="_blank"} | |A\.I Promotions Money Races |
 |[ACE AND MATTHEW ONLY](https://members.iracing.com/membersite/member/LeagueView.do?league=11621){:target="_blank"} | |ACE AND MATTHEW PN:Y |
 |[ASRC Pro/Am League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |[Discord](https://discord.gg/rVvnuqH8SM){:target="_blank"} |دوري من تنظيم مجتمع سباقات المحاكاة العربي   الدوري هذا له هدفين أساسيين:  \- إنه يكون مكان يتجمع فيه كل محبين السيم ريسنق و ندخل سباقات نظيفة و منظمة و ممتعة مع بعض\.  \- إنه يكون مكان آمن و محفز للشباب الجدد على هواية السيم، و إلي عندهم خبرة بس حابين إنهم يتعلموا أكثر، إنهم يغلطوا و يتعلموا من أخطائهم\. |
+|[Banr Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11632){:target="_blank"} |[Discord](https://discord.gg/uRmZBteW69){:target="_blank"} |This is a league more oriented towards Formula 1 Cars\. Right now we are running a W12/W13 league\. |
+|[Boden Wiener League](https://members.iracing.com/membersite/member/LeagueView.do?league=11633){:target="_blank"} | | |
 |[CHR Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11585){:target="_blank"} | |CHR |
 |[Co\-op Career](https://members.iracing.com/membersite/member/LeagueView.do?league=11625){:target="_blank"} | | |
 |[DES S3 Pr League](https://members.iracing.com/membersite/member/LeagueView.do?league=11600){:target="_blank"} | |Premier League |
@@ -16,15 +17,13 @@
 |[KLTS fun league](https://members.iracing.com/membersite/member/LeagueView.do?league=11582){:target="_blank"} | |One for the boys |
 |[Formula AI](https://members.iracing.com/membersite/member/LeagueView.do?league=11592){:target="_blank"} | |An AI Formula league |
 |[Formula madness](https://members.iracing.com/membersite/member/LeagueView.do?league=11606){:target="_blank"} |[Discord](https://discord.gg/JgnNgf4mge){:target="_blank"} |Any formula car ranging from Formula vee to F4 is allowed |
-|[FRS \- MX5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11577){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
-|[Grand Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11610){:target="_blank"} | | |
+|[Grand Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11610){:target="_blank"} | |Arca series to Jumpboost League		  		  Sunday night 8:30pm EST start		  15 week schedule 5 playoff races		  12 drivers in the playoffs based of points		  No win and your in		  Half way cation		  No Fast Repairs		  All drivers are welcomes if 18plus and working mic		  Full time race control		  		  Website : https://jumpboostracing\.com/ |
 |[Greybeard Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11614){:target="_blank"} | |Safe place for 40\+ y/o drivers to learn and perfect their race craft\. No targeting, or malicious wrecking of other drivers\. |
 |[Ground Pounder Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11608){:target="_blank"} | |SK and Tour Modifieds |
 |[Hot Laps 24/7](https://members.iracing.com/membersite/member/LeagueView.do?league=11624){:target="_blank"} | |clean, competitive, fun |
 |[Koreylandia](https://members.iracing.com/membersite/member/LeagueView.do?league=11613){:target="_blank"} | |4Fun @Koreylandia |
 |[KYSCCA Monday Mania](https://members.iracing.com/membersite/member/LeagueView.do?league=11590){:target="_blank"} | |Season 1 KYSCCA Monday Miata Mania |
 |[Leave The Pack Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11626){:target="_blank"} | | |
-|[FRS \- GT4 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} | |🇧🇷 Liga de Automobilismo Virtual Patrocínio: 🎮 LOGITECH 🏎️ RAKE PARTS 💺 LIMA RACE 🕹️ RMS SIM RACING |
 |[Mata Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11588){:target="_blank"} | |All Fun |
 |[Matts League](https://members.iracing.com/membersite/member/LeagueView.do?league=11591){:target="_blank"} | |s |
 |[Nage Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11622){:target="_blank"} | |Norwegian Racing |
@@ -33,14 +32,13 @@
 |[Powerslide Testing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11609){:target="_blank"} | |Powerslide Testing League |
 |[Que/West Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11628){:target="_blank"} |[Discord](https://discord.gg/qqMTjVyD){:target="_blank"} |Big Block Modified |
 |[Rapid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11627){:target="_blank"} |[Discord](https://discord.gg/VWatZwxUZU){:target="_blank"} |Rapid iRacing Series Saturdays 6pm AEDT |
+|[RB Racing Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11631){:target="_blank"} |[Discord](https://discord.gg/kwB7nfKynd){:target="_blank"} |This is a league comprised of ONLY special events\. No set schedule with periodic races that are hosted, broadcasted, include race control, and are PAID\! |
 |[Redline Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11607){:target="_blank"} | | |
 |[MX5 International](https://members.iracing.com/membersite/member/LeagueView.do?league=11581){:target="_blank"} | |MX5 to keep the performance even and wins based on driver skill, this league will run both the free and paid tracks during the season |
-|[SDR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11575){:target="_blank"} |[Discord](https://discord.gg/g2sGh9At){:target="_blank"} |By Gulf MX |
 |[SimracerX](https://members.iracing.com/membersite/member/LeagueView.do?league=11602){:target="_blank"} | |GT3 Meisterschaft |
 |[SK LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11611){:target="_blank"} | | |
 |[Skid mark](https://members.iracing.com/membersite/member/LeagueView.do?league=11599){:target="_blank"} | | |
 |[Soo Crew iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11594){:target="_blank"} | |Soo and Area Racers |
-|[Squirrel's mini turd dirt racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11578){:target="_blank"} | |testing |
 |[Stinger Racing Association \- Late Model Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11586){:target="_blank"} | |20 race schedule with restricted open setup |
 |[Switch Back Racing GT3/GT4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=11605){:target="_blank"} | |Want to race with a friendly but competitive community? Join us, as we learn and grow together to become better drivers\. |
 |[Short Track Rivals Sunday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11604){:target="_blank"} | | |
@@ -55,6 +53,8 @@
 |[\(4\) GOODYEAR TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11618){:target="_blank"} | | |
 |[\(5\) NAPA AUTO PARTS CLASS B CAR SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11619){:target="_blank"} | | |
 |[\(6\) NASCAR CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11620){:target="_blank"} | | |
+|[GRDC Radical Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11634){:target="_blank"} | | |
 |[League of Champions](https://members.iracing.com/membersite/member/LeagueView.do?league=11583){:target="_blank"} |[Discord](https://discord.gg/CAgARq8gdp){:target="_blank"} |This is the official League of Champions |
+|[Makoon Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11630){:target="_blank"} | |MaKoonGamingLiga |
 |[Thunderdome](https://members.iracing.com/membersite/member/LeagueView.do?league=11587){:target="_blank"} | |NASCAR Series |
 

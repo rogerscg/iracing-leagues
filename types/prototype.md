@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|--------------------|------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D LMP2 Challenge |Australia-NZ |29 |2534 |Both |Circuit de Barcelona Catalunya |Mon, October 14 04:10AM EDT |Mon, October 14 09:10AM BST |Mon, October 14 07:10PM AEDT |
-|[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |LMP2 Challenge |Europe |24 |2013 | |Watkins Glen International |Tue, October 08 03:00PM EDT |Tue, October 08 08:00PM BST |Wed, October 09 06:00AM AEDT |
+|[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |LMP2 Challenge |Europe |24 |2016 | |Daytona International Speedway |Tue, October 15 03:00PM EDT |Tue, October 15 08:00PM BST |Wed, October 16 06:00AM AEDT |
 
 ### GTP
 
@@ -64,7 +64,7 @@
 |[JPB Nascar Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2823 | |Mount Panorama Circuit |Mon, October 14 03:00PM EDT |Mon, October 14 08:00PM BST |Tue, October 15 06:00AM AEDT |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |17 |1450 | | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 Season2 |Australia-NZ |15 |1374 |Fixed | | | | |
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 2 \- Radical SR8 |North America |12 |1062 |Open |Okayama International Circuit |Tue, October 08 10:00PM EDT |Wed, October 09 03:00AM BST |Wed, October 09 01:00PM AEDT |
+|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 2 \- Radical SR8 |North America |12 |1050 |Open |Mount Panorama Circuit |Tue, October 15 10:00PM EDT |Wed, October 16 03:00AM BST |Wed, October 16 01:00PM AEDT |
 |[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |Radical Season |North America |10 |1679 | |Oulton Park Circuit |Wed, October 09 08:30PM EDT |Thu, October 10 01:30AM BST |Thu, October 10 11:30AM AEDT |
 
 ### Spec Racer Ford
