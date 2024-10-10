@@ -18,7 +18,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
-|[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} |eGP Hypercar Championship \- Season 1 |Europe |30 |2954 | |Circuit des 24 Heures du Mans |Wed, October 09 01:00PM EDT |Wed, October 09 06:00PM BST |Thu, October 10 04:00AM AEDT |
+|[eGP Hypercar Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} |eGP Hypercar Championship \- Season 1 |Europe |30 |2954 | |Circuit des 24 Heures du Mans |Sun, October 13 01:00PM EDT |Sun, October 13 06:00PM BST |Mon, October 14 04:00AM AEDT |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2024 Season 4 \- Session 2 |North America |13 |1684 | |Road Atlanta |Mon, October 14 09:06PM EDT |Tue, October 15 02:06AM BST |Tue, October 15 12:06PM AEDT |
 |[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |Summer Fun League |North America |12 |2214 |Open | | | | |
 
@@ -28,7 +28,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|--------------|---------------------------|---------------------------|----------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |53 |3996 | |Circuit Zolder |Wed, October 09 01:00PM EDT |Wed, October 09 06:00PM BST |Thu, October 10 04:00AM AEDT |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |54 |3681 | |Circuit Zolder |Thu, October 10 01:00PM EDT |Thu, October 10 06:00PM BST |Fri, October 11 04:00AM AEDT |
 |[Motorsport UK Esports Silverstone 300](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2024 Abruzzi Prototype Challenge |Europe |49 |2415 | | | | | |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Old School Prototype Challenge S1 |Europe |17 |1847 | |Road America |Fri, October 11 05:00PM EDT |Fri, October 11 10:00PM BST |Sat, October 12 08:00AM AEDT |
 
@@ -38,7 +38,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
-|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Dentistry Conference World Tour |North America |47 |2483 | |Autódromo José Carlos Pace |Wed, October 09 09:00PM EDT |Thu, October 10 02:00AM BST |Thu, October 10 12:00PM AEDT |
+|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Dentistry Conference World Tour |North America |48 |2473 | |Circuit of the Americas |Wed, October 16 09:00PM EDT |Thu, October 17 02:00AM BST |Thu, October 17 12:00PM AEDT |
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship \- Season 4 |Europe |41 |2297 |Fixed |Circuit de Spa-Francorchamps |Sun, October 13 02:00PM EDT |Sun, October 13 07:00PM BST |Mon, October 14 05:00AM AEDT |
 
 ### Radical SR10
@@ -65,7 +65,7 @@
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |17 |1450 | | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 Season2 |Australia-NZ |15 |1374 |Fixed | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 2 \- Radical SR8 |North America |12 |1050 |Open |Mount Panorama Circuit |Tue, October 15 10:00PM EDT |Wed, October 16 03:00AM BST |Wed, October 16 01:00PM AEDT |
-|[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |Radical Season |North America |10 |1679 | |Oulton Park Circuit |Wed, October 09 08:30PM EDT |Thu, October 10 01:30AM BST |Thu, October 10 11:30AM AEDT |
+|[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |Radical Season |North America |10 |1714 | |Summit Point Raceway |Wed, October 16 08:30PM EDT |Thu, October 17 01:30AM BST |Thu, October 17 11:30AM AEDT |
 
 ### Spec Racer Ford
 
