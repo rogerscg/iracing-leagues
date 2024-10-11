@@ -5,17 +5,14 @@
 |[A\.I Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=11589){:target="_blank"} | |A\.I Promotions Money Races |
 |[ACE AND MATTHEW ONLY](https://members.iracing.com/membersite/member/LeagueView.do?league=11621){:target="_blank"} | |ACE AND MATTHEW PN:Y |
 |[ASRC Pro/Am League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |[Discord](https://discord.gg/rVvnuqH8SM){:target="_blank"} |دوري من تنظيم مجتمع سباقات المحاكاة العربي   الدوري هذا له هدفين أساسيين:  \- إنه يكون مكان يتجمع فيه كل محبين السيم ريسنق و ندخل سباقات نظيفة و منظمة و ممتعة مع بعض\.  \- إنه يكون مكان آمن و محفز للشباب الجدد على هواية السيم، و إلي عندهم خبرة بس حابين إنهم يتعلموا أكثر، إنهم يغلطوا و يتعلموا من أخطائهم\. |
-|[Australian Mini Stocks iRacing Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=11641){:target="_blank"} |[Discord](https://discord.gg/ZaMWNkWTug){:target="_blank"} |Australian Mini Stocks iRacing Championships |
 |[Banr Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11632){:target="_blank"} |[Discord](https://discord.gg/uRmZBteW69){:target="_blank"} |This is a league more oriented towards Formula 1 Cars\. Right now we are running a W12/W13 league\. |
 |[Boden Wiener League](https://members.iracing.com/membersite/member/LeagueView.do?league=11633){:target="_blank"} | | |
-|[CHR Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11585){:target="_blank"} | |CHR |
 |[Co\-op Career](https://members.iracing.com/membersite/member/LeagueView.do?league=11625){:target="_blank"} | | |
 |[DES S3 Pr League](https://members.iracing.com/membersite/member/LeagueView.do?league=11600){:target="_blank"} | |Premier League |
 |[Diesel Motor Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=11623){:target="_blank"} |[Discord](https://discord.gg/sr7yT7eG4c){:target="_blank"} |Formula 4 series |
 |[DVN Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11629){:target="_blank"} | |1st Season |
 |[ESRX \- Elite Sim Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11601){:target="_blank"} | | |
 |[Excalibur GT League](https://members.iracing.com/membersite/member/LeagueView.do?league=11596){:target="_blank"} | | |
-|[KLTS fun league](https://members.iracing.com/membersite/member/LeagueView.do?league=11582){:target="_blank"} | |One for the boys |
 |[Formula AI](https://members.iracing.com/membersite/member/LeagueView.do?league=11592){:target="_blank"} | |An AI Formula league |
 |[Formula madness](https://members.iracing.com/membersite/member/LeagueView.do?league=11606){:target="_blank"} |[Discord](https://discord.gg/JgnNgf4mge){:target="_blank"} |Any formula car ranging from Formula vee to F4 is allowed |
 |[GRDC Radical Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11634){:target="_blank"} | | |
@@ -24,6 +21,7 @@
 |[Ground Pounder Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11608){:target="_blank"} | |SK and Tour Modifieds |
 |[Hot Laps 24/7](https://members.iracing.com/membersite/member/LeagueView.do?league=11624){:target="_blank"} | |clean, competitive, fun |
 |[HVRL Trucks A](https://members.iracing.com/membersite/member/LeagueView.do?league=11637){:target="_blank"} | |For the experienced oval truck driver 2\-3k iRating |
+|[Joe's IRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11642){:target="_blank"} | |fun casual league, no try hards or kiddies\. fun racers who race hard but clean |
 |[Koreylandia](https://members.iracing.com/membersite/member/LeagueView.do?league=11613){:target="_blank"} | |4Fun @Koreylandia |
 |[KYSCCA Monday Mania](https://members.iracing.com/membersite/member/LeagueView.do?league=11590){:target="_blank"} | |Season 1 KYSCCA Monday Miata Mania |
 |[Leave The Pack Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11626){:target="_blank"} | | |
@@ -33,13 +31,11 @@
 |[Nage Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11622){:target="_blank"} | |Norwegian Racing |
 |[New LEague](https://members.iracing.com/membersite/member/LeagueView.do?league=11615){:target="_blank"} | | |
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} | |Dirt oval racing league 305s,360s,limited late models |
-|[Oasis Sims League](https://members.iracing.com/membersite/member/LeagueView.do?league=11584){:target="_blank"} | |Come and race it running all kinds of races |
 |[Powerslide Testing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11609){:target="_blank"} | |Powerslide Testing League |
 |[Que/West Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11628){:target="_blank"} |[Discord](https://discord.gg/qqMTjVyD){:target="_blank"} |Big Block Modified |
 |[Rapid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11627){:target="_blank"} |[Discord](https://discord.gg/VWatZwxUZU){:target="_blank"} |Rapid iRacing Series Saturdays 6pm AEDT |
 |[RB Racing Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11631){:target="_blank"} |[Discord](https://discord.gg/kwB7nfKynd){:target="_blank"} |This is a league comprised of ONLY special events\. No set schedule with periodic races that are hosted, broadcasted, include race control, and are PAID\! |
 |[Redline Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11607){:target="_blank"} | | |
-|[MX5 International](https://members.iracing.com/membersite/member/LeagueView.do?league=11581){:target="_blank"} | |MX5 to keep the performance even and wins based on driver skill, this league will run both the free and paid tracks during the season |
 |[SimracerX](https://members.iracing.com/membersite/member/LeagueView.do?league=11602){:target="_blank"} | |GT3 Meisterschaft |
 |[SK LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11611){:target="_blank"} | | |
 |[SKC Snowfall Derby](https://members.iracing.com/membersite/member/LeagueView.do?league=11638){:target="_blank"} | |Stockholm karting center winter iRacing league |
@@ -47,6 +43,7 @@
 |[Soo Crew iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11594){:target="_blank"} | |Soo and Area Racers |
 |[Stinger Racing Association \- Late Model Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11586){:target="_blank"} | |20 race schedule with restricted open setup |
 |[Switch Back Racing GT3/GT4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=11605){:target="_blank"} | |Want to race with a friendly but competitive community? Join us, as we learn and grow together to become better drivers\. |
+|[THE SHOW](https://members.iracing.com/membersite/member/LeagueView.do?league=11643){:target="_blank"} | |A competitive dynamic league introducing all styles of racing\. Owned by Major League Baseball Left\-Handed Pitcher Cole Irvin |
 |[Short Track Rivals Sunday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11604){:target="_blank"} | | |
 |[Short Track Rivals Tuesday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11603){:target="_blank"} | | |
 |[Thundering Wheels](https://members.iracing.com/membersite/member/LeagueView.do?league=11595){:target="_blank"} | | |
@@ -58,9 +55,9 @@
 |[\(4\) GOODYEAR TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11618){:target="_blank"} | | |
 |[\(5\) NAPA AUTO PARTS CLASS B CAR SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11619){:target="_blank"} | | |
 |[\(6\) NASCAR CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11620){:target="_blank"} | | |
+|[Australian Mini Stocks iRacing Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=11641){:target="_blank"} |[Discord](https://discord.gg/ZaMWNkWTug){:target="_blank"} |Australian Mini Stocks iRacing Championships |
 |[DM SIM GARAGE FACE OFF](https://members.iracing.com/membersite/member/LeagueView.do?league=11636){:target="_blank"} | | |
 |[FIA Motorsport Games](https://members.iracing.com/membersite/member/LeagueView.do?league=11635){:target="_blank"} | |Valencia |
-|[League of Champions](https://members.iracing.com/membersite/member/LeagueView.do?league=11583){:target="_blank"} |[Discord](https://discord.gg/CAgARq8gdp){:target="_blank"} |This is the official League of Champions |
 |[Makoon Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11630){:target="_blank"} | |MaKoonGamingLiga |
 |[Thunderdome](https://members.iracing.com/membersite/member/LeagueView.do?league=11587){:target="_blank"} | |NASCAR Series |
 

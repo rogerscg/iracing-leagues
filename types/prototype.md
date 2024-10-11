@@ -27,8 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|--------------|---------------------------|---------------------------|----------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |54 |3681 | |Circuit Zolder |Thu, October 10 01:00PM EDT |Thu, October 10 06:00PM BST |Fri, October 11 04:00AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|-------------|---------------------------|---------------------------|----------------------------|
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |57 |3624 | |Road Atlanta |Wed, October 16 01:00PM EDT |Wed, October 16 06:00PM BST |Thu, October 17 04:00AM AEDT |
 |[Motorsport UK Esports Silverstone 300](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2024 Abruzzi Prototype Challenge |Europe |49 |2415 | | | | | |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Old School Prototype Challenge S1 |Europe |17 |1847 | |Road America |Fri, October 11 05:00PM EDT |Fri, October 11 10:00PM BST |Sat, October 12 08:00AM AEDT |
 
@@ -47,7 +47,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------------|---------------------------|---------------------------|----------------------------|
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |24 |2832 |Open |Detroit Grand Prix at Belle Isle |Thu, October 10 02:15PM EDT |Thu, October 10 07:15PM BST |Fri, October 11 05:15AM AEDT |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |24 |2910 |Open |Circuito de Navarra |Thu, October 17 02:15PM EDT |Thu, October 17 07:15PM BST |Fri, October 18 05:15AM AEDT |
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |23 |3666 | |Nürburgring Nordschleife |Sun, October 13 02:10PM EDT |Sun, October 13 07:10PM BST |Mon, October 14 05:10AM AEDT |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |18 |2515 | |Nürburgring Nordschleife |Sun, October 13 07:30PM EDT |Mon, October 14 12:30AM BST |Mon, October 14 10:30AM AEDT |
 |[Need 4 Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |13 |1398 |Fixed |Sandown International Motor Raceway |Sat, October 12 07:30PM EDT |Sun, October 13 12:30AM BST |Sun, October 13 10:30AM AEDT |
@@ -57,13 +57,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D DFL Radical SR8 |Australia-NZ |36 |2325 |Both |Canadian Tire Motorsports Park |Fri, October 11 04:30AM EDT |Fri, October 11 09:30AM BST |Fri, October 11 07:30PM AEDT |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |34 |2372 |Open |Brands Hatch Circuit |Fri, October 11 09:00PM EDT |Sat, October 12 02:00AM BST |Sat, October 12 12:00PM AEDT |
-|[Sim Racing Alliance \- Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |28 |1872 |Open |Suzuka International Racing Course |Thu, October 10 08:30PM EDT |Fri, October 11 01:30AM BST |Fri, October 11 11:30AM AEDT |
+|[Sim Racing Alliance \- Sportscar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |28 |1847 |Open |Circuito de Navarra |Thu, October 17 08:30PM EDT |Fri, October 18 01:30AM BST |Fri, October 18 11:30AM AEDT |
 |[JPB Nascar Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2823 | |Mount Panorama Circuit |Mon, October 14 03:00PM EDT |Mon, October 14 08:00PM BST |Tue, October 15 06:00AM AEDT |
 |[Campeonatos Classicos](https://members.iracing.com/membersite/member/LeagueView.do?league=9921){:target="_blank"} |Radical demais\! |South America |17 |1450 | | | | | |
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SR8 Season2 |Australia-NZ |15 |1374 |Fixed | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- Tuesday Season 2 \- Radical SR8 |North America |12 |1050 |Open |Mount Panorama Circuit |Tue, October 15 10:00PM EDT |Wed, October 16 03:00AM BST |Wed, October 16 01:00PM AEDT |
 |[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |Radical Season |North America |10 |1714 | |Summit Point Raceway |Wed, October 16 08:30PM EDT |Thu, October 17 01:30AM BST |Thu, October 17 11:30AM AEDT |
 
