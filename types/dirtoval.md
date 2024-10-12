@@ -40,11 +40,11 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Pro Late Model All Stars Tour 2024 |Australia-NZ |64 |2686 | |Cedar Lake Speedway |Fri, October 11 05:30AM EDT |Fri, October 11 10:30AM BST |Fri, October 11 08:30PM AEDT |
+|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Pro Late Model All Stars Tour 2024 |Australia-NZ |65 |2637 | | | | | |
 |[Hard Luck Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11376){:target="_blank"} |Season 1 HLHT |North America |42 |2470 | | | | | |
 |[Dirty Dollar Pro Late model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10096){:target="_blank"} |2024 Best Of The Best Pro Series |North America |41 |2218 | | | | | |
-|[LM 'Tasmanian / JSI Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11177){:target="_blank"} |LM ' Tasmanian / JSI Series |Australia-NZ |40 |2898 | | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |North America |39 |2576 |Open |Port Royal Speedway |Sun, October 13 07:15PM EDT |Mon, October 14 12:15AM BST |Mon, October 14 10:15AM AEDT |
+|[LM 'Tasmanian / JSI Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11177){:target="_blank"} |LM ' Tasmanian / JSI Series |Australia-NZ |39 |2824 | | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |North America |38 |2553 |Open |Port Royal Speedway |Sun, October 13 07:15PM EDT |Mon, October 14 12:15AM BST |Mon, October 14 10:15AM AEDT |
 |[Midwest misfits](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |The Pro Lates Tour Presented By Right Rear Racing |North America |26 |2217 |Fixed |Lernerville Speedway |Wed, October 16 09:30PM EDT |Thu, October 17 02:30AM BST |Thu, October 17 12:30PM AEDT |
 |[RuffNeck\-DIRT\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10990){:target="_blank"} |Ruff\-Neck Dirt Racing |North America |26 |2085 | | | | | |
 |[West Desert iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} |J&BLMT Season 1 |North America |23 |1902 | | | | | |
@@ -65,21 +65,21 @@
 |[RaceVLR](https://members.iracing.com/membersite/member/LeagueView.do?league=11407){:target="_blank"} |2024 Spring Fling |North America |58 |5711 | | | | | |
 |[2024 Spring Fling Group 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11419){:target="_blank"} |2024 Spring Fling |North America |57 |6357 | | | | | |
 |[Spring Madness Pro Invitational Main Event](https://members.iracing.com/membersite/member/LeagueView.do?league=10540){:target="_blank"} |Spring Madness Pro Invitational Season 1 |North America |55 |6789 | | | | | |
-|[WOTEL SUPER LATE MODELS NATIONAL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=4007){:target="_blank"} |WOTEL SLM S26 |North America |49 |5676 | | | | | |
+|[WOTEL SUPER LATE MODELS NATIONAL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=4007){:target="_blank"} |WOTEL SLM S26 |North America |38 |5304 | | | | | |
 |[CKR Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=11341){:target="_blank"} |Super Late Slam |Australia-NZ |28 |2705 | | | | | |
 |[High Side Hustler's](https://members.iracing.com/membersite/member/LeagueView.do?league=9649){:target="_blank"} |HSSL S5 |North America |28 |3145 | | | | | |
 |[RaceVLR](https://members.iracing.com/membersite/member/LeagueView.do?league=11420){:target="_blank"} |2024 Spring Fling |North America |25 |6915 | | | | | |
 |[RaceVLR](https://members.iracing.com/membersite/member/LeagueView.do?league=11421){:target="_blank"} |2024 Spring Fling |North America |24 |5350 | | | | | |
-|[Slinging Dirt Series by PBM](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |Hooked Up Super Lates 2024\.2 |North America |21 |3048 |Both |Lincoln Speedway |Tue, October 15 08:30PM EDT |Wed, October 16 01:30AM BST |Wed, October 16 11:30AM AEDT |
 |[3D Racing v Mud Duck Racing Redux](https://members.iracing.com/membersite/member/LeagueView.do?league=6903){:target="_blank"} |Season 3 Fall 2024 |North America |19 |4411 |Both |Knoxville Raceway |Tue, October 15 09:00PM EDT |Wed, October 16 02:00AM BST |Wed, October 16 12:00PM AEDT |
+|[Slinging Dirt Series by PBM](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |Hooked Up Super Lates 2024\.2 |North America |18 |3049 |Both |Lincoln Speedway |Tue, October 15 08:30PM EDT |Wed, October 16 01:30AM BST |Wed, October 16 11:30AM AEDT |
 
 ### Dirt Micro Sprint Car - Winged
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |Micro Sprint Championship |North America |23 |1311 | |Lanier National Speedway |Fri, October 11 08:00PM EDT |Sat, October 12 01:00AM BST |Sat, October 12 11:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------------------|---------------------------|---------------------------|----------------------------|
+|[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |Micro Sprint Championship |North America |24 |1331 | |Limaland Motorsports Park |Fri, October 18 08:00PM EDT |Sat, October 19 01:00AM BST |Sat, October 19 11:00AM AEDT |
 
 ### Dirt Midget
 
@@ -90,8 +90,8 @@
 |[TRL Street Stock Title 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |Midgets Madness 2024 |Australia-NZ |40 |3312 | | | | | |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |2024 S4 Narc Midgets |North America |36 |2982 |Open |Cedar Lake Speedway |Tue, October 15 10:00PM EDT |Wed, October 16 03:00AM BST |Wed, October 16 01:00PM AEDT |
 |[NETCODEshop\.com Mighty Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3159){:target="_blank"} |2024C |North America |25 |2844 |Fixed | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MIDGET |North America |24 |2156 |Open | | | | |
 |[MVP Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4039){:target="_blank"} |100% Slick Midget League |North America |21 |2781 | | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MIDGET |North America |20 |2089 |Open | | | | |
 
 ### Dirt Outlaw Micro Sprint Car - Winged
 
@@ -122,7 +122,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|---------------------|---------------------------|---------------------------|----------------------------|
-|[ASND Elite 360 Sprintcar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7201){:target="_blank"} |2024 Knoxville 360 Nationals |Australia-NZ |60 |3064 | | | | | |
 |[ASND Evolution 360 sprintcar series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Open 360 Sprintcar Series |Australia-NZ |58 |3014 | | | | | |
 |[AcesUp Sim Sports 360 Sprints](https://members.iracing.com/membersite/member/LeagueView.do?league=10746){:target="_blank"} |AcesUp Fall Frenzy 360 Sprint Cars |North America |56 |4289 | |Knoxville Raceway |Wed, October 16 09:00PM EDT |Thu, October 17 02:00AM BST |Thu, October 17 12:00PM AEDT |
 |[Virtual Racing Aotearoa \- 2024 Midget Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |2024 Sprintcar Series |Australia-NZ |56 |3431 | | | | | |
@@ -184,7 +183,7 @@
 |--------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|------------------------------------|---------------------------|---------------------------|----------------------------|
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |DMR 2024 |North America |28 |2720 |Fixed |Federated Auto Parts Raceway at I-55 |Thu, October 17 11:00PM EDT |Fri, October 18 04:00AM BST |Fri, October 18 02:00PM AEDT |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Great Lakes Speed Shop UMP Mods S2 |North America |15 |1817 | | | | | |
-|[Vortex UMP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9974){:target="_blank"} |Vortex UMP Series 2024 |North America |13 |2477 | | | | | |
+|[Vortex UMP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9974){:target="_blank"} |Vortex UMP Series 2024 |North America |13 |2686 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -210,5 +209,5 @@
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |Monday BBM/SLM |North America |12 |2178 |Fixed | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2024 Season 4 \- Dirty Tuesdays |North America |11 |1453 |Fixed |Williams Grove Speedway |Tue, October 15 07:00PM EDT |Wed, October 16 12:00AM BST |Wed, October 16 10:00AM AEDT |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |dirt wlnged warrlors |North America |11 |1260 |Open |The Dirt Track at Charlotte |Mon, October 14 08:00PM EDT |Tue, October 15 01:00AM BST |Tue, October 15 11:00AM AEDT |
-|[The Peoples Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=10083){:target="_blank"} |Season 8 |North America |10 |1650 |Fixed | | | | |
+|[The Peoples Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=10083){:target="_blank"} |Season 8 |North America |10 |1661 |Fixed | | | | |
 

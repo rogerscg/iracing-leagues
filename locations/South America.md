@@ -140,7 +140,7 @@
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |65 |1870 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |52 |2295 | |Circuit de Barcelona Catalunya |Wed, October 16 06:00PM EDT |Wed, October 16 11:00PM BST |Thu, October 17 09:00AM AEDT |
 |[F1BC BMW M Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2024/4 |South America |21 |1942 | |Circuit Zolder |Wed, October 16 05:10PM EDT |Wed, October 16 10:10PM BST |Thu, October 17 08:10AM AEDT |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |TREINO |South America |17 |1426 | |Circuit de Spa-Francorchamps |Fri, October 11 07:03PM EDT |Sat, October 12 12:03AM BST |Sat, October 12 10:03AM AEDT |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |TREINO |South America |17 |1426 | |Road Atlanta |Sat, October 12 07:03PM EDT |Sun, October 13 12:03AM BST |Sun, October 13 10:03AM AEDT |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP |South America |16 |1401 | |Circuit de Spa-Francorchamps |Sun, October 13 02:00PM EDT |Sun, October 13 07:00PM BST |Mon, October 14 05:00AM AEDT |
 |[Racing e\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |1ª Temporada \- GT3 Cup \- by racinge\-sports\.com |South America |14 |2828 | | | | | |
 
@@ -149,8 +149,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[IRB \- \[AM\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=1891){:target="_blank"} |Seletiva E\-Stock 2024 |South America |171 |None | | | | | |
 |[IRB \- \[PRO\] Heineken 0\.0 MoT Road to Pro 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=5022){:target="_blank"} |PRO \- E\-Stock 2024 S2 |South America |38 |3446 | | | | | |
-|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |PRO\-AM \- E\-Stock 2024 S2 |South America |38 |2126 | | | | | |
+|[IRB \- AutoNow 992 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=732){:target="_blank"} |PRO\-AM \- E\-Stock 2024 S2 |South America |38 |2126 | |Virginia International Raceway |Thu, October 17 05:00PM EDT |Thu, October 17 10:00PM BST |Fri, October 18 08:00AM AEDT |
 

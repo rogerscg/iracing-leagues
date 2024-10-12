@@ -1,7 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[A\.I Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=11589){:target="_blank"} | |A\.I Promotions Money Races |
 |[ACE AND MATTHEW ONLY](https://members.iracing.com/membersite/member/LeagueView.do?league=11621){:target="_blank"} | |ACE AND MATTHEW PN:Y |
 |[ASRC Pro/Am League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |[Discord](https://discord.gg/rVvnuqH8SM){:target="_blank"} |دوري من تنظيم مجتمع سباقات المحاكاة العربي   الدوري هذا له هدفين أساسيين:  \- إنه يكون مكان يتجمع فيه كل محبين السيم ريسنق و ندخل سباقات نظيفة و منظمة و ممتعة مع بعض\.  \- إنه يكون مكان آمن و محفز للشباب الجدد على هواية السيم، و إلي عندهم خبرة بس حابين إنهم يتعلموا أكثر، إنهم يغلطوا و يتعلموا من أخطائهم\. |
@@ -26,8 +26,8 @@
 |[KYSCCA Monday Mania](https://members.iracing.com/membersite/member/LeagueView.do?league=11590){:target="_blank"} | |Season 1 KYSCCA Monday Miata Mania |
 |[Leave The Pack Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11626){:target="_blank"} | | |
 |[M1RA](https://members.iracing.com/membersite/member/LeagueView.do?league=11639){:target="_blank"} | | |
-|[Mata Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11588){:target="_blank"} | |All Fun |
 |[Matts League](https://members.iracing.com/membersite/member/LeagueView.do?league=11591){:target="_blank"} | |s |
+|[Mohsen Yedonast](https://members.iracing.com/membersite/member/LeagueView.do?league=11644){:target="_blank"} | |Happy Birthday Mohsen Jan |
 |[Nage Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11622){:target="_blank"} | |Norwegian Racing |
 |[New LEague](https://members.iracing.com/membersite/member/LeagueView.do?league=11615){:target="_blank"} | | |
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} | |Dirt oval racing league 305s,360s,limited late models |
@@ -41,7 +41,6 @@
 |[SKC Snowfall Derby](https://members.iracing.com/membersite/member/LeagueView.do?league=11638){:target="_blank"} | |Stockholm karting center winter iRacing league |
 |[Skid mark](https://members.iracing.com/membersite/member/LeagueView.do?league=11599){:target="_blank"} | | |
 |[Soo Crew iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11594){:target="_blank"} | |Soo and Area Racers |
-|[Stinger Racing Association \- Late Model Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11586){:target="_blank"} | |20 race schedule with restricted open setup |
 |[Switch Back Racing GT3/GT4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=11605){:target="_blank"} | |Want to race with a friendly but competitive community? Join us, as we learn and grow together to become better drivers\. |
 |[THE SHOW](https://members.iracing.com/membersite/member/LeagueView.do?league=11643){:target="_blank"} | |A competitive dynamic league introducing all styles of racing\. Owned by Major League Baseball Left\-Handed Pitcher Cole Irvin |
 |[Short Track Rivals Sunday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11604){:target="_blank"} | | |
@@ -59,5 +58,4 @@
 |[DM SIM GARAGE FACE OFF](https://members.iracing.com/membersite/member/LeagueView.do?league=11636){:target="_blank"} | | |
 |[FIA Motorsport Games](https://members.iracing.com/membersite/member/LeagueView.do?league=11635){:target="_blank"} | |Valencia |
 |[Makoon Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11630){:target="_blank"} | |MaKoonGamingLiga |
-|[Thunderdome](https://members.iracing.com/membersite/member/LeagueView.do?league=11587){:target="_blank"} | |NASCAR Series |
 
