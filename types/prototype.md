@@ -45,11 +45,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |24 |2910 |Open |Circuito de Navarra |Thu, October 17 02:15PM EDT |Thu, October 17 07:15PM BST |Fri, October 18 05:15AM AEDT |
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |23 |3666 | |Nürburgring Nordschleife |Sun, October 13 02:10PM EDT |Sun, October 13 07:10PM BST |Mon, October 14 05:10AM AEDT |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |18 |2515 | |Nürburgring Nordschleife |Sun, October 13 07:30PM EDT |Mon, October 14 12:30AM BST |Mon, October 14 10:30AM AEDT |
-|[Need 4 Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |13 |1398 |Fixed |Sandown International Motor Raceway |Sat, October 12 07:30PM EDT |Sun, October 13 12:30AM BST |Sun, October 13 10:30AM AEDT |
+|[Need 4 Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |13 |1434 |Fixed |Canadian Tire Motorsports Park |Sat, October 19 07:30PM EDT |Sun, October 20 12:30AM BST |Sun, October 20 10:30AM AEDT |
 
 ### Radical SR8
 
@@ -70,6 +70,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |59 |2921 |Open |Charlotte Motor Speedway |Sun, October 13 02:40PM EDT |Sun, October 13 07:40PM BST |Mon, October 14 05:40AM AEDT |
+|[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 9 |North America |37 |1932 |Fixed | | | | |
+|[Free Car Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6969){:target="_blank"} |Free Car Cup \- S9 \-Warm Up |Europe |24 |1875 | | | | | |
 
