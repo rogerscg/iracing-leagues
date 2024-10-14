@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[\#SRE Sim Racing Enthusiast](https://members.iracing.com/membersite/member/LeagueView.do?league=7113){:target="_blank"} |SRE League Season 3 |Asia |40 |1828 | | | | | |
-|[\#SRE Sim Racing Enthusiast](https://members.iracing.com/membersite/member/LeagueView.do?league=7113){:target="_blank"} |SRE League Season 3 Testing |Asia |38 |1841 | | | | | |
-|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Russian Endurance Series 2024 |Asia |20 |1352 |Both | | | | |
+|------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|[\#SRE Sim Racing Enthusiast](https://members.iracing.com/membersite/member/LeagueView.do?league=7113){:target="_blank"} |SRE League Season 3 |Asia |40 |1828 | |Autódromo José Carlos Pace |Wed, October 16 08:30AM EDT |Wed, October 16 01:30PM BST |Wed, October 16 11:30PM AEDT |
+|[\#SRE Sim Racing Enthusiast](https://members.iracing.com/membersite/member/LeagueView.do?league=7113){:target="_blank"} |SRE League Season 3 Testing |Asia |38 |1841 | |Autódromo José Carlos Pace |Mon, October 14 08:30AM EDT |Mon, October 14 01:30PM BST |Mon, October 14 11:30PM AEDT |
+|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Russian Endurance Series 2024 |Asia |20 |2028 |Both | | | | |
 
