@@ -50,8 +50,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Formula 1600 2024 T4 |South America |33 |1794 |Fixed | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-----------------|---------------------------|---------------------------|----------------------------|
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Formula 1600 2024 T4 |South America |33 |1794 |Fixed |Oran Park Raceway |Wed, October 30 06:30PM EDT |Wed, October 30 10:30PM GMT |Thu, October 31 09:30AM AEDT |
 |[Koreylandia](https://members.iracing.com/membersite/member/LeagueView.do?league=11613){:target="_blank"} |Primeira Temporada \- 4Fun Koreylandia |South America |17 |1496 | | | | | |
 
 ### Super Formula Lights
@@ -68,8 +68,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |F1BC SuperFormula 2024\-4 |South America |15 |2779 | | | | | |
+|---------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------------------------------|---------------------------|---------------------------|----------------------------|
+|[F1BC Indi Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |F1BC SuperFormula 2024\-4 |South America |15 |2779 | |Misano World Circuit Marco Simoncelli |Wed, October 30 07:25PM EDT |Wed, October 30 11:25PM GMT |Thu, October 31 10:25AM AEDT |
 
 # Sports Car
 
@@ -110,7 +110,7 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[F1BC GR86 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/4 |South America |40 |2138 | | | | | |
 |[LIGA FRS](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 24T4 |South America |38 |2069 | |Oulton Park Circuit |Tue, October 29 05:00PM EDT |Tue, October 29 09:00PM GMT |Wed, October 30 08:00AM AEDT |
-|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge \- 24S3 |South America |30 |2575 | |Red Bull Ring |Tue, October 22 05:40PM EDT |Tue, October 22 10:40PM BST |Wed, October 23 08:40AM AEDT |
+|[TK Road Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge \- 24S3 |South America |37 |2693 | | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GR Cup 2024 T4 |South America |22 |1828 |Fixed |Summit Point Raceway |Thu, October 24 06:30PM EDT |Thu, October 24 11:30PM BST |Fri, October 25 09:30AM AEDT |
 
 # Multi-class/Unclassified
@@ -120,11 +120,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------------------|---------------------------|---------------------------|----------------------------|
 |[F1BC GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2024/4 |South America |42 |2931 | |Circuit Gilles Villeneuve |Thu, October 24 07:25PM EDT |Fri, October 25 12:25AM BST |Fri, October 25 10:25AM AEDT |
 |[F1BC GT3 iRacing AM](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/4 |South America |37 |1878 | |Circuit Gilles Villeneuve |Thu, October 24 05:25PM EDT |Thu, October 24 10:25PM BST |Fri, October 25 08:25AM AEDT |
 |[ESRA](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA GT3 |South America |31 |1722 | |Circuit Gilles Villeneuve |Sat, October 26 01:50PM EDT |Sat, October 26 06:50PM BST |Sun, October 27 04:50AM AEDT |
-|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T4 |South America |27 |2687 | |Autódromo José Carlos Pace |Tue, October 22 06:30PM EDT |Tue, October 22 11:30PM BST |Wed, October 23 09:30AM AEDT |
+|[XPG Mercedes AMG F1](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T4 |South America |27 |2737 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -133,8 +133,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |62 |1820 | |Winton Motor Raceway |Wed, October 23 06:00AM EDT |Wed, October 23 11:00AM BST |Wed, October 23 09:00PM AEDT |
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |45 |2126 | | | | | |
-|[F1BC BMW M Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2024/4 |South America |25 |2001 | | | | | |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |45 |2126 | |Circuit Gilles Villeneuve |Wed, October 30 06:00PM EDT |Wed, October 30 10:00PM GMT |Thu, October 31 09:00AM AEDT |
+|[F1BC BMW M Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2024/4 |South America |25 |2001 | |Silverstone Circuit |Wed, October 30 05:10PM EDT |Wed, October 30 09:10PM GMT |Thu, October 31 08:10AM AEDT |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP |South America |20 |1406 |Both |Daytona International Speedway |Sun, October 27 02:00PM EDT |Sun, October 27 06:00PM GMT |Mon, October 28 05:00AM AEDT |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |TREINO |South America |18 |1355 |Both |Daytona International Speedway |Fri, October 25 07:03PM EDT |Sat, October 26 12:03AM BST |Sat, October 26 10:03AM AEDT |
 

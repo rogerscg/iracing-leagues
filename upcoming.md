@@ -10,10 +10,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|[Multi League](https://members.iracing.com/membersite/member/LeagueView.do?league=3569){:target="_blank"} |Multi League Cup Series |Fixed |Homestead Miami Speedway |Wed, October 23 08:00PM EDT |Thu, October 24 01:00AM BST |Thu, October 24 11:00AM AEDT |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Draught Masters S4 |Both |Atlanta Motor Speedway |Sat, October 26 09:00PM EDT |Sun, October 27 01:00AM GMT |Sun, October 27 12:00PM AEDT |
 |[THE SHOW](https://members.iracing.com/membersite/member/LeagueView.do?league=11643){:target="_blank"} |Inaugural Season 0\.1 | |Daytona International Speedway |Wed, October 23 06:00PM EDT |Wed, October 23 11:00PM BST |Thu, October 24 09:00AM AEDT |
-|[TW MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=3600){:target="_blank"} |T\.W\. Next Gen\. | |Talladega Superspeedway |Tue, October 22 07:58PM EDT |Wed, October 23 12:58AM BST |Wed, October 23 10:58AM AEDT |
 
 ### NASCAR Truck Series
 
@@ -22,7 +22,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[CMS Sunday Night Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11327){:target="_blank"} |2024 S2 Sunday Night Truck Series |Open |Atlanta Motor Speedway |Sun, October 27 08:15PM EDT |Mon, October 28 12:15AM GMT |Mon, October 28 11:15AM AEDT |
-|[Race Headz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7690){:target="_blank"} |RH Trucks |Both |Charlotte Motor Speedway |Tue, October 22 08:28PM EDT |Wed, October 23 01:28AM BST |Wed, October 23 11:28AM AEDT |
 |[Sampsoid Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=5691){:target="_blank"} |Sampsoid Thursday Night Thunder Season 16 |Fixed |Phoenix Raceway |Thu, October 24 08:15PM EDT |Fri, October 25 01:15AM BST |Fri, October 25 11:15AM AEDT |
 |[NEP SHIFT Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4677){:target="_blank"} |NEP SuperTrucks Season 6 | |Daytona International Speedway |Fri, October 25 07:30PM EDT |Sat, October 26 12:30AM BST |Sat, October 26 10:30AM AEDT |
 
@@ -32,6 +31,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-----|----------------------|---------------------------|---------------------------|----------------------------|
+|[\(NSR\) Nortex Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=499){:target="_blank"} |Mixed Series Season 2 |Fixed |Richmond Raceway |Wed, October 23 09:00PM EDT |Thu, October 24 02:00AM BST |Thu, October 24 12:00PM AEDT |
 |[Racers Elite \- Stafford Motor Speedway Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11089){:target="_blank"} |Racers Elite \- Whelen Modified Fixed Series \(Season 1\) | |Bristol Motor Speedway |Sat, October 26 07:50PM EDT |Sun, October 27 12:50AM BST |Sun, October 27 10:50AM AEDT |
 
 # Oval
@@ -49,8 +49,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[WD Broadcasting Network SLM Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5801){:target="_blank"} |LTP TUESDAY NIGHT LATE MODELS S1 | |Five Flags Speedway |Tue, October 22 08:00PM EDT |Wed, October 23 01:00AM BST |Wed, October 23 11:00AM AEDT |
+|------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Hometown Short track Late Model Season 6 |Both |Five Flags Speedway |Wed, October 23 09:00PM EDT |Thu, October 24 02:00AM BST |Thu, October 24 12:00PM AEDT |
 
 ### Mini Stock
@@ -66,43 +65,20 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|----------------------------------------|---------------------------|---------------------------|----------------------------|
+|[High School Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11683){:target="_blank"} |Pre\-Season Racing League | |[Legacy] Charlotte Motor Speedway - 2008 |Mon, October 28 05:30PM EDT |Mon, October 28 09:30PM GMT |Tue, October 29 08:30AM AEDT |
 |[WD Broadcasting Network SLM Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5801){:target="_blank"} |LTP STREET STOCK SHOWDOWN S2 | |Five Flags Speedway |Wed, October 23 08:00PM EDT |Thu, October 24 01:00AM BST |Thu, October 24 11:00AM AEDT |
 |[Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Hometown Short track Street Stock season 6 |Both |Five Flags Speedway |Wed, October 23 08:00PM EDT |Thu, October 24 01:00AM BST |Thu, October 24 11:00AM AEDT |
 
-### Super Late Model
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-----------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[GOAT Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8391){:target="_blank"} |Sim500 Super Late Model | |Five Flags Speedway |Tue, October 22 07:30PM EDT |Wed, October 23 12:30AM BST |Wed, October 23 10:30AM AEDT |
-
 # Open-wheel
-
-### Dallara IR18
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
-|[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Indycar |Open |Okayama International Circuit |Tue, October 22 03:00PM EDT |Tue, October 22 08:00PM BST |Wed, October 23 06:00AM AEDT |
 
 ### Ray FF1600
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------|---------------------------|---------------------------|----------------------------|
-|[GM PDT Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6251){:target="_blank"} |F1600 Fall Challenge Series | |Circuit de Lédenon |Tue, October 22 07:30PM EDT |Wed, October 23 12:30AM BST |Wed, October 23 10:30AM AEDT |
-
-### Super Formula Lights
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |Season 3 \- SF Lights | |Nürburgring Grand-Prix-Strecke |Tue, October 22 03:00PM EDT |Tue, October 22 08:00PM BST |Wed, October 23 06:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |24/25 BiS F1600 Championship | |Brands Hatch Circuit |Wed, October 30 07:00PM EDT |Wed, October 30 11:00PM GMT |Thu, October 31 10:00AM AEDT |
 
 ### Super Formula SF23
 
@@ -110,7 +86,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|--------------|-----|------------|---------------------------|---------------------------|----------------------------|
-|[IVR Interliga Virtual Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} |Super Copa IVR | |Road America |Tue, October 29 10:00PM EDT |Wed, October 30 02:00AM GMT |Wed, October 30 01:00PM AEDT |
+|[IVR Interliga Virtual Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} |Super Copa IVR |Fixed |Road America |Tue, October 29 10:00PM EDT |Wed, October 30 02:00AM GMT |Wed, October 30 01:00PM AEDT |
 
 # Sports Car
 
@@ -123,6 +99,14 @@
 |[OGRL Tuesday MX\-5 Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=10221){:target="_blank"} |Season 5 2024 | |Circuito de Navarra |Tue, October 29 07:00PM EDT |Tue, October 29 11:00PM GMT |Wed, October 30 10:00AM AEDT |
 
 # Dirt Oval
+
+### Dirt Late Model - Limited
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|-------------------|-----|---------------------|---------------------------|---------------------------|----------------------------|
+|[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |Limited Late Models |Fixed |Volusia Speedway Park |Wed, October 30 09:00PM EDT |Thu, October 31 01:00AM GMT |Thu, October 31 12:00PM AEDT |
 
 ### Dirt SprintCar - 305
 
@@ -159,7 +143,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[Auburn iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11659){:target="_blank"} |Development Series Fall 2024 | |Circuito de Navarra |Thu, October 24 08:00PM EDT |Fri, October 25 01:00AM BST |Fri, October 25 11:00AM AEDT |
-|[Auburn iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11659){:target="_blank"} |Fall 2024 Series | |Talladega Superspeedway |Tue, October 22 08:00PM EDT |Wed, October 23 01:00AM BST |Wed, October 23 11:00AM AEDT |
 |[CMS Team Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5813){:target="_blank"} |Practice sessions |Open |Road America |Sat, October 26 11:30AM EDT |Sat, October 26 04:30PM BST |Sun, October 27 02:30AM AEDT |
 |[GT Meister Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10095){:target="_blank"} |GTMR GT3 Championship |Both |Road Atlanta |Wed, October 23 08:00PM EDT |Thu, October 24 01:00AM BST |Thu, October 24 11:00AM AEDT |
 |[ORNL F1 League](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |LMP3/GT4 2024 |Open |Daytona International Speedway |Thu, October 24 02:00PM EDT |Thu, October 24 07:00PM BST |Fri, October 25 05:00AM AEDT |
