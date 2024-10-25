@@ -18,9 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[CMS Sunday Night Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11327){:target="_blank"} |2024 S2 Sunday Night Truck Series |Open |Atlanta Motor Speedway |Sun, October 27 08:15PM EDT |Mon, October 28 12:15AM GMT |Mon, October 28 11:15AM AEDT |
-|[Sampsoid Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=5691){:target="_blank"} |Sampsoid Thursday Night Thunder Season 16 |Fixed |Phoenix Raceway |Thu, October 24 08:15PM EDT |Fri, October 25 01:15AM BST |Fri, October 25 11:15AM AEDT |
 |[NEP SHIFT Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4677){:target="_blank"} |NEP SuperTrucks Season 6 | |Daytona International Speedway |Fri, October 25 07:30PM EDT |Sat, October 26 12:30AM BST |Sat, October 26 10:30AM AEDT |
 
 ### Whelen Modified
@@ -54,8 +53,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[Friday Night Mini Misfits](https://members.iracing.com/membersite/member/LeagueView.do?league=11663){:target="_blank"} |Friday Night Mini Misfits Asphalt | |Five Flags Speedway |Thu, October 24 09:00PM EDT |Fri, October 25 02:00AM BST |Fri, October 25 12:00PM AEDT |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------|---------------------------|---------------------------|----------------------------|
 |[Good Brothers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3487){:target="_blank"} |Mini Stock Short Season |Both |Lanier National Speedway |Sat, October 26 10:15PM EDT |Sun, October 27 02:15AM GMT |Sun, October 27 01:15PM AEDT |
 
 ### Street Stocks
@@ -65,6 +63,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|-------------------------|-----|----------------------------------------|---------------------------|---------------------------|----------------------------|
 |[High School Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11683){:target="_blank"} |Pre\-Season Racing League | |[Legacy] Charlotte Motor Speedway - 2008 |Mon, October 28 05:30PM EDT |Mon, October 28 09:30PM GMT |Tue, October 29 08:30AM AEDT |
+|[Team Hellcat](https://members.iracing.com/membersite/member/LeagueView.do?league=11679){:target="_blank"} |Street Stocks: Season 1 | |Thompson Speedway Motorsports Park |Tue, October 29 08:00PM EDT |Wed, October 30 12:00AM GMT |Wed, October 30 11:00AM AEDT |
 
 # Open-wheel
 
@@ -120,14 +119,6 @@
 |---------------------------------------------------------------------------------------------------------------------|-------------------|-----|---------------------|---------------------------|---------------------------|----------------------------|
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |Limited Late Models |Fixed |Volusia Speedway Park |Wed, October 30 09:00PM EDT |Thu, October 31 01:00AM GMT |Thu, October 31 12:00PM AEDT |
 
-### Dirt Midget
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|------|-----|------------------|---------------------------|---------------------------|----------------------------|
-|[NETCODEshop\.com Mighty Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3159){:target="_blank"} |2024D |Fixed |Lucas Oil Speedway |Thu, October 24 08:30PM EDT |Fri, October 25 01:30AM BST |Fri, October 25 11:30AM AEDT |
-
 ### Dirt SprintCar - 305
 
 [Back to Top](#)  
@@ -151,20 +142,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |High Point Racing GT3 Season 3 |Both |Oulton Park Circuit |Sun, October 27 08:00PM EDT |Mon, October 28 12:00AM GMT |Mon, October 28 11:00AM AEDT |
 |[Rainbow Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10704){:target="_blank"} |RRL GT3 Season 1 | |Silverstone Circuit |Sun, October 27 03:00PM EDT |Sun, October 27 07:00PM GMT |Mon, October 28 06:00AM AEDT |
 |[NZ Virtual Toyota 86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10662){:target="_blank"} |GT3 Season 1 | |Silverstone Circuit |Tue, October 29 02:00AM EDT |Tue, October 29 06:00AM GMT |Tue, October 29 05:00PM AEDT |
-|[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2024 RED SOX RACING \- FALL GT3 SERIES V | |Silverstone Circuit |Thu, October 24 07:15PM EDT |Fri, October 25 12:15AM BST |Fri, October 25 10:15AM AEDT |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[Auburn iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11659){:target="_blank"} |Development Series Fall 2024 | |Circuito de Navarra |Thu, October 24 08:00PM EDT |Fri, October 25 01:00AM BST |Fri, October 25 11:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[CMS Team Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5813){:target="_blank"} |Practice sessions |Open |Road America |Sat, October 26 11:30AM EDT |Sat, October 26 04:30PM BST |Sun, October 27 02:30AM AEDT |
-|[ORNL F1 League](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |LMP3/GT4 2024 |Open |Daytona International Speedway |Thu, October 24 02:00PM EDT |Thu, October 24 07:00PM BST |Fri, October 25 05:00AM AEDT |
-|[Chaos On Roads](https://members.iracing.com/membersite/member/LeagueView.do?league=10576){:target="_blank"} |Chaos On Roads \- Season 4 |Open |Motorsport Arena Oschersleben |Thu, October 24 09:00PM EDT |Fri, October 25 02:00AM BST |Fri, October 25 12:00PM AEDT |
+|[Merica Extreme Dirt and Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=11422){:target="_blank"} |Dirt Sprint Cars Wing\-410 | |Daytona International Speedway |Sun, October 27 08:00PM EDT |Mon, October 28 12:00AM GMT |Mon, October 28 11:00AM AEDT |
+|[CE\-GT3 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Contrôle Technique | |Autodromo Internazionale del Mugello |Fri, November 01 03:45PM EDT |Fri, November 01 07:45PM GMT |Sat, November 02 06:45AM AEDT |
 

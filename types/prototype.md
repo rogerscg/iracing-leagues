@@ -25,8 +25,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|----------------------|---------------------------|---------------------------|----------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |57 |3379 | |Silverstone Circuit |Thu, October 24 01:00PM EDT |Thu, October 24 06:00PM BST |Fri, October 25 04:00AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |57 |3378 | |Sebring International Raceway |Wed, October 30 02:00PM EDT |Wed, October 30 06:00PM GMT |Thu, October 31 05:00AM AEDT |
 |[Motorsport UK Esports Silverstone 300](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2024 Abruzzi Prototype Challenge |Europe |46 |2414 | | | | | |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Old School Prototype Challenge S1 |Europe |17 |1921 | |Mount Panorama Circuit |Fri, October 25 05:00PM EDT |Fri, October 25 10:00PM BST |Sat, October 26 08:00AM AEDT |
 
@@ -44,9 +44,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|-----------------------------|
 |[Radical Simracing \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |24 |3636 | | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |24 |2951 |Open |Algarve International Circuit |Thu, October 24 02:15PM EDT |Thu, October 24 07:15PM BST |Fri, October 25 05:15AM AEDT |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |24 |2969 |Open |Donington Park Racing Circuit |Thu, October 31 03:15PM EDT |Thu, October 31 07:15PM GMT |Fri, November 01 06:15AM AEDT |
 |[Radical Simracing \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |19 |2486 | | | | | |
 |[Need 4 Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |13 |1430 |Fixed |Road Atlanta |Sat, October 26 07:30PM EDT |Sun, October 27 12:30AM BST |Sun, October 27 10:30AM AEDT |
 
