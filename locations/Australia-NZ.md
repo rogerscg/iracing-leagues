@@ -16,18 +16,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D NASCAR Truck Series |Australia-NZ |91 |1947 |Both |Phoenix Raceway |Wed, October 30 03:25AM EDT |Wed, October 30 07:25AM GMT |Wed, October 30 06:25PM AEDT |
-|[Australian Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10125){:target="_blank"} |Season 2 2024 |Australia-NZ |64 |2313 | |Homestead Miami Speedway |Fri, October 25 05:00AM EDT |Fri, October 25 10:00AM BST |Fri, October 25 08:00PM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D NASCAR Orbic Truck Series |Australia-NZ |91 |1947 |Both |Talladega Superspeedway |Wed, October 30 03:30AM EDT |Wed, October 30 07:30AM GMT |Wed, October 30 06:30PM AEDT |
+|[Australian NASCAR eSeries \- Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=10125){:target="_blank"} |Season 2 2024 |Australia-NZ |68 |2305 | |Martinsville Speedway |Fri, November 01 05:00AM EDT |Fri, November 01 09:00AM GMT |Fri, November 01 08:00PM AEDT |
 
 ### XFINITY Series
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[Fantasia Australian nascar open series](https://members.iracing.com/membersite/member/LeagueView.do?league=9968){:target="_blank"} |Season 2 2024 |Australia-NZ |62 |2637 | | | | | |
-|[Fastlane Racing Promotions \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7513){:target="_blank"} |2024 Xfinity \- Season One |Australia-NZ |27 |2258 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------|-------------|------------|-------|----|-----|-------------|--------|------|------|
+|[Australian NASCAR eSeries \- X Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9968){:target="_blank"} |Season 2 2024 |Australia-NZ |62 |2637 | | | | | |
 
 # Oval
 
@@ -38,25 +37,24 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Mini Stocks Super Series 2024 |Australia-NZ |35 |1328 | |Lanier National Speedway |Tue, October 29 06:00AM EDT |Tue, October 29 10:00AM GMT |Tue, October 29 09:00PM AEDT |
-|[ODSE SPECIAL EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=3319){:target="_blank"} |2024 Wheelman Challenge |Australia-NZ |12 |2037 | | | | | |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|----------------------|---------------------------|---------------------------|----------------------------|
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Mini stocks road and dirt |Australia-NZ |14 |1361 |Fixed |Bristol Motor Speedway |Sun, October 27 04:30AM EDT |Sun, October 27 08:30AM GMT |Sun, October 27 07:30PM AEDT |
+|----------------------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|-------------|--------|------|------|
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Mini stocks road and dirt |Australia-NZ |14 |1364 |Fixed | | | | |
 
 ### Legends
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|-------|----|-----|-----------------------------------|---------------------------|---------------------------|----------------------------|
-|[Legend Cars Australia I\-Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11509){:target="_blank"} |LCA I\-Racing League Season 1 |Australia-NZ |19 |1434 |Fixed |Motorsport Arena Oschersleben |Fri, October 25 04:30AM EDT |Fri, October 25 09:30AM BST |Fri, October 25 07:30PM AEDT |
-|[SRW \- Legends World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |24S4 SRW LEGENDS |Australia-NZ |19 |1556 | |Red Bull Ring |Fri, October 25 03:00AM EDT |Fri, October 25 08:00AM BST |Fri, October 25 06:00PM AEDT |
-|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 3 |Australia-NZ |11 |2077 |Fixed |Sandown International Motor Raceway |Fri, October 25 03:30AM EDT |Fri, October 25 08:30AM BST |Fri, October 25 06:30PM AEDT |
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|[Legend Cars Australia I\-Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11509){:target="_blank"} |LCA I\-Racing League Season 1 |Australia-NZ |27 |1485 |Fixed | | | | |
+|[SRW \- Legends World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |24S4 SRW LEGENDS |Australia-NZ |23 |1506 | |Mid-Ohio Sports Car Course |Fri, November 01 03:00AM EDT |Fri, November 01 07:00AM GMT |Fri, November 01 06:00PM AEDT |
+|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 3 |Australia-NZ |11 |2098 |Fixed | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Legends 34s |Australia-NZ |11 |1518 |Fixed |Road Atlanta |Thu, October 31 04:30AM EDT |Thu, October 31 08:30AM GMT |Thu, October 31 07:30PM AEDT |
 
 # Open-wheel
@@ -66,11 +64,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR F4 All Weather Challenge |Australia-NZ |50 |1379 | | | | | |
-|[FRG](https://members.iracing.com/membersite/member/LeagueView.do?league=3483){:target="_blank"} |F4 ESPORTS AUSTRLIAN CHAMPIONSHIP \- SPORT |Australia-NZ |48 |2211 |Fixed |Circuit de Lédenon |Sun, October 27 04:00AM EDT |Sun, October 27 08:00AM GMT |Sun, October 27 07:00PM AEDT |
-|[OZICAR F4](https://members.iracing.com/membersite/member/LeagueView.do?league=7639){:target="_blank"} |Season 3 European Vacation |Australia-NZ |14 |2447 | | | | | |
-|[Rapid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11627){:target="_blank"} |Season 1 |Australia-NZ |10 |2163 | |Oulton Park Circuit |Sat, October 26 03:00AM EDT |Sat, October 26 08:00AM BST |Sat, October 26 06:00PM AEDT |
+|-----------------------------------------------------------------------------------------------------------------|--------|------------|-------|----|-----|--------------|----------------------------|----------------------------|-----------------------------|
+|[Rapid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11627){:target="_blank"} |Season 1 |Australia-NZ |15 |2014 | |Lime Rock Park |Sat, November 02 03:00AM EDT |Sat, November 02 07:00AM GMT |Sat, November 02 06:00PM AEDT |
 
 ### Hosted All Cars Class
 
@@ -85,17 +80,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|--------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 5 UK |Australia-NZ |20 |2583 | | | | | |
-|[Wings and Things](https://members.iracing.com/membersite/member/LeagueView.do?league=8431){:target="_blank"} |Season 6 \- return of the things |Australia-NZ |11 |2988 | | | | | |
+|----------------------------------------------------------------------------------------------------------------|-----------|------------|-------|----|-----|-------------|--------|------|------|
+|[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 5 UK |Australia-NZ |20 |2642 | | | | | |
 
 ### Super Formula Lights
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|-------|----|-----|-------------------------------------|---------------------------|---------------------------|----------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D WnS Super Formula Light |Australia-NZ |54 |2294 |Both |Misano World Circuit Marco Simoncelli |Tue, October 29 04:20AM EDT |Tue, October 29 08:20AM GMT |Tue, October 29 07:20PM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|------------|-------|----|-----|-------------------------------------|---------------------------|---------------------------|----------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D WnS Super Formula Light \- JJZ Construcion |Australia-NZ |54 |2294 |Both |Misano World Circuit Marco Simoncelli |Tue, October 29 04:20AM EDT |Tue, October 29 08:20AM GMT |Tue, October 29 07:20PM AEDT |
 
 # Sports Car
 
@@ -112,26 +106,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
-|[V8 Veterans Season 15](https://members.iracing.com/membersite/member/LeagueView.do?league=6455){:target="_blank"} |Season 21 |Australia-NZ |191 |1800 |Fixed |MotorLand Aragón |Thu, October 31 04:31AM EDT |Thu, October 31 08:31AM GMT |Thu, October 31 07:31PM AEDT |
-|[Roadster Rumble \- Simagic Showroom Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |Sportscar PRO AM \-Season 1 |Australia-NZ |68 |1822 | | | | | |
-|[V8SCOPS 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |V8SCOPS 2024 |Australia-NZ |67 |3687 |Open | | | | |
-|[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) S4 |Australia-NZ |49 |1674 |Open |MotorLand Aragón |Tue, October 29 03:00AM EDT |Tue, October 29 07:00AM GMT |Tue, October 29 06:00PM AEDT |
-|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |ASR Season 1 |Australia-NZ |43 |1597 | | | | | |
-|[SRW \- CAMMUS Toyota GR86 Series 2023 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 4, 2024 |Australia-NZ |42 |1810 |Open |Winton Motor Raceway |Thu, October 31 03:00AM EDT |Thu, October 31 07:00AM GMT |Thu, October 31 06:00PM AEDT |
-|[AOG Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5005){:target="_blank"} |Season 9 |Australia-NZ |40 |3581 |Open | | | | |
-|[DRIVERS CLUB \- Driversclub\.net\.au](https://members.iracing.com/membersite/member/LeagueView.do?league=3462){:target="_blank"} |pdc 2024 |Australia-NZ |28 |2540 | | | | | |
-|[Roadster Rumble \- Simagic Showroom Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |GT4  Rumble \- season 2 |Australia-NZ |27 |1760 | | | | | |
-|[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |SIMRIGS PRAC AND OPEN QUALIFYING V8 AMS |Australia-NZ |27 |1654 |Open | | | | |
-|[Supercheap Auto East Coast V8 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3008){:target="_blank"} |Season 12 |Australia-NZ |25 |2754 |Open | | | | |
-|[SCOPS SUPPORTS 2024 \- VEE\-Eights](https://members.iracing.com/membersite/member/LeagueView.do?league=10713){:target="_blank"} |VEE Eights 2024 |Australia-NZ |23 |2437 | | | | | |
-|[AOG Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5005){:target="_blank"} |Gamesmen Porsche Cup Challenge |Australia-NZ |23 |3237 |Open | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[V8 Veterans Season 21](https://members.iracing.com/membersite/member/LeagueView.do?league=6455){:target="_blank"} |Season 21 |Australia-NZ |191 |1800 |Fixed |MotorLand Aragón |Thu, October 31 04:31AM EDT |Thu, October 31 08:31AM GMT |Thu, October 31 07:31PM AEDT |
+|[Rumble Garage \- Sportscar PRO AM](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |Sportscar PRO AM \-Season 1 |Australia-NZ |68 |1820 | | | | | |
+|[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) S4 |Australia-NZ |49 |1674 |Open |MotorLand Aragón |Tue, October 29 03:00AM EDT |Tue, October 29 07:00AM GMT |Tue, October 29 06:00PM AEDT |
+|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |ASR Season 2 |Australia-NZ |43 |1597 | | | | | |
+|[SRW \- Shannons Toyota GR86 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 4, 2024 |Australia-NZ |42 |1810 |Open |Winton Motor Raceway |Thu, October 31 03:00AM EDT |Thu, October 31 07:00AM GMT |Thu, October 31 06:00PM AEDT |
+|[AOG Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5005){:target="_blank"} |Season 9 |Australia-NZ |41 |3581 |Open |Sebring International Raceway |Tue, October 29 04:00AM EDT |Tue, October 29 08:00AM GMT |Tue, October 29 07:00PM AEDT |
+|[SCOPS SUPPORTS 2024 \- VEE Eights](https://members.iracing.com/membersite/member/LeagueView.do?league=10713){:target="_blank"} |VEE Eights 2024 |Australia-NZ |23 |2437 | | | | | |
 |[SCOPS SUPPORTS 2024 \- GTC](https://members.iracing.com/membersite/member/LeagueView.do?league=10712){:target="_blank"} |GTC 2024 |Australia-NZ |17 |3604 | | | | | |
-|[Infinity Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |GT4 Season 1 |Australia-NZ |16 |2028 | |Red Bull Ring |Mon, October 28 02:59AM EDT |Mon, October 28 06:59AM GMT |Mon, October 28 05:59PM AEDT |
+|[iRacing World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |GT4 Season 1 |Australia-NZ |16 |1984 | |Mid-Ohio Sports Car Course |Mon, November 04 02:29AM EST |Mon, November 04 07:29AM GMT |Mon, November 04 06:29PM AEDT |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Clubman Cup Series |Australia-NZ |15 |1454 |Fixed |Road America |Tue, October 29 04:30AM EDT |Tue, October 29 08:30AM GMT |Tue, October 29 07:30PM AEDT |
-|[420 OZ SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |420 oz v8 supercars seas one |Australia-NZ |13 |1072 | | | | | |
-|[SRW \- SIMRIGS V8 Am Tuesdays season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |SIMRIGS TOP 10 SHOOT OUT V8 AMS |Australia-NZ |12 |1959 |Open | | | | |
-|[Test](https://members.iracing.com/membersite/member/LeagueView.do?league=10430){:target="_blank"} |Sunday Sessions |Australia-NZ |11 |1549 | |Circuito de Navarra |Sun, October 27 05:00AM EDT |Sun, October 27 09:00AM GMT |Sun, October 27 08:00PM AEDT |
+|[MAZDA MX\-5 Club VIC TAS \- Sunday Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=10430){:target="_blank"} |Sunday Sessions \#4 2024 |Australia-NZ |11 |1553 | |Phillip Island Circuit |Sun, November 03 04:00AM EST |Sun, November 03 09:00AM GMT |Sun, November 03 08:00PM AEDT |
 
 ### Mazda MX-5 Cup 2016
 
@@ -146,47 +132,37 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|------------|-------|----|-----|--------------------------------------------|---------------------------|---------------------------|----------------------------|
-|[GSRC\.inc Porsche Cup \- Blackout Electrical Solutions](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2024D Porsche Cup |Australia-NZ |73 |2512 | |Silverstone Circuit |Thu, October 31 04:40AM EDT |Thu, October 31 08:40AM GMT |Thu, October 31 07:40PM AEDT |
-|[Virtual Racing Aotearoa](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |2024 Porsche Carrera Cup Season 3 |Australia-NZ |70 |2181 | |Autodromo Internazionale Enzo e Dino Ferrari |Mon, October 28 03:00AM EDT |Mon, October 28 07:00AM GMT |Mon, October 28 06:00PM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------|------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|[GSRC\.inc Spreyton Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2024D Porsche Cup |Australia-NZ |73 |2512 | |Silverstone Circuit |Thu, October 31 04:40AM EDT |Thu, October 31 08:40AM GMT |Thu, October 31 07:40PM AEDT |
+|[Virtual Racing Aotearoa \- Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |2024 Porsche Carrera Cup Season 3 |Australia-NZ |71 |2172 | | | | | |
 
 ### Supercars - 2019
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR V8 Champions Challenge |Australia-NZ |57 |1310 | | | | | |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D Super 3 Challenge \- Merch\.TGSRCI\.com |Australia-NZ |49 |1557 |Both |Circuit de Spa-Francorchamps |Wed, October 30 05:00AM EDT |Wed, October 30 09:00AM GMT |Wed, October 30 08:00PM AEDT |
-|[APEX eSports League \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7929){:target="_blank"} |Pagnian Advanced Simulation \- Supercars Championship S02 \(2024\) |Australia-NZ |43 |1575 |Open | | | | |
-|[GSRC\.inc V8SC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2024D Super2 Challenge \- Merch\.TGSRCI\.com |Australia-NZ |38 |2774 | |Circuit de Spa-Francorchamps |Wed, October 30 05:00AM EDT |Wed, October 30 09:00AM GMT |Wed, October 30 08:00PM AEDT |
-|[Quasi eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Season 1 2024 |Australia-NZ |31 |1838 |Fixed | | | | |
-|[SMGR V8 SUPER CAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10795){:target="_blank"} |Smokey Mountain V8 Supercar Series S2 |Australia-NZ |18 |1898 | | | | | |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D Super 3 Challenge \- Merch\.TGSRCI\.com |Australia-NZ |49 |1557 |Both | | | | |
+|[APEX eSports League \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7929){:target="_blank"} |Pagnian Advanced Simulation \- Supercars Championship S02 \(2024\) |Australia-NZ |43 |1575 |Open |MotorLand Aragón |Mon, November 04 03:30AM EST |Mon, November 04 08:30AM GMT |Mon, November 04 07:30PM AEDT |
+|[GSRC\.inc Super2 V8 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2024D Super2 Challenge \- Merch\.TGSRCI\.com |Australia-NZ |38 |2774 | |Circuit de Spa-Francorchamps |Wed, October 30 05:00AM EDT |Wed, October 30 09:00AM GMT |Wed, October 30 08:00PM AEDT |
+|[SMGR V8 SUPER CAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10795){:target="_blank"} |Smokey Mountain V8 Supercar Series S2 |Australia-NZ |18 |1888 | |Winton Motor Raceway |Sun, November 03 08:00PM EST |Mon, November 04 01:00AM GMT |Mon, November 04 12:00PM AEDT |
 
 ### Toyota GR86
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[MC Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Toyota 86 Cup \- Season 1 |Australia-NZ |46 |2125 |Fixed | | | | |
-|[NZ Virtual Toyota 86 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10662){:target="_blank"} |Toyota 86 Season 1 |Australia-NZ |11 |2044 | | | | | |
-
-### [Legacy] McLaren MP4-12C GT3
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|-----------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[Maxx Bantz Open](https://members.iracing.com/membersite/member/LeagueView.do?league=2706){:target="_blank"} |Maxx Bantz 27: You Can't Handle the Bantz |Australia-NZ |21 |1973 |Fixed | | | | |
+|-----------------------------------------------------------------------------------------------------------|-------------------------|------------|-------|----|-----|-------------|--------|------|------|
+|[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Toyota 86 Cup \- Season 1 |Australia-NZ |46 |2125 |Fixed | | | | |
 
 ### [Legacy] V8Supercars
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|-----------------------|------------|-------|----|-----|---------------------|---------------------------|---------------------------|----------------------------|
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Friday Night Legacy v8s |Australia-NZ |16 |1573 |Both |Chicago Street Course |Fri, October 25 02:30AM EDT |Fri, October 25 07:30AM BST |Fri, October 25 05:30PM AEDT |
+|---------------------------------------------------------------------------------------------------------|-----------------------|------------|-------|----|-----|-------------|--------|------|------|
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Friday Night Legacy v8s |Australia-NZ |17 |1325 |Both | | | | |
 
 # Prototype
 
@@ -195,16 +171,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------|------------|-------|----|-----|-------------|---------------------------|---------------------------|----------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D LMP2 Challenge |Australia-NZ |40 |2556 |Both |Red Bull Ring |Mon, October 28 04:10AM EDT |Mon, October 28 08:10AM GMT |Mon, October 28 07:10PM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D LMP2 Challenge \- Spreyton Ciders |Australia-NZ |45 |2507 |Both |Sebring International Raceway |Mon, November 04 03:10AM EST |Mon, November 04 08:10AM GMT |Mon, November 04 07:10PM AEDT |
 
 ### Radical SR8
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------|------------|-------|----|-----|---------------------|---------------------------|---------------------------|----------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D DFL Radical SR8 |Australia-NZ |64 |2341 |Both |Chicago Street Course |Fri, October 25 04:30AM EDT |Fri, October 25 09:30AM BST |Fri, October 25 07:30PM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------|-------|----|-----|------------------------|----------------------------|----------------------------|-----------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D DFL Radical SR8 \- Bowens |Australia-NZ |75 |2356 |Both |Knockhill Racing Circuit |Fri, November 01 04:30AM EDT |Fri, November 01 08:30AM GMT |Fri, November 01 07:30PM AEDT |
 
 # Dirt Oval
 
@@ -213,71 +189,24 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Pro Late Model All Stars Tour 2024 |Australia-NZ |51 |2440 | | | | | |
-|[LM 'Tasmanian / JSI Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11177){:target="_blank"} |LM ' Tasmanian / JSI Series |Australia-NZ |37 |2792 | | | | | |
-|[ASND Evolution 360 sprintcar series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Pro Late Model Spooker |Australia-NZ |27 |3842 | | | | | |
-
-### Dirt Late Model - Super
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|---------------|------------|-------|----|-----|-------------|--------|------|------|
-|[CKR Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=11341){:target="_blank"} |Super Late Slam |Australia-NZ |28 |2705 | | | | | |
-
-### Dirt Outlaw Micro Sprint Car - Winged
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|----------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[OAS IRACING DIRT LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10680){:target="_blank"} |OAS IRACING AUSTRALIAN FORMULA 500 TITLE |Australia-NZ |38 |3015 | | | | | |
-
-### Dirt SprintCar - 360
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[Virtual Racing Aotearoa \- 2024 Midget Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |2024 Sprintcar Series |Australia-NZ |44 |3532 | | | | | |
-|[ASND Special events league\( Currently inactive\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |2024 Evolution Sprintcar Series |Australia-NZ |27 |2076 | | | | | |
-|[Virtual Racing Aotearoa \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11389){:target="_blank"} |Australasian Midget Title 2024 |Australia-NZ |21 |3776 | | | | | |
-
-### Dirt SprintCar - 360wingless
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[TRL Street Stock Title 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |WINGLESS SPRINTS SHOWDOWN 2024 |Australia-NZ |47 |3055 | | | | | |
+|-------------------------------------------------------------------------------------------------------------------|----------------------|------------|-------|----|-----|-------------|--------|------|------|
+|[Pro Late Model Spooker](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Pro Late Model Spooker |Australia-NZ |44 |3334 | | | | | |
 
 ### Dirt UMP Modified
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------------------|------------|-------|----|-----|---------------------|---------------------------|---------------------------|----------------------------|
-|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |UMP Modified Super Series 2024 |Australia-NZ |28 |3012 | |Volusia Speedway Park |Fri, October 25 06:00AM EDT |Fri, October 25 11:00AM BST |Fri, October 25 09:00PM AEDT |
+|---------------------------------------------------------------------------------------------------------------------|------------------------------|------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |UMP Modified Super Series 2024 |Australia-NZ |35 |3020 | |Port Royal Speedway |Fri, November 01 06:00AM EDT |Fri, November 01 10:00AM GMT |Fri, November 01 09:00PM AEDT |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[ODSE SPARE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=2595){:target="_blank"} |2024 Qualifying Series |Australia-NZ |55 |3161 | | | | | |
-|[2023 360 Power Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2024 ASC SERIES |Australia-NZ |36 |4000 | | | | | |
-
-# Rallycross
-
-### Rallycross
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|--------------|------------|-------|----|-----|-------------|--------|------|------|
-|[AusRX](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 8 |Australia-NZ |12 |2419 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------|----------------------|------------|-------|----|-----|-------------|--------|------|------|
+|[2024 ODSE QUALIFER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=2595){:target="_blank"} |2024 Qualifying Series |Australia-NZ |55 |3161 | | | | | |
 
 # Multi-class/Unclassified
 
@@ -286,31 +215,27 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D GT3 Pro\-Am Challenge \- Waste Options |Australia-NZ |81 |1922 |Both |Circuit Gilles Villeneuve |Mon, October 28 04:40AM EDT |Mon, October 28 08:40AM GMT |Mon, October 28 07:40PM AEDT |
-|[GSRC\.inc GT3 Pro Split \- Presented by Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2024D GT3 Pro Series |Australia-NZ |60 |3016 | |Circuit Gilles Villeneuve |Mon, October 28 04:40AM EDT |Mon, October 28 08:40AM GMT |Mon, October 28 07:40PM AEDT |
-|[GSRC\.inc GT3 Am Split \- Presented by Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5306){:target="_blank"} |2024D GT3 Am Series |Australia-NZ |40 |1352 | |Circuit Gilles Villeneuve |Mon, October 28 04:40AM EDT |Mon, October 28 08:40AM GMT |Mon, October 28 07:40PM AEDT |
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR GT3 Man Bun International |Australia-NZ |37 |1306 | | | | | |
-|[MC Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |GT3 \- Season 2 |Australia-NZ |33 |1865 |Fixed |Circuit de Barcelona Catalunya |Mon, October 28 04:00AM EDT |Mon, October 28 08:00AM GMT |Mon, October 28 07:00PM AEDT |
-|[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |RPR Season 32 GT3 Fixed |Australia-NZ |29 |3262 |Fixed | | | | |
+|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D GT3 Pro\-Am Challenge \- Waste Options |Australia-NZ |86 |1897 |Both |Red Bull Ring |Mon, November 04 04:00AM EST |Mon, November 04 09:00AM GMT |Mon, November 04 08:00PM AEDT |
+|[GSRC\.inc GT3 Pro Split \- Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2024D GT3 Pro Series |Australia-NZ |63 |3003 | |Red Bull Ring |Mon, November 04 03:55AM EST |Mon, November 04 08:55AM GMT |Mon, November 04 07:55PM AEDT |
+|[GSRC\.inc GT3 Am Split \- Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5306){:target="_blank"} |2024D GT3 Am Series |Australia-NZ |43 |1366 | |Red Bull Ring |Mon, November 04 03:55AM EST |Mon, November 04 08:55AM GMT |Mon, November 04 07:55PM AEDT |
+|[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |GT3 \- Season 2 |Australia-NZ |41 |1913 |Fixed |Sebring International Raceway |Mon, November 04 02:00AM EST |Mon, November 04 07:00AM GMT |Mon, November 04 06:00PM AEDT |
+|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR GT3 Man Bun International |Australia-NZ |37 |1306 | |Canadian Tire Motorsports Park |Tue, October 29 05:30AM EDT |Tue, October 29 09:30AM GMT |Tue, October 29 08:30PM AEDT |
+|[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |RPR Season 32 GT3 Fixed |Australia-NZ |29 |3262 |Fixed |Circuit Gilles Villeneuve |Tue, October 29 04:58AM EDT |Tue, October 29 08:58AM GMT |Tue, October 29 07:58PM AEDT |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[PREMIER ENDURANCE LEAGUE \- GT3 AUSTRALIA](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} |The Gamer Gear Direct Australian GT3 Endurance Championship Season 3 |Australia-NZ |53 |2134 |Open |Algarve International Circuit |Fri, November 01 05:00AM EDT |Fri, November 01 09:00AM GMT |Fri, November 01 08:00PM AEDT |
-|[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |SRW \- Super Formula Lights \- 2024 \- S4 |Australia-NZ |47 |2168 | |Autódromo José Carlos Pace |Wed, October 30 03:00AM EDT |Wed, October 30 07:00AM GMT |Wed, October 30 06:00PM AEDT |
-|[MC Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Super Formula Lights \- Season 1 |Australia-NZ |46 |2241 |Fixed | | | | |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |Practice Server |Australia-NZ |44 |1751 |Both | | | | |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D Mountain Men 200 Series |Australia-NZ |42 |2009 |Both |Mount Panorama Circuit |Sat, October 26 04:30AM EDT |Sat, October 26 09:30AM BST |Sat, October 26 07:30PM AEDT |
-|[Sunday Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8024){:target="_blank"} |Porsche Super Sprint \- Season 1 |Australia-NZ |39 |1835 | | | | | |
+|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[PREMIER ENDURANCE LEAGUE \- GT3 AUSTRALIA](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} |The Gamer Gear Direct Australian GT3 Endurance Championship Season 4 |Australia-NZ |53 |2134 |Open |Algarve International Circuit |Fri, November 01 05:00AM EDT |Fri, November 01 09:00AM GMT |Fri, November 01 08:00PM AEDT |
+|[FRG](https://members.iracing.com/membersite/member/LeagueView.do?league=3483){:target="_blank"} |F4 ESPORTS AUSTRLIAN CHAMPIONSHIP \- SPORT |Australia-NZ |51 |2240 |Fixed |Circuit de Spa-Francorchamps |Sun, November 03 03:00AM EST |Sun, November 03 08:00AM GMT |Sun, November 03 07:00PM AEDT |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D Mountain Men 200 Series |Australia-NZ |49 |2131 |Both |Mount Panorama Circuit |Sat, November 02 04:30AM EDT |Sat, November 02 08:30AM GMT |Sat, November 02 07:30PM AEDT |
+|[SRW \- Cooler Master Super Formula Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |SRW \- Super Formula Lights \- 2024 \- S4 |Australia-NZ |47 |2168 | |Autódromo José Carlos Pace |Wed, October 30 03:00AM EDT |Wed, October 30 07:00AM GMT |Wed, October 30 06:00PM AEDT |
+|[Rumble Garage\- Sportscar Enduro series](https://members.iracing.com/membersite/member/LeagueView.do?league=8024){:target="_blank"} |Sportscar Enduro series |Australia-NZ |39 |1835 | | | | | |
 |[Aussie Outlaws GT3 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8718){:target="_blank"} |EveryThing Simulated GT3 Championship |Australia-NZ |34 |2251 | | | | | |
-|[FRG \- F4A](https://members.iracing.com/membersite/member/LeagueView.do?league=9819){:target="_blank"} |2024 MOTORSPORT AUSTRALIA F4 ESPORTS CHAMPIONSHIP |Australia-NZ |32 |3816 | |Circuit de Lédenon |Mon, October 28 04:40AM EDT |Mon, October 28 08:40AM GMT |Mon, October 28 07:40PM AEDT |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |aus sprints GT3 and V8's |Australia-NZ |23 |1235 | | | | | |
-|[ANZ ESeries // VX Rookie Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11365){:target="_blank"} |Motorsport Australia // 2024 Kategory King Series |Australia-NZ |21 |3083 | | | | | |
-|[SRW \- TOYOSIM F3 season 2 2023](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |F1 Shadow Series |Australia-NZ |20 |2106 | | | | | |
-|[SRW \- Legends World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW 24S3 Legends World Challenge |Australia-NZ |19 |2254 | | | | | |
-|[Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |2024 Season 16 |Australia-NZ |17 |1601 | | | | | |
+|[FRG \- F4 PRO](https://members.iracing.com/membersite/member/LeagueView.do?league=9819){:target="_blank"} |2024 MOTORSPORT AUSTRALIA F4 ESPORTS CHAMPIONSHIP |Australia-NZ |32 |3823 | |Circuit de Spa-Francorchamps |Mon, November 04 03:40AM EST |Mon, November 04 08:40AM GMT |Mon, November 04 07:40PM AEDT |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |aus sprints GT3 and V8's |Australia-NZ |23 |1218 | | | | | |
+|[ANZ ESeries // Kategory King Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11365){:target="_blank"} |Motorsport Australia // 2024 Kategory King Series |Australia-NZ |21 |3083 | | | | | |
 

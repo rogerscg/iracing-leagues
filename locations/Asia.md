@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|---------------------|--------|-------|----|-----|---------------|---------------------------|---------------------------|----------------------------|
-|[ASRC Pro/Am League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |Test Season 1 Q4 2024 |Asia |14 |2164 |Both |Tsukuba Circuit |Sat, October 26 01:00PM EDT |Sat, October 26 06:00PM BST |Sun, October 27 04:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------|---------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[ASRC Pro/Am League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |Test Season 1 Q4 2024 |Asia |15 |2177 |Both | | | | |
 
 # Multi-class/Unclassified
 
