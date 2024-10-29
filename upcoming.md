@@ -55,8 +55,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
-|[Diesel Motor Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=11623){:target="_blank"} |Formula 4 Season One |Fixed |Okayama International Circuit |Mon, October 28 09:00PM EDT |Tue, October 29 01:00AM GMT |Tue, October 29 12:00PM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |ESPORTS UKRAINIAN F4 CHAMPIONSHIP |Both |Circuito de Navarra |Tue, October 29 02:00PM EDT |Tue, October 29 06:00PM GMT |Wed, October 30 05:00AM AEDT |
 
 ### Super Formula Lights
@@ -94,7 +93,7 @@
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------|---------------------------|----------------------------|-----------------------------|
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |2025 iRTES Porsche Cup support series |Both |Road America |Thu, October 31 09:00PM EDT |Fri, November 01 01:00AM GMT |Fri, November 01 12:00PM AEDT |
 
-### Touring Car
+### Ring Meister
 
 [Back to Top](#)  
 
@@ -107,11 +106,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------|----------|-----|------------------|----------------------------|----------------------------|-----------------------------|
 |[Digital Motorsport SK](https://members.iracing.com/membersite/member/LeagueView.do?league=8009){:target="_blank"} |2024\-GR86 |Both |Snetterton Circuit |Mon, November 04 01:30PM EST |Mon, November 04 06:30PM GMT |Tue, November 05 05:30AM AEDT |
-|[TANSO RACING GROUP SUBSCRIPTION EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10654){:target="_blank"} |GR86 UK CUP | |Brands Hatch Circuit |Sun, November 03 03:00PM EST |Sun, November 03 08:00PM GMT |Mon, November 04 07:00AM AEDT |
 
 # Prototype
+
+### Dallara P217
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------|-------------------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
+|[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |09 \| Novembre 2024 | |Fuji International Speedway |Tue, November 05 03:15PM EST |Tue, November 05 08:15PM GMT |Wed, November 06 07:15AM AEDT |
 
 ### Radical SR10
 

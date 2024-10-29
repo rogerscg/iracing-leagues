@@ -25,8 +25,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|-------------|------------|-------|----|-----|-------------|--------|------|------|
-|[Australian NASCAR eSeries \- X Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9968){:target="_blank"} |Season 2 2024 |Australia-NZ |62 |2637 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------|-------------|------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
+|[Australian NASCAR eSeries \- X Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9968){:target="_blank"} |Season 2 2024 |Australia-NZ |62 |2637 | |Homestead Miami Speedway |Tue, October 29 05:00AM EDT |Tue, October 29 09:00AM GMT |Tue, October 29 08:00PM AEDT |
 
 # Oval
 
@@ -219,7 +219,7 @@
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D GT3 Pro\-Am Challenge \- Waste Options |Australia-NZ |86 |1897 |Both |Red Bull Ring |Mon, November 04 04:00AM EST |Mon, November 04 09:00AM GMT |Mon, November 04 08:00PM AEDT |
 |[GSRC\.inc GT3 Pro Split \- Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2024D GT3 Pro Series |Australia-NZ |63 |3003 | |Red Bull Ring |Mon, November 04 03:55AM EST |Mon, November 04 08:55AM GMT |Mon, November 04 07:55PM AEDT |
 |[GSRC\.inc GT3 Am Split \- Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5306){:target="_blank"} |2024D GT3 Am Series |Australia-NZ |43 |1366 | |Red Bull Ring |Mon, November 04 03:55AM EST |Mon, November 04 08:55AM GMT |Mon, November 04 07:55PM AEDT |
-|[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |GT3 \- Season 2 |Australia-NZ |41 |1913 |Fixed |Sebring International Raceway |Mon, November 04 02:00AM EST |Mon, November 04 07:00AM GMT |Mon, November 04 06:00PM AEDT |
+|[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |GT3 \- Season 2 |Australia-NZ |41 |1913 |Fixed |Sebring International Raceway |Mon, November 04 02:30AM EST |Mon, November 04 07:30AM GMT |Mon, November 04 06:30PM AEDT |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR GT3 Man Bun International |Australia-NZ |37 |1306 | |Canadian Tire Motorsports Park |Tue, October 29 05:30AM EDT |Tue, October 29 09:30AM GMT |Tue, October 29 08:30PM AEDT |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |RPR Season 32 GT3 Fixed |Australia-NZ |29 |3262 |Fixed |Circuit Gilles Villeneuve |Tue, October 29 04:58AM EDT |Tue, October 29 08:58AM GMT |Tue, October 29 07:58PM AEDT |
 

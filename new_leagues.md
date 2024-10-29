@@ -66,4 +66,9 @@
 |[RPES NE Dirt Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11710){:target="_blank"} | |Coming Soon\.\.\. |
 |[RPES Pavement Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11711){:target="_blank"} | |Coming Soon\.\.\. |
 |[Sean and Matt Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11712){:target="_blank"} | |\*\*\* and Black |
+|[FOPorsche](https://members.iracing.com/membersite/member/LeagueView.do?league=11719){:target="_blank"} | | |
+|[Nitro Knight Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=11721){:target="_blank"} | |a league for go karters going pro |
+|[Roval Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11720){:target="_blank"} |[Discord](https://discord.gg/cYu5YEaWxQ){:target="_blank"} |This league races any track that uses any portion of a dedicated oval track with a portion of any road course track\. |
+|[Rquatro](https://members.iracing.com/membersite/member/LeagueView.do?league=11718){:target="_blank"} | | |
+|[World Wide Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11722){:target="_blank"} | | |
 
