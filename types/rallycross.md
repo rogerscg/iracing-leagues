@@ -11,7 +11,6 @@
 |----------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[NASA Rallycross Supercars & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 24B |North America |25 |5035 | | | | | |
 |[NASA Rallycross Supercars & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 24B |North America |21 |3041 | | | | | |
-|[AusRX/AusTrux](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 8 |North America |12 |2419 | | | | | |
 
 ### VW Beetle Lite
 

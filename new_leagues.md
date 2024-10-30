@@ -7,7 +7,6 @@
 |[Alabama Simracing \(ALSRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11676){:target="_blank"} | |League for members of ALSCCA and beyond\. |
 |[CATO STRONG 200](https://members.iracing.com/membersite/member/LeagueView.do?league=11668){:target="_blank"} |[Discord](https://discord.gg/YUqfhwMK){:target="_blank"} |cato strong 200 featuring street stocks, legends, lmsc, and super late models |
 |[Auburn iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11659){:target="_blank"} | |The official iRacing team of Auburn University |
-|[Dark Horse Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11653){:target="_blank"} |[Discord](https://discord.gg/EchRCyPrqs){:target="_blank"} |Your home for action packed Mini Stock racing\. |
 |[EFFOFF league](https://members.iracing.com/membersite/member/LeagueView.do?league=11671){:target="_blank"} | |not so serious just for pure fun and enjoyment |
 |[Filstal Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11664){:target="_blank"} | | |
 |[Friday Night Mini Misfits](https://members.iracing.com/membersite/member/LeagueView.do?league=11663){:target="_blank"} | | |
@@ -15,7 +14,6 @@
 |[Independent Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11662){:target="_blank"} | | |
 |[iNRS Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11674){:target="_blank"} |[Discord](https://discord.gg/CHZxtrF){:target="_blank"} |NASCAR Truck Series  \- Real Life Schedule \(As long as iRacing has the tracks\-sub equivalent style track or by weeks implemented\)  \- Tuesday Night Schedule, week of the real life event  \- 75% Fuel Capacity/65% Race Distance/1\-Stage Break with points  \- NO Fast Repairs  \- https://discord\.gg/CHZxtrF |
 |[iNRS Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11675){:target="_blank"} |[Discord](https://discord.gg/CHZxtrF){:target="_blank"} |NASCAR Xfinity Series  \- Real Life Schedule \(As long as iRacing has the tracks\-sub equivalent style track or by weeks implemented\)  \- Wednesday Night Schedule, week of the real life event  \- 75% Fuel Capacity/65% Race Distance/1\-Stage Break with points  \- NO Fast Repairs  \- https://discord\.gg/CHZxtrF |
-|[Instigator Winter Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11652){:target="_blank"} | | |
 |[iRacing Cash Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11669){:target="_blank"} |[Discord](https://discord.gg/RSEqkXNz){:target="_blank"} |Cash events 100% purse goes to racers |
 |[MC Motorsport \- Movember Charity Race](https://members.iracing.com/membersite/member/LeagueView.do?league=11661){:target="_blank"} |[Discord](https://discord.gg/ScFqpWPdCE){:target="_blank"} |Charity & Exhibition races hosted by MC Motorsport |
 |[Mid South Sim Racing Xfinity Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11678){:target="_blank"} | |Xfinity |
@@ -26,7 +24,6 @@
 |[RaceKraft Simulations 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11657){:target="_blank"} | | |
 |[Sim Racing Nation Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=11673){:target="_blank"} |[Discord](https://discord.gg/sim-racing-nation-4){:target="_blank"} |SRN oval league \- Free Content \- Join Discord Today \- https://discord\.gg/sim\-racing\-nation\-493054908187017216 |
 |[The Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=11654){:target="_blank"} | |Test & Tune |
-|[Tuesday Night Thunder Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11651){:target="_blank"} |[Discord](https://discord.gg/zptegC9H){:target="_blank"} |Want to have fun on Tuesdays and race in Xfinity cars? Look no further as this series will be racing Xfinity cars every Tuesday nights\. Lobbys open at 7:30 PM ET and racing begins at 8:30 PM ET\. The main goal is to have fun and create a friendly environment and make new friends\. |
 |[West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11681){:target="_blank"} | |Meditating |
 |[World of Outlaws Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11658){:target="_blank"} | | |
 |[King of the Mountain](https://members.iracing.com/membersite/member/LeagueView.do?league=11670){:target="_blank"} |[Discord](https://discord.gg/eHTKUcPWpM){:target="_blank"} | |
@@ -71,4 +68,8 @@
 |[Roval Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11720){:target="_blank"} |[Discord](https://discord.gg/cYu5YEaWxQ){:target="_blank"} |This league races any track that uses any portion of a dedicated oval track with a portion of any road course track\. |
 |[Rquatro](https://members.iracing.com/membersite/member/LeagueView.do?league=11718){:target="_blank"} | | |
 |[World Wide Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11722){:target="_blank"} | | |
+|[FOTest](https://members.iracing.com/membersite/member/LeagueView.do?league=11724){:target="_blank"} | | |
+|[NXT Era Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11723){:target="_blank"} |[Discord](https://discord.gg/kZGkYNTyAY){:target="_blank"} |Thursday Nights 8PM Eastern, 25 Race Season, 16 Playoff Drivers, Same race distances as real life NASCAR Truck Series, And a thorough rulebook with a 6 man Admin team to ensure clean fun racing\. |
+|[Porsche Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11725){:target="_blank"} |[Discord](https://discord.gg/AmYXT2qvPt){:target="_blank"} |Porsche Cup League run by the Formula Racing Series |
+|[Silver Crown Triple Crown](https://members.iracing.com/membersite/member/LeagueView.do?league=11726){:target="_blank"} |[Discord](https://discord.gg/AmYXT2qvPt){:target="_blank"} |Silver Crown Championship run by the Formula Racing Series\. |
 

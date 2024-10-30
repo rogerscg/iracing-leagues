@@ -21,14 +21,6 @@
 |----------------------------------------------------------------------------------------------------------------------------------------|--------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Penny Pleasers Cup presented by DL Designs](https://members.iracing.com/membersite/member/LeagueView.do?league=11650){:target="_blank"} |Penny Pleasers |Fixed |Daytona International Speedway |Sun, November 03 06:45PM EST |Sun, November 03 11:45PM GMT |Mon, November 04 10:45AM AEDT |
 
-### NASCAR Legends 1987
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[Winston Cup Replay](https://members.iracing.com/membersite/member/LeagueView.do?league=10087){:target="_blank"} |2024 Fall Season |Open |Daytona International Speedway |Tue, October 29 08:30PM EDT |Wed, October 30 12:30AM GMT |Wed, October 30 11:30AM AEDT |
-
 ### XFINITY Series
 
 [Back to Top](#)  
@@ -55,8 +47,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |ESPORTS UKRAINIAN F4 CHAMPIONSHIP |Both |Circuito de Navarra |Tue, October 29 02:00PM EDT |Tue, October 29 06:00PM GMT |Wed, October 30 05:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |ESPORTS UKRAINIAN F4 CHAMPIONSHIP |Both |Circuito de Navarra |Sat, November 02 02:00PM EDT |Sat, November 02 06:00PM GMT |Sun, November 03 05:00AM AEDT |
 
 ### Super Formula Lights
 
@@ -66,14 +58,6 @@
 |-------------------------------------------------------------------------------------------------------------------|----------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[Rainbow Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10704){:target="_blank"} |RRL SFL Season 1 | |Watkins Glen International |Sun, November 03 02:00PM EST |Sun, November 03 07:00PM GMT |Mon, November 04 06:00AM AEDT |
 
-### Super Formula SF23
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------------|-----|------------|---------------------------|---------------------------|----------------------------|
-|[Copa IVR Division Elite](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} |Super Copa IVR |Fixed |Road America |Tue, October 29 10:00PM EDT |Wed, October 30 02:00AM GMT |Wed, October 30 01:00PM AEDT |
-
 # Sports Car
 
 ### Hosted All Cars Class
@@ -81,8 +65,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[OGRL Tuesday Multi\-Class Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=10221){:target="_blank"} |Season 5 2024 | |Circuito de Navarra |Tue, October 29 07:00PM EDT |Tue, October 29 11:00PM GMT |Wed, October 30 10:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------|---------------------------|---------------------------|----------------------------|
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL Miatas Season 1 |Open |Road Atlanta |Wed, October 30 08:00PM EDT |Thu, October 31 12:00AM GMT |Thu, October 31 11:00AM AEDT |
 
 ### Porsche 911 GT3 Cup (992)
@@ -99,7 +82,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|--------------------|-----|------------|---------------------------|---------------------------|----------------------------|
-|[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL TCR Season 1 |Open |Road Atlanta |Wed, October 30 08:45PM EDT |Thu, October 31 12:45AM GMT |Thu, October 31 11:45AM AEDT |
+|[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL TCR Season 1 |Open |Road Atlanta |Wed, October 30 08:50PM EDT |Thu, October 31 12:50AM GMT |Thu, October 31 11:50AM AEDT |
 
 ### Toyota GR86
 
@@ -128,15 +111,15 @@
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |Fixed |Donington Park Racing Circuit |Mon, November 04 06:41PM EST |Mon, November 04 11:41PM GMT |Tue, November 05 10:41AM AEDT |
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |Fixed |Sebring International Raceway |Wed, October 30 07:00PM EDT |Wed, October 30 11:00PM GMT |Thu, October 31 10:00AM AEDT |
 
-# Dirt Oval
+# Dirt Road
 
-### Dirt Late Model - Limited
+### Pro 4 Truck
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-------------------|-----|---------------------|---------------------------|---------------------------|----------------------------|
-|[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |Limited Late Models |Fixed |Volusia Speedway Park |Tue, October 29 09:00PM EDT |Wed, October 30 01:00AM GMT |Wed, October 30 12:00PM AEDT |
+|------------------------------------------------------------------------------------------------------------------|--------|-----|------------------|----------------------------|----------------------------|-----------------------------|
+|[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} |Season 2 |Both |Auto Club Speedway |Wed, November 06 08:00PM EST |Thu, November 07 01:00AM GMT |Thu, November 07 12:00PM AEDT |
 
 # Multi-class/Unclassified
 
