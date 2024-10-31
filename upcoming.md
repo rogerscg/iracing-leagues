@@ -32,6 +32,14 @@
 
 # Oval
 
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------|-----------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Mini Stock Series \- Season 1 |Fixed |USA International Speedway |Thu, November 07 03:00AM EST |Thu, November 07 08:00AM GMT |Thu, November 07 07:00PM AEDT |
+
 ### Street Stocks
 
 [Back to Top](#)  
@@ -60,14 +68,6 @@
 
 # Sports Car
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------|---------------------------|---------------------------|----------------------------|
-|[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL Miatas Season 1 |Open |Road Atlanta |Wed, October 30 08:00PM EDT |Thu, October 31 12:00AM GMT |Thu, October 31 11:00AM AEDT |
-
 ### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  
@@ -75,14 +75,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------|---------------------------|----------------------------|-----------------------------|
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |2025 iRTES Porsche Cup support series |Both |Road America |Thu, October 31 09:00PM EDT |Fri, November 01 01:00AM GMT |Fri, November 01 12:00PM AEDT |
-
-### Ring Meister
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|--------------------|-----|------------|---------------------------|---------------------------|----------------------------|
-|[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL TCR Season 1 |Open |Road Atlanta |Wed, October 30 08:50PM EDT |Thu, October 31 12:50AM GMT |Thu, October 31 11:50AM AEDT |
 
 ### Toyota GR86
 
@@ -107,9 +99,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|----------------------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------|------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |Fixed |Donington Park Racing Circuit |Mon, November 04 06:41PM EST |Mon, November 04 11:41PM GMT |Tue, November 05 10:41AM AEDT |
-|[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |Fixed |Sebring International Raceway |Wed, October 30 07:00PM EDT |Wed, October 30 11:00PM GMT |Thu, October 31 10:00AM AEDT |
 
 # Dirt Road
 

@@ -28,6 +28,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |2x4 Rolling Thunder \- 2024 |North America |16 |2415 |Fixed | | | | |
+|-------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |2x4 Rolling Thunder \- 2024 |North America |16 |2415 |Fixed |Winton Motor Raceway |Thu, November 07 07:20PM EST |Fri, November 08 12:20AM GMT |Fri, November 08 11:20AM AEDT |
 
