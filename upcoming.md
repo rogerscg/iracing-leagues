@@ -68,13 +68,13 @@
 
 # Sports Car
 
-### Porsche 911 GT3 Cup (992)
+### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------|---------------------------|----------------------------|-----------------------------|
-|[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |2025 iRTES Porsche Cup support series |Both |Road America |Thu, October 31 09:00PM EDT |Fri, November 01 01:00AM GMT |Fri, November 01 12:00PM AEDT |
+|-------------------------------------------------------------------------------------------------|-------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |testing | |Sebring International Raceway |Fri, November 08 07:00PM EST |Sat, November 09 12:00AM GMT |Sat, November 09 11:00AM AEDT |
 
 ### Toyota GR86
 
@@ -129,7 +129,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[CMS Team Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5813){:target="_blank"} |2025 CMS iRacing Team Endurance Series |Open |Road America |Sun, November 03 10:30AM EST |Sun, November 03 03:30PM GMT |Mon, November 04 02:30AM AEDT |
-|[CFE 2024 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Contrôle Technique | |Autodromo Internazionale del Mugello |Fri, November 01 03:45PM EDT |Fri, November 01 07:45PM GMT |Sat, November 02 06:45AM AEDT |
+|[CFE 2024 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Contrôle Technique | |Autodromo Internazionale del Mugello |Fri, November 01 02:00PM EDT |Fri, November 01 06:00PM GMT |Sat, November 02 05:00AM AEDT |
 |[CFE 2024 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Split 1 | |Autodromo Internazionale del Mugello |Sat, November 02 07:00AM EDT |Sat, November 02 11:00AM GMT |Sat, November 02 10:00PM AEDT |
 |[CFE 2024 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Split 2 | |Autodromo Internazionale del Mugello |Sat, November 02 07:10AM EDT |Sat, November 02 11:10AM GMT |Sat, November 02 10:10PM AEDT |
 
