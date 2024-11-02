@@ -129,7 +129,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[CMS Team Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5813){:target="_blank"} |2025 CMS iRacing Team Endurance Series |Open |Road America |Sun, November 03 10:30AM EST |Sun, November 03 03:30PM GMT |Mon, November 04 02:30AM AEDT |
-|[CFE 2024 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Contrôle Technique | |Autodromo Internazionale del Mugello |Fri, November 01 02:00PM EDT |Fri, November 01 06:00PM GMT |Sat, November 02 05:00AM AEDT |
 |[CFE 2024 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Split 1 | |Autodromo Internazionale del Mugello |Sat, November 02 07:00AM EDT |Sat, November 02 11:00AM GMT |Sat, November 02 10:00PM AEDT |
 |[CFE 2024 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Split 2 | |Autodromo Internazionale del Mugello |Sat, November 02 07:10AM EDT |Sat, November 02 11:10AM GMT |Sat, November 02 10:10PM AEDT |
 

@@ -21,7 +21,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[CiL Formula C](https://members.iracing.com/membersite/member/LeagueView.do?league=8830){:target="_blank"} |Formula College Season 5 \-\- CiL Season 11 |North America |55 |1878 |Fixed |Autódromo José Carlos Pace |Wed, November 06 08:00PM EST |Thu, November 07 01:00AM GMT |Thu, November 07 12:00PM AEDT |
-|[SRL \- RandamLee IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6120){:target="_blank"} |Season 4 |North America |41 |1842 | | | | | |
+|[SRL \- RandamLee IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6120){:target="_blank"} |Season 4 |North America |43 |1797 | | | | | |
 |[Votive Racing League INDY Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |Votive INDY Oval Series \- Season 1 |North America |41 |2369 |Fixed | | | | |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |Indy 2024 |Europe |37 |2337 | | | | | |
 |[INDYCAR ButtKicker iRacing Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11225){:target="_blank"} |INDYCAR ButtKicker iRacing Pro Series \- 2024 Season |Europe |33 |6791 | |WeatherTech Raceway at Laguna Seca |Thu, November 07 07:15PM EST |Fri, November 08 12:15AM GMT |Fri, November 08 11:15AM AEDT |
@@ -38,7 +38,7 @@
 |[VARC Super National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3842){:target="_blank"} |VARC Super National Series V |North America |18 |1517 | | | | | |
 |[Jones Shine Co League \(JSC\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} |Sunday Night Indycar S1 |North America |15 |1096 |Fixed | | | | |
 |[SRL \- RandamLee IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6120){:target="_blank"} |IndyCar Season 3 |North America |15 |2203 | | | | | |
-|[\*\*\* Open Lite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1422){:target="_blank"} |2024 Season 20 |North America |14 |1659 |Open |Mid-Ohio Sports Car Course |Fri, November 01 10:00PM EDT |Sat, November 02 02:00AM GMT |Sat, November 02 01:00PM AEDT |
+|[\*\*\* Open Lite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1422){:target="_blank"} |2024 Season 20 |North America |14 |1637 |Open | | | | |
 |[Slowbois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9743){:target="_blank"} |Season 6 \(Indy\) |North America |14 |1316 | |Indianapolis Motor Speedway |Sun, November 03 08:00PM EST |Mon, November 04 01:00AM GMT |Mon, November 04 12:00PM AEDT |
 |[Apollo Racing Club \- Indy Car League](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |Season 9 \(Return of IndycARC\) |North America |13 |1863 |Fixed | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCar October 2024 Championship |North America |13 |1283 | | | | | |
@@ -62,7 +62,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------|-------|----|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[EVAL \- Eesti Virtuaalse Autospordi Liit](https://members.iracing.com/membersite/member/LeagueView.do?league=10052){:target="_blank"} |EVAL F4 EMV 2024 |Europe |72 |2488 | |Motorsport Arena Oschersleben |Fri, November 01 12:00PM EDT |Fri, November 01 04:00PM GMT |Sat, November 02 03:00AM AEDT |
+|[EVAL \- Eesti Virtuaalse Autospordi Liit](https://members.iracing.com/membersite/member/LeagueView.do?league=10052){:target="_blank"} |EVAL F4 EMV 2024 |Europe |72 |2488 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2024 FIA F4 season |Europe |50 |2557 |Both | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR F4 All Weather Challenge |North America |50 |1379 | | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR Season 11 \- F4 |North America |50 |1838 |Open |Lime Rock Park |Mon, November 04 09:00PM EST |Tue, November 05 02:00AM GMT |Tue, November 05 01:00PM AEDT |
@@ -73,7 +73,7 @@
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 32 F4 |North America |34 |1668 |Fixed |Suzuka International Racing Course |Mon, November 04 02:00PM EST |Mon, November 04 07:00PM GMT |Tue, November 05 06:00AM AEDT |
 |[British F4 Esports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9004){:target="_blank"} |2024 British F4 Esports Championship |Europe |34 |5405 | | | | | |
 |[Sim Racers Group Wednesday Intermediate](https://members.iracing.com/membersite/member/LeagueView.do?league=11451){:target="_blank"} |2024 S4\- Standard Mixed |North America |33 |1500 |Fixed |Tsukuba Circuit |Wed, November 06 08:58PM EST |Thu, November 07 01:58AM GMT |Thu, November 07 12:58PM AEDT |
-|[FIA F4 eSports Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11277){:target="_blank"} |2024 FIA F4 eSports Global Championship |Europe |30 |7774 | |[Legacy] Silverstone Circuit - 2008 |Sat, November 02 02:40PM EDT |Sat, November 02 06:40PM GMT |Sun, November 03 05:40AM AEDT |
+|[FIA F4 eSports Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11277){:target="_blank"} |2024 FIA F4 eSports Global Championship |Europe |30 |7774 | |Fuji International Speedway |Sat, November 02 02:40PM EDT |Sat, November 02 06:40PM GMT |Sun, November 03 05:40AM AEDT |
 |[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR F4 Season 2 |North America |27 |2030 |Both | | | | |
 |[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11418){:target="_blank"} |F4 Championship |North America |26 |1602 | | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |F4 Sunday 2024\-S04 Fall |North America |26 |1401 |Fixed |Oulton Park Circuit |Sun, November 03 11:00AM EST |Sun, November 03 04:00PM GMT |Mon, November 04 03:00AM AEDT |
@@ -85,12 +85,11 @@
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |FIA F4 Saturday Nights |North America |21 |1176 | | | | | |
 |[Skip Barber Formula iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8170){:target="_blank"} |2024 Skip Barber iRacing Series |North America |19 |4301 | | | | | |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Revving Red's Roaring Road Racing Revelry \- Season 6 |North America |18 |1652 |Both |Okayama International Circuit |Tue, November 05 11:00PM EST |Wed, November 06 04:00AM GMT |Wed, November 06 03:00PM AEDT |
-|[F4 FRIDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=11537){:target="_blank"} |Season one |Europe |17 |2540 | |MotorLand Aragón |Fri, November 01 03:00PM EDT |Fri, November 01 07:00PM GMT |Sat, November 02 06:00AM AEDT |
+|[F4 FRIDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=11537){:target="_blank"} |Season one |Europe |17 |2556 | |Circuit de Barcelona Catalunya |Fri, November 08 02:00PM EST |Fri, November 08 07:00PM GMT |Sat, November 09 06:00AM AEDT |
 |[GoRacing Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=8712){:target="_blank"} |2024 F4 Series |North America |16 |1597 | |Long Beach Street Circuit |Thu, November 07 07:30PM EST |Fri, November 08 12:30AM GMT |Fri, November 08 11:30AM AEDT |
 |[FNR Racing F4 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11379){:target="_blank"} |Sezon 0 FNR Racing F4 |Europe |15 |1601 | | | | | |
-|[Purple Sector Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |Formula Fridays \- F4 Fixed |North America |15 |2158 |Open |Lime Rock Park |Fri, November 01 08:00PM EDT |Sat, November 02 12:00AM GMT |Sat, November 02 11:00AM AEDT |
+|[Purple Sector Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |Formula Fridays \- F4 Fixed |North America |15 |2101 |Open |Tsukuba Circuit |Fri, November 08 08:00PM EST |Sat, November 09 01:00AM GMT |Sat, November 09 12:00PM AEDT |
 |[Rapid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11627){:target="_blank"} |Season 1 |Australia-NZ |15 |2014 | |Lime Rock Park |Sat, November 02 03:00AM EDT |Sat, November 02 07:00AM GMT |Sat, November 02 06:00PM AEDT |
-|[OZICAR F4](https://members.iracing.com/membersite/member/LeagueView.do?league=7639){:target="_blank"} |Season 3 European Vacation |North America |14 |2447 | | | | | |
 |[Diesel Motor Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=11623){:target="_blank"} |Formula 4 Season One |North America |12 |1427 |Fixed | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2024 Q4 \- Thursday night \- Formula F4's |North America |12 |1025 |Open |Donington Park Racing Circuit |Thu, November 07 10:00PM EST |Fri, November 08 03:00AM GMT |Fri, November 08 02:00PM AEDT |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |FSR\-F1 Season \#12 |North America |12 |1173 |Both | | | | |
@@ -120,7 +119,6 @@
 |[Mundial de Resistencia TNP](https://members.iracing.com/membersite/member/LeagueView.do?league=10271){:target="_blank"} |Formula 3 Pro |North America |14 |2689 | | | | | |
 |[Ultimate Formula Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10477){:target="_blank"} |Season 2 |North America |14 |1411 | |Charlotte Motor Speedway |Wed, November 06 07:30PM EST |Thu, November 07 12:30AM GMT |Thu, November 07 11:30AM AEDT |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |24S3 ZPM Open Wheel |North America |13 |1716 |Open |Barber Motorsports Park |Wed, November 06 08:30PM EST |Thu, November 07 01:30AM GMT |Thu, November 07 12:30PM AEDT |
-|[Fritosport Racing Series \- CLUB](https://members.iracing.com/membersite/member/LeagueView.do?league=7841){:target="_blank"} |FRITOSPORT CLUB SERIES Season 4 |North America |11 |1723 | | | | | |
 
 ### Indy Pro 2000 PM-18
 
@@ -146,7 +144,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Daredevil Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9822){:target="_blank"} |SEASON 5 |North America |26 |2323 | | | | | |
-|[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 9 |North America |25 |1225 |Fixed |[Legacy] Pocono Raceway - 2009 |Fri, November 01 07:00PM EDT |Fri, November 01 11:00PM GMT |Sat, November 02 10:00AM AEDT |
+|[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 9 |North America |25 |1231 |Fixed |Mid-Ohio Sports Car Course |Fri, November 08 07:00PM EST |Sat, November 09 12:00AM GMT |Sat, November 09 11:00AM AEDT |
 |[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Historic Cup 2024 |Europe |22 |1709 |Both | | | | |
 |[Blue Wave Formula Career](https://members.iracing.com/membersite/member/LeagueView.do?league=10269){:target="_blank"} |Formula1 |Europe |11 |2802 | |Hockenheimring Baden-Württemberg |Mon, November 04 02:30PM EST |Mon, November 04 07:30PM GMT |Tue, November 05 06:30AM AEDT |
 
@@ -155,15 +153,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|---------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |7DRIVE X VERSUM Ray FF1600 Cup |Europe |56 |1770 |Both | | | | |
 |[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |2024S4 FF WW |North America |55 |2953 |Open |Brands Hatch Circuit |Sun, November 03 11:30AM EST |Sun, November 03 04:30PM GMT |Mon, November 04 03:30AM AEDT |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Formula 1600 2024 T4 |South America |33 |1830 |Fixed | | | | |
 |[UK FF1600 Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10078){:target="_blank"} |2024 UK FF1600 Esports Cup |Europe |23 |4489 | | | | | |
 |[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 5 UK |Australia-NZ |20 |2642 | | | | | |
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |24/25 BiS F1600 Championship |North America |19 |2149 | |Oulton Park Circuit |Wed, November 06 07:00PM EST |Thu, November 07 12:00AM GMT |Thu, November 07 11:00AM AEDT |
+|[ACADEMIA SARTxMC](https://members.iracing.com/membersite/member/LeagueView.do?league=10338){:target="_blank"} |CAMPEONATO ACADEMIA SARTxMC DITAL |North America |17 |1622 | | | | | |
 |[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Ray1600 |North America |17 |1567 |Fixed |Oran Park Raceway |Tue, November 05 11:00PM EST |Wed, November 06 04:00AM GMT |Wed, November 06 03:00PM AEDT |
-|[ACADEMIA SARTxMC](https://members.iracing.com/membersite/member/LeagueView.do?league=10338){:target="_blank"} |CAMPEONATO ACADEMIA SARTxMC DITAL |North America |16 |1502 | |Rudskogen Motorsenter |Fri, November 01 07:28PM EDT |Fri, November 01 11:28PM GMT |Sat, November 02 10:28AM AEDT |
 |[GM PDT Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6251){:target="_blank"} |F1600 Fall Challenge Series |North America |14 |1764 | | | | | |
 |[Wings and Things](https://members.iracing.com/membersite/member/LeagueView.do?league=8431){:target="_blank"} |Season 6 \- return of the things |North America |11 |2988 | | | | | |
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |Official Test |North America |10 |None | |Oulton Park Circuit |Tue, November 05 07:00PM EST |Wed, November 06 12:00AM GMT |Wed, November 06 11:00AM AEDT |
@@ -198,7 +196,7 @@
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |Season  16 \- PRO |International |25 |2009 | | | | | |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Sprint \- Season 7 |North America |25 |2064 |Both | | | | |
 |[Thermal Racing Formula League](https://members.iracing.com/membersite/member/LeagueView.do?league=10694){:target="_blank"} |Thermal Racing Formula League Season 3 \(2024\|S4\) |North America |24 |1803 |Open | | | | |
-|[Simaholics Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11487){:target="_blank"} |2024 \- Season 4 |North America |21 |1298 | |Algarve International Circuit |Fri, November 01 08:15PM EDT |Sat, November 02 12:15AM GMT |Sat, November 02 11:15AM AEDT |
+|[Simaholics Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11487){:target="_blank"} |2024 \- Season 4 |North America |21 |1255 | |Circuit of the Americas |Fri, November 08 08:15PM EST |Sat, November 09 01:15AM GMT |Sat, November 09 12:15PM AEDT |
 |[Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"} |O4A 2024 |North America |19 |1878 |Fixed |Fuji International Speedway |Tue, November 05 07:45PM EST |Wed, November 06 12:45AM GMT |Wed, November 06 11:45AM AEDT |
 |[F1BC SuperFormula Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |F1BC SuperFormula Lights 2024/4 |South America |18 |1990 | |Autódromo José Carlos Pace |Wed, November 06 04:25PM EST |Wed, November 06 09:25PM GMT |Thu, November 07 08:25AM AEDT |
 |[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2024 S4 Super Formula Lights \(Sun 9:00pm\) |North America |18 |1697 |Fixed |Detroit Grand Prix at Belle Isle |Sun, November 03 08:00PM EST |Mon, November 04 01:00AM GMT |Mon, November 04 12:00PM AEDT |
