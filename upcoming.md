@@ -5,30 +5,13 @@
 
 # NASCAR
 
-### NASCAR 2022 NextGen
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Midnight Run Strategy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11680){:target="_blank"} |Midnight Run Strategy Series Season 1 | |Daytona International Speedway |Sat, November 02 09:30PM EDT |Sun, November 03 01:30AM GMT |Sun, November 03 12:30PM AEDT |
-
-### NASCAR Cup
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|--------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Penny Pleasers Cup presented by DL Designs](https://members.iracing.com/membersite/member/LeagueView.do?league=11650){:target="_blank"} |Penny Pleasers |Fixed |Daytona International Speedway |Sun, November 03 06:45PM EST |Sun, November 03 11:45PM GMT |Mon, November 04 10:45AM AEDT |
-
 ### XFINITY Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------|-------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
 |[PeckerHead Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11233){:target="_blank"} |Xfinity |Fixed |Las Vegas Motor Speedway |Mon, November 04 08:00PM EST |Tue, November 05 01:00AM GMT |Tue, November 05 12:00PM AEDT |
-|[RS Button Boxes Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9216){:target="_blank"} |RS Button Boxes Season 1 2024\-25 |Fixed |Daytona International Speedway |Sun, November 03 06:00PM EST |Sun, November 03 11:00PM GMT |Mon, November 04 10:00AM AEDT |
 
 # Oval
 
@@ -40,32 +23,6 @@
 |-----------------------------------------------------------------------------------------------------------|-----------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Mini Stock Series \- Season 1 |Fixed |USA International Speedway |Thu, November 07 03:00AM EST |Thu, November 07 08:00AM GMT |Thu, November 07 07:00PM AEDT |
 
-### Street Stocks
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------|-----|-------------|----------------------------|----------------------------|-----------------------------|
-|[Sunday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=11062){:target="_blank"} |Season 2 | |Iowa Speedway |Sun, November 03 08:00PM EST |Mon, November 04 01:00AM GMT |Mon, November 04 12:00PM AEDT |
-
-# Open-wheel
-
-### FIA F4
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |ESPORTS UKRAINIAN F4 CHAMPIONSHIP |Both |Circuito de Navarra |Sat, November 02 02:00PM EDT |Sat, November 02 06:00PM GMT |Sun, November 03 05:00AM AEDT |
-
-### Super Formula Lights
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|----------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[Rainbow Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10704){:target="_blank"} |RRL SFL Season 1 | |Watkins Glen International |Sun, November 03 02:00PM EST |Sun, November 03 07:00PM GMT |Mon, November 04 06:00AM AEDT |
-
 # Sports Car
 
 ### Hosted All Cars Class
@@ -75,6 +32,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------|-------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |testing | |Sebring International Raceway |Fri, November 08 07:00PM EST |Sat, November 09 12:00AM GMT |Sat, November 09 11:00AM AEDT |
+
+### Supercars - 2019
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |Summer Series 2024/25 |Fixed |Texas Motor Speedway |Sun, November 10 04:00AM EST |Sun, November 10 09:00AM GMT |Sun, November 10 08:00PM AEDT |
 
 ### Toyota GR86
 
@@ -102,6 +67,16 @@
 |---------------------------------------------------------------------------------------------------------------|------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |Fixed |Donington Park Racing Circuit |Mon, November 04 06:41PM EST |Mon, November 04 11:41PM GMT |Tue, November 05 10:41AM AEDT |
 
+# Dirt Oval
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
+|[World of Outlaws Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11658){:target="_blank"} |2024\-25 WoO Pro Series | |Volusia Speedway Park |Mon, November 11 07:45PM EST |Tue, November 12 12:45AM GMT |Tue, November 12 11:45AM AEDT |
+
 # Dirt Road
 
 ### Pro 4 Truck
@@ -111,24 +86,4 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|--------|-----|------------------|----------------------------|----------------------------|-----------------------------|
 |[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} |Season 2 |Both |Auto Club Speedway |Wed, November 06 08:00PM EST |Thu, November 07 01:00AM GMT |Thu, November 07 12:00PM AEDT |
-
-# Multi-class/Unclassified
-
-### GT3 Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------|-----|-----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[E\-Pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |EPRL GT3 Season 4 |Open |Sandown International Motor Raceway |Sat, November 02 03:00AM EDT |Sat, November 02 07:00AM GMT |Sat, November 02 06:00PM AEDT |
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[CMS Team Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5813){:target="_blank"} |2025 CMS iRacing Team Endurance Series |Open |Road America |Sun, November 03 10:30AM EST |Sun, November 03 03:30PM GMT |Mon, November 04 02:30AM AEDT |
-|[CFE 2024 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Split 1 | |Autodromo Internazionale del Mugello |Sat, November 02 07:00AM EDT |Sat, November 02 11:00AM GMT |Sat, November 02 10:00PM AEDT |
-|[CFE 2024 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Split 2 | |Autodromo Internazionale del Mugello |Sat, November 02 07:10AM EDT |Sat, November 02 11:10AM GMT |Sat, November 02 10:10PM AEDT |
 
