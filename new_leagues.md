@@ -58,10 +58,16 @@
 |[MCMRA](https://members.iracing.com/membersite/member/LeagueView.do?league=11735){:target="_blank"} | |Mound City Motorsports Racing Association |
 |[columbus racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11744){:target="_blank"} | |ohio |
 |[DOUBLE K RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11742){:target="_blank"} | |Hello, This league is a fun and competitive league, run by Kaden Harrison and Seth Kershaw, No entry Fee just full of fun, Enjoy, DOUBLE K RACING LEAGUE |
-|[Gear Grinders](https://members.iracing.com/membersite/member/LeagueView.do?league=11745){:target="_blank"} |[Discord](https://discord.gg/qPFAJpPzeP){:target="_blank"} |We were Founded by Aaron Mason and Kyle Lasorella, Back in NASCAR\. Now We have moved Gear Grinders to IRacing\. We are pleased to have you in our League\. Please join our discord server and read over our rules |
+|[Gear Grinders](https://members.iracing.com/membersite/member/LeagueView.do?league=11745){:target="_blank"} |[Discord](https://discord.gg/qPFAJpPzeP){:target="_blank"} |We were Founded by Aaron Mason and Kyle Lasorella, Back in NASCAR\. Now We have moved Gear Grinders to  I Racing\. We are pleased to have you in our League\. Please join our discord server and read over our rules  We Offer Clean Fun races \. We have a list of rules to follow by and we manly do Offroad racing in Trucks as of now for the first year in 2026 we will be opening up the oval racing once we have a good amount of drivers from dirt and we see people being involved with us for the first year\.\. Don't hesitate to ask us anything in our discord server\. |
 |[iRacing Stock Car League](https://members.iracing.com/membersite/member/LeagueView.do?league=11746){:target="_blank"} | | |
-|[New England Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11743){:target="_blank"} | | |
+|[New England Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11743){:target="_blank"} | |Run the first 3 Wednesday of the month with the last one reserved as a makeup race due to weather ETC\. First week asphalt, 2nd week dirt and switches like that accordingly\. $15 entry fee going directly into the points payout at week 16 |
 |[Black Robot League](https://members.iracing.com/membersite/member/LeagueView.do?league=11739){:target="_blank"} | | |
 |[iRacing AI League](https://members.iracing.com/membersite/member/LeagueView.do?league=11740){:target="_blank"} | | |
 |[Stafford sk](https://members.iracing.com/membersite/member/LeagueView.do?league=11741){:target="_blank"} | | |
+|[All\-American Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11751){:target="_blank"} | | |
+|[Bufty Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=11749){:target="_blank"} | |Bufty Racers Pick\-em League |
+|[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} | |Competitive & Exciting Racing Where Everyone is Welcome, No Matter Your Skill Level\! |
+|[MRDR iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11750){:target="_blank"} | |A premiere Northeast Modified league |
+|[YOLO Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11747){:target="_blank"} | | |
+|[Prodigy Three](https://members.iracing.com/membersite/member/LeagueView.do?league=11748){:target="_blank"} | | |
 

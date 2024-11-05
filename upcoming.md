@@ -3,16 +3,6 @@
 * TOC  
 {:toc}
 
-# NASCAR
-
-### XFINITY Series
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[PeckerHead Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11233){:target="_blank"} |Xfinity |Fixed |Las Vegas Motor Speedway |Mon, November 04 08:00PM EST |Tue, November 05 01:00AM GMT |Tue, November 05 12:00PM AEDT |
-
 # Oval
 
 ### Hosted All Cars Class
@@ -41,14 +31,6 @@
 |----------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |Summer Series 2024/25 |Fixed |Texas Motor Speedway |Sun, November 10 04:00AM EST |Sun, November 10 09:00AM GMT |Sun, November 10 08:00PM AEDT |
 
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------|-----|------------------|----------------------------|----------------------------|-----------------------------|
-|[Digital Motorsport SK](https://members.iracing.com/membersite/member/LeagueView.do?league=8009){:target="_blank"} |2024\-GR86 |Both |Snetterton Circuit |Mon, November 04 01:30PM EST |Mon, November 04 06:30PM GMT |Tue, November 05 05:30AM AEDT |
-
 # Prototype
 
 ### Dallara P217
@@ -58,14 +40,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------|-------------------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
 |[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |09 \| Novembre 2024 | |Fuji International Speedway |Tue, November 05 03:15PM EST |Tue, November 05 08:15PM GMT |Wed, November 06 07:15AM AEDT |
-
-### Radical SR10
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |Fixed |Donington Park Racing Circuit |Mon, November 04 06:41PM EST |Mon, November 04 11:41PM GMT |Tue, November 05 10:41AM AEDT |
 
 # Dirt Oval
 

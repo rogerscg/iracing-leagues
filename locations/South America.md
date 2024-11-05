@@ -8,16 +8,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|---------------------|----------------------------|----------------------------|-----------------------------|
-|[VC Cup Series 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3387 | |Martinsville Speedway |Mon, November 04 05:30PM EST |Mon, November 04 10:30PM GMT |Tue, November 05 09:30AM AEDT |
+|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|[VC Cup Series 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2024 |South America |40 |3388 | |Phoenix Raceway |Mon, November 11 05:30PM EST |Mon, November 11 10:30PM GMT |Tue, November 12 09:30AM AEDT |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[VC Truck Series \- Rookie to Legend](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T4 |South America |45 |2407 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|[VC Truck Series \- Rookie to Legend](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T4 |South America |45 |2407 | |Phoenix Raceway |Tue, November 12 05:30PM EST |Tue, November 12 10:30PM GMT |Wed, November 13 09:30AM AEDT |
 
 # Open-wheel
 
@@ -26,8 +26,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|---------------------------------|----------------------------|----------------------------|-----------------------------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar DW12 Rookie |South America |21 |1502 |Fixed |[Legacy] Kentucky Speedway - 2011 |Mon, November 04 05:00PM EST |Mon, November 04 10:00PM GMT |Tue, November 05 09:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar DW12 Rookie |South America |22 |1551 |Fixed | | | | |
 
 ### Hosted All Cars Class
 
@@ -77,11 +77,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|------------------|----------------------------|----------------------------|-----------------------------|
 |[F1BC MX5 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Sport 2024/4 |South America |33 |1692 | |Circuit de Lédenon |Mon, November 11 04:25PM EST |Mon, November 11 09:25PM GMT |Tue, November 12 08:25AM AEDT |
 |[LIGA FRS \- MX5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11577){:target="_blank"} |FRS MX5 Cup \- 24T4 |South America |31 |2230 | | | | | |
 |[F1BC MX5 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=8629){:target="_blank"} |MX5 Master 2024/4 |South America |29 |2915 | |Circuit de Lédenon |Mon, November 11 06:25PM EST |Mon, November 11 11:25PM GMT |Tue, November 12 10:25AM AEDT |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |MX\-5 Cup 2024 T4 |South America |28 |1703 |Fixed | | | | |
+|[Virtual Racing Brasil \- MX\-5 Mazda](https://members.iracing.com/membersite/member/LeagueView.do?league=11284){:target="_blank"} |Squirrel Horizon \- MX\-5 Mazda Cup \- Season 4 |South America |16 |3304 |Fixed | | | | |
 
 ### McLaren 720S GT3 EVO
 
@@ -91,7 +92,7 @@
 |-----------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[TK Mclaren Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9547){:target="_blank"} |TK McLaren Challenge \- 24S3 |South America |40 |2601 | |Okayama International Circuit |Mon, November 11 04:40PM EST |Mon, November 11 09:40PM GMT |Tue, November 12 08:40AM AEDT |
 
-### Ring Meister
+### Touring Car
 
 [Back to Top](#)  
 
@@ -106,8 +107,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 24T4 |South America |46 |2174 | | | | | |
-|[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/4 |South America |40 |2138 | |Oulton Park Circuit |Mon, November 04 04:25PM EST |Mon, November 04 09:25PM GMT |Tue, November 05 08:25AM AEDT |
+|[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 24T4 |South America |46 |2174 | |Road America |Tue, November 12 04:00PM EST |Tue, November 12 09:00PM GMT |Wed, November 13 08:00AM AEDT |
+|[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/4 |South America |40 |2156 | | | | | |
 |[TK Toyota Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge \- 24S3 |South America |37 |2693 | |Oulton Park Circuit |Tue, November 05 04:40PM EST |Tue, November 05 09:40PM GMT |Wed, November 06 08:40AM AEDT |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GR Cup 2024 T4 |South America |22 |1854 |Fixed |Road America |Thu, November 07 05:30PM EST |Thu, November 07 10:30PM GMT |Fri, November 08 09:30AM AEDT |
 
