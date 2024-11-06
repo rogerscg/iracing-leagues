@@ -31,16 +31,6 @@
 |----------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |Summer Series 2024/25 |Fixed |Texas Motor Speedway |Sun, November 10 04:00AM EST |Sun, November 10 09:00AM GMT |Sun, November 10 08:00PM AEDT |
 
-# Prototype
-
-### Dallara P217
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|-------------------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |09 \| Novembre 2024 | |Fuji International Speedway |Tue, November 05 03:15PM EST |Tue, November 05 08:15PM GMT |Wed, November 06 07:15AM AEDT |
-
 # Dirt Oval
 
 ### Hosted All Cars Class

@@ -45,7 +45,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |51 |2222 |Fixed | | | | |
+|[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |51 |2222 |Fixed |Circuit Gilles Villeneuve |Wed, November 13 07:00PM EST |Thu, November 14 12:00AM GMT |Thu, November 14 11:00AM AEDT |
+|[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |North America |25 |1886 |Fixed |Watkins Glen International |Mon, November 11 09:00PM EST |Tue, November 12 02:00AM GMT |Tue, November 12 01:00PM AEDT |
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |24 |3636 | | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |24 |3006 |Open |Watkins Glen International |Thu, November 07 02:15PM EST |Thu, November 07 07:15PM GMT |Fri, November 08 06:15AM AEDT |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |19 |2486 | | | | | |
@@ -56,14 +57,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D DFL Radical SR8 \- Bowens |Australia-NZ |79 |2376 |Both |Circuit Zandvoort |Fri, November 08 03:30AM EST |Fri, November 08 08:30AM GMT |Fri, November 08 07:30PM AEDT |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |47 |2322 |Open |Circuit Zolder |Fri, November 08 08:50PM EST |Sat, November 09 01:50AM GMT |Sat, November 09 12:50PM AEDT |
 |[Sim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |29 |1842 |Open | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2962 | |Nürburgring Nordschleife |Mon, November 11 03:00PM EST |Mon, November 11 08:00PM GMT |Tue, November 12 07:00AM AEDT |
-|[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |North America |15 |1632 |Fixed |Oran Park Raceway |Tue, November 05 11:00PM EST |Wed, November 06 04:00AM GMT |Wed, November 06 03:00PM AEDT |
+|[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |North America |16 |1618 |Fixed |Tsukuba Circuit |Wed, November 13 12:04AM EST |Wed, November 13 05:04AM GMT |Wed, November 13 04:04PM AEDT |
+|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2024 Q4 \- Tuesday night \- Radical SR8 |North America |15 |1018 |Open |Autodromo Nazionale Monza |Tue, November 12 10:00PM EST |Wed, November 13 03:00AM GMT |Wed, November 13 02:00PM AEDT |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 1 |North America |14 |1128 |Fixed |Dover Motor Speedway |Sun, November 10 08:00PM EST |Mon, November 11 01:00AM GMT |Mon, November 11 12:00PM AEDT |
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2024 Q4 \- Tuesday night \- Radical SR8 |North America |13 |1036 |Open |Canadian Tire Motorsports Park |Tue, November 05 10:00PM EST |Wed, November 06 03:00AM GMT |Wed, November 06 02:00PM AEDT |
 |[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |Radical Season |North America |10 |1722 | | | | | |
 
 ### Spec Racer Ford
