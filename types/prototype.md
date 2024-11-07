@@ -26,7 +26,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |59 |3349 | |Sebring International Raceway |Wed, November 06 01:00PM EST |Wed, November 06 06:00PM GMT |Thu, November 07 05:00AM AEDT |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |59 |3221 | |Sebring International Raceway |Thu, November 07 01:00PM EST |Thu, November 07 06:00PM GMT |Fri, November 08 05:00AM AEDT |
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2024 Abruzzi Prototype Challenge |North America |46 |2414 | | | | | |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Old School Prototype Challenge S1 |Europe |18 |1844 | |New Hampshire Motor Speedway |Fri, November 08 12:14PM EST |Fri, November 08 05:14PM GMT |Sat, November 09 04:14AM AEDT |
 
@@ -35,9 +35,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Dentistry Conference World Tour |North America |48 |2534 | | | | | |
-|[Sampsoid LMP3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship \- Season 4 |Europe |44 |2283 |Fixed | | | | |
+|[Sampsoid LMP3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship \- Season 4 |Europe |44 |2283 |Fixed |Canadian Tire Motorsports Park |Sun, November 10 02:00PM EST |Sun, November 10 07:00PM GMT |Mon, November 11 06:00AM AEDT |
 
 ### Radical SR10
 
@@ -65,7 +65,7 @@
 |[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |North America |16 |1618 |Fixed |Tsukuba Circuit |Wed, November 13 12:04AM EST |Wed, November 13 05:04AM GMT |Wed, November 13 04:04PM AEDT |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2024 Q4 \- Tuesday night \- Radical SR8 |North America |15 |1018 |Open |Autodromo Nazionale Monza |Tue, November 12 10:00PM EST |Wed, November 13 03:00AM GMT |Wed, November 13 02:00PM AEDT |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 1 |North America |14 |1128 |Fixed |Dover Motor Speedway |Sun, November 10 08:00PM EST |Mon, November 11 01:00AM GMT |Mon, November 11 12:00PM AEDT |
-|[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |Radical Season |North America |10 |1722 | | | | | |
+|[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |Radical Season |North America |10 |1717 | | | | | |
 
 ### Spec Racer Ford
 
@@ -74,5 +74,5 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |78 |2940 |Open |Autodromo Internazionale del Mugello |Sun, November 10 01:40PM EST |Sun, November 10 06:40PM GMT |Mon, November 11 05:40AM AEDT |
-|[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 9 |North America |55 |1977 |Fixed |Circuito de Navarra |Wed, November 06 08:30PM EST |Thu, November 07 01:30AM GMT |Thu, November 07 12:30PM AEDT |
+|[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 9 |North America |56 |2002 |Fixed | | | | |
 

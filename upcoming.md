@@ -3,6 +3,16 @@
 * TOC  
 {:toc}
 
+# NASCAR
+
+### XFINITY Series
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------|----------------------------|----------------------------|-----------------------------|
+|[MAD Spartan Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6573){:target="_blank"} |Xfinity winter 24 | |Auto Club Speedway |Thu, November 14 07:30PM EST |Fri, November 15 12:30AM GMT |Fri, November 15 11:30AM AEDT |
+
 # Oval
 
 ### Hosted All Cars Class
@@ -31,6 +41,16 @@
 |----------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |Summer Series 2024/25 |Fixed |Texas Motor Speedway |Sun, November 10 04:00AM EST |Sun, November 10 09:00AM GMT |Sun, November 10 08:00PM AEDT |
 
+# Prototype
+
+### Radical SR10
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[Global Racing Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11634){:target="_blank"} |Radical Sprint Cup | |Circuito de Navarra |Thu, November 14 03:00PM EST |Thu, November 14 08:00PM GMT |Fri, November 15 07:00AM AEDT |
+
 # Dirt Oval
 
 ### Hosted All Cars Class
@@ -40,14 +60,4 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
 |[World of Outlaws Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11658){:target="_blank"} |2024\-25 WoO Pro Series | |Volusia Speedway Park |Mon, November 11 07:45PM EST |Tue, November 12 12:45AM GMT |Tue, November 12 11:45AM AEDT |
-
-# Dirt Road
-
-### Pro 4 Truck
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|--------|-----|------------------|----------------------------|----------------------------|-----------------------------|
-|[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} |Season 2 |Both |Auto Club Speedway |Wed, November 06 08:00PM EST |Thu, November 07 01:00AM GMT |Thu, November 07 12:00PM AEDT |
 
