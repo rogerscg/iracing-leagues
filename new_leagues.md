@@ -2,11 +2,7 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[THD SIMSPORT PRODUCTIONS](https://members.iracing.com/membersite/member/LeagueView.do?league=11705){:target="_blank"} |[Discord](https://discord.gg/t7bW86rdeA){:target="_blank"} | |
-|[Throttle Junkies Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=11702){:target="_blank"} | | |
-|[WFO Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11704){:target="_blank"} | |Local Dirt Track Racing |
 |[FIA Motorsport Games \- Backup](https://members.iracing.com/membersite/member/LeagueView.do?league=11706){:target="_blank"} | |Backup League |
-|[oNiD Toyota GR86 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11703){:target="_blank"} | | |
 |[2024 Ryco Supercars Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} | |V8 supercars championship |
 |[Average Racing Project \| Fastest Lap Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11708){:target="_blank"} | |Set the Fastest Lap \= Win Prizes |
 |[ESR SFL Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11717){:target="_blank"} | | |
@@ -68,4 +64,6 @@
 |[Lost Wrench Racing League \(LWRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} | | |
 |[SoupKitchen GT3 Express](https://members.iracing.com/membersite/member/LeagueView.do?league=11769){:target="_blank"} | |All welcome to apply, GT3 car races mostly\. Try to stay on the road but if not, aim for the bushes\. |
 |[Ferrari HP Esports Series 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11765){:target="_blank"} | |The official Ferrari HP Esports Series 2024 |
+|[Dirt Mafia Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11770){:target="_blank"} | |Winter Series |
+|[VSC iRacing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} | |VSC iRacing Hub\- oceanic league racing for everyone who wants to be involved discord\-VSC iRacing Hub |
 

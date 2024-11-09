@@ -15,14 +15,6 @@
 
 # Sports Car
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------|-------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |testing | |Sebring International Raceway |Fri, November 08 07:00PM EST |Sat, November 09 12:00AM GMT |Sat, November 09 11:00AM AEDT |
-
 ### Supercars - 2019
 
 [Back to Top](#)  
@@ -50,4 +42,15 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
 |[World of Outlaws Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11658){:target="_blank"} |2024\-25 WoO Pro Series | |Volusia Speedway Park |Mon, November 11 07:45PM EST |Tue, November 12 12:45AM GMT |Tue, November 12 11:45AM AEDT |
+
+# Multi-class/Unclassified
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
+|[EGT Canada \- Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11322){:target="_blank"} |2024\-2025 | |Daytona International Speedway |Sat, November 16 08:00AM EST |Sat, November 16 01:00PM GMT |Sun, November 17 12:00AM AEDT |
+|[PHA Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10304){:target="_blank"} |24/25 CSW WTF RACE \( cars and tracks that shouldn't be run together \) |Fixed |Daytona Rallycross and Dirt Road |Sat, November 16 06:00PM EST |Sat, November 16 11:00PM GMT |Sun, November 17 10:00AM AEDT |
 

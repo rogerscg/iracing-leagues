@@ -25,10 +25,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |59 |3260 | |Road America |Wed, November 13 01:00PM EST |Wed, November 13 06:00PM GMT |Thu, November 14 05:00AM AEDT |
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2024 Abruzzi Prototype Challenge |North America |46 |2414 | | | | | |
-|[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Old School Prototype Challenge S1 |Europe |18 |1844 | |New Hampshire Motor Speedway |Fri, November 08 12:14PM EST |Fri, November 08 05:14PM GMT |Sat, November 09 04:14AM AEDT |
+|[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Old School Prototype Challenge S1 |Europe |18 |1589 | |Kansas Speedway |Fri, November 15 05:00PM EST |Fri, November 15 10:00PM GMT |Sat, November 16 09:00AM AEDT |
 
 ### Ligier JS P320
 
@@ -58,8 +58,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D DFL Radical SR8 \- Bowens |Australia-NZ |79 |2376 |Both |Circuit Zandvoort |Fri, November 08 03:30AM EST |Fri, November 08 08:30AM GMT |Fri, November 08 07:30PM AEDT |
-|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |47 |2322 |Open |Circuit Zolder |Fri, November 08 08:50PM EST |Sat, November 09 01:50AM GMT |Sat, November 09 12:50PM AEDT |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D DFL Radical SR8 \- Bowens |Australia-NZ |83 |2375 |Both |Circuito de Navarra |Fri, November 15 03:30AM EST |Fri, November 15 08:30AM GMT |Fri, November 15 07:30PM AEDT |
+|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |47 |2319 |Open |Mount Panorama Circuit |Fri, November 15 09:00PM EST |Sat, November 16 02:00AM GMT |Sat, November 16 01:00PM AEDT |
 |[Sim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |29 |1842 |Open | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2962 | |Nürburgring Nordschleife |Mon, November 11 03:00PM EST |Mon, November 11 08:00PM GMT |Tue, November 12 07:00AM AEDT |
 |[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |North America |16 |1618 |Fixed |Tsukuba Circuit |Wed, November 13 12:04AM EST |Wed, November 13 05:04AM GMT |Wed, November 13 04:04PM AEDT |
