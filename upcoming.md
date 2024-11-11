@@ -5,6 +5,14 @@
 
 # NASCAR
 
+### NASCAR 2022 NextGen
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Riptide Radio Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5979){:target="_blank"} |Riptide Radio Cup Series Season 5 | |Daytona International Speedway |Sun, November 17 06:45PM EST |Sun, November 17 11:45PM GMT |Mon, November 18 10:45AM AEDT |
+
 ### XFINITY Series
 
 [Back to Top](#)  
@@ -15,13 +23,13 @@
 
 # Sports Car
 
-### Supercars - 2019
+### GT4 Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
-|[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |Summer Series 2024/25 |Fixed |Texas Motor Speedway |Sun, November 10 04:00AM EST |Sun, November 10 09:00AM GMT |Sun, November 10 08:00PM AEDT |
+|---------------------------------------------------------------------------------------------------------|-----------------------|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
+|[RECART\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10758){:target="_blank"} |RECART SRS 2024/25 Cup1 | |Autodromo Internazionale Enzo e Dino Ferrari |Sun, November 17 01:30PM EST |Sun, November 17 06:30PM GMT |Mon, November 18 05:30AM AEDT |
 
 # Prototype
 
@@ -44,6 +52,14 @@
 |[World of Outlaws Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11658){:target="_blank"} |2024\-25 WoO Pro Series | |Volusia Speedway Park |Mon, November 11 07:45PM EST |Tue, November 12 12:45AM GMT |Tue, November 12 11:45AM AEDT |
 
 # Multi-class/Unclassified
+
+### GT3 Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------|------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |Both |Charlotte Motor Speedway |Sun, November 17 06:30PM EST |Sun, November 17 11:30PM GMT |Mon, November 18 10:30AM AEDT |
 
 ### Hosted All Cars Class
 
