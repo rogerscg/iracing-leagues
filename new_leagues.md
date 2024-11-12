@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[ESR SFL Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11717){:target="_blank"} | | |
-|[FOPorsche](https://members.iracing.com/membersite/member/LeagueView.do?league=11719){:target="_blank"} | | |
-|[Nitro Knight Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=11721){:target="_blank"} | |a league for go karters going pro |
-|[Roval Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11720){:target="_blank"} |[Discord](https://discord.gg/cYu5YEaWxQ){:target="_blank"} |This league races any track that uses any portion of a dedicated oval track with a portion of any road course track\. |
-|[Rquatro](https://members.iracing.com/membersite/member/LeagueView.do?league=11718){:target="_blank"} | | |
-|[World Wide Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11722){:target="_blank"} | | |
 |[FOTest](https://members.iracing.com/membersite/member/LeagueView.do?league=11724){:target="_blank"} | | |
 |[NXT Era Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11723){:target="_blank"} |[Discord](https://discord.gg/kZGkYNTyAY){:target="_blank"} |Thursday Nights 8PM Eastern, 25 Race Season, 16 Playoff Drivers, Same race distances as real life NASCAR Truck Series, And a thorough rulebook with a 6 man Admin team to ensure clean fun racing\. |
 |[Porsche Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11725){:target="_blank"} |[Discord](https://discord.gg/AmYXT2qvPt){:target="_blank"} |Porsche Cup League run by the Formula Racing Series |
@@ -30,7 +24,7 @@
 |[iRacing Stock Car League](https://members.iracing.com/membersite/member/LeagueView.do?league=11746){:target="_blank"} | | |
 |[New England Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11743){:target="_blank"} | |Run the first 3 Wednesday of the month with the last one reserved as a makeup race due to weather ETC\. First week asphalt, 2nd week dirt and switches like that accordingly\. $15 entry fee going directly into the points payout at week 16 |
 |[Black Robot League](https://members.iracing.com/membersite/member/LeagueView.do?league=11739){:target="_blank"} | | |
-|[iRacing AI League](https://members.iracing.com/membersite/member/LeagueView.do?league=11740){:target="_blank"} | | |
+|[Saturday Night Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=11740){:target="_blank"} | | |
 |[Stafford sk](https://members.iracing.com/membersite/member/LeagueView.do?league=11741){:target="_blank"} | | |
 |[All\-American Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11751){:target="_blank"} | | |
 |[Bufty Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=11749){:target="_blank"} | |Bufty Racers Pick\-em League |
@@ -43,7 +37,7 @@
 |[Thanksgiving Thunder \- Dirt Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11753){:target="_blank"} |[Discord](https://discord.gg/MYfBmm8Bss){:target="_blank"} |1st Annual Thanksgiving Thunder |
 |[Thanksgiving Thunder \- Pro Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11754){:target="_blank"} |[Discord](https://discord.gg/MYfBmm8Bss){:target="_blank"} | |
 |[WinterIndy](https://members.iracing.com/membersite/member/LeagueView.do?league=11755){:target="_blank"} | |ARCS IndyCar league, a continuation of the 2020 Forza Motorsport competition\. Broadcasted exclusively on RickJamesTV |
-|[Davids vs Goliaths](https://members.iracing.com/membersite/member/LeagueView.do?league=11756){:target="_blank"} | |Humble Teams vs Multimillion Dollar Orgs |
+|[Average Porsche Enjoyers](https://members.iracing.com/membersite/member/LeagueView.do?league=11756){:target="_blank"} | |EGC |
 |[Artura Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=11762){:target="_blank"} | |League is for being able to drive the tracks in the Artura Trophy Series, both US and Europe |
 |[NXT ERA Gen 6 Cup Series Presented by TPE](https://members.iracing.com/membersite/member/LeagueView.do?league=11764){:target="_blank"} |[Discord](https://discord.gg/t5YvcmfDQT){:target="_blank"} |NXT ERA Racing league is a Gen 6 cup car league that races on monday nights\. Practice starts at 8 pm EST and race starts at 9 pm EST\.   We also have Xfinity on Wednesday and Trucks on Thursday, join discord with league link above to find Xfinity and Truck Series\. |
 |[Rip The Lip Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11763){:target="_blank"} | | |
@@ -61,10 +55,18 @@
 |[fatboyracingleague](https://members.iracing.com/membersite/member/LeagueView.do?league=11778){:target="_blank"} | |stockcar boys |
 |[Mellor Merifield Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11772){:target="_blank"} | |Have fun with mates while being able to race cleanly and fairly\. drivers of all skill levels are welcome in |
 |[On Point Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11773){:target="_blank"} | | |
-|[Pineapple Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11781){:target="_blank"} |[Discord](https://discord.gg/scXRqCQUj9){:target="_blank"} | |
+|[Pineapple Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11781){:target="_blank"} |[Discord](https://discord.gg/scXRqCQUj9){:target="_blank"} |PRC eu\.NASCAR Season 2 is starting on the 8th of December\! This time in the Legends\.  The idea behind the series is to create a fun environment for all drivers where we don't take the racing too seriously\. There is still a championship to fight for, but we want it to be more like grassroots motorsport and focus on the community as well as the racing\. |
 |[Project SBR](https://members.iracing.com/membersite/member/LeagueView.do?league=11780){:target="_blank"} | | |
 |[Semi Pro Race Car Drivers](https://members.iracing.com/membersite/member/LeagueView.do?league=11774){:target="_blank"} | | |
 |[WARRIOR MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=11775){:target="_blank"} |[Discord](https://discord.gg/NGtUQ5zubm){:target="_blank"} |Warrior Motorsports is a competitive league for Iracing, gran turismo 7, F1, and NASCAR Heat 5\. Join to win $$ Prizes\! |
 |[DMH AI](https://members.iracing.com/membersite/member/LeagueView.do?league=11779){:target="_blank"} | | |
 |[Hadeca Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11777){:target="_blank"} |[Discord](https://discord.gg/gzJjxNkuKn){:target="_blank"} | |
+|[At The Checkered Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} | | |
+|[BonaNox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11784){:target="_blank"} | |A fun place to race and make friends |
+|[Chillin Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11782){:target="_blank"} | | |
+|[iRacing Midget Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11786){:target="_blank"} |[Discord](https://discord.gg/JyMe2hwh9u){:target="_blank"} |The iRacing Midget Association National Tour is one of the most competitive and largest Dirt Midget Series on the sim\! Heat races will consist of 16 drivers where the LCQ's and A main will consist of 20\! |
+|[NascarmanYT's Saturday Madness Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11785){:target="_blank"} |[Discord](https://discord.gg/pvBPhzHr){:target="_blank"} |NSMRL is a NASCAR racing league where we run some of the best tracks and cars and get wild races\. You must be C\-Class and have an iRating of 1750 to join\. ENTRIES ARE FREE\!\!\!\!\! |
+|[SRCA Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11783){:target="_blank"} | |The Sim Racers Club of America returns with a new series featuring the Mini Stock cars\. |
+|[TRS league](https://members.iracing.com/membersite/member/LeagueView.do?league=11788){:target="_blank"} | | |
+|[USORL Dash Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11787){:target="_blank"} | |USORL TWB Winter Heat Dash Series |
 
