@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2024 World Cup |North America |37 |3880 |Open | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks West \- 2024 |North America |15 |2539 |Fixed | | | | |
-|[NASA 2x4 Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |2x4 24A |North America |14 |3419 |Fixed |Crandon International Raceway |Tue, November 12 09:00PM EST |Wed, November 13 02:00AM GMT |Wed, November 13 01:00PM AEDT |
+|[NASA 2x4 Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |2x4 24A |North America |14 |3419 |Fixed | | | | |
 
 ### Pro 2 Lite Truck
 

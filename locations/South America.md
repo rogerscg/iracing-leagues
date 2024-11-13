@@ -16,8 +16,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
-|[VC Truck Series \- Rookie to Legend](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T4 |South America |45 |2407 | |Phoenix Raceway |Tue, November 12 05:30PM EST |Tue, November 12 10:30PM GMT |Wed, November 13 09:30AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
+|[VC Truck Series \- Rookie to Legend](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T4 |South America |46 |2431 | | | | | |
 
 # Open-wheel
 
@@ -52,7 +52,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
 |[LIGA FRS \- SUPER FORMULA LIGHTS](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS Super Formula Lights \- 24T4 |South America |32 |1838 | |Circuito de Jerez - Ángel Nieto |Sun, November 17 04:00PM EST |Sun, November 17 09:00PM GMT |Mon, November 18 08:00AM AEDT |
-|[F1BC SuperFormula Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |F1BC SuperFormula Lights 2024/4 |South America |19 |2010 | | | | | |
+|[F1BC SuperFormula Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |F1BC SuperFormula Lights 2024/4 |South America |19 |2010 | |Circuito de Jerez - Ángel Nieto |Wed, November 20 04:25PM EST |Wed, November 20 09:25PM GMT |Thu, November 21 08:25AM AEDT |
 
 ### Super Formula SF23
 
@@ -69,8 +69,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|---------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[LIGA FRS \- GT4 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} |FRS GT4 \- 24T4 |South America |43 |2050 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------|---------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|[LIGA FRS \- GT4 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} |FRS GT4 \- 24T4 |South America |43 |2050 | |WeatherTech Raceway at Laguna Seca |Wed, November 20 04:00PM EST |Wed, November 20 09:00PM GMT |Thu, November 21 08:00AM AEDT |
 
 ### Mazda MX-5 Cup 2016
 
@@ -99,7 +99,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[IRB \- Touring Car Racing 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Temporada 2024 |South America |36 |3645 | |Daytona International Speedway |Wed, November 13 04:00PM EST |Wed, November 13 09:00PM GMT |Thu, November 14 08:00AM AEDT |
-|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |TCR Cup 2024/4 |South America |26 |2443 | | | | | |
+|[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |TCR Cup 2024/4 |South America |26 |2443 | |Red Bull Ring |Wed, November 20 06:25PM EST |Wed, November 20 11:25PM GMT |Thu, November 21 10:25AM AEDT |
 
 ### Toyota GR86
 
@@ -107,8 +107,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
+|[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 24T4 |South America |48 |2203 | | | | | |
 |[TK Toyota Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge \- 24S3 |South America |48 |2642 | |WeatherTech Raceway at Laguna Seca |Tue, November 19 04:40PM EST |Tue, November 19 09:40PM GMT |Wed, November 20 08:40AM AEDT |
-|[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 24T4 |South America |46 |2174 | |Road America |Tue, November 12 04:00PM EST |Tue, November 12 09:00PM GMT |Wed, November 13 08:00AM AEDT |
 |[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/4 |South America |40 |2156 | |Willow Springs International Raceway |Mon, November 18 04:25PM EST |Mon, November 18 09:25PM GMT |Tue, November 19 08:25AM AEDT |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GR Cup 2024 T4 |South America |22 |1902 |Fixed | | | | |
 
