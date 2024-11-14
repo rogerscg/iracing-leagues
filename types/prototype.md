@@ -26,7 +26,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |59 |3260 | |Suzuka International Racing Course |Wed, November 13 01:00PM EST |Wed, November 13 06:00PM GMT |Thu, November 14 05:00AM AEDT |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |61 |3238 | |Suzuka International Racing Course |Thu, November 14 01:00PM EST |Thu, November 14 06:00PM GMT |Fri, November 15 05:00AM AEDT |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Old School Prototype Challenge S1 |Europe |18 |1589 | |Kansas Speedway |Fri, November 15 05:00PM EST |Fri, November 15 10:00PM GMT |Sat, November 16 09:00AM AEDT |
 
 ### Ligier JS P320
@@ -44,7 +44,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |51 |2222 |Fixed |Circuit Gilles Villeneuve |Wed, November 13 07:00PM EST |Thu, November 14 12:00AM GMT |Thu, November 14 11:00AM AEDT |
+|[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |53 |2296 |Fixed | | | | |
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |North America |36 |1824 |Fixed |Virginia International Raceway |Mon, November 18 09:00PM EST |Tue, November 19 02:00AM GMT |Tue, November 19 01:00PM AEDT |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |26 |2964 |Open |Virginia International Raceway |Thu, November 14 02:15PM EST |Thu, November 14 07:15PM GMT |Fri, November 15 06:15AM AEDT |
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |24 |3636 | | | | | |
@@ -64,14 +64,14 @@
 |[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |North America |17 |1608 |Fixed |Lime Rock Park |Wed, November 20 12:04AM EST |Wed, November 20 05:04AM GMT |Wed, November 20 04:04PM AEDT |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 1 |North America |15 |1133 |Fixed | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2024 Q4 \- Tuesday night \- Radical SR8 |North America |15 |1016 |Open |Suzuka International Racing Course |Tue, November 19 10:00PM EST |Wed, November 20 03:00AM GMT |Wed, November 20 02:00PM AEDT |
-|[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |Radical Season |North America |10 |1701 | | | | | |
+|[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |Radical Season |North America |11 |1693 | | | | | |
 
 ### Spec Racer Ford
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|---------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |82 |2944 |Open |Tsukuba Circuit |Sun, November 17 01:40PM EST |Sun, November 17 06:40PM GMT |Mon, November 18 05:40AM AEDT |
-|[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 9 |North America |56 |2002 |Fixed |Rudskogen Motorsenter |Wed, November 13 08:30PM EST |Thu, November 14 01:30AM GMT |Thu, November 14 12:30PM AEDT |
+|[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 9 |North America |56 |2014 |Fixed | | | | |
 
