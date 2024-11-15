@@ -21,14 +21,6 @@
 |--------------------------------------------------------------------------------------------------------------|-------------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
 |[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |RGR 87 Winter Heat Series |Fixed |Michigan International Speedway |Tue, November 19 07:30PM EST |Wed, November 20 12:30AM GMT |Wed, November 20 11:30AM AEDT |
 
-### XFINITY Series
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------|----------------------------|----------------------------|-----------------------------|
-|[MAD Spartan Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6573){:target="_blank"} |Xfinity winter 24 | |Auto Club Speedway |Thu, November 14 07:30PM EST |Fri, November 15 12:30AM GMT |Fri, November 15 11:30AM AEDT |
-
 # Sports Car
 
 ### GT4 Class
@@ -38,16 +30,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------|-----------------------|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[RECART\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10758){:target="_blank"} |RECART SRS 2024/25 Cup1 | |Autodromo Internazionale Enzo e Dino Ferrari |Sun, November 17 01:30PM EST |Sun, November 17 06:30PM GMT |Mon, November 18 05:30AM AEDT |
-
-# Prototype
-
-### Radical SR10
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[Global Racing Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11634){:target="_blank"} |Radical Sprint Cup | |Circuito de Navarra |Thu, November 14 03:00PM EST |Thu, November 14 08:00PM GMT |Fri, November 15 07:00AM AEDT |
 
 # Multi-class/Unclassified
 
