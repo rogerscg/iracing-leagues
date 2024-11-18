@@ -35,9 +35,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |Dentistry Conference World Tour |North America |48 |2534 | | | | | |
-|[Sampsoid LMP3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship \- Season 4 |Europe |45 |2280 |Fixed |Suzuka International Racing Course |Sun, November 17 02:00PM EST |Sun, November 17 07:00PM GMT |Mon, November 18 06:00AM AEDT |
+|[Sampsoid LMP3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship \- Season 4 |Europe |45 |2267 |Fixed |Sebring International Raceway |Sun, November 24 02:00PM EST |Sun, November 24 07:00PM GMT |Mon, November 25 06:00AM AEDT |
 
 ### Radical SR10
 
@@ -50,7 +50,7 @@
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |26 |2939 |Open |Road America |Thu, November 21 02:15PM EST |Thu, November 21 07:15PM GMT |Fri, November 22 06:15AM AEDT |
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |24 |3636 | | | | | |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |19 |2486 | | | | | |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |14 |1386 |Fixed |Cadwell Park Circuit |Sat, November 16 07:30PM EST |Sun, November 17 12:30AM GMT |Sun, November 17 11:30AM AEDT |
+|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |14 |1365 |Fixed |Winton Motor Raceway |Sat, November 23 07:30PM EST |Sun, November 24 12:30AM GMT |Sun, November 24 11:30AM AEDT |
 
 ### Radical SR8
 
@@ -63,7 +63,7 @@
 |[Sim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |29 |1842 |Open | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2982 | | | | | |
 |[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |North America |17 |1608 |Fixed |Lime Rock Park |Wed, November 20 12:04AM EST |Wed, November 20 05:04AM GMT |Wed, November 20 04:04PM AEDT |
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 1 |North America |15 |1133 |Fixed |Sebring International Raceway |Sun, November 17 08:00PM EST |Mon, November 18 01:00AM GMT |Mon, November 18 12:00PM AEDT |
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 1 |North America |15 |1139 |Fixed | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2024 Q4 \- Tuesday night \- Radical SR8 |North America |15 |1016 |Open |Suzuka International Racing Course |Tue, November 19 10:00PM EST |Wed, November 20 03:00AM GMT |Wed, November 20 02:00PM AEDT |
 |[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |Radical Season |North America |11 |1693 | | | | | |
 
@@ -72,7 +72,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |82 |2944 |Open |Tsukuba Circuit |Sun, November 17 01:40PM EST |Sun, November 17 06:40PM GMT |Mon, November 18 05:40AM AEDT |
-|[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 9 |North America |56 |2014 |Fixed | | | | |
+|-----------------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |84 |2951 |Open |Autodromo Nazionale Monza |Sun, November 24 01:40PM EST |Sun, November 24 06:40PM GMT |Mon, November 25 05:40AM AEDT |
+|[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 9 |North America |56 |2014 |Fixed |Circuit des 24 Heures du Mans |Wed, November 20 08:30PM EST |Thu, November 21 01:30AM GMT |Thu, November 21 12:30PM AEDT |
 
