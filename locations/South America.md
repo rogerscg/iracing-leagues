@@ -3,7 +3,7 @@
 
 # NASCAR
 
-### NASCAR 2022 NextGen
+### Draft Master
 
 [Back to Top](#)  
 
@@ -16,8 +16,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[VC Truck Series \- Rookie to Legend](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T4 |South America |46 |2431 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------|----------|-------------|-------|----|-----|------------------|----------------------------|----------------------------|-----------------------------|
+|[VC Truck Series \- Rookie to Legend](https://members.iracing.com/membersite/member/LeagueView.do?league=5077){:target="_blank"} |2024 \- T4 |South America |46 |2431 | |Auto Club Speedway |Tue, November 26 05:30PM EST |Tue, November 26 10:30PM GMT |Wed, November 27 09:30AM AEDT |
 
 # Open-wheel
 
@@ -34,8 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar IR18 2024 T4 |South America |21 |1924 |Fixed |[Legacy] Texas Motor Speedway - 2009 |Mon, November 18 05:00PM EST |Mon, November 18 10:00PM GMT |Tue, November 19 09:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar IR18 2024 T4 |South America |25 |1890 |Fixed |Kansas Speedway |Mon, November 25 05:00PM EST |Mon, November 25 10:00PM GMT |Tue, November 26 09:00AM AEDT |
 
 ### Ray FF1600
 
@@ -82,7 +82,7 @@
 |[LIGA FRS \- MX5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11577){:target="_blank"} |FRS MX5 Cup \- 24T4 |South America |33 |2242 | | | | | |
 |[F1BC MX5 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=8629){:target="_blank"} |MX5 Master 2024/4 |South America |29 |3022 | |WeatherTech Raceway at Laguna Seca |Mon, November 25 06:25PM EST |Mon, November 25 11:25PM GMT |Tue, November 26 10:25AM AEDT |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |MX\-5 Cup 2024 T4 |South America |28 |1638 |Fixed | | | | |
-|[Virtual Racing Brasil \- MX\-5 Mazda](https://members.iracing.com/membersite/member/LeagueView.do?league=11284){:target="_blank"} |Squirrel Horizon \- MX\-5 Mazda Cup \- Season 4 |South America |16 |3304 |Fixed |Oulton Park Circuit |Mon, November 18 04:40PM EST |Mon, November 18 09:40PM GMT |Tue, November 19 08:40AM AEDT |
+|[Virtual Racing Brasil \- MX\-5 Mazda](https://members.iracing.com/membersite/member/LeagueView.do?league=11284){:target="_blank"} |Squirrel Horizon \- MX\-5 Mazda Cup \- Season 4 |South America |17 |3093 |Fixed | | | | |
 
 ### McLaren 720S GT3 EVO
 
@@ -106,10 +106,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 24T4 |South America |48 |2203 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 24T4 |South America |48 |2203 | |Circuit de Spa-Francorchamps |Tue, November 26 04:00PM EST |Tue, November 26 09:00PM GMT |Wed, November 27 08:00AM AEDT |
 |[TK Toyota Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge \- 24S3 |South America |48 |2642 | |WeatherTech Raceway at Laguna Seca |Tue, November 19 04:40PM EST |Tue, November 19 09:40PM GMT |Wed, November 20 08:40AM AEDT |
-|[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/4 |South America |40 |2156 | |Willow Springs International Raceway |Mon, November 18 04:25PM EST |Mon, November 18 09:25PM GMT |Tue, November 19 08:25AM AEDT |
+|[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/4 |South America |40 |2184 | | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GR Cup 2024 T4 |South America |22 |1902 |Fixed |WeatherTech Raceway at Laguna Seca |Thu, November 21 05:30PM EST |Thu, November 21 10:30PM GMT |Fri, November 22 09:30AM AEDT |
 
 # Multi-class/Unclassified

@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D LMP2 Challenge \- Spreyton Ciders |Australia-NZ |51 |2538 |Both |Circuit Gilles Villeneuve |Mon, November 18 03:10AM EST |Mon, November 18 08:10AM GMT |Mon, November 18 07:10PM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D LMP2 Challenge \- Spreyton Ciders |Australia-NZ |53 |2572 |Both |Suzuka International Racing Course |Mon, November 25 03:10AM EST |Mon, November 25 08:10AM GMT |Mon, November 25 07:10PM AEDT |
 |[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |09 \| Novembre 2024 |Europe |10 |1557 | |Red Bull Ring |Tue, November 19 03:15PM EST |Tue, November 19 08:15PM GMT |Wed, November 20 07:15AM AEDT |
 
 ### GTP
@@ -17,9 +17,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[eGP Hypercar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} |eGP Hypercar Championship \- Season 1 |Europe |30 |3081 | | | | | |
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2024 Season 4 \- Session 2 |North America |15 |1677 | |Road America |Mon, November 18 09:06PM EST |Tue, November 19 02:06AM GMT |Tue, November 19 01:06PM AEDT |
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2024 Season 4 \- Session 2 |North America |15 |1669 | |Daytona International Speedway |Mon, November 25 09:06PM EST |Tue, November 26 02:06AM GMT |Tue, November 26 01:06PM AEDT |
 
 ### Hosted All Cars Class
 
@@ -44,9 +44,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |53 |2296 |Fixed | | | | |
-|[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |North America |36 |1824 |Fixed |Virginia International Raceway |Mon, November 18 09:00PM EST |Tue, November 19 02:00AM GMT |Tue, November 19 01:00PM AEDT |
+|[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |North America |36 |1824 |Fixed |Road America |Mon, November 25 09:00PM EST |Tue, November 26 02:00AM GMT |Tue, November 26 01:00PM AEDT |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |26 |2939 |Open |Road America |Thu, November 21 02:15PM EST |Thu, November 21 07:15PM GMT |Fri, November 22 06:15AM AEDT |
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |24 |3636 | | | | | |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |19 |2486 | | | | | |
