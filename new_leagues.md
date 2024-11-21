@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Artura Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=11762){:target="_blank"} | |League is for being able to drive the tracks in the Artura Trophy Series, both US and Europe |
-|[NXT ERA Gen 6 Cup Series Presented by TPE](https://members.iracing.com/membersite/member/LeagueView.do?league=11764){:target="_blank"} |[Discord](https://discord.gg/t5YvcmfDQT){:target="_blank"} |NXT ERA Racing league is a Gen 6 cup car league that races on monday nights\. Practice starts at 8 pm EST and race starts at 9 pm EST\.   We also have Xfinity on Wednesday and Trucks on Thursday, join discord with league link above to find Xfinity and Truck Series\. |
-|[Rip The Lip Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11763){:target="_blank"} | | |
-|[STR Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=11761){:target="_blank"} | |High adrenaline oval racing |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} | |Oval Paved and Dirt Road, weekend league\. Rookies through A class |
-|[Motorsport UK // Loughborough College](https://members.iracing.com/membersite/member/LeagueView.do?league=11760){:target="_blank"} | |Students |
 |[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} | |Côte\-nord : Saison complète en Terre Battue |
 |[Flying Aces 500](https://members.iracing.com/membersite/member/LeagueView.do?league=11767){:target="_blank"} | |Home of the Flying Aces 500 support races, Duels and the Aces 500 on New Years Eve\!\! |
 |[Lost Wrench Racing League \(LWRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} | | |
@@ -30,7 +24,7 @@
 |[Chillin Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11782){:target="_blank"} | | |
 |[iRacing Midget Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11786){:target="_blank"} |[Discord](https://discord.gg/JyMe2hwh9u){:target="_blank"} |The iRacing Midget Association National Tour is one of the most competitive and largest Dirt Midget Series on the sim\! Heat races will consist of 16 drivers where the LCQ's and A main will consist of 20\! |
 |[NascarmanYT's Saturday Madness Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11785){:target="_blank"} |[Discord](https://discord.gg/pvBPhzHr){:target="_blank"} |NSMRL is a NASCAR racing league where we run some of the best tracks and cars and get wild races\. EVERYBODY can join\!\!\! |
-|[SRCA Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11783){:target="_blank"} | |The Sim Racers Club of America returns with a new series featuring the Mini Stock cars\. |
+|[SRCA N/A Placement Holder](https://members.iracing.com/membersite/member/LeagueView.do?league=11783){:target="_blank"} | |The Sim Racers Club of America returns with a new series featuring the Mini Stock cars\. |
 |[TRS league](https://members.iracing.com/membersite/member/LeagueView.do?league=11788){:target="_blank"} | | |
 |[USORL Dash Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11787){:target="_blank"} | |USORL TWB Winter Heat Dash Series |
 |[High 5 High Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11792){:target="_blank"} | |Local racing league for High 5 Entertainment in Lakeway\. Race against your friends and neighbors\! |
@@ -64,4 +58,8 @@
 |[RaceSim](https://members.iracing.com/membersite/member/LeagueView.do?league=11817){:target="_blank"} | | |
 |[Sport Car Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=11818){:target="_blank"} | |Multiclass 2h40min races |
 |[Special Stage Off\-Road](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} | |Off\-Road racing |
+|[BMR Touring Car World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11823){:target="_blank"} |[Discord](https://discord.gg/6BYmWbHK){:target="_blank"} | |
+|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} | |Just some good old boys \.\.\. iRating of 3K and below, D class and up\. |
+|[GA Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11822){:target="_blank"} | | |
+|[Sim Racing Brotherhood](https://members.iracing.com/membersite/member/LeagueView.do?league=11821){:target="_blank"} |[Discord](https://discord.gg/uW87UAgGXT){:target="_blank"} |SRB League Racing |
 
