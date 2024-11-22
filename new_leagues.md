@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} | |Côte\-nord : Saison complète en Terre Battue |
-|[Flying Aces 500](https://members.iracing.com/membersite/member/LeagueView.do?league=11767){:target="_blank"} | |Home of the Flying Aces 500 support races, Duels and the Aces 500 on New Years Eve\!\! |
-|[Lost Wrench Racing League \(LWRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} | | |
-|[SoupKitchen GT3 Express](https://members.iracing.com/membersite/member/LeagueView.do?league=11769){:target="_blank"} | |All welcome to apply, GT3 car races mostly\. Try to stay on the road but if not, aim for the bushes\. |
-|[Ferrari HP Esports Series 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11765){:target="_blank"} | |The official Ferrari HP Esports Series 2024 |
 |[Dirt Mafia Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11770){:target="_blank"} | |Winter Series |
 |[VSC iRacing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} | |VSC iRacing Hub\- oceanic league racing for everyone who wants to be involved discord\-VSC iRacing Hub |
 |[ARCS FAST CASH](https://members.iracing.com/membersite/member/LeagueView.do?league=11776){:target="_blank"} | |ARCS racing for prizes |
@@ -59,7 +54,11 @@
 |[Sport Car Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=11818){:target="_blank"} | |Multiclass 2h40min races |
 |[Special Stage Off\-Road](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} | |Off\-Road racing |
 |[BMR Touring Car World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11823){:target="_blank"} |[Discord](https://discord.gg/6BYmWbHK){:target="_blank"} | |
-|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} | |Just some good old boys \.\.\. iRating of 3K and below, D class and up\. |
+|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |[Discord](https://discord.gg/SVfhYyEV){:target="_blank"} |Just some good old boys \.\.\. iRating of 3K and below, D class and up\.  Current Series:  Late Model |
 |[GA Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11822){:target="_blank"} | | |
 |[Sim Racing Brotherhood](https://members.iracing.com/membersite/member/LeagueView.do?league=11821){:target="_blank"} |[Discord](https://discord.gg/uW87UAgGXT){:target="_blank"} |SRB League Racing |
+|[GT Champions Open Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=11826){:target="_blank"} | |LIVE BROADCASTS\! GTChampions provides tournaments for sim racing drivers, from teams across the globe, of all skill levels\. Our mission is to provide events that challenge even the best of drivers, and allow teams to show off their talent on the track\. REGISTRATION IS ALWAYS REQUIRED\. Go to our website at www\.GTChampions\.com to register\. Visit our Discord at http://DiscordIR\.gtchampions\.com |
+|[LIGA FRS \- ENDURANCE](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} | | |
+|[New England 358 Modified](https://members.iracing.com/membersite/member/LeagueView.do?league=11828){:target="_blank"} | |clean fun monday nights |
+|[RCS Louisiana](https://members.iracing.com/membersite/member/LeagueView.do?league=11827){:target="_blank"} | |Training |
 
