@@ -325,6 +325,7 @@
 |[CBA](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2024\-2 \- Campeonato Brasileiro F4 |North America |56 |None | |Circuit Zolder |Tue, November 26 04:25PM EST |Tue, November 26 09:25PM GMT |Wed, November 27 08:25AM AEDT |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2024 FIA F4 season |Europe |55 |2500 |Both |Circuit Zolder |Mon, November 25 02:00PM EST |Mon, November 25 07:00PM GMT |Tue, November 26 06:00AM AEDT |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR Season 11 \- F4 |North America |55 |1855 |Open |Circuit Zolder |Mon, November 25 09:00PM EST |Tue, November 26 02:00AM GMT |Tue, November 26 01:00PM AEDT |
+|[CBA](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2024\-2 \- Campeonato Brasileiro F4 |North America |52 |None | |Okayama International Circuit |Fri, November 22 04:00AM EST |Fri, November 22 09:00AM GMT |Fri, November 22 08:00PM AEDT |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S3 F4 Cup Challenge |North America |45 |1806 |Both |Circuit Zolder |Mon, November 25 07:30PM EST |Tue, November 26 12:30AM GMT |Tue, November 26 11:30AM AEDT |
 |[Autodromo Virtual \- FIA](https://members.iracing.com/membersite/member/LeagueView.do?league=11812){:target="_blank"} |2024 \- CAMPEONATO PRESENTACION \- FIA F4 \- ACA |North America |40 |2790 | |Okayama International Circuit |Wed, November 27 07:50PM EST |Thu, November 28 12:50AM GMT |Thu, November 28 11:50AM AEDT |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 32 F4 |North America |37 |1761 |Fixed |Nürburgring Grand-Prix-Strecke |Mon, November 25 02:00PM EST |Mon, November 25 07:00PM GMT |Tue, November 26 06:00AM AEDT |
@@ -666,7 +667,7 @@
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB Big Blocks Season 6 |North America |39 |3107 |Open |Port Royal Speedway |Wed, November 27 09:00PM EST |Thu, November 28 02:00AM GMT |Thu, November 28 01:00PM AEDT |
 |[DSRL Monday Night Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4374){:target="_blank"} |Big Block Modified Season 25 |North America |33 |3007 | |Williams Grove Speedway |Mon, November 25 07:55PM EST |Tue, November 26 12:55AM GMT |Tue, November 26 11:55AM AEDT |
 
-### Dirt Late Model - Limited
+### Dirt Big Block Modified
 
 [Back to Top](#)  
 
@@ -674,7 +675,7 @@
 |---------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |Limited Late Models |North America |32 |1577 |Fixed |Oswego Speedway |Tue, November 26 09:00PM EST |Wed, November 27 02:00AM GMT |Wed, November 27 01:00PM AEDT |
 
-### Dirt Late Model - Pro
+### Dirt Late Model - Limited
 
 [Back to Top](#)  
 
@@ -683,7 +684,7 @@
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |dirt pro late model |North America |14 |1512 |Open |Volusia Speedway Park |Wed, November 27 10:00PM EST |Thu, November 28 03:00AM GMT |Thu, November 28 02:00PM AEDT |
 |[Blue Collar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9155){:target="_blank"} |Fall PLM season |North America |12 |2324 |Fixed |Williams Grove Speedway |Mon, November 25 08:20PM EST |Tue, November 26 01:20AM GMT |Tue, November 26 12:20PM AEDT |
 
-### Dirt Late Model - Super
+### Dirt Late Model - Pro
 
 [Back to Top](#)  
 
@@ -766,6 +767,7 @@
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |North America |45 |2475 |Open |Knoxville Raceway |Wed, November 27 07:30PM EST |Thu, November 28 12:30AM GMT |Thu, November 28 11:30AM AEDT |
 |[Friday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=7798){:target="_blank"} |360 Sprint Car |North America |41 |3215 |Fixed |Oswego Speedway |Fri, November 29 08:30PM EST |Sat, November 30 01:30AM GMT |Sat, November 30 12:30PM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |North America |38 |2600 |Open |Knoxville Raceway |Sun, November 24 07:15PM EST |Mon, November 25 12:15AM GMT |Mon, November 25 11:15AM AEDT |
+|[Friday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=7798){:target="_blank"} |360 Sprint Car |North America |37 |3212 |Fixed |Limaland Motorsports Park |Fri, November 22 08:30PM EST |Sat, November 23 01:30AM GMT |Sat, November 23 12:30PM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |North America |26 |1899 |Open |Knoxville Raceway |Mon, November 25 01:30PM EST |Mon, November 25 06:30PM GMT |Tue, November 26 05:30AM AEDT |
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |micro sprints season 3 |North America |21 |1318 |Fixed |Lucas Oil Speedway |Mon, November 25 07:30PM EST |Tue, November 26 12:30AM GMT |Tue, November 26 11:30AM AEDT |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |Monday BBM/SLM |North America |18 |2179 |Fixed |Federated Auto Parts Raceway at I-55 |Mon, November 25 08:45PM EST |Tue, November 26 01:45AM GMT |Tue, November 26 12:45PM AEDT |
