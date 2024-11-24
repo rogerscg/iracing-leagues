@@ -53,7 +53,7 @@
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |24 |3636 | | | | | |
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |23 |None |Fixed |Donington Park Racing Circuit |Tue, November 26 07:00PM EST |Wed, November 27 12:00AM GMT |Wed, November 27 11:00AM AEDT |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2024 |North America |19 |2486 | | | | | |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |14 |1365 |Fixed |Winton Motor Raceway |Sat, November 23 07:30PM EST |Sun, November 24 12:30AM GMT |Sun, November 24 11:30AM AEDT |
+|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |15 |1372 |Fixed | | | | |
 
 ### Radical SR8
 

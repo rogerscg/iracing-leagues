@@ -50,8 +50,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[LIGA FRS \- SUPER FORMULA LIGHTS](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS Super Formula Lights \- 24T4 |South America |32 |1873 | | | | | |
+|------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[LIGA FRS \- SUPER FORMULA LIGHTS](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS Super Formula Lights \- 24T4 |South America |32 |1873 | |Nürburgring Grand-Prix-Strecke |Sun, December 01 04:00PM EST |Sun, December 01 09:00PM GMT |Mon, December 02 08:00AM AEDT |
 |[F1BC SuperFormula Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |F1BC SuperFormula Lights 2024/4 |South America |19 |2000 | | | | | |
 
 ### Super Formula SF23
@@ -129,11 +129,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2024/4 |South America |44 |2966 | | | | | |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/4 |South America |38 |1930 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |32 |1426 |Both |Nürburgring Grand-Prix-Strecke |Sun, November 24 06:30PM EST |Sun, November 24 11:30PM GMT |Mon, November 25 10:30AM AEDT |
-|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA GT3 |South America |31 |1777 | |Sebring International Raceway |Sat, November 23 12:50PM EST |Sat, November 23 05:50PM GMT |Sun, November 24 04:50AM AEDT |
+|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA GT3 |South America |31 |1765 | |WeatherTech Raceway at Laguna Seca |Sat, November 30 12:50PM EST |Sat, November 30 05:50PM GMT |Sun, December 01 04:50AM AEDT |
 |[GT Clash Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T4 |South America |27 |2790 | | | | | |
 
 ### Hosted All Cars Class

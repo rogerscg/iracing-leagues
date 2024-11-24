@@ -87,8 +87,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
-|[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 5 UK |Australia-NZ |20 |2672 | |Circuit de Spa-Francorchamps |Sat, November 23 08:00PM EST |Sun, November 24 01:00AM GMT |Sun, November 24 12:00PM AEDT |
-|[Octane Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5704){:target="_blank"} |OOR iRacing \- Formula Ford 1600 \- \(S1 \- ASIA PACIFIC\) |Australia-NZ |20 |1845 |Both |Circuito de Navarra |Sun, November 24 02:00AM EST |Sun, November 24 07:00AM GMT |Sun, November 24 06:00PM AEDT |
+|[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 5 UK |Australia-NZ |20 |2672 | |Circuit de Spa-Francorchamps |Mon, November 25 02:53AM EST |Mon, November 25 07:53AM GMT |Mon, November 25 06:53PM AEDT |
+|[Octane Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5704){:target="_blank"} |OOR iRacing \- Formula Ford 1600 \- \(S1 \- ASIA PACIFIC\) |Australia-NZ |20 |1845 |Both |Circuito de Navarra |Sun, December 01 02:00AM EST |Sun, December 01 07:00AM GMT |Sun, December 01 06:00PM AEDT |
 
 ### Super Formula Lights
 
@@ -116,7 +116,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[V8 Veterans Season 21](https://members.iracing.com/membersite/member/LeagueView.do?league=6455){:target="_blank"} |Season 21 |Australia-NZ |192 |1801 |Fixed | | | | |
 |[Rumble Garage \- Sportscar PRO AM](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |Sportscar PRO AM \-Season 1 |Australia-NZ |68 |1833 | | | | | |
-|[V8SCOPS 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |V8SCOPS 2024 |Australia-NZ |67 |3759 |Open |Mount Panorama Circuit |Sat, November 23 05:00PM EST |Sat, November 23 10:00PM GMT |Sun, November 24 09:00AM AEDT |
+|[V8SCOPS 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |V8SCOPS 2024 |Australia-NZ |67 |3735 |Open | | | | |
 |[SRW \- Shannons Toyota GR86 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 4, 2024 |Australia-NZ |53 |1827 |Open |Fuji International Speedway |Thu, November 28 02:00AM EST |Thu, November 28 07:00AM GMT |Thu, November 28 06:00PM AEDT |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) S4 |Australia-NZ |51 |1696 |Open |Canadian Tire Motorsports Park |Tue, November 26 02:00AM EST |Tue, November 26 07:00AM GMT |Tue, November 26 06:00PM AEDT |
 |[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |ASR Season 2 |Australia-NZ |45 |1588 | | | | | |
@@ -232,7 +232,7 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
 |[Virtual Racing Aotearoa \- 2024 Sprintcar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |2024 Sprintcar Series |Australia-NZ |44 |3532 | | | | | |
 |[Australian Super Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |360 Sprintcar Monday Nights Showdown 2024 |Australia-NZ |35 |3018 | |The Dirt Track at Charlotte |Mon, November 25 05:00AM EST |Mon, November 25 10:00AM GMT |Mon, November 25 09:00PM AEDT |
-|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI Sprintcar Allstar Series |Australia-NZ |27 |3022 | | | | | |
+|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI Sprintcar Allstar Series |Australia-NZ |27 |3022 | |Lernerville Speedway |Sun, November 24 02:30AM EST |Sun, November 24 07:30AM GMT |Sun, November 24 06:30PM AEDT |
 
 ### Dirt UMP Modified
 
