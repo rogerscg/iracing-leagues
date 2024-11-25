@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[fatboyracingleague](https://members.iracing.com/membersite/member/LeagueView.do?league=11778){:target="_blank"} | |stockcar boys |
-|[Pineapple Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11781){:target="_blank"} |[Discord](https://discord.gg/scXRqCQUj9){:target="_blank"} |PRC eu\.NASCAR Season 2 is starting on the 8th of December\! This time in the Legends\.  The idea behind the series is to create a fun environment for all drivers where we don't take the racing too seriously\. There is still a championship to fight for, but we want it to be more like grassroots motorsport and focus on the community as well as the racing\. |
-|[Project SBR](https://members.iracing.com/membersite/member/LeagueView.do?league=11780){:target="_blank"} | | |
-|[DMH AI](https://members.iracing.com/membersite/member/LeagueView.do?league=11779){:target="_blank"} | | |
-|[Hadeca Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11777){:target="_blank"} |[Discord](https://discord.gg/gzJjxNkuKn){:target="_blank"} | |
 |[At The Checkered Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} | | |
 |[BonaNox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11784){:target="_blank"} | |A fun place to race and make friends |
 |[Chillin Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11782){:target="_blank"} | | |
@@ -62,4 +57,6 @@
 |[Mealer Built Setups](https://members.iracing.com/membersite/member/LeagueView.do?league=11830){:target="_blank"} | | |
 |[Pace Setters Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11835){:target="_blank"} | |Pace Setters racing is a league for everyone\. Check us out\! |
 |[Preset Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11836){:target="_blank"} | |We will run Dirt, Arca, Trucks, Xfinity, And Cup |
+|[F1\-Onlineliga](https://members.iracing.com/membersite/member/LeagueView.do?league=11837){:target="_blank"} | | |
+|[iCW Gaming Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11838){:target="_blank"} | |This league is specifically to be used ONLY for special events put on by the iCW Gaming Community\. |
 
