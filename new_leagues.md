@@ -2,14 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[At The Checkered Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} | | |
-|[BonaNox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11784){:target="_blank"} | |A fun place to race and make friends |
-|[Chillin Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11782){:target="_blank"} | | |
-|[iRacing Midget Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11786){:target="_blank"} |[Discord](https://discord.gg/JyMe2hwh9u){:target="_blank"} |The iRacing Midget Association National Tour is one of the most competitive and largest Dirt Midget Series on the sim\! Heat races will consist of 16 drivers where the LCQ's and A main will consist of 20\! |
-|[NascarmanYT's Saturday Madness Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11785){:target="_blank"} |[Discord](https://discord.gg/pvBPhzHr){:target="_blank"} |NSMRL is a NASCAR racing league where we run some of the best tracks and cars and get wild races\. EVERYBODY can join\!\!\! |
-|[SRCA N/A Placement Holder](https://members.iracing.com/membersite/member/LeagueView.do?league=11783){:target="_blank"} | |The Sim Racers Club of America returns with a new series featuring the Mini Stock cars\. |
-|[TRS league](https://members.iracing.com/membersite/member/LeagueView.do?league=11788){:target="_blank"} | | |
-|[USORL Dash Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11787){:target="_blank"} | |USORL TWB Winter Heat Dash Series |
 |[High 5 High Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11792){:target="_blank"} | |Local racing league for High 5 Entertainment in Lakeway\. Race against your friends and neighbors\! |
 |[SNYRSCCA IRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11790){:target="_blank"} | |A fun league for members of the SNYRSCCA, other local regions, friends, and family members to get together and race in the Autocross off season\. |
 |[USCA \- Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11791){:target="_blank"} | | |
@@ -59,4 +51,8 @@
 |[Preset Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11836){:target="_blank"} | |We will run Dirt, Arca, Trucks, Xfinity, And Cup |
 |[F1\-Onlineliga](https://members.iracing.com/membersite/member/LeagueView.do?league=11837){:target="_blank"} | | |
 |[iCW Gaming Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11838){:target="_blank"} | |This league is specifically to be used ONLY for special events put on by the iCW Gaming Community\. |
+|[Goatfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=11839){:target="_blank"} | |Want to race with some of the best Goatco drivers while making a name for yourself? Well this is the series for that\! |
+|[gRiders](https://members.iracing.com/membersite/member/LeagueView.do?league=11841){:target="_blank"} | |friendly adults |
+|[Superstar Racing League \- Gen 4](https://members.iracing.com/membersite/member/LeagueView.do?league=11840){:target="_blank"} | |We run thursday nights\. the premier series of the Superstar Racing League, if you are intersted in running on Thursdays with us\. You must be 2500 or higher IRating to run, if not default to our ARCA league \(110475\)\. |
+|[ASTA \- Australian Supercars Tour of America](https://members.iracing.com/membersite/member/LeagueView.do?league=11842){:target="_blank"} | | |
 
