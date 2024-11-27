@@ -69,7 +69,6 @@
 |[Stock Car Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10214){:target="_blank"} |1st Annual Moonlight Derby | |Five Flags Speedway |Sat, November 30 12:00PM EST |Sat, November 30 05:00PM GMT |Sun, December 01 04:00AM AEDT |
 |[Virginia iRacing League/iFormula Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |Season 4 Late Model Stock |Fixed |Five Flags Speedway |Tue, December 03 07:00PM EST |Wed, December 04 12:00AM GMT |Wed, December 04 11:00AM AEDT |
 |[Trinity Competitive Racing iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11366){:target="_blank"} |Season 1 | |Thompson Speedway Motorsports Park |Mon, December 02 08:45PM EST |Tue, December 03 01:45AM GMT |Tue, December 03 12:45PM AEDT |
-|[\(NSR\) Nortex Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=499){:target="_blank"} |Late Models Stock |Fixed |North Wilkesboro Speedway |Tue, November 26 09:00PM EST |Wed, November 27 02:00AM GMT |Wed, November 27 01:00PM AEDT |
 
 ### Legends
 
@@ -85,7 +84,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[C12 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6758){:target="_blank"} |Street Stock Challenge Season 2 \[DIRT OVAL\] | |Bristol Motor Speedway |Tue, November 26 08:00PM EST |Wed, November 27 01:00AM GMT |Wed, November 27 12:00PM AEDT |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Street Stock Cup \(2024\) |Both |USA International Speedway |Mon, December 02 03:30AM EST |Mon, December 02 08:30AM GMT |Mon, December 02 07:30PM AEDT |
 |[iRacing Northern Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4918){:target="_blank"} |INSS \- SS \- 2024\-25 |Open |Stafford Motor Speedway |Sun, December 01 07:45PM EST |Mon, December 02 12:45AM GMT |Mon, December 02 11:45AM AEDT |
 
@@ -133,15 +131,15 @@
 |-------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT Formula Championship 2025\.1  |Both |Summit Point Raceway |Sat, November 30 07:00PM EST |Sun, December 01 12:00AM GMT |Sun, December 01 11:00AM AEDT |
 
-# Sports Car
+# Dirt Oval
 
-### Porsche 911 GT3 Cup (992)
+### Dirt SprintCar - 360
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-------------------------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |Prekvalifisering Sportsbil 2025 | |Algarve International Circuit |Tue, November 26 01:30PM EST |Tue, November 26 06:30PM GMT |Wed, November 27 05:30AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------|--------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[JV Racing Simulations](https://members.iracing.com/membersite/member/LeagueView.do?league=10196){:target="_blank"} |Season 2 | |Cedar Lake Speedway |Wed, December 04 07:00PM EST |Thu, December 05 12:00AM GMT |Thu, December 05 11:00AM AEDT |
 
 # Multi-class/Unclassified
 
@@ -163,7 +161,6 @@
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |Draftember 2024 |Fixed |Daytona International Speedway |Mon, December 02 08:29PM EST |Tue, December 03 01:29AM GMT |Tue, December 03 12:29PM AEDT |
 |[FUN RUN WORLD CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=6917){:target="_blank"} |SEASON 1 | |USA International Speedway |Tue, December 03 11:32PM EST |Wed, December 04 04:32AM GMT |Wed, December 04 03:32PM AEDT |
 |[NxtLvl Racing\.](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} |NXTLVL GT3 League | |Daytona International Speedway |Sun, December 01 06:00PM EST |Sun, December 01 11:00PM GMT |Mon, December 02 10:00AM AEDT |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT F4 & GR86 2025\.1 |Both |Virginia International Raceway |Tue, November 26 07:05PM EST |Wed, November 27 12:05AM GMT |Wed, November 27 11:05AM AEDT |
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |Season 2  iRPAS  International Racers Pro Am Series | |Watkins Glen International |Sat, November 30 04:00PM EST |Sat, November 30 09:00PM GMT |Sun, December 01 08:00AM AEDT |
 |[SRS](https://members.iracing.com/membersite/member/LeagueView.do?league=7790){:target="_blank"} |Swinton Racing Series | |Talladega Superspeedway |Sun, December 01 08:00AM EST |Sun, December 01 01:00PM GMT |Mon, December 02 12:00AM AEDT |
 

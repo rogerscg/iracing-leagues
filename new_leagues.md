@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[High 5 High Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11792){:target="_blank"} | |Local racing league for High 5 Entertainment in Lakeway\. Race against your friends and neighbors\! |
-|[SNYRSCCA IRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11790){:target="_blank"} | |A fun league for members of the SNYRSCCA, other local regions, friends, and family members to get together and race in the Autocross off season\. |
-|[USCA \- Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11791){:target="_blank"} | | |
 |[Eight Ate Six](https://members.iracing.com/membersite/member/LeagueView.do?league=11795){:target="_blank"} | | |
 |[House of RX Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11793){:target="_blank"} |[Discord](https://discord.gg/XAcKQ5EaV7){:target="_blank"} |iRX Championship based on an EU friendly schedule\. Lites and Supercars\. Thursday/Friday/Saturday\. |
 |[Bunch Of Peckaheads](https://members.iracing.com/membersite/member/LeagueView.do?league=11794){:target="_blank"} | |It's in the name |
@@ -55,4 +52,7 @@
 |[gRiders](https://members.iracing.com/membersite/member/LeagueView.do?league=11841){:target="_blank"} | |friendly adults |
 |[Superstar Racing League \- Gen 4](https://members.iracing.com/membersite/member/LeagueView.do?league=11840){:target="_blank"} | |We run thursday nights\. the premier series of the Superstar Racing League, if you are intersted in running on Thursdays with us\. You must be 2500 or higher IRating to run, if not default to our ARCA league \(110475\)\. |
 |[ASTA \- Australian Supercars Tour of America](https://members.iracing.com/membersite/member/LeagueView.do?league=11842){:target="_blank"} | | |
+|[Aussie Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=11844){:target="_blank"} | |A Fun League For Racers In Australia |
+|[iRacers for a Cause](https://members.iracing.com/membersite/member/LeagueView.do?league=11843){:target="_blank"} |[Discord](https://discord.gg/kKQNSAhEeX){:target="_blank"} | |
+|[Slide Job City \(Rubbins Racin\) League Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=11845){:target="_blank"} |[Discord](https://discord.gg/2BfWZbQk){:target="_blank"} |pro 2 dirt track league all starts on green leader must run top or 2 lanes from have fun rubbin is racing we do allow bumping and moving people that are non stop issue and dumping people will be kicked |
 
