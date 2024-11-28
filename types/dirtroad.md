@@ -35,10 +35,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2024 Regional Series |North America |68 |3150 |Open | | | | |
 |[league](https://members.iracing.com/membersite/member/LeagueView.do?league=5584){:target="_blank"} |Sub Zero Jumpy Trucks |North America |15 |1555 | | | | | |
 |[QuickTime Promotions Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8389){:target="_blank"} |AOTC \#1 |North America |14 |1981 | | | | | |
+|[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} |Season 2 |North America |12 |1370 |Both | | | | |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck Cup S3: Even Clustery |North America |12 |1739 | |Watkins Glen International |Mon, December 02 08:00PM EST |Tue, December 03 01:00AM GMT |Tue, December 03 12:00PM AEDT |
-|[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} |Season 2 |North America |11 |1358 |Both |Bark River International Raceway |Wed, November 27 08:00PM EST |Thu, November 28 01:00AM GMT |Thu, November 28 12:00PM AEDT |
 

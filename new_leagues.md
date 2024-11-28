@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Eight Ate Six](https://members.iracing.com/membersite/member/LeagueView.do?league=11795){:target="_blank"} | | |
-|[House of RX Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11793){:target="_blank"} |[Discord](https://discord.gg/XAcKQ5EaV7){:target="_blank"} |iRX Championship based on an EU friendly schedule\. Lites and Supercars\. Thursday/Friday/Saturday\. |
-|[Bunch Of Peckaheads](https://members.iracing.com/membersite/member/LeagueView.do?league=11794){:target="_blank"} | |It's in the name |
 |[CRS Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11796){:target="_blank"} |[Discord](https://discord.gg/gNEgNUfaJv){:target="_blank"} |We are CRS, we have been running as a community since 2019 and we have now made the Jump to Iracing\. Join us for Real World Style events and Events that you wont see anywhere else\! |
 |[OG League](https://members.iracing.com/membersite/member/LeagueView.do?league=11798){:target="_blank"} | | |
 |[2025 Solmes Cup International](https://members.iracing.com/membersite/member/LeagueView.do?league=11797){:target="_blank"} | | |
@@ -55,4 +52,6 @@
 |[Aussie Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=11844){:target="_blank"} | |A Fun League For Racers In Australia |
 |[iRacers for a Cause](https://members.iracing.com/membersite/member/LeagueView.do?league=11843){:target="_blank"} |[Discord](https://discord.gg/kKQNSAhEeX){:target="_blank"} | |
 |[Slide Job City \(Rubbins Racin\) League Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=11845){:target="_blank"} |[Discord](https://discord.gg/2BfWZbQk){:target="_blank"} |pro 2 dirt track league all starts on green leader must run top or 2 lanes from have fun rubbin is racing we do allow bumping and moving people that are non stop issue and dumping people will be kicked |
+|[Maconi Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11847){:target="_blank"} | | |
+|[Ferrari HP Esports Series 2024 \- Backup](https://members.iracing.com/membersite/member/LeagueView.do?league=11846){:target="_blank"} | |backup league for FES 24 |
 

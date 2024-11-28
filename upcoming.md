@@ -12,6 +12,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[NascarmanYT's Saturday Madness Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11785){:target="_blank"} |Off Season Madness\!\!\! NSMRL SEASON 1 | |Daytona International Speedway |Sat, November 30 04:00PM EST |Sat, November 30 09:00PM GMT |Sun, December 01 08:00AM AEDT |
+|[Western Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11810){:target="_blank"} |Winter Cup | |Talladega Superspeedway |Thu, December 05 10:30PM EST |Fri, December 06 03:30AM GMT |Fri, December 06 02:30PM AEDT |
 |[GFi Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10821){:target="_blank"} |Next Gen Season 4 |Fixed |Daytona International Speedway |Mon, December 02 07:30PM EST |Tue, December 03 12:30AM GMT |Tue, December 03 11:30AM AEDT |
 
 ### NASCAR Legends 1987
@@ -38,9 +39,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-----------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Road N' Plate Palm Rat Golf Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} |Season 5 |Fixed |Daytona International Speedway |Thu, December 05 08:00PM EST |Fri, December 06 01:00AM GMT |Fri, December 06 12:00PM AEDT |
 |[HVRL Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=11243){:target="_blank"} |Season 1 | |Daytona International Speedway |Mon, December 02 07:30PM EST |Tue, December 03 12:30AM GMT |Tue, December 03 11:30AM AEDT |
-|[QuickTime Promotions Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8389){:target="_blank"} |AI Season 2 | |Daytona International Speedway |Wed, November 27 08:15PM EST |Thu, November 28 01:15AM GMT |Thu, November 28 12:15PM AEDT |
 
 # Oval
 
@@ -84,6 +85,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Street Stock Throwback series |Fixed |Lanier National Speedway |Thu, December 05 09:00PM EST |Fri, December 06 02:00AM GMT |Fri, December 06 01:00PM AEDT |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Street Stock Cup \(2024\) |Both |USA International Speedway |Mon, December 02 03:30AM EST |Mon, December 02 08:30AM GMT |Mon, December 02 07:30PM AEDT |
 |[iRacing Northern Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4918){:target="_blank"} |INSS \- SS \- 2024\-25 |Open |Stafford Motor Speedway |Sun, December 01 07:45PM EST |Mon, December 02 12:45AM GMT |Mon, December 02 11:45AM AEDT |
 

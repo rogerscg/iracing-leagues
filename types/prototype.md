@@ -28,9 +28,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |63 |3204 | |Autodromo Nazionale Monza |Wed, November 27 01:00PM EST |Wed, November 27 06:00PM GMT |Thu, November 28 05:00AM AEDT |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |63 |3313 | |Autodromo Nazionale Monza |Thu, November 28 01:00PM EST |Thu, November 28 06:00PM GMT |Fri, November 29 05:00AM AEDT |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Old School Prototype Challenge S1 |Europe |19 |1679 | |[Legacy] Charlotte Motor Speedway - 2008 |Fri, November 29 05:00PM EST |Fri, November 29 10:00PM GMT |Sat, November 30 09:00AM AEDT |
-|[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |7DRIVE Multiclass Cup |Europe |18 |1806 |Both |Circuito de Navarra |Wed, November 27 01:00PM EST |Wed, November 27 06:00PM GMT |Thu, November 28 05:00AM AEDT |
+|[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |7DRIVE Multiclass Cup |Europe |19 |1827 |Both | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PROTOTYPE 2025\.1 |South America |13 |1458 |Both |Virginia International Raceway |Tue, December 03 07:15PM EST |Wed, December 04 12:15AM GMT |Wed, December 04 11:15AM AEDT |
 
 ### Ligier JS P320
@@ -48,7 +48,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |53 |2296 |Fixed |Donington Park Racing Circuit |Wed, November 27 07:00PM EST |Thu, November 28 12:00AM GMT |Thu, November 28 11:00AM AEDT |
+|[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |56 |2287 |Fixed | | | | |
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |42 |None |Fixed | | | | |
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |North America |39 |1782 |Fixed |Sebring International Raceway |Mon, December 02 09:00PM EST |Tue, December 03 02:00AM GMT |Tue, December 03 01:00PM AEDT |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |26 |2954 |Open |Sebring International Raceway |Thu, November 28 02:15PM EST |Thu, November 28 07:15PM GMT |Fri, November 29 06:15AM AEDT |
@@ -64,7 +64,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D DFL Radical SR8 \- Bowens |Australia-NZ |95 |2425 |Both |Sachsenring |Fri, November 29 03:30AM EST |Fri, November 29 08:30AM GMT |Fri, November 29 07:30PM AEDT |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |51 |2265 |Open |Virginia International Raceway |Fri, November 29 09:00PM EST |Sat, November 30 02:00AM GMT |Sat, November 30 01:00PM AEDT |
-|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |Torneo Radical SR8 |North America |40 |1906 | |Virginia International Raceway |Wed, November 27 08:30PM EST |Thu, November 28 01:30AM GMT |Thu, November 28 12:30PM AEDT |
+|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |Torneo Radical SR8 |North America |40 |1875 | |Lime Rock Park |Wed, December 04 08:30PM EST |Thu, December 05 01:30AM GMT |Thu, December 05 12:30PM AEDT |
 |[Sim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |29 |1842 |Open | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2982 | | | | | |
 |[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |North America |19 |1649 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, December 03 11:00PM EST |Wed, December 04 04:00AM GMT |Wed, December 04 03:00PM AEDT |

@@ -50,8 +50,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Formula 1600 2024 T4 |South America |33 |1860 |Fixed |WeatherTech Raceway at Laguna Seca |Wed, November 27 05:30PM EST |Wed, November 27 10:30PM GMT |Thu, November 28 09:30AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Formula 1600 2024 T4 |South America |33 |1877 |Fixed | | | | |
 
 ### Super Formula Lights
 
@@ -67,8 +67,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC SuperFormula](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |F1BC SuperFormula 2024\-4 |South America |15 |2716 | |Autodromo Internazionale Enzo e Dino Ferrari |Wed, November 27 06:25PM EST |Wed, November 27 11:25PM GMT |Thu, November 28 10:25AM AEDT |
+|---------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC SuperFormula](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |F1BC SuperFormula 2024\-4 |South America |15 |2703 | | | | | |
 
 # Sports Car
 
@@ -89,7 +89,7 @@
 |[F1BC MX5 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Sport 2024/4 |South America |34 |1714 | | | | | |
 |[LIGA FRS \- MX5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11577){:target="_blank"} |FRS MX5 Cup \- 24T4 |South America |33 |2242 | |Summit Point Raceway |Thu, November 28 04:00PM EST |Thu, November 28 09:00PM GMT |Fri, November 29 08:00AM AEDT |
 |[F1BC MX5 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=8629){:target="_blank"} |MX5 Master 2024/4 |South America |29 |3033 | | | | | |
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |MX\-5 Cup 2024 T4 |South America |28 |1638 |Fixed | | | | |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |MX\-5 Cup 2024 T4 |South America |28 |1638 |Fixed |Summit Point Raceway |Thu, November 28 05:30PM EST |Thu, November 28 10:30PM GMT |Fri, November 29 09:30AM AEDT |
 |[Virtual Racing Brasil \- MX\-5 Mazda](https://members.iracing.com/membersite/member/LeagueView.do?league=11284){:target="_blank"} |Squirrel Horizon \- MX\-5 Mazda Cup \- Season 4 |South America |17 |3093 |Fixed | | | | |
 
 ### McLaren 720S GT3 EVO
@@ -106,7 +106,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|---------------------|----------------------------|----------------------------|-----------------------------|
-|[IRB \- Touring Car Racing 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Temporada 2024 |South America |37 |3670 | |Road Atlanta |Wed, November 27 04:00PM EST |Wed, November 27 09:00PM GMT |Thu, November 28 08:00AM AEDT |
+|[IRB \- Touring Car Racing 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |Temporada 2024 |South America |37 |3662 | | | | | |
 |[F1BC TCR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |TCR Cup 2024/4 |South America |26 |2456 | |Rudskogen Motorsenter |Wed, December 04 06:25PM EST |Wed, December 04 11:25PM GMT |Thu, December 05 10:25AM AEDT |
 
 ### Toyota GR86
@@ -118,7 +118,7 @@
 |[TK Toyota Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9313){:target="_blank"} |TK Toyota Challenge \- 24S3 |South America |52 |2725 | |Circuito de Navarra |Tue, December 03 04:40PM EST |Tue, December 03 09:40PM GMT |Wed, December 04 08:40AM AEDT |
 |[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 24T4 |South America |48 |2254 | | | | | |
 |[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/4 |South America |40 |2184 | |Circuit de Spa-Francorchamps |Mon, December 02 04:25PM EST |Mon, December 02 09:25PM GMT |Tue, December 03 08:25AM AEDT |
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GR Cup 2024 T4 |South America |22 |1908 |Fixed | | | | |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GR Cup 2024 T4 |South America |22 |1908 |Fixed |Rudskogen Motorsenter |Thu, December 05 05:30PM EST |Thu, December 05 10:30PM GMT |Fri, December 06 09:30AM AEDT |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT F4 & GR86 2025\.1 |South America |11 |1635 |Both | | | | |
 
 # Prototype
@@ -139,8 +139,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2024/4 |South America |44 |2966 | | | | | |
-|[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/4 |South America |38 |1930 | | | | | |
+|[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2024/4 |South America |44 |2966 | |Circuit de Spa-Francorchamps |Thu, December 05 06:25PM EST |Thu, December 05 11:25PM GMT |Fri, December 06 10:25AM AEDT |
+|[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/4 |South America |38 |1930 | |Circuit de Spa-Francorchamps |Thu, December 05 04:25PM EST |Thu, December 05 09:25PM GMT |Fri, December 06 08:25AM AEDT |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |35 |1478 |Both |Virginia International Raceway |Sun, December 01 06:30PM EST |Sun, December 01 11:30PM GMT |Mon, December 02 10:30AM AEDT |
 |[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA GT3 |South America |31 |1765 | |WeatherTech Raceway at Laguna Seca |Sat, November 30 12:50PM EST |Sat, November 30 05:50PM GMT |Sun, December 01 04:50AM AEDT |
 |[GT Clash Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T4 |South America |27 |2790 | |WeatherTech Raceway at Laguna Seca |Tue, December 03 05:30PM EST |Tue, December 03 10:30PM GMT |Wed, December 04 09:30AM AEDT |
@@ -150,11 +150,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |102 |1845 | | | | | |
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |46 |2075 | |Sebring International Raceway |Wed, November 27 05:00PM EST |Wed, November 27 10:00PM GMT |Thu, November 28 09:00AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |105 |1847 | | | | | |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |46 |2054 | |Sebring International Raceway |Thu, November 28 05:50PM EST |Thu, November 28 10:50PM GMT |Fri, November 29 09:50AM AEDT |
 |[Koreylandia](https://members.iracing.com/membersite/member/LeagueView.do?league=11613){:target="_blank"} |Primeira Temporada \- 4Fun Koreylandia |South America |30 |1520 | | | | | |
-|[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2024/4 |South America |26 |2071 | |Suzuka International Racing Course |Wed, November 27 04:10PM EST |Wed, November 27 09:10PM GMT |Thu, November 28 08:10AM AEDT |
+|[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2024/4 |South America |26 |2090 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP 2024 |South America |24 |1447 |Both | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |TREINO 2024 |South America |20 |1369 |Both | | | | |
 
