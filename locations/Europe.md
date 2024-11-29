@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------|-------------|--------|-------|----|-----|-------------|--------|------|------|
-|[i\-FRN](https://members.iracing.com/membersite/member/LeagueView.do?league=2658){:target="_blank"} |Rookie Series |Europe |41 |1782 | | | | | |
+|[i\-FRN](https://members.iracing.com/membersite/member/LeagueView.do?league=2658){:target="_blank"} |Rookie Series |Europe |42 |1793 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -24,14 +24,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|--------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
-|[League FCD](https://members.iracing.com/membersite/member/LeagueView.do?league=10399){:target="_blank"} |FCD\-CUP S2 |Europe |48 |1875 |Fixed | | | | |
+|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|--------|-------|----|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
+|[League FCD](https://members.iracing.com/membersite/member/LeagueView.do?league=10399){:target="_blank"} |FCD\-CUP S2 |Europe |48 |1875 |Fixed |Michigan International Speedway |Fri, November 29 02:30PM EST |Fri, November 29 07:30PM GMT |Sat, November 30 06:30AM AEDT |
 |[Oval Series 24/25 by pwa\-simracing\.de](https://members.iracing.com/membersite/member/LeagueView.do?league=8914){:target="_blank"} |PWA Oval Series 24/25 |Europe |45 |2420 |Fixed |Dover Motor Speedway |Fri, November 29 12:00PM EST |Fri, November 29 05:00PM GMT |Sat, November 30 04:00AM AEDT |
 |[iiS \- international iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11236){:target="_blank"} |Season iiS 2024 |Europe |40 |3274 |Open | | | | |
+|[VSR \- NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10631){:target="_blank"} |Odyssey NASCAR Series powered by PAZA Tech |Europe |35 |2130 | | | | | |
 |[ORNL\.nl Maandag 2](https://members.iracing.com/membersite/member/LeagueView.do?league=8532){:target="_blank"} |ORNL Cup SERIES '24 |Europe |34 |1971 |Open | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2024 S4 NASCAR Series |Europe |24 |2352 |Both |Phoenix Raceway |Sun, December 01 02:00PM EST |Sun, December 01 07:00PM GMT |Mon, December 02 06:00AM AEDT |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Portugal Cup Series 2024 |Europe |17 |2542 | | | | | |
-|[VSR \- NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10631){:target="_blank"} |Odyssey NASCAR Series powered by PAZA Tech |Europe |17 |2059 | |Talladega Superspeedway |Thu, November 28 12:00PM EST |Thu, November 28 05:00PM GMT |Fri, November 29 04:00AM AEDT |
 
 ### NASCAR Truck Series
 
@@ -76,13 +76,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|--------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
-|[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |Indy 2024 |Europe |37 |2322 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |Indy 2024 |Europe |37 |2310 | | | | | |
 |[INDYCAR ButtKicker iRacing Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11225){:target="_blank"} |INDYCAR ButtKicker iRacing Pro Series \- 2024 Season |Europe |33 |6778 | | | | | |
 |[BB1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2024\-S04 \- IR18 |Europe |32 |2525 |Both | | | | |
 |[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |INDYCAR S1\-24 |Europe |32 |2171 | | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 10 \- IR18 |Europe |30 |2189 |Both | | | | |
-|[ITJ & IIC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |IIC Series 2025 |Europe |25 |1835 | |Iowa Speedway |Thu, November 28 03:15PM EST |Thu, November 28 08:15PM GMT |Fri, November 29 07:15AM AEDT |
+|[ITJ & IIC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |IIC Series 2025 |Europe |26 |1865 | | | | | |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Indycar |Europe |14 |1697 |Open | | | | |
 
 ### FIA F4
@@ -90,15 +90,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[EVAL \- Eesti Virtuaalse Autospordi Liit](https://members.iracing.com/membersite/member/LeagueView.do?league=10052){:target="_blank"} |EVAL F4 EMV 2024 |Europe |72 |2538 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2024 FIA F4 season |Europe |57 |2495 |Both | | | | |
-|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Saison 9 |Europe |41 |2523 |Both |Circuit de Spa-Francorchamps |Thu, November 28 01:30PM EST |Thu, November 28 06:30PM GMT |Fri, November 29 05:30AM AEDT |
+|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Saison 9 |Europe |41 |2520 |Both | | | | |
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |ESPORTS UKRAINIAN F4 CHAMPIONSHIP |Europe |41 |1750 |Both |Winton Motor Raceway |Sat, November 30 01:00PM EST |Sat, November 30 06:00PM GMT |Sun, December 01 05:00AM AEDT |
 |[British F4 Esports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9004){:target="_blank"} |2024 British F4 Esports Championship |Europe |35 |5415 | | | | | |
 |[FIA F4 eSports Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11277){:target="_blank"} |2024 FIA F4 eSports Global Championship |Europe |30 |7763 | | | | | |
 |[F4 FRIDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=11537){:target="_blank"} |Season one |Europe |21 |2596 | |Oulton Park Circuit |Fri, November 29 02:00PM EST |Fri, November 29 07:00PM GMT |Sat, November 30 06:00AM AEDT |
-|[FNR Formula F4 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11379){:target="_blank"} |Sezon 0 FNR Racing F4 |Europe |17 |1694 |Fixed | | | | |
+|[FNR Formula F4 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11379){:target="_blank"} |Sezon 0 FNR Racing F4 |Europe |17 |1694 |Fixed |Autódromo José Carlos Pace |Sat, November 30 03:00PM EST |Sat, November 30 08:00PM GMT |Sun, December 01 07:00AM AEDT |
 |[3Legs4Wheels Podcast League](https://members.iracing.com/membersite/member/LeagueView.do?league=5244){:target="_blank"} |British F4 |Europe |12 |1513 | | | | | |
 
 ### Hosted All Cars Class
@@ -154,6 +154,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|--------------------------------|--------|-------|----|-----|-------------|--------|------|------|
 |[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |VMS \- Super Formula \- Season 1 |Europe |29 |1943 |Both | | | | |
+|[GT Akademían](https://members.iracing.com/membersite/member/LeagueView.do?league=4302){:target="_blank"} |Formúlu Deildin |Europe |20 |1645 |Both | | | | |
 
 # Sports Car
 
@@ -162,8 +163,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|---------------------------|--------|-------|----|-----|----------------|----------------------------|----------------------------|-----------------------------|
-|[KNAF Digital](https://members.iracing.com/membersite/member/LeagueView.do?league=8856){:target="_blank"} |iRacing ONK Autumn Cup 2024 |Europe |53 |2459 |Fixed |MotorLand Aragón |Thu, November 28 01:30PM EST |Thu, November 28 06:30PM GMT |Fri, November 29 05:30AM AEDT |
+|---------------------------------------------------------------------------------------------------------|---------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[KNAF Digital](https://members.iracing.com/membersite/member/LeagueView.do?league=8856){:target="_blank"} |iRacing ONK Autumn Cup 2024 |Europe |54 |2459 |Fixed | | | | |
 
 ### GT4 Class
 
@@ -172,7 +173,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------|--------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Evolution Sim Racing GT4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |ESR GT4 Season 1 |Europe |64 |2019 | |Circuit Zolder |Mon, December 02 02:30PM EST |Mon, December 02 07:30PM GMT |Tue, December 03 06:30AM AEDT |
-|[SCHERER eSPORT GT4 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10804){:target="_blank"} |SCHERER eSPORT GT4 Series Season III |Europe |49 |2607 |Fixed |WeatherTech Raceway at Laguna Seca |Wed, December 04 01:00PM EST |Wed, December 04 06:00PM GMT |Thu, December 05 05:00AM AEDT |
+|[SCHERER eSPORT GT4 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10804){:target="_blank"} |SCHERER eSPORT GT4 Series Season III |Europe |49 |2607 |Fixed |WeatherTech Raceway at Laguna Seca |Sun, December 01 01:00PM EST |Sun, December 01 06:00PM GMT |Mon, December 02 05:00AM AEDT |
 |[RECART\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10758){:target="_blank"} |RECART SRS 2024/25 Cup1 |Europe |20 |1879 | |Motorsport Arena Oschersleben |Sun, December 01 01:30PM EST |Sun, December 01 06:30PM GMT |Mon, December 02 05:30AM AEDT |
 
 ### Hosted All Cars Class
@@ -189,7 +190,7 @@
 |[SRL Friday Night Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |SRL Freebie Fridays |Europe |37 |2522 |Fixed |Mobility Resort Motegi |Fri, November 29 03:20PM EST |Fri, November 29 08:20PM GMT |Sat, November 30 07:20AM AEDT |
 |[Porsche Esports Sprint Challenge GB](https://members.iracing.com/membersite/member/LeagueView.do?league=10204){:target="_blank"} |2024 |Europe |35 |2902 | | | | | |
 |[ITJ & IIC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |The GT CUP |Europe |24 |2024 | | | | | |
-|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |JRH GT4 |Europe |24 |1762 | | | | | |
+|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |JRH GT4 |Europe |24 |1748 | | | | | |
 
 ### IMPCGT4 Class
 
@@ -205,7 +206,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|--------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[ACR iRacing MX5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6835){:target="_blank"} |ACR iRacing MX5 League |Europe |50 |2833 |Fixed | | | | |
+|[ACR iRacing MX5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6835){:target="_blank"} |ACR iRacing MX5 League |Europe |51 |2771 |Fixed | | | | |
 |[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |DIVISION ONE MX5WSS 2024 |Europe |48 |2649 |Fixed | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2024 S4 CSL Academy |Europe |31 |1465 |Both | | | | |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Mazda Cup S6 |Europe |31 |2162 | |Virginia International Raceway |Tue, December 03 05:00PM EST |Tue, December 03 10:00PM GMT |Wed, December 04 09:00AM AEDT |
@@ -262,11 +263,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|-------------|--------|------|------|
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |FLANC Club Serie 2024/25 \- TCR |Europe |43 |1812 |Fixed | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Sprint Season 1 \- TCR |Europe |30 |2048 |Both | | | | |
 |[VTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=10564){:target="_blank"} |World Tour 2024/2025 Japanese Leg |Europe |11 |1937 | | | | | |
-|[VTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=10564){:target="_blank"} |World Tour 2024/2025 European Leg |Europe |11 |2043 | |Autodromo Nazionale Monza |Thu, November 28 02:15PM EST |Thu, November 28 07:15PM GMT |Fri, November 29 06:15AM AEDT |
+|[VTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=10564){:target="_blank"} |World Tour 2024/2025 European Leg |Europe |11 |2016 | | | | | |
 
 ### Toyota GR86
 
@@ -290,8 +291,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|-------------------|--------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |09 \| Novembre 2024 |Europe |11 |1580 | |Silverstone Circuit |Thu, November 28 03:15PM EST |Thu, November 28 08:15PM GMT |Fri, November 29 07:15AM AEDT |
+|-------------------------------------------------------------------------------------------------------|-------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |09 \| Novembre 2024 |Europe |11 |1609 | | | | | |
 
 ### GTP
 
@@ -307,9 +308,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|----------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |63 |3313 | |Autodromo Nazionale Monza |Thu, November 28 01:00PM EST |Thu, November 28 06:00PM GMT |Fri, November 29 05:00AM AEDT |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |63 |3348 | |Daytona International Speedway |Wed, December 04 01:00PM EST |Wed, December 04 06:00PM GMT |Thu, December 05 05:00AM AEDT |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Old School Prototype Challenge S1 |Europe |19 |1679 | |[Legacy] Charlotte Motor Speedway - 2008 |Fri, November 29 05:00PM EST |Fri, November 29 10:00PM GMT |Sat, November 30 09:00AM AEDT |
-|[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |7DRIVE Multiclass Cup |Europe |19 |1827 |Both | | | | |
+|[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |7DRIVE Multiclass Cup |Europe |19 |1827 |Both |Nürburgring Grand-Prix-Strecke |Fri, December 06 01:00PM EST |Fri, December 06 06:00PM GMT |Sat, December 07 05:00AM AEDT |
 
 ### Ligier JS P320
 
@@ -324,8 +325,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |26 |2954 |Open |Sebring International Raceway |Thu, November 28 02:15PM EST |Thu, November 28 07:15PM GMT |Fri, November 29 06:15AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|--------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |27 |2938 |Open |Autódromo José Carlos Pace |Thu, December 05 02:15PM EST |Thu, December 05 07:15PM GMT |Fri, December 06 06:15AM AEDT |
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2024 |Europe |24 |3636 | | | | | |
 
 ### Radical SR8
@@ -354,34 +355,35 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------|-------|----|-----|-------------------------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|--------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[RPM European GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7826){:target="_blank"} |RPM GT3 Season 12 |Europe |78 |2260 |Open | | | | |
-|[Evolution Sim Racing \- GT3 CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |ESR GT3 Season 6 Championship |Europe |64 |2082 | |WeatherTech Raceway at Laguna Seca |Thu, November 28 02:30PM EST |Thu, November 28 07:30PM GMT |Fri, November 29 06:30AM AEDT |
+|[Evolution Sim Racing \- GT3 CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |ESR GT3 Season 6 Championship |Europe |64 |2088 | | | | | |
 |[Aspire Racing \- Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10173){:target="_blank"} |ASPIRE RACING GT3 SERIES IN PARTNERSHIP WITH INGEAR MOTORSPORT \- SEASON 6 |Europe |63 |1921 |Open | | | | |
-|[NXTGEN PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |GT3 FIXED S6 |Europe |60 |1947 |Fixed |Nürburgring Grand-Prix-Strecke |Thu, November 28 02:00PM EST |Thu, November 28 07:00PM GMT |Fri, November 29 06:00AM AEDT |
+|[NXTGEN PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |GT3 FIXED S6 |Europe |61 |1949 |Fixed | | | | |
 |[Ligue Francophone GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |Manche 8 \- Octobre \- Road Atlanta |Europe |57 |3238 |Open | | | | |
-|[SimRC\.de GT3 Meisterschaft](https://members.iracing.com/membersite/member/LeagueView.do?league=8674){:target="_blank"} |Season 6 \- Herbst 2024 |Europe |51 |2735 | |Algarve International Circuit |Thu, November 28 01:00PM EST |Thu, November 28 06:00PM GMT |Fri, November 29 05:00AM AEDT |
+|[SimRC\.de GT3 Meisterschaft](https://members.iracing.com/membersite/member/LeagueView.do?league=8674){:target="_blank"} |Season 6 \- Herbst 2024 |Europe |51 |2735 | |Algarve International Circuit |Fri, November 29 12:35PM EST |Fri, November 29 05:35PM GMT |Sat, November 30 04:35AM AEDT |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Clark St\. James GT3 Season 4 |Europe |49 |1848 | |WeatherTech Raceway at Laguna Seca |Mon, December 02 02:30PM EST |Mon, December 02 07:30PM GMT |Tue, December 03 06:30AM AEDT |
 |[Racing Unleashed](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |RU GT3 Pre\-Q Road Atlanta |Europe |46 |3074 | | | | | |
 |[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS 6 Kval Server 2 |Europe |45 |1602 | | | | | |
 |[Simufur](https://members.iracing.com/membersite/member/LeagueView.do?league=8219){:target="_blank"} |iRacing GT3 Season 1 |Europe |44 |1977 | | | | | |
-|[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS 6 Server 2 |Europe |43 |1600 | |Road America |Thu, November 28 12:30PM EST |Thu, November 28 05:30PM GMT |Fri, November 29 04:30AM AEDT |
+|[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS 6 Server 2 |Europe |43 |1604 | | | | | |
 |[GHD Ü40 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=9049){:target="_blank"} |GHD Ü40 CUP SAISON 5 |Europe |42 |2234 |Open |Daytona International Speedway |Mon, December 02 01:00PM EST |Mon, December 02 06:00PM GMT |Tue, December 03 05:00AM AEDT |
 |[Makoon Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11630){:target="_blank"} |MaKoonGaming Liga Saison 2 |Europe |42 |1817 |Fixed |Nürburgring Grand-Prix-Strecke |Sun, December 01 12:00PM EST |Sun, December 01 05:00PM GMT |Mon, December 02 04:00AM AEDT |
 |[Racing Unleashed](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |RU GT3 Pre\-Q Watkins Glen |Europe |40 |2328 | | | | | |
 |[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS 6 Kval Server 1 |Europe |39 |3482 | | | | | |
-|[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS 6 Server 1 |Europe |37 |3412 | |Road America |Thu, November 28 12:30PM EST |Thu, November 28 05:30PM GMT |Fri, November 29 04:30AM AEDT |
+|[Danish GT Series Division Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS 6 Server 1 |Europe |37 |3402 | | | | | |
 |[CAS \- GT3 World Championship Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=9707){:target="_blank"} |GT3 World Championship Tour \(Season 6\) |Europe |36 |2114 |Both | | | | |
 |[EMS GT4 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11516){:target="_blank"} |Segunda Division |Europe |34 |2356 | | | | | |
+|[FLANC GT3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7591){:target="_blank"} |FLANC GT3 Serie 2024/25 \- GT3 |Europe |33 |2839 |Fixed | | | | |
 |[EMS GT4 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11516){:target="_blank"} |Primera Division |Europe |32 |4152 | | | | | |
 |[ZEK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11547){:target="_blank"} |Campeonato GT3 Individual / GT3 Individual Championship |Europe |32 |1910 |Open | | | | |
-|[FLANC GT3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7591){:target="_blank"} |FLANC GT3 Serie 2024/25 \- GT3 |Europe |31 |2790 |Fixed |Misano World Circuit Marco Simoncelli |Thu, November 28 12:30PM EST |Thu, November 28 05:30PM GMT |Fri, November 29 04:30AM AEDT |
 |[Sim Racing Magazine Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7770){:target="_blank"} |SRM GT3 Winter Tour 2024 \- Tour of Great Britain |Europe |29 |2676 | |Snetterton Circuit |Tue, December 03 02:00PM EST |Tue, December 03 07:00PM GMT |Wed, December 04 06:00AM AEDT |
+|[GT3 for not so serious](https://members.iracing.com/membersite/member/LeagueView.do?league=3953){:target="_blank"} |2024 Season 4 |Europe |26 |2163 | |WeatherTech Raceway at Laguna Seca |Sun, December 01 10:30AM EST |Sun, December 01 03:30PM GMT |Mon, December 02 02:30AM AEDT |
 |[TRL The\-Racing\-League\.de](https://members.iracing.com/membersite/member/LeagueView.do?league=11616){:target="_blank"} |TRL iRacing GT |Europe |23 |1738 |Open |WeatherTech Raceway at Laguna Seca |Tue, December 03 11:30AM EST |Tue, December 03 04:30PM GMT |Wed, December 04 03:30AM AEDT |
-|[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |VMS \- GT3 \- Season 1 |Europe |21 |1685 |Both | | | | |
+|[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |VMS \- GT3 \- Season 1 |Europe |21 |1685 |Both |Sebring International Raceway |Fri, November 29 02:00PM EST |Fri, November 29 07:00PM GMT |Sat, November 30 06:00AM AEDT |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR GT3 |Europe |18 |1658 |Open | | | | |
-|[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} |Drift Simracing Club GT3 Meisterschaft |Europe |18 |1712 | |WeatherTech Raceway at Laguna Seca |Thu, November 28 12:00PM EST |Thu, November 28 05:00PM GMT |Fri, November 29 04:00AM AEDT |
-|[Racing Unleashed](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |RU GT3 Pre\-Q Sebring |Europe |12 |3548 | |Sebring International Raceway |Thu, November 28 09:00AM EST |Thu, November 28 02:00PM GMT |Fri, November 29 01:00AM AEDT |
+|[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} |Drift Simracing Club GT3 Meisterschaft |Europe |18 |1717 | | | | | |
+|[Racing Unleashed](https://members.iracing.com/membersite/member/LeagueView.do?league=8122){:target="_blank"} |RU GT3 Pre\-Q Sebring |Europe |16 |3459 | |Sebring International Raceway |Fri, November 29 09:00AM EST |Fri, November 29 02:00PM GMT |Sat, November 30 01:00AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -405,7 +407,7 @@
 |[Evolution Sim Racing SOCIAL LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=10200){:target="_blank"} |ESR Multiclass GT3 GT4 |Europe |42 |1824 | |Mount Panorama Circuit |Sun, December 01 02:30PM EST |Sun, December 01 07:30PM GMT |Mon, December 02 06:30AM AEDT |
 |[NERVE\-GT \[ NERVE GT3 Championship \]](https://members.iracing.com/membersite/member/LeagueView.do?league=7305){:target="_blank"} |NERVE\-GT \| 2024 |Europe |42 |2745 |Open | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Endurance Season 1 |Europe |40 |2076 |Both |Daytona International Speedway |Sun, December 01 02:00PM EST |Sun, December 01 07:00PM GMT |Mon, December 02 06:00AM AEDT |
-|[Anti Stall Racing \- IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8267){:target="_blank"} |Season 7 |Europe |40 |3049 |Open |Daytona International Speedway |Thu, November 28 01:05PM EST |Thu, November 28 06:05PM GMT |Fri, November 29 05:05AM AEDT |
+|[Anti Stall Racing \- IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8267){:target="_blank"} |Season 7 |Europe |40 |3079 |Open | | | | |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |2024 ESR Casual Endurance Series |Europe |35 |1887 | | | | | |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |ESR Mini Le Mans Series 2024 |Europe |35 |1856 | | | | | |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |2024 ESR F4 Winter Cup |Europe |35 |1852 | | | | | |
@@ -420,7 +422,7 @@
 |[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |7DRIVE RingSeries 2024 |Europe |22 |1885 |Both | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2024 Random Fun events |Europe |22 |2331 |Both | | | | |
 |[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Russian Endurance Series 2024 |Europe |22 |2174 |Both | | | | |
-|[ORNL\.nl Donderdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |LMP3/GT4 2024 |Europe |22 |2430 |Open |Long Beach Street Circuit |Thu, November 28 02:00PM EST |Thu, November 28 07:00PM GMT |Fri, November 29 06:00AM AEDT |
+|[ORNL\.nl Donderdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |LMP3/GT4 2024 |Europe |22 |2441 |Open |Virginia International Raceway |Thu, December 05 02:00PM EST |Thu, December 05 07:00PM GMT |Fri, December 06 06:00AM AEDT |
 |[AFvRC](https://members.iracing.com/membersite/member/LeagueView.do?league=8081){:target="_blank"} |AFVRC Budget GT3 Cup |Europe |22 |2576 |Open | | | | |
 |[dmsj \- SimRacing\-Junior\-Cup 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=2529){:target="_blank"} |U15 \- dmsj \- Race |Europe |22 |1884 |Fixed |Okayama International Circuit |Wed, December 04 11:00AM EST |Wed, December 04 04:00PM GMT |Thu, December 05 03:00AM AEDT |
 |[se7en team](https://members.iracing.com/membersite/member/LeagueView.do?league=11533){:target="_blank"} |Seven 7eam |Europe |20 |1493 |Both | | | | |
@@ -428,14 +430,14 @@
 |[Evolution Sim Racing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=5229){:target="_blank"} |Evo Sim Racing, Season 4 2024 |Europe |18 |2023 |Both | | | | |
 |[Virtual GP](https://members.iracing.com/membersite/member/LeagueView.do?league=3963){:target="_blank"} |Testing |Europe |17 |3299 |Open | | | | |
 |[GT Akademían](https://members.iracing.com/membersite/member/LeagueView.do?league=4302){:target="_blank"} |Æfingar |Europe |17 |1644 |Both | | | | |
+|[go\-RILLAS AVL RACETECH SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7714){:target="_blank"} |Season 24\.2 |Europe |17 |2326 |Fixed | | | | |
 |[CAS \- Combined Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10943){:target="_blank"} |CC\- Cup 5th Season |Europe |16 |1655 | |WeatherTech Raceway at Laguna Seca |Fri, November 29 01:00PM EST |Fri, November 29 06:00PM GMT |Sat, November 30 05:00AM AEDT |
 |[Nürburgring eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=8860){:target="_blank"} |NBR Liga \- Season 2 |Europe |16 |4215 | | | | | |
-|[go\-RILLAS AVL RACETECH SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7714){:target="_blank"} |Season 24\.2 |Europe |16 |2449 |Fixed |Nürburgring Grand-Prix-Strecke |Thu, November 28 01:30PM EST |Thu, November 28 06:30PM GMT |Fri, November 29 05:30AM AEDT |
 |[DCW Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=11202){:target="_blank"} |DCW Racing \- Season 1 |Europe |15 |2754 | | | | | |
 |[PHILDECARACING CHALLENGE & ENDURANCE](https://members.iracing.com/membersite/member/LeagueView.do?league=8859){:target="_blank"} |CHAMPIONNAT ENDURANCE |Europe |15 |1711 | | | | | |
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |F4/MX5 |Europe |14 |3913 | |Lime Rock Park |Fri, November 29 02:20PM EST |Fri, November 29 07:20PM GMT |Sat, November 30 06:20AM AEDT |
+|[SimracerX](https://members.iracing.com/membersite/member/LeagueView.do?league=11602){:target="_blank"} |SimracerX Meisterschaft |Europe |14 |1702 | | | | | |
 |[DensuSimRacing\.de by twitch\.tv/densu83](https://members.iracing.com/membersite/member/LeagueView.do?league=4439){:target="_blank"} |DSR Trainings\-Cup Season 4 2024 |Europe |14 |2710 |Open | | | | |
 |[Digital Motorsport SK](https://members.iracing.com/membersite/member/LeagueView.do?league=8009){:target="_blank"} |2024\-DMSK\-Open Season |Europe |13 |1543 |Both | | | | |
 |[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} |DSC Fun Race |Europe |12 |1831 | | | | | |
-|[SimracerX](https://members.iracing.com/membersite/member/LeagueView.do?league=11602){:target="_blank"} |SimracerX Meisterschaft |Europe |10 |1693 | | | | | |
 

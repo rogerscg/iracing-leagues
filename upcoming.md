@@ -33,6 +33,7 @@
 |[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |Trucks 2024 Winter Shootout |Both |Talladega Superspeedway |Sun, December 01 07:00PM EST |Mon, December 02 12:00AM GMT |Mon, December 02 11:00AM AEDT |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Trucks Season 1 |Fixed |Kansas Speedway |Sat, November 30 08:00PM EST |Sun, December 01 01:00AM GMT |Sun, December 01 12:00PM AEDT |
 |[HVRL Rookie Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=10954){:target="_blank"} |HVRL Rookie Trucks Season 2 |Fixed |Daytona International Speedway |Sun, December 01 07:00PM EST |Mon, December 02 12:00AM GMT |Mon, December 02 11:00AM AEDT |
+|[HVRL Trucks A](https://members.iracing.com/membersite/member/LeagueView.do?league=11637){:target="_blank"} |Season 1 | |Daytona International Speedway |Fri, December 06 08:00PM EST |Sat, December 07 01:00AM GMT |Sat, December 07 12:00PM AEDT |
 
 ### XFINITY Series
 
@@ -117,14 +118,6 @@
 |[La Broca x LDFR British Formula 4](https://members.iracing.com/membersite/member/LeagueView.do?league=11800){:target="_blank"} |Season one | |Oulton Park Circuit |Sun, December 01 02:30PM EST |Sun, December 01 07:30PM GMT |Mon, December 02 06:30AM AEDT |
 |[Liga de las Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=11816){:target="_blank"} |OW 2024\-49 |Fixed |Circuit de Spa-Francorchamps |Tue, December 03 07:45PM EST |Wed, December 04 12:45AM GMT |Wed, December 04 11:45AM AEDT |
 
-### Super Formula SF23
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|---------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[GT Akademían](https://members.iracing.com/membersite/member/LeagueView.do?league=4302){:target="_blank"} |Formúlu Deildin |Both |Suzuka International Racing Course |Thu, November 28 02:30PM EST |Thu, November 28 07:30PM GMT |Fri, November 29 06:30AM AEDT |
-
 ### Williams FW31
 
 [Back to Top](#)  
@@ -132,6 +125,16 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT Formula Championship 2025\.1  |Both |Summit Point Raceway |Sat, November 30 07:00PM EST |Sun, December 01 12:00AM GMT |Sun, December 01 11:00AM AEDT |
+
+# Sports Car
+
+### Supercars - 2019
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|---------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Olivier iRacing League 🏁](https://members.iracing.com/membersite/member/LeagueView.do?league=10930){:target="_blank"} |Supercars Cup 🏁 | |WeatherTech Raceway at Laguna Seca |Fri, December 06 02:00PM EST |Fri, December 06 07:00PM GMT |Sat, December 07 06:00AM AEDT |
 
 # Dirt Oval
 
@@ -150,8 +153,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------------|-----|--------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
 |[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |10 \| Dicembre 2024 | |Circuit Zolder |Tue, December 03 03:15PM EST |Tue, December 03 08:15PM GMT |Wed, December 04 07:15AM AEDT |
+|[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |GT Sprint Series |Both |Long Beach Street Circuit |Fri, December 06 08:00PM EST |Sat, December 07 01:00AM GMT |Sat, December 07 12:00PM AEDT |
 |[Pace Setters Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11835){:target="_blank"} |GT3 season 1 | |Red Bull Ring |Mon, December 02 08:00PM EST |Tue, December 03 01:00AM GMT |Tue, December 03 12:00PM AEDT |
 
 ### Hosted All Cars Class

@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[CRS Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11796){:target="_blank"} |[Discord](https://discord.gg/gNEgNUfaJv){:target="_blank"} |We are CRS, we have been running as a community since 2019 and we have now made the Jump to Iracing\. Join us for Real World Style events and Events that you wont see anywhere else\! |
-|[OG League](https://members.iracing.com/membersite/member/LeagueView.do?league=11798){:target="_blank"} | | |
-|[2025 Solmes Cup International](https://members.iracing.com/membersite/member/LeagueView.do?league=11797){:target="_blank"} | | |
 |[1st Annual Santa MINI Hustle \(By DIRT DEVIL USA](https://members.iracing.com/membersite/member/LeagueView.do?league=11803){:target="_blank"} |[Discord](https://discord.gg/jcafS94E){:target="_blank"} |5 week league |
 |[AACT](https://members.iracing.com/membersite/member/LeagueView.do?league=11799){:target="_blank"} | |Join up Friday Night Late Models |
 |[DOOFCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11804){:target="_blank"} | |3 Doofuses Racing AI |
@@ -38,7 +35,7 @@
 |[Baraże: Porsche Esports Sprint Challenge Poland 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11834){:target="_blank"} | | |
 |[Formula Drivers League \(FDL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11833){:target="_blank"} | |The Formula Drivers League \(FDL\) is an Australian, formula car\-only, driver\-focused league that delivers clean, exciting racing for all skill levels on the iRacing platform\. |
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} | |IMSA Pro Am Series team and league races |
-|[Lead Foot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11831){:target="_blank"} | |\-This is a relaxed league built for off\-season races during the SCARS League admin break\. There will be no points, payouts, or entry fees\. Just show up with your heaviest foot, and drive\! |
+|[Lead Foot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11831){:target="_blank"} | |\. |
 |[Ready's Winter Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11832){:target="_blank"} |[Discord](https://discord.gg/YjcZ9XYz){:target="_blank"} |Winter racing League for fun |
 |[Mealer Built Setups](https://members.iracing.com/membersite/member/LeagueView.do?league=11830){:target="_blank"} | | |
 |[Pace Setters Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11835){:target="_blank"} | |Pace Setters racing is a league for everyone\. Check us out\! |
@@ -54,4 +51,6 @@
 |[Slide Job City \(Rubbins Racin\) League Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=11845){:target="_blank"} |[Discord](https://discord.gg/2BfWZbQk){:target="_blank"} |pro 2 dirt track league all starts on green leader must run top or 2 lanes from have fun rubbin is racing we do allow bumping and moving people that are non stop issue and dumping people will be kicked |
 |[Maconi Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11847){:target="_blank"} | | |
 |[Ferrari HP Esports Series 2024 \- Backup](https://members.iracing.com/membersite/member/LeagueView.do?league=11846){:target="_blank"} | |backup league for FES 24 |
+|[358 mods](https://members.iracing.com/membersite/member/LeagueView.do?league=11849){:target="_blank"} | | |
+|[ASRG GT Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11848){:target="_blank"} | |GT3 Pro Invitational Endurance Championship |
 
