@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[1st Annual Santa MINI Hustle \(By DIRT DEVIL USA](https://members.iracing.com/membersite/member/LeagueView.do?league=11803){:target="_blank"} |[Discord](https://discord.gg/jcafS94E){:target="_blank"} |5 week league |
-|[AACT](https://members.iracing.com/membersite/member/LeagueView.do?league=11799){:target="_blank"} | |Join up Friday Night Late Models |
-|[DOOFCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11804){:target="_blank"} | |3 Doofuses Racing AI |
-|[La Broca x LDFR British Formula 4](https://members.iracing.com/membersite/member/LeagueView.do?league=11800){:target="_blank"} | |Six rounds across three British circuits to crown a new La Broca x LDFR Champion\! |
-|[Rise Through the Ranks Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11802){:target="_blank"} | | |
-|[TORQ Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11801){:target="_blank"} |[Discord](https://discord.gg/rv7pFZ42zj){:target="_blank"} | |
 |[358 Super Dirt Series Invite Only](https://members.iracing.com/membersite/member/LeagueView.do?league=11815){:target="_blank"} | |Top Tier Members\! |
 |[Autodromo Virtual \- FIA](https://members.iracing.com/membersite/member/LeagueView.do?league=11812){:target="_blank"} | |Campeonatos organizados por ACA eSports |
 |[Bridge City eRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11806){:target="_blank"} | | |
@@ -53,4 +47,8 @@
 |[Ferrari HP Esports Series 2024 \- Backup](https://members.iracing.com/membersite/member/LeagueView.do?league=11846){:target="_blank"} | |backup league for FES 24 |
 |[358 mods](https://members.iracing.com/membersite/member/LeagueView.do?league=11849){:target="_blank"} | | |
 |[ASRG GT Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11848){:target="_blank"} | |GT3 Pro Invitational Endurance Championship |
+|[DRT4RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=11850){:target="_blank"} | |Porsche sixt Carrera Cup Deutschland 2024 nachfahren |
+|[SGP](https://members.iracing.com/membersite/member/LeagueView.do?league=11851){:target="_blank"} | |SGP Races |
+|[The Winter Beater Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11852){:target="_blank"} | |A series of unfortunate races in a car you'd rather leave in a snowbank |
+|[Track Masters Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11853){:target="_blank"} | |We are a track championship style league offering an authentic weekend racing experience\. |
 
