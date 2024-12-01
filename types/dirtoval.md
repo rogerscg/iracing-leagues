@@ -34,6 +34,7 @@
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} | 2024 S4 BBM |North America |33 |3204 |Open | | | | |
 |[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2024\-25 big block |North America |33 |1976 |Fixed | | | | |
 |[Drinkin' Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=2671){:target="_blank"} |Drinkin' Dirt Winter Season |North America |30 |1475 | | | | | |
+|[MRDR iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11750){:target="_blank"} |MRDR iRacing BB Season 1 \- 2024\-25 |North America |24 |2317 | | | | | |
 |[WAKA WAKA \#FallBash2](https://members.iracing.com/membersite/member/LeagueView.do?league=10714){:target="_blank"} |Fall Bash 2 BB |North America |19 |2474 | | | | | |
 
 ### Dirt Late Model - Limited
@@ -54,7 +55,7 @@
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Pro Late Model All Stars Tour 2024 |Australia-NZ |61 |2554 | | | | | |
 |[Best of the Best Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10096){:target="_blank"} |2024 Best Of The Best Pro Series |North America |50 |2312 | | | | | |
 |[ASND Pro Late Model Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Pro Late Model Spooker |Australia-NZ |44 |3334 | | | | | |
-|[ASND Pro Late Model Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Hell Tour |Australia-NZ |30 |2727 | | | | | |
+|[ASND Pro Late Model Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Hell Tour |Australia-NZ |30 |2727 | |Lucas Oil Speedway |Sun, December 01 04:30AM EST |Sun, December 01 09:30AM GMT |Sun, December 01 08:30PM AEDT |
 |[HELL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=11698){:target="_blank"} |Cody Williams Design Hell Tour |North America |30 |2938 |Open | | | | |
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |The Pro Lates Tour Presented By Right Rear Racing |North America |28 |2040 |Fixed | | | | |
 |[RuffNeck\-Dirt\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10990){:target="_blank"} |Ruff\-Neck Dirt Racing |North America |28 |1859 |Fixed | | | | |
@@ -65,6 +66,7 @@
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Close Racing Supply Pro Late Models S1 |North America |18 |1789 | | | | | |
 |[Instigator Winter Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11652){:target="_blank"} |Instigator Pro Late Series |North America |17 |1534 | | | | | |
 |[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10655){:target="_blank"} |Velocity Racing Pros |North America |16 |4056 | | | | | |
+|[B\-Main Motorsports Weekend League](https://members.iracing.com/membersite/member/LeagueView.do?league=4712){:target="_blank"} |B Main Pro lates 2025 |North America |15 |2153 |Open | | | | |
 |[Old Money Racing PROLM](https://members.iracing.com/membersite/member/LeagueView.do?league=10035){:target="_blank"} |OMR Fall PROLM |North America |14 |1980 |Fixed | | | | |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |dirt pro late model |North America |14 |1521 |Open |Eldora Speedway |Wed, December 04 10:00PM EST |Thu, December 05 03:00AM GMT |Thu, December 05 02:00PM AEDT |
 |[Merica Extreme Dirt and Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=11422){:target="_blank"} |Inaugural Pro Late Models |North America |13 |1459 | | | | | |
@@ -78,8 +80,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |Super Late models |North America |30 |2653 | | | | | |
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |Super Late models |North America |30 |2653 | |Oswego Speedway |Tue, December 03 08:00PM EST |Wed, December 04 01:00AM GMT |Wed, December 04 12:00PM AEDT |
 |[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |Slinging Dirt Super Nationals |North America |22 |3246 |Both | | | | |
 |[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |Hooked Up Super Lates 2024\.2 |North America |19 |3052 |Both | | | | |
 |[3D Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6903){:target="_blank"} |Season 3 Fall 2024 |North America |19 |4492 |Both | | | | |
@@ -137,7 +139,7 @@
 |[DSRL Monday Night Thunder Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=101){:target="_blank"} |360 Sprints Season 25 |North America |44 |3358 |Both | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |North America |43 |2709 |Open |The Dirt Track at Charlotte |Mon, December 02 08:00PM EST |Tue, December 03 01:00AM GMT |Tue, December 03 12:00PM AEDT |
 |[National Auto Racing Club \- No Limit](https://members.iracing.com/membersite/member/LeagueView.do?league=5331){:target="_blank"} |NARC No Limit 360 Sprints 24\.4 |North America |36 |3296 |Open |Lernerville Speedway |Sun, December 01 08:45PM EST |Mon, December 02 01:45AM GMT |Mon, December 02 12:45PM AEDT |
-|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI Sprintcar Allstar Series |Australia-NZ |30 |3002 | | | | | |
+|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI Sprintcar Allstar Series |Australia-NZ |30 |3002 | |Eldora Speedway |Sun, December 01 02:30AM EST |Sun, December 01 07:30AM GMT |Sun, December 01 06:30PM AEDT |
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |360 sprints |North America |29 |1748 |Fixed |Williams Grove Speedway |Sun, December 01 09:00PM EST |Mon, December 02 02:00AM GMT |Mon, December 02 01:00PM AEDT |
 |[Lightning League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11275){:target="_blank"} |LLR Season 1 |North America |19 |3105 |Fixed |Federated Auto Parts Raceway at I-55 |Sun, December 01 08:00PM EST |Mon, December 02 01:00AM GMT |Mon, December 02 12:00PM AEDT |
 |[Sprint Car Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5481){:target="_blank"} |Fall Winter 2024 360 Winged Sprints |North America |15 |2293 | |The Dirt Track at Charlotte |Mon, December 02 09:00PM EST |Tue, December 03 02:00AM GMT |Tue, December 03 01:00PM AEDT |
@@ -193,12 +195,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |UMP Modified Super Series 2024 |Australia-NZ |46 |2965 | |The Dirt Track at Charlotte |Fri, December 06 05:00AM EST |Fri, December 06 10:00AM GMT |Fri, December 06 09:00PM AEDT |
-|[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |UMP Mods |North America |38 |2839 | | | | | |
+|[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |UMP Mods |North America |38 |2839 | |Lucas Oil Speedway |Sun, December 01 08:30PM EST |Mon, December 02 01:30AM GMT |Mon, December 02 12:30PM AEDT |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |2024/2025 Winter UMP Modifieds |North America |31 |2299 |Fixed | | | | |
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |DMR 2024 |North America |28 |2776 |Fixed | | | | |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Great Lakes Speed Shop UMP Mods S2 |North America |18 |1788 | | | | | |
+|[B\-Main Motorsports Weekend League](https://members.iracing.com/membersite/member/LeagueView.do?league=4712){:target="_blank"} |B\-Main Modifieds |North America |17 |2170 |Open | | | | |
 |[WAKA WAKA \#FallBash2](https://members.iracing.com/membersite/member/LeagueView.do?league=10714){:target="_blank"} |Fall Bash 2 UMP |North America |17 |2580 | | | | | |
 |[The Peoples Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10083){:target="_blank"} |season 9 |North America |12 |1507 |Fixed |Kevin Harvick's Kern Raceway |Sun, December 01 06:00PM EST |Sun, December 01 11:00PM GMT |Mon, December 02 10:00AM AEDT |
 
@@ -228,6 +231,7 @@
 |[Pro Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8446){:target="_blank"} |PDRL S5 Capped |North America |22 |2534 | | | | | |
 |[SMGR DIRT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9805){:target="_blank"} |Season 2\! |North America |20 |2025 | | | | | |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |Monday BBM/SLM |North America |18 |2184 |Fixed | | | | |
+|[NORA Big Events](https://members.iracing.com/membersite/member/LeagueView.do?league=3238){:target="_blank"} |NORA Tulsa Shootout |North America |18 |2221 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |North America |17 |2180 |Open |Port Royal Speedway |Thu, December 05 01:30PM EST |Thu, December 05 06:30PM GMT |Fri, December 06 05:30AM AEDT |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |358 mod |North America |16 |1381 |Open |Eldora Speedway |Wed, December 04 09:00PM EST |Thu, December 05 02:00AM GMT |Thu, December 05 01:00PM AEDT |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |Wlnged Warrlors \- Dirt  |North America |15 |1369 |Open |Chili Bowl |Wed, December 04 08:00PM EST |Thu, December 05 01:00AM GMT |Thu, December 05 12:00PM AEDT |

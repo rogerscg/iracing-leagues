@@ -4,9 +4,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[358 Super Dirt Series Invite Only](https://members.iracing.com/membersite/member/LeagueView.do?league=11815){:target="_blank"} | |Top Tier Members\! |
 |[Autodromo Virtual \- FIA](https://members.iracing.com/membersite/member/LeagueView.do?league=11812){:target="_blank"} | |Campeonatos organizados por ACA eSports |
-|[Bridge City eRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11806){:target="_blank"} | | |
 |[CMR by MG Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11808){:target="_blank"} | |Campeonato Mexicano de Resistencia |
-|[G\.R Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11805){:target="_blank"} | |League race for G\.R Racing menbers |
 |[Liga de las Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=11816){:target="_blank"} | |https://sites\.google\.com/view/liga\-de\-las\-americas\-ir |
 |[MoM Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11814){:target="_blank"} |[Discord](https://discord.gg/4YJVKYhzHy){:target="_blank"} |This league is dedicated to Sarah and her fight against cancer\. Open to drivers of all skill levels, we focus on fun, community, and accessibility\. By often featuring free car and track combos, we ensure everyone can join in and have good fun racing for a good cause\. Races are broadcasted and commentated on twitch |
 |[NASCAR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11813){:target="_blank"} | |No requirements for ratings, this is a league where you can grow and get better, too much BS besides accidents will get you kicked\. AI will be in races until we have a full roster |
@@ -34,7 +32,7 @@
 |[Mealer Built Setups](https://members.iracing.com/membersite/member/LeagueView.do?league=11830){:target="_blank"} | | |
 |[Pace Setters Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11835){:target="_blank"} | |Pace Setters racing is a league for everyone\. Check us out\! |
 |[Preset Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11836){:target="_blank"} | |We will run Dirt, Arca, Trucks, Xfinity, And Cup |
-|[F1\-Onlineliga](https://members.iracing.com/membersite/member/LeagueView.do?league=11837){:target="_blank"} | | |
+|[F1\-Onlineliga Tourenwagen Meisterschaft](https://members.iracing.com/membersite/member/LeagueView.do?league=11837){:target="_blank"} | | |
 |[iCW Gaming Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11838){:target="_blank"} | |This league is specifically to be used ONLY for special events put on by the iCW Gaming Community\. |
 |[Goatfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=11839){:target="_blank"} | |Want to race with some of the best Goatco drivers while making a name for yourself? Well this is the series for that\! |
 |[gRiders](https://members.iracing.com/membersite/member/LeagueView.do?league=11841){:target="_blank"} | |friendly adults |
@@ -51,4 +49,7 @@
 |[SGP](https://members.iracing.com/membersite/member/LeagueView.do?league=11851){:target="_blank"} | |SGP Races |
 |[The Winter Beater Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11852){:target="_blank"} | |A series of unfortunate races in a car you'd rather leave in a snowbank |
 |[Track Masters Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11853){:target="_blank"} | |We are a track championship style league offering an authentic weekend racing experience\. |
+|[DLDesigns Dirt Street Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11856){:target="_blank"} | | |
+|[PRA Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11855){:target="_blank"} | |This league is for the special events that will be run by the Prodigy Racing Association |
+|[Evolution eMotorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11854){:target="_blank"} | |Evolution eMotorsports is a group of sim racing members who participate in official and league races\. |
 

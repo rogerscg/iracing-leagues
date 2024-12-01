@@ -19,7 +19,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
 |[eGP Hypercar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11255){:target="_blank"} |eGP Hypercar Championship \- Season 1 |Europe |30 |3081 | | | | | |
-|[Simaholics Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11487){:target="_blank"} |GTP Open \- Season 1 |North America |18 |1772 |Both |Silverstone Circuit |Mon, December 02 08:30PM EST |Tue, December 03 01:30AM GMT |Tue, December 03 12:30PM AEDT |
+|[Simaholics Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11487){:target="_blank"} |GTP \- Season 1 |North America |18 |1772 |Both |Silverstone Circuit |Mon, December 02 08:30PM EST |Tue, December 03 01:30AM GMT |Tue, December 03 12:30PM AEDT |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2024 Season 4 \- Session 2 |North America |16 |1658 | | | | | |
 
 ### Hosted All Cars Class

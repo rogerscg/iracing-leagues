@@ -142,7 +142,7 @@
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2024/4 |South America |44 |2966 | |Circuit de Spa-Francorchamps |Thu, December 05 06:25PM EST |Thu, December 05 11:25PM GMT |Fri, December 06 10:25AM AEDT |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/4 |South America |38 |1930 | |Circuit de Spa-Francorchamps |Thu, December 05 04:25PM EST |Thu, December 05 09:25PM GMT |Fri, December 06 08:25AM AEDT |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |35 |1478 |Both |Virginia International Raceway |Sun, December 01 06:30PM EST |Sun, December 01 11:30PM GMT |Mon, December 02 10:30AM AEDT |
-|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA GT3 |South America |31 |1765 | |WeatherTech Raceway at Laguna Seca |Sat, November 30 12:50PM EST |Sat, November 30 05:50PM GMT |Sun, December 01 04:50AM AEDT |
+|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA GT3 |South America |31 |1777 | |Circuit de Spa-Francorchamps |Sat, December 07 12:50PM EST |Sat, December 07 05:50PM GMT |Sun, December 08 04:50AM AEDT |
 |[GT Clash Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T4 |South America |27 |2790 | |WeatherTech Raceway at Laguna Seca |Tue, December 03 05:30PM EST |Tue, December 03 10:30PM GMT |Wed, December 04 09:30AM AEDT |
 
 ### Hosted All Cars Class
