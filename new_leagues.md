@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[ASR Tour Clash](https://members.iracing.com/membersite/member/LeagueView.do?league=11819){:target="_blank"} | | |
-|[Special Stage Off\-Road](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} | |Off\-Road racing |
 |[BMR Touring Car World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11823){:target="_blank"} |[Discord](https://discord.gg/6BYmWbHK){:target="_blank"} | |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |[Discord](https://discord.gg/SVfhYyEV){:target="_blank"} |Just some good old boys \.\.\. iRating of 3K and below, D class and up\.  Current Series:  Late Model |
 |[GA Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11822){:target="_blank"} | | |
@@ -49,4 +47,8 @@
 |[Beer League Buzzers League](https://members.iracing.com/membersite/member/LeagueView.do?league=11863){:target="_blank"} | |Keggin and Peggin time |
 |[Rinkly Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11860){:target="_blank"} | |Rinkly Racing is an East coast Australia based iRacing team for 50\+ Age group iRacers who are interested in a weekly League race and participating in selected iRacing team events\. Our league and team race timeslots will favour AEST\. While our team motto is: 'Have fun and Finish', we would like to improve year on year\. |
 |[Rising Phoenix Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11859){:target="_blank"} | |An oval racing league by a novice, for novices\. |
+|[Gr86 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11869){:target="_blank"} | | |
+|[Jack Ashton Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11866){:target="_blank"} | |MX5 league |
+|[Money No Talent](https://members.iracing.com/membersite/member/LeagueView.do?league=11867){:target="_blank"} | |MNT Cup Series Season 3 |
+|[WSL Winter Heat](https://members.iracing.com/membersite/member/LeagueView.do?league=11868){:target="_blank"} | | |
 
