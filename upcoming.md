@@ -42,12 +42,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Trucks Season 1 |Fixed |Kansas Speedway |Sat, December 07 08:00PM EST |Sun, December 08 01:00AM GMT |Sun, December 08 12:00PM AEDT |
 |[HVRL Trucks A](https://members.iracing.com/membersite/member/LeagueView.do?league=11637){:target="_blank"} |Season 1 | |Daytona International Speedway |Fri, December 06 08:00PM EST |Sat, December 07 01:00AM GMT |Sat, December 07 12:00PM AEDT |
 |[ProSim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=11114){:target="_blank"} |Season 1 | |Daytona International Speedway |Sun, December 08 08:30PM EST |Mon, December 09 01:30AM GMT |Mon, December 09 12:30PM AEDT |
 |[OGRL Thursday Thunder Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10243){:target="_blank"} |Season 6 Thunder Trucks |Fixed |Michigan International Speedway |Thu, December 05 07:00PM EST |Fri, December 06 12:00AM GMT |Fri, December 06 11:00AM AEDT |
-|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Truck Series \- Season 1 | |Nashville Superspeedway |Wed, December 04 07:45PM EST |Thu, December 05 12:45AM GMT |Thu, December 05 11:45AM AEDT |
 
 ### XFINITY Series
 
@@ -112,14 +111,6 @@
 |---------------------------------------------------------------------------------------------------------------------|-------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[GT Champions Open Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=11826){:target="_blank"} |SimRaceCity\.com F4 | |Virginia International Raceway |Sat, December 07 11:35AM EST |Sat, December 07 04:35PM GMT |Sun, December 08 03:35AM AEDT |
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------|-----|------------|----------------------------|----------------------------|-----------------------------|
-|[Moonshiners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5681){:target="_blank"} |Formula Series |Open |Road America |Wed, December 04 07:00PM EST |Thu, December 05 12:00AM GMT |Thu, December 05 11:00AM AEDT |
-
 # Sports Car
 
 ### GT4 Class
@@ -174,13 +165,13 @@
 
 # Dirt Oval
 
-### Dirt SprintCar - 360
+### Dirt Late Model - Super
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[JV Racing Simulations](https://members.iracing.com/membersite/member/LeagueView.do?league=10196){:target="_blank"} |Season 2 | |Cedar Lake Speedway |Wed, December 04 07:00PM EST |Thu, December 05 12:00AM GMT |Thu, December 05 11:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------|----------------------------|----------------------------|-----------------------------|
+|[Spring Madness Winter Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=11312){:target="_blank"} |2024\-2025 Winter Showdown | |Lucas Oil Speedway |Thu, December 12 08:00PM EST |Fri, December 13 01:00AM GMT |Fri, December 13 12:00PM AEDT |
 
 # Rallycross
 
