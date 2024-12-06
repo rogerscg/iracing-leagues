@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[GT Champions Open Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=11826){:target="_blank"} | |LIVE BROADCASTS\! GTChampions provides tournaments for sim racing drivers, from teams across the globe, of all skill levels\. Our mission is to provide events that challenge even the best of drivers, and allow teams to show off their talent on the track\. REGISTRATION IS ALWAYS REQUIRED\. Go to our website at www\.GTChampions\.com to register\. Visit our Discord at http://DiscordIR\.gtchampions\.com |
-|[LIGA FRS \- ENDURANCE](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} | | |
-|[New England 358 Modified](https://members.iracing.com/membersite/member/LeagueView.do?league=11828){:target="_blank"} | |clean fun monday nights |
-|[RCS Louisiana](https://members.iracing.com/membersite/member/LeagueView.do?league=11827){:target="_blank"} | |Training |
 |[Baraże: Porsche Esports Sprint Challenge Poland 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11834){:target="_blank"} | | |
 |[Formula Drivers League \(FDL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11833){:target="_blank"} | |The Formula Drivers League \(FDL\) is an Australian, formula car\-only, driver\-focused league that delivers clean, exciting racing for all skill levels on the iRacing platform\. |
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} | |Pro Am multiclass and GT3 racing |
@@ -51,4 +47,8 @@
 |[Pittrace iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11872){:target="_blank"} |[Discord](https://discord.gg/QFcQsYme){:target="_blank"} |Pittrace Tracknight Group |
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} | |SIMCO Hungarian Simulator League |
 |[the dirt series by the dirt racing podcast](https://members.iracing.com/membersite/member/LeagueView.do?league=11870){:target="_blank"} | |dirt racing |
+|[Hornet Racing FSAE League](https://members.iracing.com/membersite/member/LeagueView.do?league=11874){:target="_blank"} | |\-For Members of Hornet Racing FSAE |
+|[Thursday Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=11875){:target="_blank"} | |Short track Modifieds and Late Models |
+|[Sim Racers Group \- Thursday IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11877){:target="_blank"} | |Thursday Night IMSA |
+|[Valles Winter Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=11876){:target="_blank"} | |Only the strongest will survive |
 
