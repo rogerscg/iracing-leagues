@@ -34,9 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|---------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------|---------------|-----|---------------|----------------------------|----------------------------|-----------------------------|
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Trucks Season 1 |Fixed |Kansas Speedway |Sat, December 07 08:00PM EST |Sun, December 08 01:00AM GMT |Sun, December 08 12:00PM AEDT |
-|[HVRL Trucks A](https://members.iracing.com/membersite/member/LeagueView.do?league=11637){:target="_blank"} |Season 1 | |Daytona International Speedway |Fri, December 06 08:00PM EST |Sat, December 07 01:00AM GMT |Sat, December 07 12:00PM AEDT |
 
 ### XFINITY Series
 
@@ -48,6 +47,14 @@
 |[The EBAA Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9626){:target="_blank"} |Xfinity 2025 S1 Warmup Races | |Michigan International Speedway |Mon, December 09 07:30PM EST |Tue, December 10 12:30AM GMT |Tue, December 10 11:30AM AEDT |
 
 # Oval
+
+### Dirt Mini Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[1st Annual Santa MINI Hustle \(By DIRT DEVIL USA](https://members.iracing.com/membersite/member/LeagueView.do?league=11803){:target="_blank"} |SANTA'S MINI HUSTLE 100 | |Cedar Lake Speedway |Sat, December 14 05:00PM EST |Sat, December 14 10:00PM GMT |Sun, December 15 09:00AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -70,8 +77,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|--------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[SRCA Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10428){:target="_blank"} |Mini Stocks Season 1 |Fixed |Charlotte Motor Speedway |Fri, December 06 07:00PM EST |Sat, December 07 12:00AM GMT |Sat, December 07 11:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------|--------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
+|[STR Saturday Night Fun Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10447){:target="_blank"} |Season 2 | |Lanier National Speedway |Sat, December 14 09:30PM EST |Sun, December 15 02:30AM GMT |Sun, December 15 01:30PM AEDT |
 
 ### Street Stocks
 
@@ -116,14 +123,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PORSCHE CUP 2025\.1 |Both |Virginia International Raceway |Sat, December 07 08:00PM EST |Sun, December 08 01:00AM GMT |Sun, December 08 12:00PM AEDT |
-
-### Supercars - 2019
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Olivier iRacing League 🏁](https://members.iracing.com/membersite/member/LeagueView.do?league=10930){:target="_blank"} |Supercars Cup 🏁 | |WeatherTech Raceway at Laguna Seca |Fri, December 06 02:00PM EST |Fri, December 06 07:00PM GMT |Sat, December 07 06:00AM AEDT |
 
 # Prototype
 
@@ -170,9 +169,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |GT Sprint Series |Both |Long Beach Street Circuit |Fri, December 06 08:00PM EST |Sat, December 07 01:00AM GMT |Sat, December 07 12:00PM AEDT |
+|------------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Friday Night GT3 25s1 |Fixed |Daytona International Speedway |Fri, December 13 07:30PM EST |Sat, December 14 12:30AM GMT |Sat, December 14 11:30AM AEDT |
+|[RGR Racing League \(Road\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} |RGR Winter Heat GT3 | |Okayama International Circuit |Mon, December 09 08:00PM EST |Tue, December 10 01:00AM GMT |Tue, December 10 12:00PM AEDT |
 
 ### Hosted All Cars Class
 
