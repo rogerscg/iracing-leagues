@@ -1,11 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Baraże: Porsche Esports Sprint Challenge Poland 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11834){:target="_blank"} | | |
-|[Formula Drivers League \(FDL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11833){:target="_blank"} | |The Formula Drivers League \(FDL\) is an Australian, formula car\-only, driver\-focused league that delivers clean, exciting racing for all skill levels on the iRacing platform\. |
-|[Pace Setters Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11835){:target="_blank"} | |Pace Setters racing is a league for everyone\. Check us out\! |
-|[Preset Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11836){:target="_blank"} | |We will run Dirt, Arca, Trucks, Xfinity, And Cup |
+|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[F1\-Onlineliga Tourenwagen Meisterschaft](https://members.iracing.com/membersite/member/LeagueView.do?league=11837){:target="_blank"} | | |
 |[iCW Gaming Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11838){:target="_blank"} | |This league is specifically to be used ONLY for special events put on by the iCW Gaming Community\. |
 |[Goatfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=11839){:target="_blank"} | |Want to race with some of the best Goatco drivers while making a name for yourself? Well this is the series for that\! |
@@ -51,4 +47,5 @@
 |[Stearns Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11879){:target="_blank"} | | |
 |[T&T Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11878){:target="_blank"} | | |
 |[TRC iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11881){:target="_blank"} | |TRiATHLON |
+|[Southern Racing Network](https://members.iracing.com/membersite/member/LeagueView.do?league=11882){:target="_blank"} | | |
 
