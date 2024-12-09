@@ -26,9 +26,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 8 |Europe |63 |3309 | | | | | |
-|[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |7DRIVE Multiclass Cup |Europe |20 |1797 |Both | | | | |
+|[SRB LEAGUES \- RADICAL SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |RADICAL SUNDAYS |Europe |24 |1749 | | | | | |
+|[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |7DRIVE Multiclass Cup |Europe |20 |1797 |Both |Autodromo Internazionale del Mugello |Mon, December 16 01:00PM EST |Mon, December 16 06:00PM GMT |Tue, December 17 05:00AM AEDT |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Old School Prototype Challenge S1 |Europe |19 |1686 | |Circuit des 24 Heures du Mans |Fri, December 13 05:00PM EST |Fri, December 13 10:00PM GMT |Sat, December 14 09:00AM AEDT |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PROTOTYPE 2025\.1 |South America |16 |1485 |Both | | | | |
 
@@ -67,7 +68,7 @@
 |[Sim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |29 |1842 |Open | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2982 | | | | | |
 |[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |North America |19 |1665 |Fixed |Okayama International Circuit |Tue, December 10 11:00PM EST |Wed, December 11 04:00AM GMT |Wed, December 11 03:00PM AEDT |
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 1 |North America |17 |1170 |Fixed | | | | |
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 1 |North America |17 |1176 |Fixed | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2024 Q4 \- Tuesday night \- Radical SR8 |North America |17 |1033 |Open | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- Tuesday night \- Radical SR8 |North America |16 |1012 |Open |Autodromo Internazionale Enzo e Dino Ferrari |Tue, December 10 10:00PM EST |Wed, December 11 03:00AM GMT |Wed, December 11 02:00PM AEDT |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Carpy's Cup Season 2 |North America |12 |2005 | | | | | |
@@ -78,7 +79,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-----------------|----------------------------|----------------------------|-----------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |93 |2986 |Open |Oran Park Raceway |Sun, December 08 01:40PM EST |Sun, December 08 06:40PM GMT |Mon, December 09 05:40AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |95 |2983 |Open | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL SRF Season 1 |North America |28 |2251 |Open | | | | |
 

@@ -21,14 +21,6 @@
 |-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|------------------|----------------------------|----------------------------|-----------------------------|
 |[Racers Elite \- Monday/Friday \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10305){:target="_blank"} |Racers Elite \- Class Clash Series \(Fixed\) |Fixed |Auto Club Speedway |Mon, December 09 05:50PM EST |Mon, December 09 10:50PM GMT |Tue, December 10 09:50AM AEDT |
 
-### NASCAR 2022 NextGen
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Burn Rubber Racing \(BRR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4846){:target="_blank"} |Sunday 2024\-12 to 2025\-06 |Fixed |Daytona International Speedway |Sun, December 08 06:30PM EST |Sun, December 08 11:30PM GMT |Mon, December 09 10:30AM AEDT |
-
 ### NASCAR Cup
 
 [Back to Top](#)  
@@ -36,14 +28,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Association for Simulated Stock Car Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6106){:target="_blank"} |ASSCAR 2024 Season 9 \- Gen 6 Cup |Both |Michigan International Speedway |Tue, December 10 08:15PM EST |Wed, December 11 01:15AM GMT |Wed, December 11 12:15PM AEDT |
-
-### NASCAR Legends 1987
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|----------------------|----------------------------|----------------------------|-----------------------------|
-|[Florida's Short Trackers](https://members.iracing.com/membersite/member/LeagueView.do?league=10764){:target="_blank"} |Season 2: 100 Miles of Character | |Hickory Motor Speedway |Sun, December 08 08:28PM EST |Mon, December 09 01:28AM GMT |Mon, December 09 12:28PM AEDT |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 CUP SERIES SEASON 5 | |Las Vegas Motor Speedway |Mon, December 16 07:00PM EST |Tue, December 17 12:00AM GMT |Tue, December 17 11:00AM AEDT |
 
 ### NASCAR Truck Series
 
@@ -58,8 +43,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------|----------------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
 |[The EBAA Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9626){:target="_blank"} |Xfinity 2025 S1 Warmup Races | |Michigan International Speedway |Mon, December 09 07:30PM EST |Tue, December 10 12:30AM GMT |Tue, December 10 11:30AM AEDT |
+|[Hold Your Brakes Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11170){:target="_blank"} |Season 1 SuperSpeedways | |Daytona International Speedway |Mon, December 16 07:30PM EST |Tue, December 17 12:30AM GMT |Tue, December 17 11:30AM AEDT |
 
 # Oval
 
@@ -71,30 +57,13 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
 |[1st Annual Santa MINI Hustle \(By DIRT DEVIL USA](https://members.iracing.com/membersite/member/LeagueView.do?league=11803){:target="_blank"} |SANTA'S MINI HUSTLE 100 | |Cedar Lake Speedway |Sat, December 14 05:00PM EST |Sat, December 14 10:00PM GMT |Sun, December 15 09:00AM AEDT |
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[American Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=36){:target="_blank"} |2024 Winter Series \- Mini Stocks |Fixed |Charlotte Motor Speedway |Sun, December 08 07:00PM EST |Mon, December 09 12:00AM GMT |Mon, December 09 11:00AM AEDT |
-
 ### Late Model Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Lead Foot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11831){:target="_blank"} |Lead Foot Racing League LMSC Tour Season 1 |Fixed |Southern National Motorsports Park |Sun, December 08 07:00PM EST |Mon, December 09 12:00AM GMT |Mon, December 09 11:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Track Masters Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11853){:target="_blank"} |Track Masters Nashville Season 1 | |Nashville Fairgrounds Speedway |Wed, December 11 08:00PM EST |Thu, December 12 01:00AM GMT |Thu, December 12 12:00PM AEDT |
-
-### Legends
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|----------------------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[Pineapple Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11781){:target="_blank"} |eu\.NASCAR S2 \- Legends Cup |Fixed |Donington Park Racing Circuit |Sun, December 08 02:00PM EST |Sun, December 08 07:00PM GMT |Mon, December 09 06:00AM AEDT |
 
 ### Mini Stock
 
@@ -140,14 +109,6 @@
 |---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- Thursday night \- Formula F4's |Open |Daytona International Speedway |Thu, December 12 10:00PM EST |Fri, December 13 03:00AM GMT |Fri, December 13 02:00PM AEDT |
 
-### [Legacy] Dallara IR-05
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Classic Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1381){:target="_blank"} |Winter Series 2024/2025 |Open |[Legacy] Texas Motor Speedway - 2009 |Sun, December 08 12:00PM EST |Sun, December 08 05:00PM GMT |Mon, December 09 04:00AM AEDT |
-
 # Sports Car
 
 ### GT4 Class
@@ -163,20 +124,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Mayhem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5425){:target="_blank"} |603 Designs MX5 Mayhem |Both |Lime Rock Park |Tue, December 10 08:00PM EST |Wed, December 11 01:00AM GMT |Wed, December 11 12:00PM AEDT |
-|[Jack Ashton Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11866){:target="_blank"} |MX5 League | |Summit Point Raceway |Sun, December 08 07:00AM EST |Sun, December 08 12:00PM GMT |Sun, December 08 11:00PM AEDT |
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Mazda MX5 Cup |Open |WeatherTech Raceway at Laguna Seca |Sun, December 15 12:00PM EST |Sun, December 15 05:00PM GMT |Mon, December 16 04:00AM AEDT |
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Mazda MX5 Cup |Open |WeatherTech Raceway at Laguna Seca |Mon, December 16 12:00PM EST |Mon, December 16 05:00PM GMT |Tue, December 17 04:00AM AEDT |
 
-# Prototype
-
-### Hosted All Cars Class
+### Touring Car
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|---------------|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
-|[SRB LEAGUES \- RADICAL SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |RADICAL SUNDAYS | |Circuit de Spa-Francorchamps |Sun, December 08 01:50PM EST |Sun, December 08 06:50PM GMT |Mon, December 09 05:50AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------|-------|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC S13 |Open |Detroit Grand Prix at Belle Isle |Mon, December 16 07:00PM EST |Tue, December 17 12:00AM GMT |Tue, December 17 11:00AM AEDT |
+
+# Prototype
 
 ### Radical SR8
 
@@ -250,10 +210,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
-|[Sim Racers Anonymous](https://members.iracing.com/membersite/member/LeagueView.do?league=6574){:target="_blank"} |SRA Winter Series |Fixed |Irwindale Speedway |Sun, December 08 08:00PM EST |Mon, December 09 01:00AM GMT |Mon, December 09 12:00PM AEDT |
-|[American Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=36){:target="_blank"} |2024 Winter Series \- Street Stocks |Fixed |Charlotte Motor Speedway |Sun, December 08 07:35PM EST |Mon, December 09 12:35AM GMT |Mon, December 09 11:35AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-----|--------------|----------------------------|----------------------------|-----------------------------|
+|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |Season 2  iRPAS  International Racers Pro Am Series | |Road Atlanta |Sat, December 14 04:00PM EST |Sat, December 14 09:00PM GMT |Sun, December 15 08:00AM AEDT |
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |Street/Legends Week 13 | |Lime Rock Park |Mon, December 09 07:00PM EST |Tue, December 10 12:00AM GMT |Tue, December 10 11:00AM AEDT |
-|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Mid Season Break \(Audi 90 GTO vs Radical SR8\) |Both |Silverstone Circuit |Sun, December 08 02:30PM EST |Sun, December 08 07:30PM GMT |Mon, December 09 06:30AM AEDT |
-|[Thursday Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=11875){:target="_blank"} |Season 1\- North Wilkesboro |Open |North Wilkesboro Speedway |Sun, December 08 08:00PM EST |Mon, December 09 01:00AM GMT |Mon, December 09 12:00PM AEDT |
 

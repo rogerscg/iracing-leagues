@@ -1,6 +1,16 @@
 * TOC  
 {:toc}
 
+# Open-wheel
+
+### Ray FF1600
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Octane Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5704){:target="_blank"} |OOR iRacing \- Formula Ford 1600 \- \(S1 \- ASIA PACIFIC\) |Asia |22 |1763 |Both | | | | |
+
 # Sports Car
 
 ### Hosted All Cars Class
@@ -17,8 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|--------------------------|--------|-------|----|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |NOOR Racing Intro Cup 2024 |Asia |32 |1448 |Both |Charlotte Motor Speedway |Sun, December 08 12:45PM EST |Sun, December 08 05:45PM GMT |Mon, December 09 04:45AM AEDT |
+|----------------------------------------------------------------------------------------------------------|--------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |NOOR Racing Intro Cup 2024 |Asia |34 |1393 |Both | | | | |
 
 # Multi-class/Unclassified
 

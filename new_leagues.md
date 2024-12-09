@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[F1\-Onlineliga Tourenwagen Meisterschaft](https://members.iracing.com/membersite/member/LeagueView.do?league=11837){:target="_blank"} | | |
-|[iCW Gaming Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11838){:target="_blank"} | |This league is specifically to be used ONLY for special events put on by the iCW Gaming Community\. |
 |[Goatfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=11839){:target="_blank"} | |Want to race with some of the best Goatco drivers while making a name for yourself? Well this is the series for that\! |
 |[gRiders](https://members.iracing.com/membersite/member/LeagueView.do?league=11841){:target="_blank"} | |friendly adults |
 |[Superstar Racing League \- Gen 4](https://members.iracing.com/membersite/member/LeagueView.do?league=11840){:target="_blank"} | |We run thursday nights\. the premier series of the Superstar Racing League, if you are intersted in running on Thursdays with us\. You must be 2500 or higher IRating to run, if not default to our ARCA league \(110475\)\. |
@@ -48,4 +46,13 @@
 |[T&T Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11878){:target="_blank"} | | |
 |[TRC iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11881){:target="_blank"} | |TRiATHLON |
 |[Southern Racing Network](https://members.iracing.com/membersite/member/LeagueView.do?league=11882){:target="_blank"} | | |
+|[2025 Canadian F1200 eSports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11888){:target="_blank"} |[Discord](https://discord.gg/R4WgDfSg){:target="_blank"} |Formula Vee Fixed |
+|[Bitcoin Accelerated Motorsports \(BAM\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11887){:target="_blank"} | |Bitcoin & Blockchain Enthusiast League |
+|[\*\*\* Jeff](https://members.iracing.com/membersite/member/LeagueView.do?league=11886){:target="_blank"} | |jeff eat me |
+|[Mystic Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11884){:target="_blank"} | | |
+|[Nathan's For Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=11890){:target="_blank"} | | |
+|[Newbie Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11891){:target="_blank"} | |This is for just fun racing and friendly for Newbies |
+|[test league](https://members.iracing.com/membersite/member/LeagueView.do?league=11883){:target="_blank"} | | |
+|[Virtual Racing Obsession](https://members.iracing.com/membersite/member/LeagueView.do?league=11889){:target="_blank"} | | |
+|[Team I5G Community Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11885){:target="_blank"} | |Team I5G Community Races League |
 

@@ -138,10 +138,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2024/4 |South America |44 |3029 | | | | | |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |39 |1544 |Both |Sebring International Raceway |Sun, December 15 06:30PM EST |Sun, December 15 11:30PM GMT |Mon, December 16 10:30AM AEDT |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2024/4 |South America |38 |1954 | | | | | |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |37 |1521 |Both |[Legacy] Phoenix Raceway - 2008 |Sun, December 08 06:30PM EST |Sun, December 08 11:30PM GMT |Mon, December 09 10:30AM AEDT |
 |[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA GT3 |South America |31 |1770 | | | | | |
 |[GT Clash Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T4 |South America |27 |2880 | | | | | |
 
