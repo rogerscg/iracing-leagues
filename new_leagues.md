@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Goatfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=11839){:target="_blank"} | |Want to race with some of the best Goatco drivers while making a name for yourself? Well this is the series for that\! |
-|[gRiders](https://members.iracing.com/membersite/member/LeagueView.do?league=11841){:target="_blank"} | |friendly adults |
-|[Superstar Racing League \- Gen 4](https://members.iracing.com/membersite/member/LeagueView.do?league=11840){:target="_blank"} | |We run thursday nights\. the premier series of the Superstar Racing League, if you are intersted in running on Thursdays with us\. You must be 2500 or higher IRating to run, if not default to our ARCA league \(110475\)\. |
-|[ASTA \- Australian Supercars Tour of America](https://members.iracing.com/membersite/member/LeagueView.do?league=11842){:target="_blank"} | | |
 |[Aussie Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=11844){:target="_blank"} | |A Fun League For Racers In Australia |
 |[iRacers for a Cause](https://members.iracing.com/membersite/member/LeagueView.do?league=11843){:target="_blank"} |[Discord](https://discord.gg/kKQNSAhEeX){:target="_blank"} | |
 |[Slide Job City \(Rubbins Racin\) League Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=11845){:target="_blank"} |[Discord](https://discord.gg/2BfWZbQk){:target="_blank"} |pro 2 dirt track league all starts on green leader must run top or 2 lanes from have fun rubbin is racing we do allow bumping and moving people that are non stop issue and dumping people will be kicked |
@@ -55,4 +51,8 @@
 |[test league](https://members.iracing.com/membersite/member/LeagueView.do?league=11883){:target="_blank"} | | |
 |[Virtual Racing Obsession](https://members.iracing.com/membersite/member/LeagueView.do?league=11889){:target="_blank"} | | |
 |[Team I5G Community Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11885){:target="_blank"} | |Team I5G Community Races League |
+|[Denver Racing Social](https://members.iracing.com/membersite/member/LeagueView.do?league=11895){:target="_blank"} | |DRS Official Racing League |
+|[Metal Heads Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11892){:target="_blank"} | | |
+|[New England GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=11894){:target="_blank"} |[Discord](https://discord.gg/X5JTTGmf){:target="_blank"} |New England GR86 |
+|[Pinnacle Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11893){:target="_blank"} | |TBA |
 
