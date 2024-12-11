@@ -1,10 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Aussie Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=11844){:target="_blank"} | |A Fun League For Racers In Australia |
-|[iRacers for a Cause](https://members.iracing.com/membersite/member/LeagueView.do?league=11843){:target="_blank"} |[Discord](https://discord.gg/kKQNSAhEeX){:target="_blank"} | |
-|[Slide Job City \(Rubbins Racin\) League Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=11845){:target="_blank"} |[Discord](https://discord.gg/2BfWZbQk){:target="_blank"} |pro 2 dirt track league all starts on green leader must run top or 2 lanes from have fun rubbin is racing we do allow bumping and moving people that are non stop issue and dumping people will be kicked |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Maconi Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11847){:target="_blank"} | | |
 |[Ferrari HP Esports Series 2024 \- Backup](https://members.iracing.com/membersite/member/LeagueView.do?league=11846){:target="_blank"} | |backup league for FES 24 |
 |[358 mods](https://members.iracing.com/membersite/member/LeagueView.do?league=11849){:target="_blank"} | | |
@@ -55,4 +52,9 @@
 |[Metal Heads Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11892){:target="_blank"} | | |
 |[New England GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=11894){:target="_blank"} |[Discord](https://discord.gg/X5JTTGmf){:target="_blank"} |New England GR86 |
 |[Pinnacle Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11893){:target="_blank"} | |TBA |
+|[Codeman's Sprintcar Mania](https://members.iracing.com/membersite/member/LeagueView.do?league=11896){:target="_blank"} | |410 FIXED Sprintcar Event at I\-55 Live on Codeman Racing Facebook Page |
+|[European Racing Leaque](https://members.iracing.com/membersite/member/LeagueView.do?league=11898){:target="_blank"} |[Discord](https://discord.gg/xSh4xjWH){:target="_blank"} | |
+|[Kwik Stop League](https://members.iracing.com/membersite/member/LeagueView.do?league=11900){:target="_blank"} | |Join this league to become eligible to race in Kwik Stop hosted races\. |
+|[Smokahontas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11899){:target="_blank"} |[Discord](https://discord.gg/fzPDW7P5pE){:target="_blank"} | |
+|[VF Motorsport Driver Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11897){:target="_blank"} | |VF MDA |
 
