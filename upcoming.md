@@ -10,8 +10,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 CUP SERIES SEASON 5 | |Las Vegas Motor Speedway |Mon, December 16 07:00PM EST |Tue, December 17 12:00AM GMT |Tue, December 17 11:00AM AEDT |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 CUP SPEEDWAY SERIES SEASON 5 | |Michigan International Speedway |Thu, December 19 07:00PM EST |Fri, December 20 12:00AM GMT |Fri, December 20 11:00AM AEDT |
 
 ### NASCAR Truck Series
 
@@ -45,9 +46,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
 |[EPIC RACING ASSOCIATION \(ERA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9790){:target="_blank"} |ERA 2025 Winter Challenge Series | |Lanier National Speedway |Tue, December 17 08:00PM EST |Wed, December 18 01:00AM GMT |Wed, December 18 12:00PM AEDT |
-|[Track Masters Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11853){:target="_blank"} |Track Masters Nashville Season 1 | |Nashville Fairgrounds Speedway |Wed, December 11 08:00PM EST |Thu, December 12 01:00AM GMT |Thu, December 12 12:00PM AEDT |
 
 ### Mini Stock
 
@@ -66,14 +66,6 @@
 |-------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Full Throttle Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10782){:target="_blank"} |Winter Street Stock Championship 24/25 | |Nashville Fairgrounds Speedway |Sun, December 15 08:00PM EST |Mon, December 16 01:00AM GMT |Mon, December 16 12:00PM AEDT |
 
-### Super Late Model
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Back To The Roots |Both |South Boston Speedway |Wed, December 11 10:03PM EST |Thu, December 12 03:03AM GMT |Thu, December 12 02:03PM AEDT |
-
 # Open-wheel
 
 ### Dallara IR18
@@ -81,8 +73,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |Indy\-Nor Season \#7 |Both |Barber Motorsports Park |Wed, December 11 06:00PM EST |Wed, December 11 11:00PM GMT |Thu, December 12 10:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------------|----------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |INDYCAR Series \- Season\#07 |Both |Watkins Glen International |Tue, December 17 02:30PM EST |Tue, December 17 07:30PM GMT |Wed, December 18 06:30AM AEDT |
 
 ### FIA F4
@@ -102,7 +93,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Advanced Mazda MX\-5 Cup series |Both |Daytona International Speedway |Wed, December 18 11:15PM EST |Thu, December 19 04:15AM GMT |Thu, December 19 03:15PM AEDT |
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Mazda MX5 Cup |Open |Virginia International Raceway |Mon, December 16 12:00PM EST |Mon, December 16 05:00PM GMT |Tue, December 17 04:00AM AEDT |
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Mazda MX5 Cup |Open |Lime Rock Park |Mon, December 16 12:00PM EST |Mon, December 16 05:00PM GMT |Tue, December 17 04:00AM AEDT |
 
 ### Touring Car
 
@@ -113,14 +104,6 @@
 |[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC S13 |Open |Detroit Grand Prix at Belle Isle |Mon, December 16 07:00PM EST |Tue, December 17 12:00AM GMT |Tue, December 17 11:00AM AEDT |
 
 # Dirt Oval
-
-### Dirt 358 Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------|-----------------|-----|----------------|----------------------------|----------------------------|-----------------------------|
-|[Dirt Craze](https://members.iracing.com/membersite/member/LeagueView.do?league=11485){:target="_blank"} |Big Moneyy Racing | |Lincoln Speedway |Wed, December 11 06:30PM EST |Wed, December 11 11:30PM GMT |Thu, December 12 10:30AM AEDT |
 
 ### Dirt Late Model - Super
 

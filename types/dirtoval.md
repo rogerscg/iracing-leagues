@@ -11,13 +11,13 @@
 |-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[UnC 358 Super Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11450){:target="_blank"} |358 Super Dirt Series |North America |62 |2080 |Open | | | | |
 |[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |saison hiver 2024\-2025 |North America |54 |2506 | | | | | |
-|[DOB Dirt Week Small Block](https://members.iracing.com/membersite/member/LeagueView.do?league=3680){:target="_blank"} |2024 Small Block Dirt Week |North America |44 |2940 |Open | | | | |
+|[DOB 360 Nationals A&B server](https://members.iracing.com/membersite/member/LeagueView.do?league=3680){:target="_blank"} |2024 Small Block Dirt Week |North America |44 |2940 |Open | | | | |
 |[802 G Stone Motors 358 Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5978){:target="_blank"} |G Stone Motors 358 Series Season 3 |North America |43 |2414 | | | | | |
 |[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2024\-25 358 |North America |39 |1941 |Fixed | | | | |
-|[DOB Dirt Week Sportsman](https://members.iracing.com/membersite/member/LeagueView.do?league=3681){:target="_blank"} |2024 Dirt Week Sportsman |North America |35 |2744 |Fixed | | | | |
+|[DOB 360 Nationals C\-Main Server](https://members.iracing.com/membersite/member/LeagueView.do?league=3681){:target="_blank"} |2024 Dirt Week Sportsman |North America |35 |2744 |Fixed | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 358 Dirt Mods OPEN |North America |30 |2572 |Open | | | | |
 |[Remnant Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11395){:target="_blank"} |RRL Fall Series |North America |29 |2773 | | | | | |
-|[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |358 Winter Showdown Presented By  Outlaw Wraps and Designs |North America |25 |1775 |Fixed | | | | |
+|[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |358 Winter Showdown Presented By  Outlaw Wraps and Designs |North America |25 |1821 |Fixed | | | | |
 |[358 Super Dirt Series Invite Only](https://members.iracing.com/membersite/member/LeagueView.do?league=11815){:target="_blank"} |358 Super Dirt Series Inv Only |North America |20 |2425 | | | | | |
 |[Pit Row Creations Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11688){:target="_blank"} |PRC 358 Mods |North America |13 |1362 | | | | | |
 |[esr](https://members.iracing.com/membersite/member/LeagueView.do?league=10635){:target="_blank"} |c and l 358 |North America |10 |2179 |Open | | | | |
@@ -52,15 +52,14 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Pro Late Model All Stars Tour 2024 |Australia-NZ |61 |2554 | | | | | |
 |[Best of the Best Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10096){:target="_blank"} |2024 Best Of The Best Pro Series |North America |50 |2312 | | | | | |
 |[ASND Pro Late Model Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Hell Tour |Australia-NZ |50 |2873 | | | | | |
 |[ASND Pro Late Model Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Pro Late Model Spooker |Australia-NZ |44 |3334 | | | | | |
-|[HELL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=11698){:target="_blank"} |Cody Williams Design Hell Tour |North America |34 |2838 |Open | | | | |
+|[HELL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=11698){:target="_blank"} |Cody Williams Design Hell Tour |North America |36 |2853 |Open | | | | |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |2024/2025 Winter Pro Late Models |North America |29 |2354 |Fixed | | | | |
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |The Pro Lates Tour Presented By Right Rear Racing |North America |28 |2040 |Fixed | | | | |
 |[RuffNeck\-Dirt\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10990){:target="_blank"} |Ruff\-Neck Dirt Racing |North America |28 |1847 |Fixed | | | | |
-|[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Pro lates Winter series by Right Rear Racing |North America |23 |1801 |Fixed | | | | |
+|[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Pro lates Winter series by Right Rear Racing |North America |23 |1840 |Fixed | | | | |
 |[Thanksgiving Thunder \- Pro Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11754){:target="_blank"} |Thanksgiving Thunder \- Pro Late Models |North America |20 |3067 | | | | | |
 |[Instigator Winter Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11652){:target="_blank"} |Instigator Pro Late Series |North America |18 |1569 | | | | | |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Close Racing Supply Pro Late Models S1 |North America |18 |1789 | | | | | |
@@ -69,9 +68,9 @@
 |[B\-Main Motorsports Weekend League](https://members.iracing.com/membersite/member/LeagueView.do?league=4712){:target="_blank"} |B Main Pro lates 2025 |North America |15 |2153 |Open | | | | |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |dirt pro late model |North America |14 |1522 |Open | | | | |
 |[Merica Extreme Dirt and Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=11422){:target="_blank"} |Inaugural Pro Late Models |North America |13 |1459 | | | | | |
+|[Pit Row Creations Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11688){:target="_blank"} |PRC Pro Late Models |North America |13 |1505 | | | | | |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |Pro Dirt Late Models |North America |12 |1484 | | | | | |
 |[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Hometown Dirt Track season 2 |North America |12 |1784 |Both |Cedar Lake Speedway |Sun, December 15 08:00PM EST |Mon, December 16 01:00AM GMT |Mon, December 16 12:00PM AEDT |
-|[Pit Row Creations Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11688){:target="_blank"} |PRC Pro Late Models |North America |10 |1477 | | | | | |
 
 ### Dirt Late Model - Super
 
@@ -103,7 +102,7 @@
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |2024 S4 Narc Midgets |North America |43 |2932 |Open | | | | |
 |[MVP Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4039){:target="_blank"} |100% Slick Midget League |North America |24 |2781 | | | | | |
 |[NETCODE ESPORTS Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=8876){:target="_blank"} |3rd Annual Sim Wrap Market Mini Nationals presented by Victory Fuel |North America |22 |3162 | | | | | |
-|[Double K Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11742){:target="_blank"} |Double K Speedcar Series 2024 |Australia-NZ |17 |2057 | | | | | |
+|[Double K Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11742){:target="_blank"} |Double K Speedcar Series 2024 |Australia-NZ |18 |2114 | | | | | |
 |[RedDriver Mighty Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3159){:target="_blank"} |2024D |North America |15 |2757 |Fixed | | | | |
 
 ### Dirt Outlaw Micro Sprint Car - Winged
@@ -134,13 +133,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|------------------|----------------------------|----------------------------|-----------------------------|
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 360 Sprints Season 20 |North America |83 |3878 |Open | | | | |
 |[AcesUp Sim Sports Pro Series Sideshow](https://members.iracing.com/membersite/member/LeagueView.do?league=10746){:target="_blank"} |AcesUp Fall Frenzy 360 Sprint Cars |North America |59 |4220 | | | | | |
 |[Australian Super Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |360 Sprintcar Monday Nights Showdown 2024 |Australia-NZ |55 |3080 | |Eldora Speedway |Mon, December 16 05:00AM EST |Mon, December 16 10:00AM GMT |Mon, December 16 09:00PM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |North America |54 |2183 |Open | | | | |
 |[Reigel Promotions E\-Sports Central](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2024 360 Harvest Cup |North America |53 |3791 |Fixed | | | | |
-|[AcesUp Sim Sports Pro Series Sideshow](https://members.iracing.com/membersite/member/LeagueView.do?league=10746){:target="_blank"} |AcesUp 360 Pro Series Sideshow |North America |53 |4876 | |Federated Auto Parts Raceway at I-55 |Wed, December 11 09:00PM EST |Thu, December 12 02:00AM GMT |Thu, December 12 01:00PM AEDT |
+|[AcesUp Sim Sports Pro Series Sideshow](https://members.iracing.com/membersite/member/LeagueView.do?league=10746){:target="_blank"} |AcesUp 360 Pro Series Sideshow |North America |53 |4780 | |Knoxville Raceway |Wed, December 18 09:00PM EST |Thu, December 19 02:00AM GMT |Thu, December 19 01:00PM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |North America |45 |2719 |Open | | | | |
 |[DSRL Monday Night Thunder Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=101){:target="_blank"} |360 Sprints Season 25 |North America |45 |3271 |Both |Eldora Speedway |Mon, December 16 07:55PM EST |Tue, December 17 12:55AM GMT |Tue, December 17 11:55AM AEDT |
 |[National Auto Racing Club \- No Limit](https://members.iracing.com/membersite/member/LeagueView.do?league=5331){:target="_blank"} |NARC No Limit 360 Sprints 24\.4 |North America |39 |3225 |Open | | | | |
@@ -148,7 +147,7 @@
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |360 sprints |North America |31 |1770 |Fixed | | | | |
 |[Lightning League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11275){:target="_blank"} |LLR Season 1 |North America |19 |3105 |Fixed |Lucas Oil Speedway |Sun, December 15 08:00PM EST |Mon, December 16 01:00AM GMT |Mon, December 16 12:00PM AEDT |
 |[Sprint Car Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5481){:target="_blank"} |Fall Winter 2024 360 Winged Sprints |North America |15 |2262 | |Lincoln Speedway |Mon, December 16 09:00PM EST |Tue, December 17 02:00AM GMT |Tue, December 17 01:00PM AEDT |
-|[Race Chatter Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10392){:target="_blank"} |RCR 360 Season 3 |North America |13 |2797 |Both | | | | |
+|[Race Chatter Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10392){:target="_blank"} |RCR 360 Season 3 |North America |13 |2822 |Both | | | | |
 
 ### Dirt SprintCar - 360wingless
 
@@ -189,10 +188,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[DOB 360 Nationals Prelim \#2](https://members.iracing.com/membersite/member/LeagueView.do?league=2949){:target="_blank"} |2024 Pro Stock Dirt Week |North America |27 |2943 | | | | | |
-|[SRL \- Fortworth Screen Printing Dirt Street Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=8763){:target="_blank"} |Fortworth Screen Printing Dirt Street Stock Tour Season 3 |North America |25 |2275 | | | | | |
-|[Down South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11687){:target="_blank"} |DSRL |North America |22 |1687 | | | | | |
+|[Dirt Pro Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8763){:target="_blank"} |Fortworth Screen Printing Dirt Street Stock Tour Season 3 |North America |25 |2275 | | | | | |
+|[Down South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11687){:target="_blank"} |DSRL |North America |23 |1721 | | | | | |
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Street Stock Track Duels Presented By S and T Promotions |North America |21 |1836 |Fixed | | | | |
 |[RMRL Trouten Designs Dirt Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10831){:target="_blank"} |Rusty Misfits Dirt Street Stocks |North America |15 |1522 | | | | | |
 |[S I M H O U S E](https://members.iracing.com/membersite/member/LeagueView.do?league=3696){:target="_blank"} |Derby Madness |North America |10 |1602 | | | | | |

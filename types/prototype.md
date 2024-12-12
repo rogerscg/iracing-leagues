@@ -40,8 +40,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
-|[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |56 |2287 |Fixed |Circuit de Spa-Francorchamps |Wed, December 11 07:00PM EST |Thu, December 12 12:00AM GMT |Thu, December 12 11:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |60 |2284 |Fixed | | | | |
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |46 |None |Fixed | | | | |
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |North America |39 |1796 |Fixed | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |27 |2919 |Open | | | | |
@@ -54,10 +54,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D DFL Radical SR8 \- Bowens |Australia-NZ |97 |2451 |Both | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |56 |2280 |Open | | | | |
-|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |Torneo Radical SR8 |North America |41 |1871 | |Okayama International Circuit |Wed, December 11 08:30PM EST |Thu, December 12 01:30AM GMT |Thu, December 12 12:30PM AEDT |
+|[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |Torneo Radical SR8 |North America |42 |1910 | | | | | |
 |[Sim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |Season 3: Radical SR8 |North America |29 |1842 |Open | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2982 | | | | | |
 |[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |North America |19 |1662 |Fixed | | | | |
@@ -74,5 +74,5 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |95 |2983 |Open | | | | |
-|[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL SRF Season 1 |North America |28 |2251 |Open | | | | |
+|[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL SRF Season 1 |North America |38 |2251 |Open | | | | |
 

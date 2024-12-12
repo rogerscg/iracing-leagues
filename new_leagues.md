@@ -1,9 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Maconi Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11847){:target="_blank"} | | |
-|[Ferrari HP Esports Series 2024 \- Backup](https://members.iracing.com/membersite/member/LeagueView.do?league=11846){:target="_blank"} | |backup league for FES 24 |
+|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[358 mods](https://members.iracing.com/membersite/member/LeagueView.do?league=11849){:target="_blank"} | | |
 |[ASRG GT Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11848){:target="_blank"} | |GT3 Pro Invitational Endurance Championship |
 |[DRT4RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=11850){:target="_blank"} | |Porsche sixt Carrera Cup Deutschland 2024 nachfahren |
@@ -21,7 +19,7 @@
 |[USAE Community Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11862){:target="_blank"} | |Racing League for the Community Races hosted by USAE Community |
 |[Beer League Buzzers League](https://members.iracing.com/membersite/member/LeagueView.do?league=11863){:target="_blank"} | |Keggin and Peggin time |
 |[Rinkly Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11860){:target="_blank"} | |Rinkly Racing is an East coast Australia based iRacing team for 50\+ Age group iRacers who are interested in a weekly League race and participating in selected iRacing team events\. Our league and team race timeslots will favour AEST\. While our team motto is: 'Have fun and Finish', we would like to improve year on year\. |
-|[Rising Phoenix Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11859){:target="_blank"} | |An oval racing league by a novice, for novices\. |
+|[Rising Phoenix Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11859){:target="_blank"} | |An oval racing league by a novice, for novices\.   Join our Discord\!: https://discord\.gg/yJBn38zbRF |
 |[Gr86 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11869){:target="_blank"} | | |
 |[Jack Ashton Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11866){:target="_blank"} | |MX5 league |
 |[Money No Talent](https://members.iracing.com/membersite/member/LeagueView.do?league=11867){:target="_blank"} | |MNT Cup Series Season 3 |
@@ -54,7 +52,13 @@
 |[Pinnacle Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11893){:target="_blank"} | |TBA |
 |[Codeman's Sprintcar Mania](https://members.iracing.com/membersite/member/LeagueView.do?league=11896){:target="_blank"} | |410 FIXED Sprintcar Event at I\-55 Live on Codeman Racing Facebook Page |
 |[European Racing Leaque](https://members.iracing.com/membersite/member/LeagueView.do?league=11898){:target="_blank"} |[Discord](https://discord.gg/xSh4xjWH){:target="_blank"} | |
-|[Kwik Stop League](https://members.iracing.com/membersite/member/LeagueView.do?league=11900){:target="_blank"} | |Join this league to become eligible to race in Kwik Stop hosted races\. |
+|[Kwik Stop League](https://members.iracing.com/membersite/member/LeagueView.do?league=11900){:target="_blank"} | |Join this league to become eligible to join Kwik Stop hosted races\. |
 |[Smokahontas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11899){:target="_blank"} |[Discord](https://discord.gg/fzPDW7P5pE){:target="_blank"} | |
 |[VF Motorsport Driver Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11897){:target="_blank"} | |VF MDA |
+|[Campeonato Raccoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11906){:target="_blank"} | | |
+|[CKC Memorial Race](https://members.iracing.com/membersite/member/LeagueView.do?league=11905){:target="_blank"} |[Discord](https://discord.gg/gjbSMvW7FF){:target="_blank"} |Carroll Kenneth Carden Memorial Race is a 200 laps race where drivers will try and compete for $400 or more\. $3 entry fee \| Fixed Setup \| other info in discord if anyone is interested in joining |
+|[CrowdStrike Racing eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11902){:target="_blank"} | |CrowdStrike Racing eSports League   Join the excitement of virtual motorsports with the CrowdStrike Racing eSports League\. A community for CrowdStrike associates, their friends, family, and select invitees\.   Whether you're a seasoned sim racer or new to virtual motorsports, CRL offers a thrilling and inclusive environment to showcase your skills, improve your racing technique, and connect with like\-minded individuals in the CrowdStrike community\.   Strap in, fire up your simulator, and experience the adrenaline rush of competitive racing from the comfort of your home\. Join today and become part of our growing eSports racing family\! |
+|[JDR RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11901){:target="_blank"} | |GOOD RESPECT/DRIVERS/TIME IN THAT ORDER |
+|[Wheel Challenge Series \- Light \- Licence B](https://members.iracing.com/membersite/member/LeagueView.do?league=11904){:target="_blank"} | | |
+|[Wheel Challenge Series \- Sport \- Licence C](https://members.iracing.com/membersite/member/LeagueView.do?league=11903){:target="_blank"} | | |
 

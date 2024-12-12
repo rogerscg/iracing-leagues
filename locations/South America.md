@@ -67,8 +67,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC SuperFormula](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |F1BC SuperFormula 2024\-4 |South America |15 |2703 | |Hockenheimring Baden-Württemberg |Wed, December 11 06:25PM EST |Wed, December 11 11:25PM GMT |Thu, December 12 10:25AM AEDT |
+|---------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC SuperFormula](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |F1BC SuperFormula 2024\-4 |South America |15 |2718 | | | | | |
 
 # Sports Car
 
@@ -139,7 +139,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |109 |1853 | |Circuito de Navarra |Wed, December 11 05:00PM EST |Wed, December 11 10:00PM GMT |Thu, December 12 09:00AM AEDT |
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |115 |1877 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |46 |1972 | |Circuit Gilles Villeneuve |Thu, December 12 05:50PM EST |Thu, December 12 10:50PM GMT |Fri, December 13 09:50AM AEDT |
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2024/4 |South America |44 |3029 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |39 |1544 |Both |Sebring International Raceway |Sun, December 15 06:30PM EST |Sun, December 15 11:30PM GMT |Mon, December 16 10:30AM AEDT |
@@ -147,7 +147,7 @@
 |[Koreylandia](https://members.iracing.com/membersite/member/LeagueView.do?league=11613){:target="_blank"} |Primeira Temporada \- 4Fun Koreylandia |South America |32 |1552 | | | | | |
 |[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA GT3 |South America |31 |1770 | | | | | |
 |[GT Clash Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=3573){:target="_blank"} |2024 \- T4 |South America |27 |2880 | | | | | |
-|[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2024/4 |South America |26 |2090 | |Autodromo Nazionale Monza |Wed, December 11 04:10PM EST |Wed, December 11 09:10PM GMT |Thu, December 12 08:10AM AEDT |
+|[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2024/4 |South America |26 |2112 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP 2024 |South America |24 |1447 |Both | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |TREINO 2024 |South America |20 |1369 |Both | | | | |
 
