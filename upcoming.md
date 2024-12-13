@@ -5,6 +5,14 @@
 
 # NASCAR
 
+### NASCAR 2022 NextGen
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------|-----------------------------|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Stormy Nation Holiday Express |Fixed |Talladega Superspeedway |Fri, December 20 08:20PM EST |Sat, December 21 01:20AM GMT |Sat, December 21 12:20PM AEDT |
+
 ### NASCAR Cup
 
 [Back to Top](#)  
@@ -19,9 +27,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|----------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 TRUCK INTERMEDIATE SERIES SEASON 5 | |Atlanta Motor Speedway |Wed, December 18 07:00PM EST |Thu, December 19 12:00AM GMT |Thu, December 19 11:00AM AEDT |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 TRUCK SHORT SERIES SEASON 5 | |Dover Motor Speedway |Tue, December 17 07:00PM EST |Wed, December 18 12:00AM GMT |Wed, December 18 11:00AM AEDT |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 TRUCK SPEEDWAY SERIES SEASON 5 | |Daytona International Speedway |Fri, December 20 07:00PM EST |Sat, December 21 12:00AM GMT |Sat, December 21 11:00AM AEDT |
 
 ### XFINITY Series
 
@@ -76,13 +85,13 @@
 |--------------------------------------------------------------------------------------------------------------|----------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |INDYCAR Series \- Season\#07 |Both |Watkins Glen International |Tue, December 17 02:30PM EST |Tue, December 17 07:30PM GMT |Wed, December 18 06:30AM AEDT |
 
-### FIA F4
+### Lotus 79
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- Thursday night \- Formula F4's |Open |Daytona International Speedway |Thu, December 12 10:00PM EST |Fri, December 13 03:00AM GMT |Fri, December 13 02:00PM AEDT |
+|--------------------------------------------------------------------------------------------------------------|---------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 10 |Fixed |[Legacy] Phoenix Raceway - 2008 |Fri, December 20 07:00PM EST |Sat, December 21 12:00AM GMT |Sat, December 21 11:00AM AEDT |
 
 # Sports Car
 
@@ -110,8 +119,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
-|[Spring Madness Winter Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=11312){:target="_blank"} |2024\-2025 Winter Showdown | |Lucas Oil Speedway |Thu, December 12 08:00PM EST |Fri, December 13 01:00AM GMT |Fri, December 13 12:00PM AEDT |
+|-------------------------------------------------------------------------------------------------------|------------------------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
 |[PS Enduros](https://members.iracing.com/membersite/member/LeagueView.do?league=7139){:target="_blank"} |DS & TW Season 2 \(SLM\) |Fixed |The Dirt Track at Charlotte |Sun, December 15 09:00PM EST |Mon, December 16 02:00AM GMT |Mon, December 16 01:00PM AEDT |
 
 ### Dirt UMP Modified
@@ -129,16 +137,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------|----------------------------|----------------------------|-----------------------------|
 |[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 10 \- Tulsa Bowl 2024 | |Chili Bowl |Tue, December 17 09:00PM EST |Wed, December 18 02:00AM GMT |Wed, December 18 01:00PM AEDT |
-
-# Dirt Road
-
-### Pro 2 Lite Truck
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[Special Stage Off\-Road](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |P2L Season 1 | |Wild West Motorsports Park |Fri, December 13 08:20PM EST |Sat, December 14 01:20AM GMT |Sat, December 14 12:20PM AEDT |
 
 # Multi-class/Unclassified
 
