@@ -50,6 +50,14 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
 |[1st Annual Santa MINI Hustle \(By DIRT DEVIL USA](https://members.iracing.com/membersite/member/LeagueView.do?league=11803){:target="_blank"} |SANTA'S MINI HUSTLE 100 | |Cedar Lake Speedway |Sat, December 14 05:00PM EST |Sat, December 14 10:00PM GMT |Sun, December 15 09:00AM AEDT |
 
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 LM/SLM SERIES SEASON 5 | |Southern National Motorsports Park |Sat, December 21 07:00PM EST |Sun, December 22 12:00AM GMT |Sun, December 22 11:00AM AEDT |
+
 ### Late Model Stock
 
 [Back to Top](#)  
@@ -145,8 +153,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Friday Night GT3 25s1 |Fixed |Daytona International Speedway |Fri, December 13 07:30PM EST |Sat, December 14 12:30AM GMT |Sat, December 14 11:30AM AEDT |
+|---------------------------------------------------------------------------------------------------------------|------------------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |High Point Racing GT3 Season 4 |Both |Silverstone Circuit |Sun, December 15 08:00PM EST |Mon, December 16 01:00AM GMT |Mon, December 16 12:00PM AEDT |
 
 ### Hosted All Cars Class
 
@@ -154,7 +162,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |High Point Racing GT3 Season 4 |Both |Silverstone Circuit |Sun, December 15 08:00PM EST |Mon, December 16 01:00AM GMT |Mon, December 16 12:00PM AEDT |
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |Season 2  iRPAS  International Racers Pro Am Series | |Road Atlanta |Sat, December 14 03:30PM EST |Sat, December 14 08:30PM GMT |Sun, December 15 07:30AM AEDT |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Legends 1 Night |Open |USA International Speedway |Tue, December 17 03:15PM EST |Tue, December 17 08:15PM GMT |Wed, December 18 07:15AM AEDT |
 

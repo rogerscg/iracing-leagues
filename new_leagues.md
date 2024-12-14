@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[DRT4RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=11850){:target="_blank"} | |Porsche sixt Carrera Cup Deutschland 2024 nachfahren |
-|[Simracing\.GP](https://members.iracing.com/membersite/member/LeagueView.do?league=11851){:target="_blank"} | |The home of official SGP events on iRacing \- Coming soon |
-|[The Winter Beater Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11852){:target="_blank"} | |A series of unfortunate races in a car you'd rather leave in a snowbank |
-|[Track Masters Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11853){:target="_blank"} | |We are a track championship style league offering an authentic weekend racing experience\. |
 |[DLDesigns Dirt Street Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11856){:target="_blank"} | | |
 |[PRA Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11855){:target="_blank"} | |This league is for the special events that will be run by the Prodigy Racing Association |
 |[Evolution eMotorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11854){:target="_blank"} | |Evolution eMotorsports is a group of sim racing members who participate in official and league races\. |
@@ -49,7 +45,7 @@
 |[New England GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=11894){:target="_blank"} |[Discord](https://discord.gg/X5JTTGmf){:target="_blank"} |New England GR86 |
 |[Pinnacle Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11893){:target="_blank"} | |TBA |
 |[Codeman's Sprintcar Mania](https://members.iracing.com/membersite/member/LeagueView.do?league=11896){:target="_blank"} | |410 FIXED Sprintcar Event at I\-55 Live on Codeman Racing Facebook Page |
-|[European Racing Leaque](https://members.iracing.com/membersite/member/LeagueView.do?league=11898){:target="_blank"} |[Discord](https://discord.gg/xSh4xjWH){:target="_blank"} | |
+|[European Racing Leaque](https://members.iracing.com/membersite/member/LeagueView.do?league=11898){:target="_blank"} |[Discord](https://discord.gg/xSh4xjWH){:target="_blank"} |Join the European Racing League\!  Are you ready to experience the thrill of high\-speed racing? Sign up now for the first European Racing League, where we race GT3 cars every Wednesday evening\!  Event Details:  •	Day: Wednesday evenings starting from January 15e  •	Car Class: GT3  Don't miss out on the excitement and the chance to compete with the best\. Register today and be part of the action\!  Sign Up Now\!  Additionally, join our Discord channel to stay updated, connect with fellow racers, and get all the latest news and announcements\.  Join Our Discord Channel\! |
 |[Kwik Stop League](https://members.iracing.com/membersite/member/LeagueView.do?league=11900){:target="_blank"} | |Join this league to become eligible to join Kwik Stop hosted race sessions\. |
 |[Smokahontas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11899){:target="_blank"} |[Discord](https://discord.gg/fzPDW7P5pE){:target="_blank"} | |
 |[VF Motorsport Driver Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11897){:target="_blank"} | |VF MDA |
@@ -63,4 +59,10 @@
 |[Down South Racing Rookie League](https://members.iracing.com/membersite/member/LeagueView.do?league=11910){:target="_blank"} | | |
 |[SAUSAGE DODGERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11908){:target="_blank"} |[Discord](https://discord.gg/qphmw8vgBd){:target="_blank"} |THE HOME OF SAUSAGE RACING |
 |[Why Don't You Turn Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11909){:target="_blank"} | |GT3 / GT4 League  Race format is 30min open qualy, 20min race 1, 10min brake, 35min Race 2 \(grid inverted finish race 1\) |
+|[Cloud Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11915){:target="_blank"} |[Discord](https://discord.gg/UbJ4Vd2c){:target="_blank"} |"If you no longer go for a gap that exists, you're no longer a racing driver" |
+|[Copa Rockets Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=11913){:target="_blank"} | | |
+|[K&S Charity Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11914){:target="_blank"} | |We host monthly charity races with mixtures of different cars and track combos\. |
+|[Renault Clio League](https://members.iracing.com/membersite/member/LeagueView.do?league=11911){:target="_blank"} |[Discord](https://discord.gg/GYZ3j8znyd){:target="_blank"} |It's like Indiana Jones and the Great Circle but with the Renault Clio on iRacing |
+|[The Burberry Bois](https://members.iracing.com/membersite/member/LeagueView.do?league=11916){:target="_blank"} | |Tyler and Ryan AI league |
+|[Front Wing Damagers](https://members.iracing.com/membersite/member/LeagueView.do?league=11912){:target="_blank"} | | |
 
