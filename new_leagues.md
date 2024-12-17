@@ -2,18 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[DLDesigns Dirt Street Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11856){:target="_blank"} | | |
-|[PRA Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11855){:target="_blank"} | |This league is for the special events that will be run by the Prodigy Racing Association |
-|[Evolution eMotorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11854){:target="_blank"} | |Evolution eMotorsports is a group of sim racing members who participate in official and league races\. |
-|[New Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11858){:target="_blank"} | | |
-|[Scrappy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11857){:target="_blank"} | |Maritime based iracing League |
-|[ALPHA ONE RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11865){:target="_blank"} |[Discord](https://discord.gg/rAwxrqFGYN){:target="_blank"} |Racing League for all classes and Skill levels \[Discord Required\] |
-|[Black Car Mafia Busch Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11864){:target="_blank"} | |This series uses the Iracing "B" car to simulate the 1998 Busch Series\. We will run 14 full length races at select tracks that we ran in the 98 season\. We will use the points system that was used that season as well\. |
-|[Happy Endings Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11861){:target="_blank"} | | |
-|[USAE Community Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11862){:target="_blank"} | |Racing League for the Community Races hosted by USAE Community |
-|[Beer League Buzzers League](https://members.iracing.com/membersite/member/LeagueView.do?league=11863){:target="_blank"} | |Keggin and Peggin time |
-|[Rinkly Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11860){:target="_blank"} | |Rinkly Racing is an East coast Australia based iRacing team for 50\+ Age group iRacers who are interested in a weekly League race and participating in selected iRacing team events\. Our league and team race timeslots will favour AEST\. While our team motto is: 'Have fun and Finish', we would like to improve year on year\. |
-|[Rising Phoenix Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11859){:target="_blank"} | |An oval racing league by a novice, for novices\.   Join our Discord\!: https://discord\.gg/yJBn38zbRF |
 |[Gr86 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11869){:target="_blank"} | | |
 |[Jack Ashton Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11866){:target="_blank"} | |MX5 league |
 |[Money No Talent](https://members.iracing.com/membersite/member/LeagueView.do?league=11867){:target="_blank"} | |MNT Cup Series Season 3 |
@@ -65,4 +53,21 @@
 |[Renault Clio League](https://members.iracing.com/membersite/member/LeagueView.do?league=11911){:target="_blank"} |[Discord](https://discord.gg/GYZ3j8znyd){:target="_blank"} |It's like Indiana Jones and the Great Circle but with the Renault Clio on iRacing |
 |[The Burberry Bois](https://members.iracing.com/membersite/member/LeagueView.do?league=11916){:target="_blank"} | |Tyler and Ryan AI league |
 |[Front Wing Damagers](https://members.iracing.com/membersite/member/LeagueView.do?league=11912){:target="_blank"} | | |
+|[2024 Save The Freedom 100](https://members.iracing.com/membersite/member/LeagueView.do?league=11922){:target="_blank"} | |For operating everyone's favorite tribute race, the 5th Annual Save The Freedom 100\.   Follow us on Twitter / X @SaveFreedom100 |
+|[B\-Main Bandits](https://members.iracing.com/membersite/member/LeagueView.do?league=11921){:target="_blank"} | |358/Pros |
+|[B/C Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11932){:target="_blank"} | | |
+|[BMW M2 CS](https://members.iracing.com/membersite/member/LeagueView.do?league=11919){:target="_blank"} | |League for learning to race clean but also pursuing getting faster\. We use the new BMW M2 car and beginner tracks\. |
+|[Bottom Feeder Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=11928){:target="_blank"} | | |
+|[Dirt Storm](https://members.iracing.com/membersite/member/LeagueView.do?league=11933){:target="_blank"} | |Dirt Oval Racing |
+|[Keith Thomas Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11923){:target="_blank"} | |Arca at Iowa \(Fixed Setup\) |
+|[Masters of Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=11917){:target="_blank"} | |VSR és SNS közös szervezésében |
+|[Midwest Modified League](https://members.iracing.com/membersite/member/LeagueView.do?league=11918){:target="_blank"} | |Free wrap for whatever dirt car you want if you win\. Accepting all applications\. Race clean or you will be kicked\. |
+|[MSS Esports National Championship 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11926){:target="_blank"} | |MSS Esports National Championship 2024 |
+|[Nascar Québec Amateur](https://members.iracing.com/membersite/member/LeagueView.do?league=11929){:target="_blank"} | |Ligue Nascar Québécoise Amateur en Oval\. |
+|[Road to Pro Series Prep](https://members.iracing.com/membersite/member/LeagueView.do?league=11925){:target="_blank"} | |If you're looking for somewhere to practice for the upcoming eNascar road to pro series this is the place for you |
+|[Wills A T](https://members.iracing.com/membersite/member/LeagueView.do?league=11931){:target="_blank"} | |mine |
+|[BKM](https://members.iracing.com/membersite/member/LeagueView.do?league=11924){:target="_blank"} | |BKM |
+|[DFA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11927){:target="_blank"} | | |
+|[RSS Weekly Time Trials](https://members.iracing.com/membersite/member/LeagueView.do?league=11920){:target="_blank"} | | |
+|[Turn One Terrorists](https://members.iracing.com/membersite/member/LeagueView.do?league=11930){:target="_blank"} | |Chill Monday night league for the homies\. |
 
