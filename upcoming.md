@@ -28,7 +28,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 TRUCK INTERMEDIATE SERIES SEASON 5 | |Atlanta Motor Speedway |Wed, December 18 07:00PM EST |Thu, December 19 12:00AM GMT |Thu, December 19 11:00AM AEDT |
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 TRUCK SHORT SERIES SEASON 5 | |Dover Motor Speedway |Tue, December 17 07:00PM EST |Wed, December 18 12:00AM GMT |Wed, December 18 11:00AM AEDT |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 TRUCK SPEEDWAY SERIES SEASON 5 | |Daytona International Speedway |Fri, December 20 07:00PM EST |Sat, December 21 12:00AM GMT |Sat, December 21 11:00AM AEDT |
 
 # Oval
@@ -41,23 +40,7 @@
 |----------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 LM/SLM SERIES SEASON 5 | |Southern National Motorsports Park |Sat, December 21 07:00PM EST |Sun, December 22 12:00AM GMT |Sun, December 22 11:00AM AEDT |
 
-### Late Model Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
-|[EPIC RACING ASSOCIATION \(ERA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9790){:target="_blank"} |ERA 2025 Winter Challenge Series | |Lanier National Speedway |Tue, December 17 08:00PM EST |Wed, December 18 01:00AM GMT |Wed, December 18 12:00PM AEDT |
-
 # Open-wheel
-
-### Dallara IR18
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|----------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |INDYCAR Series \- Season\#07 |Both |Watkins Glen International |Tue, December 17 02:30PM EST |Tue, December 17 07:30PM GMT |Wed, December 18 06:30AM AEDT |
 
 ### Lotus 49
 
@@ -85,16 +68,6 @@
 |----------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Advanced Mazda MX\-5 Cup series |Both |Daytona International Speedway |Wed, December 18 11:15PM EST |Thu, December 19 04:15AM GMT |Thu, December 19 03:15PM AEDT |
 
-# Dirt Oval
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------|----------------------------|----------------------------|-----------------------------|
-|[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 10 \- Tulsa Bowl 2024 | |Chili Bowl |Tue, December 17 09:00PM EST |Wed, December 18 02:00AM GMT |Wed, December 18 01:00PM AEDT |
-
 # Multi-class/Unclassified
 
 ### Hosted All Cars Class
@@ -106,6 +79,5 @@
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EVENTOS ESPECIAIS |Both |Autodromo Nazionale Monza |Sun, December 22 07:00PM EST |Mon, December 23 12:00AM GMT |Mon, December 23 11:00AM AEDT |
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |Season 2  iRPAS  International Racers Pro Am Series | |Long Beach Street Circuit |Sat, December 21 03:30PM EST |Sat, December 21 08:30PM GMT |Sun, December 22 07:30AM AEDT |
 |[whynotp1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11039){:target="_blank"} |2025 S1 |Open |Virginia International Raceway |Sun, December 22 01:15PM EST |Sun, December 22 06:15PM GMT |Mon, December 23 05:15AM AEDT |
-|[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Legends 1 Night |Open |USA International Speedway |Tue, December 17 03:15PM EST |Tue, December 17 08:15PM GMT |Wed, December 18 07:15AM AEDT |
 |[Nulbier League](https://members.iracing.com/membersite/member/LeagueView.do?league=8623){:target="_blank"} |Kerst met de Nulvier fam | |Circuit Zandvoort |Mon, December 23 01:30PM EST |Mon, December 23 06:30PM GMT |Tue, December 24 05:30AM AEDT |
 

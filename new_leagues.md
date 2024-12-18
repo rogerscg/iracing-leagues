@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Gr86 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11869){:target="_blank"} | | |
-|[Jack Ashton Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11866){:target="_blank"} | |MX5 league |
-|[Money No Talent](https://members.iracing.com/membersite/member/LeagueView.do?league=11867){:target="_blank"} | |MNT Cup Series Season 3 |
-|[WSL Winter Heat](https://members.iracing.com/membersite/member/LeagueView.do?league=11868){:target="_blank"} | | |
 |[Labease](https://members.iracing.com/membersite/member/LeagueView.do?league=11873){:target="_blank"} | |Fun |
 |[Pittrace iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11872){:target="_blank"} |[Discord](https://discord.gg/QFcQsYme){:target="_blank"} |Pittrace Tracknight Group |
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} | |SIMCO Hungarian Simulator League |
@@ -70,4 +66,10 @@
 |[DFA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11927){:target="_blank"} | | |
 |[RSS Weekly Time Trials](https://members.iracing.com/membersite/member/LeagueView.do?league=11920){:target="_blank"} | | |
 |[Turn One Terrorists](https://members.iracing.com/membersite/member/LeagueView.do?league=11930){:target="_blank"} | |Chill Monday night league for the homies\. |
+|[ACE Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |[Discord](https://discord.gg/4p8bqFQX){:target="_blank"} |Short Track Pavement Racing on Monday Nights with Double Features\! The races will always be a full field, if we do not have enough real drivers, the field will be filled with AI\!  Join our discord\! |
+|[Bolt TP IROC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11937){:target="_blank"} | | |
+|[Casual Sim Racers League](https://members.iracing.com/membersite/member/LeagueView.do?league=11934){:target="_blank"} |[Discord](https://discord.gg/y27huzYb6K){:target="_blank"} |Hey everyone\! Welcome to the Casual Sim Racers League\! This is a no pressure environment for racers to get together each week and unwind from their day, turn some laps, learn the cars and tracks, and build a great community that we all look forward to getting on track with\. We are not here to be super competitive, and risk crashing each other racing inches apart trading paint in an all out war for each position\. If you are super competitive then this is not the league for you\. Join our discord to apply https://discord\.gg/y27huzYb6K |
+|[Integrity Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11935){:target="_blank"} | | |
+|[Pilotos SimRacing Mexico](https://members.iracing.com/membersite/member/LeagueView.do?league=11936){:target="_blank"} | |Liga creada para Eventos ENDURANCE Exclusivamente  BFR eSports \| AW Series \| SRS Series \| CLN Series |
+|[UDRL Pro Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11939){:target="_blank"} | | |
 
