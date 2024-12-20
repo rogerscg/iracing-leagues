@@ -2,14 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Labease](https://members.iracing.com/membersite/member/LeagueView.do?league=11873){:target="_blank"} | |Fun |
-|[Pittrace iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11872){:target="_blank"} |[Discord](https://discord.gg/QFcQsYme){:target="_blank"} |Pittrace Tracknight Group |
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} | |SIMCO Hungarian Simulator League |
-|[the dirt series by the dirt racing podcast](https://members.iracing.com/membersite/member/LeagueView.do?league=11870){:target="_blank"} | |dirt racing |
-|[Hornet Racing FSAE League](https://members.iracing.com/membersite/member/LeagueView.do?league=11874){:target="_blank"} | |\-For Members of Hornet Racing FSAE |
-|[Thursday Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=11875){:target="_blank"} | |Short track Modifieds and Late Models |
-|[Sim Racers Group \- Thursday IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11877){:target="_blank"} | |Thursday Night IMSA |
-|[Valles Winter Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=11876){:target="_blank"} | |Only the strongest will survive |
 |[Lapped Car Motorsports Screwin Around](https://members.iracing.com/membersite/member/LeagueView.do?league=11880){:target="_blank"} | |Just da bros |
 |[Stearns Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11879){:target="_blank"} | | |
 |[T&T Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11878){:target="_blank"} | | |
@@ -66,10 +58,24 @@
 |[DFA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11927){:target="_blank"} | | |
 |[RSS Weekly Time Trials](https://members.iracing.com/membersite/member/LeagueView.do?league=11920){:target="_blank"} | | |
 |[Turn One Terrorists](https://members.iracing.com/membersite/member/LeagueView.do?league=11930){:target="_blank"} | |Chill Monday night league for the homies\. |
-|[ACE Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |[Discord](https://discord.gg/4p8bqFQX){:target="_blank"} |Short Track Pavement Racing on Monday Nights with Double Features\! The races will always be a full field, if we do not have enough real drivers, the field will be filled with AI\!  Join our discord\! |
+|[ACE Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |[Discord](https://discord.gg/4p8bqFQX){:target="_blank"} |Short Track Pavement Racing on Monday Nights with Double Features\! The races will always be a full field, if we do not have enough real drivers, the field will be filled with AI\! Divisions include Mini Stocks, Street Stocks, Late Model Stock, Super Late Model, Midwest Truck Series \(Nascar Trucks\) and Figure 8s\!  https://discord\.gg/4p8bqFQX  Join our discord\! |
 |[Bolt TP IROC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11937){:target="_blank"} | | |
-|[Casual Sim Racers League](https://members.iracing.com/membersite/member/LeagueView.do?league=11934){:target="_blank"} |[Discord](https://discord.gg/y27huzYb6K){:target="_blank"} |Hey everyone\! Welcome to the Casual Sim Racers League\! This is a no pressure environment for racers to get together each week and unwind from their day, turn some laps, learn the cars and tracks, and build a great community that we all look forward to getting on track with\. We are not here to be super competitive, and risk crashing each other racing inches apart trading paint in an all out war for each position\. If you are super competitive then this is not the league for you\. Join our discord to apply https://discord\.gg/y27huzYb6K |
+|[Casual Sim Racers League \- M2 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11934){:target="_blank"} |[Discord](https://discord.gg/y27huzYb6K){:target="_blank"} |Hey everyone\! Welcome to the Casual Sim Racers League\! This is a no pressure environment for racers to get together each week and unwind from their day, turn some laps, learn the cars and tracks, and build a great community that we all look forward to getting on track with\. We are not here to be super competitive, and risk crashing each other racing inches apart trading paint in an all out war for each position\. If you are super competitive then this is not the league for you\. Join our discord to apply https://discord\.gg/y27huzYb6K |
 |[Integrity Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11935){:target="_blank"} | | |
-|[Pilotos SimRacing Mexico](https://members.iracing.com/membersite/member/LeagueView.do?league=11936){:target="_blank"} | |Liga creada para Eventos ENDURANCE Exclusivamente  BFR eSports \| AW Series \| SRS Series \| CLN Series |
+|[Club Sim Racing Mexico](https://members.iracing.com/membersite/member/LeagueView.do?league=11936){:target="_blank"} | |Liga creada para Eventos ENDURANCE Exclusivamente  BFR eSports \| AW Series \| SRS Series \| CLN Series |
 |[UDRL Pro Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11939){:target="_blank"} | | |
+|[358 Modified Mayhem Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |[Discord](https://discord.gg/Unqux7Fu){:target="_blank"} |358 Modified Mayhem Tour\. Racing on Saturday nights at 9pm ET, starting on 2/8/2025\. 16 race schedule\. Fixed Setup |
+|[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=11951){:target="_blank"} | |Dirt Midget League \(DML\) \- Everything Midgets\! Slide or die yet rules still apply\! |
+|[Iracing Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11950){:target="_blank"} | | |
+|[NASCAR VS](https://members.iracing.com/membersite/member/LeagueView.do?league=11953){:target="_blank"} |[Discord](https://discord.gg/EAQvnPXqbr){:target="_blank"} |Multi Class NASCAR Racing |
+|[Québec Formule 1600](https://members.iracing.com/membersite/member/LeagueView.do?league=11949){:target="_blank"} | |Pour le fun |
+|[Rosalina's Stars](https://members.iracing.com/membersite/member/LeagueView.do?league=11942){:target="_blank"} | | |
+|[Savage Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=11944){:target="_blank"} |[Discord](https://discord.gg/fB4wUbqfDU){:target="_blank"} |Savage Sim Racing community's inaugural league\. |
+|[Sim\-Race Simps](https://members.iracing.com/membersite/member/LeagueView.do?league=11948){:target="_blank"} | |Endurance Race Training |
+|[SOFLO](https://members.iracing.com/membersite/member/LeagueView.do?league=11946){:target="_blank"} | |fun times |
+|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} | |Dirt and Asphalt League |
+|[Cadohsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11945){:target="_blank"} | | |
+|[PESCP 2024 \- Baraże](https://members.iracing.com/membersite/member/LeagueView.do?league=11941){:target="_blank"} | | |
+|[Speakeasy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11940){:target="_blank"} | |Members Only / Invite Only |
+|[Tuners, Hackers, and Hillbillies](https://members.iracing.com/membersite/member/LeagueView.do?league=11943){:target="_blank"} | | |
 

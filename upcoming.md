@@ -5,6 +5,14 @@
 
 # NASCAR
 
+### ARCA Series
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Australian Virtual Stockcars](https://members.iracing.com/membersite/member/LeagueView.do?league=11641){:target="_blank"} |Annual Australian Virtual Stockcars Beach Clash | |Daytona International Speedway |Fri, December 27 04:00AM EST |Fri, December 27 09:00AM GMT |Fri, December 27 08:00PM AEDT |
+
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
@@ -13,21 +21,12 @@
 |-----------------------------------------------------------------------------------------------------------|-----------------------------|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Stormy Nation Holiday Express |Fixed |Talladega Superspeedway |Fri, December 20 08:20PM EST |Sat, December 21 01:20AM GMT |Sat, December 21 12:20PM AEDT |
 
-### NASCAR Cup
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 CUP SPEEDWAY SERIES SEASON 5 | |Michigan International Speedway |Thu, December 19 07:00PM EST |Fri, December 20 12:00AM GMT |Fri, December 20 11:00AM AEDT |
-
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 TRUCK INTERMEDIATE SERIES SEASON 5 | |Atlanta Motor Speedway |Wed, December 18 07:00PM EST |Thu, December 19 12:00AM GMT |Thu, December 19 11:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 TRUCK SPEEDWAY SERIES SEASON 5 | |Daytona International Speedway |Fri, December 20 07:00PM EST |Sat, December 21 12:00AM GMT |Sat, December 21 11:00AM AEDT |
 
 # Oval
@@ -57,16 +56,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|---------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 10 |Fixed |[Legacy] Phoenix Raceway - 2008 |Fri, December 20 07:00PM EST |Sat, December 21 12:00AM GMT |Sat, December 21 11:00AM AEDT |
-
-# Sports Car
-
-### Mazda MX-5 Cup 2016
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Advanced Mazda MX\-5 Cup series |Both |Daytona International Speedway |Wed, December 18 11:15PM EST |Thu, December 19 04:15AM GMT |Thu, December 19 03:15PM AEDT |
 
 # Multi-class/Unclassified
 
