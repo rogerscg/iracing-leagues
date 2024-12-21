@@ -9,6 +9,8 @@ Got any questions? Feel free to message the creator on GitHub, iRacing, or Reddi
 
 ## [Click here to perform an advanced search](search)
 
+Search through all active leagues based on specific criteria like cars, weekdays, times, and SoF.
+
 ## [Click Here for Directory](directory)
 
 All active leagues of more than 10 drivers. Almost 1,000 leagues to choose from.
