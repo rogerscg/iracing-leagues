@@ -18,7 +18,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-------|----|-----|---------------------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
 |[CiL Formula C](https://members.iracing.com/membersite/member/LeagueView.do?league=8830){:target="_blank"} |Formula College Season 5 \-\- CiL Season 11 |North America |56 |1893 |Fixed | | | | |
 |[SRL \- SIDECAR](https://members.iracing.com/membersite/member/LeagueView.do?league=6120){:target="_blank"} |Season 4 |North America |45 |1920 | | | | | |
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |INDYCAR Series \- Season\#07 |Europe |43 |1876 |Both |Long Beach Street Circuit |Thu, December 26 02:30PM EST |Thu, December 26 07:30PM GMT |Fri, December 27 06:30AM AEDT |
@@ -56,7 +56,7 @@
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |Indy\-Nor Season \#7 |North America |12 |1066 |Both | | | | |
 |[Burnt Rubber Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11279){:target="_blank"} |BRRA Indycar Season 1 |North America |11 |921 |Fixed | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCars November 2024 Championship |North America |11 |1514 | | | | | |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCars December 2024 Championship |North America |10 |1472 | |World Wide Technology Raceway (Gateway) |Sat, December 21 11:00AM EST |Sat, December 21 04:00PM GMT |Sun, December 22 03:00AM AEDT |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCars December 2024 Championship |North America |11 |1563 | |iRacing Superspeedway |Sat, December 28 11:00AM EST |Sat, December 28 04:00PM GMT |Sun, December 29 03:00AM AEDT |
 
 ### FIA F4
 
@@ -70,7 +70,7 @@
 |[CBA](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2024\-2 \- Campeonato Brasileiro F4 |South America |56 |3132 | | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S3 F4 Cup Challenge |North America |51 |1826 |Both | | | | |
 |[Autodromo Virtual \- FIA](https://members.iracing.com/membersite/member/LeagueView.do?league=11812){:target="_blank"} |2024 \- PRECLASIFICACION \- SERVER 1 |North America |46 |None | | | | | |
-|[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |ESPORTS UKRAINIAN F4 CHAMPIONSHIP |Europe |42 |1745 |Both |Tsukuba Circuit |Sat, December 21 01:00PM EST |Sat, December 21 06:00PM GMT |Sun, December 22 05:00AM AEDT |
+|[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |ESPORTS UKRAINIAN F4 CHAMPIONSHIP |Europe |42 |1734 |Both | | | | |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Saison 9 |Europe |41 |2518 |Both | | | | |
 |[Autodromo Virtual \- FIA](https://members.iracing.com/membersite/member/LeagueView.do?league=11812){:target="_blank"} |2024 \- CAMPEONATO PRESENTACION \- FIA F4 \- ACA |North America |41 |2949 | | | | | |
 |[Sim Racers Group Wednesday Intermediate](https://members.iracing.com/membersite/member/LeagueView.do?league=11451){:target="_blank"} |2024 S4\- Standard Mixed |North America |37 |1508 |Fixed | | | | |
@@ -80,10 +80,10 @@
 |[British F4 Esports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9004){:target="_blank"} |2024 British F4 Esports Championship |Europe |35 |5415 | | | | | |
 |[La Broca x LDFR British Formula 4](https://members.iracing.com/membersite/member/LeagueView.do?league=11800){:target="_blank"} |Season one |Europe |34 |2030 | | | | | |
 |[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |Prekvalifisering Formel 2025 |Europe |34 |2842 | | | | | |
+|[GT Champions Open Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=11826){:target="_blank"} |SimRaceCity\.com F4 |North America |33 |1766 | | | | | |
 |[Autodromo Virtual \- FIA](https://members.iracing.com/membersite/member/LeagueView.do?league=11812){:target="_blank"} |2024 \- PRECLASIFICACION \- SERVER 3 |North America |31 |None | | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |F4 Sunday 2024\-S04 Fall |North America |30 |1385 |Fixed | | | | |
 |[FIA F4 eSports Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11277){:target="_blank"} |2024 FIA F4 eSports Global Championship |Europe |30 |7763 | | | | | |
-|[GT Champions Open Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=11826){:target="_blank"} |SimRaceCity\.com F4 |North America |29 |1777 | |Watkins Glen International |Sat, December 21 11:35AM EST |Sat, December 21 04:35PM GMT |Sun, December 22 03:35AM AEDT |
 |[2024 DRSCCA Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |F4 HOLIDAY 2024 |North America |28 |1699 |Fixed | | | | |
 |[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR F4 Season 2 |North America |27 |2068 |Both | | | | |
 |[Diesel Motor Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=11623){:target="_blank"} |Formula 4 Season One |North America |24 |1526 |Fixed | | | | |
@@ -92,7 +92,7 @@
 |[F4 FRIDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=11537){:target="_blank"} |Season one |Europe |21 |2484 | | | | | |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |FIA F4 Saturday Nights |North America |21 |1176 | | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2024 Q4 \- Thursday night \- Formula F4's |North America |20 |1016 |Open | | | | |
-|[Rapid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11627){:target="_blank"} |Season 1 |Australia-NZ |20 |1994 | |Mount Panorama Circuit |Sat, December 21 02:00AM EST |Sat, December 21 07:00AM GMT |Sat, December 21 06:00PM AEDT |
+|[Rapid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11627){:target="_blank"} |Season 1 |Australia-NZ |20 |1994 | | | | | |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |FIA F4 Saturday Night Winter |North America |20 |1273 | | | | | |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Revving Red's Roaring Road Racing Revelry \- Season 6 |North America |19 |1634 |Both | | | | |
 |[Purple Sector Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |Formula Fridays \- F4 Fixed |North America |19 |2069 |Open | | | | |
@@ -100,9 +100,9 @@
 |[GoRacing Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=8712){:target="_blank"} |2024 F4 Series |North America |17 |1588 | | | | | |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |F4 Challenge |North America |13 |1458 |Both |Circuito de Navarra |Mon, December 23 09:05PM EST |Tue, December 24 02:05AM GMT |Tue, December 24 01:05PM AEDT |
 |[3Legs4Wheels Podcast League](https://members.iracing.com/membersite/member/LeagueView.do?league=5244){:target="_blank"} |British F4 |Europe |12 |1513 | | | | | |
-|[70PLUS Super Senior Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=3725){:target="_blank"} |Get Ready for 2025\-Building the League |North America |12 |1528 |Fixed | | | | |
+|[Senior Sportsmanship League](https://members.iracing.com/membersite/member/LeagueView.do?league=3725){:target="_blank"} |Get Ready for 2025\-Building the League |North America |12 |1528 |Fixed | | | | |
 |[PHA Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=10304){:target="_blank"} |24/25 PHA OFF SEASON RR BROUGHT TO YOU BY SQUARE MOTORSPORTS |North America |12 |1402 |Fixed |Watkins Glen International |Sat, December 28 08:00PM EST |Sun, December 29 01:00AM GMT |Sun, December 29 12:00PM AEDT |
-|[70PLUS Super Senior Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=3725){:target="_blank"} |2025S1 70PLUS Super Senior Fun   Iconic Tracks |North America |11 |1538 |Fixed |Circuit des 24 Heures du Mans |Thu, December 26 01:45PM EST |Thu, December 26 06:45PM GMT |Fri, December 27 05:45AM AEDT |
+|[Senior Sportsmanship League](https://members.iracing.com/membersite/member/LeagueView.do?league=3725){:target="_blank"} |2025S1 70PLUS Super Senior Fun   Iconic Tracks |North America |11 |1538 |Fixed |Circuit des 24 Heures du Mans |Thu, December 26 01:45PM EST |Thu, December 26 06:45PM GMT |Fri, December 27 05:45AM AEDT |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- Thursday night \- Formula F4's |North America |11 |1023 |Open |Lime Rock Park |Thu, December 26 10:00PM EST |Fri, December 27 03:00AM GMT |Fri, December 27 02:00PM AEDT |
 
 ### Formula Vee

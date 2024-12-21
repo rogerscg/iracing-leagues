@@ -64,7 +64,7 @@
 |[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=11951){:target="_blank"} | |Dirt Midget League \(DML\) \- Everything Midgets\! Slide or die yet rules still apply\! |
 |[Iracing Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11950){:target="_blank"} | | |
 |[NASCAR VS](https://members.iracing.com/membersite/member/LeagueView.do?league=11953){:target="_blank"} |[Discord](https://discord.gg/EAQvnPXqbr){:target="_blank"} |Multi Class NASCAR Racing |
-|[Québec Formule 1600](https://members.iracing.com/membersite/member/LeagueView.do?league=11949){:target="_blank"} | |Pour le fun |
+|[Sim racing Formule 1600 Québec](https://members.iracing.com/membersite/member/LeagueView.do?league=11949){:target="_blank"} | |Pour le fun |
 |[Rosalina's Stars](https://members.iracing.com/membersite/member/LeagueView.do?league=11942){:target="_blank"} | | |
 |[Savage Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=11944){:target="_blank"} |[Discord](https://discord.gg/fB4wUbqfDU){:target="_blank"} |Savage Sim Racing community's inaugural league\. |
 |[Sim\-Race Simps](https://members.iracing.com/membersite/member/LeagueView.do?league=11948){:target="_blank"} | |Endurance Race Training |
@@ -81,4 +81,8 @@
 |[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11954){:target="_blank"} | | |
 |[SPARK Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11959){:target="_blank"} |[Discord](https://discord.gg/T6NxgkgMdz){:target="_blank"} |Join our Discord: https://discord\.gg/T6NxgkgMdz |
 |[Praise Dale](https://members.iracing.com/membersite/member/LeagueView.do?league=11958){:target="_blank"} | |season |
+|[AW Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11963){:target="_blank"} | |AWRL |
+|[Horizon Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11964){:target="_blank"} | | |
+|[iRacing Rotti Offseason Grand Prix Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11961){:target="_blank"} | |Offseaon Grand Prix Series featuring Super Formula Lights prior to the start of the F1 Season\. |
+|[Saturday Night Racing League Super GT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11962){:target="_blank"} | | |
 

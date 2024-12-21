@@ -148,7 +148,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|----------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Legend Cars Australia I\-Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11509){:target="_blank"} |LCA I\-Racing League Season 1 |Australia-NZ |30 |1516 |Fixed | | | | |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 3 |North America |29 |2425 |Fixed | | | | |
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |Des Legends Season 3 |North America |28 |1669 | | | | | |
@@ -156,8 +156,8 @@
 |[SRW \- Legends World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |24S4 SRW LEGENDS |Australia-NZ |26 |1420 | | | | | |
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |Sunday night Legends Gang |North America |22 |1949 | | | | | |
 |[SRL \- Legends Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11401){:target="_blank"} |Season 6 |North America |22 |1984 | | | | | |
+|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Winterfest |North America |22 |2418 | | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Legends 34s |Australia-NZ |20 |1448 |Fixed | | | | |
-|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Winterfest |North America |19 |2310 | |Concord Speedway |Sat, December 21 09:30AM EST |Sat, December 21 02:30PM GMT |Sun, December 22 01:30AM AEDT |
 |[BearPope Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=897){:target="_blank"} |Legends Winter 2024 |North America |17 |2144 |Open | | | | |
 |[Urban Youth Racing School](https://members.iracing.com/membersite/member/LeagueView.do?league=11736){:target="_blank"} |UYRS |North America |17 |1324 | | | | | |
 |[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC 34 Legends Series Season 1 |North America |15 |1868 | | | | | |

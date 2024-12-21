@@ -41,7 +41,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EVENTOS ESPECIAIS |Both |Autodromo Nazionale Monza |Sun, December 22 07:00PM EST |Mon, December 23 12:00AM GMT |Mon, December 23 11:00AM AEDT |
 |[whynotp1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11039){:target="_blank"} |2025 S1 |Open |Virginia International Raceway |Sun, December 22 01:15PM EST |Sun, December 22 06:15PM GMT |Mon, December 23 05:15AM AEDT |
 |[Nulbier League](https://members.iracing.com/membersite/member/LeagueView.do?league=8623){:target="_blank"} |Kerst met de Nulvier fam | |Circuit Zandvoort |Mon, December 23 01:30PM EST |Mon, December 23 06:30PM GMT |Tue, December 24 05:30AM AEDT |
 
