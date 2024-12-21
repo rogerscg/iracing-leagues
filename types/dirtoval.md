@@ -50,12 +50,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------------|-------|----|-----|---------------------|----------------------------|----------------------------|-----------------------------|
 |[ASND Pro Late Model Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Hell Tour |Australia-NZ |54 |2967 | | | | | |
 |[Best of the Best Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10096){:target="_blank"} |2024 Best Of The Best Pro Series |North America |50 |2312 | | | | | |
 |[ASND Pro Late Model Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |Pro Late Model Spooker |Australia-NZ |44 |3334 | | | | | |
 |[HELL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=11698){:target="_blank"} |Cody Williams Design Hell Tour |North America |38 |2925 |Open | | | | |
-|[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |2024/2025 Winter Pro Late Models |North America |29 |2354 |Fixed | | | | |
+|[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |2024/2025 Winter Pro Late Models |North America |29 |2354 |Fixed |Volusia Speedway Park |Sun, December 22 08:45PM EST |Mon, December 23 01:45AM GMT |Mon, December 23 12:45PM AEDT |
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |The Pro Lates Tour Presented By Right Rear Racing |North America |28 |2040 |Fixed | | | | |
 |[RuffNeck\-Dirt\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10990){:target="_blank"} |Ruff\-Neck Dirt Racing |North America |28 |1847 |Fixed | | | | |
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Pro lates Winter series by Right Rear Racing |North America |26 |1878 |Fixed | | | | |
@@ -64,7 +64,7 @@
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Close Racing Supply Pro Late Models S1 |North America |18 |1789 | | | | | |
 |[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10655){:target="_blank"} |Velocity Racing Pros |North America |17 |4180 | | | | | |
 |[Blue Collar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9155){:target="_blank"} |Fall PLM season |North America |16 |2316 |Fixed | | | | |
-|[B\-Main Motorsports Weekend League](https://members.iracing.com/membersite/member/LeagueView.do?league=4712){:target="_blank"} |B Main Pro lates 2025 |North America |15 |2153 |Open | | | | |
+|[B\-Main Motorsports Weekend League](https://members.iracing.com/membersite/member/LeagueView.do?league=4712){:target="_blank"} |B Main Pro lates 2025 |North America |15 |2153 |Open |Cedar Lake Speedway |Sat, December 21 08:00PM EST |Sun, December 22 01:00AM GMT |Sun, December 22 12:00PM AEDT |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |dirt pro late model |North America |14 |1522 |Open | | | | |
 |[BRL J&B Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} |J&BLMT Season 2 |North America |14 |1791 | | | | | |
 |[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Hometown Dirt Track season 2 |North America |14 |1780 |Both | | | | |
@@ -194,13 +194,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |UMP Modified Super Series 2024 |Australia-NZ |47 |2961 | | | | | |
 |[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |UMP Mods |North America |46 |2765 | | | | | |
-|[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |2024/2025 Winter UMP Modifieds |North America |33 |2294 |Fixed | | | | |
+|[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |2024/2025 Winter UMP Modifieds |North America |33 |2294 |Fixed |Kokomo Speedway |Sun, December 22 07:45PM EST |Mon, December 23 12:45AM GMT |Mon, December 23 11:45AM AEDT |
 |[PS Enduros](https://members.iracing.com/membersite/member/LeagueView.do?league=7139){:target="_blank"} |DS & TW SEASON 2 \(UMP MODS\) |North America |25 |1773 |Fixed |Oswego Speedway |Sun, December 22 07:45PM EST |Mon, December 23 12:45AM GMT |Mon, December 23 11:45AM AEDT |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Great Lakes Speed Shop UMP Mods S2 |North America |18 |1788 | | | | | |
-|[B\-Main Motorsports Weekend League](https://members.iracing.com/membersite/member/LeagueView.do?league=4712){:target="_blank"} |B\-Main Modifieds |North America |17 |2170 |Open | | | | |
+|[B\-Main Motorsports Weekend League](https://members.iracing.com/membersite/member/LeagueView.do?league=4712){:target="_blank"} |B\-Main Modifieds |North America |17 |2170 |Open |Cedar Lake Speedway |Sat, December 21 10:00PM EST |Sun, December 22 03:00AM GMT |Sun, December 22 02:00PM AEDT |
 |[The Peoples Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10083){:target="_blank"} |season 9 |North America |14 |1547 |Fixed | | | | |
 |[Virtual Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11145){:target="_blank"} |Winter Heat Series UMP |North America |11 |2431 | | | | | |
 

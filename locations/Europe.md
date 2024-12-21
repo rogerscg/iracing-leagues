@@ -95,7 +95,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|--------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[EVAL \- Eesti Virtuaalse Autospordi Liit](https://members.iracing.com/membersite/member/LeagueView.do?league=10052){:target="_blank"} |EVAL F4 EMV 2024 |Europe |72 |2538 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2024 FIA F4 season |Europe |57 |2495 |Both | | | | |
-|[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |ESPORTS UKRAINIAN F4 CHAMPIONSHIP |Europe |42 |1745 |Both |Tsukuba Circuit |Sat, December 21 01:00PM EST |Sat, December 21 06:00PM GMT |Sun, December 22 05:00AM AEDT |
+|[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |ESPORTS UKRAINIAN F4 CHAMPIONSHIP |Europe |42 |1734 |Both | | | | |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |F4 Cup Saison 9 |Europe |41 |2518 |Both | | | | |
 |[British F4 Esports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9004){:target="_blank"} |2024 British F4 Esports Championship |Europe |35 |5415 | | | | | |
 |[La Broca x LDFR British Formula 4](https://members.iracing.com/membersite/member/LeagueView.do?league=11800){:target="_blank"} |Season one |Europe |34 |2030 | | | | | |
@@ -175,10 +175,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|--------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[GT4 & TCR Championship \- Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |ESR GT4 Season 1 |Europe |64 |2025 | | | | | |
 |[SCHERER eSPORT GT4 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10804){:target="_blank"} |SCHERER eSPORT GT4 Series Season III |Europe |51 |2626 |Fixed | | | | |
-|[RECART\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10758){:target="_blank"} |RECART SRS 2024/25 Cup1 |Europe |24 |1997 | | | | | |
+|[RECART\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10758){:target="_blank"} |RECART SRS 2024/25 Cup1 |Europe |24 |1997 | |Okayama International Circuit |Sun, December 29 01:30PM EST |Sun, December 29 06:30PM GMT |Mon, December 30 05:30AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -383,7 +383,7 @@
 |[SRS Feierabend Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10307){:target="_blank"} |SRS iRFC AllStarsSeries 2024/2025 |Europe |52 |1914 | | | | | |
 |[SimRC\.de GT3 Meisterschaft](https://members.iracing.com/membersite/member/LeagueView.do?league=8674){:target="_blank"} |Season 6 \- Herbst 2024 |Europe |51 |2745 | | | | | |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |LIGA STREFA RACING |Europe |51 |2322 |Both | | | | |
-|[Makoon Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11630){:target="_blank"} |MaKoonGaming Liga Saison 2 |Europe |50 |1765 |Fixed | | | | |
+|[Makoon Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11630){:target="_blank"} |MaKoonGaming Liga Saison 2 |Europe |50 |1765 |Fixed |Circuit des 24 Heures du Mans |Sun, December 29 11:30AM EST |Sun, December 29 04:30PM GMT |Mon, December 30 03:30AM AEDT |
 |[Racing League Romania](https://members.iracing.com/membersite/member/LeagueView.do?league=350){:target="_blank"} |\[2024\] RLR Sezonul 6 \- Multi 2 In 1 |Europe |49 |2403 | | | | | |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |Clark St\. James GT3 Season 4 |Europe |49 |1834 | | | | | |
 |[2024 ESR Sportscar Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=4647){:target="_blank"} |ESR Sportscar Trophy 2024 |Europe |48 |2056 | | | | | |
@@ -438,7 +438,6 @@
 |[PHILDECARACING CHALLENGE & ENDURANCE](https://members.iracing.com/membersite/member/LeagueView.do?league=8859){:target="_blank"} |CHAMPIONNAT ENDURANCE |Europe |15 |1711 | | | | | |
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |F4/MX5 |Europe |14 |3892 | | | | | |
 |[DensuSimRacing\.de by twitch\.tv/densu83](https://members.iracing.com/membersite/member/LeagueView.do?league=4439){:target="_blank"} |DSR Trainings\-Cup Season 4 2024 |Europe |14 |2710 |Open | | | | |
-|[Digital Motorsport SK](https://members.iracing.com/membersite/member/LeagueView.do?league=8009){:target="_blank"} |2024\-DMSK\-Open Season |Europe |13 |1543 |Both | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Mid Season Break \(Audi 90 GTO vs Radical SR8\) |Europe |12 |2268 |Both |Mount Panorama Circuit |Sun, December 22 02:30PM EST |Sun, December 22 07:30PM GMT |Mon, December 23 06:30AM AEDT |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Aniversário |Europe |10 |1652 | | | | | |
 

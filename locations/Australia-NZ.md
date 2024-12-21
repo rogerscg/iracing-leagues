@@ -77,8 +77,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------|------------|-------|----|-----|----------------------|----------------------------|----------------------------|-----------------------------|
-|[Rapid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11627){:target="_blank"} |Season 1 |Australia-NZ |20 |1994 | |Mount Panorama Circuit |Sat, December 21 02:00AM EST |Sat, December 21 07:00AM GMT |Sat, December 21 06:00PM AEDT |
+|-----------------------------------------------------------------------------------------------------------------|--------|------------|-------|----|-----|-------------|--------|------|------|
+|[Rapid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11627){:target="_blank"} |Season 1 |Australia-NZ |20 |1994 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -263,8 +263,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------|------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
-|[E\-Pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |EPRL GT3 Season 4 |Australia-NZ |11 |1502 |Open |Circuit de Spa-Francorchamps |Sat, December 21 02:00AM EST |Sat, December 21 07:00AM GMT |Sat, December 21 06:00PM AEDT |
+|------------------------------------------------------------------------------------------------------------------|-----------------|------------|-------|----|-----|-------------|--------|------|------|
+|[E\-Pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |EPRL GT3 Season 4 |Australia-NZ |11 |1501 |Open | | | | |
 
 ### Hosted All Cars Class
 
@@ -295,5 +295,5 @@
 |[ANZ ESeries x Motorsport Australia // Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11365){:target="_blank"} |Motorsport Australia // 2024 Kategory King Series |Australia-NZ |22 |2396 | | | | | |
 |[Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |2024 Season 16 |Australia-NZ |18 |1561 | | | | | |
 |[Delta Sim Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10662){:target="_blank"} |GT3 Season 1 |Australia-NZ |15 |2018 | | | | | |
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Simblacks \#SundaySendit |Australia-NZ |13 |1748 |Both | | | | |
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Simblacks \#SundaySendit |Australia-NZ |14 |1542 |Both | | | | |
 
