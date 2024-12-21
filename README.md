@@ -7,6 +7,8 @@ in a season, the average strength of field, and any upcoming races the league ha
 
 Got any questions? Feel free to message the creator on GitHub, iRacing, or Reddit.
 
+## [Click here to perform an advanced search](search)
+
 ## [Click Here for Directory](directory)
 
 All active leagues of more than 10 drivers. Almost 1,000 leagues to choose from.
