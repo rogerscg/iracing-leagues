@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Lapped Car Motorsports Screwin Around](https://members.iracing.com/membersite/member/LeagueView.do?league=11880){:target="_blank"} | |Just da bros |
-|[Stearns Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11879){:target="_blank"} | | |
-|[T&T Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11878){:target="_blank"} | | |
-|[TRC iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11881){:target="_blank"} | |TRiATHLON |
 |[Southern Racing Network](https://members.iracing.com/membersite/member/LeagueView.do?league=11882){:target="_blank"} | | |
 |[2025 Canadian F1200 eSports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11888){:target="_blank"} |[Discord](https://discord.gg/R4WgDfSg){:target="_blank"} |Formula Vee Fixed |
 |[Bitcoin Accelerated Motorsports \(BAM\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11887){:target="_blank"} | |Bitcoin & Blockchain Enthusiast League |
@@ -28,7 +24,7 @@
 |[Campeonato Raccoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11906){:target="_blank"} | | |
 |[CKC Memorial Race](https://members.iracing.com/membersite/member/LeagueView.do?league=11905){:target="_blank"} |[Discord](https://discord.gg/gjbSMvW7FF){:target="_blank"} |Carroll Kenneth Carden Memorial Race is a 200 laps race where drivers will try and compete for $400 or more\. $3 entry fee \| Fixed Setup \| other info in discord if anyone is interested in joining |
 |[CrowdStrike Racing eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11902){:target="_blank"} | |CrowdStrike Racing eSports League   Join the excitement of virtual motorsports with the CrowdStrike Racing eSports League\. A community for CrowdStrike associates, their friends, family, and select invitees\.   Whether you're a seasoned sim racer or new to virtual motorsports, we offer a thrilling and inclusive environment to showcase your skills, improve your racing technique, and connect with like\-minded individuals in the CrowdStrike community\.   Strap in, fire up your simulator, and experience the adrenaline rush of competitive racing from the comfort of your home\. Join today and become part of our growing eSports racing community\! |
-|[JDR RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11901){:target="_blank"} | |GOOD RESPECT/DRIVERS/TIME IN THAT ORDER |
+|[JDR RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11901){:target="_blank"} | |GOOD RESPECTFUL DRIVERS HAVING A GOOD TIME\! |
 |[Wheel Challenge Series \- Light \- Licence B](https://members.iracing.com/membersite/member/LeagueView.do?league=11904){:target="_blank"} | | |
 |[Wheel Challenge Series \- Sport \- Licence C](https://members.iracing.com/membersite/member/LeagueView.do?league=11903){:target="_blank"} | | |
 |[Central Clash Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11907){:target="_blank"} |[Discord](https://discord.gg/xnCYt7dGx4){:target="_blank"} |This is league is brand new and we are looking to recruit people to help run this it is intended to be fun while also competitive and awarding top drivers with a cash payout in each series\. We are hoping to grow and run this as smoothly as possible\. |
@@ -78,4 +74,11 @@
 |[PESCP 2024 \- Baraże](https://members.iracing.com/membersite/member/LeagueView.do?league=11941){:target="_blank"} | | |
 |[Speakeasy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11940){:target="_blank"} | |Members Only / Invite Only |
 |[Tuners, Hackers, and Hillbillies](https://members.iracing.com/membersite/member/LeagueView.do?league=11943){:target="_blank"} | | |
+|[California Dreaming](https://members.iracing.com/membersite/member/LeagueView.do?league=11956){:target="_blank"} | |Friends going fast |
+|[Friday Night Lights \- XFINITY](https://members.iracing.com/membersite/member/LeagueView.do?league=11955){:target="_blank"} | |Full Distance XFINITY Series |
+|[NAPA Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11960){:target="_blank"} | | |
+|[No Limit Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11957){:target="_blank"} | |We are a relaxed Street Stock League that runs Friday nights at 8pm ET\. The schedule will include 1\.5 miles, short tracks, a road course, and a dirt oval\. |
+|[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11954){:target="_blank"} | | |
+|[SPARK Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11959){:target="_blank"} |[Discord](https://discord.gg/T6NxgkgMdz){:target="_blank"} |Join our Discord: https://discord\.gg/T6NxgkgMdz |
+|[Praise Dale](https://members.iracing.com/membersite/member/LeagueView.do?league=11958){:target="_blank"} | |season |
 
