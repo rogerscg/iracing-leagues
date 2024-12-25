@@ -2,25 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Southern Racing Network](https://members.iracing.com/membersite/member/LeagueView.do?league=11882){:target="_blank"} | | |
-|[2025 Canadian F1200 eSports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11888){:target="_blank"} |[Discord](https://discord.gg/R4WgDfSg){:target="_blank"} |Formula Vee Fixed |
-|[Bitcoin Accelerated Motorsports \(BAM\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11887){:target="_blank"} | |Bitcoin & Blockchain Enthusiast League |
-|[\*\*\* Jeff](https://members.iracing.com/membersite/member/LeagueView.do?league=11886){:target="_blank"} | |jeff eat me |
-|[Mystic Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11884){:target="_blank"} | | |
-|[Nathan's For Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=11890){:target="_blank"} | | |
-|[Newbie Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11891){:target="_blank"} | |This is for just fun racing and friendly for Newbies |
-|[test league](https://members.iracing.com/membersite/member/LeagueView.do?league=11883){:target="_blank"} | | |
-|[Virtual Racing Obsession](https://members.iracing.com/membersite/member/LeagueView.do?league=11889){:target="_blank"} | | |
-|[Team I5G Community Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11885){:target="_blank"} | |Team I5G Community Races League |
-|[Denver Racing Social](https://members.iracing.com/membersite/member/LeagueView.do?league=11895){:target="_blank"} | |DRS Official Racing League |
-|[Metal Heads Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11892){:target="_blank"} | | |
-|[New England GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=11894){:target="_blank"} |[Discord](https://discord.gg/X5JTTGmf){:target="_blank"} |New England GR86 |
-|[Pinnacle Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11893){:target="_blank"} | |TBA |
-|[Codeman's Sprintcar Mania](https://members.iracing.com/membersite/member/LeagueView.do?league=11896){:target="_blank"} | |410 FIXED Sprintcar Event at I\-55 Live on Codeman Racing Facebook Page |
-|[European Racing Leaque](https://members.iracing.com/membersite/member/LeagueView.do?league=11898){:target="_blank"} |[Discord](https://discord.gg/xSh4xjWH){:target="_blank"} |Join the European Racing League\!  Are you ready to experience the thrill of high\-speed racing? Sign up now for the first European Racing League, where we race GT3 cars every Wednesday evening\!  Event Details:  •	Day: Wednesday evenings starting from January 15e  •	Car Class: GT3  Don't miss out on the excitement and the chance to compete with the best\. Register today and be part of the action\!  Sign Up Now\!  Additionally, join our Discord channel to stay updated, connect with fellow racers, and get all the latest news and announcements\.  Join Our Discord Channel\! |
-|[Kwik Stop League](https://members.iracing.com/membersite/member/LeagueView.do?league=11900){:target="_blank"} | |Join this league to become eligible to join Kwik Stop hosted race sessions\. |
-|[Smokahontas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11899){:target="_blank"} |[Discord](https://discord.gg/fzPDW7P5pE){:target="_blank"} | |
-|[VF Motorsport Driver Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11897){:target="_blank"} | |VF MDA |
 |[Campeonato Raccoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11906){:target="_blank"} | | |
 |[CKC Memorial Race](https://members.iracing.com/membersite/member/LeagueView.do?league=11905){:target="_blank"} |[Discord](https://discord.gg/gjbSMvW7FF){:target="_blank"} |Carroll Kenneth Carden Memorial Race is a 200 laps race where drivers will try and compete for $400 or more\. $3 entry fee \| Fixed Setup \| other info in discord if anyone is interested in joining |
 |[CrowdStrike Racing eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11902){:target="_blank"} | |CrowdStrike Racing eSports League   Join the excitement of virtual motorsports with the CrowdStrike Racing eSports League\. A community for CrowdStrike associates, their friends, family, and select invitees\.   Whether you're a seasoned sim racer or new to virtual motorsports, we offer a thrilling and inclusive environment to showcase your skills, improve your racing technique, and connect with like\-minded individuals in the CrowdStrike community\.   Strap in, fire up your simulator, and experience the adrenaline rush of competitive racing from the comfort of your home\. Join today and become part of our growing eSports racing community\! |
@@ -30,9 +11,9 @@
 |[Central Clash Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11907){:target="_blank"} |[Discord](https://discord.gg/xnCYt7dGx4){:target="_blank"} |This is league is brand new and we are looking to recruit people to help run this it is intended to be fun while also competitive and awarding top drivers with a cash payout in each series\. We are hoping to grow and run this as smoothly as possible\. |
 |[Down South Racing Rookie League](https://members.iracing.com/membersite/member/LeagueView.do?league=11910){:target="_blank"} | | |
 |[SAUSAGE DODGERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11908){:target="_blank"} |[Discord](https://discord.gg/qphmw8vgBd){:target="_blank"} |THE HOME OF SAUSAGE RACING |
-|[Why Don't You Turn Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11909){:target="_blank"} | |GT3 / GT4 League  Race format is 30min open qualy, 20min race 1, 10min brake, 35min Race 2 \(grid inverted finish race 1\) |
+|[Why Don't You Turn Racing?\! League](https://members.iracing.com/membersite/member/LeagueView.do?league=11909){:target="_blank"} | |GT3 / GT4 League  Open qualifying with 1 hour race |
 |[Cloud Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11915){:target="_blank"} |[Discord](https://discord.gg/UbJ4Vd2c){:target="_blank"} |"If you no longer go for a gap that exists, you're no longer a racing driver" |
-|[Copa Rockets Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=11913){:target="_blank"} | | |
+|[Rockets E\-Sports Eventos](https://members.iracing.com/membersite/member/LeagueView.do?league=11913){:target="_blank"} | | |
 |[K&S Charity Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11914){:target="_blank"} | |We host monthly charity races with mixtures of different cars and track combos\. |
 |[Renault Clio League](https://members.iracing.com/membersite/member/LeagueView.do?league=11911){:target="_blank"} |[Discord](https://discord.gg/GYZ3j8znyd){:target="_blank"} |It's like Indiana Jones and the Great Circle but with the Renault Clio on iRacing |
 |[The Burberry Bois](https://members.iracing.com/membersite/member/LeagueView.do?league=11916){:target="_blank"} | |Tyler and Ryan AI league |
@@ -85,4 +66,11 @@
 |[Horizon Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11964){:target="_blank"} | | |
 |[iRacing Rotti Offseason Grand Prix Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11961){:target="_blank"} | |Offseaon Grand Prix Series featuring Super Formula Lights prior to the start of the F1 Season\. |
 |[Saturday Night Racing League Super GT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11962){:target="_blank"} | | |
+|[DegaPro's](https://members.iracing.com/membersite/member/LeagueView.do?league=11969){:target="_blank"} | |Super Speedway Racing |
+|[Dirty's Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=11966){:target="_blank"} | | |
+|[H&M late model league](https://members.iracing.com/membersite/member/LeagueView.do?league=11972){:target="_blank"} |[Discord](https://discord.gg/gverJ5AE){:target="_blank"} |late model league join the discord if u havent already |
+|[Military Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11970){:target="_blank"} | | |
+|[Stallions Racing Team League](https://members.iracing.com/membersite/member/LeagueView.do?league=11967){:target="_blank"} | |There is No Substitute Stallions\. |
+|[TIMSSIMS](https://members.iracing.com/membersite/member/LeagueView.do?league=11968){:target="_blank"} | |Dirt / Special Events |
+|[DMC \- Digitaler M2 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11971){:target="_blank"} | |Markencup auf Basis des BMW M2 CSR |
 

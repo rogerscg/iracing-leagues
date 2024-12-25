@@ -15,32 +15,39 @@
 
 # Oval
 
-### Hosted All Cars Class
+### Street Stocks
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 LM/SLM SERIES SEASON 5 | |Southern National Motorsports Park |Sat, December 21 07:00PM EST |Sun, December 22 12:00AM GMT |Sun, December 22 11:00AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------|---------------------------|---------------------------|----------------------------|
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |TVR Street Stock Championship |Fixed |Charlotte Motor Speedway |Wed, January 01 08:00PM EST |Thu, January 02 01:00AM GMT |Thu, January 02 12:00PM AEDT |
 
-# Open-wheel
+# Dirt Road
 
-### Lotus 49
+### Pro 4 Truck
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-----------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Lotus 49 Season 2 |Fixed |[Legacy] Phoenix Raceway - 2008 |Sun, December 22 07:00PM EST |Mon, December 23 12:00AM GMT |Mon, December 23 11:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck S4: The Chaos Tour | |Limaland Motorsports Park |Mon, December 30 08:00PM EST |Tue, December 31 01:00AM GMT |Tue, December 31 12:00PM AEDT |
 
 # Multi-class/Unclassified
 
+### GT3 Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------|---------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[TRL The\-Racing\-League\.de](https://members.iracing.com/membersite/member/LeagueView.do?league=11616){:target="_blank"} |TRL JAR24 |Open |Motorsport Arena Oschersleben |Mon, December 30 09:00AM EST |Mon, December 30 02:00PM GMT |Tue, December 31 01:00AM AEDT |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[whynotp1 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11039){:target="_blank"} |2025 S1 |Open |Virginia International Raceway |Sun, December 22 01:15PM EST |Sun, December 22 06:15PM GMT |Mon, December 23 05:15AM AEDT |
-|[Nulbier League](https://members.iracing.com/membersite/member/LeagueView.do?league=8623){:target="_blank"} |Kerst met de Nulvier fam | |Circuit Zandvoort |Mon, December 23 01:30PM EST |Mon, December 23 06:30PM GMT |Tue, December 24 05:30AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2025 WEDNESDAY NIGHTS\!\! |Fixed |Circuito de Navarra |Wed, January 01 09:00PM EST |Thu, January 02 02:00AM GMT |Thu, January 02 01:00PM AEDT |
 
