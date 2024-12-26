@@ -23,6 +23,14 @@
 |-------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------|---------------------------|---------------------------|----------------------------|
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |TVR Street Stock Championship |Fixed |Charlotte Motor Speedway |Wed, January 01 08:00PM EST |Thu, January 02 01:00AM GMT |Thu, January 02 12:00PM AEDT |
 
+### Super Late Model
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
+|[K05 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8633){:target="_blank"} |K05 Short Track Series |Fixed |Kevin Harvick's Kern Raceway |Thu, January 02 07:30PM EST |Fri, January 03 12:30AM GMT |Fri, January 03 11:30AM AEDT |
+
 # Dirt Road
 
 ### Pro 4 Truck
