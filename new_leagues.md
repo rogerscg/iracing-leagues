@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Down South Racing Rookie League](https://members.iracing.com/membersite/member/LeagueView.do?league=11910){:target="_blank"} | | |
-|[SAUSAGE DODGERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11908){:target="_blank"} |[Discord](https://discord.gg/qphmw8vgBd){:target="_blank"} |THE HOME OF SAUSAGE RACING |
-|[Why Don't You Turn Racing?\! League](https://members.iracing.com/membersite/member/LeagueView.do?league=11909){:target="_blank"} | |GT3 / GT4 League  Open qualifying with 1 hour race |
 |[Cloud Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11915){:target="_blank"} |[Discord](https://discord.gg/UbJ4Vd2c){:target="_blank"} |"If you no longer go for a gap that exists, you're no longer a racing driver" |
 |[Rockets E\-Sports Eventos](https://members.iracing.com/membersite/member/LeagueView.do?league=11913){:target="_blank"} | | |
 |[K&S Charity Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11914){:target="_blank"} | |We host monthly charity races with mixtures of different cars and track combos\. |
@@ -73,4 +70,6 @@
 |[titans of road racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11976){:target="_blank"} | |road racing |
 |[WK&P](https://members.iracing.com/membersite/member/LeagueView.do?league=11978){:target="_blank"} | |Team League |
 |[Bad Fast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11974){:target="_blank"} | |Mini Stocks and Legends |
+|[Cowan](https://members.iracing.com/membersite/member/LeagueView.do?league=11980){:target="_blank"} | | |
+|[NXTGP sim league](https://members.iracing.com/membersite/member/LeagueView.do?league=11981){:target="_blank"} | |welkom bij onze volwaardige simrace league\! wij organiseren meerdere evtns |
 

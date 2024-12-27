@@ -31,6 +31,16 @@
 |--------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
 |[K05 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8633){:target="_blank"} |K05 Short Track Series |Fixed |Kevin Harvick's Kern Raceway |Thu, January 02 07:30PM EST |Fri, January 03 12:30AM GMT |Fri, January 03 11:30AM AEDT |
 
+# Sports Car
+
+### Toyota GR86
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------|------------------|-----|------------------|---------------------------|---------------------------|----------------------------|
+|[Battle Scarred eMotorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10456){:target="_blank"} |2025 Weekly Series | |Circuit de Lédenon |Fri, January 03 07:00PM EST |Sat, January 04 12:00AM GMT |Sat, January 04 11:00AM AEDT |
+
 # Dirt Road
 
 ### Pro 4 Truck
@@ -56,6 +66,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-------------------------|---------------------------|---------------------------|----------------------------|
 |[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2025 WEDNESDAY NIGHTS\!\! |Fixed |Circuito de Navarra |Wed, January 01 09:00PM EST |Thu, January 02 02:00AM GMT |Thu, January 02 01:00PM AEDT |
+|[GT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5760){:target="_blank"} |S7 GT3 Series | |Long Beach Street Circuit |Fri, January 03 09:00PM EST |Sat, January 04 02:00AM GMT |Sat, January 04 01:00PM AEDT |
 
