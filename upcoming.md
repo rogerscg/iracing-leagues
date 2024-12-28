@@ -5,13 +5,21 @@
 
 # NASCAR
 
-### ARCA Series
+### NASCAR 2022 NextGen
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Australian Virtual Stockcars](https://members.iracing.com/membersite/member/LeagueView.do?league=11641){:target="_blank"} |Annual Australian Virtual Stockcars Beach Clash | |Daytona International Speedway |Fri, December 27 04:00AM EST |Fri, December 27 09:00AM GMT |Fri, December 27 08:00PM AEDT |
+|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|[NascarmanYT's Saturday Madness Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11785){:target="_blank"} |Off Season Madness\!\!\! NSMRL SEASON 1 | |Daytona International Speedway |Sat, January 04 04:00PM EST |Sat, January 04 09:00PM GMT |Sun, January 05 08:00AM AEDT |
+
+### XFINITY Series
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|[The Race Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8289){:target="_blank"} |Yeahman Sportscards Cup Series | |Daytona International Speedway |Sat, January 04 06:50PM EST |Sat, January 04 11:50PM GMT |Sun, January 05 10:50AM AEDT |
 
 # Oval
 
@@ -30,6 +38,17 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
 |[K05 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8633){:target="_blank"} |K05 Short Track Series |Fixed |Kevin Harvick's Kern Raceway |Thu, January 02 07:30PM EST |Fri, January 03 12:30AM GMT |Fri, January 03 11:30AM AEDT |
+
+# Open-wheel
+
+### FIA F4
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------|-----------|-----|------------------------|---------------------------|---------------------------|----------------------------|
+|[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11418){:target="_blank"} |F4S2 WHITE |Both |Charlotte Motor Speedway |Sat, January 04 06:00PM EST |Sat, January 04 11:00PM GMT |Sun, January 05 10:00AM AEDT |
+|[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11418){:target="_blank"} |F4S2 YELLOW |Both |Charlotte Motor Speedway |Sat, January 04 08:00PM EST |Sun, January 05 01:00AM GMT |Sun, January 05 12:00PM AEDT |
 
 # Sports Car
 
@@ -66,7 +85,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-------------------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
 |[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2025 WEDNESDAY NIGHTS\!\! |Fixed |Circuito de Navarra |Wed, January 01 09:00PM EST |Thu, January 02 02:00AM GMT |Thu, January 02 01:00PM AEDT |
+|[CUP vs CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=10931){:target="_blank"} |PCup vs\. NASCUP Season 1 |Open |Circuit des 24 Heures du Mans |Sat, January 04 05:00PM EST |Sat, January 04 10:00PM GMT |Sun, January 05 09:00AM AEDT |
 |[GT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5760){:target="_blank"} |S7 GT3 Series | |Long Beach Street Circuit |Fri, January 03 09:00PM EST |Sat, January 04 02:00AM GMT |Sat, January 04 01:00PM AEDT |
 

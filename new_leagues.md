@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Cloud Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11915){:target="_blank"} |[Discord](https://discord.gg/UbJ4Vd2c){:target="_blank"} |"If you no longer go for a gap that exists, you're no longer a racing driver" |
-|[Rockets E\-Sports Eventos](https://members.iracing.com/membersite/member/LeagueView.do?league=11913){:target="_blank"} | | |
-|[K&S Charity Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11914){:target="_blank"} | |We host monthly charity races with mixtures of different cars and track combos\. |
-|[Renault Clio League](https://members.iracing.com/membersite/member/LeagueView.do?league=11911){:target="_blank"} |[Discord](https://discord.gg/GYZ3j8znyd){:target="_blank"} |It's like Indiana Jones and the Great Circle but with the Renault Clio on iRacing |
-|[The Burberry Bois](https://members.iracing.com/membersite/member/LeagueView.do?league=11916){:target="_blank"} | |Tyler and Ryan AI league |
-|[Front Wing Damagers](https://members.iracing.com/membersite/member/LeagueView.do?league=11912){:target="_blank"} | | |
 |[2024 Save The Freedom 100](https://members.iracing.com/membersite/member/LeagueView.do?league=11922){:target="_blank"} | |For operating everyone's favorite tribute race, the 5th Annual Save The Freedom 100\.   Follow us on Twitter / X @SaveFreedom100 |
 |[B\-Main Bandits](https://members.iracing.com/membersite/member/LeagueView.do?league=11921){:target="_blank"} | |358/Pros |
 |[B/C Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11932){:target="_blank"} | | |
@@ -31,7 +25,7 @@
 |[Integrity Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11935){:target="_blank"} | | |
 |[Club Sim Racing Mexico](https://members.iracing.com/membersite/member/LeagueView.do?league=11936){:target="_blank"} | |Liga creada para Eventos ENDURANCE Exclusivamente  BFR eSports \| AW Series \| SRS Series \| CLN Series |
 |[UDRL Pro Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11939){:target="_blank"} | | |
-|[358 Modified Mayhem Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |[Discord](https://discord.gg/Unqux7Fu){:target="_blank"} |358 Modified Mayhem Tour\. Racing on Saturday nights at 9pm ET, starting on 2/8/2025\. 16 race schedule\. Fixed Setup |
+|[Ohio Valley Sim Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |[Discord](https://discord.gg/Unqux7Fu){:target="_blank"} |358 Modified Mayhem Tour\. Racing on Saturday nights at 9pm ET, starting on 2/8/2025\. 16 race schedule\. Fixed Setup |
 |[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=11951){:target="_blank"} | |Dirt Midget League \(DML\) \- Everything Midgets\! Slide or die yet rules still apply\! |
 |[Iracing Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11950){:target="_blank"} | | |
 |[NASCAR VS](https://members.iracing.com/membersite/member/LeagueView.do?league=11953){:target="_blank"} |[Discord](https://discord.gg/EAQvnPXqbr){:target="_blank"} |Multi Class NASCAR Racing |
