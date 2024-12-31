@@ -2,23 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[2024 Save The Freedom 100](https://members.iracing.com/membersite/member/LeagueView.do?league=11922){:target="_blank"} | |For operating everyone's favorite tribute race, the 5th Annual Save The Freedom 100\.   Follow us on Twitter / X @SaveFreedom100 |
-|[B\-Main Bandits](https://members.iracing.com/membersite/member/LeagueView.do?league=11921){:target="_blank"} | |358/Pros |
-|[B/C Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11932){:target="_blank"} | | |
-|[BMW M2 CS](https://members.iracing.com/membersite/member/LeagueView.do?league=11919){:target="_blank"} | |League for learning to race clean but also pursuing getting faster\. We use the new BMW M2 car and beginner tracks\. |
-|[Bottom Feeder Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=11928){:target="_blank"} | | |
-|[Dirt Storm](https://members.iracing.com/membersite/member/LeagueView.do?league=11933){:target="_blank"} | |Dirt Oval Racing |
-|[Keith Thomas Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11923){:target="_blank"} | |Arca at Iowa \(Fixed Setup\) |
-|[Masters of Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=11917){:target="_blank"} | |VSR és SNS közös szervezésében |
-|[Midwest Modified League](https://members.iracing.com/membersite/member/LeagueView.do?league=11918){:target="_blank"} | |Free wrap for whatever dirt car you want if you win\. Accepting all applications\. Race clean or you will be kicked\. |
-|[MSS Esports National Championship 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11926){:target="_blank"} | |MSS Esports National Championship 2024 |
-|[Nascar Québec Amateur](https://members.iracing.com/membersite/member/LeagueView.do?league=11929){:target="_blank"} | |Ligue Nascar Québécoise Amateur en Oval\. |
-|[Road to Pro Series Prep](https://members.iracing.com/membersite/member/LeagueView.do?league=11925){:target="_blank"} | |If you're looking for somewhere to practice for the upcoming eNascar road to pro series this is the place for you |
-|[Wills A T](https://members.iracing.com/membersite/member/LeagueView.do?league=11931){:target="_blank"} | |mine |
-|[BKM](https://members.iracing.com/membersite/member/LeagueView.do?league=11924){:target="_blank"} | |BKM |
-|[DFA Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11927){:target="_blank"} | | |
-|[RSS Weekly Time Trials](https://members.iracing.com/membersite/member/LeagueView.do?league=11920){:target="_blank"} | | |
-|[Turn One Terrorists](https://members.iracing.com/membersite/member/LeagueView.do?league=11930){:target="_blank"} | |Chill Monday night league for the homies\. |
 |[ACE Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |[Discord](https://discord.gg/4p8bqFQX){:target="_blank"} |Short Track Pavement Racing on Monday Nights with Double Features\! The races will always be a full field, if we do not have enough real drivers, the field will be filled with AI\! Divisions include Mini Stocks, Street Stocks, Late Model Stock, Super Late Model, Midwest Truck Series \(Nascar Trucks\) and Figure 8s\!  https://discord\.gg/4p8bqFQX  Join our discord\! |
 |[Bolt TP IROC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11937){:target="_blank"} | | |
 |[Casual Sim Racers League \- M2 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11934){:target="_blank"} |[Discord](https://discord.gg/y27huzYb6K){:target="_blank"} |Hey everyone\! Welcome to the Casual Sim Racers League\! This is a no pressure environment for racers to get together each week and unwind from their day, turn some laps, learn the cars and tracks, and build a great community that we all look forward to getting on track with\. We are not here to be super competitive, and risk crashing each other racing inches apart trading paint in an all out war for each position\. If you are super competitive then this is not the league for you\. Join our discord to apply https://discord\.gg/y27huzYb6K |
@@ -35,7 +18,7 @@
 |[Sim\-Race Simps](https://members.iracing.com/membersite/member/LeagueView.do?league=11948){:target="_blank"} | |Endurance Race Training |
 |[SOFLO](https://members.iracing.com/membersite/member/LeagueView.do?league=11946){:target="_blank"} | |fun times |
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} | |Dirt and Asphalt League |
-|[Cadohsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11945){:target="_blank"} | | |
+|[LaunchPointGG Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11945){:target="_blank"} |[Discord](https://discord.gg/apYt7zXC3K){:target="_blank"} | |
 |[PESCP 2024 \- Baraże](https://members.iracing.com/membersite/member/LeagueView.do?league=11941){:target="_blank"} | | |
 |[Speakeasy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11940){:target="_blank"} | |Members Only / Invite Only |
 |[Tuners, Hackers, and Hillbillies](https://members.iracing.com/membersite/member/LeagueView.do?league=11943){:target="_blank"} | | |
@@ -66,4 +49,19 @@
 |[Bad Fast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11974){:target="_blank"} | |Mini Stocks and Legends |
 |[Cowan](https://members.iracing.com/membersite/member/LeagueView.do?league=11980){:target="_blank"} | | |
 |[NXTGP sim league](https://members.iracing.com/membersite/member/LeagueView.do?league=11981){:target="_blank"} | |welkom bij onze volwaardige simrace league\! wij organiseren meerdere evtns |
+|[ACT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11996){:target="_blank"} | |Late model stock |
+|[ApexOne Division 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11993){:target="_blank"} | |ApexOne NJ Members\-Only League: Season 1 \(Division 1\) |
+|[Corvettes vs The World](https://members.iracing.com/membersite/member/LeagueView.do?league=11982){:target="_blank"} | |sports car |
+|[FASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11988){:target="_blank"} |[Discord](https://discord.gg/nGfsrFzSKE){:target="_blank"} |Home of the Choose car |
+|[FOR](https://members.iracing.com/membersite/member/LeagueView.do?league=11986){:target="_blank"} | |FISCHESSER OWNEN IRACING LEAGUE |
+|[GKI](https://members.iracing.com/membersite/member/LeagueView.do?league=11995){:target="_blank"} |[Discord](https://discord.gg/JxRattfp){:target="_blank"} |Gokart racers iracing league |
+|[GLR LATE MODEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11992){:target="_blank"} | | |
+|[IGL Coatings & Sande Trafikkskole](https://members.iracing.com/membersite/member/LeagueView.do?league=11983){:target="_blank"} | |FUN RACE |
+|[KeithSayYes\-YESCAR Late Night Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11994){:target="_blank"} | |Late Night Select Drivers League |
+|[NEW LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11991){:target="_blank"} | | |
+|[oNiD iRacing Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=11984){:target="_blank"} | |The Home for All oNiDs iRacing Events |
+|[Paddock Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11985){:target="_blank"} | |Road Racing |
+|[ss0op's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11987){:target="_blank"} | |A fun, competitive but relaxed racing league for followers of my Twitch stream and YouTube Channel\. |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} | |TopOne AV since 2022 |
+|[Ruthless Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11989){:target="_blank"} | | |
 
