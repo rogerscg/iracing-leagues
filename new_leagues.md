@@ -1,10 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[ACE Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |[Discord](https://discord.gg/4p8bqFQX){:target="_blank"} |Short Track Pavement Racing on Monday Nights with Double Features\! The races will always be a full field, if we do not have enough real drivers, the field will be filled with AI\! Divisions include Mini Stocks, Street Stocks, Late Model Stock, Super Late Model, Midwest Truck Series \(Nascar Trucks\) and Figure 8s\!  https://discord\.gg/4p8bqFQX  Join our discord\! |
-|[Bolt TP IROC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11937){:target="_blank"} | | |
-|[UDRL Pro Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11939){:target="_blank"} | | |
+|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Ohio Valley Sim Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |[Discord](https://discord.gg/Unqux7Fu){:target="_blank"} |358 Modified Mayhem Tour\. Racing on Saturday nights at 9pm ET, starting on 2/8/2025\. 16 race schedule\. Fixed Setup |
 |[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=11951){:target="_blank"} | |Dirt Midget League \(DML\) \- Everything Midgets\! Slide or die yet rules still apply\! |
 |[Iracing Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11950){:target="_blank"} | | |
@@ -61,6 +58,7 @@
 |[ss0op's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11987){:target="_blank"} | |A fun, competitive but relaxed racing league for followers of my Twitch stream and YouTube Channel\. |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} | |TopOne AV since 2022 |
 |[Ruthless Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11989){:target="_blank"} | | |
+|[804 Raceway](https://members.iracing.com/membersite/member/LeagueView.do?league=12003){:target="_blank"} | |Truck racing |
 |[DRS Watch Party League \($700 Prize Pool\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12001){:target="_blank"} | |Here you can participate and earn points throughout the DRS IMSA watch party schedule\! This will include all types of cars and tracks\! Are you ready?\! |
 |[Reaper Motorsport Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11997){:target="_blank"} | |RMSR is a brand new begginner friendly league focusing on Touring Cars |
 |[Sim Racing Company](https://members.iracing.com/membersite/member/LeagueView.do?league=11998){:target="_blank"} | | |

@@ -11,6 +11,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|[Grind Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7609){:target="_blank"} |2025 Season | |Nashville Fairgrounds Speedway |Wed, January 08 08:00PM EST |Thu, January 09 01:00AM GMT |Thu, January 09 12:00PM AEDT |
 |[NascarmanYT's Saturday Madness Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11785){:target="_blank"} |Off Season Madness\!\!\! NSMRL SEASON 1 | |Daytona International Speedway |Sat, January 04 04:00PM EST |Sat, January 04 09:00PM GMT |Sun, January 05 08:00AM AEDT |
 |[Xcelerate Racing League Sunday](https://members.iracing.com/membersite/member/LeagueView.do?league=11468){:target="_blank"} |DEP Graphics Next Gen Series | |Kentucky Speedway |Sun, January 05 07:30PM EST |Mon, January 06 12:30AM GMT |Mon, January 06 11:30AM AEDT |
 
@@ -28,9 +29,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[The EBAA Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9626){:target="_blank"} |Xfinity 2025 S1 | |Daytona International Speedway |Mon, January 06 07:00PM EST |Tue, January 07 12:00AM GMT |Tue, January 07 11:00AM AEDT |
 |[The Race Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8289){:target="_blank"} |Yeahman Sportscards Cup Series | |Daytona International Speedway |Sat, January 04 06:50PM EST |Sat, January 04 11:50PM GMT |Sun, January 05 10:50AM AEDT |
+|[Racers Elite \- Wednesday Xfinity Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9180){:target="_blank"} |Racers Elite \- Xfinity Fixed Series \(Season 6\) |Fixed |Indianapolis Motor Speedway |Wed, January 08 06:35PM EST |Wed, January 08 11:35PM GMT |Thu, January 09 10:35AM AEDT |
+|[Xcelerate Racing League Wednesday](https://members.iracing.com/membersite/member/LeagueView.do?league=11474){:target="_blank"} |Sim Racing Accessories Xfinity Series | |Texas Motor Speedway |Wed, January 08 07:30PM EST |Thu, January 09 12:30AM GMT |Thu, January 09 11:30AM AEDT |
 |[PALracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11038){:target="_blank"} |PALracing Season 3 | |Auto Club Speedway |Tue, January 07 07:30PM EST |Wed, January 08 12:30AM GMT |Wed, January 08 11:30AM AEDT |
 
 # Oval
@@ -78,6 +81,14 @@
 |------------------------------------------------------------------------------------------------------------|-----------|-----|------------------------|---------------------------|---------------------------|----------------------------|
 |[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11418){:target="_blank"} |F4S2 WHITE |Both |Charlotte Motor Speedway |Sat, January 04 06:00PM EST |Sat, January 04 11:00PM GMT |Sun, January 05 10:00AM AEDT |
 |[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11418){:target="_blank"} |F4S2 YELLOW |Both |Charlotte Motor Speedway |Sat, January 04 08:00PM EST |Sun, January 05 01:00AM GMT |Sun, January 05 12:00PM AEDT |
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------|----------------------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|[trailbraker\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=11525){:target="_blank"} |trailbraker\.com Beta season |Both |Sebring International Raceway |Wed, January 08 07:00PM EST |Thu, January 09 12:00AM GMT |Thu, January 09 11:00AM AEDT |
 
 ### Lotus 79
 
