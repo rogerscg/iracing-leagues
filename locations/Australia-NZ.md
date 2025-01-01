@@ -172,14 +172,6 @@
 |------------------------------------------------------------------------------------------------------------------------|-------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
 |[RaceKraft Simulations 2024](https://members.iracing.com/membersite/member/LeagueView.do?league=11657){:target="_blank"} |RaceKraft Simulations GR86 Cup Series |Australia-NZ |37 |1744 | | | | | |
 
-### [Legacy] V8Supercars
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|-----------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |Friday Night Legacy v8s |Australia-NZ |18 |1474 |Both | | | | |
-
 # Prototype
 
 ### Dallara P217

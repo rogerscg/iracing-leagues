@@ -97,6 +97,14 @@
 |-----------------------------------------------------------------------------------------------------------|----------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
 |[Coyote Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10382){:target="_blank"} |Porsche Cup 2025 | |Oulton Park Circuit |Tue, January 07 02:00PM EST |Tue, January 07 07:00PM GMT |Wed, January 08 06:00AM AEDT |
 
+### Touring Car
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------|-------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|[ORNL\.nl Woensdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=5652){:target="_blank"} |ORNL BTCC '25 |Fixed |Donington Park Racing Circuit |Wed, January 08 02:00PM EST |Wed, January 08 07:00PM GMT |Thu, January 09 06:00AM AEDT |
+
 ### Toyota GR86
 
 [Back to Top](#)  
