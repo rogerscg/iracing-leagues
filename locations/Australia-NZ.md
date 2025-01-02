@@ -237,14 +237,6 @@
 
 # Multi-class/Unclassified
 
-### GT3 Class
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------|------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
-|[E\-Pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |EPRL GT3 Season 4 |Australia-NZ |11 |1501 |Open |WeatherTech Raceway at Laguna Seca |Sat, January 04 02:00AM EST |Sat, January 04 07:00AM GMT |Sat, January 04 06:00PM AEDT |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  

@@ -7,15 +7,10 @@
 |[Iracing Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11950){:target="_blank"} | | |
 |[NASCAR VS](https://members.iracing.com/membersite/member/LeagueView.do?league=11953){:target="_blank"} |[Discord](https://discord.gg/EAQvnPXqbr){:target="_blank"} |Multi Class NASCAR Racing |
 |[Sim racing Formule 1600 Québec](https://members.iracing.com/membersite/member/LeagueView.do?league=11949){:target="_blank"} | |Pour le fun |
-|[Rosalina's Stars](https://members.iracing.com/membersite/member/LeagueView.do?league=11942){:target="_blank"} | | |
-|[Savage Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=11944){:target="_blank"} |[Discord](https://discord.gg/fB4wUbqfDU){:target="_blank"} |Savage Sim Racing community's inaugural league\. |
 |[Sim\-Race Simps](https://members.iracing.com/membersite/member/LeagueView.do?league=11948){:target="_blank"} | |Endurance Race Training |
 |[SOFLO](https://members.iracing.com/membersite/member/LeagueView.do?league=11946){:target="_blank"} | |fun times |
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} | |Dirt and Asphalt League |
 |[LaunchPointGG Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11945){:target="_blank"} |[Discord](https://discord.gg/apYt7zXC3K){:target="_blank"} | |
-|[PESCP 2024 \- Baraże](https://members.iracing.com/membersite/member/LeagueView.do?league=11941){:target="_blank"} | | |
-|[Speakeasy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11940){:target="_blank"} | |Members Only / Invite Only |
-|[Tuners, Hackers, and Hillbillies](https://members.iracing.com/membersite/member/LeagueView.do?league=11943){:target="_blank"} | | |
 |[California Dreaming](https://members.iracing.com/membersite/member/LeagueView.do?league=11956){:target="_blank"} | |Friends going fast |
 |[Friday Night Lights \- XFINITY](https://members.iracing.com/membersite/member/LeagueView.do?league=11955){:target="_blank"} | |Full Distance XFINITY Series |
 |[NAPA Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11960){:target="_blank"} | | |
@@ -65,4 +60,9 @@
 |[Skip Barber Sim Center Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=12000){:target="_blank"} | |Skip Barber's very own Sim Center is thrilled to announce to launch of it's first in\-house iRacing League\! Come see us in person and compete for some awesome prizes\! |
 |[Top Tier Racing Gen 6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12002){:target="_blank"} | | |
 |[DragonRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=11999){:target="_blank"} | | |
+|[86 Challenge Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12005){:target="_blank"} | |GR86 and Multiclass Sim Racing League for members of 86 Challenge and friends\! All iRatings are welcome\. |
+|[B2TW Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12007){:target="_blank"} | | |
+|[g80](https://members.iracing.com/membersite/member/LeagueView.do?league=12008){:target="_blank"} | | |
+|[X2R Simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12006){:target="_blank"} | | |
+|[RSG Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12004){:target="_blank"} | |Private Club |
 

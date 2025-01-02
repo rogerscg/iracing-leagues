@@ -10,9 +10,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
 |[Grind Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7609){:target="_blank"} |2025 Season | |Nashville Fairgrounds Speedway |Wed, January 08 08:00PM EST |Thu, January 09 01:00AM GMT |Thu, January 09 12:00PM AEDT |
 |[NascarmanYT's Saturday Madness Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11785){:target="_blank"} |Off Season Madness\!\!\! NSMRL SEASON 1 | |Daytona International Speedway |Sat, January 04 04:00PM EST |Sat, January 04 09:00PM GMT |Sun, January 05 08:00AM AEDT |
+|[Racers Elite \- Thursday Next Gen Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9514){:target="_blank"} |Racers Elite \- Next Gen Fixed Series \(Season 6\) |Fixed |Michigan International Speedway |Thu, January 09 06:35PM EST |Thu, January 09 11:35PM GMT |Fri, January 10 10:35AM AEDT |
 |[Xcelerate Racing League Sunday](https://members.iracing.com/membersite/member/LeagueView.do?league=11468){:target="_blank"} |DEP Graphics Next Gen Series | |Kentucky Speedway |Sun, January 05 07:30PM EST |Mon, January 06 12:30AM GMT |Mon, January 06 11:30AM AEDT |
 
 ### NASCAR Truck Series
@@ -54,14 +55,6 @@
 |---------------------------------------------------------------------------------------------------------------|--------------------|-----|------------------------|---------------------------|---------------------------|----------------------------|
 |[ORNL\.nl Dinsdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=8273){:target="_blank"} |Ford legends cup '25 | |Charlotte Motor Speedway |Tue, January 07 02:00PM EST |Tue, January 07 07:00PM GMT |Wed, January 08 06:00AM AEDT |
 
-### Street Stocks
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |TVR Street Stock Championship |Fixed |Charlotte Motor Speedway |Wed, January 01 08:00PM EST |Thu, January 02 01:00AM GMT |Thu, January 02 12:00PM AEDT |
-
 ### Super Late Model
 
 [Back to Top](#)  
@@ -69,9 +62,17 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
 |[K05 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8633){:target="_blank"} |K05 Short Track Series |Fixed |Kevin Harvick's Kern Raceway |Thu, January 02 07:30PM EST |Fri, January 03 12:30AM GMT |Fri, January 03 11:30AM AEDT |
-|[NOSSCAR Pro Canadian Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8085){:target="_blank"} |2025 NOSSCAR Pro Canadian Cup Series \(SLMs\) | |Bristol Motor Speedway |Sun, January 05 08:00PM EST |Mon, January 06 01:00AM GMT |Mon, January 06 12:00PM AEDT |
+|[NOSSCAR Pro Canadian Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8085){:target="_blank"} |2025 NOSSCAR Pro Canadian Cup Series \(SLMs\) | |Bristol Motor Speedway |Sun, January 05 08:30PM EST |Mon, January 06 01:30AM GMT |Mon, January 06 12:30PM AEDT |
 
 # Open-wheel
+
+### Dallara IR18
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|------------------|-----|---------------------------|---------------------------|---------------------------|----------------------------|
+|[500 MILES FOR ANNA BY NNRT](https://members.iracing.com/membersite/member/LeagueView.do?league=11003){:target="_blank"} |500 Miles for Anna |Fixed |Indianapolis Motor Speedway |Thu, January 09 02:00PM EST |Thu, January 09 07:00PM GMT |Fri, January 10 06:00AM AEDT |
 
 ### FIA F4
 
@@ -131,7 +132,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|------------|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|[BRSCC Winter eSports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9071){:target="_blank"} |2024\-2025 BRSCC Winter Series | |Circuito de Navarra |Thu, January 09 02:00PM EST |Thu, January 09 07:00PM GMT |Fri, January 10 06:00AM AEDT |
 |[ORNL\.nl Zondag](https://members.iracing.com/membersite/member/LeagueView.do?league=6769){:target="_blank"} |VW Jetta Cup | |Summit Point Raceway |Sun, January 05 02:00PM EST |Sun, January 05 07:00PM GMT |Mon, January 06 06:00AM AEDT |
 
 ### Supercars Gen 3
@@ -167,8 +169,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|----------------------------------------|---------------------------|---------------------------|----------------------------|
-|[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2025 WEDNESDAY NIGHTS\!\! |Fixed |Circuito de Navarra |Wed, January 01 09:00PM EST |Thu, January 02 02:00AM GMT |Thu, January 02 01:00PM AEDT |
+|-----------------------------------------------------------------------------------------------------------------|---------------------------|-----|----------------------------------------|---------------------------|---------------------------|----------------------------|
+|[ORNL\.nl Donderdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |ORNL Le Mans Series '25 |Open |Suzuka International Racing Course |Thu, January 09 02:00PM EST |Thu, January 09 07:00PM GMT |Fri, January 10 06:00AM AEDT |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Diamond League Season 2 | |Nürburgring Combined |Tue, January 07 08:00PM EST |Wed, January 08 01:00AM GMT |Wed, January 08 12:00PM AEDT |
 |[CUP vs CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=10931){:target="_blank"} |PCup vs\. NASCUP Season 1 |Open |Circuit des 24 Heures du Mans |Sat, January 04 04:30PM EST |Sat, January 04 09:30PM GMT |Sun, January 05 08:30AM AEDT |
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |TRUCKS Season 7 |Fixed |[Legacy] Charlotte Motor Speedway - 2008 |Mon, January 06 08:45PM EST |Tue, January 07 01:45AM GMT |Tue, January 07 12:45PM AEDT |
