@@ -2,17 +2,8 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Ohio Valley Sim Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |[Discord](https://discord.gg/Unqux7Fu){:target="_blank"} |358 Modified Mayhem Tour\. Racing on Saturday nights at 9pm ET, starting on 2/8/2025\. 16 race schedule\. Fixed Setup |
-|[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=11951){:target="_blank"} | |Dirt Midget League \(DML\) \- Everything Midgets\! Slide or die yet rules still apply\! |
-|[Iracing Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11950){:target="_blank"} | | |
-|[NASCAR VS](https://members.iracing.com/membersite/member/LeagueView.do?league=11953){:target="_blank"} |[Discord](https://discord.gg/EAQvnPXqbr){:target="_blank"} |Multi Class NASCAR Racing |
-|[Sim racing Formule 1600 Québec](https://members.iracing.com/membersite/member/LeagueView.do?league=11949){:target="_blank"} | |Pour le fun |
-|[Sim\-Race Simps](https://members.iracing.com/membersite/member/LeagueView.do?league=11948){:target="_blank"} | |Endurance Race Training |
-|[SOFLO](https://members.iracing.com/membersite/member/LeagueView.do?league=11946){:target="_blank"} | |fun times |
-|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} | |Dirt and Asphalt League |
-|[LaunchPointGG Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11945){:target="_blank"} |[Discord](https://discord.gg/apYt7zXC3K){:target="_blank"} | |
 |[California Dreaming](https://members.iracing.com/membersite/member/LeagueView.do?league=11956){:target="_blank"} | |Friends going fast |
-|[Friday Night Lights \- XFINITY](https://members.iracing.com/membersite/member/LeagueView.do?league=11955){:target="_blank"} | |Full Distance XFINITY Series |
+|[Friday Night Lights \- XFINITY](https://members.iracing.com/membersite/member/LeagueView.do?league=11955){:target="_blank"} |[Discord](https://discord.gg/7xpR3kbfaH){:target="_blank"} |Full Distance XFINITY Series |
 |[NAPA Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11960){:target="_blank"} | | |
 |[No Limit Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11957){:target="_blank"} | |We are a relaxed Street Stock League that runs Friday nights at 8pm ET\. The schedule will include 1\.5 miles, short tracks, a road course, and a dirt oval\. |
 |[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11954){:target="_blank"} | | |
@@ -65,4 +56,8 @@
 |[g80](https://members.iracing.com/membersite/member/LeagueView.do?league=12008){:target="_blank"} | | |
 |[X2R Simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12006){:target="_blank"} | | |
 |[RSG Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12004){:target="_blank"} | |Private Club |
+|[First Gear Racing Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12012){:target="_blank"} | |FGR Special Events |
+|[Creme Freche League](https://members.iracing.com/membersite/member/LeagueView.do?league=12009){:target="_blank"} | |Creme Freche League Nordi Tourist |
+|[PASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12011){:target="_blank"} | |Professional Association for Simulation Auto Racing |
+|[PuddingCUP \[by SHX Racing\]](https://members.iracing.com/membersite/member/LeagueView.do?league=12010){:target="_blank"} |[Discord](https://discord.gg/6TGYmRx5aa){:target="_blank"} |Willkommen im PuddingCUP |
 

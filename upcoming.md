@@ -60,8 +60,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
-|[K05 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8633){:target="_blank"} |K05 Short Track Series |Fixed |Kevin Harvick's Kern Raceway |Thu, January 02 07:30PM EST |Fri, January 03 12:30AM GMT |Fri, January 03 11:30AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----|----------------------|---------------------------|---------------------------|----------------------------|
 |[NOSSCAR Pro Canadian Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8085){:target="_blank"} |2025 NOSSCAR Pro Canadian Cup Series \(SLMs\) | |Bristol Motor Speedway |Sun, January 05 08:30PM EST |Mon, January 06 01:30AM GMT |Mon, January 06 12:30PM AEDT |
 
 # Open-wheel
@@ -123,7 +122,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|------------------|-----|------------------|---------------------------|---------------------------|----------------------------|
-|[Battle Scarred eMotorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10456){:target="_blank"} |2025 Weekly Series | |Circuit de Lédenon |Fri, January 03 07:00PM EST |Sat, January 04 12:00AM GMT |Sat, January 04 11:00AM AEDT |
+|[Battle Scarred eMotorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10456){:target="_blank"} |2025 Weekly Series | |Circuit de Lédenon |Sun, January 05 07:00PM EST |Mon, January 06 12:00AM GMT |Mon, January 06 11:00AM AEDT |
 
 # Road
 
