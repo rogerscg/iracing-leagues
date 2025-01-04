@@ -169,9 +169,9 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|---------------------------|-----|----------------------------------------|---------------------------|---------------------------|----------------------------|
+|[24 Hours of Lemons](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |2025 Lemons Monthly Series | |Slinger Speedway |Sat, January 11 08:00PM EST |Sun, January 12 01:00AM GMT |Sun, January 12 12:00PM AEDT |
 |[ORNL\.nl Donderdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |ORNL Le Mans Series '25 |Open |Suzuka International Racing Course |Thu, January 09 02:00PM EST |Thu, January 09 07:00PM GMT |Fri, January 10 06:00AM AEDT |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Diamond League Season 2 | |Nürburgring Combined |Tue, January 07 08:00PM EST |Wed, January 08 01:00AM GMT |Wed, January 08 12:00PM AEDT |
-|[CUP vs CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=10931){:target="_blank"} |PCup vs\. NASCUP Season 1 |Open |Circuit des 24 Heures du Mans |Sat, January 04 04:30PM EST |Sat, January 04 09:30PM GMT |Sun, January 05 08:30AM AEDT |
+|[CUP vs CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=10931){:target="_blank"} |PCup vs\. NASCUP Season 1 |Open |Circuit des 24 Heures du Mans |Sat, January 04 05:00PM EST |Sat, January 04 10:00PM GMT |Sun, January 05 09:00AM AEDT |
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |TRUCKS Season 7 |Fixed |[Legacy] Charlotte Motor Speedway - 2008 |Mon, January 06 08:45PM EST |Tue, January 07 01:45AM GMT |Tue, January 07 12:45PM AEDT |
-|[GT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5760){:target="_blank"} |S7 GT3 Series | |Long Beach Street Circuit |Fri, January 03 09:00PM EST |Sat, January 04 02:00AM GMT |Sat, January 04 01:00PM AEDT |
 

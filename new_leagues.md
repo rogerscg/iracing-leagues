@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[California Dreaming](https://members.iracing.com/membersite/member/LeagueView.do?league=11956){:target="_blank"} | |Friends going fast |
-|[Friday Night Lights \- XFINITY](https://members.iracing.com/membersite/member/LeagueView.do?league=11955){:target="_blank"} |[Discord](https://discord.gg/7xpR3kbfaH){:target="_blank"} |Full Distance XFINITY Series |
-|[NAPA Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11960){:target="_blank"} | | |
-|[No Limit Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11957){:target="_blank"} | |We are a relaxed Street Stock League that runs Friday nights at 8pm ET\. The schedule will include 1\.5 miles, short tracks, a road course, and a dirt oval\. |
-|[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11954){:target="_blank"} | | |
-|[SPARK Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11959){:target="_blank"} |[Discord](https://discord.gg/T6NxgkgMdz){:target="_blank"} |Join our Discord: https://discord\.gg/T6NxgkgMdz |
-|[Praise Dale](https://members.iracing.com/membersite/member/LeagueView.do?league=11958){:target="_blank"} | |season |
 |[AW Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11963){:target="_blank"} | |AWRL |
 |[Horizon Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11964){:target="_blank"} | | |
 |[iRacing Rotti Offseason Grand Prix Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11961){:target="_blank"} | |Offseaon Grand Prix Series featuring Super Formula Lights prior to the start of the F1 Season\. |
@@ -28,7 +21,7 @@
 |[WK&P](https://members.iracing.com/membersite/member/LeagueView.do?league=11978){:target="_blank"} | |Team League |
 |[Bad Fast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11974){:target="_blank"} | |Mini Stocks and Legends |
 |[Cowan](https://members.iracing.com/membersite/member/LeagueView.do?league=11980){:target="_blank"} | | |
-|[NXTGP sim league](https://members.iracing.com/membersite/member/LeagueView.do?league=11981){:target="_blank"} | |welkom bij onze volwaardige simrace league\! wij organiseren meerdere evtns |
+|[NXTGP sim league](https://members.iracing.com/membersite/member/LeagueView.do?league=11981){:target="_blank"} | |nxtgp |
 |[ACT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11996){:target="_blank"} | |Late model stock |
 |[ApexOne Division 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11993){:target="_blank"} | |ApexOne NJ Members\-Only League: Season 1 \(Division 1\) |
 |[Corvettes vs The World](https://members.iracing.com/membersite/member/LeagueView.do?league=11982){:target="_blank"} | |sports car |
@@ -60,4 +53,15 @@
 |[Creme Freche League](https://members.iracing.com/membersite/member/LeagueView.do?league=12009){:target="_blank"} | |Creme Freche League Nordi Tourist |
 |[PASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12011){:target="_blank"} | |Professional Association for Simulation Auto Racing |
 |[PuddingCUP \[by SHX Racing\]](https://members.iracing.com/membersite/member/LeagueView.do?league=12010){:target="_blank"} |[Discord](https://discord.gg/6TGYmRx5aa){:target="_blank"} |Willkommen im PuddingCUP |
+|[BMW M2 Community Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12021){:target="_blank"} | |Jackyboy Racing BMW M2 Community Championship |
+|[F4 Community Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12017){:target="_blank"} | |Jackyboy Racing F4 Community Championship |
+|[Formula None](https://members.iracing.com/membersite/member/LeagueView.do?league=12016){:target="_blank"} |[Discord](https://discord.gg/zvgttZj58R){:target="_blank"} |Road Course and Endurance League\. Ran in collaboration with FTiR and ACX Simulations |
+|[GoTime](https://members.iracing.com/membersite/member/LeagueView.do?league=12013){:target="_blank"} | |Getting it done |
+|[GoTime](https://members.iracing.com/membersite/member/LeagueView.do?league=12014){:target="_blank"} | |Good times |
+|[Majors Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=12020){:target="_blank"} | | |
+|[Majors European](https://members.iracing.com/membersite/member/LeagueView.do?league=12018){:target="_blank"} | | |
+|[Majors International](https://members.iracing.com/membersite/member/LeagueView.do?league=12019){:target="_blank"} | | |
+|[SPEED iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12022){:target="_blank"} | |The offical home of the SPEED iRacing Series |
+|[whelen mods](https://members.iracing.com/membersite/member/LeagueView.do?league=12023){:target="_blank"} | |whelen modifieds at iowa |
+|[Splinter League](https://members.iracing.com/membersite/member/LeagueView.do?league=12015){:target="_blank"} | |Racing for fun |
 
