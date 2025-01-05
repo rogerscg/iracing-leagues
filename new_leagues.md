@@ -1,11 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[AW Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11963){:target="_blank"} | |AWRL |
-|[Horizon Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11964){:target="_blank"} | | |
-|[iRacing Rotti Offseason Grand Prix Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11961){:target="_blank"} | |Offseaon Grand Prix Series featuring Super Formula Lights prior to the start of the F1 Season\. |
-|[Saturday Night Racing League Super GT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11962){:target="_blank"} | | |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[DegaPro's](https://members.iracing.com/membersite/member/LeagueView.do?league=11969){:target="_blank"} | |Super Speedway Racing |
 |[Dirty's Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=11966){:target="_blank"} | | |
 |[H&M late model league](https://members.iracing.com/membersite/member/LeagueView.do?league=11972){:target="_blank"} |[Discord](https://discord.gg/gverJ5AE){:target="_blank"} |late model league join the discord if u havent already |
@@ -64,4 +60,8 @@
 |[SPEED iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12022){:target="_blank"} | |The offical home of the SPEED iRacing Series |
 |[whelen mods](https://members.iracing.com/membersite/member/LeagueView.do?league=12023){:target="_blank"} | |whelen modifieds at iowa |
 |[Splinter League](https://members.iracing.com/membersite/member/LeagueView.do?league=12015){:target="_blank"} | |Racing for fun |
+|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | |This league is all about bringing the guys together for a good time, focusing on camaraderie rather than competition\. Sure, there will be points, but the real goal is to enjoy yourself, unwind, and let off some steam\. It's the perfect way to kick back on a Monday night, stress free, with everyone logging on at the same time once a week\. |
+|[nascar2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12026){:target="_blank"} | |if you aint first your last |
+|[Outlaw Micro Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12025){:target="_blank"} | |Heads up winged outlaw racing |
+|[Sit'nBull Outrageous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12027){:target="_blank"} | |A small group of friends racing on Tuesday nights |
 
