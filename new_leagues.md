@@ -2,7 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[H&M late model league](https://members.iracing.com/membersite/member/LeagueView.do?league=11972){:target="_blank"} |[Discord](https://discord.gg/gverJ5AE){:target="_blank"} |late model league join the discord if u havent already |
 |[CRA Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11977){:target="_blank"} |[Discord](https://discord.gg/VGCKazQQ){:target="_blank"} |This league is for fun but take it serious Email @crastreetstockiraicng@gmail\.com |
 |[IRacing Super Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11973){:target="_blank"} |[Discord](https://discord.gg/9PCdxpw8qb){:target="_blank"} |Hello everyone\! Welcome to the IRacing Super Formula Series We are a brand new series and look to bring a fun racing experience We offer the following: Fixed Set Racing Competitive Racing No entry fee $ Prize for constructors champion\. So if that sounds like your type of league, join right in\! |
 |[Phipps Private League](https://members.iracing.com/membersite/member/LeagueView.do?league=11979){:target="_blank"} | | |
@@ -16,7 +15,7 @@
 |[ApexOne Division 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11993){:target="_blank"} | |ApexOne NJ Members\-Only League: Season 1 \(Division 1\) |
 |[Corvettes vs The World](https://members.iracing.com/membersite/member/LeagueView.do?league=11982){:target="_blank"} | |sports car |
 |[FASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11988){:target="_blank"} |[Discord](https://discord.gg/nGfsrFzSKE){:target="_blank"} |Home of the Choose car |
-|[FOR](https://members.iracing.com/membersite/member/LeagueView.do?league=11986){:target="_blank"} | |FISCHESSER OWNEN IRACING LEAGUE |
+|[FOR](https://members.iracing.com/membersite/member/LeagueView.do?league=11986){:target="_blank"} | |FISCHESSER OWEN IRACING LEAGUE |
 |[GKI](https://members.iracing.com/membersite/member/LeagueView.do?league=11995){:target="_blank"} |[Discord](https://discord.gg/JxRattfp){:target="_blank"} |Gokart racers iracing league |
 |[GLR LATE MODEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11992){:target="_blank"} | | |
 |[IGL Coatings & Sande Trafikkskole](https://members.iracing.com/membersite/member/LeagueView.do?league=11983){:target="_blank"} | |FUN RACE |
@@ -74,4 +73,5 @@
 |[Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=12036){:target="_blank"} | |testBOP |
 |[The Inside Track by Shift Up Now](https://members.iracing.com/membersite/member/LeagueView.do?league=12037){:target="_blank"} | |Shift Up Now Members League |
 |[Weiner Entropy](https://members.iracing.com/membersite/member/LeagueView.do?league=12039){:target="_blank"} | |Chaos on wheels |
+|[DMSK MSR2025 FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=12045){:target="_blank"} | |Slovak National Championship 2025 |
 
