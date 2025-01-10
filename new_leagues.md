@@ -2,15 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[CRA Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11977){:target="_blank"} |[Discord](https://discord.gg/VGCKazQQ){:target="_blank"} |This league is for fun but take it serious Email @crastreetstockiraicng@gmail\.com |
-|[IRacing Super Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11973){:target="_blank"} |[Discord](https://discord.gg/9PCdxpw8qb){:target="_blank"} |Hello everyone\! Welcome to the IRacing Super Formula Series We are a brand new series and look to bring a fun racing experience We offer the following: Fixed Set Racing Competitive Racing No entry fee $ Prize for constructors champion\. So if that sounds like your type of league, join right in\! |
-|[Phipps Private League](https://members.iracing.com/membersite/member/LeagueView.do?league=11979){:target="_blank"} | | |
-|[titans of dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=11975){:target="_blank"} | |dirt racing |
-|[titans of road racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11976){:target="_blank"} | |road racing |
-|[WK&P](https://members.iracing.com/membersite/member/LeagueView.do?league=11978){:target="_blank"} | |Team League |
-|[Bad Fast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11974){:target="_blank"} | |Mini Stocks and Legends |
-|[Cowan](https://members.iracing.com/membersite/member/LeagueView.do?league=11980){:target="_blank"} | | |
-|[NXTGP sim league](https://members.iracing.com/membersite/member/LeagueView.do?league=11981){:target="_blank"} | |nxtgp |
 |[ACT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11996){:target="_blank"} | |Late model stock |
 |[ApexOne Division 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11993){:target="_blank"} | |ApexOne NJ Members\-Only League: Season 1 \(Division 1\) |
 |[Corvettes vs The World](https://members.iracing.com/membersite/member/LeagueView.do?league=11982){:target="_blank"} | |sports car |
@@ -22,7 +13,7 @@
 |[KeithSayYes\-YESCAR Late Night Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11994){:target="_blank"} | |Late Night Select Drivers League |
 |[NEW LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11991){:target="_blank"} | | |
 |[oNiD iRacing Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=11984){:target="_blank"} | |The Home for All oNiDs iRacing Events |
-|[Paddock Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11985){:target="_blank"} | |Road Racing |
+|[Paddock Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11985){:target="_blank"} | |Road Racing every Thursday night at 7:00 pm |
 |[ss0op's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11987){:target="_blank"} | |A fun, competitive but relaxed racing league for followers of my Twitch stream and YouTube Channel\. |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} | |TopOne AV since 2022 |
 |[Ruthless Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11989){:target="_blank"} | | |
@@ -56,7 +47,7 @@
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | |This league is all about bringing the guys together for a good time, focusing on camaraderie rather than competition\. Sure, there will be points, but the real goal is to enjoy yourself, unwind, and let off some steam\. It's the perfect way to kick back on a Monday night, stress free, with everyone logging on at the same time once a week\. |
 |[nascar2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12026){:target="_blank"} | |if you aint first your last |
 |[Outlaw Micro Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12025){:target="_blank"} | |Heads up winged outlaw racing |
-|[Sit'nBull Outrageous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12027){:target="_blank"} | |A small group of friends racing on Tuesday nights |
+|[4 Stooges Outrageous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12027){:target="_blank"} | |A group of friends racing at 7 pm eastern every day\. |
 |[\#0 ORCA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12028){:target="_blank"} | |Gen 6 NASCAR Cup Cars |
 |[ALOHSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12031){:target="_blank"} |[Discord](https://discord.gg/NGpXMPGK){:target="_blank"} |Welcome to ALOHSRL "A Little On The High Side Racing League"\. Our organization has been running on different platforms since Jan of 2020\. We are passionate racers/sim\-racers/racing fans and we bring new innovative ideas to the table that we are implementing from NASCAR and experiences we have had over the years\. We are constantly discussing new ideas and suggestions to better both of our series and organization\. Every situation is discussed as a group and therefore a learning experience for everyone, and the league in order to implement everything we learn into our league for the better of our league as a whole\. We are determined and dedicated to reaching our ultimate goal of providing professional sim\-racing at its highest level\. By joining ALOHSRL, drivers are acknowledging the importance and requirement to abide by our rules and sportsmanship guidelines\. While participating in an ALOHSRL event, drivers are expected to maintain a level of sportsmanship and maintain a level of respect for other drivers\. |
 |[Battle Grounds](https://members.iracing.com/membersite/member/LeagueView.do?league=12029){:target="_blank"} | |Multiple car league with action packed racing running sunday nights |
@@ -74,4 +65,15 @@
 |[The Inside Track by Shift Up Now](https://members.iracing.com/membersite/member/LeagueView.do?league=12037){:target="_blank"} | |Shift Up Now Members League |
 |[Weiner Entropy](https://members.iracing.com/membersite/member/LeagueView.do?league=12039){:target="_blank"} | |Chaos on wheels |
 |[DMSK MSR2025 FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=12045){:target="_blank"} | |Slovak National Championship 2025 |
+|[802 Iracing League Daytona 500](https://members.iracing.com/membersite/member/LeagueView.do?league=12050){:target="_blank"} | |Full Length Daytona 400 |
+|[Baker League](https://members.iracing.com/membersite/member/LeagueView.do?league=12051){:target="_blank"} | | |
+|[Bootleg Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12055){:target="_blank"} | | |
+|[FDL SFL Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12053){:target="_blank"} | |Driver\-focused, Australian Formula car only iRacing league committed to providing clean, exciting racing\. |
+|[Northern Modified Dirt Series \(NMDS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12048){:target="_blank"} | |BigBlock Mods Fixed Setup |
+|[Northwest Figure 8 Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12046){:target="_blank"} | | |
+|[SCRA Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=12049){:target="_blank"} |[Discord](https://discord.gg/2ChhvXY7gG){:target="_blank"} |SCRA Mini Stocks Season 14 DIRT \*must\* be in discord to participate |
+|[SRQ TAXES Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12056){:target="_blank"} | | |
+|[Traction Boy](https://members.iracing.com/membersite/member/LeagueView.do?league=12052){:target="_blank"} | |jack rankin washed |
+|[SRC NOS SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12054){:target="_blank"} | |SRC NOS SERIES |
+|[遠州ハママツモータース](https://members.iracing.com/membersite/member/LeagueView.do?league=12047){:target="_blank"} | | |
 
