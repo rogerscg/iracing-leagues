@@ -10,7 +10,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck Cup S3: More Cluster Less Luster |North America |15 |1826 | | | | | |
-|[NASA 2x4 Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |2x4 24A |North America |14 |3419 |Fixed | | | | |
 
 ### Pro 2 Lite Truck
 
