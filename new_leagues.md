@@ -3,17 +3,11 @@
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[ACT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11996){:target="_blank"} | |Late model stock |
-|[ApexOne Division 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11993){:target="_blank"} | |ApexOne NJ Members\-Only League: Season 1 \(Division 1\) |
-|[FASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11988){:target="_blank"} |[Discord](https://discord.gg/nGfsrFzSKE){:target="_blank"} |Home of the Choose car |
-|[FOR](https://members.iracing.com/membersite/member/LeagueView.do?league=11986){:target="_blank"} | |FISCHESSER OWEN IRACING LEAGUE |
+|[ApexOne NJ Members\-Only League: Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11993){:target="_blank"} | |ApexOne NJ Members\-Only League: Season 1 |
 |[GKI](https://members.iracing.com/membersite/member/LeagueView.do?league=11995){:target="_blank"} |[Discord](https://discord.gg/JxRattfp){:target="_blank"} |Gokart racers iracing league |
 |[GLR LATE MODEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11992){:target="_blank"} | | |
-|[IGL Coatings & Sande Trafikkskole](https://members.iracing.com/membersite/member/LeagueView.do?league=11983){:target="_blank"} | |FUN RACE |
 |[KeithSayYes\-YESCAR Late Night Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11994){:target="_blank"} | |Late Night Select Drivers League |
 |[NEW LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11991){:target="_blank"} | | |
-|[oNiD iRacing Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=11984){:target="_blank"} | |The Home for All oNiDs iRacing Events |
-|[Paddock Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11985){:target="_blank"} | |Road Racing every Thursday night at 7:00 pm |
-|[ss0op's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11987){:target="_blank"} | |A fun, competitive but relaxed racing league for followers of my Twitch stream and YouTube Channel\. |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} | |TopOne AV since 2022 |
 |[Ruthless Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11989){:target="_blank"} | | |
 |[804 Raceway](https://members.iracing.com/membersite/member/LeagueView.do?league=12003){:target="_blank"} | |Truck racing |
@@ -58,7 +52,7 @@
 |[ISRAEL Rallycross league](https://members.iracing.com/membersite/member/LeagueView.do?league=12041){:target="_blank"} | |israel rally league |
 |[LLN's West Coast Late Model Stock Car Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12035){:target="_blank"} |[Discord](https://discord.gg/urgXUVgwsW){:target="_blank"} |Lost Lug Nuts' West Coast Late Model Stock Car Tour Join us every Wednesday night at 6:30 PM PST for thrilling Late Model Stock Car racing on the best West Coast tracks\! Featuring a competitive points series and fixed setups, our league is all about skill, clean racing, and fun\. Test your mettle on ovals and road courses, and see if you have what it takes to claim the championship\! |
 |[Metal Heads Motorsports Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=12030){:target="_blank"} | |Dirt Race |
-|[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12042){:target="_blank"} | |A league for night owls and racing enthusiasts from different time zones\. We welcome drivers who love racing after hours, whether you're an early riser or a night owl\. Our league offers competitive racing with a focus on fun and fair competition, no matter where you are in the world\. Join us and race with fellow late\-night drivers in a community where time zones are no barrier to thrilling competition\! |
+|[Midnight Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12042){:target="_blank"} | |A league for night owls and racing enthusiasts from different time zones\. We welcome drivers who love racing after hours, whether you're an early riser or a night owl\. Our league offers competitive racing with a focus on fun and fair competition, no matter where you are in the world\. Join us and race with fellow late\-night drivers in a community where time zones are no barrier to thrilling competition\! |
 |[SuperLiga NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12032){:target="_blank"} | |Campeonato de NASCAR Oval |
 |[Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=12036){:target="_blank"} | |testBOP |
 |[The Inside Track by Shift Up Now](https://members.iracing.com/membersite/member/LeagueView.do?league=12037){:target="_blank"} | |Shift Up Now Members League |
@@ -85,4 +79,9 @@
 |[IMSA AFK](https://members.iracing.com/membersite/member/LeagueView.do?league=12065){:target="_blank"} | | |
 |[MV Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=12061){:target="_blank"} | |Nossa liga, nossas regras |
 |[The Race for 8](https://members.iracing.com/membersite/member/LeagueView.do?league=12067){:target="_blank"} | |Special Charity Event for Seth Hatchel\. The Race for 8 presented by Vspeed Sim |
+|[GLR Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12070){:target="_blank"} | | |
+|[GSMC](https://members.iracing.com/membersite/member/LeagueView.do?league=12068){:target="_blank"} |[Discord](https://discord.gg/VQ7nDmnnrs){:target="_blank"} | |
+|[Mosh Customs Clash](https://members.iracing.com/membersite/member/LeagueView.do?league=12071){:target="_blank"} | |Home of the 1st Annual Mosh Customs Clash at the Bullring\. Signup at the link below\. |
+|[Pirate Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12072){:target="_blank"} | |League of TikTok streamers and friends\. |
+|[Tier 1 Truck Series \(T 1 T S\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12069){:target="_blank"} | |Tier1RacingLeagueTrucks |
 

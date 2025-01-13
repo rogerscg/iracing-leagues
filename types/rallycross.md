@@ -3,6 +3,14 @@
 
 # Rallycross
 
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|------------------|---------------------------|---------------------------|----------------------------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Beetle Lite Fun Cup \- 2025 |North America |14 |2397 |Fixed |Snetterton Circuit |Thu, January 16 07:00PM EST |Fri, January 17 12:00AM GMT |Fri, January 17 11:00AM AEDT |
+
 ### Rallycross
 
 [Back to Top](#)  
