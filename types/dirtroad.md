@@ -36,10 +36,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|-------------|---------------------------|---------------------------|----------------------------|
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2024 Regional Series |North America |69 |3115 |Open | | | | |
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2025 Qualifying Series |North America |66 |4008 |Open | | | | |
 |[QuickTime Promotions Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8389){:target="_blank"} |AOTC \#1 |North America |16 |1863 | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |ORCGP Grand National Sport Truck \- 2025 |North America |14 |2629 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |ORCGP Grand National Sport Truck \- 2025 |North America |14 |2629 |Fixed |Iowa Speedway |Sat, January 25 11:40PM EST |Sun, January 26 04:40AM GMT |Sun, January 26 03:40PM AEDT |
 |[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} |Season 2 |North America |13 |1357 |Both | | | | |
 
