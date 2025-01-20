@@ -27,9 +27,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|---------------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY SILVER |South America |34 |1960 |Both |Chicagoland Speedway |Thu, January 23 05:00PM EST |Thu, January 23 10:00PM GMT |Fri, January 24 09:00AM AEDT |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY GOLD |South America |22 |3181 |Both |Indianapolis Motor Speedway |Sun, January 19 05:00PM EST |Sun, January 19 10:00PM GMT |Mon, January 20 09:00AM AEDT |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY GOLD |South America |22 |3161 |Both |Chicagoland Speedway |Sun, January 26 05:00PM EST |Sun, January 26 10:00PM GMT |Mon, January 27 09:00AM AEDT |
 
 ### FIA F4
 
@@ -153,7 +153,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |43 |1615 |Both |Mount Panorama Circuit |Sun, January 26 06:30PM EST |Sun, January 26 11:30PM GMT |Mon, January 27 10:30AM AEDT |
-|[IRB \- I\-Pass Gran Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |IRB I\-Pass Gran Touring Series |South America |36 |2563 | | | | | |
+|[IRB \- I\-Pass Gran Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |IRB I\-Pass Gran Touring Series |South America |36 |2563 | |Suzuka International Racing Course |Mon, January 27 04:00PM EST |Mon, January 27 09:00PM GMT |Tue, January 28 08:00AM AEDT |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/1 |South America |26 |1437 | |Suzuka International Racing Course |Thu, January 23 04:10PM EST |Thu, January 23 09:10PM GMT |Fri, January 24 08:10AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC GT3 SERIES |South America |14 |2100 |Both |Circuito de Jerez - Ángel Nieto |Mon, January 20 05:00PM EST |Mon, January 20 10:00PM GMT |Tue, January 21 09:00AM AEDT |
 

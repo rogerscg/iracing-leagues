@@ -60,13 +60,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D DFL Radical SR8 \- Bowens |Australia-NZ |97 |2451 |Both | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR SR8 Season 11 |North America |56 |2280 |Open | | | | |
 |[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |Torneo Radical SR8 |North America |42 |1910 | | | | | |
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |23 |1348 |Fixed |Lime Rock Park |Sun, January 26 08:00PM EST |Mon, January 27 01:00AM GMT |Mon, January 27 12:00PM AEDT |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- Tuesday night \- Radical SR8 |North America |22 |1073 |Open |Charlotte Motor Speedway |Tue, January 21 10:00PM EST |Wed, January 22 03:00AM GMT |Wed, January 22 02:00PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2982 | |Circuit of the Americas |Mon, January 13 03:00PM EST |Mon, January 13 08:00PM GMT |Tue, January 14 07:00AM AEDT |
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |20 |1383 |Fixed |USA International Speedway |Sun, January 19 08:00PM EST |Mon, January 20 01:00AM GMT |Mon, January 20 12:00PM AEDT |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 1 |North America |19 |1199 |Fixed | | | | |
 |[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |North America |19 |1662 |Fixed | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |SR8 \- WCR Season 12 |North America |19 |2330 |Open |Sonoma Raceway |Fri, January 24 08:50PM EST |Sat, January 25 01:50AM GMT |Sat, January 25 12:50PM AEDT |
@@ -78,8 +78,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2024S4 SRF WW |North America |95 |2983 |Open | | | | |
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S1 SRF Weekend Warriors |Europe |80 |2979 |Open |Summit Point Raceway |Sun, January 19 01:40PM EST |Sun, January 19 06:40PM GMT |Mon, January 20 05:40AM AEDT |
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S1 SRF Weekend Warriors |North America |87 |2963 |Open |Silverstone Circuit |Sun, January 26 01:40PM EST |Sun, January 26 06:40PM GMT |Mon, January 27 05:40AM AEDT |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL SRF Season 1 |North America |47 |2260 |Open | | | | |
 
