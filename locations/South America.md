@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|----------------------------------------|---------------------------|---------------------------|----------------------------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar DW12 Rookie |South America |22 |1566 |Fixed |[Legacy] Charlotte Motor Speedway - 2008 |Mon, January 20 05:00PM EST |Mon, January 20 10:00PM GMT |Tue, January 21 09:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|---------------------------------|---------------------------|---------------------------|----------------------------|
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar DW12 Rookie |South America |34 |1512 |Fixed | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 KERS DW12 LEGACY |South America |15 |2129 |Both |[Legacy] Kentucky Speedway - 2011 |Tue, January 21 05:00PM EST |Tue, January 21 10:00PM GMT |Wed, January 22 09:00AM AEDT |
 
 ### Dallara IR18
@@ -27,9 +27,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|---------------------------|---------------------------|---------------------------|----------------------------|
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY SILVER |South America |34 |1960 |Both |Chicagoland Speedway |Thu, January 23 05:00PM EST |Thu, January 23 10:00PM GMT |Fri, January 24 09:00AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY GOLD |South America |22 |3161 |Both |Chicagoland Speedway |Sun, January 26 05:00PM EST |Sun, January 26 10:00PM GMT |Mon, January 27 09:00AM AEDT |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar IR18 2025 T1 |South America |18 |2114 |Fixed |Indianapolis Motor Speedway |Mon, January 27 05:00PM EST |Mon, January 27 10:00PM GMT |Tue, January 28 09:00AM AEDT |
 
 ### FIA F4
 
@@ -55,6 +56,7 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Formula 1600 2024 T4 |South America |33 |1877 |Fixed | | | | |
 |[F1BC Formula 1600](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |Formula 1600 2025/1 |South America |29 |2136 | |Winton Motor Raceway |Wed, January 22 06:25PM EST |Wed, January 22 11:25PM GMT |Thu, January 23 10:25AM AEDT |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Formula 1600 2025 T1 |South America |17 |1723 |Fixed |Circuito de Navarra |Wed, January 22 05:30PM EST |Wed, January 22 10:30PM GMT |Thu, January 23 09:30AM AEDT |
 
 ### Super Formula Lights
 
@@ -121,7 +123,7 @@
 |[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 24T4 |South America |48 |2337 | | | | | |
 |[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2024/4 |South America |40 |2191 | | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GR Cup 2024 T4 |South America |22 |2004 |Fixed | | | | |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT F4 & GR86 2025\.1 |South America |14 |1678 |Both | | | | |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT F4 & GR86 2025\.1 |South America |14 |1678 |Both |Autodromo Nazionale Monza |Tue, January 28 07:00PM EST |Wed, January 29 12:00AM GMT |Wed, January 29 11:00AM AEDT |
 |[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2025/1 |South America |14 |1980 | |Watkins Glen International |Tue, January 21 04:25PM EST |Tue, January 21 09:25PM GMT |Wed, January 22 08:25AM AEDT |
 
 # Prototype
@@ -141,8 +143,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------|-------------|-------------|-------|----|-----|--------------|---------------------------|---------------------------|----------------------------|
-|[F1BC M2 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |M2 Cup 2025/1 |South America |11 |1728 | |Lime Rock Park |Mon, January 20 06:25PM EST |Mon, January 20 11:25PM GMT |Tue, January 21 10:25AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------|-------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |BMW M2 2025 T1 |South America |18 |1673 |Fixed | | | | |
+|[F1BC M2 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |M2 Cup 2025/1 |South America |13 |1724 | |Winton Motor Raceway |Mon, January 27 06:25PM EST |Mon, January 27 11:25PM GMT |Tue, January 28 10:25AM AEDT |
 
 # Multi-class/Unclassified
 
@@ -151,11 +154,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |43 |1615 |Both |Mount Panorama Circuit |Sun, January 26 06:30PM EST |Sun, January 26 11:30PM GMT |Mon, January 27 10:30AM AEDT |
 |[IRB \- I\-Pass Gran Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |IRB I\-Pass Gran Touring Series |South America |36 |2563 | |Suzuka International Racing Course |Mon, January 27 04:00PM EST |Mon, January 27 09:00PM GMT |Tue, January 28 08:00AM AEDT |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/1 |South America |26 |1437 | |Suzuka International Racing Course |Thu, January 23 04:10PM EST |Thu, January 23 09:10PM GMT |Fri, January 24 08:10AM AEDT |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC GT3 SERIES |South America |14 |2100 |Both |Circuito de Jerez - Ángel Nieto |Mon, January 20 05:00PM EST |Mon, January 20 10:00PM GMT |Tue, January 21 09:00AM AEDT |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC GT3 SERIES |South America |15 |2128 |Both |Suzuka International Racing Course |Mon, January 27 05:00PM EST |Mon, January 27 10:00PM GMT |Tue, January 28 09:00AM AEDT |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GT3 Challenge 2025 T1 |South America |11 |1446 |Fixed | | | | |
 
 ### Hosted All Cars Class
 

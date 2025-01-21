@@ -18,8 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
-|[Simaholics Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11487){:target="_blank"} |GTP \- Season 1 |North America |24 |2037 |Both |Algarve International Circuit |Mon, January 20 08:30PM EST |Tue, January 21 01:30AM GMT |Tue, January 21 12:30PM AEDT |
+|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Simaholics Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11487){:target="_blank"} |GTP \- Season 1 |North America |24 |2048 |Both | | | | |
 |[Denver Racing Social](https://members.iracing.com/membersite/member/LeagueView.do?league=11895){:target="_blank"} |DRS Broadcast Challenge Series \(11 Races 1 Champion\) |North America |11 |1568 | | | | | |
 
 ### Hosted All Cars Class
@@ -48,9 +48,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------|---------------------------|---------------------------|----------------------------|
 |[BiS Radical Cup / Radical Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |63 |2270 |Fixed | | | | |
-|[BiS Radical Cup / Radical Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |49 |None |Fixed | | | | |
+|[BiS Radical Cup / Radical Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |49 |None |Fixed |Barber Motorsports Park |Tue, January 28 07:00PM EST |Wed, January 29 12:00AM GMT |Wed, January 29 11:00AM AEDT |
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |North America |39 |1796 |Fixed | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |27 |2919 |Open | | | | |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |15 |1333 |Fixed | | | | |
@@ -71,7 +71,7 @@
 |[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Winter 2024 Radical |North America |19 |1662 |Fixed | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |SR8 \- WCR Season 12 |North America |19 |2330 |Open |Sonoma Raceway |Fri, January 24 08:50PM EST |Sat, January 25 01:50AM GMT |Sat, January 25 12:50PM AEDT |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2024 Q4 \- Tuesday night \- Radical SR8 |North America |17 |1033 |Open | | | | |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |SR8 Championship Season 2 |Europe |15 |3223 | | | | | |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |SR8 Championship Season 2 |Europe |15 |3223 | |Circuit Zandvoort |Mon, January 27 03:00PM EST |Mon, January 27 08:00PM GMT |Tue, January 28 07:00AM AEDT |
 
 ### Spec Racer Ford
 
