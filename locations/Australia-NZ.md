@@ -16,8 +16,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D NASCAR Orbic Truck Series |Australia-NZ |117 |1888 |Both | | | | |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A Orbic Truck Series |Australia-NZ |27 |1709 |Both |Texas Motor Speedway |Wed, January 29 02:30AM EST |Wed, January 29 07:30AM GMT |Wed, January 29 06:30PM AEDT |
 
 # Oval
 
@@ -205,9 +206,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------|-------|----|-----|-----------------|---------------------------|---------------------------|----------------------------|
-|[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |MCV8 \- Season 1 |Australia-NZ |38 |2740 |Fixed |Oran Park Raceway |Mon, January 27 03:00AM EST |Mon, January 27 08:00AM GMT |Mon, January 27 07:00PM AEDT |
+|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A V8SC Dev Series \- Trophi\.AI |Australia-NZ |43 |1799 |Both |Brands Hatch Circuit |Wed, January 29 03:40AM EST |Wed, January 29 08:40AM GMT |Wed, January 29 07:40PM AEDT |
+|[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |MCV8 \- GOLD Split \- Season 1 |Australia-NZ |38 |2740 |Fixed |Oran Park Raceway |Mon, January 27 03:00AM EST |Mon, January 27 08:00AM GMT |Mon, January 27 07:00PM AEDT |
+|[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |MCV8 \- SILVER Split \- Season 1 |Australia-NZ |28 |1544 |Fixed |Oran Park Raceway |Mon, January 27 03:00AM EST |Mon, January 27 08:00AM GMT |Mon, January 27 07:00PM AEDT |
 |[420 OZ SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |420 OZ SIM RACING V8 SUPERCARS SEASON 2 |Australia-NZ |27 |1486 | | | | | |
+|[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025A V8SC Elite Series \- Trophi\.AI |Australia-NZ |23 |2956 | |Brands Hatch Circuit |Wed, January 29 03:40AM EST |Wed, January 29 08:40AM GMT |Wed, January 29 07:40PM AEDT |
 |[Outlaw V8 Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=11244){:target="_blank"} |2025 Summer Season |Australia-NZ |21 |1747 |Fixed | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Supercars Gen  3 Season 1 |Australia-NZ |19 |1166 | | | | | |
 |[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |Test 'n' Tune Sessions |Australia-NZ |15 |1786 |Fixed | | | | |
@@ -227,9 +231,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=11951){:target="_blank"} |DML 2025 Midget Series |Australia-NZ |92 |3737 |Fixed |Lernerville Speedway |Thu, January 23 04:30AM EST |Thu, January 23 09:30AM GMT |Thu, January 23 08:30PM AEDT |
-|[Hustle Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11742){:target="_blank"} |Double K Speedcar Series 2024 |Australia-NZ |18 |2114 | | | | | |
+|[Hustle Performance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11742){:target="_blank"} |Double K Speedcar Series 2024 |Australia-NZ |18 |2114 | | | | | |
 
 ### Dirt SprintCar - 360
 
@@ -265,8 +269,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|----------------|------------|-------|----|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
-|[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Pro Truck Series |Australia-NZ |10 |1476 |Fixed |[Legacy] Phoenix Raceway - 2008 |Thu, January 23 03:00AM EST |Thu, January 23 08:00AM GMT |Thu, January 23 07:00PM AEDT |
+|-----------------------------------------------------------------------------------------------------------|----------------------------|------------|-------|----|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
+|[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Pro Truck Series \- Season 1 |Australia-NZ |10 |1476 |Fixed |[Legacy] Phoenix Raceway - 2008 |Thu, January 23 03:00AM EST |Thu, January 23 08:00AM GMT |Thu, January 23 07:00PM AEDT |
 
 # Multi-class/Unclassified
 

@@ -8,9 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-------------|---------------------------|---------------------------|----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D LMP2 Challenge \- Spreyton Ciders |Australia-NZ |56 |2607 |Both | | | | |
-|[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |LMP2 Series Season 1 |North America |20 |1773 |Fixed |Nürburgring Grand-Prix-Strecke |Wed, January 22 08:45PM EST |Thu, January 23 01:45AM GMT |Thu, January 23 12:45PM AEDT |
+|[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |LMP2 Series Season 1 |North America |20 |1815 |Fixed |Road America |Wed, January 29 08:45PM EST |Thu, January 30 01:45AM GMT |Thu, January 30 12:45PM AEDT |
 |[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |09 \| Novembre 2024 |Europe |11 |1609 | | | | | |
 
 ### GTP
@@ -42,18 +42,20 @@
 |----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid LMP3 Championship \- Season 4 |Europe |45 |2259 |Fixed | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Road Thursday's |North America |31 |1292 |Fixed |Circuit de Barcelona Catalunya |Thu, January 23 08:00PM EST |Fri, January 24 01:00AM GMT |Fri, January 24 12:00PM AEDT |
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2025S1 \- LMP3 Tournament |Europe |28 |2824 |Open |Phillip Island Circuit |Mon, January 27 01:30PM EST |Mon, January 27 06:30PM GMT |Tue, January 28 05:30AM AEDT |
 
 ### Radical SR10
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[BiS Radical Cup / Radical Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |63 |2270 |Fixed |Barber Motorsports Park |Wed, January 29 07:00PM EST |Thu, January 30 12:00AM GMT |Thu, January 30 11:00AM AEDT |
 |[BiS Radical Cup / Radical Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |49 |None |Fixed |Barber Motorsports Park |Tue, January 28 07:00PM EST |Wed, January 29 12:00AM GMT |Wed, January 29 11:00AM AEDT |
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |North America |39 |1796 |Fixed | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |27 |2919 |Open | | | | |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |15 |1333 |Fixed | | | | |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |14 |2891 |Open |Daytona International Speedway |Thu, January 23 02:15PM EST |Thu, January 23 07:15PM GMT |Fri, January 24 06:15AM AEDT |
 
 ### Radical SR8
 

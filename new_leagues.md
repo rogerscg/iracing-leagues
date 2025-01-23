@@ -2,17 +2,11 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[802 Iracing League Full Length Cup Races](https://members.iracing.com/membersite/member/LeagueView.do?league=12050){:target="_blank"} | |Full Length Races in 2025 for Daytona 500, Coke 600 and the Bristol 500 Night Race\. |
-|[Baker League](https://members.iracing.com/membersite/member/LeagueView.do?league=12051){:target="_blank"} | | |
 |[Bootleg Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12055){:target="_blank"} | | |
 |[FDL \- SFL Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12053){:target="_blank"} | |Driver\-focused, Australian Formula car only iRacing league committed to providing clean, exciting racing\. |
-|[Northern Modified Dirt Series \(NMDS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12048){:target="_blank"} | |BigBlock Mods Fixed Setup |
-|[Northwest Figure 8 Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12046){:target="_blank"} | | |
-|[SCRA Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=12049){:target="_blank"} |[Discord](https://discord.gg/2ChhvXY7gG){:target="_blank"} |SCRA Mini Stocks Season 14 DIRT \*must\* be in discord to participate |
 |[SRQ TAXES Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12056){:target="_blank"} | | |
 |[Traction Boy](https://members.iracing.com/membersite/member/LeagueView.do?league=12052){:target="_blank"} | |jack rankin washed |
 |[SRC NOS SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12054){:target="_blank"} | |SRC NOS SERIES |
-|[遠州ハママツモータース](https://members.iracing.com/membersite/member/LeagueView.do?league=12047){:target="_blank"} | | |
 |[Boogity iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12060){:target="_blank"} |[Discord](https://discord.gg/nCtRhgVcye){:target="_blank"} |Are you ready for a thrilling new stock car racing experience? Look no further than the Boogity iRacing League \(BRL\), established in January 2025 by a passionate group of drivers determined to deliver intense, bumper\-to\-bumper action without the headaches of ranked racing\. Whether you're a seasoned driver or new to the track, BRL promises excitement and fair competition in a community\-driven environment\. |
 |[DLBTV Racing League Exhibition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12059){:target="_blank"} | |Welcome to the DLBTV Racing League Exhibition Series, where high\-speed action and competitive racing collide in a thrilling showdown\! Prepare for an exciting race with intense moments, strategic pit stops, and a level playing field as drivers battle for supremacy in this exclusive exhibition series\. Let the race begin\! |
 |[Lap Down Racing\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12064){:target="_blank"} | |Alabama Local Dirt Track Classes Mixed\. |
@@ -65,4 +59,9 @@
 |[PESC 2025 W](https://members.iracing.com/membersite/member/LeagueView.do?league=12106){:target="_blank"} | |ONLY FOR PESC |
 |[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} | |You search for something silly? Well what do you think about rallycross cars on "normal" tracks? Here we go with the most chaos you may ever seen\! |
 |[Mini Stock Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=12109){:target="_blank"} | |MSM Mini Stock Madness |
+|[Misfit motorsports Team Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12113){:target="_blank"} | |Team based truck league |
+|[Misfit Motorsports Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=12114){:target="_blank"} | |solo |
+|[Team Tenuto](https://members.iracing.com/membersite/member/LeagueView.do?league=12111){:target="_blank"} | |Team Tenuto Test Sessions |
+|[Team Tenuto](https://members.iracing.com/membersite/member/LeagueView.do?league=12112){:target="_blank"} | |Team Tenuto Test Sessions |
+|[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} | |AM Historic Single and Team Championship |
 
