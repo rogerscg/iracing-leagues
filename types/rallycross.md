@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-----------------|---------------------------|---------------------------|----------------------------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Beetle Lite Fun Cup \- 2025 |North America |16 |2573 |Fixed |Oran Park Raceway |Thu, January 23 07:00PM EST |Fri, January 24 12:00AM GMT |Fri, January 24 11:00AM AEDT |
+|-------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Beetle Lite Fun Cup \- 2025 |North America |18 |2606 |Fixed | | | | |
 
 ### Rallycross
 
