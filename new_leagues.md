@@ -1,8 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[The Race for 8](https://members.iracing.com/membersite/member/LeagueView.do?league=12067){:target="_blank"} | |Special Charity Event for Seth Hatchel\. The Race for 8 presented by Vspeed Sim |
+|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[GLR Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12070){:target="_blank"} | | |
 |[GSMC](https://members.iracing.com/membersite/member/LeagueView.do?league=12068){:target="_blank"} |[Discord](https://discord.gg/VQ7nDmnnrs){:target="_blank"} | |
 |[Mosh Customs Clash](https://members.iracing.com/membersite/member/LeagueView.do?league=12071){:target="_blank"} | |Home of the 1st Annual Mosh Customs Clash at the Bullring\. Signup at the link below\. |
@@ -49,7 +48,7 @@
 |[Misfit Motorsports Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=12114){:target="_blank"} | |solo |
 |[Team Tenuto](https://members.iracing.com/membersite/member/LeagueView.do?league=12111){:target="_blank"} | |Team Tenuto Test Sessions |
 |[Team Tenuto](https://members.iracing.com/membersite/member/LeagueView.do?league=12112){:target="_blank"} | |Team Tenuto Test Sessions |
-|[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} | |AM Historic Single and Team Championship |
+|[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} | |AM Historic Formula 1 Single and Team Championship |
 |[East Coast Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12115){:target="_blank"} | |Beginner friendly we all have to start somewhere\. |
 |[Grass Roots Racing \- Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12118){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} |GRR Oval Series Championship |
 |[Jones Racing Setups Qualifying Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12120){:target="_blank"} |[Discord](https://discord.gg/4hhXwUESeF){:target="_blank"} | |
@@ -58,4 +57,11 @@
 |[SR13 iLate Model League](https://members.iracing.com/membersite/member/LeagueView.do?league=12119){:target="_blank"} | |SEND IT |
 |[West Virginia Legends Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=12117){:target="_blank"} |[Discord](https://discord.gg/mmBbCqBQ){:target="_blank"} |A Legends car league that will race on oval and road and maybe dirt in the future |
 |[Zala and Zsombooo](https://members.iracing.com/membersite/member/LeagueView.do?league=12122){:target="_blank"} | |hello is a private room |
+|[CiT Menards ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12127){:target="_blank"} | |Best ARCA league on iRacing |
+|[NO LIMIT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12128){:target="_blank"} | |Asphalt And Dirt Racing at its best |
+|[PREMIER ENDURANCE LEAGUE \- GT3 OPEN](https://members.iracing.com/membersite/member/LeagueView.do?league=12123){:target="_blank"} | |The GAMER GEAR DIRECT Australian GT3 short endurance championship\. |
+|[Walkin' & Rollin' Costumes Clash For A Cause](https://members.iracing.com/membersite/member/LeagueView.do?league=12126){:target="_blank"} | |Charity Event Benefitting Walkin' & Rollin' Costumes |
+|[Chicken\-Bone Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12129){:target="_blank"} | |Dudes racing dudes disguised as other dudes trying to prevent going full \*\*\* |
+|[Life is Live QC](https://members.iracing.com/membersite/member/LeagueView.do?league=12125){:target="_blank"} | |Friend Ai season |
+|[MCS](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} | |Member Created Series |
 
