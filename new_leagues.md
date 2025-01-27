@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[GLR Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12070){:target="_blank"} | | |
-|[GSMC](https://members.iracing.com/membersite/member/LeagueView.do?league=12068){:target="_blank"} |[Discord](https://discord.gg/VQ7nDmnnrs){:target="_blank"} | |
-|[Mosh Customs Clash](https://members.iracing.com/membersite/member/LeagueView.do?league=12071){:target="_blank"} | |Home of the 1st Annual Mosh Customs Clash at the Bullring\. Signup at the link below\. |
-|[Pirate Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12072){:target="_blank"} |[Discord](https://discord.gg/8esnY6Du6Y){:target="_blank"} |This league does Full Real Life Length Races\. If you enjoy racing and tired of all the shorten races, come Join us\. |
-|[Tier 1 Truck Series \(T 1 T S\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12069){:target="_blank"} | |Tier1RacingLeagueTrucks |
 |[574 Mini Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=12076){:target="_blank"} | |Sunday Mini Stock League |
 |[574SS](https://members.iracing.com/membersite/member/LeagueView.do?league=12075){:target="_blank"} | | |
 |[FOF4](https://members.iracing.com/membersite/member/LeagueView.do?league=12080){:target="_blank"} | | |
@@ -64,4 +59,5 @@
 |[Chicken\-Bone Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12129){:target="_blank"} | |Dudes racing dudes disguised as other dudes trying to prevent going full \*\*\* |
 |[Life is Live QC](https://members.iracing.com/membersite/member/LeagueView.do?league=12125){:target="_blank"} | |Friend Ai season |
 |[MCS](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} | |Member Created Series |
+|[New Symrna Speedweeks](https://members.iracing.com/membersite/member/LeagueView.do?league=12130){:target="_blank"} | |This is where the New Symrna Speedweeks will be happening\. |
 
