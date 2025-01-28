@@ -2,14 +2,9 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[574 Mini Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=12076){:target="_blank"} | |Sunday Mini Stock League |
-|[574SS](https://members.iracing.com/membersite/member/LeagueView.do?league=12075){:target="_blank"} | | |
 |[FOF4](https://members.iracing.com/membersite/member/LeagueView.do?league=12080){:target="_blank"} | | |
-|[Full Throttle Outlaws Racing\(FTOR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12073){:target="_blank"} |[Discord](https://discord.gg/rPkNFyQD){:target="_blank"} |Full Throttle Outlaws Racing races Gen\-4 Cup cars with our first season starting May 9th with the Clash at Wilkesboro\. Check out our Discord and Rules below\! |
-|[Mid\-Atlantic Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12074){:target="_blank"} | |This league is meant for people in the Mid\-Atlantic area: NJ, NY, DE, PA, VA, MD, DC, WV\. Good opportunity to meet great people in the region, also many of us do track days together in real life such as NJMP, Summit Point, VIR, Watkins Glen, and more\.   We primarily race Sport Car and road courses, but there may be certain Seasons where we will setup a Formula series\. |
 |[MX\-5 United](https://members.iracing.com/membersite/member/LeagueView.do?league=12079){:target="_blank"} | |MX\-5 United |
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} | |A free iRacing league designed to allow West Australians a convenient time slot to race\. |
-|[Trusty Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=12077){:target="_blank"} |[Discord](https://discord.gg/DeB7835j){:target="_blank"} | |
 |[Elevated TV Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12083){:target="_blank"} | | |
 |[Loughborough Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12084){:target="_blank"} |[Discord](https://discord.gg/7Q8xtgMu54){:target="_blank"} |A leauge for Loughborough University Students, Alumni and Assosiates |
 |[Rental Kart Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=12081){:target="_blank"} | | |
@@ -27,7 +22,7 @@
 |[VTSCAR\-Vtuber Stock Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12096){:target="_blank"} | |oval based leagues for Vtubers and not |
 |[AI Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12098){:target="_blank"} | |Private League setup to play around with AI racing |
 |[SAORS](https://members.iracing.com/membersite/member/LeagueView.do?league=12093){:target="_blank"} |[Discord](https://discord.gg/ZxJFKYtC){:target="_blank"} |Late model |
-|[The Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} | |The Almeida Racing Academy's iRacing league, providing drivers with a chance to compete against fellow Academy members, in a structured, competitive, enjoyable learning environment\. |
+|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} | |The Almeida Racing Academy's iRacing league, providing drivers with a chance to compete against fellow Academy members, in a structured, competitive, enjoyable learning environment\. |
 |[499RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12101){:target="_blank"} | | |
 |[Carolina Clash Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12099){:target="_blank"} | | |
 |[curtrainblue](https://members.iracing.com/membersite/member/LeagueView.do?league=12100){:target="_blank"} | | |
@@ -59,5 +54,7 @@
 |[Chicken\-Bone Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12129){:target="_blank"} | |Dudes racing dudes disguised as other dudes trying to prevent going full \*\*\* |
 |[Life is Live QC](https://members.iracing.com/membersite/member/LeagueView.do?league=12125){:target="_blank"} | |Friend Ai season |
 |[MCS](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} | |Member Created Series |
-|[New Symrna Speedweeks](https://members.iracing.com/membersite/member/LeagueView.do?league=12130){:target="_blank"} | |This is where the New Symrna Speedweeks will be happening\. |
+|[Nelson Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12130){:target="_blank"} | |This is where the New Symrna Speedweeks will be happening\. |
+|[Beastmode Gen6 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12131){:target="_blank"} | | |
+|[Menjetek körbe\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12132){:target="_blank"} | |Minden ami NASCAR\! |
 
