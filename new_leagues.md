@@ -2,13 +2,8 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[FOF4](https://members.iracing.com/membersite/member/LeagueView.do?league=12080){:target="_blank"} | | |
-|[MX\-5 United](https://members.iracing.com/membersite/member/LeagueView.do?league=12079){:target="_blank"} | |MX\-5 United |
-|[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} | |A free iRacing league designed to allow West Australians a convenient time slot to race\. |
 |[Elevated TV Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12083){:target="_blank"} | | |
 |[Loughborough Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12084){:target="_blank"} |[Discord](https://discord.gg/7Q8xtgMu54){:target="_blank"} |A leauge for Loughborough University Students, Alumni and Assosiates |
-|[Rental Kart Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=12081){:target="_blank"} | | |
-|[OKSE Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=12082){:target="_blank"} | |Oklahoma Scholastic Esports |
 |[697](https://members.iracing.com/membersite/member/LeagueView.do?league=12092){:target="_blank"} | |fly changes |
 |[Bottom Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12089){:target="_blank"} | |Full time Xfinity and Next Gen Nascar racing\! Finally a league for clean racing against highly motivated iRacers\. A league based around not just racing, but strategy\. Ever heard of it? Long enough races to time pit stops and save tires to outrun your opponents\! How will YOU race\!? |
 |[Formula\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12091){:target="_blank"} | |Only race formula, with a desire to improve to become the best in formula racing on iracing |
@@ -57,4 +52,17 @@
 |[Nelson Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12130){:target="_blank"} | |This is where the New Symrna Speedweeks will be happening\. |
 |[Beastmode Gen6 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12131){:target="_blank"} | | |
 |[Menjetek körbe\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12132){:target="_blank"} | |Minden ami NASCAR\! |
+|[DASH SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12140){:target="_blank"} | | |
+|[Dirt Coin Crypto Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12145){:target="_blank"} | |this is a league that will run for points and it will be in the dirt mini stocks\. It will have certificates for the top 10 finishers per event, and they will be posted on the facebook page Dirt Coin, and in our discord\. we will run on tuesdays @8:30pm CT starting on 2/4/25 and fixed setups |
+|[GTR\-Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=12142){:target="_blank"} | | |
+|[Northeast Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=12143){:target="_blank"} | |legends thursday nights |
+|[Northwest V8 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=12138){:target="_blank"} | | |
+|[POLENTA RACING TEAM League](https://members.iracing.com/membersite/member/LeagueView.do?league=12135){:target="_blank"} |[Discord](https://discord.gg/xJcR6KsuUG){:target="_blank"} |🏁 1° Champ Mazda MX\-5 Polenta Racing Team🏁 |
+|[SIM1 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12133){:target="_blank"} | | |
+|[Slow Lovin](https://members.iracing.com/membersite/member/LeagueView.do?league=12144){:target="_blank"} | |Just the tip |
+|[South East Xfinity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12141){:target="_blank"} | | |
+|[TPRT \- Roast Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=12137){:target="_blank"} | |Donde Tu Pai te la monta\. Ponte serioooo |
+|[Lekker racen](https://members.iracing.com/membersite/member/LeagueView.do?league=12134){:target="_blank"} | |Lekker racen |
+|[OGRL Thunder Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12136){:target="_blank"} |[Discord](https://discord.gg/ogrl){:target="_blank"} |This is our OGRL "Pro" Thursday Thunder Truck League \- Invite Only |
+|[Scoot & Poot Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12139){:target="_blank"} | |Scootin & Pootin |
 
