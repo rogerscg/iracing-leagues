@@ -17,8 +17,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|----------------|----------------------------|----------------------------|-----------------------------|
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY SILVER |South America |35 |1989 |Both |Richmond Raceway |Thu, January 30 05:00PM EST |Thu, January 30 10:00PM GMT |Fri, January 31 09:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|------------------------|----------------------------|----------------------------|-----------------------------|
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY SILVER |South America |36 |2012 |Both |Charlotte Motor Speedway |Thu, February 06 05:00PM EST |Thu, February 06 10:00PM GMT |Fri, February 07 09:00AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY GOLD |South America |22 |3193 |Both |Richmond Raceway |Sun, February 02 05:00PM EST |Sun, February 02 10:00PM GMT |Mon, February 03 09:00AM AEDT |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar IR18 2025 T1 |South America |20 |2136 |Fixed | | | | |
 
@@ -145,13 +145,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |43 |1638 |Both |Watkins Glen International |Sun, February 02 06:30PM EST |Sun, February 02 11:30PM GMT |Mon, February 03 10:30AM AEDT |
 |[IRB \- I\-Pass Gran Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |IRB I\-Pass Gran Touring Series |South America |40 |2696 | | | | | |
 |[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- COPA VERÃO 25 |South America |37 |2015 | | | | | |
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RACERSAV GT3 T1 2025 |South America |33 |2293 | |Suzuka International Racing Course |Thu, January 30 05:40PM EST |Thu, January 30 10:40PM GMT |Fri, January 31 09:40AM AEDT |
-|[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/1 |South America |29 |1452 | |Circuit Zandvoort |Thu, January 30 04:10PM EST |Thu, January 30 09:10PM GMT |Fri, January 31 08:10AM AEDT |
-|[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/1 |South America |20 |3012 | |Circuit Zandvoort |Thu, January 30 06:10PM EST |Thu, January 30 11:10PM GMT |Fri, January 31 10:10AM AEDT |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RACERSAV GT3 T1 2025 |South America |34 |2275 | | | | | |
+|[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/1 |South America |31 |1464 | |Road Atlanta |Thu, February 06 04:10PM EST |Thu, February 06 09:10PM GMT |Fri, February 07 08:10AM AEDT |
+|[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/1 |South America |20 |3012 | |Road Atlanta |Thu, February 06 06:10PM EST |Thu, February 06 11:10PM GMT |Fri, February 07 10:10AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC GT3 SERIES |South America |17 |2124 |Both |Circuit Zandvoort |Mon, February 03 05:00PM EST |Mon, February 03 10:00PM GMT |Tue, February 04 09:00AM AEDT |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GT3 Challenge 2025 T1 |South America |15 |1498 |Fixed | | | | |
 

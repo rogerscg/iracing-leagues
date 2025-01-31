@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Elevated TV Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12083){:target="_blank"} | | |
-|[Loughborough Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12084){:target="_blank"} |[Discord](https://discord.gg/7Q8xtgMu54){:target="_blank"} |A leauge for Loughborough University Students, Alumni and Assosiates |
 |[697](https://members.iracing.com/membersite/member/LeagueView.do?league=12092){:target="_blank"} | |fly changes |
 |[Bottom Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12089){:target="_blank"} | |Full time Xfinity and Next Gen Nascar racing\! Finally a league for clean racing against highly motivated iRacers\. A league based around not just racing, but strategy\. Ever heard of it? Long enough races to time pit stops and save tires to outrun your opponents\! How will YOU race\!? |
 |[Formula\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12091){:target="_blank"} | |Only race formula, with a desire to improve to become the best in formula racing on iracing |
@@ -63,6 +61,10 @@
 |[South East Xfinity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12141){:target="_blank"} | | |
 |[TPRT \- Roast Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=12137){:target="_blank"} | |Donde Tu Pai te la monta\. Ponte serioooo |
 |[Lekker racen](https://members.iracing.com/membersite/member/LeagueView.do?league=12134){:target="_blank"} | |Lekker racen |
-|[OGRL Thunder Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12136){:target="_blank"} |[Discord](https://discord.gg/ogrl){:target="_blank"} |This is our OGRL "Pro" Thursday Thunder Truck League \- Invite Only |
+|[OGRL "A Pro" Thunder Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12136){:target="_blank"} |[Discord](https://discord.gg/ogrl){:target="_blank"} |This is our OGRL "A Pro" Thursday Thunder Truck League \- Invite Only |
 |[Scoot & Poot Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12139){:target="_blank"} | |Scootin & Pootin |
+|[Jackey Jones Gen 4 Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12149){:target="_blank"} | |Presented by Mid Atlantic Racing Series |
+|[NAPA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12146){:target="_blank"} | |NAPA is a truck series awards while be give to the winner this is a 25 race format hope you while join use and we can crown you as a champion\. |
+|[RedAtlas](https://members.iracing.com/membersite/member/LeagueView.do?league=12148){:target="_blank"} | | |
+|[Ruff\-Neck Against The World](https://members.iracing.com/membersite/member/LeagueView.do?league=12147){:target="_blank"} | |smack talk welcomed drive with respect |
 

@@ -39,7 +39,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Road Thursday's |North America |32 |1270 |Fixed |Phillip Island Circuit |Thu, January 30 08:00PM EST |Fri, January 31 01:00AM GMT |Fri, January 31 12:00PM AEDT |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Road Thursday's |North America |38 |1275 |Fixed |Long Beach Street Circuit |Thu, February 06 08:00PM EST |Fri, February 07 01:00AM GMT |Fri, February 07 12:00PM AEDT |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2025S1 \- LMP3 Tournament |Europe |29 |2927 |Open |Long Beach Street Circuit |Mon, February 03 01:30PM EST |Mon, February 03 06:30PM GMT |Tue, February 04 05:30AM AEDT |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |Dentist special event |Europe |12 |2710 |Both | | | | |
 |[Formula None](https://members.iracing.com/membersite/member/LeagueView.do?league=12016){:target="_blank"} |LMP3 Season 1 |North America |11 |1481 |Open | | | | |
@@ -49,12 +49,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[BiS Radical Cup / Radical Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |63 |2262 |Fixed | | | | |
 |[BiS Radical Cup / Radical Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |51 |None |Fixed | | | | |
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |RADICAL SR10 |North America |39 |1796 |Fixed | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2024 Season 4 |Europe |27 |2919 |Open | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |17 |2759 |Open |Phillip Island Circuit |Thu, January 30 02:15PM EST |Thu, January 30 07:15PM GMT |Fri, January 31 06:15AM AEDT |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |18 |2740 |Open |Okayama International Circuit |Thu, February 06 02:15PM EST |Thu, February 06 07:15PM GMT |Fri, February 07 06:15AM AEDT |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 24S4 |North America |15 |1333 |Fixed | | | | |
 
 ### Radical SR8

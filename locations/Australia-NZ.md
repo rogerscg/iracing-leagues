@@ -90,9 +90,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|------------|-------|----|-----|----------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|------------|-------|----|-----|----------------|----------------------------|----------------------------|-----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D WnS Super Formula Light \- JJZ Construcion |Australia-NZ |69 |2457 |Both | | | | |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A WnS Super Formula Lights \- Spreyton Ciders |Australia-NZ |34 |2103 |Both |Phillip Island Circuit |Thu, January 30 02:20AM EST |Thu, January 30 07:20AM GMT |Thu, January 30 06:20PM AEDT |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A WnS Super Formula Lights \- Spreyton Ciders |Australia-NZ |44 |2300 |Both |Thruxton Circuit |Thu, February 06 02:35AM EST |Thu, February 06 07:35AM GMT |Thu, February 06 06:35PM AEDT |
 
 # Sports Car
 
@@ -110,10 +110,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|------------|-------|----|-----|---------------------|----------------------------|----------------------------|-----------------------------|
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) S4 |Australia-NZ |55 |1707 |Open | | | | |
 |[SRW \- Shannons Toyota GR86 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 4, 2024 |Australia-NZ |53 |1822 |Open | | | | |
+|[SRW \- Shannons Toyota GR86 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 1, 2025 |Australia-NZ |37 |1763 |Open |Rudskogen Motorsenter |Thu, February 06 02:00AM EST |Thu, February 06 07:00AM GMT |Thu, February 06 06:00PM AEDT |
 |[Ozicar Tin Top's \- 86's](https://members.iracing.com/membersite/member/LeagueView.do?league=3760){:target="_blank"} |Season 35 / Tin Tops Season 9 / Asia Pacific |Australia-NZ |29 |2302 | | | | | |
+|[Rumble Racing \- GT4](https://members.iracing.com/membersite/member/LeagueView.do?league=7347){:target="_blank"} |GT4 Rumble \- Season 5 |Australia-NZ |27 |1831 | | | | | |
 |[ANZ ESeries x Motorsport Australia // Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11365){:target="_blank"} |ANZ ESeries x Motorsport Australia // Next Gen Series |Australia-NZ |21 |2281 | | | | | |
 |[OZICAR Tin Top Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5926){:target="_blank"} |2024 |Australia-NZ |18 |1896 | | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Clubman Cup Series |Australia-NZ |17 |1449 |Fixed | | | | |
@@ -132,9 +134,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|---------------------------------|------------|-------|----|-----|--------------------------------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|---------------------------------|------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[GSRC\.inc Bowens Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2024D Porsche Cup |Australia-NZ |91 |2572 | | | | | |
-|[GSRC\.inc Bowens Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2025A Porsche Elite Cup \- Bowens |Australia-NZ |54 |2620 | |Autodromo Internazionale Enzo e Dino Ferrari |Thu, January 30 03:53AM EST |Thu, January 30 08:53AM GMT |Thu, January 30 07:53PM AEDT |
+|[GSRC\.inc Bowens Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2025A Porsche Elite Cup \- Bowens |Australia-NZ |59 |2559 | |Sebring International Raceway |Thu, February 06 03:40AM EST |Thu, February 06 08:40AM GMT |Thu, February 06 07:40PM AEDT |
 
 ### Supercars - 2019
 
@@ -193,7 +195,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A BMW M\-Sports Cup \- MERCH\.tgsrci |Australia-NZ |39 |2321 |Both |Circuit de Lédenon |Tue, February 04 02:52AM EST |Tue, February 04 07:52AM GMT |Tue, February 04 06:52PM AEDT |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |RPR Season 33 \- BMW M2 |Australia-NZ |30 |3050 |Fixed | | | | |
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Nugget cup 2\.0 |Australia-NZ |13 |1397 |Fixed |Cadwell Park Circuit |Thu, January 30 03:30AM EST |Thu, January 30 08:30AM GMT |Thu, January 30 07:30PM AEDT |
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Nugget cup 2\.0 |Australia-NZ |17 |1369 |Fixed |Brands Hatch Circuit |Thu, February 06 03:30AM EST |Thu, February 06 08:30AM GMT |Thu, February 06 07:30PM AEDT |
 
 ### Supercars Gen 3
 
@@ -226,8 +228,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|-------|----|-----|---------------|---------------------------|---------------------------|----------------------------|
-|[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=11951){:target="_blank"} |DML 2025 Midget Series |Australia-NZ |92 |3814 |Fixed |Kokomo Speedway |Thu, January 30 04:30AM EST |Thu, January 30 09:30AM GMT |Thu, January 30 08:30PM AEDT |
+|------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|-------|----|-----|-------------|--------|------|------|
+|[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=11951){:target="_blank"} |DML 2025 Midget Series |Australia-NZ |109 |3876 |Fixed | | | | |
 |[Hustle Performance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11742){:target="_blank"} |Double K Speedcar Series 2024 |Australia-NZ |18 |2114 | | | | | |
 
 ### Dirt SprintCar - 360
@@ -284,15 +286,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
-|[V8 Veterans Season 22](https://members.iracing.com/membersite/member/LeagueView.do?league=6788){:target="_blank"} |Season 22 |Australia-NZ |203 |1830 | |Detroit Grand Prix at Belle Isle |Thu, January 30 03:31AM EST |Thu, January 30 08:31AM GMT |Thu, January 30 07:31PM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[V8 Veterans Season 22](https://members.iracing.com/membersite/member/LeagueView.do?league=6788){:target="_blank"} |Season 22 |Australia-NZ |206 |1862 | |Okayama International Circuit |Fri, January 31 01:00AM EST |Fri, January 31 06:00AM GMT |Fri, January 31 05:00PM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D GT3 Pro\-Am Challenge \- Waste Options |Australia-NZ |111 |1884 |Both | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2024D Mountain Men 200 Series |Australia-NZ |78 |2214 |Both | | | | |
 |[GSRC\.inc GT3 Pro Split \- Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2024D GT3 Pro Series |Australia-NZ |73 |3018 | | | | | |
-|[PREMIER ENDURANCE LEAGUE \- GT3 LIMITED](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} |The Gamer Gear Direct Australian GT3 Endurance Championship Season 4 |Australia-NZ |68 |2085 |Open | | | | |
+|[PREMIER ENDURANCE LEAGUE \- GT3 LIMITED](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} |The Gamer Gear Direct Australian GT3 Endurance Championship Season 4 |Australia-NZ |68 |2085 |Open |Mount Panorama Circuit |Fri, February 07 04:00AM EST |Fri, February 07 09:00AM GMT |Fri, February 07 08:00PM AEDT |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) S1 2025 |Australia-NZ |65 |2172 |Open |Indianapolis Motor Speedway |Tue, February 04 02:00AM EST |Tue, February 04 07:00AM GMT |Tue, February 04 06:00PM AEDT |
 |[SRW \- Cooler Master Super Formula Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |SRW \- Super Formula Lights \- 2024 \- S4 |Australia-NZ |60 |2212 | | | | | |
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |STONECOLD RACING POP\-UP EVENTS |Australia-NZ |57 |1287 | | | | | |
+|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |STONECOLD RACING POP\-UP EVENTS |Australia-NZ |58 |1280 | | | | | |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |GT3 \- Season 2 |Australia-NZ |51 |2004 |Fixed | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR GT3 Man Bun International |Australia-NZ |51 |1300 | | | | | |
 |[GSRC\.inc GT3 Am Split \- Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5306){:target="_blank"} |2024D GT3 Am Series |Australia-NZ |50 |1403 | | | | | |
