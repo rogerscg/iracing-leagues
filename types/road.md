@@ -12,25 +12,25 @@
 |[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Official Practice |North America |64 |None | | | | | |
 |[DMC \- Digitaler M2 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11971){:target="_blank"} |Kick Off Saison Digitaler M2 Cup |Europe |54 |2608 | | | | | |
 |[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 10 |North America |51 |2145 |Fixed | | | | |
+|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Pit Party 1 |North America |49 |None | | | | | |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2025 Spring Season |North America |44 |2120 |Both |Autodromo Internazionale del Mugello |Mon, February 03 07:00PM EST |Tue, February 04 12:00AM GMT |Tue, February 04 11:00AM AEDT |
 |[FNR BMW M2 CSR](https://members.iracing.com/membersite/member/LeagueView.do?league=11379){:target="_blank"} |FNR BMW M2 CUP |Europe |40 |2042 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A BMW M\-Sports Cup \- MERCH\.tgsrci |Australia-NZ |39 |2321 |Both |Circuit de Lédenon |Tue, February 04 02:52AM EST |Tue, February 04 07:52AM GMT |Tue, February 04 06:52PM AEDT |
 |[BRSCC Winter eSports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9071){:target="_blank"} |2025 BRSCC Winter Series |Europe |38 |2102 | |Brands Hatch Circuit |Thu, February 06 02:00PM EST |Thu, February 06 07:00PM GMT |Fri, February 07 06:00AM AEDT |
 |[LIGA FRS \- BMW M2 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} |FRS M2 CUP \- COPA VERÃO 25 |South America |38 |2080 | | | | | |
-|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Pit Party 1 |North America |38 |None | | | | | |
 |[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |Campeonato BMW M2  CSR |International |37 |1872 | | | | | |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |ILAKA\-IIL M2 CUP 2025 |International |36 |1618 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1 Academy |Europe |36 |1552 |Both |Okayama International Circuit |Thu, February 06 02:00PM EST |Thu, February 06 07:00PM GMT |Fri, February 07 06:00AM AEDT |
 |[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |Season 4 \- BMW M2 |Europe |34 |2053 | |WeatherTech Raceway at Laguna Seca |Tue, February 04 02:15PM EST |Tue, February 04 07:15PM GMT |Wed, February 05 06:15AM AEDT |
-|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Split 2 |North America |34 |1759 | | | | | |
+|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Split 2 |North America |34 |1759 | |Circuit de Lédenon |Sat, February 01 11:00AM EST |Sat, February 01 04:00PM GMT |Sun, February 02 03:00AM AEDT |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |M2 Cup |Europe |33 |2411 |Both | | | | |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |RPR Season 33 \- BMW M2 |Australia-NZ |30 |3050 |Fixed | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 33 BMW M2 CSR Series |North America |29 |1824 |Fixed |Mobility Resort Motegi |Sun, February 02 02:00PM EST |Sun, February 02 07:00PM GMT |Mon, February 03 06:00AM AEDT |
-|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Split 1 |North America |29 |2646 | | | | | |
-|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Split 4 |North America |29 |1126 | | | | | |
+|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Split 1 |North America |29 |2646 | |Circuit de Lédenon |Sat, February 01 11:00AM EST |Sat, February 01 04:00PM GMT |Sun, February 02 03:00AM AEDT |
+|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Split 4 |North America |29 |1126 | |Circuit de Lédenon |Sat, February 01 11:00AM EST |Sat, February 01 04:00PM GMT |Sun, February 02 03:00AM AEDT |
 |[GHD M2 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=9677){:target="_blank"} |GHD M2 CUP Saison 1 |Europe |27 |3010 | | | | | |
 |[ADAC SimRacing Cup \- Clubsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10120){:target="_blank"} |2025 |Europe |25 |1532 |Fixed | | | | |
-|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Split 3 |North America |25 |1448 | | | | | |
+|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Split 3 |North America |25 |1448 | |Circuit de Lédenon |Sat, February 01 11:00AM EST |Sat, February 01 04:00PM GMT |Sun, February 02 03:00AM AEDT |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 33 BMW M2 Challenge Series |North America |24 |1816 |Fixed |Autodromo Internazionale del Mugello |Thu, February 06 03:00PM EST |Thu, February 06 08:00PM GMT |Fri, February 07 07:00AM AEDT |
 |[ORNL\.nl Zondag](https://members.iracing.com/membersite/member/LeagueView.do?league=6769){:target="_blank"} |BMW M2 Cup |Europe |23 |2262 | |Snetterton Circuit |Sun, February 02 02:00PM EST |Sun, February 02 07:00PM GMT |Mon, February 03 06:00AM AEDT |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |2025 Casual BMW M2 Club Racing |Europe |23 |1990 | | | | | |
@@ -50,14 +50,15 @@
 |[F1BC M2 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |M2 Cup 2025/1 |South America |16 |1733 | |Circuit de Lédenon |Mon, February 03 06:25PM EST |Mon, February 03 11:25PM GMT |Tue, February 04 10:25AM AEDT |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- BMW M2 Cup Series |North America |11 |1091 |Open |Barber Motorsports Park |Wed, January 22 03:00PM EST |Wed, January 22 08:00PM GMT |Thu, January 23 07:00AM AEDT |
 |[ApexOne NJ Members\-Only League: Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11993){:target="_blank"} |League One |North America |10 |1232 | | | | | |
+|[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |Monday M2 Series |North America |10 |1274 | | | | | |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Supercar Road Season 7 |North America |21 |1316 | |Circuito de Navarra |Fri, January 31 08:00PM EST |Sat, February 01 01:00AM GMT |Sat, February 01 12:00PM AEDT |
+|----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
+|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Supercar Road Season 7 |North America |25 |1396 | |Indianapolis Motor Speedway |Fri, February 07 08:00PM EST |Sat, February 08 01:00AM GMT |Sat, February 08 12:00PM AEDT |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Revving Red's Roaring Road Racing Revelry \- Season 7 |North America |18 |2027 |Both |Circuito de Navarra |Tue, February 04 11:00PM EST |Wed, February 05 04:00AM GMT |Wed, February 05 03:00PM AEDT |
 
 ### SRX

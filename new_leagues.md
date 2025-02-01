@@ -2,20 +2,10 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[697](https://members.iracing.com/membersite/member/LeagueView.do?league=12092){:target="_blank"} | |fly changes |
-|[Bottom Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12089){:target="_blank"} | |Full time Xfinity and Next Gen Nascar racing\! Finally a league for clean racing against highly motivated iRacers\. A league based around not just racing, but strategy\. Ever heard of it? Long enough races to time pit stops and save tires to outrun your opponents\! How will YOU race\!? |
-|[Formula\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12091){:target="_blank"} | |Only race formula, with a desire to improve to become the best in formula racing on iracing |
-|[Hotties Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12088){:target="_blank"} |[Discord](https://discord.gg/xXHpzQ7w4W){:target="_blank"} |Hotties Racing League is a competitive iRacing community featuring leagues for stock cars and GT3 sports cars\. We focus on clean racing, sportsmanship, and fostering a welcoming environment for all skill levels\. With 10\-race seasons, organized schedules, and season\-long points championships, our league offers structured, high\-quality racing on a mix of ovals and road courses\. Join us to compete, improve your skills, and connect with fellow racing enthusiasts\! |
-|[IHRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12087){:target="_blank"} | |Idaho hometown racing legue |
 |[Joyride Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12095){:target="_blank"} | | |
-|[Mini Stock Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=12085){:target="_blank"} | |Dirt Mini Stocks |
-|[Precision Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=12094){:target="_blank"} | | |
 |[SAORS](https://members.iracing.com/membersite/member/LeagueView.do?league=12097){:target="_blank"} |[Discord](https://discord.gg/ZxJFKYtC){:target="_blank"} | |
-|[The Cabbage Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12090){:target="_blank"} | |Monday\-Mini Stock oval Wednesday\-Street Stock oval Sunday\-Mini Stock road course |
 |[VTSCAR\-Vtuber Stock Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12096){:target="_blank"} | |oval based leagues for Vtubers and not |
 |[AI Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12098){:target="_blank"} | |Private League setup to play around with AI racing |
-|[SAORS](https://members.iracing.com/membersite/member/LeagueView.do?league=12093){:target="_blank"} |[Discord](https://discord.gg/ZxJFKYtC){:target="_blank"} |Late model |
-|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} | |The Almeida Racing Academy's iRacing league, providing drivers with a chance to compete against fellow Academy members, in a structured, competitive, enjoyable learning environment\. |
 |[499RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12101){:target="_blank"} | | |
 |[Carolina Clash Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12099){:target="_blank"} | | |
 |[curtrainblue](https://members.iracing.com/membersite/member/LeagueView.do?league=12100){:target="_blank"} | | |
@@ -67,4 +57,8 @@
 |[NAPA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12146){:target="_blank"} | |NAPA is a truck series awards while be give to the winner this is a 25 race format hope you while join use and we can crown you as a champion\. |
 |[RedAtlas](https://members.iracing.com/membersite/member/LeagueView.do?league=12148){:target="_blank"} | | |
 |[Ruff\-Neck Against The World](https://members.iracing.com/membersite/member/LeagueView.do?league=12147){:target="_blank"} | |smack talk welcomed drive with respect |
+|[Carbon Custom Builders](https://members.iracing.com/membersite/member/LeagueView.do?league=12151){:target="_blank"} | |Obsessively Better Built™ |
+|[TAW & DDS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12150){:target="_blank"} | | |
+|[WA Battlers](https://members.iracing.com/membersite/member/LeagueView.do?league=12152){:target="_blank"} | |Pinnacle of WA Motorsport |
+|[BMW M2 Cup by Simwear\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=12153){:target="_blank"} | |BMW M2 Cup by Simwear\.eu |
 

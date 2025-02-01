@@ -5,6 +5,14 @@
 
 # NASCAR
 
+### Impala Class B
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|-------------------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
+|[TAW & DDS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12150){:target="_blank"} |Time Attack Weekly S1\-25 | |Chicago Street Course |Mon, February 03 12:00AM EST |Mon, February 03 05:00AM GMT |Mon, February 03 04:00PM AEDT |
+
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
@@ -19,8 +27,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[First Gear Racing Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12012){:target="_blank"} |2025 FGR Daytona 500 \- Gen 6 |Fixed |Daytona International Speedway |Fri, January 31 08:00PM EST |Sat, February 01 01:00AM GMT |Sat, February 01 12:00PM AEDT |
+|-----------------------------------------------------------------------------------------------------------------|---------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[\#0 ORCA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12028){:target="_blank"} |ORCA Cup Series |Fixed |Daytona International Speedway |Thu, February 06 08:00PM EST |Fri, February 07 01:00AM GMT |Fri, February 07 12:00PM AEDT |
 
 ### NASCAR Truck Series
@@ -68,6 +75,14 @@
 |--------------------------------------------------------------------------------------------------|----------------------|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
 |[WCXRA](https://members.iracing.com/membersite/member/LeagueView.do?league=8660){:target="_blank"} |Moon Runner's Season 1 | |Stafford Motor Speedway |Thu, February 06 07:00PM EST |Fri, February 07 12:00AM GMT |Fri, February 07 11:00AM AEDT |
 
+### Mini Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Loose is Fast Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=290){:target="_blank"} |Loose is Fast Podcast \- Mini Stock |Fixed |[Legacy] Phoenix Raceway - 2008 |Sat, February 08 08:30PM EST |Sun, February 09 01:30AM GMT |Sun, February 09 12:30PM AEDT |
+
 ### Street Stocks
 
 [Back to Top](#)  
@@ -111,6 +126,15 @@
 |-----------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[DMSK MSR2025 FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=12045){:target="_blank"} |F4 Slovak National Championship 2025 | |Motorsport Arena Oschersleben |Mon, February 03 12:30PM EST |Mon, February 03 05:30PM GMT |Tue, February 04 04:30AM AEDT |
 |[F4 Community Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12017){:target="_blank"} |F4 Community Championship | |Red Bull Ring |Sun, February 02 01:00PM EST |Sun, February 02 06:00PM GMT |Mon, February 03 05:00AM AEDT |
+|[DMSK MSR2025 FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=12045){:target="_blank"} |F4 Treningy | |Motorsport Arena Oschersleben |Sun, February 02 12:30PM EST |Sun, February 02 05:30PM GMT |Mon, February 03 04:30AM AEDT |
+
+### Lotus 79
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} |Historic F1 Masters \- 2025 | |Autodromo Nazionale Monza |Sat, February 08 03:30PM EST |Sat, February 08 08:30PM GMT |Sun, February 09 07:30AM AEDT |
 
 ### Super Formula Lights
 
@@ -136,9 +160,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Sport Car Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=11818){:target="_blank"} |2025 Season 1 |Fixed |Daytona International Speedway |Fri, February 07 06:00PM EST |Fri, February 07 11:00PM GMT |Sat, February 08 10:00AM AEDT |
-|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |GT3 |Open |WeatherTech Raceway at Laguna Seca |Fri, January 31 09:01PM EST |Sat, February 01 02:01AM GMT |Sat, February 01 01:01PM AEDT |
 |[Fresno SCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11311){:target="_blank"} |2025 Championship Series | |Lime Rock Park |Wed, February 05 09:30PM EST |Thu, February 06 02:30AM GMT |Thu, February 06 01:30PM AEDT |
 
 ### Mazda MX-5 Cup 2016
@@ -146,7 +169,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
+|[Loose is Fast Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=290){:target="_blank"} |Loose is Fast Podcast \- MX5 Mini Season |Fixed |New Hampshire Motor Speedway |Sat, February 08 09:30PM EST |Sun, February 09 02:30AM GMT |Sun, February 09 01:30PM AEDT |
 |[POLENTA RACING TEAM League](https://members.iracing.com/membersite/member/LeagueView.do?league=12135){:target="_blank"} |Campionato MAZDA MX\-5 by PRT |Open |Snetterton Circuit |Sat, February 01 02:30PM EST |Sat, February 01 07:30PM GMT |Sun, February 02 06:30AM AEDT |
 
 ### Porsche 911 GT3 Cup (992)
@@ -183,16 +207,6 @@
 |------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[BiS Radical Cup / Radical Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Academy Class Session |Fixed |Watkins Glen International |Tue, February 04 07:00PM EST |Wed, February 05 12:00AM GMT |Wed, February 05 11:00AM AEDT |
 
-# Road
-
-### BMW M2 CS Racing
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|-------------------|-----|------------------|----------------------------|----------------------------|-----------------------------|
-|[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |12 \| Febbraio 2025 | |Circuit de Lédenon |Tue, February 04 03:15PM EST |Tue, February 04 08:15PM GMT |Wed, February 05 07:15AM AEDT |
-
 # Dirt Oval
 
 ### Dirt 358 Modified
@@ -200,7 +214,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|---------------------|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------|----------------------------|----------------------------|-----------------------------|
+|[Ohio Valley Sim Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |2025 358 Modified Mayhem Tour |Fixed |Lucas Oil Speedway |Sat, February 08 09:00PM EST |Sun, February 09 02:00AM GMT |Sun, February 09 01:00PM AEDT |
 |[Spring Sizzler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12116){:target="_blank"} |Spring Sizzler Series | |Oswego Speedway |Fri, February 07 07:00PM EST |Sat, February 08 12:00AM GMT |Sat, February 08 11:00AM AEDT |
 
 ### Dirt Late Model - Pro
@@ -210,6 +225,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
 |[Pro Late Model Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4122){:target="_blank"} |PRO LATE MODEL DIRT SERIES \- 2025 |Fixed |Lernerville Speedway |Wed, February 05 08:00PM EST |Thu, February 06 01:00AM GMT |Thu, February 06 12:00PM AEDT |
+
+### Dirt UMP Modified
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|[ACE Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |ACE Dirt Season \#1 |Fixed |Limaland Motorsports Park |Sat, February 08 10:00PM EST |Sun, February 09 03:00AM GMT |Sun, February 09 02:00PM AEDT |
 
 # Rallycross
 
@@ -236,8 +259,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|--------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
-|[SRW \- Friday Funday](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW Pro 2 Lite | |Crandon International Raceway |Fri, January 31 03:30AM EST |Fri, January 31 08:30AM GMT |Fri, January 31 07:30PM AEDT |
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------|----------------------------|----------------------------|-----------------------------|
+|[Loose is Fast Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=290){:target="_blank"} |Loose is Fast Podcast \- Pro2Lite RC |Fixed |Snetterton Circuit |Sat, February 08 10:00PM EST |Sun, February 09 03:00AM GMT |Sun, February 09 02:00PM AEDT |
 
 # Multi-class/Unclassified
 
@@ -246,8 +269,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|-----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Aussie Outlaws GT3 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8718){:target="_blank"} |2025 GT3 Championship | |Canadian Tire Motorsports Park |Wed, February 05 04:00AM EST |Wed, February 05 09:00AM GMT |Wed, February 05 08:00PM AEDT |
+|[E\-Pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |EPRL GT3 Season 5 |Open |Sandown International Motor Raceway |Sat, February 08 02:00AM EST |Sat, February 08 07:00AM GMT |Sat, February 08 06:00PM AEDT |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GT3 Season 2 | |Indianapolis Motor Speedway |Thu, February 06 08:00PM EST |Fri, February 07 01:00AM GMT |Fri, February 07 12:00PM AEDT |
 |[Armed Forces Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11189){:target="_blank"} |Season 3 \- GT3 Championship | |Lime Rock Park |Sat, February 01 12:30PM EST |Sat, February 01 05:30PM GMT |Sun, February 02 04:30AM AEDT |
 
@@ -257,6 +281,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2025 S1 SCS |Open |Motorsport Arena Oschersleben |Sat, February 08 08:00PM EST |Sun, February 09 01:00AM GMT |Sun, February 09 12:00PM AEDT |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT NURBURGRING |Both |Nürburgring Combined |Sat, February 01 08:05PM EST |Sun, February 02 01:05AM GMT |Sun, February 02 12:05PM AEDT |
 |[Bonsai Motorsports Multiclass Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11199){:target="_blank"} |Bonsai Motorsports Multiclass Challenge \(Season 1\) | |Motorsport Arena Oschersleben |Fri, February 07 09:00PM EST |Sat, February 08 02:00AM GMT |Sat, February 08 01:00PM AEDT |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |road challenge series |Open |Oran Park Raceway |Fri, February 07 08:00PM EST |Sat, February 08 01:00AM GMT |Sat, February 08 12:00PM AEDT |
@@ -266,5 +291,5 @@
 |[SDRL a\.k\.a Slingin Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9959){:target="_blank"} |2025 Season 4 |Fixed |Volusia Speedway Park |Thu, February 06 09:00PM EST |Fri, February 07 02:00AM GMT |Fri, February 07 01:00PM AEDT |
 |[Steel City Sim\-Racers / SCS](https://members.iracing.com/membersite/member/LeagueView.do?league=8828){:target="_blank"} |Steel City Sim Racers Season 4 | |Barber Motorsports Park |Mon, February 03 09:00PM EST |Tue, February 04 02:00AM GMT |Tue, February 04 01:00PM AEDT |
 |[We Know How to Mower](https://members.iracing.com/membersite/member/LeagueView.do?league=11441){:target="_blank"} |There ain't no ai on these dirt roads | |Wild West Motorsports Park |Fri, February 07 06:58PM EST |Fri, February 07 11:58PM GMT |Sat, February 08 10:58AM AEDT |
-|[Xcelerate Racing Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |2025 | |Daytona International Speedway |Sat, February 01 01:00PM EST |Sat, February 01 06:00PM GMT |Sun, February 02 05:00AM AEDT |
+|[Xcelerate Racing Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |2025 | |Daytona International Speedway |Sat, February 01 02:00PM EST |Sat, February 01 07:00PM GMT |Sun, February 02 06:00AM AEDT |
 
