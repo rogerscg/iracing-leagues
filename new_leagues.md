@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Joyride Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12095){:target="_blank"} | | |
-|[SAORS](https://members.iracing.com/membersite/member/LeagueView.do?league=12097){:target="_blank"} |[Discord](https://discord.gg/ZxJFKYtC){:target="_blank"} | |
-|[VTSCAR\-Vtuber Stock Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12096){:target="_blank"} | |oval based leagues for Vtubers and not |
-|[AI Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12098){:target="_blank"} | |Private League setup to play around with AI racing |
 |[499RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12101){:target="_blank"} | | |
 |[Carolina Clash Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12099){:target="_blank"} | | |
 |[curtrainblue](https://members.iracing.com/membersite/member/LeagueView.do?league=12100){:target="_blank"} | | |
@@ -24,7 +20,7 @@
 |[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} | |AM Historic Formula 1 Single and Team Championship |
 |[East Coast Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12115){:target="_blank"} | |Beginner friendly we all have to start somewhere\. |
 |[Grass Roots Racing \- Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12118){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} |GRR Oval Series Championship |
-|[Jones Racing Setups Qualifying Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12120){:target="_blank"} |[Discord](https://discord.gg/4hhXwUESeF){:target="_blank"} | |
+|[Jones Racing Setups Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12120){:target="_blank"} |[Discord](https://discord.gg/4hhXwUESeF){:target="_blank"} | |
 |[Short Track Showdown & Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12121){:target="_blank"} |[Discord](https://discord.gg/4hhXwUESeF){:target="_blank"} | |
 |[Spring Sizzler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12116){:target="_blank"} | |358 Modifieds |
 |[SR13 iLate Model League](https://members.iracing.com/membersite/member/LeagueView.do?league=12119){:target="_blank"} | |SEND IT |
@@ -61,4 +57,12 @@
 |[TAW & DDS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12150){:target="_blank"} | | |
 |[WA Battlers](https://members.iracing.com/membersite/member/LeagueView.do?league=12152){:target="_blank"} | |Pinnacle of WA Motorsport |
 |[BMW M2 Cup by Simwear\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=12153){:target="_blank"} | |BMW M2 Cup by Simwear\.eu |
+|[Apex Racing Society](https://members.iracing.com/membersite/member/LeagueView.do?league=12159){:target="_blank"} | | |
+|[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12161){:target="_blank"} | | |
+|[IFF FIA F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |[Discord](https://discord.gg/3Arm8DGk){:target="_blank"} |Campionato FIA F4 \- Fixed |
+|[iRacing Japan NASCAR Series \(仮\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} | |Japan Club NASCAR Series |
+|[NagoyaOJA](https://members.iracing.com/membersite/member/LeagueView.do?league=12154){:target="_blank"} | | |
+|[SRN Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12157){:target="_blank"} | | |
+|[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} | |League for Zaddy Racing and fans |
+|[SRS Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12156){:target="_blank"} | | |
 
