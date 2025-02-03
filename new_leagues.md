@@ -1,10 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[499RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12101){:target="_blank"} | | |
-|[Carolina Clash Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12099){:target="_blank"} | | |
-|[curtrainblue](https://members.iracing.com/membersite/member/LeagueView.do?league=12100){:target="_blank"} | | |
+|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Acceleration Motorsports Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12107){:target="_blank"} | |A League Associated With The Team Acceleration Motorsports, We have a Discord look in the iRacing Discord and look at team promotions, you'll find us |
 |[BrakeFast Club \[Sports Car Series\]](https://members.iracing.com/membersite/member/LeagueView.do?league=12104){:target="_blank"} |[Discord](https://discord.gg/brakefastclub){:target="_blank"} |BrakeFast Club's Sports Car Series iRacing League |
 |[Mil Milhas GP São Paulo Virtuais](https://members.iracing.com/membersite/member/LeagueView.do?league=12103){:target="_blank"} | | |
@@ -20,8 +17,8 @@
 |[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} | |AM Historic Formula 1 Single and Team Championship |
 |[East Coast Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12115){:target="_blank"} | |Beginner friendly we all have to start somewhere\. |
 |[Grass Roots Racing \- Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12118){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} |GRR Oval Series Championship |
-|[Jones Racing Setups Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12120){:target="_blank"} |[Discord](https://discord.gg/4hhXwUESeF){:target="_blank"} | |
-|[Short Track Showdown & Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12121){:target="_blank"} |[Discord](https://discord.gg/4hhXwUESeF){:target="_blank"} | |
+|[UIS \- Jones Racing Setups Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12120){:target="_blank"} |[Discord](https://discord.gg/4hhXwUESeF){:target="_blank"} | |
+|[UIS \- Short Track Showdown & Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12121){:target="_blank"} |[Discord](https://discord.gg/4hhXwUESeF){:target="_blank"} | |
 |[Spring Sizzler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12116){:target="_blank"} | |358 Modifieds |
 |[SR13 iLate Model League](https://members.iracing.com/membersite/member/LeagueView.do?league=12119){:target="_blank"} | |SEND IT |
 |[West Virginia Legends Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=12117){:target="_blank"} |[Discord](https://discord.gg/mmBbCqBQ){:target="_blank"} |A Legends car league that will race on oval and road and maybe dirt in the future |
@@ -60,9 +57,18 @@
 |[Apex Racing Society](https://members.iracing.com/membersite/member/LeagueView.do?league=12159){:target="_blank"} | | |
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12161){:target="_blank"} | | |
 |[IFF FIA F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |[Discord](https://discord.gg/3Arm8DGk){:target="_blank"} |Campionato FIA F4 \- Fixed |
-|[iRacing Japan NASCAR Series \(仮\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} | |Japan Club NASCAR Series |
+|[iRacing Japan NASCAR Series \(仮\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} | |日本人ユーザーを対象としたNASCARシリーズ |
 |[NagoyaOJA](https://members.iracing.com/membersite/member/LeagueView.do?league=12154){:target="_blank"} | | |
 |[SRN Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12157){:target="_blank"} | | |
 |[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} | |League for Zaddy Racing and fans |
 |[SRS Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12156){:target="_blank"} | | |
+|[DLBTV Racing League Presented by\. DriveSmart](https://members.iracing.com/membersite/member/LeagueView.do?league=12168){:target="_blank"} |[Discord](https://discord.gg/3UtNVrTV9d){:target="_blank"} |The DLBTV Racing League, powered by DriveSmart\! |
+|[HVRL Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12167){:target="_blank"} | |GT3 road series 2500 max iRating |
+|[Matia League](https://members.iracing.com/membersite/member/LeagueView.do?league=12172){:target="_blank"} | |A league designed for running the Mazda Miata MX\-5 |
+|[MILK DADDY](https://members.iracing.com/membersite/member/LeagueView.do?league=12169){:target="_blank"} | | |
+|[Parker/Watson League](https://members.iracing.com/membersite/member/LeagueView.do?league=12171){:target="_blank"} | |Super Late Model and UMP League |
+|[PESCP \| Sezon 5 \- Wyścig Społeczności](https://members.iracing.com/membersite/member/LeagueView.do?league=12166){:target="_blank"} | |Organizatorem i promotorem Porsche Esports Sprint Challenge Poland jest Ragnar Simulator\. Sponsorem głównym wydarzenia jest Porsche Polska\. Partnerem technicznym serii jest iRacing\. |
+|[racing pw](https://members.iracing.com/membersite/member/LeagueView.do?league=12163){:target="_blank"} | |here my guy |
+|[It's never my fault](https://members.iracing.com/membersite/member/LeagueView.do?league=12170){:target="_blank"} | | |
+|[PESCP \| Sezon 5 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=12165){:target="_blank"} | |Organizatorem i promotorem Porsche Esports Sprint Challenge Poland jest Ragnar Simulator\. Sponsorem głównym wydarzenia jest Porsche Polska\. Partnerem technicznym serii jest iRacing\. |
 
