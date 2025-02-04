@@ -1,13 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Acceleration Motorsports Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12107){:target="_blank"} | |A League Associated With The Team Acceleration Motorsports, We have a Discord look in the iRacing Discord and look at team promotions, you'll find us |
-|[BrakeFast Club \[Sports Car Series\]](https://members.iracing.com/membersite/member/LeagueView.do?league=12104){:target="_blank"} |[Discord](https://discord.gg/brakefastclub){:target="_blank"} |BrakeFast Club's Sports Car Series iRacing League |
-|[Mil Milhas GP São Paulo Virtuais](https://members.iracing.com/membersite/member/LeagueView.do?league=12103){:target="_blank"} | | |
-|[Motor City Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12105){:target="_blank"} |[Discord](https://discord.gg/u8mm6J3KCw){:target="_blank"} |2025 is set to be a promising year for iRacing in MCR; we are looking to roll out a Weekly Multi\-Class IMSA iRacing League\. This league would feature GTP, LMP & GT3 Classes for the true Multi\-Class experience\. The League will be starting February 9th\! If you’re interested, please fill out the Google Form below\! Format: 15 Minute Qualifying 1 Hour Race Distance Signup Link: https://docs\.google\.com/forms/d/e/1FAIpQLSddVekqyfnxvjCL\-SLVYmTspdwmLcfygy3K1CYkimQMnJPHTA/viewform?usp\=header Discord Invite: https://discord\.gg/u8mm6J3KCw |
-|[Warriors2Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=12102){:target="_blank"} | |League for Warriors2Racers members and their guests\. League races every Wednesday\. Rotation follows real world calendar order of events for the current season\. Wednesday prior to a real world event will be the real world track for the upcoming W2R event \(if available\)\. At conclusion of each iteration of the real world calendar, there will be a special event at a location that we will likely run at in the future\. iRacing season normally runs Feb\-Sep with special sessions for real world racing prep |
-|[PESC 2025 W](https://members.iracing.com/membersite/member/LeagueView.do?league=12106){:target="_blank"} | |ONLY FOR PESC |
+|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} | |You search for something silly? Well what do you think about rallycross cars on "normal" tracks? Here we go with the most chaos you may ever seen\! |
 |[Mini Stock Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=12109){:target="_blank"} | |MSM Mini Stock Madness |
 |[Misfit motorsports Team Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12113){:target="_blank"} | |Team based truck league |
@@ -53,7 +47,7 @@
 |[Carbon Custom Builders](https://members.iracing.com/membersite/member/LeagueView.do?league=12151){:target="_blank"} | |Obsessively Better Built™ |
 |[TAW & DDS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12150){:target="_blank"} | | |
 |[WA Battlers](https://members.iracing.com/membersite/member/LeagueView.do?league=12152){:target="_blank"} | |Pinnacle of WA Motorsport |
-|[BMW M2 Cup by Simwear\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=12153){:target="_blank"} | |BMW M2 Cup by Simwear\.eu |
+|[BMW M2 Cup by Simwear\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=12153){:target="_blank"} |[Discord](https://discord.gg/r5XG7Q2d6s){:target="_blank"} |BMW M2 Cup by Simwear\.eu |
 |[Apex Racing Society](https://members.iracing.com/membersite/member/LeagueView.do?league=12159){:target="_blank"} | | |
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12161){:target="_blank"} | | |
 |[IFF FIA F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |[Discord](https://discord.gg/3Arm8DGk){:target="_blank"} |Campionato FIA F4 \- Fixed |
@@ -71,4 +65,10 @@
 |[racing pw](https://members.iracing.com/membersite/member/LeagueView.do?league=12163){:target="_blank"} | |here my guy |
 |[It's never my fault](https://members.iracing.com/membersite/member/LeagueView.do?league=12170){:target="_blank"} | | |
 |[PESCP \| Sezon 5 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=12165){:target="_blank"} | |Organizatorem i promotorem Porsche Esports Sprint Challenge Poland jest Ragnar Simulator\. Sponsorem głównym wydarzenia jest Porsche Polska\. Partnerem technicznym serii jest iRacing\. |
+|[bigbirdyracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12174){:target="_blank"} | |racing for fun |
+|[Elite Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12176){:target="_blank"} |[Discord](https://discord.gg/7tnh778JBj){:target="_blank"} | |
+|[Nifty Lift SportsCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12177){:target="_blank"} | |Fixed GT3 league |
+|[Winners Payout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12175){:target="_blank"} |[Discord](https://discord.gg/MYnEfH7M){:target="_blank"} |Next Gen Nascar Cup Cars  100% Races  1st\-$1,000 2nd\-$200 3rd\-$100 \*based on a 40 car field\*  $35 entry PayPal \- Braxton Barrett Venmo @Braxton\-Barrett\-5  Broadcasted |
+|[BiS Pro Formula / Formula Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=12173){:target="_blank"} | | |
+|[ROAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12178){:target="_blank"} | |Radical Online Auto Racing Series |
 
