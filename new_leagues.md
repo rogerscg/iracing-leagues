@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} | |You search for something silly? Well what do you think about rallycross cars on "normal" tracks? Here we go with the most chaos you may ever seen\! |
-|[Mini Stock Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=12109){:target="_blank"} | |MSM Mini Stock Madness |
 |[Misfit motorsports Team Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12113){:target="_blank"} | |Team based truck league |
 |[Misfit Motorsports Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=12114){:target="_blank"} | |solo |
 |[Team Tenuto](https://members.iracing.com/membersite/member/LeagueView.do?league=12111){:target="_blank"} | |Team Tenuto Test Sessions |
@@ -58,7 +56,7 @@
 |[SRS Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12156){:target="_blank"} | | |
 |[DLBTV Racing League Presented by\. DriveSmart](https://members.iracing.com/membersite/member/LeagueView.do?league=12168){:target="_blank"} |[Discord](https://discord.gg/3UtNVrTV9d){:target="_blank"} |The DLBTV Racing League, powered by DriveSmart\! |
 |[HVRL Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12167){:target="_blank"} | |GT3 road series 2500 max iRating |
-|[Matia League](https://members.iracing.com/membersite/member/LeagueView.do?league=12172){:target="_blank"} | |A league designed for running the Mazda Miata MX\-5 |
+|[Miata Cup North America](https://members.iracing.com/membersite/member/LeagueView.do?league=12172){:target="_blank"} | |A league designed for running the Mazda Miata MX\-5 |
 |[MILK DADDY](https://members.iracing.com/membersite/member/LeagueView.do?league=12169){:target="_blank"} | | |
 |[Parker/Watson League](https://members.iracing.com/membersite/member/LeagueView.do?league=12171){:target="_blank"} | |Super Late Model and UMP League |
 |[PESCP \| Sezon 5 \- Wyścig Społeczności](https://members.iracing.com/membersite/member/LeagueView.do?league=12166){:target="_blank"} | |Organizatorem i promotorem Porsche Esports Sprint Challenge Poland jest Ragnar Simulator\. Sponsorem głównym wydarzenia jest Porsche Polska\. Partnerem technicznym serii jest iRacing\. |
@@ -71,4 +69,7 @@
 |[Winners Payout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12175){:target="_blank"} |[Discord](https://discord.gg/MYnEfH7M){:target="_blank"} |Next Gen Nascar Cup Cars  100% Races  1st\-$1,000 2nd\-$200 3rd\-$100 \*based on a 40 car field\*  $35 entry PayPal \- Braxton Barrett Venmo @Braxton\-Barrett\-5  Broadcasted |
 |[BiS Pro Formula / Formula Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=12173){:target="_blank"} | | |
 |[ROAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12178){:target="_blank"} | |Radical Online Auto Racing Series |
+|[Red Sox Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=12180){:target="_blank"} | |Red Sox Racing League Oval Mini Stocks |
+|[SmartWifi](https://members.iracing.com/membersite/member/LeagueView.do?league=12181){:target="_blank"} | |Test |
+|[SZESE E\-Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=12179){:target="_blank"} | | |
 
