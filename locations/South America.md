@@ -35,9 +35,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[F1BC Formula 1600](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |Formula 1600 2025/1 |South America |30 |2104 | |Motorsport Arena Oschersleben |Wed, February 05 06:25PM EST |Wed, February 05 11:25PM GMT |Thu, February 06 10:25AM AEDT |
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Formula 1600 2025 T1 |South America |19 |1724 |Fixed |Circuit de Lédenon |Wed, February 05 05:30PM EST |Wed, February 05 10:30PM GMT |Thu, February 06 09:30AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|------------------|----------------------------|----------------------------|-----------------------------|
+|[F1BC Formula 1600](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |Formula 1600 2025/1 |South America |30 |2092 | |Circuit de Lédenon |Wed, February 12 06:25PM EST |Wed, February 12 11:25PM GMT |Thu, February 13 10:25AM AEDT |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Formula 1600 2025 T1 |South America |19 |1805 |Fixed | | | | |
 
 ### Super Formula SF23
 
@@ -139,15 +139,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
-|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |156 |1918 | |Tsukuba Circuit |Wed, February 05 04:59PM EST |Wed, February 05 09:59PM GMT |Thu, February 06 08:59AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |158 |1938 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV GT3 2024 |South America |46 |1930 | | | | | |
-|[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2025/1 |South America |40 |2636 | |Road America |Wed, February 05 04:10PM EST |Wed, February 05 09:10PM GMT |Thu, February 06 08:10AM AEDT |
+|[IRB 4Fun Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=3285){:target="_blank"} |IRB 4Fun \- Semana 5 |South America |42 |2399 | | | | | |
+|[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2025/1 |South America |40 |2663 | |Autodromo Nazionale Monza |Wed, February 12 04:10PM EST |Wed, February 12 09:10PM GMT |Thu, February 13 08:10AM AEDT |
 |[Koreylandia](https://members.iracing.com/membersite/member/LeagueView.do?league=11613){:target="_blank"} |Primeira Temporada \- 4Fun Koreylandia |South America |36 |1594 | | | | | |
-|[IRB 4Fun Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=3285){:target="_blank"} |IRB 4Fun \- Semana 5 |South America |35 |2300 | | | | | |
 |[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |ESRA GT3 |South America |31 |1770 | | | | | |
 |[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2024/4 |South America |26 |2112 | | | | | |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SGA IMSA GOLD |South America |21 |2613 |Both |Road America |Wed, February 05 05:00PM EST |Wed, February 05 10:00PM GMT |Thu, February 06 09:00AM AEDT |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SGA IMSA GOLD |South America |21 |2575 |Both | | | | |
 |[Koreylandia](https://members.iracing.com/membersite/member/LeagueView.do?league=11613){:target="_blank"} |Temporada 1 \- 2025 \- 4Fun Koreylandia |South America |15 |1607 | | | | | |
 
 ### Stock Car Brasil

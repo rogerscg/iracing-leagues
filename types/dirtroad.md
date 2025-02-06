@@ -20,7 +20,6 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK X \- 2024 |North America |27 |2807 |Fixed | | | | |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 2 JPB Trucks |Europe |19 |1790 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2025 |North America |11 |2844 |Fixed | | | | |
 
 ### Pro 2 Truck

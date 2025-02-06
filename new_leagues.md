@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Misfit motorsports Team Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12113){:target="_blank"} | |Team based truck league |
-|[Misfit Motorsports Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=12114){:target="_blank"} | |solo |
-|[Team Tenuto](https://members.iracing.com/membersite/member/LeagueView.do?league=12111){:target="_blank"} | |Team Tenuto Test Sessions |
-|[Team Tenuto](https://members.iracing.com/membersite/member/LeagueView.do?league=12112){:target="_blank"} | |Team Tenuto Test Sessions |
-|[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} | |AM Historic Formula 1 Single and Team Championship |
 |[East Coast Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12115){:target="_blank"} | |Beginner friendly we all have to start somewhere\. |
 |[Grass Roots Racing \- Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12118){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} |GRR Oval Series Championship |
 |[UIS \- Jones Racing Setups Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12120){:target="_blank"} |[Discord](https://discord.gg/4hhXwUESeF){:target="_blank"} | |
@@ -38,7 +33,7 @@
 |[Lekker racen](https://members.iracing.com/membersite/member/LeagueView.do?league=12134){:target="_blank"} | |Lekker racen |
 |[OGRL "A Pro" Thunder Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12136){:target="_blank"} |[Discord](https://discord.gg/ogrl){:target="_blank"} |This is our OGRL "A Pro" Thursday Thunder Truck League \- Invite Only |
 |[Scoot & Poot Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12139){:target="_blank"} | |Scootin & Pootin |
-|[Jackey Jones Gen 4 Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12149){:target="_blank"} | |Presented by Mid Atlantic Racing Series |
+|[Jackey Jones Gen 4 Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12149){:target="_blank"} |[Discord](https://discord.gg/eqpynrW6pD){:target="_blank"} |Presented by Mid Atlantic Racing Series |
 |[NAPA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12146){:target="_blank"} | |NAPA is a truck series awards while be give to the winner this is a 25 race format hope you while join use and we can crown you as a champion\. |
 |[RedAtlas](https://members.iracing.com/membersite/member/LeagueView.do?league=12148){:target="_blank"} | | |
 |[Ruff\-Neck Against The World](https://members.iracing.com/membersite/member/LeagueView.do?league=12147){:target="_blank"} | |smack talk welcomed drive with respect |
@@ -70,6 +65,10 @@
 |[BiS Pro Formula / Formula Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=12173){:target="_blank"} | | |
 |[ROAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12178){:target="_blank"} | |Radical Online Auto Racing Series |
 |[Red Sox Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=12180){:target="_blank"} | |Red Sox Racing League Oval Mini Stocks |
-|[SmartWifi](https://members.iracing.com/membersite/member/LeagueView.do?league=12181){:target="_blank"} | |Test |
+|[SmartWifi UK Race Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=12181){:target="_blank"} | |SmartWifi\.co\.uk Sponsored UK circuits |
 |[SZESE E\-Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=12179){:target="_blank"} | | |
+|[JWC X FZR](https://members.iracing.com/membersite/member/LeagueView.do?league=12183){:target="_blank"} |[Discord](https://discord.gg/Dv4suNCC){:target="_blank"} |JWC and FZR has teamed up to create our first IRacing League\. Legaue is open to anyone in GT3 catagory\. If you wish to enter find me on discord @jack Carless |
+|[LC Racing75](https://members.iracing.com/membersite/member/LeagueView.do?league=12185){:target="_blank"} | |GT3 only weekends mostly friday night but popular gt tracks a ngt cars please join but I haven't done one these but it will be fun |
+|[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} | |SLM Summer League |
+|[Track Heroes League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12184){:target="_blank"} | | |
 
