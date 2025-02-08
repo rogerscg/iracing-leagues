@@ -1,15 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[East Coast Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12115){:target="_blank"} | |Beginner friendly we all have to start somewhere\. |
-|[Grass Roots Racing \- Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12118){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} |GRR Oval Series Championship |
-|[UIS \- Jones Racing Setups Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12120){:target="_blank"} |[Discord](https://discord.gg/4hhXwUESeF){:target="_blank"} | |
-|[UIS \- Short Track Showdown & Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12121){:target="_blank"} |[Discord](https://discord.gg/4hhXwUESeF){:target="_blank"} | |
-|[Spring Sizzler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12116){:target="_blank"} | |358 Modifieds |
-|[SR13 iLate Model League](https://members.iracing.com/membersite/member/LeagueView.do?league=12119){:target="_blank"} | |SEND IT |
-|[West Virginia Legends Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=12117){:target="_blank"} |[Discord](https://discord.gg/mmBbCqBQ){:target="_blank"} |A Legends car league that will race on oval and road and maybe dirt in the future |
-|[Zala and Zsombooo](https://members.iracing.com/membersite/member/LeagueView.do?league=12122){:target="_blank"} | |hello is a private room |
+|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[CiT Menards ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12127){:target="_blank"} | |Best ARCA league on iRacing |
 |[NO LIMIT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12128){:target="_blank"} | |Asphalt And Dirt Racing at its best |
 |[PREMIER ENDURANCE LEAGUE \- GT3 OPEN](https://members.iracing.com/membersite/member/LeagueView.do?league=12123){:target="_blank"} | |The GAMER GEAR DIRECT Australian GT3 short endurance championship\. |
@@ -47,7 +39,7 @@
 |[iRacing Japan NASCAR Series \(仮\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} | |日本人ユーザーを対象としたNASCARシリーズ |
 |[NagoyaOJA](https://members.iracing.com/membersite/member/LeagueView.do?league=12154){:target="_blank"} | | |
 |[SRN Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12157){:target="_blank"} | | |
-|[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} | |League for Zaddy Racing and fans |
+|[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} | |League for Zaddy Racing and fans\. We are here to have fun\!   Join us in Discord to continue the conversation there\. If you have any questions please DM Cruckel on Discord\. |
 |[SRS Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12156){:target="_blank"} | | |
 |[DLBTV Racing League Presented by\. DriveSmart](https://members.iracing.com/membersite/member/LeagueView.do?league=12168){:target="_blank"} |[Discord](https://discord.gg/3UtNVrTV9d){:target="_blank"} |The DLBTV Racing League, powered by DriveSmart\! |
 |[HVRL Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12167){:target="_blank"} | |GT3 road series 2500 max iRating |
@@ -71,4 +63,11 @@
 |[LC Racing75](https://members.iracing.com/membersite/member/LeagueView.do?league=12185){:target="_blank"} | |GT3 only weekends mostly friday night but popular gt tracks a ngt cars please join but I haven't done one these but it will be fun |
 |[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} | |SLM Summer League |
 |[Track Heroes League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12184){:target="_blank"} | | |
+|[ASML Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12188){:target="_blank"} | |The league for workers and friends of ASML |
+|[Billy Oirish Racing Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12187){:target="_blank"} | |12 Week Racing League In The Porsche 992 GT3 Cup Car |
+|[D1RT Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12191){:target="_blank"} | |D1RT Sprint Car Series |
+|[Hold Your Line](https://members.iracing.com/membersite/member/LeagueView.do?league=12189){:target="_blank"} | |Just chill folks tryna hold our lines and win a few races |
+|[Javahosting Trial Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12186){:target="_blank"} | | |
+|[VRX and Mama T \- Tuesday Night NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12192){:target="_blank"} | |Tuesday Night NASCAR league mirroring the weekend race |
+|[Jackzer Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=12190){:target="_blank"} |[Discord](https://discord.gg/Vrhz3etSqs){:target="_blank"} |Jackzer Community League |
 

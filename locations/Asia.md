@@ -11,16 +11,6 @@
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
 |[Octane Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5704){:target="_blank"} |OOR iRacing \- Formula Ford 1600 \- \(S1 \- ASIA PACIFIC\) |Asia |23 |1816 |Both | | | | |
 
-# Sports Car
-
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|--------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |NOOR Racing Intro Cup 2024 |Asia |34 |1393 |Both | | | | |
-
 # Multi-class/Unclassified
 
 ### Hosted All Cars Class
