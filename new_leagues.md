@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[CiT Menards ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12127){:target="_blank"} | |Best ARCA league on iRacing |
-|[NO LIMIT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12128){:target="_blank"} | |Asphalt And Dirt Racing at its best |
-|[PREMIER ENDURANCE LEAGUE \- GT3 OPEN](https://members.iracing.com/membersite/member/LeagueView.do?league=12123){:target="_blank"} | |The GAMER GEAR DIRECT Australian GT3 short endurance championship\. |
-|[Walkin' & Rollin' Costumes Clash For A Cause](https://members.iracing.com/membersite/member/LeagueView.do?league=12126){:target="_blank"} | |Charity Event Benefitting Walkin' & Rollin' Costumes |
-|[Chicken\-Bone Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12129){:target="_blank"} | |Dudes racing dudes disguised as other dudes trying to prevent going full \*\*\* |
-|[Life is Live QC](https://members.iracing.com/membersite/member/LeagueView.do?league=12125){:target="_blank"} | |Friend Ai season |
-|[MCS](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} | |Member Created Series |
 |[Nelson Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12130){:target="_blank"} | |This is where the New Symrna Speedweeks will be happening\. |
 |[Beastmode Gen6 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12131){:target="_blank"} | | |
 |[Menjetek körbe\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12132){:target="_blank"} | |Minden ami NASCAR\! |
@@ -60,7 +53,7 @@
 |[SmartWifi UK Race Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=12181){:target="_blank"} | |SmartWifi\.co\.uk Sponsored UK circuits |
 |[SZESE E\-Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=12179){:target="_blank"} | | |
 |[JWC X FZR](https://members.iracing.com/membersite/member/LeagueView.do?league=12183){:target="_blank"} |[Discord](https://discord.gg/Dv4suNCC){:target="_blank"} |JWC and FZR has teamed up to create our first IRacing League\. Legaue is open to anyone in GT3 catagory\. If you wish to enter find me on discord @jack Carless |
-|[LC Racing75](https://members.iracing.com/membersite/member/LeagueView.do?league=12185){:target="_blank"} | |GT3 only weekends mostly friday night but popular gt tracks a ngt cars please join but I haven't done one these but it will be fun |
+|[LC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12185){:target="_blank"} | |GT3 only weekends mostly friday night but popular gt tracks a ngt cars please join but I haven't done one these but it will be fun |
 |[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} | |SLM Summer League |
 |[Track Heroes League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12184){:target="_blank"} | | |
 |[ASML Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12188){:target="_blank"} | |The league for workers and friends of ASML |
@@ -70,4 +63,11 @@
 |[Javahosting Trial Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12186){:target="_blank"} | | |
 |[VRX and Mama T \- Tuesday Night NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12192){:target="_blank"} | |Tuesday Night NASCAR league mirroring the weekend race |
 |[Jackzer Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=12190){:target="_blank"} |[Discord](https://discord.gg/Vrhz3etSqs){:target="_blank"} |Jackzer Community League |
+|[BEKT RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12198){:target="_blank"} |[Discord](https://discord.gg/RS6ATtazEp){:target="_blank"} |Tournaments designed to challenge and showcase the skills of sim racing enthusiasts\. |
+|[Big Papa Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12197){:target="_blank"} | |Variety league aimed at having fun and learning better technique with some wacky car and track combos to shake it up |
+|[Russian NASCAR League](https://members.iracing.com/membersite/member/LeagueView.do?league=12194){:target="_blank"} |[Discord](https://discord.gg/FpQv8R2uRW){:target="_blank"} |Russian NASCAR League \- is a public association engaged in organizing, conducting and promoting digital motorsports competitions dedicated to oval NASCAR\. |
+|[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} | | |
+|[Trash Pandas](https://members.iracing.com/membersite/member/LeagueView.do?league=12199){:target="_blank"} | |join at your own risk |
+|[WK Arena](https://members.iracing.com/membersite/member/LeagueView.do?league=12196){:target="_blank"} | | |
+|[V\-Racing F1 Experience Spa](https://members.iracing.com/membersite/member/LeagueView.do?league=12193){:target="_blank"} | | |
 
