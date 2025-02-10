@@ -1,8 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Nelson Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12130){:target="_blank"} | |This is where the New Symrna Speedweeks will be happening\. |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Beastmode Gen6 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12131){:target="_blank"} | | |
 |[Menjetek körbe\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12132){:target="_blank"} | |Minden ami NASCAR\! |
 |[DASH SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12140){:target="_blank"} | | |
@@ -70,4 +69,9 @@
 |[Trash Pandas](https://members.iracing.com/membersite/member/LeagueView.do?league=12199){:target="_blank"} | |join at your own risk |
 |[WK Arena](https://members.iracing.com/membersite/member/LeagueView.do?league=12196){:target="_blank"} | | |
 |[V\-Racing F1 Experience Spa](https://members.iracing.com/membersite/member/LeagueView.do?league=12193){:target="_blank"} | | |
+|[Magyarok \- Real Fast Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=12203){:target="_blank"} | |Magyar fun bajnokság |
+|[Puerto Rico Cbrn](https://members.iracing.com/membersite/member/LeagueView.do?league=12201){:target="_blank"} | |Llegaron los rompebrea\.\.\. |
+|[RNV Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12200){:target="_blank"} | | |
+|[twisted racers](https://members.iracing.com/membersite/member/LeagueView.do?league=12204){:target="_blank"} | | |
+|[Vaucher Analytics Motorsports Sponsorship Accelerator League](https://members.iracing.com/membersite/member/LeagueView.do?league=12202){:target="_blank"} | |iRacing league for students enrolled in the Motorsports Sponsorship Accelerator course |
 
