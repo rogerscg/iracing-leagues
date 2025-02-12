@@ -26,6 +26,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
-|[ISRAEL Rallycross league](https://members.iracing.com/membersite/member/LeagueView.do?league=12041){:target="_blank"} |SEASON NO1  \-VW\- RALLYCROSS |International |17 |1438 | |Tsukuba Circuit |Tue, February 11 02:00PM EST |Tue, February 11 07:00PM GMT |Wed, February 12 06:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|[ISRAEL Rallycross league](https://members.iracing.com/membersite/member/LeagueView.do?league=12041){:target="_blank"} |SEASON NO1  \-VW\- RALLYCROSS |International |19 |1460 | |Firebird Motorsports Park |Tue, February 18 02:00PM EST |Tue, February 18 07:00PM GMT |Wed, February 19 06:00AM AEDT |
 

@@ -6,19 +6,12 @@
 |[Dirt Coin Crypto Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12145){:target="_blank"} | |this is a league that will run for points and it will be in the dirt mini stocks\. It will have certificates for the top 10 finishers per event, and they will be posted on the facebook page Dirt Coin, and in our discord\. we will run on tuesdays @8:30pm CT starting on 2/4/25 and fixed setups |
 |[GTR\-Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=12142){:target="_blank"} | | |
 |[Northeast Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=12143){:target="_blank"} | |legends thursday nights |
-|[Northwest V8 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=12138){:target="_blank"} | | |
-|[POLENTA RACING TEAM League](https://members.iracing.com/membersite/member/LeagueView.do?league=12135){:target="_blank"} |[Discord](https://discord.gg/xJcR6KsuUG){:target="_blank"} |🏁 1° Champ Mazda MX\-5 Polenta Racing Team🏁 |
-|[SIM1 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12133){:target="_blank"} | | |
 |[Slow Lovin](https://members.iracing.com/membersite/member/LeagueView.do?league=12144){:target="_blank"} | |Just the tip |
 |[South East Xfinity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12141){:target="_blank"} | | |
-|[TPRT \- Roast Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=12137){:target="_blank"} | |Donde Tu Pai te la monta\. Ponte serioooo |
-|[Lekker racen](https://members.iracing.com/membersite/member/LeagueView.do?league=12134){:target="_blank"} | |Lekker racen |
-|[OGRL "A Pro" Thunder Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12136){:target="_blank"} |[Discord](https://discord.gg/ogrl){:target="_blank"} |This is our OGRL "A Pro" Thursday Thunder Truck League \- Invite Only |
-|[Scoot & Poot Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12139){:target="_blank"} | |Scootin & Pootin |
 |[Jackey Jones Gen 4 Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12149){:target="_blank"} |[Discord](https://discord.gg/eqpynrW6pD){:target="_blank"} |Presented by Mid Atlantic Racing Series |
-|[NAPA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12146){:target="_blank"} | |NAPA is a truck series awards while be give to the winner this is a 25 race format hope you while join use and we can crown you as a champion\. |
+|[NAPA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12146){:target="_blank"} | |NAPA is a truck series awards while be give to the winner this is a 25 race format hope you will join use and we can crown you as a champion\. |
 |[RedAtlas](https://members.iracing.com/membersite/member/LeagueView.do?league=12148){:target="_blank"} | | |
-|[Ruff\-Neck SS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12147){:target="_blank"} | |smack talk welcomed drive with respect |
+|[Ruff\-Neck League Battles](https://members.iracing.com/membersite/member/LeagueView.do?league=12147){:target="_blank"} | |smack talk welcomed drive with respect |
 |[Carbon Custom Builders](https://members.iracing.com/membersite/member/LeagueView.do?league=12151){:target="_blank"} | |Obsessively Better Built™ |
 |[TAW & DDS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12150){:target="_blank"} | | |
 |[WA Battlers](https://members.iracing.com/membersite/member/LeagueView.do?league=12152){:target="_blank"} | |Pinnacle of WA Motorsport |
@@ -38,7 +31,7 @@
 |[Parker/Watson League](https://members.iracing.com/membersite/member/LeagueView.do?league=12171){:target="_blank"} | |Super Late Model and UMP League |
 |[PESCP \| Sezon 5 \- Wyścig Społeczności](https://members.iracing.com/membersite/member/LeagueView.do?league=12166){:target="_blank"} | |Organizatorem i promotorem Porsche Esports Sprint Challenge Poland jest Ragnar Simulator\. Sponsorem głównym wydarzenia jest Porsche Polska\. Partnerem technicznym serii jest iRacing\. |
 |[racing pw](https://members.iracing.com/membersite/member/LeagueView.do?league=12163){:target="_blank"} | |here my guy |
-|[It's never my fault](https://members.iracing.com/membersite/member/LeagueView.do?league=12170){:target="_blank"} | | |
+|[iNduro Minis](https://members.iracing.com/membersite/member/LeagueView.do?league=12170){:target="_blank"} | | |
 |[PESCP \| Sezon 5 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=12165){:target="_blank"} | |Organizatorem i promotorem Porsche Esports Sprint Challenge Poland jest Ragnar Simulator\. Sponsorem głównym wydarzenia jest Porsche Polska\. Partnerem technicznym serii jest iRacing\. |
 |[bigbirdyracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12174){:target="_blank"} | |racing for fun |
 |[Elite Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12176){:target="_blank"} |[Discord](https://discord.gg/7tnh778JBj){:target="_blank"} | |
@@ -55,7 +48,7 @@
 |[Track Heroes League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12184){:target="_blank"} | | |
 |[ASML Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12188){:target="_blank"} | |The league for workers and friends of ASML |
 |[Billy Oirish Racing Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12187){:target="_blank"} | |12 Week Racing League In The Porsche 992 GT3 Cup Car |
-|[D1RT Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12191){:target="_blank"} | |D1RT Sprint Car Series |
+|[D1RT Clay Crown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12191){:target="_blank"} |[Discord](https://discord.gg/TFxWEWpNst){:target="_blank"} |Register here or in our discord: https://discord\.gg/TFxWEWpNst |
 |[Hold Your Line](https://members.iracing.com/membersite/member/LeagueView.do?league=12189){:target="_blank"} | |Just chill folks tryna hold our lines and win a few races |
 |[Javahosting Trial Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12186){:target="_blank"} | | |
 |[VRX and Mama T \- Tuesday Night NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12192){:target="_blank"} | |Tuesday Night NASCAR league mirroring the weekend race |
@@ -80,4 +73,8 @@
 |[TWG Dirt Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12212){:target="_blank"} | | |
 |[Victory Speedlabs Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12205){:target="_blank"} | |Dirt Oval League |
 |[XCPTT'S STREET STOCK LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12207){:target="_blank"} |[Discord](https://discord.gg/hUGy8vjdt5){:target="_blank"} |FOR NOOBS AND PROS COME HAVE FUN AND JOIN THE DISCORD |
+|[BLR and LDC United](https://members.iracing.com/membersite/member/LeagueView.do?league=12213){:target="_blank"} | |TestDrive |
+|[Half Decent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12215){:target="_blank"} | |League geared towards newer drivers running both Dirt and Asphalt Oval Tracks |
+|[Pepsi Retro Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12214){:target="_blank"} | |Bringing back the good ole days with 87 cup cars\. |
+|[Wheel 2 Wheel Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12216){:target="_blank"} | |We are a GT3 based beginner friendly league that runs on sundays at 8pm EST\! join the discord\! |
 

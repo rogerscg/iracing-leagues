@@ -12,6 +12,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|-----------|-----|-----------------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[SuperStar ARCA Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11475){:target="_blank"} |PreSeason 2 |Fixed |[Legacy] Michigan International Speedway - 2009 |Thu, February 13 07:00PM EST |Fri, February 14 12:00AM GMT |Fri, February 14 11:00AM AEDT |
+|[SuperStar ARCA Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11475){:target="_blank"} |Speedweeks |Fixed |Daytona International Speedway |Wed, February 19 07:00AM EST |Wed, February 19 12:00PM GMT |Wed, February 19 11:00PM AEDT |
 
 ### Gen 4 Cup
 
@@ -30,14 +31,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[ARCS A² Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7597){:target="_blank"} |2025 \- A² Season |Fixed |Daytona International Speedway |Sun, February 16 06:15PM EST |Sun, February 16 11:15PM GMT |Mon, February 17 10:15AM AEDT |
+|[Full Throttle Performance Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8695){:target="_blank"} |2025  Cup  Season |Open |Daytona International Speedway |Wed, February 19 07:00PM EST |Thu, February 20 12:00AM GMT |Thu, February 20 11:00AM AEDT |
 |[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |2025 Full Length Cup Challenge |Open |Daytona International Speedway |Sat, February 15 07:45PM EST |Sun, February 16 12:45AM GMT |Sun, February 16 11:45AM AEDT |
 |[SNN Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5465){:target="_blank"} |2025 Sunday Night NASCAR Cup Series |Open |Daytona International Speedway |Sun, February 16 06:45PM EST |Sun, February 16 11:45PM GMT |Mon, February 17 10:45AM AEDT |
 |[Red Diamond Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11899){:target="_blank"} |RDRL Cup Series 2025 | |Daytona International Speedway |Mon, February 17 08:30PM EST |Tue, February 18 01:30AM GMT |Tue, February 18 12:30PM AEDT |
 |[Racers Elite \- Single Events \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10780){:target="_blank"} |Single Events 2025 | |Daytona International Speedway |Sun, February 16 08:50AM EST |Sun, February 16 01:50PM GMT |Mon, February 17 12:50AM AEDT |
 |[Old Glory Next Gen Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8046){:target="_blank"} |2025 Spring |Fixed |Daytona International Speedway |Wed, February 12 08:00PM EST |Thu, February 13 01:00AM GMT |Thu, February 13 12:00PM AEDT |
-|[eNASCAR Coca\-Cola iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6233){:target="_blank"} |2025 Coca Cola iRacing Series | |Daytona International Speedway |Tue, February 11 07:15PM EST |Wed, February 12 12:15AM GMT |Wed, February 12 11:15AM AEDT |
 |[Grand $lam $eries](https://members.iracing.com/membersite/member/LeagueView.do?league=10141){:target="_blank"} |Grand $lam $eries Season 1 |Fixed |Richmond Raceway |Fri, February 14 08:20PM EST |Sat, February 15 01:20AM GMT |Sat, February 15 12:20PM AEDT |
 |[Door to Door Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11746){:target="_blank"} |Door to Door 2025 Cup Series | |Daytona International Speedway |Sun, February 16 07:00PM EST |Mon, February 17 12:00AM GMT |Mon, February 17 11:00AM AEDT |
 |[The BSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3791){:target="_blank"} |BSC Cup season 11 |Both |Daytona International Speedway |Tue, February 18 07:00PM EST |Wed, February 19 12:00AM GMT |Wed, February 19 11:00AM AEDT |
@@ -45,19 +46,17 @@
 |[Freedom Motorsport Alliance \(FMA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} |FMA FFTV Next Gen Cup Series | |Atlanta Motor Speedway |Wed, February 12 08:30PM EST |Thu, February 13 01:30AM GMT |Thu, February 13 12:30PM AEDT |
 |[iRacing Warriors Motorsportz Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8223){:target="_blank"} |Tech4Troops Cup Series Season 6 | |Daytona International Speedway |Wed, February 12 08:30PM EST |Thu, February 13 01:30AM GMT |Thu, February 13 12:30PM AEDT |
 |[GFi Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10821){:target="_blank"} |Next Gen Season 5 |Fixed |Daytona International Speedway |Mon, February 17 07:30PM EST |Tue, February 18 12:30AM GMT |Tue, February 18 11:30AM AEDT |
-|[RPE Roundy\-Round Series w/RFK Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4493){:target="_blank"} |RPE Roundy\-Round Series w/RFK Racing | |Daytona International Speedway |Wed, February 12 07:00PM EST |Thu, February 13 12:00AM GMT |Thu, February 13 11:00AM AEDT |
 |[Blackout Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11326){:target="_blank"} |Blackout Season 2 | |Daytona International Speedway |Sun, February 16 08:00PM EST |Mon, February 17 01:00AM GMT |Mon, February 17 12:00PM AEDT |
-|[Lucky Dog Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9639){:target="_blank"} |NextGen Season 10 | |Kentucky Speedway |Tue, February 11 07:00PM EST |Wed, February 12 12:00AM GMT |Wed, February 12 11:00AM AEDT |
+|[AOLL Racing's Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2269){:target="_blank"} |2025 Season 1 |Fixed |Daytona International Speedway |Wed, February 12 06:00PM EST |Wed, February 12 11:00PM GMT |Thu, February 13 10:00AM AEDT |
 
 ### NASCAR Cup
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------|-----------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Top Tier Racing Gen 6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12002){:target="_blank"} |Gen 6 | |Daytona International Speedway |Tue, February 18 08:00PM EST |Wed, February 19 01:00AM GMT |Wed, February 19 12:00PM AEDT |
 |[VRX and Mama T \- Tuesday Night NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12192){:target="_blank"} |2025 Nascar | |Daytona International Speedway |Tue, February 18 08:00PM EST |Wed, February 19 01:00AM GMT |Wed, February 19 12:00PM AEDT |
-|[AOLL Racing's Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2269){:target="_blank"} |2025 Season 1 |Fixed |Daytona International Speedway |Wed, February 12 06:00PM EST |Wed, February 12 11:00PM GMT |Thu, February 13 10:00AM AEDT |
 
 ### NASCAR Truck Series
 
@@ -70,9 +69,10 @@
 |[TNN Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7640){:target="_blank"} |2025 Tuesday Night NASCAR Truck Series | |Daytona International Speedway |Tue, February 18 07:45PM EST |Wed, February 19 12:45AM GMT |Wed, February 19 11:45AM AEDT |
 |[Cascadia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12038){:target="_blank"} |Truck Series Season 1 | |Daytona International Speedway |Sat, February 15 09:00PM EST |Sun, February 16 02:00AM GMT |Sun, February 16 01:00PM AEDT |
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Sunday Night Craftsman Truck Series \- S1 |Fixed |Daytona International Speedway |Sun, February 16 08:00PM EST |Mon, February 17 01:00AM GMT |Mon, February 17 12:00PM AEDT |
-|[iNRS Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11674){:target="_blank"} |2025 iNRS Truck Season | |Daytona International Speedway |Tue, February 11 08:00PM EST |Wed, February 12 01:00AM GMT |Wed, February 12 12:00PM AEDT |
 |[Lucky Dog Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9639){:target="_blank"} |Truck Series Season 10 | |Atlanta Motor Speedway |Thu, February 13 07:00PM EST |Fri, February 14 12:00AM GMT |Fri, February 14 11:00AM AEDT |
 |[FTSR SimRacingPoints\.com Truck Series \(Wednesdays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2486){:target="_blank"} |2025\-A |Open |Daytona International Speedway |Wed, February 12 08:00PM EST |Thu, February 13 01:00AM GMT |Thu, February 13 12:00PM AEDT |
+|[\#0 5150 SuperSpeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5959){:target="_blank"} |2025 Season 1 |Open |Daytona International Speedway |Fri, February 14 06:30PM EST |Fri, February 14 11:30PM GMT |Sat, February 15 10:30AM AEDT |
+|[YESCAR Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11335){:target="_blank"} |YESCAR Truck Series |Fixed |Daytona International Speedway |Thu, February 13 06:00PM EST |Thu, February 13 11:00PM GMT |Fri, February 14 10:00AM AEDT |
 
 ### XFINITY Series
 
@@ -85,11 +85,8 @@
 |[Friday Night Lights \- XFINITY](https://members.iracing.com/membersite/member/LeagueView.do?league=11955){:target="_blank"} |2025 XFINITY Friday Night Lights |Open |Daytona International Speedway |Fri, February 14 07:45PM EST |Sat, February 15 12:45AM GMT |Sat, February 15 11:45AM AEDT |
 |[MNN Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7174){:target="_blank"} |2025 Monday Night NASCAR Xfinity Series |Open |Daytona International Speedway |Mon, February 17 07:45PM EST |Tue, February 18 12:45AM GMT |Tue, February 18 11:45AM AEDT |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR Xfinity Series 2025 |Fixed |Daytona International Speedway |Thu, February 13 07:00PM EST |Fri, February 14 12:00AM GMT |Fri, February 14 11:00AM AEDT |
-|[Week 12 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9070){:target="_blank"} |W12RL Contender Series Season 1 2025 | |Daytona International Speedway |Tue, February 11 07:00PM EST |Wed, February 12 12:00AM GMT |Wed, February 12 11:00AM AEDT |
 |[Grass Roots Racing \- Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12118){:target="_blank"} |GRR Xfinity Championship Season 1 |Open |Daytona International Speedway |Thu, February 13 07:10PM EST |Fri, February 14 12:10AM GMT |Fri, February 14 11:10AM AEDT |
-|[Squirrel League Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9676){:target="_blank"} |2025 \| Season 1 | |Daytona International Speedway |Tue, February 11 08:00PM EST |Wed, February 12 01:00AM GMT |Wed, February 12 12:00PM AEDT |
 |[iNRS Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11675){:target="_blank"} |2025 iNRS Xfinity Series | |Daytona International Speedway |Wed, February 12 08:30PM EST |Thu, February 13 01:30AM GMT |Thu, February 13 12:30PM AEDT |
-|[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9598){:target="_blank"} |Xfinity 2025 Season |Fixed |Daytona International Speedway |Tue, February 11 07:30PM EST |Wed, February 12 12:30AM GMT |Wed, February 12 11:30AM AEDT |
 
 # Oval
 
@@ -102,21 +99,14 @@
 |[ORNL\.nl Dinsdag 2](https://members.iracing.com/membersite/member/LeagueView.do?league=6687){:target="_blank"} |Chili Bowl \(dirt mini stock\) | |Lanier National Speedway |Tue, February 18 02:00PM EST |Tue, February 18 07:00PM GMT |Wed, February 19 06:00AM AEDT |
 |[THD SIMSPORT PRODUCTIONS](https://members.iracing.com/membersite/member/LeagueView.do?league=11705){:target="_blank"} |THS SimSports Productions take 2 | |Williams Grove Speedway |Sun, February 16 02:15AM EST |Sun, February 16 07:15AM GMT |Sun, February 16 06:15PM AEDT |
 
-### Late Model Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[CiL Short Track Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=9359){:target="_blank"} |STS Spring 2025, Season 12 | |Southern National Motorsports Park |Tue, February 11 08:00PM EST |Wed, February 12 01:00AM GMT |Wed, February 12 12:00PM AEDT |
-
 ### Super Late Model
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[gRaceland Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7020){:target="_blank"} |gRaceland Shootout Series Season 9 |Fixed |Daytona International Speedway |Tue, February 18 08:00PM EST |Wed, February 19 01:00AM GMT |Wed, February 19 12:00PM AEDT |
+|[Saratoga Speedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=11690){:target="_blank"} |Powerhouse Sheetrock Super Late Models | |Nashville Fairgrounds Speedway |Sun, February 16 10:30PM EST |Mon, February 17 03:30AM GMT |Mon, February 17 02:30PM AEDT |
 
 # Open-wheel
 
@@ -134,10 +124,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|--------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
 |[Ultimate Formula Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10477){:target="_blank"} |2025 Spring | |Circuito de Navarra |Wed, February 12 07:30PM EST |Thu, February 13 12:30AM GMT |Thu, February 13 11:30AM AEDT |
 |[IFF FIA F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |Fia F4 Season One  | |Hungaroring |Wed, February 12 02:15PM EST |Wed, February 12 07:15PM GMT |Thu, February 13 06:15AM AEDT |
-|[simHUB F4 League, Feb\-March](https://members.iracing.com/membersite/member/LeagueView.do?league=12209){:target="_blank"} |simHUB F4 Feb\-March | |Virginia International Raceway |Tue, February 11 07:30PM EST |Wed, February 12 12:30AM GMT |Wed, February 12 11:30AM AEDT |
 
 ### Mercedes-AMG W12 E Performance
 
@@ -170,18 +159,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------|------------------------------|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
+|[ORNL\.nl Woensdag 2](https://members.iracing.com/membersite/member/LeagueView.do?league=5805){:target="_blank"} |ORNL Porsche Supercup '25 |Both |Autodromo Internazionale Enzo e Dino Ferrari |Wed, February 19 02:00PM EST |Wed, February 19 07:00PM GMT |Thu, February 20 06:00AM AEDT |
 |[GTChampions](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |Luke Manske Racing Porsche Cup |Both |Nürburgring Grand-Prix-Strecke |Sat, February 15 11:10AM EST |Sat, February 15 04:10PM GMT |Sun, February 16 03:10AM AEDT |
-
-# Prototype
-
-### Radical SR10
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[BiS Radical Cup / Radical Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Radical Academy Esport Series |Fixed |Watkins Glen International |Tue, February 11 07:00PM EST |Wed, February 12 12:00AM GMT |Wed, February 12 11:00AM AEDT |
 
 # Road
 
@@ -190,9 +170,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
 |[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |BMW M2 S1\-25 | |Rudskogen Motorsenter |Mon, February 17 01:00PM EST |Mon, February 17 06:00PM GMT |Tue, February 18 05:00AM AEDT |
-|[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |Champions Circle BMW 2025 |Both |Tsukuba Circuit |Tue, February 11 02:00PM EST |Tue, February 11 07:00PM GMT |Wed, February 12 06:00AM AEDT |
 
 ### Supercars Gen 3
 
