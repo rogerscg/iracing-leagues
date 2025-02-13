@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[DASH SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12140){:target="_blank"} | | |
-|[Dirt Coin Crypto Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12145){:target="_blank"} | |this is a league that will run for points and it will be in the dirt mini stocks\. It will have certificates for the top 10 finishers per event, and they will be posted on the facebook page Dirt Coin, and in our discord\. we will run on tuesdays @8:30pm CT starting on 2/4/25 and fixed setups |
-|[GTR\-Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=12142){:target="_blank"} | | |
-|[Northeast Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=12143){:target="_blank"} | |legends thursday nights |
-|[Slow Lovin](https://members.iracing.com/membersite/member/LeagueView.do?league=12144){:target="_blank"} | |Just the tip |
-|[South East Xfinity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12141){:target="_blank"} | | |
 |[Jackey Jones Gen 4 Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12149){:target="_blank"} |[Discord](https://discord.gg/eqpynrW6pD){:target="_blank"} |Presented by Mid Atlantic Racing Series |
 |[NAPA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12146){:target="_blank"} | |NAPA is a truck series awards while be give to the winner this is a 25 race format hope you will join use and we can crown you as a champion\. |
 |[RedAtlas](https://members.iracing.com/membersite/member/LeagueView.do?league=12148){:target="_blank"} | | |
@@ -19,7 +13,7 @@
 |[Apex Racing Society](https://members.iracing.com/membersite/member/LeagueView.do?league=12159){:target="_blank"} | | |
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12161){:target="_blank"} | | |
 |[IFF FIA F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |[Discord](https://discord.gg/3Arm8DGk){:target="_blank"} |Campionato FIA F4 \- Fixed |
-|[iRacing Japan NASCAR Series \(仮\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} | |日本人ユーザーを対象としたNASCARシリーズ |
+|[iRacing Japan NASCAR Series \(仮\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} | |主に日本人ユーザーを対象としたNASCARシリーズ |
 |[NagoyaOJA](https://members.iracing.com/membersite/member/LeagueView.do?league=12154){:target="_blank"} | | |
 |[SRN Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12157){:target="_blank"} | | |
 |[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} | |League for Zaddy Racing and fans\. We are here to have fun\!   Join us in Discord to continue the conversation there\. If you have any questions please DM Cruckel on Discord\. |
@@ -60,7 +54,7 @@
 |[Trash Pandas](https://members.iracing.com/membersite/member/LeagueView.do?league=12199){:target="_blank"} | |join at your own risk |
 |[WK Arena](https://members.iracing.com/membersite/member/LeagueView.do?league=12196){:target="_blank"} | | |
 |[V\-Racing F1 Experience Spa](https://members.iracing.com/membersite/member/LeagueView.do?league=12193){:target="_blank"} | | |
-|[Magyarok \- Real Fast Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=12203){:target="_blank"} | |Magyar pénznyereményes fun bajnokság |
+|[Magyarok \- Real Fast Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=12203){:target="_blank"} |[Discord](https://discord.gg/JbeSME8BFS){:target="_blank"} |Magyar pénznyereményes fun bajnokság\. Nevezés ingyenes\. További részletek discordon |
 |[Puerto Rico Cbrn](https://members.iracing.com/membersite/member/LeagueView.do?league=12201){:target="_blank"} | |Llegaron los rompebrea\.\.\. |
 |[RNV Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12200){:target="_blank"} | | |
 |[twisted racers](https://members.iracing.com/membersite/member/LeagueView.do?league=12204){:target="_blank"} | | |
@@ -77,4 +71,8 @@
 |[Half Decent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12215){:target="_blank"} | |League geared towards newer drivers running both Dirt and Asphalt Oval Tracks |
 |[Pepsi Retro Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12214){:target="_blank"} | |Bringing back the good ole days with 87 cup cars\. |
 |[Wheel 2 Wheel Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12216){:target="_blank"} | |We are a GT3 based beginner friendly league that runs on sundays at 8pm EST\! join the discord\! |
+|[Asturtel eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12219){:target="_blank"} | | |
+|[DSM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12220){:target="_blank"} | |Edmonton & Friends |
+|[🏆Gentleman Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12217){:target="_blank"} | |Rejoignez la Gentleman Racing League, une compétition iRacing organisée par la communauté Fox Racing \!  Ici, les circuits et les voitures sont choisis par VOTRE vote sur notre Discord\. 🗳️  🔹 Courses fair\-play et compétitives  🔹 Une sélection de circuits variée selon vos choix  🔹 Des catégories de voitures adaptées à tous les styles de pilotage  🚀 Prenez le départ et faites partie de l'aventure \!  Rejoignez\-nous sur Discord Fox Racing pour voter et participer\. |
+|[Shenanigans](https://members.iracing.com/membersite/member/LeagueView.do?league=12218){:target="_blank"} | |Let the shenanigans begin\! |
 
