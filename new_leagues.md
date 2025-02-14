@@ -2,15 +2,11 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Jackey Jones Gen 4 Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12149){:target="_blank"} |[Discord](https://discord.gg/eqpynrW6pD){:target="_blank"} |Presented by Mid Atlantic Racing Series |
-|[NAPA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12146){:target="_blank"} | |NAPA is a truck series awards while be give to the winner this is a 25 race format hope you will join use and we can crown you as a champion\. |
-|[RedAtlas](https://members.iracing.com/membersite/member/LeagueView.do?league=12148){:target="_blank"} | | |
-|[Ruff\-Neck League Battles](https://members.iracing.com/membersite/member/LeagueView.do?league=12147){:target="_blank"} | |smack talk welcomed drive with respect |
 |[Carbon Custom Builders](https://members.iracing.com/membersite/member/LeagueView.do?league=12151){:target="_blank"} | |Obsessively Better Built™ |
 |[TAW & DDS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12150){:target="_blank"} | | |
 |[WA Battlers](https://members.iracing.com/membersite/member/LeagueView.do?league=12152){:target="_blank"} | |Pinnacle of WA Motorsport |
 |[BMW M2 Cup by Simwear\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=12153){:target="_blank"} |[Discord](https://discord.gg/r5XG7Q2d6s){:target="_blank"} |BMW M2 Cup by Simwear\.eu |
-|[Apex Racing Society](https://members.iracing.com/membersite/member/LeagueView.do?league=12159){:target="_blank"} | | |
+|[Apex Racing Society](https://members.iracing.com/membersite/member/LeagueView.do?league=12159){:target="_blank"} |[Discord](https://discord.gg/race-ars){:target="_blank"} |An all encompassing iRacing league that also races in other racing games\! |
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12161){:target="_blank"} | | |
 |[IFF FIA F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |[Discord](https://discord.gg/3Arm8DGk){:target="_blank"} |Campionato FIA F4 \- Fixed |
 |[iRacing Japan NASCAR Series \(仮\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} | |主に日本人ユーザーを対象としたNASCARシリーズ |
@@ -31,7 +27,7 @@
 |[Elite Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12176){:target="_blank"} |[Discord](https://discord.gg/7tnh778JBj){:target="_blank"} | |
 |[Nifty Lift SportsCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12177){:target="_blank"} | |Fixed GT3 league |
 |[Winners Payout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12175){:target="_blank"} |[Discord](https://discord.gg/MYnEfH7M){:target="_blank"} |Next Gen Nascar Cup Cars  100% Races  1st\-$1,000 2nd\-$200 3rd\-$100 \*based on a 40 car field\*  $35 entry PayPal \- Braxton Barrett Venmo @Braxton\-Barrett\-5  Broadcasted |
-|[BiS Pro Formula / Formula Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=12173){:target="_blank"} | | |
+|[Doppler Pro Formula Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12173){:target="_blank"} | | |
 |[ROAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12178){:target="_blank"} | |Radical Online Auto Racing Series |
 |[Red Sox Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=12180){:target="_blank"} | |Red Sox Mini Stocks |
 |[SmartWifi UK Race Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=12181){:target="_blank"} | |SmartWifi\.co\.uk Sponsored UK circuits |
@@ -72,7 +68,13 @@
 |[Pepsi Retro Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12214){:target="_blank"} | |Bringing back the good ole days with 87 cup cars\. |
 |[Wheel 2 Wheel Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12216){:target="_blank"} | |We are a GT3 based beginner friendly league that runs on sundays at 8pm EST\! join the discord\! |
 |[Asturtel eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12219){:target="_blank"} | | |
-|[DSM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12220){:target="_blank"} | |Edmonton & Friends |
+|[DSM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12220){:target="_blank"} | |Edmonton Racers & Friends |
 |[🏆Gentleman Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12217){:target="_blank"} | |Rejoignez la Gentleman Racing League, une compétition iRacing organisée par la communauté Fox Racing \!  Ici, les circuits et les voitures sont choisis par VOTRE vote sur notre Discord\. 🗳️  🔹 Courses fair\-play et compétitives  🔹 Une sélection de circuits variée selon vos choix  🔹 Des catégories de voitures adaptées à tous les styles de pilotage  🚀 Prenez le départ et faites partie de l'aventure \!  Rejoignez\-nous sur Discord Fox Racing pour voter et participer\. |
 |[Shenanigans](https://members.iracing.com/membersite/member/LeagueView.do?league=12218){:target="_blank"} | |Let the shenanigans begin\! |
+|[Chasey Hughes' Dirte League](https://members.iracing.com/membersite/member/LeagueView.do?league=12221){:target="_blank"} | |Stop trying to jesus it up boy, your names dirt\. |
+|[DW12 Afterburner](https://members.iracing.com/membersite/member/LeagueView.do?league=12224){:target="_blank"} | |Lagacy DW12 car on mainly oval tracks\. fixed setups, damage on, yellows on, quick repairs\. Races to be 30% |
+|[NC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12226){:target="_blank"} | |out of North Carolina |
+|[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} | |A league to develop female talent and give young women opportunity through sim racing competition\. |
+|[Vet Outdoors Midwest Micros](https://members.iracing.com/membersite/member/LeagueView.do?league=12225){:target="_blank"} | |Winged/Non\-Winged Micro Series |
+|[xrl trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12222){:target="_blank"} |[Discord](https://discord.gg/nrc7jj7A){:target="_blank"} |fun fast racing |
 

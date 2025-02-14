@@ -19,6 +19,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A LeMans Hypercar Cup \- Spreyton Ciders |Australia-NZ |50 |2456 |Both |Circuit de Spa-Francorchamps |Fri, February 14 03:30AM EST |Fri, February 14 08:30AM GMT |Fri, February 14 07:30PM AEDT |
 |[Simaholics Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11487){:target="_blank"} |GTP \- Season 1 |North America |24 |2048 |Both | | | | |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |16 |2126 |Both | | | | |
 |[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |North America |13 |None |Both | | | | |
 
 ### Hosted All Cars Class
@@ -37,7 +38,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Road Thursday's |North America |38 |1289 |Fixed |Canadian Tire Motorsports Park |Thu, February 13 08:00PM EST |Fri, February 14 01:00AM GMT |Fri, February 14 12:00PM AEDT |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Road Thursday's |North America |38 |1290 |Fixed |Nürburgring Grand-Prix-Strecke |Thu, February 20 08:00PM EST |Fri, February 21 01:00AM GMT |Fri, February 21 12:00PM AEDT |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2025S1 \- LMP3 Tournament |Europe |33 |2898 |Open |Nürburgring Grand-Prix-Strecke |Mon, February 17 01:30PM EST |Mon, February 17 06:30PM GMT |Tue, February 18 05:30AM AEDT |
 |[Formula None](https://members.iracing.com/membersite/member/LeagueView.do?league=12016){:target="_blank"} |LMP3 Season 1 |North America |12 |1484 |Open |Mount Panorama Circuit |Sun, February 16 12:40PM EST |Sun, February 16 05:40PM GMT |Mon, February 17 04:40AM AEDT |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |Dentist special event |Europe |12 |2710 |Both | | | | |
@@ -47,10 +48,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
-|[BiS Radical Cup / Radical Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |64 |2245 |Fixed | | | | |
-|[BiS Radical Cup / Radical Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |53 |None |Fixed | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |18 |2747 |Open |Brands Hatch Circuit |Thu, February 13 02:15PM EST |Thu, February 13 07:15PM GMT |Fri, February 14 06:15AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 BiS Radical Cup Canada |North America |64 |2245 |Fixed | | | | |
+|[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |53 |None |Fixed | | | | |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |18 |2755 |Open |Circuit de Barcelona Catalunya |Thu, February 20 02:15PM EST |Thu, February 20 07:15PM GMT |Fri, February 21 06:15AM AEDT |
 
 ### Radical SR8
 
@@ -59,7 +60,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |SR8 \- WCR Season 12 |North America |24 |2366 |Open |WeatherTech Raceway at Laguna Seca |Fri, February 14 08:50PM EST |Sat, February 15 01:50AM GMT |Sat, February 15 12:50PM AEDT |
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |24 |1378 |Fixed |Martinsville Speedway |Sun, February 16 08:00PM EST |Mon, February 17 01:00AM GMT |Mon, February 17 12:00PM AEDT |
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |24 |1378 |Fixed |Martinsville Speedway |Sun, February 16 08:30PM EST |Mon, February 17 01:30AM GMT |Mon, February 17 12:30PM AEDT |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- Tuesday night \- Radical SR8 |North America |22 |1073 |Open |Charlotte Motor Speedway |Tue, January 21 10:00PM EST |Wed, January 22 03:00AM GMT |Wed, January 22 02:00PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2982 | |Circuit of the Americas |Mon, January 13 03:00PM EST |Mon, January 13 08:00PM GMT |Tue, January 14 07:00AM AEDT |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 1 |North America |19 |1199 |Fixed | | | | |

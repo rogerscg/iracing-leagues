@@ -27,8 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|--------------|----------------------------|----------------------------|-----------------------------|
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY SILVER |South America |36 |2054 |Both |Pocono Raceway |Thu, February 13 05:00PM EST |Thu, February 13 10:00PM GMT |Fri, February 14 09:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|---------------|----------------------------|----------------------------|-----------------------------|
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY SILVER |South America |36 |2095 |Both |Phoenix Raceway |Thu, February 20 05:00PM EST |Thu, February 20 10:00PM GMT |Fri, February 21 09:00AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY GOLD |South America |22 |3252 |Both |Pocono Raceway |Sun, February 16 05:00PM EST |Sun, February 16 10:00PM GMT |Mon, February 17 09:00AM AEDT |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar IR18 2025 T1 |South America |20 |2140 |Fixed | | | | |
 
@@ -119,9 +119,9 @@
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |44 |1656 |Both |Road America |Sun, February 16 06:30PM EST |Sun, February 16 11:30PM GMT |Mon, February 17 10:30AM AEDT |
 |[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- COPA VERÃO 25 |South America |40 |2084 | | | | | |
 |[IRB \- I\-Pass Gran Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |IRB I\-Pass Gran Touring Series |South America |40 |2724 | | | | | |
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RACERSAV GT3 T1 2025 |South America |34 |2275 | |Road Atlanta |Thu, February 13 05:40PM EST |Thu, February 13 10:40PM GMT |Fri, February 14 09:40AM AEDT |
-|[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/1 |South America |31 |1462 | |Donington Park Racing Circuit |Thu, February 13 04:10PM EST |Thu, February 13 09:10PM GMT |Fri, February 14 08:10AM AEDT |
-|[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/1 |South America |20 |2991 | |Donington Park Racing Circuit |Thu, February 13 06:10PM EST |Thu, February 13 11:10PM GMT |Fri, February 14 10:10AM AEDT |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RACERSAV GT3 T1 2025 |South America |35 |2257 | | | | | |
+|[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/1 |South America |31 |1503 | |Mount Panorama Circuit |Thu, February 20 04:10PM EST |Thu, February 20 09:10PM GMT |Fri, February 21 08:10AM AEDT |
+|[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/1 |South America |20 |3002 | |Mount Panorama Circuit |Thu, February 20 06:10PM EST |Thu, February 20 11:10PM GMT |Fri, February 21 10:10AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC GT3 SERIES |South America |17 |2123 |Both |Donington Park Racing Circuit |Mon, February 17 05:00PM EST |Mon, February 17 10:00PM GMT |Tue, February 18 09:00AM AEDT |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GT3 Challenge 2025 T1 |South America |16 |1540 |Fixed | | | | |
 
