@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Carbon Custom Builders](https://members.iracing.com/membersite/member/LeagueView.do?league=12151){:target="_blank"} | |Obsessively Better Built™ |
-|[TAW & DDS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12150){:target="_blank"} | | |
-|[WA Battlers](https://members.iracing.com/membersite/member/LeagueView.do?league=12152){:target="_blank"} | |Pinnacle of WA Motorsport |
-|[BMW M2 Cup by Simwear\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=12153){:target="_blank"} |[Discord](https://discord.gg/r5XG7Q2d6s){:target="_blank"} |BMW M2 Cup by Simwear\.eu |
 |[Apex Racing Society](https://members.iracing.com/membersite/member/LeagueView.do?league=12159){:target="_blank"} |[Discord](https://discord.gg/race-ars){:target="_blank"} |An all encompassing iRacing league that also races in other racing games\! |
 |[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12161){:target="_blank"} | | |
 |[IFF FIA F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |[Discord](https://discord.gg/3Arm8DGk){:target="_blank"} |Campionato FIA F4 \- Fixed |
@@ -38,7 +34,7 @@
 |[Track Heroes League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12184){:target="_blank"} | | |
 |[ASML Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12188){:target="_blank"} | |The league for workers and friends of ASML |
 |[Billy Oirish Racing Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12187){:target="_blank"} | |12 Week Racing League In The Porsche 992 GT3 Cup Car |
-|[D1RT Clay Crown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12191){:target="_blank"} |[Discord](https://discord.gg/TFxWEWpNst){:target="_blank"} |Register here or in our discord: https://discord\.gg/TFxWEWpNst |
+|[D1RT\.org](https://members.iracing.com/membersite/member/LeagueView.do?league=12191){:target="_blank"} |[Discord](https://discord.gg/TFxWEWpNst){:target="_blank"} |Register here or in our discord: https://discord\.gg/TFxWEWpNst |
 |[Hold Your Line](https://members.iracing.com/membersite/member/LeagueView.do?league=12189){:target="_blank"} | |Just chill folks tryna hold our lines and win a few races |
 |[Javahosting Trial Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12186){:target="_blank"} | | |
 |[VRX and Mama T \- Tuesday Night NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12192){:target="_blank"} | |Tuesday Night NASCAR league mirroring the weekend race |
@@ -77,4 +73,8 @@
 |[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} | |A league to develop female talent and give young women opportunity through sim racing competition\. |
 |[Vet Outdoors Midwest Micros](https://members.iracing.com/membersite/member/LeagueView.do?league=12225){:target="_blank"} | |Winged/Non\-Winged Micro Series |
 |[xrl trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12222){:target="_blank"} |[Discord](https://discord.gg/nrc7jj7A){:target="_blank"} |fun fast racing |
+|[Black Urban Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12230){:target="_blank"} | |🏁 BURT Racing League \- Where Street Meets Speed 🏁 Welcome to the freshest competitive racing league in iRacing\. Black Urban Racing Team \(BURT\) brings together fierce competition, urban culture, and clean racing in one explosive package\. |
+|[Fast n Fun Nascar Draft Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12228){:target="_blank"} | |Every other week draft racing league \(Daytona/Dega\)\. Alternate each NASCAR race car\. |
+|[Goon Squad](https://members.iracing.com/membersite/member/LeagueView.do?league=12229){:target="_blank"} | |race clean, have fun, dump mills |
+|[wheels up wednesday](https://members.iracing.com/membersite/member/LeagueView.do?league=12227){:target="_blank"} | | |
 
