@@ -16,9 +16,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
-|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1\-2 Rallycross |Europe |18 |1884 |Both | | | | |
-|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |Europe |11 |1399 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1\-2 Rallycross |Europe |18 |1884 |Both |Charlotte Motor Speedway |Sun, February 23 02:00PM EST |Sun, February 23 07:00PM GMT |Mon, February 24 06:00AM AEDT |
+|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |Europe |11 |1399 | |Sebring International Raceway |Sun, February 23 02:10PM EST |Sun, February 23 07:10PM GMT |Mon, February 24 06:10AM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rally \- 2025 |North America |11 |2019 |Fixed |Firebird Motorsports Park |Thu, February 20 08:00PM EST |Fri, February 21 01:00AM GMT |Fri, February 21 12:00PM AEDT |
 
 ### VW Beetle GRC

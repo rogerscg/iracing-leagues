@@ -2,23 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Apex Racing Society](https://members.iracing.com/membersite/member/LeagueView.do?league=12159){:target="_blank"} |[Discord](https://discord.gg/race-ars){:target="_blank"} |An all encompassing iRacing league that also races in other racing games\! |
-|[Grass Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12161){:target="_blank"} | | |
-|[IFF FIA F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |[Discord](https://discord.gg/3Arm8DGk){:target="_blank"} |Campionato FIA F4 \- Fixed |
-|[iRacing Japan NASCAR Series \(仮\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} | |主に日本人ユーザーを対象としたNASCARシリーズ |
-|[NagoyaOJA](https://members.iracing.com/membersite/member/LeagueView.do?league=12154){:target="_blank"} | | |
-|[SRN Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12157){:target="_blank"} | | |
-|[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} | |League for Zaddy Racing and fans\. We are here to have fun\!   Join us in Discord to continue the conversation there\. If you have any questions please DM Cruckel on Discord\. |
-|[SRS Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12156){:target="_blank"} | | |
-|[DLBTV Racing League Presented by\. DriveSmart](https://members.iracing.com/membersite/member/LeagueView.do?league=12168){:target="_blank"} |[Discord](https://discord.gg/3UtNVrTV9d){:target="_blank"} |The DLBTV Racing League, powered by DriveSmart\! |
-|[HVRL Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12167){:target="_blank"} | |GT3 road series 2500 max iRating |
-|[Miata Cup North America](https://members.iracing.com/membersite/member/LeagueView.do?league=12172){:target="_blank"} | |A league designed for running the Mazda Miata MX\-5 |
-|[MILK DADDY](https://members.iracing.com/membersite/member/LeagueView.do?league=12169){:target="_blank"} | | |
-|[Parker/Watson League](https://members.iracing.com/membersite/member/LeagueView.do?league=12171){:target="_blank"} | |Super Late Model and UMP League |
-|[PESCP \| Sezon 5 \- Wyścig Społeczności](https://members.iracing.com/membersite/member/LeagueView.do?league=12166){:target="_blank"} | |Organizatorem i promotorem Porsche Esports Sprint Challenge Poland jest Ragnar Simulator\. Sponsorem głównym wydarzenia jest Porsche Polska\. Partnerem technicznym serii jest iRacing\. |
-|[racing pw](https://members.iracing.com/membersite/member/LeagueView.do?league=12163){:target="_blank"} | |here my guy |
-|[iNduro Minis](https://members.iracing.com/membersite/member/LeagueView.do?league=12170){:target="_blank"} | | |
-|[PESCP \| Sezon 5 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=12165){:target="_blank"} | |Organizatorem i promotorem Porsche Esports Sprint Challenge Poland jest Ragnar Simulator\. Sponsorem głównym wydarzenia jest Porsche Polska\. Partnerem technicznym serii jest iRacing\. |
 |[bigbirdyracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12174){:target="_blank"} | |racing for fun |
 |[Elite Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12176){:target="_blank"} |[Discord](https://discord.gg/7tnh778JBj){:target="_blank"} | |
 |[Nifty Lift SportsCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12177){:target="_blank"} | |Fixed GT3 league |
@@ -37,7 +20,7 @@
 |[D1RT\.org](https://members.iracing.com/membersite/member/LeagueView.do?league=12191){:target="_blank"} |[Discord](https://discord.gg/TFxWEWpNst){:target="_blank"} |Register here or in our discord: https://discord\.gg/TFxWEWpNst |
 |[Hold Your Line](https://members.iracing.com/membersite/member/LeagueView.do?league=12189){:target="_blank"} | |Just chill folks tryna hold our lines and win a few races |
 |[Javahosting Trial Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12186){:target="_blank"} | | |
-|[VRX and Mama T \- Tuesday Night NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12192){:target="_blank"} | |Tuesday Night NASCAR league mirroring the weekend race |
+|[VRX\-Mama T and Papa G \- NASCAR Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=12192){:target="_blank"} | |We will have different NASCAR leagues and events |
 |[Jackzer Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=12190){:target="_blank"} |[Discord](https://discord.gg/Vrhz3etSqs){:target="_blank"} |Jackzer Community League |
 |[BEKT RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12198){:target="_blank"} |[Discord](https://discord.gg/RS6ATtazEp){:target="_blank"} |Tournaments designed to challenge and showcase the skills of sim racing enthusiasts\. |
 |[Big Papa Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12197){:target="_blank"} | |Variety league aimed at having fun and learning better technique with some wacky car and track combos to shake it up |
@@ -61,7 +44,7 @@
 |[XCPTT'S STREET STOCK LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12207){:target="_blank"} |[Discord](https://discord.gg/hUGy8vjdt5){:target="_blank"} |FOR NOOBS AND PROS COME HAVE FUN AND JOIN THE DISCORD |
 |[BLR and LDC United](https://members.iracing.com/membersite/member/LeagueView.do?league=12213){:target="_blank"} | |TestDrive |
 |[Half Decent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12215){:target="_blank"} | |League geared towards newer drivers running both Dirt and Asphalt Oval Tracks |
-|[Pepsi Retro Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12214){:target="_blank"} | |Bringing back the good ole days with 87 cup cars\. |
+|[Pepsi Retro Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12214){:target="_blank"} |[Discord](https://discord.gg/vhDJYETP){:target="_blank"} |The Pepsi Retro Cup Series, Where racing meets nostalgia, grit, and thrills\. Step into the high Octane world of the series, where legendary 1987 style stock cars race head to head in a battle for glory and tradition with modern excitement\. Build rivalries, make friends, and let the drama unfold\. We don't allow disgraceful behavior but tempers can flare\. |
 |[Wheel 2 Wheel Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12216){:target="_blank"} | |We are a GT3 based beginner friendly league that runs on sundays at 8pm EST\! join the discord\! |
 |[Asturtel eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12219){:target="_blank"} | | |
 |[DSM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12220){:target="_blank"} | |Edmonton Racers & Friends |
@@ -76,5 +59,9 @@
 |[Black Urban Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12230){:target="_blank"} | |🏁 BURT Racing League \- Where Street Meets Speed 🏁 Welcome to the freshest competitive racing league in iRacing\. Black Urban Racing Team \(BURT\) brings together fierce competition, urban culture, and clean racing in one explosive package\. |
 |[Fast n Fun Nascar Draft Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12228){:target="_blank"} | |Every other week draft racing league \(Daytona/Dega\)\. Alternate each NASCAR race car\. |
 |[Goon Squad](https://members.iracing.com/membersite/member/LeagueView.do?league=12229){:target="_blank"} | |race clean, have fun, dump mills |
-|[wheels up wednesday](https://members.iracing.com/membersite/member/LeagueView.do?league=12227){:target="_blank"} | | |
+|[Wheels Up Wednesday Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12227){:target="_blank"} | | |
+|[BitePoint Racing\-\-LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} | |BitePoint Racing League LMP2 |
+|[Pain Train](https://members.iracing.com/membersite/member/LeagueView.do?league=12234){:target="_blank"} | |fun times |
+|[Super Speedway Kingz](https://members.iracing.com/membersite/member/LeagueView.do?league=12232){:target="_blank"} |[Discord](https://discord.gg/tdzbANkC){:target="_blank"} | |
+|[Bonerfied Battle of the Beerds](https://members.iracing.com/membersite/member/LeagueView.do?league=12231){:target="_blank"} | |It's BONERFIED\! |
 
