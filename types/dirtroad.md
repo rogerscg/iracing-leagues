@@ -11,18 +11,18 @@
 |--------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks East \- 2025 |North America |18 |2675 |Fixed | | | | |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Pro Truck Series \- Season 1 |Australia-NZ |13 |1413 |Fixed |Crandon International Raceway |Thu, February 20 03:00AM EST |Thu, February 20 08:00AM GMT |Thu, February 20 07:00PM AEDT |
-|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck S4: The Chaos Tour |North America |10 |1847 | |Volusia Speedway Park |Mon, February 17 08:00PM EST |Tue, February 18 01:00AM GMT |Tue, February 18 12:00PM AEDT |
+|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck S4: The Chaos Tour |North America |10 |1836 | | | | | |
 
 ### Pro 2 Lite Truck
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK X \- 2024 |North America |27 |2807 |Fixed | | | | |
-|[Special Stage Pro Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 1 |North America |21 |2304 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|[Special Stage Pro Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 1 |North America |21 |2304 | |Charlotte Motor Speedway |Fri, February 21 08:00PM EST |Sat, February 22 01:00AM GMT |Sat, February 22 12:00PM AEDT |
 |[SRW \- Friday Funday](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW Pro 2 Lite |Australia-NZ |18 |1592 | |Winton Motor Raceway |Fri, February 21 03:30AM EST |Fri, February 21 08:30AM GMT |Fri, February 21 07:30PM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2025 |North America |11 |2844 |Fixed | | | | |
+|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |pro2 |North America |10 |1363 |Open |Wild West Motorsports Park |Mon, February 24 08:00PM EST |Tue, February 25 01:00AM GMT |Tue, February 25 12:00PM AEDT |
 
 ### Pro 2 Truck
 
@@ -30,7 +30,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Oval Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=9053){:target="_blank"} |2025 S1 Off\-Road Trucks |North America |12 |1417 |Fixed | | | | |
+|[Oval Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=9053){:target="_blank"} |2025 S1 Off\-Road Trucks |North America |14 |1446 |Fixed | | | | |
 
 ### Pro 4 Truck
 
