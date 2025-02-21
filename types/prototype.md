@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |LMP2 Series Season 1 |North America |20 |1896 |Fixed |Circuit des 24 Heures du Mans |Wed, February 19 08:45PM EST |Thu, February 20 01:45AM GMT |Thu, February 20 12:45PM AEDT |
+|[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |LMP2 Series Season 1 |North America |20 |1891 |Fixed |Algarve International Circuit |Wed, February 26 08:45PM EST |Thu, February 27 01:45AM GMT |Thu, February 27 12:45PM AEDT |
 
 ### GTP
 
@@ -37,8 +37,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Road Thursday's |North America |38 |1290 |Fixed |Nürburgring Grand-Prix-Strecke |Thu, February 20 08:00PM EST |Fri, February 21 01:00AM GMT |Fri, February 21 12:00PM AEDT |
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Road Thursday's |North America |38 |1299 |Fixed |Road America |Thu, February 27 08:00PM EST |Fri, February 28 01:00AM GMT |Fri, February 28 12:00PM AEDT |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2025S1 \- LMP3 Tournament |Europe |34 |2922 |Open |Road America |Mon, February 24 01:30PM EST |Mon, February 24 06:30PM GMT |Tue, February 25 05:30AM AEDT |
 |[Formula None](https://members.iracing.com/membersite/member/LeagueView.do?league=12016){:target="_blank"} |LMP3 Season 1 |North America |14 |1641 |Open | | | | |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |Dentist special event |Europe |12 |2710 |Both | | | | |
@@ -51,7 +51,7 @@
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 Radical Cup Canada |North America |64 |2245 |Fixed |Canadian Tire Motorsports Park |Wed, February 26 07:00PM EST |Thu, February 27 12:00AM GMT |Thu, February 27 11:00AM AEDT |
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |53 |None |Fixed |Canadian Tire Motorsports Park |Tue, February 25 07:00PM EST |Wed, February 26 12:00AM GMT |Wed, February 26 11:00AM AEDT |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |18 |2755 |Open |Circuit de Barcelona Catalunya |Thu, February 20 02:15PM EST |Thu, February 20 07:15PM GMT |Fri, February 21 06:15AM AEDT |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |18 |2769 |Open |Long Beach Street Circuit |Thu, February 27 02:15PM EST |Thu, February 27 07:15PM GMT |Fri, February 28 06:15AM AEDT |
 
 ### Radical SR8
 
