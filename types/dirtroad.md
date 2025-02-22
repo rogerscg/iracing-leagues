@@ -19,8 +19,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[Special Stage Pro Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 1 |North America |21 |2304 | |Charlotte Motor Speedway |Fri, February 21 08:00PM EST |Sat, February 22 01:00AM GMT |Sat, February 22 12:00PM AEDT |
-|[SRW \- Friday Funday](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW Pro 2 Lite |Australia-NZ |18 |1592 | |Winton Motor Raceway |Fri, February 21 03:30AM EST |Fri, February 21 08:30AM GMT |Fri, February 21 07:30PM AEDT |
+|[Special Stage Pro Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 1 |North America |27 |2542 | | | | | |
+|[SRW \- Friday Funday](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW Pro 2 Lite |Australia-NZ |21 |1564 | |Wild West Motorsports Park |Fri, February 28 03:30AM EST |Fri, February 28 08:30AM GMT |Fri, February 28 07:30PM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2025 |North America |11 |2844 |Fixed | | | | |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |pro2 |North America |10 |1363 |Open |Wild West Motorsports Park |Mon, February 24 08:00PM EST |Tue, February 25 01:00AM GMT |Tue, February 25 12:00PM AEDT |
 
