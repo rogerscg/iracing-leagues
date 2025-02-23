@@ -8,8 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-------------|-------|----|-----|-------------|--------|------|------|
-|[VC Cup Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2025 |South America |44 |3069 | | | | | |
+|---------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|------------------------|----------------------------|----------------------------|-----------------------------|
+|[VC Cup Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2025 |South America |44 |3069 | |Atlanta Motor Speedway |Mon, February 24 05:30PM EST |Mon, February 24 10:30PM GMT |Tue, February 25 09:30AM AEDT |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 ANUAL PEMAP CUP |South America |38 |2311 |Both |Las Vegas Motor Speedway |Wed, February 26 05:00PM EST |Wed, February 26 10:00PM GMT |Thu, February 27 09:00AM AEDT |
 
 # Open-wheel
 
@@ -111,7 +112,7 @@
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |44 |1670 |Both |Circuit des 24 Heures du Mans |Sun, February 23 06:35PM EST |Sun, February 23 11:35PM GMT |Mon, February 24 10:35AM AEDT |
 |[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- COPA VERÃO 25 |South America |40 |2084 | |Mount Panorama Circuit |Wed, February 26 04:00PM EST |Wed, February 26 09:00PM GMT |Thu, February 27 08:00AM AEDT |
 |[IRB \- I\-Pass Gran Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |IRB I\-Pass Gran Touring Series |South America |40 |2724 | |Mount Panorama Circuit |Mon, February 24 04:00PM EST |Mon, February 24 09:00PM GMT |Tue, February 25 08:00AM AEDT |
-|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RACERSAV GT3 T1 2025 |South America |35 |2257 | | | | | |
+|[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RACERSAV GT3 T1 2025 |South America |35 |2257 | |Mount Panorama Circuit |Wed, February 26 07:30PM EST |Thu, February 27 12:30AM GMT |Thu, February 27 11:30AM AEDT |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/1 |South America |31 |1535 | | | | | |
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/1 |South America |20 |2999 | | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC GT3 SERIES |South America |17 |2127 |Both |Mount Panorama Circuit |Mon, February 24 05:00PM EST |Mon, February 24 10:00PM GMT |Tue, February 25 09:00AM AEDT |

@@ -24,9 +24,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|--------|-------|----|-----|----------------------|----------------------------|----------------------------|-----------------------------|
 |[Oval Series 24/25 by pwa\-simracing\.de](https://members.iracing.com/membersite/member/LeagueView.do?league=8914){:target="_blank"} |PWA Oval Series 24/25 |Europe |48 |2443 |Fixed | | | | |
 |[tracc\.eu Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=10622){:target="_blank"} |tracctona 500 |Europe |40 |1817 |Fixed | | | | |
+|[ORNL\.nl Maandag 2](https://members.iracing.com/membersite/member/LeagueView.do?league=8532){:target="_blank"} |ORNL Nascar Cup '25 |Europe |38 |2032 |Open |Atlanta Motor Speedway |Mon, February 24 02:00PM EST |Mon, February 24 07:00PM GMT |Tue, February 25 06:00AM AEDT |
 |[VSR \- NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10631){:target="_blank"} |Odyssey NASCAR Series powered by PAZA Tech |Europe |37 |2410 | | | | | |
 |[iiS \- international iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11236){:target="_blank"} |Season iiS \- 2025 |Europe |33 |3195 |Both | | | | |
 
@@ -35,9 +36,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-----------------|--------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------|-----------------|--------|-------|----|-----|----------------------|-------------------------|-------------------------|--------------------------|
 |[i\-FRN](https://members.iracing.com/membersite/member/LeagueView.do?league=2658){:target="_blank"} |Ignite Series |Europe |84 |1948 | | | | | |
-|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1\-2 NASCAR |Europe |11 |1648 |Both | | | | |
+|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1\-2 NASCAR |Europe |11 |1648 |Both |Atlanta Motor Speedway |Sun, March 02 02:00PM EST |Sun, March 02 07:00PM GMT |Mon, March 03 06:00AM AEDT |
 
 ### XFINITY Series
 
@@ -85,29 +86,29 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------|--------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
-|[IFF FIA F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |Fia F4 Season One  |Europe |53 |1828 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------------------------------|--------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|[IFF FIA F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |Fia F4 Season One  |Europe |53 |1743 | |Circuit de Lédenon |Wed, February 26 02:15PM EST |Wed, February 26 07:15PM GMT |Thu, February 27 06:15AM AEDT |
 |[GT Champions Open Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=11826){:target="_blank"} |SimRaceCity\.com F4 |Europe |36 |1808 | | | | | |
 |[NXTGP sim league](https://members.iracing.com/membersite/member/LeagueView.do?league=11981){:target="_blank"} |NXT GP F4 Groep 2 |Europe |32 |2034 | | | | | |
 |[DMSK MSR2025 FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=12045){:target="_blank"} |F4 Slovak National Championship 2025 |Europe |24 |1906 | |Red Bull Ring |Mon, February 24 12:30PM EST |Mon, February 24 05:30PM GMT |Tue, February 25 04:30AM AEDT |
 |[2025 F4 EDC \- Division 4](https://members.iracing.com/membersite/member/LeagueView.do?league=3733){:target="_blank"} |2025 F4 Esport Danish Championship \- Division 4 |Europe |24 |1664 |Fixed | | | | |
 |[2025 F4 EDC \- Division 3](https://members.iracing.com/membersite/member/LeagueView.do?league=6783){:target="_blank"} |2025 F4 Esport Danish Championship \- Division 3 |Europe |24 |1944 | | | | | |
-|[Blue Wave Formula Career](https://members.iracing.com/membersite/member/LeagueView.do?league=10269){:target="_blank"} |Formula4 |Europe |22 |2581 | | | | | |
+|[Blue Wave Formula Career](https://members.iracing.com/membersite/member/LeagueView.do?league=10269){:target="_blank"} |Formula4 |Europe |22 |2581 | |Circuit de Lédenon |Mon, February 24 02:30PM EST |Mon, February 24 07:30PM GMT |Tue, February 25 06:30AM AEDT |
 |[2025 F4 EDC \- Division 1](https://members.iracing.com/membersite/member/LeagueView.do?league=6785){:target="_blank"} |2025 F4 Esport Danish Championship \- Division 1 |Europe |22 |4252 | | | | | |
 |[2025 F4 EDC \- Division 2](https://members.iracing.com/membersite/member/LeagueView.do?league=4045){:target="_blank"} |2025 F4 Esport Danish Championship \- Division 2 |Europe |22 |2458 |Fixed | | | | |
 |[2025 F4 EDC \- Division 5](https://members.iracing.com/membersite/member/LeagueView.do?league=5790){:target="_blank"} |2025 F4 Esport Danish Championship \- Division 5 |Europe |21 |1368 | | | | | |
 |[NXTGP sim league](https://members.iracing.com/membersite/member/LeagueView.do?league=11981){:target="_blank"} |NXT GP F4 Groep 1 |Europe |20 |1601 | | | | | |
 |[DMSK MSR2025 FIA F4](https://members.iracing.com/membersite/member/LeagueView.do?league=12045){:target="_blank"} |F4 Treningy |Europe |16 |1817 | | | | | |
 |[ORNL\.nl Donderdag 2](https://members.iracing.com/membersite/member/LeagueView.do?league=9724){:target="_blank"} |ORNL F4 British Championship '25 |Europe |13 |2232 | | | | | |
-|[F4 Community Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12017){:target="_blank"} |F4 Community Championship |Europe |12 |1794 | | | | | |
+|[F4 Community Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12017){:target="_blank"} |F4 Community Championship |Europe |12 |1794 | |Circuit Gilles Villeneuve |Sun, March 02 01:00PM EST |Sun, March 02 06:00PM GMT |Mon, March 03 05:00AM AEDT |
 
 ### Lotus 79
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|---------------------------|--------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} |Historic F1 Masters \- 2025 |Europe |21 |2054 | |Watkins Glen International |Sat, February 22 03:30PM EST |Sat, February 22 08:30PM GMT |Sun, February 23 07:30AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} |Historic F1 Masters \- 2025 |Europe |21 |2054 | | | | | |
 |[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |11 \| Gennaio 2025 |Europe |13 |1189 | | | | | |
 
 ### Pro Mazda
@@ -133,7 +134,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|--------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |FLANC Club Serie 2024/25 \- FSL |Europe |41 |1776 |Fixed |Donington Park Racing Circuit |Thu, February 27 12:30PM EST |Thu, February 27 05:30PM GMT |Fri, February 28 04:30AM AEDT |
-|[SRB LEAGUES \- SUPER FORMULA SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |SRB  SUPER FORMULA SUNDAYS |Europe |17 |2053 | | | | | |
+|[SRB LEAGUES \- SUPER FORMULA SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |SRB  SUPER FORMULA SUNDAYS |Europe |17 |2053 | |Autodromo Nazionale Monza |Sun, March 02 01:50PM EST |Sun, March 02 06:50PM GMT |Mon, March 03 05:50AM AEDT |
 |[CAS \- Super Formula Lights Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10716){:target="_blank"} |CAS \- Super Formula Lights Cup 4th Season |Europe |13 |1494 |Fixed |Red Bull Ring |Wed, February 26 01:00PM EST |Wed, February 26 06:00PM GMT |Thu, February 27 05:00AM AEDT |
 
 ### Super Formula SF23
@@ -141,8 +142,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------|--------|-------|----|-----|-------------|--------|------|------|
-|[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |SF Season 2 |Europe |39 |2238 |Open | | | | |
+|-------------------------------------------------------------------------------------------------------------------------|-----------|--------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
+|[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |SF Season 2 |Europe |39 |2238 |Open |Red Bull Ring |Sun, March 02 12:30PM EST |Sun, March 02 05:30PM GMT |Mon, March 03 04:30AM AEDT |
 
 ### [Legacy] Dallara IR-05
 
@@ -172,14 +173,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------|--------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 8 |Europe |69 |2600 |Fixed | | | | |
 |[SRL Friday Night Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |SRL Freebie Fridays |Europe |68 |2477 |Fixed | | | | |
 |[GT4 & TCR Championship \- Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |ESR GT4\-TCR Season 2 |Europe |61 |2051 | |Mount Panorama Circuit |Mon, February 24 02:30PM EST |Mon, February 24 07:30PM GMT |Tue, February 25 06:30AM AEDT |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 8 test races |Europe |51 |2690 |Fixed | | | | |
 |[oNiD iRacing Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=11984){:target="_blank"} |oNiD Club World Tour |Europe |36 |1968 | |Daytona International Speedway |Thu, February 27 02:30PM EST |Thu, February 27 07:30PM GMT |Fri, February 28 06:30AM AEDT |
 |[AFvRC](https://members.iracing.com/membersite/member/LeagueView.do?league=8081){:target="_blank"} |AFVRC 2025 |Europe |25 |1985 |Fixed | | | | |
-|[GT4 & TCR Championship \- Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |ESR GT4\-TCR Pre\-Season |Europe |17 |1831 | | | | | |
 |[WTEC Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7058){:target="_blank"} |S13 |Europe |15 |2483 | | | | | |
 
 ### Mazda MX-5 Cup 2016
@@ -207,14 +207,15 @@
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1 Porsche Cup |Europe |72 |2822 |Both |Hungaroring |Mon, February 24 02:00PM EST |Mon, February 24 07:00PM GMT |Tue, February 25 06:00AM AEDT |
 |[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 12 |Europe |58 |4126 | |Hungaroring |Mon, February 24 01:00PM EST |Mon, February 24 06:00PM GMT |Tue, February 25 05:00AM AEDT |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S11 Euro/Global Porsche Cup Challenge |Europe |49 |2857 |Both |Hungaroring |Sun, February 23 02:00PM EST |Sun, February 23 07:00PM GMT |Mon, February 24 06:00AM AEDT |
-|[GTChampions](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |Luke Manske Racing Porsche Cup |Europe |41 |2296 |Both |Silverstone Circuit |Sat, February 22 11:10AM EST |Sat, February 22 04:10PM GMT |Sun, February 23 03:10AM AEDT |
-|[Porsche Cup by Simwear\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=11264){:target="_blank"} |Porsche Cup by Simwear\.eu \- Season 2 |Europe |39 |3161 | |Circuit de Spa-Francorchamps |Sat, February 22 02:00PM EST |Sat, February 22 07:00PM GMT |Sun, February 23 06:00AM AEDT |
+|[GTChampions](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |Luke Manske Racing Porsche Cup |Europe |45 |2136 |Both |Watkins Glen International |Sat, March 01 11:10AM EST |Sat, March 01 04:10PM GMT |Sun, March 02 03:10AM AEDT |
+|[Porsche Cup by Simwear\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=11264){:target="_blank"} |Porsche Cup by Simwear\.eu \- Season 2 |Europe |39 |3161 | |Circuit de Spa-Francorchamps |Sun, February 23 02:00PM EST |Sun, February 23 07:00PM GMT |Mon, February 24 06:00AM AEDT |
 |[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |2025 B\-Finale Sportsbil |Europe |36 |2143 | | | | | |
 |[PESCP \| Sezon 5 \- Wyścig Społeczności](https://members.iracing.com/membersite/member/LeagueView.do?league=12166){:target="_blank"} |Sezon 5 |Europe |33 |3002 | | | | | |
-|[Porsche Esports Carrera Cup Great Britain](https://members.iracing.com/membersite/member/LeagueView.do?league=6219){:target="_blank"} |Season 5 |Europe |31 |5179 | |Oulton Park Circuit |Sat, February 22 01:00PM EST |Sat, February 22 06:00PM GMT |Sun, February 23 05:00AM AEDT |
+|[Porsche Esports Carrera Cup Great Britain](https://members.iracing.com/membersite/member/LeagueView.do?league=6219){:target="_blank"} |Season 5 |Europe |31 |5179 | |Oulton Park Circuit |Sun, February 23 08:00AM EST |Sun, February 23 01:00PM GMT |Mon, February 24 12:00AM AEDT |
 |[Porsche TAG Heuer Esports Supercup](https://members.iracing.com/membersite/member/LeagueView.do?league=6004){:target="_blank"} |2025 Porsche Esports Supercup |Europe |30 |9661 | | | | | |
 |[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |2025 A\-Finale Sportsbil |Europe |29 |4453 | | | | | |
 |[PESCP \| Sezon 5 \- Baraże](https://members.iracing.com/membersite/member/LeagueView.do?league=11941){:target="_blank"} |Sezon 5 |Europe |28 |4475 | | | | | |
+|[PESCP \| Sezon 5 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=12165){:target="_blank"} |Sezon 5 |Europe |24 |6400 | | | | | |
 |[PRCF Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=3156){:target="_blank"} |PRCF Esports 2024 |Europe |18 |2619 | | | | | |
 |[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} |DSC Porsche Cup 2025 |Europe |17 |1797 | |Suzuka International Racing Course |Thu, February 27 12:00PM EST |Thu, February 27 05:00PM GMT |Fri, February 28 04:00AM AEDT |
 |[Billy Oirish Racing Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12187){:target="_blank"} |Billy Oirish Racing: Porsche Cup Season 1 |Europe |17 |1611 | |Red Bull Ring |Sun, February 23 04:00PM EST |Sun, February 23 09:00PM GMT |Mon, February 24 08:00AM AEDT |
@@ -364,19 +365,19 @@
 |[Sampsoid GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6618){:target="_blank"} |Sampsoid GT3 Championship 2025 Season 1 |Europe |58 |2291 |Fixed |Mount Panorama Circuit |Sun, February 23 02:00PM EST |Sun, February 23 07:00PM GMT |Mon, February 24 06:00AM AEDT |
 |[Aspire Racing \- Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10173){:target="_blank"} |ASPIRE RACING GT3 SERIES IN PARTNERSHIP WITH INGEAR MOTORSPORT \- SEASON 7 |Europe |58 |2033 |Open | | | | |
 |[ARL GT3 Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=6437){:target="_blank"} |Season 9 |Europe |58 |3123 | |Hockenheimring Baden-Württemberg |Wed, February 26 01:00PM EST |Wed, February 26 06:00PM GMT |Thu, February 27 05:00AM AEDT |
-|[UK SimRacing Community \- GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=6296){:target="_blank"} |Season 14 |Europe |58 |2593 |Open | | | | |
+|[UK SimRacing Community \- GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=6296){:target="_blank"} |Season 14 |Europe |58 |2593 |Open |Hockenheimring Baden-Württemberg |Sun, March 02 02:10PM EST |Sun, March 02 07:10PM GMT |Mon, March 03 06:10AM AEDT |
 |[Makoon Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11630){:target="_blank"} |MaKoonGaming Liga Saison 2 |Europe |57 |1786 |Fixed | | | | |
 |[A\-Split \- Evolution Sim Racing \- GT3 CHAMPIONSHIP S7](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |ESR GT3 Season 7 |Europe |55 |2697 | |Mount Panorama Circuit |Thu, February 27 02:30PM EST |Thu, February 27 07:30PM GMT |Fri, February 28 06:30AM AEDT |
 |[B\-Split \- Evolution Sim Racing \- GT3 CHAMPIONSHIP S7](https://members.iracing.com/membersite/member/LeagueView.do?league=11717){:target="_blank"} |ESR GT3 Season 7 |Europe |54 |1505 | |Mount Panorama Circuit |Thu, February 27 02:30PM EST |Thu, February 27 07:30PM GMT |Fri, February 28 06:30AM AEDT |
 |[K\-Series League 2K25](https://members.iracing.com/membersite/member/LeagueView.do?league=10176){:target="_blank"} |K\-Series League 2K25 \- Season 1 \- GT3 |Europe |50 |2929 |Open |Road Atlanta |Sun, February 23 02:30PM EST |Sun, February 23 07:30PM GMT |Mon, February 24 06:30AM AEDT |
-|[SimracerX League](https://members.iracing.com/membersite/member/LeagueView.do?league=11602){:target="_blank"} |SimracerX Saison 1\-2025 |Europe |43 |1742 | | | | | |
+|[SimracerX League](https://members.iracing.com/membersite/member/LeagueView.do?league=11602){:target="_blank"} |SimracerX Saison 1\-2025 |Europe |43 |1742 | |Nürburgring Grand-Prix-Strecke |Thu, February 27 11:50AM EST |Thu, February 27 04:50PM GMT |Fri, February 28 03:50AM AEDT |
 |[Ligue Francophone GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |Groupe Challenge |Europe |38 |2362 |Open | | | | |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S01 \- GT3 |Europe |38 |2585 |Both |Sebring International Raceway |Thu, February 27 02:30PM EST |Thu, February 27 07:30PM GMT |Fri, February 28 06:30AM AEDT |
 |[FLANC GT3 Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=7591){:target="_blank"} |FLANC GT3 Serie 2024/25 \- GT3 |Europe |37 |2762 |Fixed | | | | |
 |[TRL The\-Racing\-League\.de](https://members.iracing.com/membersite/member/LeagueView.do?league=11616){:target="_blank"} |TRL iRacing GT Saison 2 |Europe |25 |1929 |Open |Mount Panorama Circuit |Tue, February 25 11:30AM EST |Tue, February 25 04:30PM GMT |Wed, February 26 03:30AM AEDT |
 |[TRL The\-Racing\-League\.de](https://members.iracing.com/membersite/member/LeagueView.do?league=11616){:target="_blank"} |TRL JAR24 |Europe |22 |1886 |Open | | | | |
 |[RECART\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10758){:target="_blank"} |RECART SRS 2024/25 Cup2 |Europe |20 |2298 | |Hockenheimring Baden-Württemberg |Sun, February 23 01:30PM EST |Sun, February 23 06:30PM GMT |Mon, February 24 05:30AM AEDT |
-|[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |GT3 Season 2 |Europe |20 |1794 |Open |Mount Panorama Circuit |Sat, February 22 01:30PM EST |Sat, February 22 06:30PM GMT |Sun, February 23 05:30AM AEDT |
+|[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |GT3 Season 2 |Europe |20 |1794 |Open | | | | |
 |[SimRC\.de GT3 Rookie Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=8709){:target="_blank"} |Frühling 2025 |Europe |17 |1510 | | | | | |
 |[Rookie Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11570){:target="_blank"} |Rookie Touring Masters 2025 |Europe |14 |1339 |Open | | | | |
 |[Arctic Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11171){:target="_blank"} |TEST SEASON |Europe |13 |2685 | | | | | |
@@ -414,12 +415,12 @@
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |2025 ESR Casual Endurance Series |Europe |31 |2330 | | | | | |
 |[NXTGP sim league](https://members.iracing.com/membersite/member/LeagueView.do?league=11981){:target="_blank"} |NXTGP Global Mazda MX5 groep 2 |Europe |30 |2372 | | | | | |
 |[GT Akademían](https://members.iracing.com/membersite/member/LeagueView.do?league=4302){:target="_blank"} |Formúlu Deildin |Europe |28 |1616 |Both | | | | |
-|[Magyarok \- Real Fast Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=12203){:target="_blank"} |Első bajnokság |Europe |27 |1886 |Open |Watkins Glen International |Sat, February 22 05:30AM EST |Sat, February 22 10:30AM GMT |Sat, February 22 09:30PM AEDT |
+|[Magyarok \- Real Fast Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=12203){:target="_blank"} |Első bajnokság |Europe |27 |1923 |Open | | | | |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |SS5 The Greatest Hits |Europe |25 |2144 |Both | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 Special Events |Europe |25 |2330 |Both | | | | |
 |[Clark St\. James GT3 League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=11737){:target="_blank"} |Clark St\. James GT3 Season 5 |Europe |25 |1631 | | | | | |
 |[UK SimRacing Community \- Weekly Practice Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=6871){:target="_blank"} |GT3 Practice Session |Europe |22 |2130 | |Hockenheimring Baden-Württemberg |Thu, February 27 02:00PM EST |Thu, February 27 07:00PM GMT |Fri, February 28 06:00AM AEDT |
-|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Risky Racing Presents |Europe |22 |2145 |Both |Summit Point Raceway |Sun, February 23 03:00PM EST |Sun, February 23 08:00PM GMT |Mon, February 24 07:00AM AEDT |
+|[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Risky Racing Presents |Europe |22 |2145 |Both | | | | |
 |[CAS \- International Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9896){:target="_blank"} |International Endurance Championship \(Season 2\) |Europe |21 |2410 |Open | | | | |
 |[go\-RILLAS AVL RACETECH SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7714){:target="_blank"} |Season 24\.2 |Europe |21 |2362 |Fixed | | | | |
 |[ITJ & IIC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |ITCC 1a edizione Season 4 |Europe |21 |1490 | |Charlotte Motor Speedway |Tue, February 25 02:30PM EST |Tue, February 25 07:30PM GMT |Wed, February 26 06:30AM AEDT |

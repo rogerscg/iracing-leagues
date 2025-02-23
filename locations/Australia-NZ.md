@@ -33,8 +33,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[Australian NASCAR Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10465){:target="_blank"} |2025 Motorsport Australia Australian NASCAR Championships |Australia-NZ |28 |3227 |Open | | | | |
+|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|------------|-------|----|-----|---------------|-------------------------|-------------------------|--------------------------|
+|[Australian NASCAR Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10465){:target="_blank"} |2025 Motorsport Australia Australian NASCAR Championships |Australia-NZ |28 |3227 |Open |Phoenix Raceway |Sun, March 02 04:00AM EST |Sun, March 02 09:00AM GMT |Sun, March 02 08:00PM AEDT |
 
 # Oval
 
@@ -186,7 +186,7 @@
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025A V8SC Elite Series \- Trophi\.AI |Australia-NZ |44 |2572 | |Okayama International Circuit |Wed, February 26 03:40AM EST |Wed, February 26 08:40AM GMT |Wed, February 26 07:40PM AEDT |
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 1 |Australia-NZ |36 |1731 | |Phillip Island Circuit |Mon, February 24 06:30AM EST |Mon, February 24 11:30AM GMT |Mon, February 24 10:30PM AEDT |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR V8 Champions Challenge S1 2025 |Australia-NZ |35 |1147 | | | | | |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Supercars Gen  3 Season 1 |Australia-NZ |32 |1171 | | | | | |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Supercars Gen  3 Season 1 |Australia-NZ |34 |1170 | | | | | |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |MCV8 \- SILVER Split \- Season 1 |Australia-NZ |28 |1555 |Fixed |Chicago Street Course |Mon, February 24 03:00AM EST |Mon, February 24 08:00AM GMT |Mon, February 24 07:00PM AEDT |
 |[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025A |Australia-NZ |27 |1698 |Fixed |Atlanta Motor Speedway |Sun, February 23 04:00AM EST |Sun, February 23 09:00AM GMT |Sun, February 23 08:00PM AEDT |
 |[Outlaw V8 Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=11244){:target="_blank"} |2025 Summer Season |Australia-NZ |21 |1747 |Fixed | | | | |
@@ -208,9 +208,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|------------------------|------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------|------------------------|------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=11951){:target="_blank"} |DML 2025 Midget Series |Australia-NZ |125 |3914 |Fixed | | | | |
-|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI Simsports Midgets 25 |Australia-NZ |60 |3534 | | | | | |
+|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI Simsports Midgets 25 |Australia-NZ |60 |3534 | |Federated Auto Parts Raceway at I-55 |Sun, February 23 02:30AM EST |Sun, February 23 07:30AM GMT |Sun, February 23 06:30PM AEDT |
 
 ### Dirt Sprintcar - 410
 
@@ -262,7 +262,7 @@
 |[V8 Veterans Season 22](https://members.iracing.com/membersite/member/LeagueView.do?league=6788){:target="_blank"} |Season 22 |Australia-NZ |213 |1909 | | | | | |
 |[PREMIER ENDURANCE LEAGUE \- GT3 LIMITED](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} |The DASH OffRoad Australian GT3 Endurance Championship Season 5 |Australia-NZ |95 |2063 |Open |Sebring International Raceway |Fri, February 28 04:00AM EST |Fri, February 28 09:00AM GMT |Fri, February 28 08:00PM AEDT |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) SEASON 1 2025 |Australia-NZ |87 |2201 |Open |Red Bull Ring |Tue, February 25 02:00AM EST |Tue, February 25 07:00AM GMT |Tue, February 25 06:00PM AEDT |
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |STONECOLD RACING POP\-UP EVENTS |Australia-NZ |58 |1280 | | | | | |
+|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |STONECOLD RACING POP\-UP EVENTS |Australia-NZ |58 |1280 | |Sandown International Motor Raceway |Sun, February 23 04:30AM EST |Sun, February 23 09:30AM GMT |Sun, February 23 08:30PM AEDT |
 |[SRW \- Moza Super Formula Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |SRW 2025 S1 Super Formula Championship |Australia-NZ |54 |1908 | |Chicago Street Course |Wed, February 26 02:00AM EST |Wed, February 26 07:00AM GMT |Wed, February 26 06:00PM AEDT |
 |[Logitech G V8PRO Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8323){:target="_blank"} |2025 V8PRO QUALIFYING SERIES |Australia-NZ |52 |4589 | |Winton Motor Raceway |Wed, February 26 03:00AM EST |Wed, February 26 08:00AM GMT |Wed, February 26 07:00PM AEDT |
 |[FDL \- P1SG SFL Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11833){:target="_blank"} |SFLS1 |Australia-NZ |49 |3201 | |Autodromo Nazionale Monza |Tue, February 25 02:30AM EST |Tue, February 25 07:30AM GMT |Tue, February 25 06:30PM AEDT |
@@ -270,7 +270,7 @@
 |[420 OZ SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |420 OZ SIM RACING V8 SUPERCARS SEASON 2 |Australia-NZ |41 |1535 |Both | | | | |
 |[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |The Pisston Cup 2\.0 |Australia-NZ |40 |1675 |Both | | | | |
 |[PREMIER ENDURANCE LEAGUE \- GT3 OPEN](https://members.iracing.com/membersite/member/LeagueView.do?league=12123){:target="_blank"} |The GGD Australian GT3 Endurance Championship\. |Australia-NZ |38 |2792 | | | | | |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A Mountain Men 200 Series |Australia-NZ |37 |1979 |Both |Mount Panorama Circuit |Sat, February 22 03:30AM EST |Sat, February 22 08:30AM GMT |Sat, February 22 07:30PM AEDT |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A Mountain Men 200 Series |Australia-NZ |37 |1965 |Both | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Sunday Night Heat Series |Australia-NZ |35 |1435 | | | | | |
 |[Rumble Racing \- Clubsport](https://members.iracing.com/membersite/member/LeagueView.do?league=8024){:target="_blank"} |Clubsport Rumble \- Season one |Australia-NZ |31 |1920 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |GSRC Summer Series 24/25 |Australia-NZ |30 |1486 |Both | | | | |
