@@ -165,10 +165,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-----------------------------------|----------------------------|----------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------------|-------|----|-----|-----------------------------------|----------------------------|-------------------------|--------------------------|
 |[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 10 |North America |44 |1347 |Fixed |Watkins Glen International |Fri, February 28 07:00PM EST |Sat, March 01 12:00AM GMT |Sat, March 01 11:00AM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A F1 Retro Championship \- JJZ Constructions |Australia-NZ |43 |2311 |Both |Circuit des 24 Heures du Mans |Tue, March 04 04:15AM EST |Tue, March 04 09:15AM GMT |Tue, March 04 08:15PM AEDT |
-|[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} |Historic F1 Masters \- 2025 |Europe |21 |2054 | |[Legacy] Silverstone Circuit - 2008 |Fri, February 28 02:00PM EST |Fri, February 28 07:00PM GMT |Sat, March 01 06:00AM AEDT |
+|[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} |Historic F1 Masters \- 2025 |Europe |24 |2054 | |[Legacy] Silverstone Circuit - 2008 |Sat, March 08 03:30PM EST |Sat, March 08 08:30PM GMT |Sun, March 09 07:30AM AEDT |
 |[C\.A\.R\.T\. \- Lotus 79 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4532){:target="_blank"} |Lotus 79 Season \#1 |North America |16 |2023 |Fixed | | | | |
 |[Groburkchan Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=9778){:target="_blank"} |Lotus 79 Season 1 |North America |14 |1712 | | | | | |
 |[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |11 \| Gennaio 2025 |Europe |13 |1189 | | | | | |

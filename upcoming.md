@@ -111,6 +111,16 @@
 |---------------------------------------------------------------------------------------------------------------------|--------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[86 Challenge Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12005){:target="_blank"} |GR86 Season 1  |Open |Daytona International Speedway |Mon, March 03 10:00PM EST |Tue, March 04 03:00AM GMT |Tue, March 04 02:00PM AEDT |
 
+# Prototype
+
+### Dallara P217
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[Beat the PRO Challenge presented by AVL RACETECH](https://members.iracing.com/membersite/member/LeagueView.do?league=9055){:target="_blank"} |Beat the PRO Challenge 2025 | |Watkins Glen International |Tue, March 04 12:15PM EST |Tue, March 04 05:15PM GMT |Wed, March 05 04:15AM AEDT |
+
 # Dirt Oval
 
 ### Dirt Late Model - Super
@@ -183,9 +193,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|-----------------------------|----------------------------|----------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------|-------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[Pace Setters Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11835){:target="_blank"} |IMSA CUP Season 1 | |Okayama International Circuit |Thu, March 06 08:00PM EST |Fri, March 07 01:00AM GMT |Fri, March 07 12:00PM AEDT |
 |[86 Challenge Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12005){:target="_blank"} |Multiclass Season 1 |Open |Red Bull Ring |Thu, March 06 10:00PM EST |Fri, March 07 03:00AM GMT |Fri, March 07 02:00PM AEDT |
-|[Rookie Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11570){:target="_blank"} |Rookie Sportscar Challenge \#1 \| 2025 |Open |Circuito de Navarra |Fri, February 28 01:00PM EST |Fri, February 28 06:00PM GMT |Sat, March 01 05:00AM AEDT |
+|[GT4 vs NAS](https://members.iracing.com/membersite/member/LeagueView.do?league=10931){:target="_blank"} |GT4 vs NASCAR |Open |Circuit of the Americas |Sat, March 08 04:40PM EST |Sat, March 08 09:40PM GMT |Sun, March 09 08:40AM AEDT |
 |[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |SÄSONG 5 | |Oulton Park Circuit |Tue, March 04 02:15PM EST |Tue, March 04 07:15PM GMT |Wed, March 05 06:15AM AEDT |
 

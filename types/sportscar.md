@@ -58,10 +58,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------------------------|----------------------------|-------------------------|--------------------------|
 |[PCA \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class A/B Group eDE |North America |119 |1357 | | | | | |
+|[SRL Friday Night Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |SRL Freebie Fridays |Europe |69 |2478 |Fixed |Circuito de Navarra |Fri, March 07 03:20PM EST |Fri, March 07 08:20PM GMT |Sat, March 08 07:20AM AEDT |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 8 |Europe |69 |2600 |Fixed | | | | |
-|[SRL Friday Night Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |SRL Freebie Fridays |Europe |68 |2477 |Fixed |Autódromo José Carlos Pace |Fri, February 28 03:20PM EST |Fri, February 28 08:20PM GMT |Sat, March 01 07:20AM AEDT |
 |[PCA \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Races |North America |66 |1333 | |Silverstone Circuit |Sun, March 02 08:15PM EST |Mon, March 03 01:15AM GMT |Mon, March 03 12:15PM AEDT |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL Miatas Season 1 |North America |64 |2173 |Open | | | | |
 |[GT4 & TCR Championship \- Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |ESR GT4\-TCR Season 2 |Europe |61 |2058 | |Brands Hatch Circuit |Mon, March 03 02:30PM EST |Mon, March 03 07:30PM GMT |Tue, March 04 06:30AM AEDT |
@@ -145,7 +145,7 @@
 |[PESCP \| Sezon 5 \- Wyścig Społeczności](https://members.iracing.com/membersite/member/LeagueView.do?league=12166){:target="_blank"} |Sezon 5 |Europe |33 |3002 | | | | | |
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |2025 iRTES Porsche Cup support series |North America |32 |2284 |Both |Suzuka International Racing Course |Sat, March 01 12:30PM EST |Sat, March 01 05:30PM GMT |Sun, March 02 04:30AM AEDT |
 |[Porsche Esports Carrera Cup Great Britain](https://members.iracing.com/membersite/member/LeagueView.do?league=6219){:target="_blank"} |Season 5 |Europe |31 |5144 | | | | | |
-|[Porsche TAG Heuer Esports Supercup](https://members.iracing.com/membersite/member/LeagueView.do?league=6004){:target="_blank"} |2025 Porsche Esports Supercup |Europe |30 |9661 | | | | | |
+|[Porsche TAG Heuer Esports Supercup](https://members.iracing.com/membersite/member/LeagueView.do?league=6004){:target="_blank"} |2025 Porsche Esports Supercup |Europe |30 |9661 | |Sachsenring |Sat, March 08 01:30PM EST |Sat, March 08 06:30PM GMT |Sun, March 09 05:30AM AEDT |
 |[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |2025 A\-Finale Sportsbil |Europe |29 |4453 | | | | | |
 |[PESCP \| Sezon 5 \- Baraże](https://members.iracing.com/membersite/member/LeagueView.do?league=11941){:target="_blank"} |Sezon 5 |Europe |28 |4475 | | | | | |
 |[PESCP \| Sezon 5 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=12165){:target="_blank"} |Sezon 5 |Europe |24 |6400 | | | | | |
@@ -189,8 +189,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------------|------------|-------|----|-----|-------------|----------------------------|----------------------------|--------------------------|
-|[Olivier iRacing League 🏁](https://members.iracing.com/membersite/member/LeagueView.do?league=10930){:target="_blank"} |Supercars Cup 🏁 |Europe |43 |2178 | |Red Bull Ring |Fri, February 28 02:00PM EST |Fri, February 28 07:00PM GMT |Sat, March 01 06:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------|---------------------|------------|-------|----|-----|-------------|--------|------|------|
+|[Olivier iRacing League 🏁](https://members.iracing.com/membersite/member/LeagueView.do?league=10930){:target="_blank"} |Supercars Cup 🏁 |Europe |43 |2174 | | | | | |
 |[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |Summer Series 2024/25 |Australia-NZ |37 |1869 |Fixed | | | | |
 
 ### Touring Car
@@ -198,7 +198,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|------------------------|----------------------------|----------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC S13 |North America |83 |2718 |Open |Mount Panorama Circuit |Mon, March 03 07:00PM EST |Tue, March 04 12:00AM GMT |Tue, March 04 11:00AM AEDT |
 |[BSTV TCR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=4843){:target="_blank"} |Season 19 |Europe |62 |3484 |Open | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL TCR Season 1 |North America |48 |2146 |Open | | | | |
@@ -210,7 +210,7 @@
 |[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC Special Events |North America |18 |None |Open | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S1 Touring Car |North America |17 |1659 |Open |Barber Motorsports Park |Wed, March 05 08:30PM EST |Thu, March 06 01:30AM GMT |Thu, March 06 12:30PM AEDT |
 |[VTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=10564){:target="_blank"} |World Tour 2024/2025 SouthERN Americas Leg |Europe |13 |1824 | | | | | |
-|[TGC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8406){:target="_blank"} |2025 TGC TGR Championship |Europe |13 |2020 | |Thruxton Circuit |Fri, February 28 04:30PM EST |Fri, February 28 09:30PM GMT |Sat, March 01 08:30AM AEDT |
+|[TGC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8406){:target="_blank"} |2025 TGC TGR Championship |Europe |13 |2032 | |Donington Park Racing Circuit |Fri, March 07 04:30PM EST |Fri, March 07 09:30PM GMT |Sat, March 08 08:30AM AEDT |
 |[VTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=10564){:target="_blank"} |World Tour 2024/2025 British Leg |Europe |11 |2029 | | | | | |
 |[BMR Touring Car World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11823){:target="_blank"} |BMR Touring Car World Challenge |North America |10 |1627 |Open | | | | |
 
@@ -249,6 +249,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Bolt TP IROC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11937){:target="_blank"} |TP IROC Season 1 |North America |17 |1590 |Fixed | | | | |
+|-----------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|--------------|----------------------------|-------------------------|--------------------------|
+|[Bolt TP IROC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11937){:target="_blank"} |TP IROC Season 1 |North America |17 |1590 |Fixed |Pocono Raceway |Fri, February 28 07:30PM EST |Sat, March 01 12:30AM GMT |Sat, March 01 11:30AM AEDT |
 
