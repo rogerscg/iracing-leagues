@@ -57,8 +57,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PORSCHE CUP 2025\.1 |South America |10 |1878 |Both | | | | |
+|-------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PORSCHE CUP 2025\.1 |South America |10 |1878 |Both |Mount Panorama Circuit |Sat, March 08 08:00PM EST |Sun, March 09 01:00AM GMT |Sun, March 09 12:00PM AEDT |
 
 ### Touring Car
 
