@@ -18,8 +18,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Cup Series Season 8 | |Kentucky Speedway |Wed, March 05 07:30PM EST |Thu, March 06 12:30AM GMT |Thu, March 06 11:30AM AEDT |
+|[American Sheepdog Racing League \(ASDR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4410){:target="_blank"} |ASDR RevSimShop\.com Cup Series Season 5 |Fixed |Daytona International Speedway |Thu, March 06 08:00PM EST |Fri, March 07 01:00AM GMT |Fri, March 07 12:00PM AEDT |
 |[Bump And Run Cup Setup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7545){:target="_blank"} |Season 7 A | |Daytona International Speedway |Tue, March 04 07:00PM EST |Wed, March 05 12:00AM GMT |Wed, March 05 11:00AM AEDT |
 
 ### NASCAR Cup
@@ -27,7 +28,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|------|-----|-----------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Cup Intermediate Series Season 1 | |Las Vegas Motor Speedway |Mon, March 10 07:00PM EDT |Mon, March 10 11:00PM GMT |Tue, March 11 10:00AM AEDT |
 |[Tier 1 Racing League Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=5584){:target="_blank"} |2025 | |Talladega Superspeedway |Sat, March 08 10:00AM EST |Sat, March 08 03:00PM GMT |Sun, March 09 02:00AM AEDT |
 
 ### NASCAR Legends 1987
@@ -63,7 +65,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
-|[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |AMX IRacing Dirt Mini Stock Series Season 1 |Open |Lucas Oil Speedway |Sun, March 02 06:00PM EST |Sun, March 02 11:00PM GMT |Mon, March 03 10:00AM AEDT |
 |[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |Les Coureurs du Dimanche \- Saison 2 : Mini\-Stock Dirt |Fixed |Lanier National Speedway |Sun, March 09 08:00PM EDT |Mon, March 10 12:00AM GMT |Mon, March 10 11:00AM AEDT |
 
 ### Late Model Stock
@@ -81,8 +82,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-------------------------------|-------------------------|-------------------------|--------------------------|
 |[Loose is Fast Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=290){:target="_blank"} |Loose is Fast Podcast \- Mini Stock |Fixed |[Legacy] Phoenix Raceway - 2008 |Sat, March 08 08:30PM EST |Sun, March 09 01:30AM GMT |Sun, March 09 12:30PM AEDT |
-|[Apex Racing Society](https://members.iracing.com/membersite/member/LeagueView.do?league=12159){:target="_blank"} |\[ ARS \] Mini Stock \| Season 1 | |Charlotte Motor Speedway |Mon, March 03 07:30PM EST |Tue, March 04 12:30AM GMT |Tue, March 04 11:30AM AEDT |
-|[Grumpy Marks Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12066){:target="_blank"} |2025 Wednesday Night Minis |Fixed |Myrtle Beach Speedway |Wed, March 05 08:30PM EST |Thu, March 06 01:30AM GMT |Thu, March 06 12:30PM AEDT |
+|[Apex Racing Society](https://members.iracing.com/membersite/member/LeagueView.do?league=12159){:target="_blank"} |\[ ARS \] Mini Stock \| Season 1 |Fixed |Charlotte Motor Speedway |Mon, March 03 07:30PM EST |Tue, March 04 12:30AM GMT |Tue, March 04 11:30AM AEDT |
 |[SPEED Tuesday Dash Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11247){:target="_blank"} |2025A SPEED Dash Series | |Rockingham Speedway |Tue, March 04 08:30PM EST |Wed, March 05 01:30AM GMT |Wed, March 05 12:30PM AEDT |
 
 # Open-wheel
@@ -134,8 +134,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[86 Challenge Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12005){:target="_blank"} |GR86 Season 1  |Open |Daytona International Speedway |Mon, March 03 10:00PM EST |Tue, March 04 03:00AM GMT |Tue, March 04 02:00PM AEDT |
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Toyota GR86 Cup |Open |Snetterton Circuit |Mon, March 10 01:00PM EDT |Mon, March 10 05:00PM GMT |Tue, March 11 04:00AM AEDT |
 
 # Prototype
 
@@ -159,22 +160,6 @@
 
 # Dirt Oval
 
-### Dirt Big Block Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|---------------|-------------------------|-------------------------|--------------------------|
-|[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |Le Feu dans l'tapis \- Évènements \! |Fixed |Eldora Speedway |Sun, March 02 08:00PM EST |Mon, March 03 01:00AM GMT |Mon, March 03 12:00PM AEDT |
-
-### Dirt Late Model - Super
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
-|[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |Reigel Promotions Super Late Model Series |Open |Federated Auto Parts Raceway at I-55 |Sun, March 02 04:30PM EST |Sun, March 02 09:30PM GMT |Mon, March 03 08:30AM AEDT |
-
 ### Dirt Midget
 
 [Back to Top](#)  
@@ -183,38 +168,6 @@
 |---------------------------------------------------------------------------------------------------------------------|------------------------|-----|---------------|-------------------------|-------------------------|--------------------------|
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Midgets Super Series | |Kokomo Speedway |Tue, March 04 05:00AM EST |Tue, March 04 10:00AM GMT |Tue, March 04 09:00PM AEDT |
 
-### Dirt SprintCar - 305
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[Reigel Promotions E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2025 RPES 305 Sprint Car Series |Fixed |Volusia Speedway Park |Sun, March 02 07:00PM EST |Mon, March 03 12:00AM GMT |Mon, March 03 11:00AM AEDT |
-
-### Dirt SprintCar - 360
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[Reigel Promotions E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2025 RPES 360 Sprint Car Series |Fixed |Volusia Speedway Park |Sun, March 02 07:00PM EST |Mon, March 03 12:00AM GMT |Mon, March 03 11:00AM AEDT |
-
-### Dirt Street Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|----------------|-------------------------|-------------------------|--------------------------|
-|[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |DOA Pro Wrestling Pure Stock Series |Open |Huset's Speedway |Sun, March 02 07:30PM EST |Mon, March 03 12:30AM GMT |Mon, March 03 11:30AM AEDT |
-
-### Dirt UMP Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-----|----------------------------|-------------------------|-------------------------|--------------------------|
-|[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |Hurricane Race Chassis UMP Modified Series Season 7 |Open |Kevin Harvick's Kern Raceway |Sun, March 02 03:00PM EST |Sun, March 02 08:00PM GMT |Mon, March 03 07:00AM AEDT |
-
 # Multi-class/Unclassified
 
 ### GT3 Class
@@ -222,25 +175,28 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
+|[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing Summer Cup 2025 \- ELITE |Fixed |Sebring International Raceway |Mon, March 10 09:30PM EDT |Tue, March 11 01:30AM GMT |Tue, March 11 12:30PM AEDT |
+|[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing Summer Cup 2025 \- PREMIERE |Fixed |Sebring International Raceway |Mon, March 10 08:00PM EDT |Tue, March 11 12:00AM GMT |Tue, March 11 11:00AM AEDT |
 |[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |GT3 S1\-25 | |Hockenheimring Baden-Württemberg |Mon, March 03 01:00PM EST |Mon, March 03 06:00PM GMT |Tue, March 04 05:00AM AEDT |
 |[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |GT Sprint Series \[Europe\] |Both |Autodromo Internazionale Enzo e Dino Ferrari |Tue, March 04 08:30PM EST |Wed, March 05 01:30AM GMT |Wed, March 05 12:30PM AEDT |
-|[Jack Ashton Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11866){:target="_blank"} |S P Webb Installations GT3 Championship | |Snetterton Circuit |Sun, March 02 06:45AM EST |Sun, March 02 11:45AM GMT |Sun, March 02 10:45PM AEDT |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Friday: Road Series 25s2 |Fixed |Long Beach Street Circuit |Sun, March 09 07:30PM EDT |Sun, March 09 11:30PM GMT |Mon, March 10 10:30AM AEDT |
-|[JWC X FZR](https://members.iracing.com/membersite/member/LeagueView.do?league=12183){:target="_blank"} |JWC X FZR GT3 |Fixed |Circuito de Navarra |Sun, March 02 01:00PM EST |Sun, March 02 06:00PM GMT |Mon, March 03 05:00AM AEDT |
 |[Track Heroes League iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12184){:target="_blank"} |2025 Track Heroes | |Daytona International Speedway |Wed, March 05 06:00PM EST |Wed, March 05 11:00PM GMT |Thu, March 06 10:00AM AEDT |
 |[Majors European](https://members.iracing.com/membersite/member/LeagueView.do?league=12018){:target="_blank"} |25R3 Spa | |Circuit de Spa-Francorchamps |Sat, March 08 03:00AM EST |Sat, March 08 08:00AM GMT |Sat, March 08 07:00PM AEDT |
 |[Nifty Lift SportsCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12177){:target="_blank"} |NiftyLift SportsCar Season 1 | |Daytona International Speedway |Mon, March 03 07:45PM EST |Tue, March 04 12:45AM GMT |Tue, March 04 11:45AM AEDT |
+|[L\.A\. Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11004){:target="_blank"} |Copa GT3 \- Season I |Both |Virginia International Raceway |Mon, March 03 08:00PM EST |Tue, March 04 01:00AM GMT |Tue, March 04 12:00PM AEDT |
+|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |GT3 Promo Races Season 6 | |Virginia International Raceway |Mon, March 03 02:30PM EST |Mon, March 03 07:30PM GMT |Tue, March 04 06:30AM AEDT |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[International GT Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11433){:target="_blank"} |International GT Championship |Open |Silverstone Circuit |Sat, March 08 10:00PM EST |Sun, March 09 03:00AM GMT |Sun, March 09 02:00PM AEDT |
 |[Pace Setters Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11835){:target="_blank"} |IMSA CUP Season 1 | |Okayama International Circuit |Thu, March 06 08:00PM EST |Fri, March 07 01:00AM GMT |Fri, March 07 12:00PM AEDT |
 |[86 Challenge Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12005){:target="_blank"} |Multiclass Season 1 |Open |Red Bull Ring |Thu, March 06 10:00PM EST |Fri, March 07 03:00AM GMT |Fri, March 07 02:00PM AEDT |
 |[GT4 vs NAS](https://members.iracing.com/membersite/member/LeagueView.do?league=10931){:target="_blank"} |GT4 vs NASCAR |Open |Circuit of the Americas |Sat, March 08 04:40PM EST |Sat, March 08 09:40PM GMT |Sun, March 09 08:40AM AEDT |
 |[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |SÄSONG 5 | |Oulton Park Circuit |Tue, March 04 02:15PM EST |Tue, March 04 07:15PM GMT |Wed, March 05 06:15AM AEDT |
+|[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |IMSEC 2025 | |Daytona International Speedway |Fri, March 07 12:30PM EST |Fri, March 07 05:30PM GMT |Sat, March 08 04:30AM AEDT |
 
