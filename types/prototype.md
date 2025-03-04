@@ -28,7 +28,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |Europe |41 |3063 | |Algarve International Circuit |Mon, March 03 01:00PM EST |Mon, March 03 06:00PM GMT |Tue, March 04 05:00AM AEDT |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |Europe |43 |3219 | |Circuit de Spa-Francorchamps |Sun, March 09 02:00PM EDT |Sun, March 09 06:00PM GMT |Mon, March 10 05:00AM AEDT |
 |[SRB LEAGUES \- SUPER FORMULA SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |RADICAL SUNDAYS |Europe |28 |1886 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PROTOTYPE 2025\.1 |South America |17 |1531 |Both |Daytona International Speedway |Tue, March 04 07:15PM EST |Wed, March 05 12:15AM GMT |Wed, March 05 11:15AM AEDT |
 
@@ -39,7 +39,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------|----------------------------------|-------------|-------|----|-----|----------------------|-------------------------|-------------------------|--------------------------|
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |Worn Out Racers \- Road Thursday's |North America |38 |1306 |Fixed |Mount Panorama Circuit |Thu, March 06 08:00PM EST |Fri, March 07 01:00AM GMT |Fri, March 07 12:00PM AEDT |
-|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2025S1 \- LMP3 Tournament |Europe |35 |2920 |Open |Mount Panorama Circuit |Mon, March 03 01:30PM EST |Mon, March 03 06:30PM GMT |Tue, March 04 05:30AM AEDT |
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2025S1 \- LMP3 Tournament |Europe |36 |2916 |Open | | | | |
 |[Formula None](https://members.iracing.com/membersite/member/LeagueView.do?league=12016){:target="_blank"} |LMP3 Season 1 |North America |14 |1641 |Open | | | | |
 
 ### Radical SR10
@@ -60,6 +60,7 @@
 |-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |27 |1395 |Fixed |Thompson Speedway Motorsports Park |Sun, March 09 08:00PM EDT |Mon, March 10 12:00AM GMT |Mon, March 10 11:00AM AEDT |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |SR8 \- WCR Season 12 |North America |26 |2246 |Open |Nürburgring Combined |Fri, March 07 09:20PM EST |Sat, March 08 02:20AM GMT |Sat, March 08 01:20PM AEDT |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |Europe |23 |2249 | |WeatherTech Raceway at Laguna Seca |Mon, March 10 04:00PM EDT |Mon, March 10 08:00PM GMT |Tue, March 11 07:00AM AEDT |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- Tuesday night \- Radical SR8 |North America |22 |1073 |Open |Charlotte Motor Speedway |Tue, January 21 10:00PM EST |Wed, January 22 03:00AM GMT |Wed, January 22 02:00PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2982 | |Circuit of the Americas |Mon, January 13 03:00PM EST |Mon, January 13 08:00PM GMT |Tue, January 14 07:00AM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |SR8 Championship Season 2 |Europe |16 |3009 | | | | | |
