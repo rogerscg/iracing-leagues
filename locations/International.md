@@ -20,6 +20,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[ISRAEL Rallycross league](https://members.iracing.com/membersite/member/LeagueView.do?league=12041){:target="_blank"} |SEASON NO1  \-VW\- RALLYCROSS |International |19 |1496 | |Virginia International Raceway |Tue, March 04 02:00PM EST |Tue, March 04 07:00PM GMT |Wed, March 05 06:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[ISRAEL Rallycross league](https://members.iracing.com/membersite/member/LeagueView.do?league=12041){:target="_blank"} |SEASON NO1  \-VW\- RALLYCROSS |International |19 |1497 | | | | | |
 

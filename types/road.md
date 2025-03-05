@@ -13,8 +13,8 @@
 |[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Pit Party |North America |68 |None | | | | | |
 |[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 10 |North America |57 |2120 |Fixed |Nürburgring Combined |Wed, March 05 08:30PM EST |Thu, March 06 01:30AM GMT |Thu, March 06 12:30PM AEDT |
 |[DMC \- Digitaler M2 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11971){:target="_blank"} |Kick Off Saison Digitaler M2 Cup |Europe |57 |2613 | | | | | |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A BMW M\-Sports Cup \- MERCH\.tgsrci |Australia-NZ |53 |2257 |Both |Brands Hatch Circuit |Tue, March 11 03:52AM EDT |Tue, March 11 07:52AM GMT |Tue, March 11 06:52PM AEDT |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1 Academy |Europe |51 |1640 |Both |Tsukuba Circuit |Thu, March 06 02:00PM EST |Thu, March 06 07:00PM GMT |Fri, March 07 06:00AM AEDT |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A BMW M\-Sports Cup \- MERCH\.tgsrci |Australia-NZ |51 |2271 |Both |Summit Point Raceway |Tue, March 04 02:52AM EST |Tue, March 04 07:52AM GMT |Tue, March 04 06:52PM AEDT |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2025 Spring Season |North America |50 |2210 |Both |Virginia International Raceway |Mon, March 10 07:00PM EDT |Mon, March 10 11:00PM GMT |Tue, March 11 10:00AM AEDT |
 |[FNR BMW M2 CSR](https://members.iracing.com/membersite/member/LeagueView.do?league=11379){:target="_blank"} |FNR BMW M2 CUP |Europe |49 |2014 | | | | | |
 |[LIGA FRS \- BMW M2 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} |FRS M2 CUP \- COPA VERÃO 25 |South America |41 |2207 | |Tsukuba Circuit |Mon, March 10 05:00PM EDT |Mon, March 10 09:00PM GMT |Tue, March 11 08:00AM AEDT |
@@ -43,12 +43,12 @@
 |[CASS \- Can\-Am SimSport](https://members.iracing.com/membersite/member/LeagueView.do?league=8433){:target="_blank"} |CASS M2 Cup |North America |21 |1953 |Open |Summit Point Raceway |Wed, March 05 08:30PM EST |Thu, March 06 01:30AM GMT |Thu, March 06 12:30PM AEDT |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Nugget cup 2\.0 |Australia-NZ |21 |1395 |Fixed |Algarve International Circuit |Thu, March 06 03:30AM EST |Thu, March 06 08:30AM GMT |Thu, March 06 07:30PM AEDT |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |ILAKA\-IIL M2 CUP 2025 PRO |International |21 |2152 | |Tsukuba Circuit |Mon, March 10 02:30PM EDT |Mon, March 10 06:30PM GMT |Tue, March 11 05:30AM AEDT |
-|[Casual Sim Racers League \- M2 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11934){:target="_blank"} |M2sday S1 |North America |19 |1789 |Fixed |Silverstone Circuit |Tue, March 04 06:45PM EST |Tue, March 04 11:45PM GMT |Wed, March 05 10:45AM AEDT |
+|[Casual Sim Racers League \- M2 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11934){:target="_blank"} |M2sday S1 |North America |19 |1809 |Fixed | | | | |
 |[Sim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10580){:target="_blank"} |SRA M2 Sprints |North America |19 |2226 |Open | | | | |
 |[UK SimRacing Community \- M2 League](https://members.iracing.com/membersite/member/LeagueView.do?league=6743){:target="_blank"} |M2 Season 1 |Europe |18 |2281 |Fixed | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |BMW M2 2025 T1 |South America |18 |1810 |Fixed | | | | |
 |[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Official Practice \(CORRECT CONDITIONS\) |North America |18 |None | | | | | |
-|[F1BC M2 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |M2 Cup 2025/1 |South America |16 |1924 | | | | | |
+|[F1BC MX5 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |M2 Cup 2025/1 |South America |16 |1924 | | | | | |
 |[TPRT \- Roast Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=12137){:target="_blank"} |Roast Nights S1 |North America |16 |2905 | | | | | |
 |[CRS Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11796){:target="_blank"} |M2 CS Championship |Europe |16 |1343 | |Rudskogen Motorsenter |Sun, March 09 04:10PM EDT |Sun, March 09 08:10PM GMT |Mon, March 10 07:10AM AEDT |
 |[ApexOne NJ Members\-Only League: Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11993){:target="_blank"} |League One |North America |12 |1274 | | | | | |
@@ -62,7 +62,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Supercar Road Season 7 |North America |25 |1370 | |Sebring International Raceway |Fri, March 07 08:00PM EST |Sat, March 08 01:00AM GMT |Sat, March 08 12:00PM AEDT |
-|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Revving Red's Roaring Road Racing Revelry \- Season 7 |North America |19 |2116 |Both |Sebring International Raceway |Tue, March 04 11:00PM EST |Wed, March 05 04:00AM GMT |Wed, March 05 03:00PM AEDT |
+|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Revving Red's Roaring Road Racing Revelry \- Season 7 |North America |19 |2135 |Both | | | | |
 
 ### Supercars Gen 3
 
@@ -82,6 +82,7 @@
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |MCV8 \- SILVER Split \- Season 1 |Australia-NZ |28 |1555 |Fixed | | | | |
 |[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |Australia-NZ |22 |1656 |Both |Canadian Tire Motorsports Park |Wed, March 05 03:30AM EST |Wed, March 05 08:30AM GMT |Wed, March 05 07:30PM AEDT |
 |[N/A](https://members.iracing.com/membersite/member/LeagueView.do?league=11244){:target="_blank"} |2025 Summer Season |Australia-NZ |21 |1747 |Fixed | | | | |
+|[VRR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6057){:target="_blank"} |Marathon GT World Tour Season 1 |North America |20 |1844 |Fixed | | | | |
 |[SMGR V8 SUPER CAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10795){:target="_blank"} |Smokey Mountain V8 Supercar Series S3 |North America |18 |2152 | | | | | |
 |[CiL Collegiate Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |Aussie Supercars Thunder Down Under, Winter 2024\-2025 |North America |15 |2172 | | | | | |
 |[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |Test 'n' Tune Sessions |Australia-NZ |15 |1786 |Fixed | | | | |

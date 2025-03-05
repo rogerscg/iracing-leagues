@@ -8,7 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
+|[Beat the PRO Challenge presented by AVL RACETECH](https://members.iracing.com/membersite/member/LeagueView.do?league=9055){:target="_blank"} |Beat the PRO Challenge 2025 |Europe |50 |3158 | | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |LMP2 Series Season 1 |North America |20 |1905 |Fixed |Circuit de Spa-Francorchamps |Wed, March 05 08:45PM EST |Thu, March 06 01:45AM GMT |Thu, March 06 12:45PM AEDT |
 
 ### GTP
@@ -27,10 +28,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |Europe |43 |3219 | |Circuit de Spa-Francorchamps |Sun, March 09 02:00PM EDT |Sun, March 09 06:00PM GMT |Mon, March 10 05:00AM AEDT |
 |[SRB LEAGUES \- SUPER FORMULA SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |RADICAL SUNDAYS |Europe |28 |1886 | | | | | |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PROTOTYPE 2025\.1 |South America |17 |1531 |Both |Daytona International Speedway |Tue, March 04 07:15PM EST |Wed, March 05 12:15AM GMT |Wed, March 05 11:15AM AEDT |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PROTOTYPE 2025\.1 |South America |17 |1531 |Both |Circuit des 24 Heures du Mans |Tue, March 11 08:15PM EDT |Wed, March 12 12:15AM GMT |Wed, March 12 11:15AM AEDT |
 
 ### Ligier JS P320
 
@@ -47,10 +48,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------|-------------------------|-------------------------|--------------------------|
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 Radical Cup Canada |North America |64 |2236 |Fixed | | | | |
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |53 |None |Fixed | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |19 |2785 |Open | | | | |
+|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |Europe |37 |3398 | | | | | |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |19 |2785 |Open |Thruxton Circuit |Thu, March 06 02:15PM EST |Thu, March 06 07:15PM GMT |Fri, March 07 06:15AM AEDT |
 
 ### Radical SR8
 
@@ -78,8 +80,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|--------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S1 SRF Weekend Warriors |North America |108 |3010 |Open |Road Atlanta |Sun, March 09 02:40PM EDT |Sun, March 09 06:40PM GMT |Mon, March 10 05:40AM AEDT |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL SRF Season 1 |North America |47 |2210 |Open | | | | |
-|[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRSCCA SRF WINTER 2025 |North America |37 |1632 |Both |Lime Rock Park |Tue, March 04 07:00PM EST |Wed, March 05 12:00AM GMT |Wed, March 05 11:00AM AEDT |
+|[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRSCCA SRF WINTER 2025 |North America |38 |1635 |Both |Summit Point Raceway |Tue, March 11 07:00PM EDT |Tue, March 11 11:00PM GMT |Wed, March 12 10:00AM AEDT |
 
