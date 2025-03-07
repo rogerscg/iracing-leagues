@@ -18,9 +18,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
 |[Special Stage Pro Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 1 |North America |29 |2572 | |Bristol Motor Speedway |Fri, March 07 08:00PM EST |Sat, March 08 01:00AM GMT |Sat, March 08 12:00PM AEDT |
-|[SRW \- Friday Funday](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW Pro 2 Lite |Australia-NZ |23 |1532 | |Tsukuba Circuit |Fri, March 07 03:30AM EST |Fri, March 07 08:30AM GMT |Fri, March 07 07:30PM AEDT |
+|[SRW \- Friday Funday](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW Pro 2 Lite |Australia-NZ |23 |1562 | |Daytona Rallycross and Dirt Road |Fri, March 14 04:30AM EDT |Fri, March 14 08:30AM GMT |Fri, March 14 07:30PM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2025 |North America |15 |3119 |Fixed | | | | |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |pro2 |North America |15 |1369 |Open |Wild West Motorsports Park |Mon, March 10 08:00PM EDT |Tue, March 11 12:00AM GMT |Tue, March 11 11:00AM AEDT |
 
