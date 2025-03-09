@@ -27,5 +27,5 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|--------|--------|-------|----|-----|-------------------|-------------------------|-------------------------|--------------------------|
-|[ASRC iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |Season 2 |Asia |15 |2186 |Both |Silverstone Circuit |Sat, March 08 03:00PM EST |Sat, March 08 08:00PM GMT |Sun, March 09 07:00AM AEDT |
+|[ASRC iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |Season 2 |Asia |18 |2096 |Both |Circuito de Navarra |Sat, March 15 04:00PM EDT |Sat, March 15 08:00PM GMT |Sun, March 16 07:00AM AEDT |
 
