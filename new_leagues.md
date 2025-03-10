@@ -12,11 +12,8 @@
 |[D5W Open Pro Late Model League](https://members.iracing.com/membersite/member/LeagueView.do?league=12273){:target="_blank"} | | |
 |[DaddyDesklamp](https://members.iracing.com/membersite/member/LeagueView.do?league=12271){:target="_blank"} | |AI League |
 |[eLegends World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12269){:target="_blank"} | |The home of the best road\-course Legends Car series on iRacing, featuring races on tracks from all over the world\! |
-|[FDL \- Formula Drivers League](https://members.iracing.com/membersite/member/LeagueView.do?league=12259){:target="_blank"} | | |
-|[FPRL Dirt Tour Presented by TA Graphics](https://members.iracing.com/membersite/member/LeagueView.do?league=12258){:target="_blank"} |[Discord](https://discord.gg/P4CHWBPxG5){:target="_blank"} |Tuesday Night Pro DLM League\. Practice at 8:30 EST, Qualifying at 9:00 EST, Heats at 9:05 EST\. |
 |[Mud Slingers Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12267){:target="_blank"} | |3 Different Classes a week\. 9 week series\. Random Track each week between 5 of the best tracks Iracing has to offer\. Racing Every Sunday Night Starting at 8pm eastern |
 |[Redneck racin](https://members.iracing.com/membersite/member/LeagueView.do?league=12274){:target="_blank"} | |class c and higher for open sets |
-|[SunBelt Rentals NASCAR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12260){:target="_blank"} | | |
 |[the gen 4 pro](https://members.iracing.com/membersite/member/LeagueView.do?league=12275){:target="_blank"} | |gen 4 at short and big tracks |
 |[Airline Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12261){:target="_blank"} | |For Airline Team Members |
 |[OnlyFeds Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12265){:target="_blank"} |[Discord](https://discord.gg/dNY24rWCZQ){:target="_blank"} |To be part of this make sure you are in the OnlyFeds community and signed up\! |
@@ -67,8 +64,15 @@
 |[Sportscar Association Americas by RDoks](https://members.iracing.com/membersite/member/LeagueView.do?league=12318){:target="_blank"} |[Discord](https://discord.gg/f776ekWu3y){:target="_blank"} |https://discord\.gg/f776ekWu3y |
 |[Col\. Simmerson's South Essex](https://members.iracing.com/membersite/member/LeagueView.do?league=12324){:target="_blank"} | |Casual and clean racing\. |
 |[Daredevil Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12325){:target="_blank"} | |Owned by Bunnell Family Racing\. Welcome to the Daredevil Racing League\! This league hosts fun races every few weeks at 5PM PST/8PM EST on Saturdays when possible\. Have fun\! |
-|[Noakesy's GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=12323){:target="_blank"} | | |
+|[Noakesy Coaching: Free GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=12323){:target="_blank"} |[Discord](https://discord.gg/HE53t5yzah){:target="_blank"} | |
 |[Family Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12322){:target="_blank"} | |Season for the fam |
 |[Nascar Georgia Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12321){:target="_blank"} | | |
 |[2025 iracing legend car league](https://members.iracing.com/membersite/member/LeagueView.do?league=12326){:target="_blank"} | |fun racing |
+|[Desert Fox Racing \- Festival of Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=12327){:target="_blank"} | |The Desert Fox Racing Festival of Speed is a fun, three\-day iRacing event on March 11th, 18th, and 25th\. Top drivers from around the world will race on tough tracks, showing off their skill and speed\. The event promises close, exciting races with plenty of action\. Don’t miss the chance to see some of the best drivers battle for victory\! |
+|[I5G/ABW Community Race \- ARCA at Charlotte](https://members.iracing.com/membersite/member/LeagueView.do?league=12331){:target="_blank"} | | |
+|[Midget Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=12333){:target="_blank"} | |Midget Races every Tuesday \(9 Rounds\) |
+|[Midlife Crisis Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12330){:target="_blank"} | |If you are under 40 we just don't understand what the hell you are doing with your life\. Mature racers just wanting to enjoy a good race without the drama\. Get off my lawn\! |
+|[OHIO VALLEY LATE MODEL SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12328){:target="_blank"} | |One of the most EXCITING Late Model Pro Regional Series in the Valley is going VIRTUAL\! |
+|[AMX Dirt Slingers](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} | |Dedicated Series Server from AMX iRacing League |
+|[Murray Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12332){:target="_blank"} | |Fun |
 

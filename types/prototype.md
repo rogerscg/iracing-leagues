@@ -30,7 +30,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |Europe |43 |3219 | |Circuit de Spa-Francorchamps |Sun, March 09 02:00PM EDT |Sun, March 09 06:00PM GMT |Mon, March 10 05:00AM AEDT |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |Europe |45 |3192 | |Circuit de Spa-Francorchamps |Mon, March 10 02:00PM EDT |Mon, March 10 06:00PM GMT |Tue, March 11 05:00AM AEDT |
 |[SRB LEAGUES \- SUPER FORMULA SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |RADICAL SUNDAYS |Europe |28 |1886 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PROTOTYPE 2025\.1 |South America |17 |1531 |Both | | | | |
 
@@ -53,6 +53,7 @@
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 Radical Cup Canada |North America |64 |2236 |Fixed | | | | |
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |53 |None |Fixed | | | | |
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |Europe |37 |3398 | | | | | |
+|[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |North America |23 |2584 | | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |19 |2803 |Open | | | | |
 
 ### Radical SR8
@@ -61,7 +62,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |27 |1395 |Fixed |Thompson Speedway Motorsports Park |Sun, March 09 08:00PM EDT |Mon, March 10 12:00AM GMT |Mon, March 10 11:00AM AEDT |
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |27 |1407 |Fixed |Summit Point Raceway |Sun, March 16 08:00PM EDT |Mon, March 17 12:00AM GMT |Mon, March 17 11:00AM AEDT |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |SR8 \- WCR Season 12 |North America |26 |2246 |Open |Nürburgring Combined |Fri, March 07 09:20PM EST |Sat, March 08 02:20AM GMT |Sat, March 08 01:20PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |Europe |23 |2249 | |WeatherTech Raceway at Laguna Seca |Mon, March 10 04:00PM EDT |Mon, March 10 08:00PM GMT |Tue, March 11 07:00AM AEDT |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- Tuesday night \- Radical SR8 |North America |22 |1073 |Open |Charlotte Motor Speedway |Tue, January 21 10:00PM EST |Wed, January 22 03:00AM GMT |Wed, January 22 02:00PM AEDT |
@@ -82,7 +83,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S1 SRF Weekend Warriors |North America |108 |3010 |Open |Road Atlanta |Sun, March 09 02:40PM EDT |Sun, March 09 06:40PM GMT |Mon, March 10 05:40AM AEDT |
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S1 SRF Weekend Warriors |North America |110 |3023 |Open | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL SRF Season 1 |North America |47 |2210 |Open | | | | |
 |[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRSCCA SRF WINTER 2025 |North America |38 |1635 |Both |Summit Point Raceway |Tue, March 11 07:00PM EDT |Tue, March 11 11:00PM GMT |Wed, March 12 10:00AM AEDT |
 

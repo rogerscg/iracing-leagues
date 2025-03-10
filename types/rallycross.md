@@ -37,6 +37,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[NASA RX Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Futures 25A |North America |20 |2765 | | | | | |
-|[NASA RX Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Lites 25A |North America |10 |4415 | | | | | |
+|[NASA RX Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Futures 25A |North America |22 |2574 | | | | | |
+|[NASA RX Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Lites 25A |North America |13 |5923 | | | | | |
 

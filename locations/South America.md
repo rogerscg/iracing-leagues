@@ -19,8 +19,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar DW12 Rookie |South America |34 |1444 |Fixed | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar DW12 Rookie |South America |34 |1444 |Fixed |[Legacy] Pocono Raceway - 2009 |Mon, March 17 06:00PM EDT |Mon, March 17 10:00PM GMT |Tue, March 18 09:00AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 KERS DW12 LEGACY |South America |18 |2275 |Both | | | | |
 
 ### Dallara IR18
@@ -30,7 +30,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|----------------------|-------------------------|-------------------------|--------------------------|
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY SILVER |South America |36 |2147 |Both | | | | |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY GOLD |South America |22 |3290 |Both |Atlanta Motor Speedway |Sun, March 09 06:00PM EDT |Sun, March 09 10:00PM GMT |Mon, March 10 09:00AM AEDT |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY GOLD |South America |22 |3309 |Both | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar IR18 2025 T1 |South America |20 |2163 |Fixed |Atlanta Motor Speedway |Mon, March 10 06:00PM EDT |Mon, March 10 10:00PM GMT |Tue, March 11 09:00AM AEDT |
 
 ### Ray FF1600
@@ -116,7 +116,7 @@
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/1 |South America |31 |1535 | | | | | |
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/1 |South America |20 |2999 | | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC GT3 SERIES |South America |17 |2135 |Both |Mobility Resort Motegi |Mon, March 10 06:00PM EDT |Mon, March 10 10:00PM GMT |Tue, March 11 09:00AM AEDT |
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GT3 Challenge 2025 T1 |South America |16 |1519 |Fixed |Lime Rock Park |Sun, March 09 06:00PM EDT |Sun, March 09 10:00PM GMT |Mon, March 10 09:00AM AEDT |
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GT3 Challenge 2025 T1 |South America |16 |1552 |Fixed | | | | |
 
 ### Hosted All Cars Class
 

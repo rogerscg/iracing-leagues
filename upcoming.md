@@ -13,6 +13,14 @@
 |-----------------------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |SARL ARCA SERIES |Both |Daytona International Speedway |Tue, March 11 07:45PM EDT |Tue, March 11 11:45PM GMT |Wed, March 12 10:45AM AEDT |
 
+### Gen 4 Cup
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|-----------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[LongShot Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=3563){:target="_blank"} |Test Season | |Daytona International Speedway |Fri, March 14 08:30PM EDT |Sat, March 15 12:30AM GMT |Sat, March 15 11:30AM AEDT |
+
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
@@ -63,14 +71,6 @@
 
 # Oval
 
-### Dirt Mini Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
-|[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |Les Coureurs du Dimanche \- Saison 2 : Mini\-Stock Dirt |Fixed |Lanier National Speedway |Sun, March 09 08:00PM EDT |Mon, March 10 12:00AM GMT |Mon, March 10 11:00AM AEDT |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -92,17 +92,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|---------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[Realish Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12287){:target="_blank"} |Realish Racing iLegends Cup | |Tsukuba Circuit |Sun, March 09 03:00PM EDT |Sun, March 09 07:00PM GMT |Mon, March 10 06:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------|--------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Legend Gang League | |South Boston Speedway |Sun, March 16 07:00PM EDT |Sun, March 16 11:00PM GMT |Mon, March 17 10:00AM AEDT |
+|[NASA Rocky Mountain](https://members.iracing.com/membersite/member/LeagueView.do?league=3759){:target="_blank"} |2025 NASA RM Spring League | |South Boston Speedway |Wed, March 12 08:30PM EDT |Thu, March 13 12:30AM GMT |Thu, March 13 11:30AM AEDT |
 
 ### Street Stocks
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |TVR Street Stock Season2 |Fixed |Charlotte Motor Speedway |Wed, March 12 08:00PM EDT |Thu, March 13 12:00AM GMT |Thu, March 13 11:00AM AEDT |
+|[Australian Road Street\-Stock Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6944){:target="_blank"} |ARSS TEST AND TUNE SESSIONS |Open |Circuit Zolder |Mon, March 10 04:00AM EDT |Mon, March 10 08:00AM GMT |Mon, March 10 07:00PM AEDT |
 
 # Open-wheel
 
@@ -111,18 +112,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
-|[Simufur](https://members.iracing.com/membersite/member/LeagueView.do?league=8219){:target="_blank"} |Simufur Formula 4 Championship | |Circuito de Navarra |Sun, March 09 03:00PM EDT |Sun, March 09 07:00PM GMT |Mon, March 10 06:00AM AEDT |
+|------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
 |[F1BC Formula 4](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |Formula 4 2025/2 | |Hockenheimring Baden-Württemberg |Wed, March 12 07:25PM EDT |Wed, March 12 11:25PM GMT |Thu, March 13 10:25AM AEDT |
 |[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |ProLine Esports SimRacing F4's | |Sebring International Raceway |Fri, March 14 04:29AM EDT |Fri, March 14 08:29AM GMT |Fri, March 14 07:29PM AEDT |
-
-### Ray FF1600
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|--------------|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[ORNL\.nl Zondag](https://members.iracing.com/membersite/member/LeagueView.do?league=6769){:target="_blank"} |Ray ff1600 Cup | |Summit Point Raceway |Sun, March 09 03:00PM EDT |Sun, March 09 07:00PM GMT |Mon, March 10 06:00AM AEDT |
+|[Desert Fox Racing \- Festival of Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=12327){:target="_blank"} |Festival of Speed | |Okayama International Circuit |Tue, March 11 01:00PM EDT |Tue, March 11 05:00PM GMT |Wed, March 12 04:00AM AEDT |
+|[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |2025 A\-Finale Formel NM | |Hockenheimring Baden-Württemberg |Sun, March 16 02:55PM EDT |Sun, March 16 06:55PM GMT |Mon, March 17 05:55AM AEDT |
+|[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |2025 B\-Finale Formel NM | |Hockenheimring Baden-Württemberg |Sun, March 16 01:50PM EDT |Sun, March 16 05:50PM GMT |Mon, March 17 04:50AM AEDT |
 
 # Sports Car
 
@@ -151,14 +146,24 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|------------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[Bennetton Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12272){:target="_blank"} |Porsche Cup North America 2025 |Fixed |Sebring International Raceway |Thu, March 13 10:30PM EDT |Fri, March 14 02:30AM GMT |Fri, March 14 01:30PM AEDT |
+|[F1BC 992 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |992 Cup 2025/2 | |Rudskogen Motorsenter |Mon, March 17 07:25PM EDT |Mon, March 17 11:25PM GMT |Tue, March 18 10:25AM AEDT |
+
+### Touring Car
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------|------|-----|-------------------------|-------------------------|-------------------------|--------------------------|
+|[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC14 |Open |Circuit Gilles Villeneuve |Mon, March 17 07:00PM EDT |Mon, March 17 11:00PM GMT |Tue, March 18 10:00AM AEDT |
 
 ### Toyota GR86
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------|---------------------|-----|------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------|---------------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Toyota GR86 Cup |Open |Snetterton Circuit |Mon, March 10 01:00PM EDT |Mon, March 10 05:00PM GMT |Tue, March 11 04:00AM AEDT |
+|[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2025/2 | |Mount Panorama Circuit |Mon, March 17 05:25PM EDT |Mon, March 17 09:25PM GMT |Tue, March 18 08:25AM AEDT |
 
 # Prototype
 
@@ -169,14 +174,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------|------|-----|-----------------|-------------------------|-------------------------|--------------------------|
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |Fixed |Oran Park Raceway |Thu, March 13 07:30PM EDT |Thu, March 13 11:30PM GMT |Fri, March 14 10:30AM AEDT |
-
-### Radical SR10
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
-|[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 | |Nürburgring Nordschleife |Sun, March 09 07:30PM EDT |Sun, March 09 11:30PM GMT |Mon, March 10 10:30AM AEDT |
 
 # Road
 
@@ -223,14 +220,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
 |[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing Summer Cup 2025 \- ELITE |Fixed |Sebring International Raceway |Mon, March 10 09:30PM EDT |Tue, March 11 01:30AM GMT |Tue, March 11 12:30PM AEDT |
 |[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing Summer Cup 2025 \- PREMIERE |Fixed |Sebring International Raceway |Mon, March 10 08:00PM EDT |Tue, March 11 12:00AM GMT |Tue, March 11 11:00AM AEDT |
 |[NARL GT3 Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7824){:target="_blank"} |NARL GT3 Fixed Season 7 |Fixed |Virginia International Raceway |Thu, March 13 07:30PM EDT |Thu, March 13 11:30PM GMT |Fri, March 14 10:30AM AEDT |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Sunday Road Series 25s2 \- GT3's |Fixed |Long Beach Street Circuit |Sun, March 09 07:30PM EDT |Sun, March 09 11:30PM GMT |Mon, March 10 10:30AM AEDT |
 |[EMS GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11516){:target="_blank"} |PREQ GT3 | |Circuito de Navarra |Fri, March 14 03:30PM EDT |Fri, March 14 07:30PM GMT |Sat, March 15 06:30AM AEDT |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |GT3 Presented by FTR |Fixed |Road America |Thu, March 13 07:30PM EDT |Thu, March 13 11:30PM GMT |Fri, March 14 10:30AM AEDT |
 |[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |ProLine Esports SimRacing GT3  | |Autodromo Internazionale Enzo e Dino Ferrari |Wed, March 12 04:29AM EDT |Wed, March 12 08:29AM GMT |Wed, March 12 07:29PM AEDT |
+|[RW Racing Monday night GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12305){:target="_blank"} |RW Racing's GT3 Sprint Series Season 1 |Open |Canadian Tire Motorsports Park |Mon, March 17 09:30PM EDT |Tue, March 18 01:30AM GMT |Tue, March 18 12:30PM AEDT |
+|[PROCUP MECANO GANADERO/ SIMRACER LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8652){:target="_blank"} |Prácticas libres | |Okayama International Circuit |Mon, March 10 09:00PM EDT |Tue, March 11 01:00AM GMT |Tue, March 11 12:00PM AEDT |
 
 ### Hosted All Cars Class
 

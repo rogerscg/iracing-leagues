@@ -8,7 +8,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Official Practice |North America |77 |None | | | | | |
 |[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Pit Party |North America |68 |None | | | | | |
 |[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 10 |North America |61 |2141 |Fixed |Fuji International Speedway |Wed, March 12 08:30PM EDT |Thu, March 13 12:30AM GMT |Thu, March 13 11:30AM AEDT |
@@ -41,6 +41,7 @@
 |[SAUSAGE DODGERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11908){:target="_blank"} |BMW M2 BRITISH TOUR |Europe |22 |1651 |Open | | | | |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |BMW Piston Cup |North America |22 |1276 |Fixed | | | | |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN M2 Cup |Europe |22 |2100 | |Donington Park Racing Circuit |Fri, March 14 04:58PM EDT |Fri, March 14 08:58PM GMT |Sat, March 15 07:58AM AEDT |
+|[Black Ribbon Simulations \- BMW M2 Africa Festival](https://members.iracing.com/membersite/member/LeagueView.do?league=12320){:target="_blank"} |Africa Festival Race |Africa |22 |1860 |Both | | | | |
 |[CASS \- Can\-Am SimSport](https://members.iracing.com/membersite/member/LeagueView.do?league=8433){:target="_blank"} |CASS M2 Cup |North America |21 |1977 |Open | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Nugget cup 2\.0 |Australia-NZ |21 |1397 |Fixed |Circuit de Nevers Magny-Cours |Thu, March 13 04:30AM EDT |Thu, March 13 08:30AM GMT |Thu, March 13 07:30PM AEDT |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |ILAKA\-IIL M2 CUP 2025 PRO |International |21 |2152 | |Tsukuba Circuit |Mon, March 10 02:30PM EDT |Mon, March 10 06:30PM GMT |Tue, March 11 05:30AM AEDT |
@@ -52,7 +53,7 @@
 |[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Official Practice \(CORRECT CONDITIONS\) |North America |18 |None | | | | | |
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |M2 Cup 2025/1 |South America |16 |1924 | | | | | |
 |[TPRT \- Roast Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=12137){:target="_blank"} |Roast Nights S1 |North America |16 |2905 | | | | | |
-|[CRS Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11796){:target="_blank"} |M2 CS Championship |Europe |16 |1343 | |Rudskogen Motorsenter |Sun, March 09 04:10PM EDT |Sun, March 09 08:10PM GMT |Mon, March 10 07:10AM AEDT |
+|[CRS Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11796){:target="_blank"} |M2 CS Championship |Europe |16 |1345 | |Charlotte Motor Speedway |Sun, March 16 04:10PM EDT |Sun, March 16 08:10PM GMT |Mon, March 17 07:10AM AEDT |
 |[ApexOne NJ Members\-Only League: Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11993){:target="_blank"} |League One |North America |15 |1282 | | | | | |
 |[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |Monday M2 Series |North America |12 |1332 | | | | | |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- BMW M2 Cup Series |North America |11 |1091 |Open |Barber Motorsports Park |Wed, January 22 03:00PM EST |Wed, January 22 08:00PM GMT |Thu, January 23 07:00AM AEDT |
@@ -81,24 +82,23 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------|-------|----|-----|---------------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-----------------------------------|-------------------------|-------------------------|--------------------------|
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Pre\-Qualifying |North America |131 |None |Open | | | | |
 |[Logitech G V8PRO Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8323){:target="_blank"} |2025 V8PRO PRE\-QUALIFYING |North America |96 |None | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A V8SC Dev Series \- Trophi\.AI |Australia-NZ |67 |1618 |Both | | | | |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |MCV8 \- GOLD Split \- Season 1 |Australia-NZ |61 |2498 |Fixed | | | | |
-|[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025A V8SC Elite Series \- Trophi\.AI |Australia-NZ |49 |2558 | |Oran Park Raceway |Wed, March 12 04:40AM EDT |Wed, March 12 08:40AM GMT |Wed, March 12 07:40PM AEDT |
+|[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025A V8SC Elite Series \- Trophi\.AI |Australia-NZ |49 |2558 | |Circuit Gilles Villeneuve |Wed, March 12 04:40AM EDT |Wed, March 12 08:40AM GMT |Wed, March 12 07:40PM AEDT |
 |[Simability V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=713){:target="_blank"} |Season 16 \(Simability\) |Europe |46 |3135 |Open |Circuit Gilles Villeneuve |Sat, March 15 02:00PM EDT |Sat, March 15 06:00PM GMT |Sun, March 16 05:00AM AEDT |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR V8 Champions Challenge S1 2025 |Australia-NZ |40 |1201 | | | | | |
+|[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025A |Australia-NZ |39 |1857 |Fixed | | | | |
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 1 |Australia-NZ |39 |1763 | |Silverstone Circuit |Mon, March 10 07:30AM EDT |Mon, March 10 11:30AM GMT |Mon, March 10 10:30PM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Supercars Gen  3 Season 1 |Australia-NZ |37 |1195 | | | | | |
-|[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025A |Australia-NZ |36 |1838 |Fixed |iRacing Superspeedway |Sun, March 09 05:00AM EDT |Sun, March 09 09:00AM GMT |Sun, March 09 08:00PM AEDT |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |MCV8 \- SILVER Split \- Season 1 |Australia-NZ |28 |1555 |Fixed | | | | |
 |[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |Australia-NZ |22 |1660 |Both | | | | |
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 3 |Australia-NZ |22 |2444 |Open | | | | |
 |[N/A](https://members.iracing.com/membersite/member/LeagueView.do?league=11244){:target="_blank"} |2025 Summer Season |Australia-NZ |21 |1747 |Fixed | | | | |
 |[VRR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6057){:target="_blank"} |Marathon GT World Tour Season 1 |North America |20 |1844 |Fixed | | | | |
-|[SMGR V8 SUPER CAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10795){:target="_blank"} |Smokey Mountain V8 Supercar Series S3 |North America |18 |2131 | | | | | |
-|[CiL Collegiate Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |Aussie Supercars Thunder Down Under, Winter 2024\-2025 |North America |15 |2172 | | | | | |
+|[SMGR V8 SUPER CAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10795){:target="_blank"} |Smokey Mountain V8 Supercar Series S3 |North America |18 |2131 | |Sandown International Motor Raceway |Sat, March 15 08:00AM EDT |Sat, March 15 12:00PM GMT |Sat, March 15 11:00PM AEDT |
 |[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |Test 'n' Tune Sessions |Australia-NZ |15 |1786 |Fixed | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |European V8s |Europe |14 |1915 | | | | | |
 |[GT Meister Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10095){:target="_blank"} |GTMR V8 Supercars |North America |12 |1994 |Both |Indianapolis Motor Speedway |Fri, March 14 10:00PM EDT |Sat, March 15 02:00AM GMT |Sat, March 15 01:00PM AEDT |
