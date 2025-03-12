@@ -19,6 +19,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------|-------------------------------|--------|-------|----|-----|------------------|-------------------------|-------------------------|--------------------------|
-|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏁 Races |Africa |17 |1743 | | | | | |
-|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏳️ Free Practice |Africa |17 |1698 | |Snetterton Circuit |Mon, March 10 02:00PM EDT |Mon, March 10 06:00PM GMT |Tue, March 11 05:00AM AEDT |
+|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏳️ Free Practice |Africa |18 |1747 | | | | | |
+|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏁 Races |Africa |17 |1743 | |Snetterton Circuit |Wed, March 12 02:00PM EDT |Wed, March 12 06:00PM GMT |Thu, March 13 05:00AM AEDT |
 
