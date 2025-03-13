@@ -3,13 +3,9 @@
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[ai testing grounds](https://members.iracing.com/membersite/member/LeagueView.do?league=12276){:target="_blank"} | |ai racing only |
-|[Bennetton Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12272){:target="_blank"} |[Discord](https://discord.gg/RCFHUvA){:target="_blank"} | |
 |[BRAV0 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12277){:target="_blank"} | |Sports Car Road Racing League |
-|[D5W Open Pro Late Model League](https://members.iracing.com/membersite/member/LeagueView.do?league=12273){:target="_blank"} | | |
-|[DaddyDesklamp](https://members.iracing.com/membersite/member/LeagueView.do?league=12271){:target="_blank"} | |AI League |
 |[Redneck racin](https://members.iracing.com/membersite/member/LeagueView.do?league=12274){:target="_blank"} | |class c and higher for open sets |
 |[the gen 4 pro](https://members.iracing.com/membersite/member/LeagueView.do?league=12275){:target="_blank"} | |gen 4 at short and big tracks |
-|[The League Of Extraordinary SimDentists](https://members.iracing.com/membersite/member/LeagueView.do?league=12270){:target="_blank"} | |Join your fellow dentists as we keep our teeth and gums healthy on the racetrack\. |
 |[Endurance Intercontinental Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12278){:target="_blank"} | |Liga de Endurance Intercontinental con transmisiones en vivo\. |
 |[48g435rijnb5340g59](https://members.iracing.com/membersite/member/LeagueView.do?league=12280){:target="_blank"} | | |
 |[PumaPants Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12279){:target="_blank"} | |A league where we race Super Formula Lights and have good times with each other \*wink |
@@ -75,4 +71,10 @@
 |[Mach 10 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12339){:target="_blank"} |[Discord](https://discord.gg/V3tGpcswcZ){:target="_blank"} |Money Madness Racing and events |
 |[R&B Car Company Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=12337){:target="_blank"} | |Multi Car league with a discord\! We will send a invite if accepted to join to keep up to date with scheduling and points\. Please read all rules within the discord and announcements as well\! |
 |[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=12340){:target="_blank"} | |Racing league for the buddies Thursday Night racing |
+|[Beam Motorsports Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12347){:target="_blank"} | | |
+|[Formula Hybrid and Electric](https://members.iracing.com/membersite/member/LeagueView.do?league=12345){:target="_blank"} | |Sponsored by McLaren Applied |
+|[Next Gen Beginners](https://members.iracing.com/membersite/member/LeagueView.do?league=12348){:target="_blank"} | | |
+|[Screaming Eagles](https://members.iracing.com/membersite/member/LeagueView.do?league=12346){:target="_blank"} | |Arca Series |
+|[SouthEastBeerMoneyLeague](https://members.iracing.com/membersite/member/LeagueView.do?league=12343){:target="_blank"} | |Have Fun//Clean//NoToxic |
+|[Yancey Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12344){:target="_blank"} | |For YMS drivers to practice and play\. |
 
