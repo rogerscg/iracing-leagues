@@ -11,7 +11,7 @@
 |---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
 |[Beat the PRO Challenge presented by AVL RACETECH](https://members.iracing.com/membersite/member/LeagueView.do?league=9055){:target="_blank"} |Beat the PRO Challenge 2025 |Europe |50 |3158 | | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |LMP2 Series Season 1 |North America |20 |1943 |Fixed |Sebring International Raceway |Wed, March 19 08:45PM EDT |Thu, March 20 12:45AM GMT |Thu, March 20 11:45AM AEDT |
-|[BitePoint Racing\-\-LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |Pre\-season |North America |11 |1306 | |Autodromo Internazionale del Mugello |Fri, March 14 09:00PM EDT |Sat, March 15 01:00AM GMT |Sat, March 15 12:00PM AEDT |
+|[BitePoint Racing\-\-LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |Pre\-season |North America |11 |1306 |Open |Autodromo Internazionale del Mugello |Fri, March 14 09:00PM EDT |Sat, March 15 01:00AM GMT |Sat, March 15 12:00PM AEDT |
 
 ### GTP
 
@@ -74,8 +74,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|----------------------|-------------------------|-------------------------|--------------------------|
-|[Dinner with Racers' Thursday Night Blunder](https://members.iracing.com/membersite/member/LeagueView.do?league=3320){:target="_blank"} |Thursday Night Blunder 2025 |North America |16 |1268 |Both |Bristol Motor Speedway |Thu, March 13 07:00PM EDT |Thu, March 13 11:00PM GMT |Fri, March 14 10:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|---------------------|-------------------------|-------------------------|--------------------------|
+|[Dinner with Racers' Thursday Night Blunder](https://members.iracing.com/membersite/member/LeagueView.do?league=3320){:target="_blank"} |Thursday Night Blunder 2025 |North America |16 |1238 |Both |Martinsville Speedway |Thu, March 20 07:00PM EDT |Thu, March 20 11:00PM GMT |Fri, March 21 10:00AM AEDT |
 
 ### Spec Racer Ford
 
