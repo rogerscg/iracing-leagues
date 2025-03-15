@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Endurance Intercontinental Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12278){:target="_blank"} | |Liga de Endurance Intercontinental con transmisiones en vivo\. |
-|[48g435rijnb5340g59](https://members.iracing.com/membersite/member/LeagueView.do?league=12280){:target="_blank"} | | |
-|[PumaPants Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12279){:target="_blank"} | |A league where we race Super Formula Lights and have good times with each other \*wink |
 |[183rd Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12283){:target="_blank"} | |Oval racing league created for members of the 183rd discord and friends\. |
 |[FR8 Racing & Speed\-U \- Race for a Ride](https://members.iracing.com/membersite/member/LeagueView.do?league=12281){:target="_blank"} | |Fr8Racing “Race for a Ride” Youth Advancement Competition where the ultimate champion wins a funded Legend car race at Atlanta Motor Speedway\! |
 |[Rummel Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12282){:target="_blank"} | | |
@@ -81,5 +78,13 @@
 |[SoBo Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=12356){:target="_blank"} | |Rotating race week of late model stock cars and legends |
 |[super speedway](https://members.iracing.com/membersite/member/LeagueView.do?league=12354){:target="_blank"} | |all ssw |
 |[Thursday International Tin Top Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12351){:target="_blank"} | |Aimed at Novice and Intermediate Drivers who want regular, longer races\. |
-|[Von Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12357){:target="_blank"} | |\# No Drama \# Respect Other Drivers |
+|[Von Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=12357){:target="_blank"} | |\# No Drama \# Respect Other Drivers |
+|[\#0 Clean Racing League Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12364){:target="_blank"} | |The CRL Arca Series is a competitive, fixed setup league racing weekly\. |
+|[Crowleys Ridge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12365){:target="_blank"} |[Discord](https://discord.gg/CcFmxyN7){:target="_blank"} |https://discord\.gg/CcFmxyN7 |
+|[Pink Cowboys](https://members.iracing.com/membersite/member/LeagueView.do?league=12360){:target="_blank"} | | |
+|[Sim Gaming Expo Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12362){:target="_blank"} |[Discord](https://discord.gg/BtwTEjMZ6n){:target="_blank"} |The sim Gaming Expo Truck Series is ran and organized by Premier Sim Racing \(acting under Regan Bogue Motorsports, a registered Limited Liability Corporation \(LLC\), operating under the state laws of The Commonwealth of Massachusetts and the federal laws governed by The United States of America\)\. |
+|[Tucker Memorial](https://members.iracing.com/membersite/member/LeagueView.do?league=12363){:target="_blank"} | | |
+|[W\.O\.O\.L](https://members.iracing.com/membersite/member/LeagueView.do?league=12361){:target="_blank"} |[Discord](https://discord.gg/EDywtScShE){:target="_blank"} |Wide Open Racing League |
+|[HOC Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12358){:target="_blank"} | | |
+|[Pro'ish Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12359){:target="_blank"} | |A league for the members of the Pro'ish Gamers Discord |
 
