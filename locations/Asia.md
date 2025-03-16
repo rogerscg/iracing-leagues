@@ -26,6 +26,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------|--------|-------|----|-----|-------------------|-------------------------|-------------------------|--------------------------|
-|[ASRC iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |Season 2 |Asia |18 |2096 |Both |Circuito de Navarra |Sat, March 15 04:00PM EDT |Sat, March 15 08:00PM GMT |Sun, March 16 07:00AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------|--------|--------|-------|----|-----|-------------|--------|------|------|
+|[ASRC iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |Season 2 |Asia |19 |2193 |Both | | | | |
 

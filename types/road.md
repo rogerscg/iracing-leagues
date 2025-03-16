@@ -75,8 +75,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|----------------------|-------------------------|-------------------------|--------------------------|
-|[Racers Elite \- Saturday SRX Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10305){:target="_blank"} |Racers Elite \- SRX Fixed Series \(Season 1\) |North America |13 |2010 |Fixed |Hickory Motor Speedway |Sat, March 15 07:05PM EDT |Sat, March 15 11:05PM GMT |Sun, March 16 10:05AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------------|-------|----|-----|----------------|-------------------------|-------------------------|--------------------------|
+|[Racers Elite \- Saturday SRX Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10305){:target="_blank"} |Racers Elite \- SRX Fixed Series \(Season 1\) |North America |13 |2010 |Fixed |Concord Speedway |Sat, March 22 07:05PM EDT |Sat, March 22 11:05PM GMT |Sun, March 23 10:05AM AEDT |
 
 ### Supercars Gen 3
 
@@ -89,17 +89,17 @@
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A V8SC Dev Series \- Trophi\.AI |Australia-NZ |67 |1618 |Both | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025A V8SC Elite Series \- Trophi\.AI |Australia-NZ |63 |2522 | |Sandown International Motor Raceway |Wed, March 19 04:15AM EDT |Wed, March 19 08:15AM GMT |Wed, March 19 07:15PM AEDT |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |MCV8 \- GOLD Split \- Season 1 |Australia-NZ |61 |2498 |Fixed | | | | |
-|[Simability V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=713){:target="_blank"} |Season 16 \(Simability\) |Europe |46 |3135 |Open |Circuit Gilles Villeneuve |Sat, March 15 02:00PM EDT |Sat, March 15 06:00PM GMT |Sun, March 16 05:00AM AEDT |
+|[Simability V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=713){:target="_blank"} |Season 16 \(Simability\) |Europe |46 |3120 |Open | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR V8 Champions Challenge S1 2025 |Australia-NZ |40 |1205 | | | | | |
 |[OzOval V8SC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025A |Australia-NZ |39 |1857 |Fixed |Kentucky Speedway |Sun, March 16 05:00AM EDT |Sun, March 16 09:00AM GMT |Sun, March 16 08:00PM AEDT |
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 1 |Australia-NZ |39 |1818 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Supercars Gen  3 Season 1 |Australia-NZ |37 |1195 | | | | | |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |MCV8 \- SILVER Split \- Season 1 |Australia-NZ |28 |1555 |Fixed | | | | |
+|[VRR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6057){:target="_blank"} |Marathon GT World Tour Season 1 |North America |24 |1904 |Fixed |WeatherTech Raceway at Laguna Seca |Sat, March 22 01:30PM EDT |Sat, March 22 05:30PM GMT |Sun, March 23 04:30AM AEDT |
 |[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |Australia-NZ |22 |1660 |Both | | | | |
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 3 |Australia-NZ |22 |2444 |Open | | | | |
 |[N/A](https://members.iracing.com/membersite/member/LeagueView.do?league=11244){:target="_blank"} |2025 Summer Season |Australia-NZ |21 |1747 |Fixed | | | | |
-|[VRR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6057){:target="_blank"} |Marathon GT World Tour Season 1 |North America |20 |1844 |Fixed |Long Beach Street Circuit |Sat, March 15 01:30PM EDT |Sat, March 15 05:30PM GMT |Sun, March 16 04:30AM AEDT |
-|[SMGR V8 SUPER CAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10795){:target="_blank"} |Smokey Mountain V8 Supercar Series S3 |North America |18 |2131 | |Sandown International Motor Raceway |Sat, March 15 08:00AM EDT |Sat, March 15 12:00PM GMT |Sat, March 15 11:00PM AEDT |
+|[SMGR V8 SUPER CAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10795){:target="_blank"} |Smokey Mountain V8 Supercar Series S3 |North America |18 |2181 | | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |European V8s |Europe |14 |1915 | | | | | |
 |[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |Southern Cross Supercars Sim Racing Season 1 |Australia-NZ |13 |1387 | |Sandown International Motor Raceway |Mon, March 17 04:30AM EDT |Mon, March 17 08:30AM GMT |Mon, March 17 07:30PM AEDT |
 |[GT Meister Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10095){:target="_blank"} |GTMR V8 Supercars |North America |12 |1994 |Both | | | | |

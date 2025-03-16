@@ -30,7 +30,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |Europe |45 |3271 | | | | | |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |Europe |45 |3271 | |Sebring International Raceway |Sun, March 23 02:00PM EDT |Sun, March 23 06:00PM GMT |Mon, March 24 05:00AM AEDT |
 |[SRB LEAGUES \- SUPER FORMULA SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |RADICAL SUNDAYS |Europe |28 |1886 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PROTOTYPE 2025\.1 |South America |17 |1531 |Both |Circuit des 24 Heures du Mans |Tue, March 18 08:15PM EDT |Wed, March 19 12:15AM GMT |Wed, March 19 11:15AM AEDT |
 

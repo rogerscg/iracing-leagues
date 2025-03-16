@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[183rd Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12283){:target="_blank"} | |Oval racing league created for members of the 183rd discord and friends\. |
-|[FR8 Racing & Speed\-U \- Race for a Ride](https://members.iracing.com/membersite/member/LeagueView.do?league=12281){:target="_blank"} | |Fr8Racing “Race for a Ride” Youth Advancement Competition where the ultimate champion wins a funded Legend car race at Atlanta Motor Speedway\! |
-|[Rummel Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12282){:target="_blank"} | | |
-|[Undisputed Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12284){:target="_blank"} | | |
 |[Bolt Racing League: Lightning Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12291){:target="_blank"} | |Oval |
 |[Danger Zone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12289){:target="_blank"} |[Discord](https://discord.gg/uqBgUhmXBc){:target="_blank"} |DZRL is a NASCAR League thats just starting up\. Join our Discord for more information\. https://discord\.gg/uqBgUhmXBc |
 |[DriverTees\.com UERA Stock Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12292){:target="_blank"} | |Eight week ARCA league on Tuesday nights, broadcasted live on V Speed\. |
@@ -78,7 +74,7 @@
 |[SoBo Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=12356){:target="_blank"} | |Rotating race week of late model stock cars and legends |
 |[super speedway](https://members.iracing.com/membersite/member/LeagueView.do?league=12354){:target="_blank"} | |all ssw |
 |[Thursday International Tin Top Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12351){:target="_blank"} | |Aimed at Novice and Intermediate Drivers who want regular, longer races\. |
-|[Von Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=12357){:target="_blank"} | |\# No Drama \# Respect Other Drivers |
+|[Von Excavating Xfinity Leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=12357){:target="_blank"} | |\# No Drama \# Respect Other Drivers |
 |[\#0 Clean Racing League Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12364){:target="_blank"} | |The CRL Arca Series is a competitive, fixed setup league racing weekly\. |
 |[Crowleys Ridge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12365){:target="_blank"} |[Discord](https://discord.gg/CcFmxyN7){:target="_blank"} |https://discord\.gg/CcFmxyN7 |
 |[Pink Cowboys](https://members.iracing.com/membersite/member/LeagueView.do?league=12360){:target="_blank"} | | |
@@ -87,4 +83,8 @@
 |[W\.O\.O\.L](https://members.iracing.com/membersite/member/LeagueView.do?league=12361){:target="_blank"} |[Discord](https://discord.gg/EDywtScShE){:target="_blank"} |Wide Open Racing League |
 |[HOC Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12358){:target="_blank"} | | |
 |[Pro'ish Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12359){:target="_blank"} | |A league for the members of the Pro'ish Gamers Discord |
+|[Arca Brakes Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12367){:target="_blank"} | |For fun Arca Series on dirt and asphalt |
+|[Wednesday Night GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=12368){:target="_blank"} |[Discord](https://discord.gg/RCFHUvA){:target="_blank"} |Bi\-weekly Wednesday Night @7:30pm PST https://discord\.gg/RCFHUvA |
+|[Adrenaline iSim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12369){:target="_blank"} | |2025 Racing League |
+|[Gurus On The Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=12366){:target="_blank"} | |Nascar Cup Series |
 
