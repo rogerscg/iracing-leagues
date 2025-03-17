@@ -8,8 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Beetle Lite Fun Cup \- 2025 |North America |18 |2606 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Yes2Rallycross \- AWD \(2025\) |North America |15 |2309 |Fixed | | | | |
 
 ### Rallycross
 
@@ -38,6 +39,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[NASA Rallycross Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Futures 25A |North America |22 |2574 | | | | | |
-|[NASA Rallycross Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Lites 25A |North America |13 |5923 | | | | | |
+|[NASA Rallycross Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Futures 25A |North America |25 |2929 | | | | | |
+|[NASA Rallycross Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Lites 25A |North America |14 |5405 | | | | | |
 

@@ -1,17 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Bolt Racing League: Lightning Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12291){:target="_blank"} | |Oval |
-|[Danger Zone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12289){:target="_blank"} |[Discord](https://discord.gg/uqBgUhmXBc){:target="_blank"} |DZRL is a NASCAR League thats just starting up\. Join our Discord for more information\. https://discord\.gg/uqBgUhmXBc |
-|[DriverTees\.com UERA Stock Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12292){:target="_blank"} | |Eight week ARCA league on Tuesday nights, broadcasted live on V Speed\. |
-|[DVR Mazda MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12288){:target="_blank"} | | |
-|[H&N Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12293){:target="_blank"} |[Discord](https://discord.gg/ZNnJs79esR){:target="_blank"} |We are a brand new Iracing league looking for memebers |
-|[Mayhem Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12290){:target="_blank"} |[Discord](https://discord.gg/ANxZ6T6xpa){:target="_blank"} |Join us for some fun competitive racing |
-|[skidibi motersports](https://members.iracing.com/membersite/member/LeagueView.do?league=12286){:target="_blank"} | |fun racing crew and sigmas with aura |
-|[STARS Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12294){:target="_blank"} |[Discord](https://discord.com/invite/nnbGMPxkVs){:target="_blank"} |The STARS Cup Series is a Gen 6 Cup league that will run Thursdays or Fridays at 8pm EST starting May 7th\. No requirements\. You are free to run part time and start/join teams\. Please join the linked Discord\. |
-|[SW Studios Race Room](https://members.iracing.com/membersite/member/LeagueView.do?league=12285){:target="_blank"} | |Private Invite Only League |
-|[Realish Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12287){:target="_blank"} | |Realish iRacing League |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[95SSR](https://members.iracing.com/membersite/member/LeagueView.do?league=12299){:target="_blank"} | | |
 |[BrakeFast Club \[Special Events\]](https://members.iracing.com/membersite/member/LeagueView.do?league=12301){:target="_blank"} | |Go to tinyurl\.com/brakefastclub to join |
 |[DMSL](https://members.iracing.com/membersite/member/LeagueView.do?league=12296){:target="_blank"} | |Dirt mini stock League |
@@ -74,7 +64,7 @@
 |[SoBo Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=12356){:target="_blank"} | |Rotating race week of late model stock cars and legends |
 |[super speedway](https://members.iracing.com/membersite/member/LeagueView.do?league=12354){:target="_blank"} | |all ssw |
 |[Thursday International Tin Top Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12351){:target="_blank"} | |Aimed at Novice and Intermediate Drivers who want regular, longer races\. |
-|[Von Excavating Xfinity Leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=12357){:target="_blank"} | |\# No Drama \# Respect Other Drivers |
+|[Von Excavating Xfinity League](https://members.iracing.com/membersite/member/LeagueView.do?league=12357){:target="_blank"} | |\# No Drama \# Respect Other Drivers |
 |[\#0 Clean Racing League Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12364){:target="_blank"} | |The CRL Arca Series is a competitive, fixed setup league racing weekly\. |
 |[Crowleys Ridge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12365){:target="_blank"} |[Discord](https://discord.gg/CcFmxyN7){:target="_blank"} |https://discord\.gg/CcFmxyN7 |
 |[Pink Cowboys](https://members.iracing.com/membersite/member/LeagueView.do?league=12360){:target="_blank"} | | |
@@ -87,4 +77,13 @@
 |[Wednesday Night GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=12368){:target="_blank"} |[Discord](https://discord.gg/RCFHUvA){:target="_blank"} |Bi\-weekly Wednesday Night @7:30pm PST https://discord\.gg/RCFHUvA |
 |[Adrenaline iSim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12369){:target="_blank"} | |2025 Racing League |
 |[Gurus On The Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=12366){:target="_blank"} | |Nascar Cup Series |
+|[JOHNCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12378){:target="_blank"} |[Discord](https://discord.gg/Dw5th86U){:target="_blank"} |A spiritual successor to the defunct RODDCAR league |
+|[LIRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12371){:target="_blank"} |[Discord](https://discord.gg/W2f458BmfP){:target="_blank"} |Welcome to LIRL\! Applications are open\! |
+|[Middle Pack Racing \- Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=12377){:target="_blank"} |[Discord](https://discord.gg/FKhbm7WYn4){:target="_blank"} |Laid back endurance league for those of us who aren't aliens |
+|[Oddwhiz ARCA League](https://members.iracing.com/membersite/member/LeagueView.do?league=12372){:target="_blank"} | |Oddwhiz's ARCA League\! |
+|[RCR Rainy City Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12376){:target="_blank"} | |Team created for newer online drivers committed to clean and quick racing striving to develop and improve online racing skills\. |
+|[Rebel Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12374){:target="_blank"} | |Yes |
+|[SoR League](https://members.iracing.com/membersite/member/LeagueView.do?league=12370){:target="_blank"} |[Discord](https://discord.gg/xDyQvNa7Sf){:target="_blank"} |Soul of Racing League |
+|[StranoCar](https://members.iracing.com/membersite/member/LeagueView.do?league=12375){:target="_blank"} | | |
+|[Backfire Simsport TV](https://members.iracing.com/membersite/member/LeagueView.do?league=12373){:target="_blank"} | |TCR Racing\- Wednesday Evenings at 18:30 UK Time |
 

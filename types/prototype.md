@@ -21,7 +21,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-----------------|-------------------------|-------------------------|--------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A LeMans Hypercar Cup \- Spreyton Ciders |Australia-NZ |62 |2621 |Both |Road Atlanta |Fri, March 21 04:30AM EDT |Fri, March 21 08:30AM GMT |Fri, March 21 07:30PM AEDT |
 |[Simaholics Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11487){:target="_blank"} |GTP \- Season 1 |North America |24 |2048 |Both | | | | |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |20 |2128 |Both |Circuit Zandvoort |Sun, March 16 08:00PM EDT |Mon, March 17 12:00AM GMT |Mon, March 17 11:00AM AEDT |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |20 |2128 |Both |Circuit Zandvoort |Tue, March 18 08:00PM EDT |Wed, March 19 12:00AM GMT |Wed, March 19 11:00AM AEDT |
 |[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |North America |13 |None |Both | | | | |
 
 ### Hosted All Cars Class
@@ -62,7 +62,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |27 |1407 |Fixed |Summit Point Raceway |Sun, March 16 08:00PM EDT |Mon, March 17 12:00AM GMT |Mon, March 17 11:00AM AEDT |
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |28 |1406 |Fixed |Las Vegas Motor Speedway |Sun, March 23 08:00PM EDT |Mon, March 24 12:00AM GMT |Mon, March 24 11:00AM AEDT |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |SR8 \- WCR Season 12 |North America |26 |2246 |Open |Nürburgring Combined |Fri, March 07 09:20PM EST |Sat, March 08 02:20AM GMT |Sat, March 08 01:20PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |Europe |24 |2279 | |Circuit de Spa-Francorchamps |Mon, March 17 04:00PM EDT |Mon, March 17 08:00PM GMT |Tue, March 18 07:00AM AEDT |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- Tuesday night \- Radical SR8 |North America |22 |1073 |Open |Charlotte Motor Speedway |Tue, January 21 10:00PM EST |Wed, January 22 03:00AM GMT |Wed, January 22 02:00PM AEDT |

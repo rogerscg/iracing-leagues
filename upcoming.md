@@ -5,22 +5,6 @@
 
 # NASCAR
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[CFM Speedway Monkeys Presented by The ButtKicker](https://members.iracing.com/membersite/member/LeagueView.do?league=11400){:target="_blank"} |CFM Speedway Monkeys Season 2 |Fixed |Daytona International Speedway |Sun, March 16 08:30PM EDT |Mon, March 17 12:30AM GMT |Mon, March 17 11:30AM AEDT |
-
-### NASCAR 2022 NextGen
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Thunder Valley Next\-Gen Season 1 |Fixed |Daytona International Speedway |Sun, March 16 06:00PM EDT |Sun, March 16 10:00PM GMT |Mon, March 17 09:00AM AEDT |
-
 ### NASCAR Truck Series
 
 [Back to Top](#)  
@@ -38,17 +22,8 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[Monday Night Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=726){:target="_blank"} |Season 1 |Fixed |Daytona International Speedway |Mon, March 24 09:40PM EDT |Tue, March 25 01:40AM GMT |Tue, March 25 12:40PM AEDT |
 |[Hold Your Brakes Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11170){:target="_blank"} |HYBA season 2 Intermediates | |Daytona International Speedway |Mon, March 17 07:30PM EDT |Mon, March 17 11:30PM GMT |Tue, March 18 10:30AM AEDT |
-
-# Oval
-
-### Legends
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|----------------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
-|[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Legend Gang League | |USA International Speedway |Sun, March 16 07:00PM EDT |Sun, March 16 11:00PM GMT |Mon, March 17 10:00AM AEDT |
 
 # Open-wheel
 
@@ -60,8 +35,6 @@
 |-------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
 |[Sim Racers Group Wednesday Intermediate](https://members.iracing.com/membersite/member/LeagueView.do?league=11451){:target="_blank"} |2025 S2\- Asia/Aussie Series |Fixed |Suzuka International Racing Course |Wed, March 19 08:59PM EDT |Thu, March 20 12:59AM GMT |Thu, March 20 11:59AM AEDT |
 |[RPES Grand Prix Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11702){:target="_blank"} |2025 RPES Grand Prix Series | |Okayama International Circuit |Sun, March 23 02:00PM EDT |Sun, March 23 06:00PM GMT |Mon, March 24 05:00AM AEDT |
-|[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |2025 A\-Finale Formel NM | |Hockenheimring Baden-Württemberg |Sun, March 16 02:55PM EDT |Sun, March 16 06:55PM GMT |Mon, March 17 05:55AM AEDT |
-|[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |2025 B\-Finale Formel NM | |Hockenheimring Baden-Württemberg |Sun, March 16 01:50PM EDT |Sun, March 16 05:50PM GMT |Mon, March 17 04:50AM AEDT |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |F4 Sunday 2025\-S02 Spring |Fixed |Sebring International Raceway |Sun, March 23 11:00AM EDT |Sun, March 23 03:00PM GMT |Mon, March 24 02:00AM AEDT |
 
 ### Lotus 49
@@ -103,14 +76,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
 |[CAS \- Super Formula Lights Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10716){:target="_blank"} |CAS \- Super Formula Lights Cup 5th Season |Fixed |Suzuka International Racing Course |Wed, March 19 02:00PM EDT |Wed, March 19 06:00PM GMT |Thu, March 20 05:00AM AEDT |
+|[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR SFL |Open |Watkins Glen International |Tue, March 18 04:00PM EDT |Tue, March 18 08:00PM GMT |Wed, March 19 07:00AM AEDT |
 
 ### Super Formula SF23
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[Aspire Racing \- Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10615){:target="_blank"} |Aspire Racing \- Super Formula Championship | |Algarve International Circuit |Sun, March 16 03:00PM EDT |Sun, March 16 07:00PM GMT |Mon, March 17 06:00AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------|----------|-----|-------------|-------------------------|-------------------------|--------------------------|
 |[League Zero \- Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season XIV |Fixed |Red Bull Ring |Thu, March 20 08:00PM EDT |Fri, March 21 12:00AM GMT |Fri, March 21 11:00AM AEDT |
 
 # Sports Car
@@ -123,20 +96,13 @@
 |---------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 34 Sixty\+ Touring Car Challenge |Fixed |Portland International Raceway |Thu, March 20 04:00PM EDT |Thu, March 20 08:00PM GMT |Fri, March 21 07:00AM AEDT |
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[Sim Racing Syndicate by NCR](https://members.iracing.com/membersite/member/LeagueView.do?league=11356){:target="_blank"} |Sim Racing Syndicate GT4 Series \- S2 | |Winton Motor Raceway |Sun, March 16 05:30AM EDT |Sun, March 16 09:30AM GMT |Sun, March 16 08:30PM AEDT |
-
 ### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|--------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
+|[iRacing World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |IRWC VRS Porsche Carrera Cup Season 1 | |Hockenheimring Baden-Württemberg |Mon, March 24 03:30AM EDT |Mon, March 24 07:30AM GMT |Mon, March 24 06:30PM AEDT |
 |[F1BC 992 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |992 Cup 2025/2 | |Rudskogen Motorsenter |Mon, March 17 07:25PM EDT |Mon, March 17 11:25PM GMT |Tue, March 18 10:25AM AEDT |
 
 ### Touring Car
@@ -209,7 +175,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT GT3 2025\.2 |Both |Autódromo José Carlos Pace |Sun, March 16 07:30PM EDT |Sun, March 16 11:30PM GMT |Mon, March 17 10:30AM AEDT |
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/2 | |Red Bull Ring |Thu, March 20 07:10PM EDT |Thu, March 20 11:10PM GMT |Fri, March 21 10:10AM AEDT |
 |[GHD Ü40 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=9049){:target="_blank"} |GHD Ü40 CUP Saison 6 |Open |Red Bull Ring |Fri, March 21 02:00PM EDT |Fri, March 21 06:00PM GMT |Sat, March 22 05:00AM AEDT |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/2 | |Red Bull Ring |Thu, March 20 05:10PM EDT |Thu, March 20 09:10PM GMT |Fri, March 21 08:10AM AEDT |
@@ -223,7 +188,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Logitech G V8PRO Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8323){:target="_blank"} |2025 Logitech G V8PRO Invitational Series | |Sebring International Raceway |Wed, March 19 04:00AM EDT |Wed, March 19 08:00AM GMT |Wed, March 19 07:00PM AEDT |
-|[CRM \(Claret Racing Motorsport\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12250){:target="_blank"} |CRM Season 1 Mixed Series |Both |Circuito de Navarra |Sun, March 16 03:00PM EDT |Sun, March 16 07:00PM GMT |Mon, March 17 06:00AM AEDT |
 |[TRACKILICIOUS iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10794){:target="_blank"} |Thursday Multiclass Championship \- Spring \- Sponsored by CDA | |Sebring International Raceway |Thu, March 20 06:50PM EDT |Thu, March 20 10:50PM GMT |Fri, March 21 09:50AM AEDT |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |Liga Dentist Challenge |Both |Autodromo Nazionale Monza |Tue, March 18 03:00PM EDT |Tue, March 18 07:00PM GMT |Wed, March 19 06:00AM AEDT |
 |[Elbows Out Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9914){:target="_blank"} |Sportscar Clash // 2025 Season 2 |Open |Sebring International Raceway |Thu, March 20 08:00PM EDT |Fri, March 21 12:00AM GMT |Fri, March 21 11:00AM AEDT |
@@ -231,6 +195,5 @@
 |[ESR European GT Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11991){:target="_blank"} |European GT Championship Season 1 | |Sachsenring |Sun, March 23 02:30PM EDT |Sun, March 23 06:30PM GMT |Mon, March 24 05:30AM AEDT |
 |[The Apex Is Lava \(TAIL\) Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9033){:target="_blank"} |2025S2 \- Ring Runners Season 10 |Open |Nürburgring Nordschleife |Wed, March 19 08:00PM EDT |Thu, March 20 12:00AM GMT |Thu, March 20 11:00AM AEDT |
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |Season 5 | |Rudskogen Motorsenter |Fri, March 21 03:30PM EDT |Fri, March 21 07:30PM GMT |Sat, March 22 06:30AM AEDT |
-|[Farmen Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11807){:target="_blank"} |Treninger | |Nürburgring Combined |Sun, March 16 02:00PM EDT |Sun, March 16 06:00PM GMT |Mon, March 17 05:00AM AEDT |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |GT3/GT4 Sunday 2025S02 Spring |Fixed |Sebring International Raceway |Sun, March 23 01:00PM EDT |Sun, March 23 05:00PM GMT |Mon, March 24 04:00AM AEDT |
 
