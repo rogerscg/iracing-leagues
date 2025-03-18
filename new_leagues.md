@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[95SSR](https://members.iracing.com/membersite/member/LeagueView.do?league=12299){:target="_blank"} | | |
-|[BrakeFast Club \[Special Events\]](https://members.iracing.com/membersite/member/LeagueView.do?league=12301){:target="_blank"} | |Go to tinyurl\.com/brakefastclub to join |
-|[DMSL](https://members.iracing.com/membersite/member/LeagueView.do?league=12296){:target="_blank"} | |Dirt mini stock League |
-|[NoCO Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=12298){:target="_blank"} | |A league geared towards newer drivers who are interested in oval and road racing\. |
-|[Screen To Speed 2025 Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12295){:target="_blank"} | |Screen to Speed is a thrilling and action\-packed women\-only racing series on iRacing that bridges the gap between virtual and real\-world motorsports\. With each Special Event, Screen to Speed challenges sim racers to push their skills to the limit, delivering high\-speed excitement and fierce competition on a variety of dynamic tracks and in diverse cars\. Whether you're a novice eager to prove yourself or an experienced racer seeking to sharpen your edge, Screen to Speed offers the perfect platform to showcase your talent\. |
-|[colesteven](https://members.iracing.com/membersite/member/LeagueView.do?league=12300){:target="_blank"} | | |
-|[US High School Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12297){:target="_blank"} |[Discord](https://discord.gg/AC9RzMEY){:target="_blank"} |Practice |
 |[Bristol Dash](https://members.iracing.com/membersite/member/LeagueView.do?league=12304){:target="_blank"} | |Bristol Ten Lap Truck Dash |
 |[Deadly Injection Equalizer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12302){:target="_blank"} | | |
 |[FSSR World Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12303){:target="_blank"} | | |
@@ -70,7 +63,7 @@
 |[Pink Cowboys](https://members.iracing.com/membersite/member/LeagueView.do?league=12360){:target="_blank"} | | |
 |[Sim Gaming Expo Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12362){:target="_blank"} |[Discord](https://discord.gg/BtwTEjMZ6n){:target="_blank"} |The sim Gaming Expo Truck Series is ran and organized by Premier Sim Racing \(acting under Regan Bogue Motorsports, a registered Limited Liability Corporation \(LLC\), operating under the state laws of The Commonwealth of Massachusetts and the federal laws governed by The United States of America\)\. |
 |[Tucker Memorial](https://members.iracing.com/membersite/member/LeagueView.do?league=12363){:target="_blank"} | | |
-|[W\.O\.O\.L](https://members.iracing.com/membersite/member/LeagueView.do?league=12361){:target="_blank"} |[Discord](https://discord.gg/EDywtScShE){:target="_blank"} |Wide Open Racing League |
+|[W\.O\.O\.L Wide Open Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=12361){:target="_blank"} |[Discord](https://discord.gg/EDywtScShE){:target="_blank"} |Wide Open Oval League |
 |[HOC Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12358){:target="_blank"} | | |
 |[Pro'ish Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12359){:target="_blank"} | |A league for the members of the Pro'ish Gamers Discord |
 |[Arca Brakes Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12367){:target="_blank"} | |For fun Arca Series on dirt and asphalt |
@@ -85,5 +78,10 @@
 |[Rebel Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12374){:target="_blank"} | |Yes |
 |[SoR League](https://members.iracing.com/membersite/member/LeagueView.do?league=12370){:target="_blank"} |[Discord](https://discord.gg/xDyQvNa7Sf){:target="_blank"} |Soul of Racing League |
 |[StranoCar](https://members.iracing.com/membersite/member/LeagueView.do?league=12375){:target="_blank"} | | |
-|[Backfire Simsport TV](https://members.iracing.com/membersite/member/LeagueView.do?league=12373){:target="_blank"} | |TCR Racing\- Wednesday Evenings at 18:30 UK Time |
+|[Backfire Simsport TV TCR Challenge Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12373){:target="_blank"} | |TCR Racing\- Wednesday Evenings at 18:30 UK Time |
+|[Doug & The Slugs Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12382){:target="_blank"} | |Doug & the Slugs |
+|[OL' Timers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12380){:target="_blank"} | |just racing with older trucks , cars, tracks |
+|[ARCA Menards IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12381){:target="_blank"} | | |
+|[Electronic Sports & Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12383){:target="_blank"} |[Discord](https://discord.gg/AFzNYfYMEn){:target="_blank"} |Sim racing and sports league\. |
+|[VSR Clubsport Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12379){:target="_blank"} | | |
 

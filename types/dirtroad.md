@@ -21,8 +21,8 @@
 |----------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------------------------|-------------------------|-------------------------|--------------------------|
 |[Special Stage Pro Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 1 |North America |33 |2588 | | | | | |
 |[SRW \- Friday Funday](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW Pro 2 Lite |Australia-NZ |23 |1573 | |[Legacy] Phoenix Raceway - 2008 |Fri, March 21 04:30AM EDT |Fri, March 21 08:30AM GMT |Fri, March 21 07:30PM AEDT |
+|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |pro2 |North America |19 |1370 |Open |Wild West Motorsports Park |Mon, March 24 08:00PM EDT |Tue, March 25 12:00AM GMT |Tue, March 25 11:00AM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2025 |North America |15 |3119 |Fixed | | | | |
-|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |pro2 |North America |15 |1374 |Open |Wild West Motorsports Park |Mon, March 17 08:00PM EDT |Tue, March 18 12:00AM GMT |Tue, March 18 11:00AM AEDT |
 
 ### Pro 2 Truck
 

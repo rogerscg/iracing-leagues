@@ -19,6 +19,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------|-------------------------------|--------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏳️ Free Practice |Africa |18 |1771 | |Algarve International Circuit |Mon, March 17 02:00PM EDT |Mon, March 17 06:00PM GMT |Tue, March 18 05:00AM AEDT |
-|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏁 Races |Africa |17 |1772 | | | | | |
+|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏳️ Free Practice |Africa |18 |1794 | |Algarve International Circuit |Tue, March 18 02:00PM EDT |Tue, March 18 06:00PM GMT |Wed, March 19 05:00AM AEDT |
+|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏁 Races |Africa |17 |1772 | |Algarve International Circuit |Wed, March 19 02:00PM EDT |Wed, March 19 06:00PM GMT |Thu, March 20 05:00AM AEDT |
 

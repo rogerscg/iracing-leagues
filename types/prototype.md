@@ -48,23 +48,23 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 Radical Cup Canada |North America |64 |2236 |Fixed | | | | |
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |53 |None |Fixed | | | | |
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |Europe |37 |3398 | | | | | |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |North America |23 |2584 | | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |19 |2803 |Open | | | | |
-|[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} |Radical Academy Esport Series \- 2025 |North America |10 |1258 | | | | | |
+|[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} |Radical Academy Esport Series \- 2025 |North America |10 |1258 | |Circuit Gilles Villeneuve |Tue, March 25 07:00PM EDT |Tue, March 25 11:00PM GMT |Wed, March 26 10:00AM AEDT |
 
 ### Radical SR8
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |28 |1406 |Fixed |Las Vegas Motor Speedway |Sun, March 23 08:00PM EDT |Mon, March 24 12:00AM GMT |Mon, March 24 11:00AM AEDT |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |SR8 \- WCR Season 12 |North America |26 |2246 |Open |Nürburgring Combined |Fri, March 07 09:20PM EST |Sat, March 08 02:20AM GMT |Sat, March 08 01:20PM AEDT |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |Europe |24 |2279 | |Circuit de Spa-Francorchamps |Mon, March 17 04:00PM EDT |Mon, March 17 08:00PM GMT |Tue, March 18 07:00AM AEDT |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |Europe |25 |2295 | |Okayama International Circuit |Mon, March 24 04:00PM EDT |Mon, March 24 08:00PM GMT |Tue, March 25 07:00AM AEDT |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- Tuesday night \- Radical SR8 |North America |22 |1073 |Open |Charlotte Motor Speedway |Tue, January 21 10:00PM EST |Wed, January 22 03:00AM GMT |Wed, January 22 02:00PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship |Europe |21 |2982 | |Circuit of the Americas |Mon, January 13 03:00PM EST |Mon, January 13 08:00PM GMT |Tue, January 14 07:00AM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |SR8 Championship Season 2 |Europe |16 |3009 | | | | | |

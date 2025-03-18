@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|------------------------|-------------------------|-------------------------|--------------------------|
-|[VC Cup Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2025 |South America |44 |3062 | |Las Vegas Motor Speedway |Mon, March 17 06:30PM EDT |Mon, March 17 10:30PM GMT |Tue, March 18 09:30AM AEDT |
+|[VC Cup Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2025 |South America |44 |3053 | |Homestead Miami Speedway |Mon, March 24 06:30PM EDT |Mon, March 24 10:30PM GMT |Tue, March 25 09:30AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 ANUAL PEMAP CUP |South America |42 |2169 |Both | | | | |
 
 # Open-wheel
@@ -19,8 +19,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar DW12 Rookie |South America |34 |1444 |Fixed |[Legacy] Pocono Raceway - 2009 |Mon, March 17 06:00PM EDT |Mon, March 17 10:00PM GMT |Tue, March 18 09:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar DW12 Rookie |South America |34 |1440 |Fixed | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 KERS DW12 LEGACY |South America |18 |2275 |Both | | | | |
 
 ### Dallara IR18
@@ -67,6 +67,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[F1BC 992 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |992 Cup 2025/2 |South America |43 |2277 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PORSCHE CUP 2025\.1 |South America |11 |1800 |Both |Watkins Glen International |Sat, March 22 09:00PM EDT |Sun, March 23 01:00AM GMT |Sun, March 23 12:00PM AEDT |
 
 ### Touring Car
@@ -83,6 +84,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2025/2 |South America |33 |2637 | | | | | |
 |[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- COPA VERÃO 25 |South America |32 |2222 | | | | | |
 |[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2025/1 |South America |16 |1924 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT F4 & GR86 2025\.1 |South America |14 |1635 |Both | | | | |
