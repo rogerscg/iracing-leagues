@@ -31,8 +31,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
-|[ISRAEL Rallycross league](https://members.iracing.com/membersite/member/LeagueView.do?league=12041){:target="_blank"} |SEASON NO1  \-VW\- RALLYCROSS |International |19 |1497 | |Wild West Motorsports Park |Tue, March 18 03:00PM EDT |Tue, March 18 07:00PM GMT |Wed, March 19 06:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[ISRAEL Rallycross league](https://members.iracing.com/membersite/member/LeagueView.do?league=12041){:target="_blank"} |SEASON NO1  \-VW\- RALLYCROSS |International |20 |1503 | | | | | |
 
 ### VW Beetle Lite
 
