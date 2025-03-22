@@ -18,9 +18,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-------------------------------|-------------------------|-------------------------|--------------------------|
-|[Special Stage Pro Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 1 |North America |33 |2588 | |Brands Hatch Circuit |Fri, March 21 08:00PM EDT |Sat, March 22 12:00AM GMT |Sat, March 22 11:00AM AEDT |
-|[SRW \- Friday Funday](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW Pro 2 Lite |Australia-NZ |23 |1573 | |[Legacy] Phoenix Raceway - 2008 |Fri, March 21 04:30AM EDT |Fri, March 21 08:30AM GMT |Fri, March 21 07:30PM AEDT |
+|----------------------------------------------------------------------------------------------------------------------|-----------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|[Special Stage Pro Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 1 |North America |34 |2630 | | | | | |
+|[SRW \- Friday Funday](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW Pro 2 Lite |Australia-NZ |23 |1532 | |Okayama International Circuit |Fri, March 28 04:30AM EDT |Fri, March 28 08:30AM GMT |Fri, March 28 07:30PM AEDT |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |pro2 |North America |19 |1370 |Open |Wild West Motorsports Park |Mon, March 24 08:00PM EDT |Tue, March 25 12:00AM GMT |Tue, March 25 11:00AM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2025 |North America |15 |3119 |Fixed | | | | |
 
