@@ -24,7 +24,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------|-------|----|-----|-----------------------------------|-------------------------|-------------------------|--------------------------|
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2025 \- DIVISION AMATEURS NXT GRAPHIK \- MINISTOCKS |North America |85 |1561 |Fixed | | | | |
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |Mini Stock Series \- 24/25 Winter Season |North America |77 |4716 |Open | | | | |
 |[Apex Racing Society](https://members.iracing.com/membersite/member/LeagueView.do?league=12159){:target="_blank"} |\[ ARS \] Mini Stock \| Season 1 |North America |68 |1683 |Fixed | | | | |
@@ -42,6 +42,7 @@
 |[BTDY Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5189){:target="_blank"} |Mini Stocks 2025 \(Season 1\) |North America |23 |2507 |Fixed |USA International Speedway |Thu, March 27 09:00PM EDT |Fri, March 28 01:00AM GMT |Fri, March 28 12:00PM AEDT |
 |[SPARK Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11959){:target="_blank"} |Season 1 |North America |22 |1569 | |Limaland Motorsports Park |Sun, March 23 07:57PM EDT |Sun, March 23 11:57PM GMT |Mon, March 24 10:57AM AEDT |
 |[ARCS ARX Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |ARX 2025 S1 Mini Stock |North America |21 |2103 | |Bristol Motor Speedway |Fri, March 28 08:00PM EDT |Sat, March 29 12:00AM GMT |Sat, March 29 11:00AM AEDT |
+|[Strange Brew Legends Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6409){:target="_blank"} |Strange Brew Late Model Series |North America |20 |1885 | | | | | |
 |[SRCA Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10428){:target="_blank"} |Mini Stocks Season 1 |North America |19 |2844 |Fixed | | | | |
 |[New England Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11743){:target="_blank"} |Season 1 |North America |18 |1417 |Fixed | | | | |
 |[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |Mini Stock Tour |North America |18 |1493 | | | | | |
@@ -51,7 +52,8 @@
 |[Moonlight Racing League MRL Friday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=9437){:target="_blank"} |Season 4 |North America |15 |1650 |Fixed | | | | |
 |[Apex Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9523){:target="_blank"} |ASRL Mini Stocks |North America |14 |1624 | |WeatherTech Raceway at Laguna Seca |Thu, March 27 07:30PM EDT |Thu, March 27 11:30PM GMT |Fri, March 28 10:30AM AEDT |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |West Coast Short Track Swing |North America |12 |1038 |Both | | | | |
-|[BullRing iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=3123){:target="_blank"} |2025\-A STSS\-Mini Series |North America |11 |1681 | |Port Royal Speedway |Thu, March 27 09:45PM EDT |Fri, March 28 01:45AM GMT |Fri, March 28 12:45PM AEDT |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 LM\SLM Series Season 1 |North America |11 |1869 | |Richmond Raceway |Sat, March 29 07:00PM EDT |Sat, March 29 11:00PM GMT |Sun, March 30 10:00AM AEDT |
+|[BullRing iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=3123){:target="_blank"} |2025\-A STSS\-Mini Series |North America |11 |1681 | |Lucas Oil Indianapolis Raceway Park |Thu, March 27 09:45PM EDT |Fri, March 28 01:45AM GMT |Fri, March 28 12:45PM AEDT |
 |[Juddcar](https://members.iracing.com/membersite/member/LeagueView.do?league=10047){:target="_blank"} |Season 6 |North America |11 |2629 | | | | | |
 |[SMOKE N TACOS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8349){:target="_blank"} |Mini\-stocks Season 1 |North America |10 |1314 |Both | | | | |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |Mini Stock \- Wednesday Race Season 2 |North America |10 |1354 | | | | | |
@@ -89,7 +91,7 @@
 |[Metal Heads Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11892){:target="_blank"} |Championnat LMS 2025 |North America |28 |1898 | | | | | |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 1 |North America |27 |1680 | | | | | |
 |[eSports Championship Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10110){:target="_blank"} |eCAR 24/25 season |North America |26 |2946 |Open | | | | |
-|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |late model stock car |North America |26 |1449 |Open |Nashville Fairgrounds Speedway |Sat, March 22 10:02PM EDT |Sun, March 23 02:02AM GMT |Sun, March 23 01:02PM AEDT |
+|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |late model stock car |North America |26 |1431 |Open |Nashville Fairgrounds Speedway |Sat, March 29 10:02PM EDT |Sun, March 30 03:02AM BST |Sun, March 30 01:02PM AEDT |
 |[Sim Auto Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11905){:target="_blank"} |Season 1 of the LMSC Tour of SART |North America |26 |2379 | | | | | |
 |[National Iracing Association \(NIRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} |Cars Tour |North America |25 |1687 |Fixed | | | | |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 2 |North America |25 |1774 | |South Boston Speedway |Sun, March 23 07:45PM EDT |Sun, March 23 11:45PM GMT |Mon, March 24 10:45AM AEDT |
@@ -158,8 +160,8 @@
 |[Rusty Misfits Rookie Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8578){:target="_blank"} |RMRL PAVEMENT MINI STOCKS SEASON 5 |North America |19 |1320 | |Southern National Motorsports Park |Tue, March 25 09:00PM EDT |Wed, March 26 01:00AM GMT |Wed, March 26 12:00PM AEDT |
 |[Rob\-Car](https://members.iracing.com/membersite/member/LeagueView.do?league=6353){:target="_blank"} |Mini Stocks 2024 |North America |17 |1371 | | | | | |
 |[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Mini Stocks |North America |14 |1593 |Fixed | | | | |
+|[Signature eSports Powderpuff Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6971){:target="_blank"} |Season 2 Mini Stocks |North America |14 |1720 | |Bristol Motor Speedway |Sat, March 29 05:30PM EDT |Sat, March 29 09:30PM GMT |Sun, March 30 08:30AM AEDT |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Mini Stock 2025\-S01 Winter |North America |13 |1510 |Fixed | | | | |
-|[Signature eSports Powderpuff Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6971){:target="_blank"} |Season 2 Mini Stocks |North America |12 |1772 | |Kansas Speedway |Sat, March 22 05:30PM EDT |Sat, March 22 09:30PM GMT |Sun, March 23 08:30AM AEDT |
 |[North\-American Short Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10788){:target="_blank"} |Mini Stock Season 1 |North America |10 |1361 |Fixed | | | | |
 |[\=SIM500\= Not Active](https://members.iracing.com/membersite/member/LeagueView.do?league=8391){:target="_blank"} |Scary Strokes Mini Stocks |North America |10 |2279 | | | | | |
 
@@ -183,7 +185,6 @@
 |[Leave The Pack iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5801){:target="_blank"} |LTP STREET STOCK SHOWDOWN S2 |North America |45 |2624 | | | | | |
 |[XCAL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1264){:target="_blank"} |2025 XCAL RACING WEB SHOP SERIES |North America |44 |2860 |Both | | | | |
 |[Xcelerate Racing League Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=11472){:target="_blank"} |HAVOC Racing Syndicate Street Stocks Season 1 |North America |42 |1695 | |Hickory Motor Speedway |Thu, March 27 07:30PM EDT |Thu, March 27 11:30PM GMT |Fri, March 28 10:30AM AEDT |
-|[Turn4Podcast](https://members.iracing.com/membersite/member/LeagueView.do?league=9525){:target="_blank"} |Winter League Season 3 |North America |41 |1996 |Fixed | | | | |
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |Rising Stars Season 11 |North America |39 |1690 |Both | | | | |
 |[MRL \| DriverTees\.com Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11383){:target="_blank"} |MRL \| DriverTees\.com Street Stocks Season 1 |North America |36 |3545 | | | | | |
 |[Saratoga Speedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=11690){:target="_blank"} |Powerhouse Sheetrock BC Street Stock Series |North America |35 |1885 | | | | | |
@@ -193,7 +194,7 @@
 |[CRA Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11977){:target="_blank"} |CRA STREET STOCKS 2025 |North America |32 |1519 | | | | | |
 |[iRacing Northern Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4918){:target="_blank"} |INSS \- SS \- 2024\-25 |North America |29 |2733 |Open | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |TVR Street Stock Championship |North America |28 |1529 |Fixed | | | | |
-|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |street stocks |North America |26 |1455 |Open |Nashville Fairgrounds Speedway |Sat, March 22 08:00PM EDT |Sun, March 23 12:00AM GMT |Sun, March 23 11:00AM AEDT |
+|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |street stocks |North America |26 |1433 |Open |Nashville Fairgrounds Speedway |Sat, March 29 08:00PM EDT |Sun, March 30 12:00AM GMT |Sun, March 30 11:00AM AEDT |
 |[Smile Snack Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=10831){:target="_blank"} |Smile Snack Asphalt Street Stocks |North America |23 |1489 | | | | | |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Street Stock S3 |North America |22 |1872 |Fixed | | | | |
 |[Number One Hero Cards Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8466){:target="_blank"} |N1HC Street Stocks Season 2 |North America |22 |2089 | |Stafford Motor Speedway |Mon, March 24 07:30PM EDT |Mon, March 24 11:30PM GMT |Tue, March 25 10:30AM AEDT |

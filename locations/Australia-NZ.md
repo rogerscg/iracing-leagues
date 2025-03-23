@@ -201,7 +201,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
 |[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=11951){:target="_blank"} |DML 2025 Midget Series |Australia-NZ |125 |3914 |Fixed | | | | |
-|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI Simsports Midgets 25 |Australia-NZ |77 |3334 | | | | | |
+|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI Simsports Midgets 25 |Australia-NZ |77 |3334 | |Limaland Motorsports Park |Sun, March 23 03:30AM EDT |Sun, March 23 07:30AM GMT |Sun, March 23 06:30PM AEDT |
 |[Wheels Up Wednesday Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12227){:target="_blank"} |SEAON 1 MIDGETS |Australia-NZ |68 |3171 | | | | | |
 |[Australian Super Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |𝗠𝗼𝗻𝗱𝗮𝘆 𝗡𝗶𝗴𝗵𝘁 𝗠𝗶𝗱𝗴𝗲𝘁 𝗦𝗲𝗿𝗶𝗲𝘀 |Australia-NZ |37 |2630 | |Limaland Motorsports Park |Mon, March 24 06:00AM EDT |Mon, March 24 10:00AM GMT |Mon, March 24 09:00PM AEDT |
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Midgets Super Series 2025 |Australia-NZ |28 |2922 | |Lucas Oil Speedway |Tue, March 25 06:00AM EDT |Tue, March 25 10:00AM GMT |Tue, March 25 09:00PM AEDT |
@@ -212,7 +212,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------|------------|-------|----|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[ASND Harman Designs Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |2025 Speedway Series 360 Sprintcars |Australia-NZ |69 |3392 | | | | | |
+|[ASND Harman Designs Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |2025 Speedway Series 360 Sprintcars |Australia-NZ |69 |3392 | |Port Royal Speedway |Sun, March 23 05:30AM EDT |Sun, March 23 09:30AM GMT |Sun, March 23 08:30PM AEDT |
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL 360 Sprintcars Super Series 2025 |Australia-NZ |45 |3300 | |Volusia Speedway Park |Fri, March 28 06:00AM EDT |Fri, March 28 10:00AM GMT |Fri, March 28 09:00PM AEDT |
 
 ### Dirt Sprintcar - 410

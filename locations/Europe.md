@@ -129,7 +129,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|---------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} |Historic F1 Masters \- 2025 |Europe |25 |2052 | | | | | |
+|[BTRTV \- Historic F1 Masters \- 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} |Historic F1 Masters \- 2025 |Europe |25 |2082 | | | | | |
 |[DELTA RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=9934){:target="_blank"} |11 \| Gennaio 2025 |Europe |13 |1189 | | | | | |
 
 ### Pro Mazda
@@ -469,7 +469,6 @@
 |[Anti Stall Racing \- IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8267){:target="_blank"} |Season 8 |Europe |66 |3011 |Open | | | | |
 |[NXTGEN PROTO/GT3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7015){:target="_blank"} |GT3 PRACTICE |Europe |63 |2016 |Fixed |Watkins Glen International |Wed, March 26 03:00PM EDT |Wed, March 26 07:00PM GMT |Thu, March 27 06:00AM AEDT |
 |[K\-Series League 2K25](https://members.iracing.com/membersite/member/LeagueView.do?league=10176){:target="_blank"} |K\-Series League 2K25 \- Season 1 \- F4 |Europe |62 |2748 |Open |Mount Panorama Circuit |Sun, March 23 04:10PM EDT |Sun, March 23 08:10PM GMT |Mon, March 24 07:10AM AEDT |
-|[Split 1 \| ARA Sebring 2\.4 Hours](https://members.iracing.com/membersite/member/LeagueView.do?league=47){:target="_blank"} |Split 1 \| ARA Sebring 2\.4 Hours |Europe |59 |4527 | | | | | |
 |[SRS Feierabend Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10307){:target="_blank"} |SRS iRFC AllStarsSeries 2024/2025 |Europe |58 |2021 | | | | | |
 |[Simunation Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11242){:target="_blank"} |Funrace |Europe |54 |1979 |Both | | | | |
 |[FNR GT3 Cup \[PL\]](https://members.iracing.com/membersite/member/LeagueView.do?league=11150){:target="_blank"} |GT3 Cup by FNR Racing \[PL\] |Europe |53 |2082 |Open | | | | |
@@ -487,6 +486,7 @@
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |Madness |Europe |41 |2588 |Open | | | | |
 |[Magyarok \- Real Fast Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=12203){:target="_blank"} |Első bajnokság |Europe |41 |2016 |Open | | | | |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN GT3 Cup |Europe |40 |2079 | | | | | |
+|[Split 2 \| ARA Sebring 2\.4 Hours](https://members.iracing.com/membersite/member/LeagueView.do?league=7314){:target="_blank"} |Split 2 \| ARA Sebring 2\.4 Hours |Europe |40 |2481 | | | | | |
 |[Digital Motorsport SK](https://members.iracing.com/membersite/member/LeagueView.do?league=8009){:target="_blank"} |2024\-DMSK\-Open Season |Europe |39 |1572 |Both | | | | |
 |[Racing League Romania](https://members.iracing.com/membersite/member/LeagueView.do?league=350){:target="_blank"} |Oldies But Goldies At Road America \(2\.4h Special Event\) |Europe |39 |2347 | | | | | |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |TES 25S1 |Europe |38 |2916 |Open | | | | |

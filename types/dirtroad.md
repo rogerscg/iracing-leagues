@@ -38,7 +38,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2025 Qualifying Series |North America |66 |3993 |Open | | | | |
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2025 National Series |North America |46 |5882 |Open | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |ORCGP Grand National Sport Truck \- 2025 |North America |22 |2526 |Fixed | | | | |
 

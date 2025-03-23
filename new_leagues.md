@@ -2,7 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[2025 iracing legend car league](https://members.iracing.com/membersite/member/LeagueView.do?league=12326){:target="_blank"} | |fun racing |
 |[Desert Fox Racing \- Festival of Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=12327){:target="_blank"} | |The Desert Fox Racing Festival of Speed is a fun, three\-day iRacing event on March 11th, 18th, and 25th\. Top drivers from around the world will race on tough tracks, showing off their skill and speed\. The event promises close, exciting races with plenty of action\. Don’t miss the chance to see some of the best drivers battle for victory\! |
 |[I5G/ABW Community Race \- ARCA at Charlotte](https://members.iracing.com/membersite/member/LeagueView.do?league=12331){:target="_blank"} | | |
 |[Midget Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=12333){:target="_blank"} | |Midget Races every Tuesday \(9 Rounds\) |
@@ -64,7 +63,7 @@
 |[Alpha Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12386){:target="_blank"} | |Liga de ASR |
 |[ARCA Sparks](https://members.iracing.com/membersite/member/LeagueView.do?league=12384){:target="_blank"} | | |
 |[Empulse Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12394){:target="_blank"} | |Open to all\. A community\-based league for all skill levels\. Check out our website at Empulseracing\.com |
-|[Fresno SCCA 2](https://members.iracing.com/membersite/member/LeagueView.do?league=12391){:target="_blank"} | |Don't join yet, this is only a test |
+|[Fresno SCCA 2 \(dormant, select the other league\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12391){:target="_blank"} | |Don't join yet, this is only a test |
 |[JENDRIVE \- Czech Posera racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12389){:target="_blank"} | | |
 |[Polish Non Master Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12387){:target="_blank"} | |One and Only |
 |[Zero Mercy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12392){:target="_blank"} | |ZMR |
@@ -76,6 +75,8 @@
 |[GGSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12401){:target="_blank"} | |GWOT Veterans that enjoy racing and some S\*\*\* talking all in good fun\. |
 |[GTCR MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=12399){:target="_blank"} | |SATURDAY NIGHT SHOOTOUT |
 |[GUH ENDURANCE by Mittelweser Brandschutz GmbH](https://members.iracing.com/membersite/member/LeagueView.do?league=12395){:target="_blank"} | |Jetzt aber ma full send inne Liga oder wat\!? |
+|[Nascar challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12406){:target="_blank"} | |will be banned after 4 warnings |
+|[One Grid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12405){:target="_blank"} | |Eine Liga für Anfänger und Fortgeschrittene, mit Fokus auf Langstreckenrennen\. |
 |[The Rebel Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12398){:target="_blank"} |[Discord](https://discord.gg/BUYv5uBqNR){:target="_blank"} |All series are Fixed Setup and new Drivers are welcome\. Clean, fun and fast racing is the goal\. |
 |[USORL National Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12397){:target="_blank"} | | |
 |[Homestead Driving Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12404){:target="_blank"} | |Virtual racing for members of HDC |

@@ -40,7 +40,7 @@
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR BMW M2 CSR Cup |Europe |24 |1564 |Open | | | | |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |ILAKA\-IIL M2 CUP 2025 SILVER |International |23 |1357 | | | | | |
 |[SAUSAGE DODGERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11908){:target="_blank"} |BMW M2 BRITISH TOUR |Europe |22 |1651 |Open | | | | |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |BMW Piston Cup |North America |22 |1276 |Both | | | | |
+|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |BMW Piston Cup |North America |22 |1276 |Fixed | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Nugget cup 2\.0 |Australia-NZ |22 |1417 |Fixed |Hockenheimring Baden-Württemberg |Thu, March 27 04:30AM EDT |Thu, March 27 08:30AM GMT |Thu, March 27 07:30PM AEDT |
 |[Black Ribbon Simulations \- BMW M2 Africa Festival](https://members.iracing.com/membersite/member/LeagueView.do?league=12320){:target="_blank"} |Africa Festival Race |Africa |22 |1860 |Both | | | | |
 |[CASS \- Can\-Am SimSport](https://members.iracing.com/membersite/member/LeagueView.do?league=8433){:target="_blank"} |CASS M2 Cup |North America |21 |1977 |Open | | | | |
