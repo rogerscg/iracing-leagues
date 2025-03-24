@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Desert Fox Racing \- Festival of Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=12327){:target="_blank"} | |The Desert Fox Racing Festival of Speed is a fun, three\-day iRacing event on March 11th, 18th, and 25th\. Top drivers from around the world will race on tough tracks, showing off their skill and speed\. The event promises close, exciting races with plenty of action\. Don’t miss the chance to see some of the best drivers battle for victory\! |
-|[I5G/ABW Community Race \- ARCA at Charlotte](https://members.iracing.com/membersite/member/LeagueView.do?league=12331){:target="_blank"} | | |
-|[Midget Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=12333){:target="_blank"} | |Midget Races every Tuesday \(9 Rounds\) |
-|[Midlife Crisis Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12330){:target="_blank"} | |If you are under 40 we just don't understand what the hell you are doing with your life\. Mature racers just wanting to enjoy a good race without the drama\. Get off my lawn\! |
-|[OHIO VALLEY LATE MODEL SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12328){:target="_blank"} | |One of the most EXCITING Late Model Pro Regional Series in the Valley is going VIRTUAL\! |
-|[AMX Dirt Slingers](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} | |Dedicated Series Server from AMX iRacing League |
-|[Murray Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12332){:target="_blank"} | |Fun |
 |[Assetto Cafe Pable Cup iRacing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=12342){:target="_blank"} | |Korean Friendship League |
 |[Aviation Motorsports Saturday Night League](https://members.iracing.com/membersite/member/LeagueView.do?league=12334){:target="_blank"} | |Saturday Night League / 9pm Eastern |
 |[Cars and Canards](https://members.iracing.com/membersite/member/LeagueView.do?league=12341){:target="_blank"} | |Cars and Canards\.\.\.\.\.its like Cars and Coffee but for DRIVERS\! Taking my physical private track day events into the virtual realm\. We are a passionate motorsports community for beginners, intermediate and advanced level drivers\. |
@@ -73,7 +66,7 @@
 |[Amateur eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12403){:target="_blank"} | |The hub for all series powered by the Amateur eSports Racing Leagues \(AERL\)\. All series are owned and operated by member drivers of the AERL\. These series are not considered official AERL events and operate outside of the AERL guidelines\. Any driver that is apart of these series that would like to join the AERL will be permitted to do so providing they meet AERL requirements\. |
 |[CT Mini Stock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12396){:target="_blank"} | | |
 |[GGSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12401){:target="_blank"} | |GWOT Veterans that enjoy racing and some S\*\*\* talking all in good fun\. |
-|[GTCR MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=12399){:target="_blank"} | |SATURDAY NIGHT SHOOTOUT |
+|[GTCR MOTORSPORTS LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12399){:target="_blank"} | |SNS |
 |[GUH ENDURANCE by Mittelweser Brandschutz GmbH](https://members.iracing.com/membersite/member/LeagueView.do?league=12395){:target="_blank"} | |Jetzt aber ma full send inne Liga oder wat\!? |
 |[Nascar challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12406){:target="_blank"} | |will be banned after 4 warnings |
 |[One Grid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12405){:target="_blank"} | |Eine Liga für Anfänger und Fortgeschrittene, mit Fokus auf Langstreckenrennen\. |
@@ -81,4 +74,9 @@
 |[USORL National Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12397){:target="_blank"} | | |
 |[Homestead Driving Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12404){:target="_blank"} | |Virtual racing for members of HDC |
 |[The Short Shifters](https://members.iracing.com/membersite/member/LeagueView.do?league=12402){:target="_blank"} | |Market and Motor Mayhem |
+|[92XXII Designs ARCA Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12408){:target="_blank"} | |ARCA Series |
+|[National Outlaw Racing Association \(NORA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12407){:target="_blank"} | | |
+|[The Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=12410){:target="_blank"} | |average dads |
+|[Throttle Hoppers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12409){:target="_blank"} |[Discord](https://discord.gg/ry8CgBMH){:target="_blank"} | |
+|[Renigar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12411){:target="_blank"} | |Just 2 Bros |
 
