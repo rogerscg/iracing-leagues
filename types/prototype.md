@@ -8,10 +8,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|---------------------------|-------------------------|-------------------------|--------------------------|
 |[Beat the PRO Challenge presented by AVL RACETECH](https://members.iracing.com/membersite/member/LeagueView.do?league=9055){:target="_blank"} |Beat the PRO Challenge 2025 |Europe |50 |3158 | | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |LMP2 Series Season 1 |North America |20 |1958 |Fixed | | | | |
 |[BitePoint Racing\-\-LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |Pre\-season |North America |13 |1322 |Open | | | | |
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 Full Season |North America |11 |1736 | |Fuji International Speedway |Mon, March 31 09:07PM EDT |Tue, April 01 02:07AM BST |Tue, April 01 12:07PM AEDT |
 
 ### GTP
 
@@ -57,13 +58,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |24/25 Radical Cup Canada |North America |64 |2236 |Fixed | | | | |
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |North America |53 |None |Fixed | | | | |
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |Europe |41 |3364 | | | | | |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |North America |23 |2584 | |Road America |Sun, March 30 07:30PM EDT |Mon, March 31 12:30AM BST |Mon, March 31 10:30AM AEDT |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 1 |Europe |19 |2803 |Open | | | | |
-|[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} |Radical Academy Esport Series \- 2025 |North America |10 |1258 | |Circuit Gilles Villeneuve |Tue, March 25 07:00PM EDT |Tue, March 25 11:00PM GMT |Wed, March 26 10:00AM AEDT |
+|[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} |Radical Academy Esport Series \- 2025 |North America |12 |1288 | | | | | |
 
 ### Radical SR8
 

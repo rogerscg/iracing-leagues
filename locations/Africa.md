@@ -18,7 +18,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|-------------------------------|--------|-------|----|-----|-----------------|-------------------------|-------------------------|--------------------------|
-|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏳️ Free Practice |Africa |18 |1815 | |Oran Park Raceway |Tue, March 25 02:00PM EDT |Tue, March 25 06:00PM GMT |Wed, March 26 05:00AM AEDT |
+|-----------------------------------------------------------------------------------------------------------|-------------------------------|--------|-------|----|-----|-------------|--------|------|------|
+|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏳️ Free Practice |Africa |18 |1833 | | | | | |
 |[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏁 Races |Africa |17 |1798 | | | | | |
 

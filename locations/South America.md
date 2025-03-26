@@ -12,6 +12,16 @@
 |[VC Cup Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2025 |South America |44 |3058 | |Martinsville Speedway |Mon, March 31 06:30PM EDT |Mon, March 31 11:30PM BST |Tue, April 01 09:30AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 ANUAL PEMAP CUP |South America |42 |2169 |Both |Richmond Raceway |Wed, March 26 06:00PM EDT |Wed, March 26 10:00PM GMT |Thu, March 27 09:00AM AEDT |
 
+# Oval
+
+### Mini Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[TK Oval Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Oval Challenge \- 25T2 |South America |31 |1745 | | | | | |
+
 # Open-wheel
 
 ### Dallara DW12
@@ -46,9 +56,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
 |[F1BC Formula 1600](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |Formula 1600 2025/1 |South America |30 |2082 | | | | | |
-|[F1BC Formula 1600](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |Formula 1600 2025/2 |South America |22 |1892 | | | | | |
+|[F1BC Formula 1600](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |Formula 1600 2025/2 |South America |22 |1892 | |Winton Motor Raceway |Wed, April 02 07:25PM EDT |Thu, April 03 12:25AM BST |Thu, April 03 10:25AM AEDT |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |Formula 1600 2025 T1 |South America |19 |1910 |Fixed | | | | |
 
 ### Williams FW31
@@ -152,6 +162,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
+|[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- 25T2 |South America |52 |2244 | | | | | |
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/2 |South America |46 |2965 | | | | | |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/2 |South America |41 |1704 | | | | | |
 |[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- COPA VERÃO 25 |South America |40 |2194 | | | | | |

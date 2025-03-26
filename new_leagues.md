@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Assetto Cafe Pable Cup iRacing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=12342){:target="_blank"} | |Korean Friendship League |
-|[Cars and Canards](https://members.iracing.com/membersite/member/LeagueView.do?league=12341){:target="_blank"} | |Cars and Canards\.\.\.\.\.its like Cars and Coffee but for DRIVERS\! Taking my physical private track day events into the virtual realm\. We are a passionate motorsports community for beginners, intermediate and advanced level drivers\. |
-|[ITR Road iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12338){:target="_blank"} |[Discord](https://discord.gg/Ad3BUKP77C){:target="_blank"} |Geared for the casual, laid back iRacer |
-|[Mach 10 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12339){:target="_blank"} |[Discord](https://discord.gg/V3tGpcswcZ){:target="_blank"} |Money Madness Racing and events |
-|[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=12340){:target="_blank"} | |Racing league for the buddies Thursday Night racing |
 |[Beam Motorsports Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12347){:target="_blank"} | | |
 |[Formula Hybrid and Electric](https://members.iracing.com/membersite/member/LeagueView.do?league=12345){:target="_blank"} | |Sponsored by McLaren Applied \- ATLAS GT |
 |[Next Gen Beginners](https://members.iracing.com/membersite/member/LeagueView.do?league=12348){:target="_blank"} | | |
@@ -82,4 +77,8 @@
 |[Hybrid Cross Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12418){:target="_blank"} | | |
 |[La Vieja Guardia LVG](https://members.iracing.com/membersite/member/LeagueView.do?league=12415){:target="_blank"} | |2º Cto\. LVG |
 |[NEW ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12417){:target="_blank"} | |Clean ARCA racing I hope |
+|[Australian Pro Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12419){:target="_blank"} | |We run Pro4 and Pro2 truck\. |
+|[GRAND NATIONAL PRO SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12422){:target="_blank"} | | |
+|[HCO xfinity series](https://members.iracing.com/membersite/member/LeagueView.do?league=12423){:target="_blank"} | | |
+|[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12421){:target="_blank"} | |Cup and Xfinity cars |
 

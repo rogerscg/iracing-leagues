@@ -12,7 +12,7 @@
 |[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Official Practice |North America |77 |None | | | | | |
 |[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12086){:target="_blank"} |Pit Party |North America |68 |None | | | | | |
 |[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 10 |North America |62 |2153 |Fixed | | | | |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A BMW M\-Sports Cup \- MERCH\.tgsrci |Australia-NZ |60 |2321 |Both |Virginia International Raceway |Tue, March 25 03:52AM EDT |Tue, March 25 07:52AM GMT |Tue, March 25 06:52PM AEDT |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A BMW M\-Sports Cup \- MERCH\.tgsrci |Australia-NZ |62 |2341 |Both | | | | |
 |[DMC \- Digitaler M2 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11971){:target="_blank"} |Kick Off Saison Digitaler M2 Cup |Europe |57 |2606 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1 Academy |Europe |51 |1673 |Both | | | | |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2025 Spring Season |North America |51 |2270 |Both | | | | |
@@ -38,6 +38,7 @@
 |[ADAC SimRacing Cup \- Clubsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10120){:target="_blank"} |2025 |Europe |26 |1565 |Fixed |Oulton Park Circuit |Thu, March 27 01:00PM EDT |Thu, March 27 05:00PM GMT |Fri, March 28 04:00AM AEDT |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN M2 Cup |Europe |26 |2223 | |Lime Rock Park |Fri, March 28 04:58PM EDT |Fri, March 28 08:58PM GMT |Sat, March 29 07:58AM AEDT |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |BMW M2 Season 1 |North America |25 |1332 |Fixed |Summit Point Raceway |Thu, February 27 08:30PM EST |Fri, February 28 01:30AM GMT |Fri, February 28 12:30PM AEDT |
+|[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |M2 CS Cup S1 |Europe |25 |1804 | |Charlotte Motor Speedway |Tue, April 01 05:00PM EDT |Tue, April 01 10:00PM BST |Wed, April 02 08:00AM AEDT |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR BMW M2 CSR Cup |Europe |24 |1564 |Open | | | | |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |ILAKA\-IIL M2 CUP 2025 SILVER |International |23 |1357 | | | | | |
 |[SAUSAGE DODGERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11908){:target="_blank"} |BMW M2 BRITISH TOUR |Europe |22 |1651 |Open | | | | |
@@ -84,12 +85,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Pre\-Qualifying |North America |146 |None |Open | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025A V8SC Elite Series \- Trophi\.AI |Australia-NZ |73 |2474 | |Mount Panorama Circuit |Wed, March 26 05:00AM EDT |Wed, March 26 09:00AM GMT |Wed, March 26 08:00PM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A V8SC Dev Series \- Trophi\.AI |Australia-NZ |67 |1618 |Both |Mount Panorama Circuit |Wed, March 26 05:00AM EDT |Wed, March 26 09:00AM GMT |Wed, March 26 08:00PM AEDT |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |MCV8 \- GOLD Split \- Season 1 |Australia-NZ |61 |2498 |Fixed | | | | |
-|[Simability V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=713){:target="_blank"} |Season 16 \(Simability\) |Europe |46 |3120 |Open | | | | |
+|[Simability V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=713){:target="_blank"} |Season 16 \(Simability\) |Europe |46 |3120 |Open |Sebring International Raceway |Sat, March 29 02:00PM EDT |Sat, March 29 06:00PM GMT |Sun, March 30 05:00AM AEDT |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025A |Australia-NZ |41 |1869 |Fixed |Pocono Raceway |Sun, March 30 05:00AM EDT |Sun, March 30 10:00AM BST |Sun, March 30 08:00PM AEDT |
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 1 |Australia-NZ |40 |1815 | | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR V8 Champions Challenge S1 2025 |Australia-NZ |40 |1214 | | | | | |
@@ -97,9 +98,10 @@
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 3 |Australia-NZ |29 |2021 |Open | | | | |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |MCV8 \- SILVER Split \- Season 1 |Australia-NZ |28 |1555 |Fixed | | | | |
 |[VRR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6057){:target="_blank"} |Marathon GT World Tour Season 1 |North America |25 |1908 |Fixed | | | | |
-|[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |Southern Cross Supercars Sim Racing Season 1 |Australia-NZ |22 |1494 | | | | | |
-|[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |Australia-NZ |22 |1660 |Both |Watkins Glen International |Tue, March 25 02:00AM EDT |Tue, March 25 06:00AM GMT |Tue, March 25 05:00PM AEDT |
+|[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |Australia-NZ |23 |1660 |Both |Watkins Glen International |Wed, March 26 04:30AM EDT |Wed, March 26 08:30AM GMT |Wed, March 26 07:30PM AEDT |
+|[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |Southern Cross Sim Racing Season 1 |Australia-NZ |22 |1494 | | | | | |
 |[SMGR V8 SUPER CAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10795){:target="_blank"} |Smokey Mountain V8 Supercar Series S3 |North America |18 |2178 | | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |European V8s |Europe |14 |1915 | | | | | |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday Nights Gen 3 Season 1 |Australia-NZ |14 |1112 | | | | | |
 |[GT Meister Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10095){:target="_blank"} |GTMR V8 Supercars |North America |12 |1994 |Both | | | | |
 

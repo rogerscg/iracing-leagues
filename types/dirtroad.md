@@ -28,7 +28,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|---------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|---------------|-------------------------|-------------------------|--------------------------|
+|[AMX Dirt Slingers](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |2025 Spring Dirt Slingers |North America |18 |1891 | |Eldora Speedway |Tue, April 01 09:00PM EDT |Wed, April 02 02:00AM BST |Wed, April 02 12:00PM AEDT |
 |[Oval Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=9053){:target="_blank"} |2025 S1 Off\-Road Trucks |North America |14 |1446 |Fixed | | | | |
 
 ### Pro 4 Truck
