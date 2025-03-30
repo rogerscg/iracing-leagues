@@ -1,30 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Beam Motorsports Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12347){:target="_blank"} | | |
-|[Formula Hybrid and Electric](https://members.iracing.com/membersite/member/LeagueView.do?league=12345){:target="_blank"} | |Sponsored by McLaren Applied \- ATLAS GT |
-|[Next Gen Beginners](https://members.iracing.com/membersite/member/LeagueView.do?league=12348){:target="_blank"} | | |
-|[Screaming Eagles](https://members.iracing.com/membersite/member/LeagueView.do?league=12346){:target="_blank"} | |Arca Series |
-|[SouthEastBeerMoneyLeague](https://members.iracing.com/membersite/member/LeagueView.do?league=12343){:target="_blank"} | |Have Fun//Clean//NoToxic |
-|[Yancey Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12344){:target="_blank"} | |For YMS drivers to practice and play\. |
-|[LaunchPoint Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12352){:target="_blank"} |[Discord](https://discord.gg/ggUUbs34du){:target="_blank"} |LaunchPoint Racing league is a Saturday Morning IndyCar League\. Races begin at 9:30am EST on Saturdays\. Join the discord link here\! https://discord\.gg/ggUUbs34du |
-|[Mystic Racing League \(CARS Tour\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12349){:target="_blank"} | | |
-|[Mystic Racing League \(Local\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12350){:target="_blank"} | | |
-|[Podium or Wall](https://members.iracing.com/membersite/member/LeagueView.do?league=12353){:target="_blank"} | |Champagne is for the podium |
-|[Scrubbin' Tires Media & Throwin' Sliders Podcast iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12355){:target="_blank"} | |Colorado and surrounding regions iracing brought to by Scrubbin' Tires Media & the Throwin' Sliders Podcast\! |
-|[SoBo Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=12356){:target="_blank"} | |Rotating race week of late model stock cars and legends |
-|[super speedway](https://members.iracing.com/membersite/member/LeagueView.do?league=12354){:target="_blank"} | |all ssw |
-|[Thursday International Tin Top Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12351){:target="_blank"} | |Aimed at Novice and Intermediate Drivers who want regular, longer races\. |
-|[Von Excavating Gen 6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12357){:target="_blank"} | |\# No Drama \# Respect Other Drivers |
-|[\#0 Clean Racing League Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12364){:target="_blank"} | |The CRL Arca Series is a competitive, fixed setup league racing weekly\. |
-|[Crowleys Ridge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12365){:target="_blank"} |[Discord](https://discord.gg/CcFmxyN7){:target="_blank"} |https://discord\.gg/CcFmxyN7 |
-|[Pink Cowboys](https://members.iracing.com/membersite/member/LeagueView.do?league=12360){:target="_blank"} | | |
-|[Sim Gaming Expo Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12362){:target="_blank"} |[Discord](https://discord.gg/BtwTEjMZ6n){:target="_blank"} |The sim Gaming Expo Truck Series is ran and organized by Premier Sim Racing \(acting under Regan Bogue Motorsports, a registered Limited Liability Corporation \(LLC\), operating under the state laws of The Commonwealth of Massachusetts and the federal laws governed by The United States of America\)\. |
-|[Tucker Memorial](https://members.iracing.com/membersite/member/LeagueView.do?league=12363){:target="_blank"} | | |
-|[W\.O\.O\.L Wide Open Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=12361){:target="_blank"} |[Discord](https://discord.gg/EDywtScShE){:target="_blank"} |Wide Open Oval League |
-|[HOC Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12358){:target="_blank"} | | |
-|[Pro'ish Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12359){:target="_blank"} | |A league for the members of the Pro'ish Gamers Discord |
+|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Arca Brakes Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12367){:target="_blank"} | |For fun Arca Series on dirt and asphalt |
 |[Wednesday Night GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=12368){:target="_blank"} |[Discord](https://discord.gg/RCFHUvA){:target="_blank"} |Bi\-weekly Wednesday Night @7:30pm PST https://discord\.gg/RCFHUvA |
 |[Adrenaline iSim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12369){:target="_blank"} | |2025 Racing League |
@@ -79,6 +56,21 @@
 |[NEW ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12417){:target="_blank"} | |Clean ARCA racing I hope |
 |[Australian Pro Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12419){:target="_blank"} | |We run Pro4 and Pro2 truck\. |
 |[GRAND NATIONAL PRO SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12422){:target="_blank"} | | |
-|[HCO xfinity series](https://members.iracing.com/membersite/member/LeagueView.do?league=12423){:target="_blank"} | | |
+|[Down Bad Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12423){:target="_blank"} | |Speed, Fun, and friendly competition\. Join us multiple nights a week to scratch that racing itch along side new competition\. Whether you're a seasoned driver or still learning, join a community that loves racing and above all, having fun\. Any questions can be answered and additional info can be found in our discord\! |
 |[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12421){:target="_blank"} | |Cup and Xfinity cars |
+|[Exclusive Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12439){:target="_blank"} | |Esports League |
+|[Grass Roots Racing MX5 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12425){:target="_blank"} | |We run MX5s Tuesday at 8pm EST |
+|[Knoxville Nights Weekly League](https://members.iracing.com/membersite/member/LeagueView.do?league=12437){:target="_blank"} | |Races every Monday night at Knoxville\! |
+|[Late Apex Driving Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12435){:target="_blank"} | | |
+|[Legends Elite Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12424){:target="_blank"} | |Pulse Power Legend Association |
+|[Slipstream Racing Alliance Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=12436){:target="_blank"} |[Discord](https://discord.gg/dsckpw9fsp){:target="_blank"} |Our mission is to create a fun, inclusive, and respectful racing series that fosters a community of passionate drivers and fans\. We aim to provide a competitive yet friendly environment where sportsmanship, respect, and camaraderie take center stage\. By prioritizing safety, fair play, and enjoyment, we strive to bring together drivers of all levels to experience the thrill of racing, build lasting friendships, and celebrate the spirit of competition\. Whether on the track or in the pit, our focus is on making every race a memorable and positive experience for all involved\. |
+|[STL SPRINT CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=12426){:target="_blank"} | |Global Mazda MX5 |
+|[Thompson Dirt series](https://members.iracing.com/membersite/member/LeagueView.do?league=12438){:target="_blank"} | | |
+|[TIME TO RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=12428){:target="_blank"} | |Oficiální liga v iRacingu české komunity Time To Race\. |
+|[United Automobile Racing Club \- UARC](https://members.iracing.com/membersite/member/LeagueView.do?league=12429){:target="_blank"} |[Discord](https://discord.gg/ZcANU6WsQU){:target="_blank"} |Free to join, beginner friendly ARCA league, Wednesdays at 8pm EST |
+|[Walker Sports League](https://members.iracing.com/membersite/member/LeagueView.do?league=12434){:target="_blank"} | |Best racers in the world competing for real prizes\. |
+|[Winged Nation League](https://members.iracing.com/membersite/member/LeagueView.do?league=12431){:target="_blank"} |[Discord](https://discord.gg/6pEpCnyk){:target="_blank"} |Outlaw Micro Sprint Car/ 360 Sprint Car |
+|[XMS Indycar Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12427){:target="_blank"} | |XMSRacing\.com is pleased to present the Indycar Championship Series\. ALL REGISTRATION IS VIA THE WEB PAGE\. www\.xmsracing\.com |
+|[Matt Malone Patreon League](https://members.iracing.com/membersite/member/LeagueView.do?league=12430){:target="_blank"} | |This is a league for the Patreon Patriots\! |
+|[REVSPORT International](https://members.iracing.com/membersite/member/LeagueView.do?league=12432){:target="_blank"} | | |
 
