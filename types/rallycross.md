@@ -18,7 +18,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------------|-------------------------|-------------------------|--------------------------|
-|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25a |North America |24 |5036 | | | | | |
+|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25a |North America |25 |4984 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1\-2 Rallycross |Europe |23 |1840 |Both | | | | |
 |[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |Rallycross Cup |Europe |22 |1770 |Both | | | | |
 |[AusRX/AusTrux](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 10 |Australia-NZ |17 |2450 | | | | | |

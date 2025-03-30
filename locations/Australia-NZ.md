@@ -94,9 +94,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|------------|-------|----|-----|------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A WnS Super Formula Lights \- Spreyton Ciders |Australia-NZ |69 |2635 |Both | | | | |
-|[FDL \- Formula Drivers League](https://members.iracing.com/membersite/member/LeagueView.do?league=12259){:target="_blank"} |FDL Recruitment Series |Australia-NZ |30 |3746 | |Snetterton Circuit |Tue, April 01 03:30AM EDT |Tue, April 01 08:30AM BST |Tue, April 01 06:30PM AEDT |
 
 # Sports Car
 
@@ -204,7 +203,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|-------|----|-----|------------------|-------------------------|-------------------------|--------------------------|
 |[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=11951){:target="_blank"} |DML 2025 Midget Series |Australia-NZ |125 |3914 |Fixed | | | | |
-|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI Simsports Midgets 25 |Australia-NZ |77 |3291 | | | | | |
+|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI Simsports Midgets 25 |Australia-NZ |77 |3291 | |Lucas Oil Speedway |Sun, March 30 03:30AM EDT |Sun, March 30 08:30AM BST |Sun, March 30 06:30PM AEDT |
 |[Wheels Up Wednesday Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12227){:target="_blank"} |SEAON 1 MIDGETS |Australia-NZ |71 |3116 | | | | | |
 |[Australian Super Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |𝗠𝗼𝗻𝗱𝗮𝘆 𝗡𝗶𝗴𝗵𝘁 𝗠𝗶𝗱𝗴𝗲𝘁 𝗦𝗲𝗿𝗶𝗲𝘀 |Australia-NZ |47 |2584 | |Huset's Speedway |Mon, March 31 06:00AM EDT |Mon, March 31 11:00AM BST |Mon, March 31 09:00PM AEDT |
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Midgets Super Series 2025 |Australia-NZ |36 |2862 | |Weedsport Speedway |Tue, April 01 06:00AM EDT |Tue, April 01 11:00AM BST |Tue, April 01 09:00PM AEDT |
@@ -215,7 +214,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------|------------|-------|----|-----|---------------------------|-------------------------|-------------------------|--------------------------|
-|[ASND Harman Designs Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |2025 Speedway Series 360 Sprintcars |Australia-NZ |76 |3406 | | | | | |
+|[ASND Harman Designs Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |2025 Speedway Series 360 Sprintcars |Australia-NZ |76 |3406 | |Knoxville Raceway |Sun, March 30 05:30AM EDT |Sun, March 30 10:30AM BST |Sun, March 30 08:30PM AEDT |
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL 360 Sprintcars Super Series 2025 |Australia-NZ |51 |3484 | |The Dirt Track at Charlotte |Fri, April 04 06:00AM EDT |Fri, April 04 11:00AM BST |Fri, April 04 09:00PM AEDT |
 
 ### Dirt Sprintcar - 410
@@ -272,7 +271,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[V8 Veterans Season 22](https://members.iracing.com/membersite/member/LeagueView.do?league=6788){:target="_blank"} |Season 22 |Australia-NZ |214 |1926 | | | | | |
-|[V8 Veterans Season 23](https://members.iracing.com/membersite/member/LeagueView.do?league=6455){:target="_blank"} |Season 23 |Australia-NZ |201 |1971 |Fixed | | | | |
+|[V8 Veterans Season 23](https://members.iracing.com/membersite/member/LeagueView.do?league=6455){:target="_blank"} |Season 23 |Australia-NZ |201 |1971 |Fixed |Mount Panorama Circuit |Thu, April 03 04:31AM EDT |Thu, April 03 09:31AM BST |Thu, April 03 07:31PM AEDT |
 |[PREMIER ENDURANCE LEAGUE \- GT3 LIMITED](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} |The DASH OffRoad Australian GT3 Endurance Championship Season 5 |Australia-NZ |95 |2040 |Open |Autodromo Nazionale Monza |Fri, April 04 05:00AM EDT |Fri, April 04 10:00AM BST |Fri, April 04 08:00PM AEDT |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) SEASON 1 2025 |Australia-NZ |93 |2222 |Open | | | | |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |PRAC AND QUAL SRW V8 TUESDAY |Australia-NZ |66 |2014 |Open | | | | |
@@ -288,10 +287,11 @@
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A Mountain Men 200 Series |Australia-NZ |45 |2083 |Both | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR\. Tuesday Challenge S1 2025 |Australia-NZ |41 |1329 | | | | | |
 |[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |The Pisston Cup 2\.0 |Australia-NZ |40 |1668 |Both | | | | |
-|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 4 |Australia-NZ |40 |1930 | | | | | |
+|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 4 |Australia-NZ |40 |1930 | |Mount Panorama Circuit |Sun, March 30 02:00AM EDT |Sun, March 30 07:00AM BST |Sun, March 30 05:00PM AEDT |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |TOP 10 SHOOTOUT SRW V8 TUESDAY |Australia-NZ |35 |2252 |Open | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Sunday Night Heat Series |Australia-NZ |35 |1435 | | | | | |
 |[Roadster Rumble](https://members.iracing.com/membersite/member/LeagueView.do?league=8024){:target="_blank"} |Clubsport Rumble \- Season one |Australia-NZ |34 |1962 | | | | | |
+|[FDL \- Formula Drivers League](https://members.iracing.com/membersite/member/LeagueView.do?league=12259){:target="_blank"} |FDL Recruitment Series |Australia-NZ |30 |3746 | |Snetterton Circuit |Tue, April 01 03:30AM EDT |Tue, April 01 08:30AM BST |Tue, April 01 06:30PM AEDT |
 |[V8SCOPS Supports \- VEE Eights](https://members.iracing.com/membersite/member/LeagueView.do?league=10713){:target="_blank"} |2025 Season |Australia-NZ |30 |2109 | | | | | |
 |[SCNZ ALLPORTS V8 CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |ALLPORTS MOTORSPORT SUMMER SERIES 2024/25 |Australia-NZ |29 |1979 | | | | | |
 |[iRacing World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |IRWC VRS Porsche Carrera Cup Season 1 |Australia-NZ |25 |2529 | |Sachsenring |Mon, March 31 03:30AM EDT |Mon, March 31 08:30AM BST |Mon, March 31 06:30PM AEDT |

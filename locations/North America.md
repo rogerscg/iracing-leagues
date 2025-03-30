@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|-------------------------------|-------------------------|-------------------------|--------------------------|
-|[FUEL Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2844){:target="_blank"} |2025A FUEL Premier Series |North America |50 |2293 |Fixed | | | | |
+|[FUEL Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2844){:target="_blank"} |2025A FUEL Premier Series |North America |50 |2293 |Fixed |[Legacy] Phoenix Raceway - 2008 |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[DriverTees\.com UERA Stock Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12292){:target="_blank"} |UERA Season 2 presented by Drivertees\.com |North America |47 |3976 | | | | | |
 |[GFi Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10821){:target="_blank"} |ARCA Season 5 |North America |34 |1758 |Fixed |Texas Motor Speedway |Fri, April 04 07:30PM EDT |Sat, April 05 12:30AM BST |Sat, April 05 10:30AM AEDT |
 |[Ohio Sim Racing ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7600){:target="_blank"} |2025 Arca |North America |30 |2216 | | | | | |
@@ -34,9 +34,9 @@
 |------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|-------------|-------|----|-----|---------------------------------------|-------------------------|-------------------------|--------------------------|
 |[PGR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=8087){:target="_blank"} |2025 Intimidator Superspeedway Series |North America |122 |3091 | | | | | |
 |[FTF\.gg \| BV FTF CUP \| Barr Visuals FTF Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2709){:target="_blank"} |2025 Barr Visuals FTF Cup Series |North America |101 |4848 |Fixed | | | | |
-|[Affinity Racing NEXTUP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9675){:target="_blank"} |ARS NEXTUP Season 5 |North America |86 |2209 | | | | | |
+|[Affinity Racing NEXTUP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9675){:target="_blank"} |ARS NEXTUP Season 5 |North America |86 |2209 | |Homestead Miami Speedway |Wed, April 02 07:30PM EDT |Thu, April 03 12:30AM BST |Thu, April 03 10:30AM AEDT |
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |Trucks Season 3 |North America |83 |1547 | | | | | |
-|[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |Qualifying |North America |81 |None |Open |Martinsville Speedway |Sat, March 29 02:00PM EDT |Sat, March 29 06:00PM GMT |Sun, March 30 05:00AM AEDT |
+|[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |Qualifying |North America |81 |None |Open |Darlington Raceway |Fri, April 04 08:00PM EDT |Sat, April 05 01:00AM BST |Sat, April 05 11:00AM AEDT |
 |[NR NIGHT IN AMERICA](https://members.iracing.com/membersite/member/LeagueView.do?league=9427){:target="_blank"} |MARCH SUPERSPEEDWAY |North America |81 |3404 | | | | | |
 |[GGR iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=6424){:target="_blank"} |GGR Grand National Season 3 |North America |76 |2910 |Fixed |Iowa Speedway |Tue, April 01 09:30PM EDT |Wed, April 02 02:30AM BST |Wed, April 02 12:30PM AEDT |
 |[GEARS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9223){:target="_blank"} |2025 GEARS Cup Series |North America |74 |2344 |Fixed |Bristol Motor Speedway |Mon, March 31 07:00PM EDT |Tue, April 01 12:00AM BST |Tue, April 01 10:00AM AEDT |
@@ -65,10 +65,9 @@
 |[2025A OSCA Weekend Woodsmen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3258){:target="_blank"} |OSCA Testing |North America |47 |2464 |Fixed | | | | |
 |[CFM Speedway Monkeys Presented by The ButtKicker](https://members.iracing.com/membersite/member/LeagueView.do?league=11400){:target="_blank"} |CFM Speedway Monkeys powered by The ButtKicker |North America |46 |1992 |Fixed | | | | |
 |[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2025 S1 \- Super Speedway \(Thurs 9:00pm\) |North America |46 |1776 |Fixed | | | | |
-|[Ruff\-Neck Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9844){:target="_blank"} |Season 6:  James Wagoner Welding Superspeedway Series |North America |45 |1366 |Fixed | | | | |
+|[Ruff\-Neck Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9844){:target="_blank"} |Season 6:  James Wagoner Welding Superspeedway Series |North America |45 |1366 |Fixed |Daytona International Speedway |Mon, March 31 07:00PM EDT |Tue, April 01 12:00AM BST |Tue, April 01 10:00AM AEDT |
 |[RODDCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=4807){:target="_blank"} |Season 34 |North America |44 |4305 |Fixed | | | | |
 |[Blazing Pedals Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2531){:target="_blank"} |Blazing Pedals Season 10 |North America |41 |2788 | | | | | |
-|[Xtreme Motorsports Ricmotech Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1490){:target="_blank"} |Season 20 |North America |40 |2311 |Fixed | | | | |
 |[Battle of the Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10305){:target="_blank"} |Racers Elite \- Class Clash Series \(Fixed\) |North America |40 |1806 |Fixed | | | | |
 |[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |2025 Road To Cup |North America |40 |1794 |Fixed |Darlington Raceway |Thu, April 03 07:30PM EDT |Fri, April 04 12:30AM BST |Fri, April 04 10:30AM AEDT |
 |[Bolt Racing League: Bump N Buddies series](https://members.iracing.com/membersite/member/LeagueView.do?league=10175){:target="_blank"} |Bump N Buddies Season \#5 |North America |39 |1926 | | | | | |
@@ -78,7 +77,7 @@
 |[RPES Pavement Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11711){:target="_blank"} |2025 RPES Pavement Series |North America |38 |2081 | | | | | |
 |[GLSR Mr\.Radiator Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5180){:target="_blank"} |Season 5 |North America |37 |2727 |Fixed |World Wide Technology Raceway (Gateway) |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[Tuesday Night Thunder VIP SuperSpeedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=10230){:target="_blank"} |Season 6 \- Invite Only |North America |37 |3528 |Fixed | | | | |
-|[Premium Stock Car Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9385){:target="_blank"} |Season 5 |North America |36 |2216 | |New Hampshire Motor Speedway |Sat, March 29 08:00PM EDT |Sun, March 30 12:00AM GMT |Sun, March 30 11:00AM AEDT |
+|[Premium Stock Car Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9385){:target="_blank"} |Season 5 |North America |36 |2199 | | | | | |
 |[OutCast Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12251){:target="_blank"} |OutCast Truck Series |North America |36 |1752 |Fixed |Nashville Superspeedway |Mon, March 31 08:00PM EDT |Tue, April 01 01:00AM BST |Tue, April 01 11:00AM AEDT |
 |[The High Line Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4345){:target="_blank"} |Season 9 |North America |35 |2462 | | | | | |
 |[VARC National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3842){:target="_blank"} |VARC National Series V |North America |35 |2036 | | | | | |
@@ -95,8 +94,6 @@
 |[Raubcar](https://members.iracing.com/membersite/member/LeagueView.do?league=11209){:target="_blank"} |Season One |North America |25 |2795 | | | | | |
 |[IWM Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8752){:target="_blank"} |IWM Multi\-Car Series Season \#1 |North America |25 |2224 | | | | | |
 |[American Sim Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4610){:target="_blank"} |Hauck Designs Season 11 |North America |24 |2111 |Fixed |Homestead Miami Speedway |Wed, April 02 08:30PM EDT |Thu, April 03 01:30AM BST |Thu, April 03 11:30AM AEDT |
-|[\#4 Wide Racing League \- JOIN THE DISCORD IN DESCRIPTION](https://members.iracing.com/membersite/member/LeagueView.do?league=4187){:target="_blank"} |All\-Star Main |North America |23 |3682 |Fixed | | | | |
-|[\#4 Wide Racing League \- JOIN THE DISCORD IN DESCRIPTION](https://members.iracing.com/membersite/member/LeagueView.do?league=4187){:target="_blank"} |All\-Star Open |North America |21 |2795 |Fixed | | | | |
 |[Stinger Racing Association \- Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11360){:target="_blank"} |Season 1 |North America |17 |1776 | | | | | |
 |[NORA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3806){:target="_blank"} |Daytona Pole Day |North America |17 |None | | | | | |
 |[\(Parked\) Lucky Dog Sim Racing Gen 7 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2959){:target="_blank"} |Eight |North America |16 |1976 |Both | | | | |
@@ -106,7 +103,8 @@
 |[USAE Community Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11862){:target="_blank"} |USAE S1 Q1 Community League |North America |13 |2117 | | | | | |
 |[Mixed Oval Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11953){:target="_blank"} |Season 1 |North America |11 |1886 |Fixed | | | | |
 |[Bunch Of Peckaheads](https://members.iracing.com/membersite/member/LeagueView.do?league=11794){:target="_blank"} |Winter Leg Warmer |North America |11 |1281 | | | | | |
-|[RBRL \- Rust Bucket Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12309){:target="_blank"} |Rust Bucket ARCA Season 0 |North America |11 |1228 | |Texas Motor Speedway |Sat, March 29 12:00PM EDT |Sat, March 29 04:00PM GMT |Sun, March 30 03:00AM AEDT |
+|[RBRL \- Rust Bucket Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12309){:target="_blank"} |Rust Bucket ARCA Season 0 |North America |11 |1214 | | | | | |
+|[LIRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12371){:target="_blank"} |Season 1 |North America |10 |1212 |Fixed | | | | |
 
 ### NASCAR 2022 NextGen
 
@@ -122,12 +120,12 @@
 |[CTC 712 Breaks Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6525){:target="_blank"} |Cup Season 9 \(2025a\) |North America |77 |2594 |Fixed |Talladega Superspeedway |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[No Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3100){:target="_blank"} |Practice |North America |73 |2341 |Fixed | | | | |
 |[Mystic Racing League \(NASCAR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11884){:target="_blank"} |NASCAR Cup Series |North America |71 |1828 |Fixed | | | | |
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Nichols Oil Pros Cup Series Season 7 |North America |69 |2073 | |Richmond Raceway |Sun, March 30 08:15PM EDT |Mon, March 31 01:15AM BST |Mon, March 31 11:15AM AEDT |
-|[iSNF: NextGen Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5875){:target="_blank"} |CUP SEASON 9 |North America |69 |2143 |Fixed |Martinsville Speedway |Sat, March 29 05:00PM EDT |Sat, March 29 09:00PM GMT |Sun, March 30 08:00AM AEDT |
-|[Slide Jawb Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2894){:target="_blank"} |Season 14 |North America |69 |3405 |Fixed | | | | |
+|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Nichols Oil Pros Cup Series Season 7 |North America |69 |2073 | |Richmond Raceway |Sun, April 06 08:15PM EDT |Mon, April 07 01:15AM BST |Mon, April 07 10:15AM AEST |
+|[iSNF: NextGen Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5875){:target="_blank"} |CUP SEASON 9 |North America |69 |2140 |Fixed |Darlington Raceway |Sat, April 05 05:00PM EDT |Sat, April 05 10:00PM BST |Sun, April 06 07:00AM AEST |
+|[Slide Jawb Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2894){:target="_blank"} |Season 14 |North America |69 |3405 |Fixed |Bristol Motor Speedway |Tue, April 01 08:00PM EDT |Wed, April 02 01:00AM BST |Wed, April 02 11:00AM AEDT |
 |[National Iracing Association \(NIRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} |Cup Season 2 |North America |67 |1930 |Fixed | | | | |
+|[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |2025 Full Length Cup Challenge |North America |67 |3896 |Open |Darlington Raceway |Sat, April 05 07:45PM EDT |Sun, April 06 12:45AM BST |Sun, April 06 09:45AM AEST |
 |[ARCS A² Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7597){:target="_blank"} |2025 \- A² Season |North America |66 |2382 |Fixed | | | | |
-|[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |2025 Full Length Cup Challenge |North America |65 |3875 |Open |Martinsville Speedway |Sat, March 29 07:45PM EDT |Sat, March 29 11:45PM GMT |Sun, March 30 10:45AM AEDT |
 |[NASCAR iRacing FedEx Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10218){:target="_blank"} |NASCAR iRacing FedEx Cup Series S3 |North America |64 |2759 |Fixed | | | | |
 |[CiL College Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6214){:target="_blank"} |College Cup Series Season 12 |North America |64 |2440 | |Kentucky Speedway |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
 |[\#4 Wide Racing League \- JOIN THE DISCORD IN DESCRIPTION](https://members.iracing.com/membersite/member/LeagueView.do?league=4187){:target="_blank"} |TJ's Team Grand National Series S7 |North America |63 |3157 |Fixed | | | | |
@@ -138,16 +136,16 @@
 |[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Cup season 5 |North America |62 |2219 |Fixed | | | | |
 |[GFi Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10821){:target="_blank"} |Next Gen Season 4 |North America |61 |1590 |Fixed | | | | |
 |[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |Qualifying/Misc Races |North America |61 |None |Open | | | | |
+|[Saturday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9745){:target="_blank"} |2025 Season 4 |North America |60 |3151 |Fixed | | | | |
 |[Front Row Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7132){:target="_blank"} |Cup 2025 |North America |60 |2530 |Both | | | | |
 |[CHOPPIN IT UP NEXTGEN SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8663){:target="_blank"} |NEXTGEN SEASON 5 |North America |59 |2162 | | | | | |
-|[Saturday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9745){:target="_blank"} |2025 Season 4 |North America |59 |3158 |Fixed |Kentucky Speedway |Sat, March 29 09:00PM EDT |Sun, March 30 02:00AM BST |Sun, March 30 12:00PM AEDT |
 |[SPEED](https://members.iracing.com/membersite/member/LeagueView.do?league=8999){:target="_blank"} |2025a |North America |58 |2130 | | | | | |
 |[AREA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7386){:target="_blank"} |Cup Series Season 7 |North America |58 |4837 | | | | | |
 |[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |Cup 2025 |North America |57 |2386 |Both |Darlington Raceway |Thu, April 03 06:30PM EDT |Thu, April 03 11:30PM BST |Fri, April 04 09:30AM AEDT |
 |[FastTrack Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5859){:target="_blank"} |2025 Cup Season |North America |57 |2939 |Open | | | | |
 |[HTL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7577){:target="_blank"} |Season 6 |North America |55 |2474 | | | | | |
 |[Nitro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5604){:target="_blank"} |Season 7 |North America |54 |3444 | | | | | |
-|[\=SIM500\= Monday \- Cooks Landscape Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3852){:target="_blank"} |2025 Cooks Landscape Group Cup Series |North America |54 |3320 | |Rockingham Speedway |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
+|[\=SIM500\= Monday \- Cooks Landscape Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3852){:target="_blank"} |2025 Cooks Landscape Group Cup Series |North America |54 |3320 | |Martinsville Speedway |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
 |[OMSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6978){:target="_blank"} |CUP Series, 2024 S2 & 2025 S1 |North America |53 |2503 |Fixed |Kentucky Speedway |Tue, April 01 11:59PM EDT |Wed, April 02 04:59AM BST |Wed, April 02 02:59PM AEDT |
 |[iNRS Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8467){:target="_blank"} |2025 iNRS Cup Series |North America |53 |2394 |Fixed | | | | |
 |[ASPHALT OFFICIAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9747){:target="_blank"} |FEATURE SERIES \[2025\] |North America |52 |2322 | | | | | |
@@ -160,18 +158,19 @@
 |[Riptide Radio Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5979){:target="_blank"} |Riptide Radio Cup Series Season 5 |North America |49 |1919 | |Homestead Miami Speedway |Sun, March 30 06:45PM EDT |Sun, March 30 11:45PM BST |Mon, March 31 09:45AM AEDT |
 |[Full Throttle Performance Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8695){:target="_blank"} |2025  Cup  Season |North America |48 |2224 |Open |Martinsville Speedway |Wed, April 02 07:00PM EDT |Thu, April 03 12:00AM BST |Thu, April 03 10:00AM AEDT |
 |[Downforce Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3111){:target="_blank"} |DRS Grow Master Cup Season 16 |North America |48 |2052 | | | | | |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Midwest Cup Series 2025 |North America |48 |1529 |Both | | | | |
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Midwest Cup Series 2025 |North America |48 |1529 |Both |Martinsville Speedway |Fri, April 04 11:15PM EDT |Sat, April 05 04:15AM BST |Sat, April 05 02:15PM AEDT |
 |[Bump And Run Cup Setup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7545){:target="_blank"} |Season 6 |North America |47 |1825 | | | | | |
 |[Bonfire Racing League \- BPC](https://members.iracing.com/membersite/member/LeagueView.do?league=4960){:target="_blank"} |Season 12 |North America |47 |1862 |Fixed |Atlanta Motor Speedway |Sun, March 30 09:00AM EDT |Sun, March 30 02:00PM BST |Mon, March 31 12:00AM AEDT |
 |[ISCA \- Thursday Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3914){:target="_blank"} |ISCA \- Thursday Cup Series \- 2025 |North America |47 |3507 |Open | | | | |
 |[Polar Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1265){:target="_blank"} |2024\-25 Vortex Series |North America |46 |3530 | | | | | |
-|[Affinity Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8601){:target="_blank"} |AFFINITY CUP Season Five |North America |46 |2792 |Fixed | | | | |
+|[Affinity Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8601){:target="_blank"} |AFFINITY CUP Season Five |North America |46 |2792 |Fixed |Homestead Miami Speedway |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
 |[National Iracing Association \(NIRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} |NIRA Cup Season 3 |North America |46 |1926 |Fixed | | | | |
 |[NEXXTCAR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8985){:target="_blank"} |Season 7 \- Cup |North America |45 |2270 | |Homestead Miami Speedway |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Friday Night Thunder Next Gen Cup Series \- S1 |North America |45 |2087 |Fixed | | | | |
 |[Freedom Motorsport Alliance \(FMA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} |FMA FFTV Next Gen Cup Series |North America |45 |2056 | | | | | |
 |[RPE Roundy\-Round Series w/RFK Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4493){:target="_blank"} |RPE Roundy\-Round Series w/RFK Racing |North America |45 |2683 | | | | | |
 |[Outcast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7861){:target="_blank"} |Season 9 |North America |44 |1708 | |Bristol Motor Speedway |Sun, March 30 03:00PM EDT |Sun, March 30 08:00PM BST |Mon, March 31 06:00AM AEDT |
+|[UIS \- FilterTime Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10781){:target="_blank"} |FilterTime S5 |North America |42 |2222 |Fixed | | | | |
 |[Burn Rubber Racing \(BRR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4846){:target="_blank"} |Sunday 2024\-12 to 2025\-06 |North America |41 |2073 |Fixed |Talladega Superspeedway |Sun, March 30 06:30PM EDT |Sun, March 30 11:30PM BST |Mon, March 31 09:30AM AEDT |
 |[Racing Revolution](https://members.iracing.com/membersite/member/LeagueView.do?league=8409){:target="_blank"} |Chapman Environmental Services Cup Series Season 5 \(2025\) |North America |41 |2699 |Fixed |Darlington Raceway |Wed, April 02 07:30PM EDT |Thu, April 03 12:30AM BST |Thu, April 03 10:30AM AEDT |
 |[Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2732){:target="_blank"} |2025 Season 1 |North America |41 |3212 |Fixed |Darlington Raceway |Tue, April 01 10:55PM EDT |Wed, April 02 03:55AM BST |Wed, April 02 01:55PM AEDT |
@@ -186,12 +185,11 @@
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Cup Series Season 7 |North America |38 |1624 | | | | | |
 |[Grand $lam $eries](https://members.iracing.com/membersite/member/LeagueView.do?league=10141){:target="_blank"} |Grand $lam $eries Season 1 |North America |38 |2079 |Fixed | | | | |
 |[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9598){:target="_blank"} |QFRL Next Gen 2025 Season |North America |38 |1729 |Fixed |Darlington Raceway |Fri, April 04 07:00PM EDT |Sat, April 05 12:00AM BST |Sat, April 05 10:00AM AEDT |
-|[UIS \- FilterTime Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10781){:target="_blank"} |FilterTime S5 |North America |38 |2305 |Fixed |Atlanta Motor Speedway |Sat, March 29 08:30PM EDT |Sun, March 30 12:30AM GMT |Sun, March 30 11:30AM AEDT |
 |[Racers Elite \- Single Events \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10780){:target="_blank"} |Single Events 2025 |North America |37 |1994 | | | | | |
 |[American Sheepdog Racing League \(ASDR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4410){:target="_blank"} |ASDR RevSimShop\.com Cup Series Season 5 |North America |37 |1952 |Fixed |Circuit of the Americas |Thu, April 03 08:00PM EDT |Fri, April 04 01:00AM BST |Fri, April 04 11:00AM AEDT |
 |[Droppin' The Hammah Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7372){:target="_blank"} |Droppin' the Hammah Season 1 |North America |36 |2667 |Fixed |Talladega Superspeedway |Sun, March 30 06:30PM EDT |Sun, March 30 11:30PM BST |Mon, March 31 09:30AM AEDT |
 |[DrummondSim](https://members.iracing.com/membersite/member/LeagueView.do?league=614){:target="_blank"} |DRS Hiver 2025 \(Janvier\) |North America |36 |1998 |Fixed |North Wilkesboro Speedway |Tue, April 01 07:00PM EDT |Wed, April 02 12:00AM BST |Wed, April 02 10:00AM AEDT |
-|[Door to Door Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11746){:target="_blank"} |Door to Door 2025 Cup Series |North America |36 |1901 | | | | | |
+|[Door to Door Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11746){:target="_blank"} |Door to Door 2025 Cup Series |North America |36 |1901 | |Martinsville Speedway |Sun, March 30 07:00PM EDT |Mon, March 31 12:00AM BST |Mon, March 31 10:00AM AEDT |
 |[AOLL Racing's Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2269){:target="_blank"} |2025 Season 1 |North America |36 |1650 |Fixed |Martinsville Speedway |Sun, March 30 06:00PM EDT |Sun, March 30 11:00PM BST |Mon, March 31 09:00AM AEDT |
 |[GEC eNASCAR League Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9504){:target="_blank"} |GEC NPC Cup Series Season 5 |North America |35 |1947 |Fixed | | | | |
 |[NAOR \- North American Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7472){:target="_blank"} |Season 5 |North America |35 |2976 |Fixed | | | | |
@@ -199,9 +197,9 @@
 |[GLR CRUISIN CLASSICS/NASTY'S SPORTS BAR NEXT GEN SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=6838){:target="_blank"} |Cruisin Classics/Nastys Next Gen Season 7 |North America |35 |2482 | | | | | |
 |[NORA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3806){:target="_blank"} |2025 Season \#5 |North America |35 |2692 | | | | | |
 |[Red Diamond Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11899){:target="_blank"} |RDRL Cup Series 2025 |North America |34 |1996 | |Martinsville Speedway |Mon, March 31 08:30PM EDT |Tue, April 01 01:30AM BST |Tue, April 01 11:30AM AEDT |
+|[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Draught Masters Season 5 |North America |34 |1664 |Both |Talladega Superspeedway |Sat, April 05 09:00PM EDT |Sun, April 06 02:00AM BST |Sun, April 06 11:00AM AEST |
 |[GEC eNASCAR League Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9504){:target="_blank"} |NPC Cup Series Season 6 |North America |34 |1966 |Fixed |Darlington Raceway |Thu, April 03 07:15PM EDT |Fri, April 04 12:15AM BST |Fri, April 04 10:15AM AEDT |
 |[Racers Elite \- Thursday Next Gen Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9514){:target="_blank"} |Racers Elite \- Next Gen Fixed Series \(Season 6\) |North America |33 |1842 |Fixed |Darlington Raceway |Thu, April 03 05:35PM EDT |Thu, April 03 10:35PM BST |Fri, April 04 08:35AM AEDT |
-|[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Draught Masters Season 5 |North America |33 |1674 |Both |North Wilkesboro Speedway |Sat, March 29 09:00PM EDT |Sun, March 30 02:00AM BST |Sun, March 30 12:00PM AEDT |
 |[DLBTV Racing League Presented by\. DriveSmart](https://members.iracing.com/membersite/member/LeagueView.do?league=12168){:target="_blank"} |DLBTV Racing League: Season 5 |North America |33 |1954 |Fixed | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR Next Gen Winter 2024\-25 |North America |32 |1875 |Fixed | | | | |
 |[Stampede Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8755){:target="_blank"} |2025 \- SRL Next Gens |North America |32 |2512 |Fixed |Talladega Superspeedway |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
@@ -212,7 +210,7 @@
 |[OTSS Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12248){:target="_blank"} |2025 Cup Season |North America |30 |2405 | | | | | |
 |[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |2025 Gary Ridgeway Series |North America |29 |1858 |Fixed |Martinsville Speedway |Tue, April 01 07:45PM EDT |Wed, April 02 12:45AM BST |Wed, April 02 10:45AM AEDT |
 |[ITRL Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2808){:target="_blank"} |9th All Star Race |North America |29 |2864 |Fixed | | | | |
-|[Elite Cup Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7646){:target="_blank"} |2025 ECR Cup Series Presented by Sim Racing Media LLC |North America |29 |2431 |Fixed |Atlanta Motor Speedway |Sat, March 29 07:30PM EDT |Sat, March 29 11:30PM GMT |Sun, March 30 10:30AM AEDT |
+|[Elite Cup Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=7646){:target="_blank"} |2025 ECR Cup Series Presented by Sim Racing Media LLC |North America |29 |2410 |Fixed | | | | |
 |[Riptide Radio Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5979){:target="_blank"} |802 Cup Series Practice Races |North America |28 |1952 | | | | | |
 |[SCSRA Dev's Sports Cards Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5598){:target="_blank"} |SCSRA NextGen Season 9 |North America |28 |1957 | |Martinsville Speedway |Wed, April 02 08:30PM EDT |Thu, April 03 01:30AM BST |Thu, April 03 11:30AM AEDT |
 |[Old Glory Next Gen Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8046){:target="_blank"} |2025 Spring |North America |28 |1649 |Fixed | | | | |
@@ -231,7 +229,7 @@
 |[Friggy Diggy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9758){:target="_blank"} |Friggy Diggy Next Gen Season 2 |North America |21 |1496 |Fixed |Martinsville Speedway |Wed, April 02 07:30PM EDT |Thu, April 03 12:30AM BST |Thu, April 03 10:30AM AEDT |
 |[Universal eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=10053){:target="_blank"} |\(Universal Nascar iRacing Series\) \(Season 1\) |North America |21 |1860 | |Auto Club Speedway |Thu, April 03 08:00PM EDT |Fri, April 04 01:00AM BST |Fri, April 04 11:00AM AEDT |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Thunder Valley Next\-Gen Season 1 |North America |20 |1417 |Fixed |Atlanta Motor Speedway |Sun, March 30 06:00PM EDT |Sun, March 30 11:00PM BST |Mon, March 31 09:00AM AEDT |
-|[Challenger Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7117){:target="_blank"} |2025 Challenger Cup Series Season 1 |North America |20 |2443 |Both | | | | |
+|[Challenger Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7117){:target="_blank"} |2025 Challenger Cup Series Season 1 |North America |20 |2443 |Both |Martinsville Speedway |Tue, April 01 07:00PM EDT |Wed, April 02 12:00AM BST |Wed, April 02 10:00AM AEDT |
 |[Blackout Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11326){:target="_blank"} |Season 2 |North America |19 |1256 | |Dover Motor Speedway |Sun, March 30 07:00PM EDT |Mon, March 31 12:00AM BST |Mon, March 31 10:00AM AEDT |
 |[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11954){:target="_blank"} |NG Cup |North America |16 |1603 | | | | | |
 |[The Racers Syndicate](https://members.iracing.com/membersite/member/LeagueView.do?league=3108){:target="_blank"} |2025 Twisted Tea Series |North America |16 |1410 |Fixed | | | | |
@@ -249,7 +247,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[NARAS Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=10093){:target="_blank"} |NARAS Season 1 |North America |65 |1800 | |Dover Motor Speedway |Sat, March 29 06:00PM EDT |Sat, March 29 10:00PM GMT |Sun, March 30 09:00AM AEDT |
+|[NARAS Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=10093){:target="_blank"} |NARAS Season 1 |North America |65 |1800 | |Kansas Speedway |Sat, April 05 06:00PM EDT |Sat, April 05 11:00PM BST |Sun, April 06 08:00AM AEST |
 |[FPRL Turnkey Network Solutions Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8214){:target="_blank"} |Five Points Racing League Season 0 |North America |63 |2254 |Fixed | | | | |
 |[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Sunday Night Gen 6 |North America |58 |1845 |Fixed | | | | |
 |[SnB iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8028){:target="_blank"} |Season 5 Gen 6 Cup \(2025\-1\) |North America |58 |3043 | | | | | |
@@ -261,7 +259,7 @@
 |[Penny Pleasers Cup presented by DL Designs](https://members.iracing.com/membersite/member/LeagueView.do?league=11650){:target="_blank"} |Penny Pleasers |North America |48 |1732 |Fixed | | | | |
 |[Association for Simulated Stock Car Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6106){:target="_blank"} |ASSCAR 2024 Season 9 \- Gen 6 Cup |North America |48 |2351 |Both | | | | |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 CUP SERIES SEASON 5 |North America |46 |2136 | | | | | |
-|[Bolt Racing League: GNS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9408){:target="_blank"} |GNS Season \#4 |North America |45 |1888 |Fixed |New Hampshire Motor Speedway |Sat, March 29 07:30PM EDT |Sat, March 29 11:30PM GMT |Sun, March 30 10:30AM AEDT |
+|[Bolt Racing League: GNS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9408){:target="_blank"} |GNS Season \#4 |North America |45 |1886 |Fixed | | | | |
 |[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2025 OBRL Gen6 \- Season 1 |North America |45 |1864 |Fixed |Nashville Superspeedway |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[GAVARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7892){:target="_blank"} |GAVARCA East |North America |43 |2690 | | | | | |
 |[Freedom Racing sunday night series](https://members.iracing.com/membersite/member/LeagueView.do?league=9951){:target="_blank"} |freedom racing gen 6 season 3 |North America |43 |2562 | |Long Beach Street Circuit |Sun, March 30 09:30PM EDT |Mon, March 31 02:30AM BST |Mon, March 31 12:30PM AEDT |
@@ -277,7 +275,7 @@
 |[BMR Nascar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8366){:target="_blank"} |BMR Rotating Championship |North America |33 |1948 |Fixed | | | | |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Cup Intermediate Series Season 1 |North America |33 |2050 | |Texas Motor Speedway |Mon, March 31 07:00PM EDT |Tue, April 01 12:00AM BST |Tue, April 01 10:00AM AEDT |
 |[The Madhouse iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9847){:target="_blank"} |Gen 6 League |North America |26 |2833 | | | | | |
-|[Week 12 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9070){:target="_blank"} |W12RL Cup Series Season 2 2025 |North America |26 |2289 | | | | | |
+|[Week 12 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9070){:target="_blank"} |W12RL Cup Series Season 2 2025 |North America |26 |2289 | |Darlington Raceway |Mon, March 31 07:00PM EDT |Tue, April 01 12:00AM BST |Tue, April 01 10:00AM AEDT |
 |[Top Tier Racing Gen 6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12002){:target="_blank"} |Gen 6 |North America |25 |1599 | |Bristol Motor Speedway |Tue, April 01 08:00PM EDT |Wed, April 02 01:00AM BST |Wed, April 02 11:00AM AEDT |
 |[Ally Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11292){:target="_blank"} |ACS S2 |North America |24 |2858 | | | | | |
 |[191 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10786){:target="_blank"} |191 Motorsports Gen 6 Season 2 |North America |22 |1349 | | | | | |
@@ -286,7 +284,8 @@
 |[WRD Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9696){:target="_blank"} |SFR Cup Series |North America |21 |1705 | | | | | |
 |[Passing Under Yellow](https://members.iracing.com/membersite/member/LeagueView.do?league=9684){:target="_blank"} |SmidIT Gen6 |North America |19 |1279 |Fixed | | | | |
 |[Bolt Racing League: Bump N Buddies series](https://members.iracing.com/membersite/member/LeagueView.do?league=10175){:target="_blank"} |Bump N Buddies Season 6 |North America |18 |1606 | | | | | |
-|[Roarin' Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1674){:target="_blank"} |RTRL NASCAR Defunct Series |North America |17 |1641 |Both | | | | |
+|[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Saturday Night Gen 6 Cup Series \- S4 |North America |18 |2262 |Fixed |Chicagoland Speedway |Sat, April 05 08:00PM EDT |Sun, April 06 01:00AM BST |Sun, April 06 10:00AM AEST |
+|[Roarin' Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1674){:target="_blank"} |RTRL NASCAR Defunct Series |North America |17 |1670 |Both | | | | |
 |[Common Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10698){:target="_blank"} |Common Race League NASCAR Cup Series |North America |17 |1190 | | | | | |
 |[\#0 ORCA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12028){:target="_blank"} |ORCA Cup Series |North America |16 |1708 |Fixed | | | | |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Cup Speedway Series Season 1 |North America |16 |1805 | |Daytona International Speedway |Thu, April 03 07:00PM EDT |Fri, April 04 12:00AM BST |Fri, April 04 10:00AM AEDT |
@@ -301,7 +300,6 @@
 |[GFi Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10821){:target="_blank"} |87's Season 4 |North America |46 |1542 |Fixed | | | | |
 |[Winston Cup Replay](https://members.iracing.com/membersite/member/LeagueView.do?league=10087){:target="_blank"} |2024 Fall Season |North America |38 |2450 |Open | | | | |
 |[HTL Tobacco Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7271){:target="_blank"} |Season 1 |North America |30 |2316 |Fixed | | | | |
-|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR 87 Legends 2024 Winter Off Season |North America |29 |1902 |Fixed | | | | |
 |[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2025 S1 \- NASCAR 87s \(Thurs 7:30pm\) |North America |21 |2123 |Fixed | | | | |
 |[ECOSRA Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7631){:target="_blank"} |2025 Spring Season |North America |21 |2031 |Fixed | | | | |
 |[THUNDERSTRUCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5378){:target="_blank"} |Ravishing Rick's Booty Shorts 87 Cup Car Showdown |North America |14 |2633 | |USA International Speedway |Mon, March 31 08:00PM EDT |Tue, April 01 01:00AM BST |Tue, April 01 11:00AM AEDT |
@@ -313,7 +311,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
 |[Misfit Motorsports Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2699){:target="_blank"} |Manifold Truck Series |North America |101 |1767 |Fixed | | | | |
-|[OP Racing ButtKicker Unlimited Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2811){:target="_blank"} |Season 16 |North America |96 |2315 |Fixed | | | | |
+|[OP Racing ButtKicker Unlimited Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2811){:target="_blank"} |Season 16 |North America |99 |2316 |Fixed | | | | |
 |[GFi Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10821){:target="_blank"} |trucks season 4 |North America |75 |1656 |Fixed | | | | |
 |[\(Retired\) OGRL Legacy League](https://members.iracing.com/membersite/member/LeagueView.do?league=10243){:target="_blank"} |Season 6 Thunder Trucks |North America |72 |1654 |Fixed | | | | |
 |[HVRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10954){:target="_blank"} |HVRL Rookie Trucks Season 2 |North America |70 |1431 |Fixed |Michigan International Speedway |Sun, March 30 07:00PM EDT |Mon, March 31 12:00AM BST |Mon, March 31 10:00AM AEDT |
@@ -324,19 +322,18 @@
 |[VRS Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9880){:target="_blank"} |2025 |North America |67 |2528 |Fixed | | | | |
 |[JUICYSPYDR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3818){:target="_blank"} |2025A |North America |66 |2393 |Fixed | | | | |
 |[Xcelerate Racing League Tuesday](https://members.iracing.com/membersite/member/LeagueView.do?league=11466){:target="_blank"} |2025 Season 1 |North America |65 |1822 | |Richmond Raceway |Tue, April 01 07:30PM EDT |Wed, April 02 12:30AM BST |Wed, April 02 10:30AM AEDT |
-|[Sim Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10896){:target="_blank"} |Season 6 SRA / IEL Truck Series  |North America |61 |2075 |Fixed |Darlington Raceway |Sat, March 29 06:30PM EDT |Sat, March 29 10:30PM GMT |Sun, March 30 09:30AM AEDT |
+|[Sim Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10896){:target="_blank"} |Season 6 SRA / IEL Truck Series  |North America |61 |2079 |Fixed | | | | |
 |[American Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=18){:target="_blank"} |2025 ASR Truck Series |North America |61 |2325 |Fixed | | | | |
 |[National Iracing Association \(NIRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} |Trucks Season 2 |North America |60 |1899 |Fixed | | | | |
 |[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2024 OBRL Truck Series \- Winter Season |North America |60 |1895 |Fixed | | | | |
 |[KCERacing](https://members.iracing.com/membersite/member/LeagueView.do?league=7607){:target="_blank"} |KCERacing Trucks Series \- Season 7A |North America |60 |1646 |Fixed |Martinsville Speedway |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
 |[Intense Racing Sim Series \(i\.R\.S\.S\.\)](https://members.iracing.com/membersite/member/LeagueView.do?league=8129){:target="_blank"} |Season 7 Trucks |North America |59 |2034 |Fixed | | | | |
-|[ASPHALT OFFICIAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9747){:target="_blank"} |2024 ASPHALT OFFICAL WINTER TRUCK SERIES |North America |59 |2634 | | | | | |
 |[The Sofa Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8017){:target="_blank"} |Trucks \- S8 |North America |59 |2419 | |New Hampshire Motor Speedway |Thu, April 03 08:30PM EDT |Fri, April 04 01:30AM BST |Fri, April 04 11:30AM AEDT |
 |[NASRA \(4\) \- C\.O\.P\.S\. Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5302){:target="_blank"} |\(7\) Season Ten |North America |58 |2272 |Fixed |Talladega Superspeedway |Fri, April 04 07:30PM EDT |Sat, April 05 12:30AM BST |Sat, April 05 10:30AM AEDT |
 |[Mystic Racing League \(NASCAR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11884){:target="_blank"} |NASCAR CRAFTSMAN Truck Series |North America |57 |1753 |Fixed | | | | |
 |[Bump And Run Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7543){:target="_blank"} |Season 6 |North America |56 |1867 | | | | | |
 |[\#0 Clean Racing League Monday Truck Fix Setup](https://members.iracing.com/membersite/member/LeagueView.do?league=4861){:target="_blank"} |CRL Truck Series Season 22 |North America |56 |2308 |Fixed | | | | |
-|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Racing Paradise Truck Series |North America |55 |1657 |Fixed |Pocono Raceway |Sat, March 29 07:45PM EDT |Sat, March 29 11:45PM GMT |Sun, March 30 10:45AM AEDT |
+|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Racing Paradise Truck Series |North America |55 |1646 |Fixed |Michigan International Speedway |Sat, April 05 07:45PM EDT |Sun, April 06 12:45AM BST |Sun, April 06 09:45AM AEST |
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2025 \- DIVISION ASPIRANTS CRE \- TRUCKS |North America |54 |1951 |Fixed | | | | |
 |[TNN Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7640){:target="_blank"} |2025 Tuesday Night NASCAR Truck Series |North America |54 |2626 | |Martinsville Speedway |Tue, April 01 07:45PM EDT |Wed, April 02 12:45AM BST |Wed, April 02 10:45AM AEDT |
 |[SRL \- Low Drag Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4781){:target="_blank"} |Season 11 |North America |54 |2792 |Fixed | | | | |
@@ -363,11 +360,12 @@
 |[FTSR SimRacingPoints\.com Truck Series \(Wednesdays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2486){:target="_blank"} |2025\-A |North America |48 |2293 |Open |Talladega Superspeedway |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[Ohio Sim Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8013){:target="_blank"} |2025 Truck Series |North America |48 |1848 |Fixed | | | | |
 |[NTRL Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7713){:target="_blank"} |Season 18 & 19 |North America |48 |1910 |Fixed |Martinsville Speedway |Tue, April 01 07:00PM EDT |Wed, April 02 12:00AM BST |Wed, April 02 10:00AM AEDT |
-|[BSR Amsoil Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6126){:target="_blank"} |Season 7 |North America |47 |2898 |Fixed | | | | |
+|[BSR Amsoil Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6126){:target="_blank"} |Season 7 |North America |47 |2916 |Fixed | | | | |
 |[GEC eNascar League THDesigns Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9502){:target="_blank"} |GEC THDesigns Truck Series Season 6 |North America |47 |1499 |Fixed |Rockingham Speedway |Tue, April 01 07:15PM EDT |Wed, April 02 12:15AM BST |Wed, April 02 10:15AM AEDT |
 |[Maximum Velocity Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1262){:target="_blank"} | 2025 Truck Spring Season |North America |46 |2230 |Fixed |Rockingham Speedway |Thu, April 03 08:30PM EDT |Fri, April 04 01:30AM BST |Fri, April 04 11:30AM AEDT |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 TRUCK INTERMEDIATE SERIES SEASON 5 |North America |46 |2099 | | | | | |
 |[iNRS Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11674){:target="_blank"} |2025 iNRS Truck Season |North America |46 |2243 | | | | | |
+|[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |DES March Madness Points Battle\!\!\! |North America |46 |1514 | | | | | |
 |[PRL Truck Fixed Series \(Wednesday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3579){:target="_blank"} |PRL Wed Trucks 2025 S1 |North America |44 |2460 | | | | | |
 |[National Iracing Association \(NIRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} | NoFear Truck Series Season 3 |North America |44 |2048 |Fixed | | | | |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2024/25 TRUCK SHORT SERIES SEASON 5 |North America |43 |2054 | | | | | |
@@ -379,7 +377,6 @@
 |[Vspeed NEPA Towing Contender Series Powered by NITRO](https://members.iracing.com/membersite/member/LeagueView.do?league=3520){:target="_blank"} |Vspeed Contender Series Powered by NITRO Season13 |North America |42 |3535 |Open |Talladega Superspeedway |Wed, April 02 09:00PM EDT |Thu, April 03 02:00AM BST |Thu, April 03 12:00PM AEDT |
 |[Vigilante Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7270){:target="_blank"} |VRL S11 Official Races \(19FEB25 \- 2JUL25\) |North America |42 |1834 |Fixed | | | | |
 |[HSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12031){:target="_blank"} |HSRL Craftsman Trucks Season 1 |North America |41 |1778 |Fixed |[Legacy] Texas Motor Speedway - 2009 |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
-|[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |DES March Madness Points Battle\!\!\! |North America |41 |1467 | |Kansas Speedway |Sat, March 29 08:30PM EDT |Sun, March 30 12:30AM GMT |Sun, March 30 11:30AM AEDT |
 |[Global Racing League Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5814){:target="_blank"} |Season 7 |North America |40 |2436 |Open | | | | |
 |[HCK Beagles Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5517){:target="_blank"} |Season 7 |North America |40 |2031 |Fixed |Dover Motor Speedway |Tue, April 01 07:30PM EDT |Wed, April 02 12:30AM BST |Wed, April 02 10:30AM AEDT |
 |[Mid South Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11070){:target="_blank"} |Trucks Season \#2 |North America |39 |1469 |Fixed |Phoenix Raceway |Thu, April 03 09:00PM EDT |Fri, April 04 02:00AM BST |Fri, April 04 12:00PM AEDT |
@@ -398,7 +395,7 @@
 |[Midwest Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11078){:target="_blank"} |Midwest Truck Series Season 3 |North America |36 |1627 | | | | | |
 |[BMRL Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=10152){:target="_blank"} |Season 4 |North America |35 |1652 | | | | | |
 |[Fast n Fun Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8717){:target="_blank"} |Fast n Fun Truck Series Winter 2025 |North America |35 |2123 | |Phoenix Raceway |Tue, March 04 08:30PM EST |Wed, March 05 01:30AM GMT |Wed, March 05 12:30PM AEDT |
-|[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |Trucks 2025 Season 1 |North America |35 |1851 |Both | | | | |
+|[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |Trucks 2025 Season 1 |North America |35 |1851 |Both |Bristol Motor Speedway |Sun, April 06 07:00PM EDT |Mon, April 07 12:00AM BST |Mon, April 07 09:00AM AEST |
 |[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |Beef Jerky Unlimited Championship Season |North America |35 |1529 |Fixed |Chicagoland Speedway |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[Millertime Motorsports Tarmac Esports Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7083){:target="_blank"} |Season 2 Nascar Truck Series Presented by Tarmac eSports |North America |34 |1985 | | | | | |
 |[Sampsoid Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=5691){:target="_blank"} |Sampsoid Thursday Night Thunder Season 16 |North America |34 |2153 |Fixed | | | | |
@@ -414,7 +411,7 @@
 |[Grassroots E\-Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9532){:target="_blank"} |NASCAR Trucks \| 2025 Season 1 \(Fixed\) |North America |31 |1534 |Fixed | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |TVR Select Truck series |North America |31 |1455 |Fixed | | | | |
 |[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC Truck Series Season 1 |North America |31 |1926 | | | | | |
-|[Burn Rubber Racing \(BRR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4846){:target="_blank"} |Saturday 2024\-12 to 2025\-06 |North America |31 |1956 |Fixed |Talladega Superspeedway |Sat, March 29 06:30PM EDT |Sat, March 29 10:30PM GMT |Sun, March 30 09:30AM AEDT |
+|[Burn Rubber Racing \(BRR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4846){:target="_blank"} |Saturday 2024\-12 to 2025\-06 |North America |31 |1949 |Fixed | | | | |
 |[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |2025 Spring Super Truck Series |North America |31 |1756 |Fixed |Michigan International Speedway |Thu, April 03 07:45PM EDT |Fri, April 04 12:45AM BST |Fri, April 04 10:45AM AEDT |
 |[ProSim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=11114){:target="_blank"} |Season 1 |North America |30 |2016 | |Auto Club Speedway |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
 |[CMS Sunday Night Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11327){:target="_blank"} |2025 S1 Sunday Night Truck Series |North America |30 |1891 |Fixed | | | | |
@@ -422,6 +419,7 @@
 |[Vantage iRacing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10859){:target="_blank"} |Vantage Truck Series S1 |North America |29 |1763 |Fixed | | | | |
 |[\(PARKED\) Lucky Dog Sim Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9272){:target="_blank"} |Season 10 |North America |29 |1890 | | | | | |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Truck Series \- Season 2 |North America |29 |1624 | |Indianapolis Motor Speedway |Wed, April 02 07:45PM EDT |Thu, April 03 12:45AM BST |Thu, April 03 10:45AM AEDT |
+|[ARCS HIGH OCTANE](https://members.iracing.com/membersite/member/LeagueView.do?league=5311){:target="_blank"} |High Octane Season 3 |North America |29 |2234 | |Iowa Speedway |Sat, April 05 07:00PM EDT |Sun, April 06 12:00AM BST |Sun, April 06 09:00AM AEST |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |1 \- Beef Jerky Unlimited Monday Fun Series |North America |29 |1482 |Fixed |Talladega Superspeedway |Mon, March 31 08:00PM EDT |Tue, April 01 01:00AM BST |Tue, April 01 11:00AM AEDT |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Truck Short Series Season 1 |North America |28 |2012 | |New Hampshire Motor Speedway |Tue, April 01 07:00PM EDT |Wed, April 02 12:00AM BST |Wed, April 02 10:00AM AEDT |
 |[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |ACE NASCAR Season \#1 |North America |28 |1466 |Fixed |Atlanta Motor Speedway |Sun, March 30 09:15PM EDT |Mon, March 31 02:15AM BST |Mon, March 31 12:15PM AEDT |
@@ -437,7 +435,6 @@
 |[Freedom Racing Saturday](https://members.iracing.com/membersite/member/LeagueView.do?league=9859){:target="_blank"} |Saturday Night Truck Series Season 1 |North America |21 |1559 |Fixed | | | | |
 |[SCSRA Coast Counties Peterbilt Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5876){:target="_blank"} |SCSRA Truck Series Season 9 |North America |21 |1968 | |Martinsville Speedway |Tue, April 01 08:30PM EDT |Wed, April 02 01:30AM BST |Wed, April 02 11:30AM AEDT |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Truck Speedway Series Season 1 |North America |21 |1895 | |Michigan International Speedway |Fri, April 04 07:00PM EDT |Sat, April 05 12:00AM BST |Sat, April 05 10:00AM AEDT |
-|[ARCS HIGH OCTANE](https://members.iracing.com/membersite/member/LeagueView.do?league=5311){:target="_blank"} |High Octane Season 3 |North America |21 |2288 | |Dover Motor Speedway |Sat, March 29 07:00PM EDT |Sat, March 29 11:00PM GMT |Sun, March 30 10:00AM AEDT |
 |[NXT Era Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11723){:target="_blank"} |2025 NXT Era Truck Series |North America |20 |2309 |Fixed | | | | |
 |[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2025 S2 \- NASCAR Trucks \(Mon 7:30pm\) |North America |20 |2060 |Fixed |Phoenix Raceway |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
 |[1RebelRacing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6506){:target="_blank"} |fixed trucks 25 |North America |19 |1376 | | | | | |
@@ -445,6 +442,7 @@
 |[Sim Racing Unleashed Gomez Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6084){:target="_blank"} |SRU Gomez truck series season 1 |North America |19 |1443 | |Nashville Superspeedway |Fri, April 04 07:00PM EDT |Sat, April 05 12:00AM BST |Sat, April 05 10:00AM AEDT |
 |[NTRL Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7713){:target="_blank"} |Season 18&19 Practice Races |North America |19 |1858 |Fixed | | | | |
 |[Fast n Fun Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8717){:target="_blank"} |2025 Grindstone Truck Series Spring Season |North America |18 |2182 | |Martinsville Speedway |Tue, April 01 08:30PM EDT |Wed, April 02 01:30AM BST |Wed, April 02 11:30AM AEDT |
+|[Gear Jammers](https://members.iracing.com/membersite/member/LeagueView.do?league=1514){:target="_blank"} |TRUCKS WITH STAGES |North America |18 |2118 |Fixed |Atlanta Motor Speedway |Sat, April 05 08:30PM EDT |Sun, April 06 01:30AM BST |Sun, April 06 10:30AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Eternity Trucks March 2025 Championship |North America |17 |1719 | |Martinsville Speedway |Mon, March 31 09:00PM EDT |Tue, April 01 02:00AM BST |Tue, April 01 12:00PM AEDT |
 |[AARL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5936){:target="_blank"} |2025 AARL Truck Season |North America |16 |1528 |Fixed | | | | |
 |[Old Glory Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9375){:target="_blank"} |2025 Truck Season |North America |16 |1392 | |Las Vegas Motor Speedway |Tue, April 01 08:00PM EDT |Wed, April 02 01:00AM BST |Wed, April 02 11:00AM AEDT |
@@ -454,7 +452,6 @@
 |[A:SRC](https://members.iracing.com/membersite/member/LeagueView.do?league=2439){:target="_blank"} |Super Truck Series |North America |15 |1919 |Open |Martinsville Speedway |Mon, March 31 09:00PM EDT |Tue, April 01 02:00AM BST |Tue, April 01 12:00PM AEDT |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Eternity Trucks February 2025 Championship |North America |14 |1561 | | | | | |
 |[Cascadia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12038){:target="_blank"} |Truck Series Season 1 |North America |14 |1488 | | | | | |
-|[Gear Jammers](https://members.iracing.com/membersite/member/LeagueView.do?league=1514){:target="_blank"} |TRUCKS WITH STAGES |North America |13 |2068 |Fixed |Richmond Raceway |Sat, March 29 08:30PM EDT |Sun, March 30 12:30AM GMT |Sun, March 30 11:30AM AEDT |
 |[NAPA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12146){:target="_blank"} |NAPA Truck Series |North America |12 |1603 |Fixed |Texas Motor Speedway |Sun, March 30 05:00PM EDT |Sun, March 30 10:00PM BST |Mon, March 31 08:00AM AEDT |
 |[Ben Racing Ligue](https://members.iracing.com/membersite/member/LeagueView.do?league=8137){:target="_blank"} |Saison hiver 2025 |North America |11 |1194 |Fixed |Martinsville Speedway |Mon, March 31 07:15PM EDT |Tue, April 01 12:15AM BST |Tue, April 01 10:15AM AEDT |
 |[1RebelRacing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6506){:target="_blank"} |fixed truck's 2025 |North America |11 |1358 | |Martinsville Speedway |Thu, April 03 08:30PM EDT |Fri, April 04 01:30AM BST |Fri, April 04 11:30AM AEDT |
@@ -467,7 +464,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
 |[BRL Outlaw SK Modified Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=910){:target="_blank"} |SK S38 |North America |32 |1974 |Fixed | | | | |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |2025 NARC SK Mod Monday |North America |27 |1747 |Open |Five Flags Speedway |Mon, March 31 08:50PM EDT |Tue, April 01 01:50AM BST |Tue, April 01 11:50AM AEDT |
-|[BRL Outlaw SK Modified Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=910){:target="_blank"} |SK S39 |North America |21 |2044 |Fixed |Hickory Motor Speedway |Sat, March 29 07:05PM EDT |Sat, March 29 11:05PM GMT |Sun, March 30 10:05AM AEDT |
+|[BRL Outlaw SK Modified Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=910){:target="_blank"} |SK S39 |North America |24 |1958 |Fixed | | | | |
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |EPI SK Modifieds Season 2 Open  |North America |21 |2406 |Both |Thompson Speedway Motorsports Park |Thu, April 03 09:00PM EDT |Fri, April 04 02:00AM BST |Fri, April 04 12:00PM AEDT |
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |SK Modifieds |North America |13 |1447 |Both | | | | |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |SK Modifieds \- Fixed |North America |10 |1266 | | | | | |
@@ -503,13 +500,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------|-------|----|-----|---------------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------|-------|----|-----|-------------------------------|-------------------------|-------------------------|--------------------------|
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2025 X\-Series |North America |91 |1966 |Fixed |Martinsville Speedway |Sun, March 30 09:00PM EDT |Mon, March 31 02:00AM BST |Mon, March 31 12:00PM AEDT |
-|[Speedway Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11432){:target="_blank"} |Season One |North America |87 |2090 |Fixed |Darlington Raceway |Sat, March 29 09:50PM EDT |Sun, March 30 02:50AM BST |Sun, March 30 12:50PM AEDT |
+|[Speedway Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11432){:target="_blank"} |Season One |North America |88 |2094 |Fixed | | | | |
 |[MNN Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7174){:target="_blank"} |2025 Monday Night NASCAR Xfinity Series |North America |78 |2611 |Open |Martinsville Speedway |Mon, March 31 07:45PM EDT |Tue, April 01 12:45AM BST |Tue, April 01 10:45AM AEDT |
 |[Team Conti Sim\-Performance Dash Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9473){:target="_blank"} |2025 |North America |73 |2239 |Open | | | | |
+|[Saturday Night Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7102){:target="_blank"} |2025 SNT Xfinity Series |North America |71 |2857 |Fixed | | | | |
 |[National Iracing Association \(NIRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} |Xfinity Season 2 |North America |69 |1771 |Fixed | | | | |
-|[Saturday Night Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7102){:target="_blank"} |2025 SNT Xfinity Series |North America |68 |2867 |Fixed |Talladega Superspeedway |Sat, March 29 07:00PM EDT |Sat, March 29 11:00PM GMT |Sun, March 30 10:00AM AEDT |
 |[Friday Night Lights \- XFINITY](https://members.iracing.com/membersite/member/LeagueView.do?league=11955){:target="_blank"} |2025 XFINITY Friday Night Lights |North America |68 |2953 |Open |Darlington Raceway |Fri, April 04 07:45PM EDT |Sat, April 05 12:45AM BST |Sat, April 05 10:45AM AEDT |
 |[Integrity Racing League \(IGNITE Series\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9124){:target="_blank"} |2025 Ignite Series |North America |67 |3222 |Fixed |The Milwaukee Mile |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
 |[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2024 OBRL Xfinity \- Season 2 |North America |66 |1855 |Fixed | | | | |
@@ -528,14 +525,14 @@
 |[Solstice Racing League \- BIG EVIL DASH Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9120){:target="_blank"} |DASH Series \- Season 4 |North America |58 |2676 |Fixed | | | | |
 |[Moonlight Racing League Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8588){:target="_blank"} |Season 6 |North America |58 |2060 |Fixed |Kentucky Speedway |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[\=SIM500\= Wednesday GOAT Diecast Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8392){:target="_blank"} |2025 Goat Diecast Xfinity Series |North America |58 |3173 | | | | | |
+|[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |RGR 2025 Alive Church Xfinity Series 1 |North America |57 |2243 |Fixed |Martinsville Speedway |Sun, March 30 07:30PM EDT |Mon, March 31 12:30AM BST |Mon, March 31 10:30AM AEDT |
 |[AREA Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7387){:target="_blank"} |Season 7 |North America |57 |4781 | | | | | |
-|[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |RGR 2025 Alive Church Xfinity Series 1 |North America |56 |2243 |Fixed |Martinsville Speedway |Sat, March 29 08:00PM EDT |Sun, March 30 12:00AM GMT |Sun, March 30 11:00AM AEDT |
 |[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2025 OBRL Xfinity \- Season 1 |North America |54 |1936 |Fixed | | | | |
 |[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |Alive Church Winter Heat Xfinity Series |North America |53 |2321 |Fixed | | | | |
 |[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Xfinity Season 5 |North America |52 |2330 |Fixed | | | | |
 |[NASRA \(2\) \- Blanchard's Towing Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8949){:target="_blank"} |\(3\) Season Three |North America |52 |2790 | | | | | |
+|[Saturday Night Racing League Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11381){:target="_blank"} |SNR Challenger Series Season 2 |North America |51 |2256 | | | | | |
 |[Speedzone eSports Busch Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4926){:target="_blank"} |2025 Season 1 |North America |51 |2316 |Fixed | | | | |
-|[Saturday Night Racing League Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11381){:target="_blank"} |SNR Challenger Series Season 2 |North America |50 |2254 | |[Legacy] Kentucky Speedway - 2011 |Sat, March 29 07:00PM EDT |Sat, March 29 11:00PM GMT |Sun, March 30 10:00AM AEDT |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |Xfinity Series Season 5 |North America |48 |2338 |Fixed |Michigan International Speedway |Tue, April 01 08:30PM EDT |Wed, April 02 01:30AM BST |Wed, April 02 11:30AM AEDT |
 |[Great Lakes Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Showdown Series \- Season 1 |North America |48 |2864 |Fixed | | | | |
 |[National Iracing Association \(NIRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} |Xfinity Season 3 |North America |48 |1817 |Fixed | | | | |
@@ -546,16 +543,15 @@
 |[Xcelerate Racing League Wednesday](https://members.iracing.com/membersite/member/LeagueView.do?league=11474){:target="_blank"} |AdminBoxx Xfinity Series |North America |45 |1661 | |Phoenix Raceway |Wed, April 02 07:30PM EDT |Thu, April 03 12:30AM BST |Thu, April 03 10:30AM AEDT |
 |[Mid Atlantic Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10854){:target="_blank"} |Mid Atlantic Racing Series Season 4 Xfinity |North America |45 |2078 | | | | | |
 |[Underdog Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4715){:target="_blank"} |Wild Bill's Presents Underdog Racing League Xfinity Series Season 1 |North America |44 |1888 |Fixed | | | | |
-|[Ohio Sim Racing Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7912){:target="_blank"} |2024 Xfinity Winter Series |North America |44 |2312 | | | | | |
 |[SPARK Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6346){:target="_blank"} |2025 Xfinity Season 1 |North America |44 |2472 | |Atlanta Motor Speedway |Wed, April 02 07:30PM EDT |Thu, April 03 12:30AM BST |Thu, April 03 10:30AM AEDT |
+|[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |BJU Saturday Fun Series |North America |44 |1680 |Fixed | | | | |
 |[OP Racing Premier Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2874){:target="_blank"} |Season 14 |North America |43 |2212 | | | | | |
 |[American Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=18){:target="_blank"} |2025 ASR Grand National Series |North America |43 |2383 |Fixed |Darlington Raceway |Wed, April 02 08:30PM EDT |Thu, April 03 01:30AM BST |Thu, April 03 11:30AM AEDT |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |Xfinity Season 3 |North America |42 |1773 |Both | | | | |
 |[OTSS Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9095){:target="_blank"} |2025 Xfinity Series |North America |42 |2459 |Both | | | | |
-|[PALracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11038){:target="_blank"} |PALracing Season 3 |North America |42 |2150 | |Darlington Raceway |Tue, April 01 07:30PM EDT |Wed, April 02 12:30AM BST |Wed, April 02 10:30AM AEDT |
+|[PALracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11038){:target="_blank"} |PALracing Season 3 |North America |42 |2150 |Fixed |Darlington Raceway |Tue, April 01 07:30PM EDT |Wed, April 02 12:30AM BST |Wed, April 02 10:30AM AEDT |
 |[Road N' Plate Palm Rat Golf Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} |Season 5 |North America |41 |2224 |Fixed | | | | |
-|[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |BJU Saturday Fun Series |North America |40 |1694 |Fixed |Talladega Superspeedway |Sat, March 29 08:00PM EDT |Sun, March 30 12:00AM GMT |Sun, March 30 11:00AM AEDT |
-|[Rise Through the Ranks Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11802){:target="_blank"} |Rise Through the Ranks Season 1 |North America |39 |1679 | |Daytona International Speedway |Sat, March 29 07:30PM EDT |Sat, March 29 11:30PM GMT |Sun, March 30 10:30AM AEDT |
+|[Rise Through the Ranks Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11802){:target="_blank"} |Rise Through the Ranks Season 1 |North America |40 |1695 | |Phoenix Raceway |Sat, April 05 07:30PM EDT |Sun, April 06 12:30AM BST |Sun, April 06 09:30AM AEST |
 |[FPRL Turnkey Network Solutions Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8214){:target="_blank"} |Five Points Racing League Season 1 |North America |39 |3114 |Fixed |Kansas Speedway |Mon, March 31 08:30PM EDT |Tue, April 01 01:30AM BST |Tue, April 01 11:30AM AEDT |
 |[Grass Roots Racing \- Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12118){:target="_blank"} |GRR Xfinity Championship Season 1 |North America |39 |1643 |Open | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR Xfinity Series 2025 |North America |38 |1762 |Fixed |Darlington Raceway |Thu, April 03 07:00PM EDT |Fri, April 04 12:00AM BST |Fri, April 04 10:00AM AEDT |
@@ -579,24 +575,24 @@
 |[Squirrel League Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9676){:target="_blank"} |2025 \| Season 1 |North America |28 |2155 | |Darlington Raceway |Tue, April 01 08:00PM EDT |Wed, April 02 01:00AM BST |Wed, April 02 11:00AM AEDT |
 |[\#0 Donut Box Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9591){:target="_blank"} |Donut Box Xfinity Series S2 |North America |27 |1809 |Open | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 RFJ CUP Series |North America |27 |1866 | |Martinsville Speedway |Tue, April 01 08:15PM EDT |Wed, April 02 01:15AM BST |Wed, April 02 11:15AM AEDT |
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Saturday night fever Xfinity series |North America |27 |1954 |Both |Bristol Motor Speedway |Sun, April 06 12:43AM EDT |Sun, April 06 05:43AM BST |Sun, April 06 02:43PM AEST |
 |[Great Lakes Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Showdown Series \- Qualifying |North America |26 |None |Fixed | | | | |
-|[Week 12 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9070){:target="_blank"} |W12RL Contender Series Season 1 2025 |North America |26 |2071 | | | | | |
+|[Week 12 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9070){:target="_blank"} |W12RL Contender Series Season 1 2025 |North America |26 |2071 | |Darlington Raceway |Tue, April 01 07:00PM EDT |Wed, April 02 12:00AM BST |Wed, April 02 10:00AM AEDT |
 |[CORT \#Yes2Motorsport Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2365){:target="_blank"} |2025A CORT \#Yes2Motorsport Cup Series |North America |26 |2335 | | | | | |
 |[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9598){:target="_blank"} |Xfinity 2025 Season |North America |26 |1662 |Fixed |Darlington Raceway |Tue, April 01 07:30PM EDT |Wed, April 02 12:30AM BST |Wed, April 02 10:30AM AEDT |
+|[GCRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12033){:target="_blank"} |Graham Crackers Xfinity Championship Series |North America |25 |1668 | |Homestead Miami Speedway |Sat, April 05 06:00PM EDT |Sat, April 05 11:00PM BST |Sun, April 06 08:00AM AEST |
 |[Mid South Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11070){:target="_blank"} |XFINITY |North America |24 |1344 |Fixed |Talladega Superspeedway |Tue, April 01 09:00PM EDT |Wed, April 02 02:00AM BST |Wed, April 02 12:00PM AEDT |
-|[Hold Your Brakes Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11170){:target="_blank"} |HYBA season 2 Intermediates |North America |22 |1232 | | | | | |
+|[Hold Your Brakes Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11170){:target="_blank"} |HYBA season 2 Intermediates |North America |22 |1232 | |Auto Club Speedway |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
 |[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |Xfinity Series |North America |21 |1342 | |Martinsville Speedway |Wed, April 02 07:00PM EDT |Thu, April 03 12:00AM BST |Thu, April 03 10:00AM AEDT |
-|[Good Brothers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3487){:target="_blank"} |Season 8 Xfinity |North America |21 |1732 |Both |Martinsville Speedway |Sat, March 29 10:15PM EDT |Sun, March 30 03:15AM BST |Sun, March 30 01:15PM AEDT |
+|[Good Brothers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3487){:target="_blank"} |Season 8 Xfinity |North America |21 |1744 |Both |Darlington Raceway |Sat, April 05 10:15PM EDT |Sun, April 06 03:15AM BST |Sun, April 06 12:15PM AEST |
 |[\#0 5150 Grand National Division](https://members.iracing.com/membersite/member/LeagueView.do?league=8915){:target="_blank"} |2025 Season 1 |North America |20 |2142 |Open |Watkins Glen International |Fri, April 04 07:30PM EDT |Sat, April 05 12:30AM BST |Sat, April 05 10:30AM AEDT |
 |[Gear Jammers](https://members.iracing.com/membersite/member/LeagueView.do?league=1514){:target="_blank"} |Xfinity |North America |19 |2132 |Fixed | | | | |
 |[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |Thursday Throwdown Season 4 |North America |19 |1664 | | | | | |
 |[Twisted Chassis Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8421){:target="_blank"} |Season 4 |North America |18 |1825 | | | | | |
-|[GCRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12033){:target="_blank"} |Graham Crackers Xfinity Championship Series |North America |18 |1716 | |Las Vegas Motor Speedway |Sat, March 29 06:00PM EDT |Sat, March 29 10:00PM GMT |Sun, March 30 09:00AM AEDT |
 |[OKSE Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=12082){:target="_blank"} |Spring 2025 |North America |17 |1340 | | | | | |
 |[Tier 1 T1X Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10999){:target="_blank"} |T1X Season 2 |North America |16 |2430 |Fixed | | | | |
 |[NXT Era Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6885){:target="_blank"} |NXT Era Xfinity Series Season 2 |North America |16 |2175 |Fixed | | | | |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Saturday night fever Xfinity series |North America |15 |1480 |Both |Homestead Miami Speedway |Sat, March 29 10:05PM EDT |Sun, March 30 03:05AM BST |Sun, March 30 01:05PM AEDT |
-|[CCR](https://members.iracing.com/membersite/member/LeagueView.do?league=9885){:target="_blank"} |Season 4 Xfinity |North America |14 |2022 |Open |Kansas Speedway |Sat, March 29 07:30PM EDT |Sat, March 29 11:30PM GMT |Sun, March 30 10:30AM AEDT |
+|[CCR](https://members.iracing.com/membersite/member/LeagueView.do?league=9885){:target="_blank"} |Season 4 Xfinity |North America |14 |2034 |Open |Iowa Speedway |Sat, April 05 07:30PM EDT |Sun, April 06 12:30AM BST |Sun, April 06 09:30AM AEST |
 |[PRA Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11665){:target="_blank"} |PRA RevLimit Workshop Pro Season 1 |North America |14 |2284 | | | | | |
 |[The EBAA Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9626){:target="_blank"} |Xfinity 2025 S1 |North America |13 |1558 | |Homestead Miami Speedway |Mon, March 31 07:00PM EDT |Tue, April 01 12:00AM BST |Tue, April 01 10:00AM AEDT |
 |[PAC\-NW Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11169){:target="_blank"} |2025 XFINITY SEASON \- PAY ME SUCKER 75's |North America |12 |1341 | |Martinsville Speedway |Sun, March 30 11:00PM EDT |Mon, March 31 04:00AM BST |Mon, March 31 02:00PM AEDT |
@@ -641,7 +637,7 @@
 |[KCERacing](https://members.iracing.com/membersite/member/LeagueView.do?league=7607){:target="_blank"} |KCERacing Gen4 Series \- Season 7A |North America |33 |1663 |Fixed |Chicagoland Speedway |Tue, April 01 08:00PM EDT |Wed, April 02 01:00AM BST |Wed, April 02 11:00AM AEDT |
 |[NORA Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11573){:target="_blank"} |Duel Races |North America |32 |2620 | | | | | |
 |[Area 51 Sunday Gen 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5044){:target="_blank"} |2025 Season 1 SS Gen 4 Series |North America |32 |2148 | |Daytona International Speedway |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
-|[NSR: Gen 4 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5275){:target="_blank"} |2025\-A |North America |32 |2097 |Open | | | | |
+|[NSR: Gen 4 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5275){:target="_blank"} |2025\-A |North America |32 |2113 |Open | | | | |
 |[TNR Monday Night Series Presented by Schue LC](https://members.iracing.com/membersite/member/LeagueView.do?league=4978){:target="_blank"} |2025 |North America |30 |2202 |Fixed |Mobility Resort Motegi |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
 |[OutCast Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12251){:target="_blank"} |OutCast Gen4 Series |North America |30 |1711 |Fixed |Nashville Superspeedway |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR GEN 4 2025 Season 1 |North America |29 |1756 |Fixed |Martinsville Speedway |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
@@ -680,7 +676,6 @@
 |[Half Decent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12215){:target="_blank"} |Asphalt Late Model Stocks |North America |35 |1206 |Fixed | | | | |
 |[No Limit Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11957){:target="_blank"} |No Limit Street Stocks Season 1 |North America |33 |1815 | | | | | |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |NASTRACK Daytona Dash Series presented by Ball Motorsports |North America |32 |1795 | | | | | |
-|[Spec Mini Stock](https://members.iracing.com/membersite/member/LeagueView.do?league=11493){:target="_blank"} |Season 2 |North America |30 |2646 |Fixed | | | | |
 |[Downforce Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3111){:target="_blank"} |BM to NP |North America |29 |2044 | | | | | |
 |[BMR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11446){:target="_blank"} |Short Track Season 2: Mini Stocks |North America |28 |2151 |Fixed | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |Mini Stock Series Season 1 |North America |28 |2046 |Fixed | | | | |
@@ -692,14 +687,13 @@
 |[ARCS ARX Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |ARX 2025 S1 Mini Stock |North America |22 |2200 | |Bristol Motor Speedway |Fri, April 04 08:00PM EDT |Sat, April 05 01:00AM BST |Sat, April 05 11:00AM AEDT |
 |[SRCA Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10428){:target="_blank"} |Mini Stocks Season 1 |North America |19 |2844 |Fixed | | | | |
 |[New England Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11743){:target="_blank"} |Season 1 |North America |18 |1417 |Fixed | | | | |
-|[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |Mini Stock Tour |North America |18 |1493 | | | | | |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Mixed Car Series \- Season 1 |North America |18 |1676 | |The Bullring |Mon, March 31 07:45PM EDT |Tue, April 01 12:45AM BST |Tue, April 01 10:45AM AEDT |
 |[A:SRC](https://members.iracing.com/membersite/member/LeagueView.do?league=2439){:target="_blank"} |Mini Stock Series |North America |16 |2145 |Open | | | | |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 LM\SLM Series Season 1 |North America |16 |1838 | |Nashville Superspeedway |Sat, April 05 07:00PM EDT |Sun, April 06 12:00AM BST |Sun, April 06 09:00AM AEST |
 |[Apex Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9523){:target="_blank"} |ASRL Mini Stocks |North America |15 |1605 | |Nashville Fairgrounds Speedway |Thu, April 03 07:30PM EDT |Fri, April 04 12:30AM BST |Fri, April 04 10:30AM AEDT |
 |[Moonlight Racing League MRL Friday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=9437){:target="_blank"} |Season 4 |North America |15 |1650 |Fixed | | | | |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |West Coast Short Track Swing |North America |12 |1038 |Both | | | | |
 |[Juddcar](https://members.iracing.com/membersite/member/LeagueView.do?league=10047){:target="_blank"} |Season 6 |North America |12 |2601 | | | | | |
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 LM\SLM Series Season 1 |North America |11 |1869 | |Richmond Raceway |Sat, March 29 07:00PM EDT |Sat, March 29 11:00PM GMT |Sun, March 30 10:00AM AEDT |
 |[BullRing iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=3123){:target="_blank"} |2025\-A STSS\-Mini Series |North America |11 |1686 | |Weedsport Speedway |Thu, April 03 09:45PM EDT |Fri, April 04 02:45AM BST |Fri, April 04 12:45PM AEDT |
 |[SMOKE N TACOS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8349){:target="_blank"} |Mini\-stocks Season 1 |North America |10 |1314 |Both | | | | |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |Mini Stock \- Wednesday Race Season 2 |North America |10 |1354 | | | | | |
@@ -738,7 +732,7 @@
 |[SART LMSC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11905){:target="_blank"} |Season 1 of the LMSC Tour of SART |North America |28 |2296 | | | | | |
 |[eSports Championship Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10110){:target="_blank"} |eCAR 24/25 season |North America |27 |2937 |Open | | | | |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 1 |North America |27 |1680 | | | | | |
-|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |late model stock car |North America |26 |1431 |Open |Nashville Fairgrounds Speedway |Sat, March 29 10:02PM EDT |Sun, March 30 03:02AM BST |Sun, March 30 01:02PM AEDT |
+|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |late model stock car |North America |27 |1413 |Open |Nashville Fairgrounds Speedway |Sat, April 05 10:02PM EDT |Sun, April 06 03:02AM BST |Sun, April 06 12:02PM AEST |
 |[New Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11858){:target="_blank"} |New Late Models |North America |23 |1960 | | | | | |
 |[Oval Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=9053){:target="_blank"} |2025 S1 Late Model Stocks |North America |23 |2366 |Fixed | | | | |
 |[Down South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6920){:target="_blank"} |DC Designs Late Model Stock Series |North America |22 |1888 |Fixed | | | | |
@@ -785,12 +779,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------------|-------|----|-----|---------------------|-------------------------|-------------------------|--------------------------|
 |[Tater Chip Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7720){:target="_blank"} |East Coast Thunder 4s |North America |37 |2040 | | | | | |
 |[Flat Out Racing's Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9262){:target="_blank"} |Mini Stock Madness |North America |33 |1844 | | | | | |
 |[Team I5G Community Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11885){:target="_blank"} |Hyperstar Limited Challenge Series |North America |32 |2252 |Fixed | | | | |
 |[UIS \- Universal Arca SuperTour](https://members.iracing.com/membersite/member/LeagueView.do?league=12121){:target="_blank"} |Mini Stock S1 |North America |31 |2027 |Fixed | | | | |
-|[AOLL Racing's Sportsman Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5052){:target="_blank"} |2024 Winter Series \- Mini Stocks |North America |29 |1572 |Fixed | | | | |
 |[RaceMRL\.com \| BACKUP LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11382){:target="_blank"} |MRL \| American Short Trackers Season 1 |North America |29 |3718 | | | | | |
 |[QuickSilver Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4388){:target="_blank"} |Short Track Showdown Season 4 |North America |28 |1688 |Fixed | | | | |
 |[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Hometown Short track season 7 Mini Stocks |North America |28 |1574 |Both | | | | |
@@ -798,7 +791,8 @@
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Mini Stocks S1 |North America |25 |1780 |Fixed | | | | |
 |[Rusty Misfits Rookie Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8578){:target="_blank"} |RMRL PAVEMENT MINI STOCKS SEASON 5 |North America |20 |1330 | |South Boston Speedway |Tue, April 01 09:00PM EDT |Wed, April 02 02:00AM BST |Wed, April 02 12:00PM AEDT |
 |[Rob\-Car](https://members.iracing.com/membersite/member/LeagueView.do?league=6353){:target="_blank"} |Mini Stocks 2024 |North America |17 |1371 | | | | | |
-|[Signature eSports Powderpuff Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6971){:target="_blank"} |Season 2 Mini Stocks |North America |14 |1720 | |Bristol Motor Speedway |Sat, March 29 05:30PM EDT |Sat, March 29 09:30PM GMT |Sun, March 30 08:30AM AEDT |
+|[Signature eSports Powderpuff Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6971){:target="_blank"} |Season 2 Mini Stocks |North America |14 |1688 | | | | | |
+|[CT Mini Stock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12396){:target="_blank"} |mini Stocks |North America |14 |2667 | | | | | |
 
 ### Street Stocks
 
@@ -821,12 +815,12 @@
 |[CRA Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11977){:target="_blank"} |CRA STREET STOCKS 2025 |North America |32 |1496 | | | | | |
 |[iRacing Northern Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4918){:target="_blank"} |INSS \- SS \- 2024\-25 |North America |29 |2733 |Open | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |TVR Street Stock Championship |North America |28 |1529 |Fixed | | | | |
-|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |street stocks |North America |26 |1433 |Open |Nashville Fairgrounds Speedway |Sat, March 29 08:00PM EDT |Sun, March 30 12:00AM GMT |Sun, March 30 11:00AM AEDT |
+|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |street stocks |North America |27 |1410 |Open |Nashville Fairgrounds Speedway |Sat, April 05 08:00PM EDT |Sun, April 06 01:00AM BST |Sun, April 06 10:00AM AEST |
 |[Smile Snack Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=10831){:target="_blank"} |Smile Snack Asphalt Street Stocks |North America |23 |1497 | | | | | |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Street Stock S3 |North America |22 |1872 |Fixed | | | | |
 |[Number One Hero Cards Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8466){:target="_blank"} |N1HC Street Stocks Season 2 |North America |22 |2092 | |Five Flags Speedway |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
+|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S33 |North America |21 |2038 |Fixed | | | | |
 |[The Gang Street Stock League](https://members.iracing.com/membersite/member/LeagueView.do?league=11354){:target="_blank"} |"The Gang"  Street Stocks |North America |19 |1965 | |Concord Speedway |Tue, April 01 07:00PM EDT |Wed, April 02 12:00AM BST |Wed, April 02 10:00AM AEDT |
-|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S33 |North America |18 |2048 |Fixed |Hickory Motor Speedway |Sat, March 29 06:30PM EDT |Sat, March 29 10:30PM GMT |Sun, March 30 09:30AM AEDT |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |TVR Street Stock Season2 |North America |16 |1533 |Fixed |Auto Club Speedway |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[Freedom Racing Street Stock Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9817){:target="_blank"} |SSRS Season 1 |North America |14 |1769 |Fixed | | | | |
 |[C12 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6758){:target="_blank"} |Street Stock Challenge Season 2 \[RALLYCROSS\] |North America |13 |1673 | | | | | |
@@ -888,7 +882,7 @@
 |[Internet Sim\-Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10688){:target="_blank"} |2024 ISRA  Sim\-Motion\.com Challenge Events |North America |42 |2593 |Fixed | | | | |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART IndyCar Season 3: IR18 |North America |42 |2001 |Fixed |Richmond Raceway |Thu, April 03 07:00PM EDT |Fri, April 04 12:00AM BST |Fri, April 04 10:00AM AEDT |
 |[Proton Racing Series \- INDYCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11408){:target="_blank"} |PRS INDYCAR Series |North America |40 |2100 | |Portland International Raceway |Sun, March 30 03:00PM EDT |Sun, March 30 08:00PM BST |Mon, March 31 06:00AM AEDT |
-|[Catalyst 317 Indy Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1725){:target="_blank"} |Season 11 |North America |40 |3565 |Open | | | | |
+|[Catalyst 317 Indy Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1725){:target="_blank"} |Season 11 |North America |40 |3565 |Open |Nashville Superspeedway |Sun, March 30 05:00PM EDT |Sun, March 30 10:00PM BST |Mon, March 31 08:00AM AEDT |
 |[Horizon Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11964){:target="_blank"} |Indycar Season 1 |North America |39 |2966 | | | | | |
 |[Votive Racing League INDY Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |VOTIVE PRACTICE |North America |39 |None |Fixed | | | | |
 |[Area 51 Indycar Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |Area 51 Indycar Oval Series Season 1 24\-25 |North America |38 |2836 |Fixed | | | | |
@@ -906,6 +900,7 @@
 |[CASS \- Can\-Am SimSport](https://members.iracing.com/membersite/member/LeagueView.do?league=8433){:target="_blank"} |CASSCAR America 2025 |North America |18 |1849 |Open |Long Beach Street Circuit |Wed, April 02 08:30PM EDT |Thu, April 03 01:30AM BST |Thu, April 03 11:30AM AEDT |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |Indy\-Nor Season \#7 |North America |16 |1182 |Both | | | | |
 |[Indy Racing World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9599){:target="_blank"} |Season 5 |North America |16 |1586 |Fixed | | | | |
+|[Vantage iRacing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10859){:target="_blank"} |Vantage Indy Special League S1 |North America |15 |1813 |Fixed |Virginia International Raceway |Sat, April 05 05:00PM EDT |Sat, April 05 10:00PM BST |Sun, April 06 07:00AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCars February 2025 Championship |North America |14 |1782 | | | | | |
 |[ALPHA ONE RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11865){:target="_blank"} |Alpha One Fast 5 Series \[IR18\] Season 1 |North America |14 |1646 |Both | | | | |
 |[Prodigy Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10908){:target="_blank"} |Tuesday Night Thunder IndyCar Series \- Season II |North America |13 |1417 |Both |Okayama International Circuit |Tue, April 01 08:30PM EDT |Wed, April 02 01:30AM BST |Wed, April 02 11:30AM AEDT |
@@ -913,6 +908,7 @@
 |[Total Speed Racing League IndyCar](https://members.iracing.com/membersite/member/LeagueView.do?league=11116){:target="_blank"} |PRL INDYCAR S2 |North America |11 |1632 |Fixed |Chicagoland Speedway |Sun, March 30 09:00AM EDT |Sun, March 30 02:00PM BST |Mon, March 31 12:00AM AEDT |
 |[SRL Snowman Studios Indycar Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=8781){:target="_blank"} |SRL Snowman Studios Indycar Showdown |North America |11 |3892 |Fixed | | | | |
 |[Elbows Out Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9914){:target="_blank"} |Indy Series // 2025 Season 2 |North America |11 |1650 |Open |[Legacy] Phoenix Raceway - 2008 |Mon, March 31 08:00PM EDT |Tue, April 01 01:00AM BST |Tue, April 01 11:00AM AEDT |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCars March 2025 Championship |North America |10 |1550 | | | | | |
 
 ### Dallara iR-01
 
@@ -962,11 +958,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
 |[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |WW FV 2025 S1 |North America |76 |2493 |Open | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL FV Season 1 |North America |55 |2042 |Open | | | | |
+|[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |WW FV 2025 S2 |North America |33 |2442 |Open |Summit Point Raceway |Sat, April 05 02:30PM EDT |Sat, April 05 07:30PM BST |Sun, April 06 04:30AM AEST |
 |[NEFV Thirsty Thursday's](https://members.iracing.com/membersite/member/LeagueView.do?league=5744){:target="_blank"} |2025 Race into the new season |North America |27 |1619 |Both | | | | |
-|[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |WW FV 2025 S2 |North America |26 |2543 |Open |Circuit de Nevers Magny-Cours |Sat, March 29 02:30PM EDT |Sat, March 29 06:30PM GMT |Sun, March 30 05:30AM AEDT |
 |[Driverz Cup Formula Vee](https://members.iracing.com/membersite/member/LeagueView.do?league=10890){:target="_blank"} |Driverz Cup FV Winter League 2025 |North America |25 |1663 | | | | | |
 |[2025 Canadian F1200 eSports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11888){:target="_blank"} |2025 Canadian F1200 eSports Championship |North America |23 |2170 | | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2024 Formula Vee |North America |12 |1303 | | | | | |
@@ -1040,15 +1036,16 @@
 |[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12311){:target="_blank"} |Official Practice |North America |40 |None | | | | | |
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |24/25 BiS F1600 Championship |North America |37 |2234 | | | | | |
 |[Sim Racers Group Tuesday Rookie](https://members.iracing.com/membersite/member/LeagueView.do?league=11455){:target="_blank"} |2025 S1 |North America |36 |1378 |Fixed | | | | |
-|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12311){:target="_blank"} |Split 1 |North America |34 |2689 | | | | | |
+|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12311){:target="_blank"} |Split 1 |North America |35 |2722 | | | | | |
 |[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |2025 S2 |North America |32 |2837 |Open |Circuit de Nevers Magny-Cours |Sun, March 30 12:30PM EDT |Sun, March 30 05:30PM BST |Mon, March 31 03:30AM AEDT |
 |[BiS Formula 1600 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9596){:target="_blank"} |Official Test |North America |31 |None | | | | | |
+|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12311){:target="_blank"} |Split 4 |North America |26 |1310 | | | | | |
+|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12311){:target="_blank"} |Split 2 |North America |25 |1847 | | | | | |
+|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12311){:target="_blank"} |Split 3 |North America |24 |1755 | | | | | |
 |[Sim Racers Group Tuesday Rookie](https://members.iracing.com/membersite/member/LeagueView.do?league=11455){:target="_blank"} |2025 S2 |North America |23 |1466 |Fixed |Summit Point Raceway |Tue, April 01 08:59PM EDT |Wed, April 02 01:59AM BST |Wed, April 02 11:59AM AEDT |
-|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12311){:target="_blank"} |Split 2 |North America |21 |1855 | | | | | |
-|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12311){:target="_blank"} |Split 3 |North America |20 |1660 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |ORCGP Super 1600 \- 2025 |North America |18 |2486 |Fixed | | | | |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |Satruday Night Ray 1600 2025\-1 |North America |17 |1051 | | | | | |
-|[Almeida Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12311){:target="_blank"} |Split 4 |North America |17 |1370 | | | | | |
+|[Formula Hybrid and Electric](https://members.iracing.com/membersite/member/LeagueView.do?league=12345){:target="_blank"} |Formula Hybrid |North America |14 |1360 | | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S2 Tuesday FF1600 |North America |12 |1618 |Both |Algarve International Circuit |Tue, April 01 07:00PM EDT |Wed, April 02 12:00AM BST |Wed, April 02 10:00AM AEDT |
 
 ### Skip Barber Race Series
@@ -1123,14 +1120,6 @@
 
 # Sports Car
 
-### Audi 90 GTO
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Merica Extreme Dirt and Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=11422){:target="_blank"} |Audi 90 GTO |North America |12 |1099 | | | | | |
-
 ### Ferrari 296 GT3
 
 [Back to Top](#)  
@@ -1144,8 +1133,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
 |[American Muscle Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6810){:target="_blank"} |Season 8 |North America |55 |2281 | |Circuit de Lédenon |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
+|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Mustang 500 Piston Cup |North America |11 |1346 |Both |Long Beach Street Circuit |Sat, April 05 07:30PM EDT |Sun, April 06 12:30AM BST |Sun, April 06 09:30AM AEST |
 
 ### GT4 Class
 
@@ -1180,7 +1170,7 @@
 |[PCA \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Novice Group eDE |North America |63 |1207 | | | | | |
 |[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 11 \- Drying Track |North America |49 |1980 | | | | | |
 |[EGT Canada \- GT4\|TCR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |S11 GT4\|TCR Series \(2025\) |North America |46 |1760 | | | | | |
-|[EGT Canada \- GT4\|TCR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |S11 GT4\|TCR Pratique officielle \(2025\) |North America |38 |None | | | | | |
+|[EGT Canada \- GT4\|TCR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |S11 GT4\|TCR Pratique officielle \(2025\) |North America |38 |None | |Mid-Ohio Sports Car Course |Sun, April 06 07:20PM EDT |Mon, April 07 12:20AM BST |Mon, April 07 09:20AM AEST |
 |[Wheel Challenge Series \- Sport \- Licence C](https://members.iracing.com/membersite/member/LeagueView.do?league=11903){:target="_blank"} |Saison 2 |North America |37 |1443 | |Virginia International Raceway |Tue, April 01 07:30PM EDT |Wed, April 02 12:30AM BST |Wed, April 02 10:30AM AEDT |
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |EGT Canada \- GT4\-TCR Classification |North America |36 |None | | | | | |
 |[GM PDT Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6251){:target="_blank"} |Tin Lizzy Throwdown |North America |35 |1885 | |Watkins Glen International |Tue, April 01 08:00PM EDT |Wed, April 02 01:00AM BST |Wed, April 02 11:00AM AEDT |
@@ -1229,7 +1219,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S11 Americas Porsche Cup Challenge |North America |62 |2213 |Both | | | | |
-|[GTChampions](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |Luke Manske Racing Porsche Cup |North America |53 |2190 |Both |Mount Panorama Circuit |Sat, April 05 11:10AM EDT |Sat, April 05 04:10PM BST |Sun, April 06 02:10AM AEDT |
+|[GTChampions](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |Luke Manske Racing Porsche Cup |North America |53 |2228 |Both |Mount Panorama Circuit |Sat, April 05 11:10AM EDT |Sat, April 05 04:10PM BST |Sun, April 06 02:10AM AEDT |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S12 Americas Porsche Cup Challenge |North America |49 |2098 |Both |Autodromo Internazionale Enzo e Dino Ferrari |Thu, April 03 08:00PM EDT |Fri, April 04 01:00AM BST |Fri, April 04 11:00AM AEDT |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |WCR Porsche Cup Intro Series |North America |45 |2454 |Open | | | | |
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |2025 iRTES Porsche Cup support series |North America |33 |2293 |Both |Nürburgring Grand-Prix-Strecke |Thu, April 03 10:00PM EDT |Fri, April 04 03:00AM BST |Fri, April 04 01:00PM AEDT |
@@ -1336,6 +1326,14 @@
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |22 |2155 |Both |Road Atlanta |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |North America |15 |1389 |Both |Autódromo José Carlos Pace |Thu, April 03 07:30PM EDT |Fri, April 04 12:30AM BST |Fri, April 04 10:30AM AEDT |
 |[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |North America |13 |None |Both | | | | |
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |CLN RACING LEAGUE LMP2/GTP |North America |29 |1892 |Fixed | | | | |
 
 ### Ligier JS P320
 
@@ -1465,13 +1463,12 @@
 |[802 G Stone Motors 358 Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5978){:target="_blank"} |G Stone Motors 358 Series Season 3 |North America |53 |2418 | | | | | |
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |358 fixed |North America |47 |2251 |Fixed | | | | |
 |[City of Fulton iRacing Series Asphalt and Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=8048){:target="_blank"} |358 Season 3 |North America |40 |2533 |Open | | | | |
-|[esr 358 dirt series](https://members.iracing.com/membersite/member/LeagueView.do?league=10635){:target="_blank"} |ESR 358 dirt series |North America |33 |1744 |Open | | | | |
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2025 358 Modifieds |North America |28 |2131 |Fixed |Lucas Oil Speedway |Fri, April 04 12:30AM EDT |Fri, April 04 05:30AM BST |Fri, April 04 03:30PM AEDT |
 |[Ohio Valley Sim Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |2025 358 Modified Mayhem Tour |North America |27 |1748 |Fixed |Port Royal Speedway |Sat, April 05 12:06AM EDT |Sat, April 05 05:06AM BST |Sat, April 05 03:06PM AEDT |
 |[C2C \- Speed Week CHARITY](https://members.iracing.com/membersite/member/LeagueView.do?league=10263){:target="_blank"} |SPEED WEEK \- OPEN 358 |North America |21 |2309 | | | | | |
 |[NorthEast iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11315){:target="_blank"} |2024 \- 2024 NorthEast iRacing League 358 Fixed Season |North America |20 |1958 |Fixed | | | | |
 |[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |mini champ 358 printemps 2025 |North America |20 |2315 | | | | | |
-|[Dirt Mud Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10508){:target="_blank"} |358 Modified 2025 |North America |18 |2211 |Fixed | | | | |
+|[Dirt Mud Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10508){:target="_blank"} |358 Modified 2025 |North America |18 |2211 |Fixed |Eldora Speedway |Sun, April 06 06:30PM EDT |Sun, April 06 11:30PM BST |Mon, April 07 08:30AM AEST |
 |[802 G Stone Motors 358 Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5978){:target="_blank"} |Fun Races |North America |15 |2494 | | | | | |
 |[Spring Sizzler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12116){:target="_blank"} |Spring Sizzler Series |North America |14 |1282 | |Knoxville Raceway |Fri, April 04 07:00PM EDT |Sat, April 05 12:00AM BST |Sat, April 05 10:00AM AEDT |
 |[esr 358 dirt series](https://members.iracing.com/membersite/member/LeagueView.do?league=10635){:target="_blank"} |esr 358 dirt series |North America |11 |1546 |Open | | | | |
@@ -1502,6 +1499,7 @@
 |[JE Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7160){:target="_blank"} |LLM Money Series |North America |22 |2603 | | | | | |
 |[S I M H O U S E](https://members.iracing.com/membersite/member/LeagueView.do?league=3696){:target="_blank"} |Limited Dirt Late Models |North America |16 |1819 | |Federated Auto Parts Raceway at I-55 |Fri, April 04 09:00PM EDT |Sat, April 05 02:00AM BST |Sat, April 05 12:00PM AEDT |
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Sounds of Spring Limted Late Model Tour |North America |15 |1865 |Fixed | | | | |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Lickety Slicks Late Model Series |North America |10 |1304 |Fixed |Volusia Speedway Park |Thu, April 03 07:30PM EDT |Fri, April 04 12:30AM BST |Fri, April 04 10:30AM AEDT |
 
 ### Dirt Late Model - Pro
 
@@ -1514,7 +1512,6 @@
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |pro late models open set |North America |72 |2892 |Fixed | | | | |
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |pro late models fixed |North America |55 |2671 |Fixed | | | | |
 |[UDRL Pro Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11939){:target="_blank"} |UDRL Pros Season 1 |North America |41 |2348 | | | | | |
-|[HELL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=11698){:target="_blank"} |Cody Williams Design Hell Tour |North America |40 |2921 |Open | | | | |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |2024/2025 Winter Pro Late Models |North America |38 |2316 |Fixed | | | | |
 |[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |mini champ late model pro |North America |34 |2126 | | | | | |
 |[All American Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10800){:target="_blank"} |All American Pro Late Tour |North America |32 |2677 |Open |Port Royal Speedway |Wed, April 02 09:30PM EDT |Thu, April 03 02:30AM BST |Thu, April 03 12:30PM AEDT |
@@ -1597,7 +1594,6 @@
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |2025\-1 360 Winged Sprints |North America |88 |3428 |Open |Port Royal Speedway |Sun, March 30 09:00PM EDT |Mon, March 31 02:00AM BST |Mon, March 31 12:00PM AEDT |
 |[American Dirt Series Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=2504){:target="_blank"} |Winter 360s \(2024/25\) |North America |84 |3870 | | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |North America |71 |2111 |Open | | | | |
-|[AcesUp Sim Sports Pro Series Sideshow](https://members.iracing.com/membersite/member/LeagueView.do?league=10746){:target="_blank"} |AcesUp 360 Pro Series Sideshow |North America |68 |4620 | | | | | |
 |[DSRL Monday Night Thunder Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=101){:target="_blank"} |MNT 360 Sprints Season 25 |North America |55 |3320 |Both | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |North America |54 |2725 |Open | | | | |
 |[RPES 305 & 360 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2025 RPES 360 Sprint Car Series |North America |49 |3884 |Fixed | | | | |
@@ -1636,7 +1632,6 @@
 |[Rip The Lip Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11763){:target="_blank"} |410 Wing 25A |North America |26 |3764 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2025 Williams Grove Track Championship |North America |23 |3466 |Open |Williams Grove Speedway |Tue, April 01 07:30PM EDT |Wed, April 02 12:30AM BST |Wed, April 02 10:30AM AEDT |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2025 Port Royal Track Championship |North America |20 |3519 |Open | | | | |
-|[Merica Extreme Dirt and Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=11422){:target="_blank"} |Dirt Sprint Cars Wing\-410 |North America |13 |1229 | | | | | |
 
 ### Dirt Street Stock
 
@@ -1658,7 +1653,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------------|-------|----|-----|-------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------------|-------|----|-----|----------------------|-------------------------|-------------------------|--------------------------|
 |[WOTEL: UMP Modifieds Season 28](https://members.iracing.com/membersite/member/LeagueView.do?league=6176){:target="_blank"} |UMP Season 28 |North America |75 |4886 | | | | | |
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |ump mods open set |North America |51 |2674 |Fixed | | | | |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |2024/2025 Winter UMP Modifieds |North America |44 |2313 |Fixed | | | | |
@@ -1669,13 +1664,14 @@
 |[Virtual Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11145){:target="_blank"} |Winter Heat Series UMP |North America |19 |2417 | | | | | |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |ump mod |North America |16 |1467 |Open |Eldora Speedway |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |DIRT Demons UMP Modifieds |North America |13 |1510 | | | | | |
+|[BRL J&B Modified Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} |Season 3 |North America |10 |1715 | |Bristol Motor Speedway |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------|-------|----|-----|-------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------|-------|----|-----|------------------------|-------------------------|-------------------------|--------------------------|
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |North America |70 |2565 |Open | | | | |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |2025 Big Block / 358 Modifields Season 1 |North America |61 |3474 |Open |Oswego Speedway |Wed, April 02 09:30PM EDT |Thu, April 03 02:30AM BST |Thu, April 03 12:30PM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |North America |59 |2574 |Open |Weedsport Speedway |Thu, April 03 08:00PM EDT |Fri, April 04 01:00AM BST |Fri, April 04 11:00AM AEDT |
@@ -1705,7 +1701,7 @@
 |[OG League](https://members.iracing.com/membersite/member/LeagueView.do?league=11798){:target="_blank"} |OG Season 1 |North America |21 |3798 | | | | | |
 |[GeoMax Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9941){:target="_blank"} |Geomax Outlaw Season 4 |North America |21 |2620 | |Oswego Speedway |Thu, April 03 07:30PM EDT |Fri, April 04 12:30AM BST |Fri, April 04 10:30AM AEDT |
 |[DIRTKARS UMP SERIES powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7932){:target="_blank"} |Season 8 |North America |19 |2099 | | | | | |
-|[SRA\-Southern Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |RCRA Weekly Series |North America |19 |2438 |Both | | | | |
+|[SRA\-Southern Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |RCRA Weekly Series |North America |19 |2438 |Both |Lanier National Speedway |Sun, April 06 08:30PM EDT |Mon, April 07 01:30AM BST |Mon, April 07 10:30AM AEST |
 |[SRA\-Southern Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |BIG event races |North America |18 |2630 |Both | | | | |
 |[C2C \- Speed Week CHARITY](https://members.iracing.com/membersite/member/LeagueView.do?league=10263){:target="_blank"} |SPEED WEEK \- 358/BB |North America |17 |2191 | | | | | |
 |[C2C \- Speed Week CHARITY](https://members.iracing.com/membersite/member/LeagueView.do?league=10263){:target="_blank"} |SPEED WEEK \- 360/410 |North America |16 |2166 | | | | | |
@@ -1734,7 +1730,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25a |North America |24 |5036 | | | | | |
+|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25a |North America |25 |4984 | | | | | |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25A |North America |16 |2936 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rally \- 2025 |North America |14 |2560 |Fixed | | | | |
 
@@ -1797,7 +1793,6 @@
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GT3 Sprint Season 13 \- Part 2 |North America |86 |2112 |Both | | | | |
 |[EMS GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11516){:target="_blank"} |PREQ GT3 |North America |86 |None | | | | | |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GT3 Sprint Season 13 \- Part 1 |North America |79 |2114 |Both | | | | |
-|[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |BRC Road Season 7 \- GT3 |North America |62 |1553 |Open | | | | |
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |HPR GT3 Season 4 |North America |50 |1425 |Both | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S1 Thursday GT3 |North America |35 |1736 |Both | | | | |
 |[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2025 RED SOX RACING \- WINTER GT3 SERIES I |North America |33 |2024 | | | | | |
@@ -1812,9 +1807,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------|-------|----|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
-|[CFE 2024 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Prequalifs |North America |289 |3258 | | | | | |
+|[CFE 2024 BY LSR](https://members.iracing.com/membersite/member/LeagueView.do?league=8019){:target="_blank"} |CFE 2024 Prequalifs |North America |289 |3258 | |Autodromo Nazionale Monza |Sun, April 06 01:00PM EDT |Sun, April 06 06:00PM BST |Mon, April 07 03:00AM AEST |
 |[The Wishful Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=8400){:target="_blank"} |The Wishful 2025 Series |North America |151 |2671 | | | | | |
-|[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Preseason Sessions \- No Points |North America |107 |1531 |Both | | | | |
+|[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Preseason Sessions \- No Points |North America |107 |1531 |Both |Red Bull Ring |Sun, March 30 08:30AM EDT |Sun, March 30 01:30PM BST |Sun, March 30 11:30PM AEDT |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S5 MX5/M2 Cup Multiclass Challenge |North America |96 |1831 |Both | | | | |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GT3 Sprint Practice |North America |94 |2080 |Both | | | | |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |Community Events |North America |87 |1913 |Both | | | | |
@@ -1827,7 +1822,7 @@
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S13 \- Rdoks Tuesday Night Sports Car Challenge |North America |78 |2088 |Open |Circuit Gilles Villeneuve |Tue, April 01 08:50PM EDT |Wed, April 02 01:50AM BST |Wed, April 02 11:50AM AEDT |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |Practice and Special Events |North America |75 |2244 |Both | | | | |
 |[RPES Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2025 RPES Special Events |North America |75 |3048 |Fixed |Lernerville Speedway |Tue, April 01 08:28PM EDT |Wed, April 02 01:28AM BST |Wed, April 02 11:28AM AEDT |
-|[Azz Tech Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11528){:target="_blank"} |ATRL ES S1 |North America |74 |1616 |Both |Circuit des 24 Heures du Mans |Sat, March 29 01:00PM EDT |Sat, March 29 05:00PM GMT |Sun, March 30 04:00AM AEDT |
+|[Azz Tech Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11528){:target="_blank"} |ATRL ES S1 |North America |74 |1616 |Both |Circuit des 24 Heures du Mans |Mon, March 31 02:00PM EDT |Mon, March 31 07:00PM BST |Tue, April 01 05:00AM AEDT |
 |[OMEC: Osborne Motors Endurance Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9139){:target="_blank"} |OMEC \- Season 9 |North America |74 |1839 | | | | | |
 |[Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"} |E4A 2025S1 |North America |72 |1884 |Fixed | | | | |
 |[Copa Magna](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} |Multiclass Series 2025 |North America |70 |1809 |Fixed | | | | |
@@ -1840,13 +1835,13 @@
 |[Elbows Out Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9914){:target="_blank"} |Multiclass Series // Season 8 |North America |63 |1848 |Open | | | | |
 |[Belly Up Sports Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3344){:target="_blank"} |2025A Season |North America |63 |3316 |Fixed |Charlotte Motor Speedway |Wed, April 02 06:30PM EDT |Wed, April 02 11:30PM BST |Thu, April 03 09:30AM AEDT |
 |[OVAL\-UTION / Home Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=10853){:target="_blank"} |HOME TRACKS Saison Automne \- Hiver 2024/25 |North America |62 |1937 | | | | | |
+|[24 Hours of Lemons](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |Lawn Mowing Lemons |North America |61 |1328 | | | | | |
 |[SAAC CTC Cup Series \- Season 3](https://members.iracing.com/membersite/member/LeagueView.do?league=9612){:target="_blank"} |Season 3 |North America |60 |3163 |Fixed | | | | |
-|[24 Hours of Lemons](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |Lawn Mowing Lemons |North America |60 |1327 | |Charlotte Motor Speedway |Sat, March 29 12:50PM EDT |Sat, March 29 04:50PM GMT |Sun, March 30 03:50AM AEDT |
 |[Autobahn Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=1263){:target="_blank"} |Season 14 |North America |60 |3461 |Open | | | | |
 |[PRL GTP/LMP2/GT3 IMSA Series \(Thursday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7084){:target="_blank"} |PRL GTP/LMP2/GT3 Series 2025/S1 |North America |60 |3023 | | | | | |
 |[PRL LMP3/GT4 Challenge \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7863){:target="_blank"} |PRL LMP3/GT4 Challenge Series 2025/S1 |North America |58 |2988 | | | | | |
 |[ChampCar iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2580){:target="_blank"} |2025 ChampCar iRacing Series |North America |58 |1938 |Fixed |Oulton Park Circuit |Wed, April 02 07:30PM EDT |Thu, April 03 12:30AM BST |Thu, April 03 10:30AM AEDT |
-|[PT Autosport](https://members.iracing.com/membersite/member/LeagueView.do?league=10344){:target="_blank"} |eSeries \- Season Two |North America |57 |2334 | | | | | |
+|[PT Autosport](https://members.iracing.com/membersite/member/LeagueView.do?league=10344){:target="_blank"} |eSeries \- Season Two |North America |57 |2349 | | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |IZZO Plumbing Legacy Series |North America |57 |1480 |Fixed | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Super Speedway Sunday |North America |55 |2326 |Open | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S6 MX5/M2 Cup Multiclass Challenge |North America |55 |1954 |Both |Summit Point Raceway |Tue, April 01 07:30PM EDT |Wed, April 02 12:30AM BST |Wed, April 02 10:30AM AEDT |
@@ -1859,20 +1854,19 @@
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |MULTICLASE LMP2/GT3 |North America |51 |1778 |Fixed | | | | |
 |[BRB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10308){:target="_blank"} |Buttkicker Cup Series Season 3 |North America |50 |2131 | | | | | |
 |[Autobahn Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=1263){:target="_blank"} |Season 14 Practices |North America |50 |None |Open |Road Atlanta |Mon, March 31 05:00PM EDT |Mon, March 31 10:00PM BST |Tue, April 01 08:00AM AEDT |
-|[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2025 S1 SCS |North America |50 |2184 |Open |Sebring International Raceway |Sat, March 29 08:00PM EDT |Sun, March 30 12:00AM GMT |Sun, March 30 11:00AM AEDT |
+|[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2025 S1 SCS |North America |50 |2188 |Open | | | | |
 |[Elbows Out Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9914){:target="_blank"} |Multiclass Series // 2025 Season 2 |North America |50 |1826 |Open |Hockenheimring Baden-Württemberg |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[American Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=18){:target="_blank"} |Exhibition Races and Tests |North America |49 |1996 |Fixed | | | | |
 |[PS Enduros](https://members.iracing.com/membersite/member/LeagueView.do?league=7139){:target="_blank"} |Enduros, Season 5 |North America |48 |2855 |Fixed | | | | |
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |TRUCKS Season 7 |North America |48 |1761 |Fixed | | | | |
 |[Wheel Challenge Series \- Sport \- Licence B](https://members.iracing.com/membersite/member/LeagueView.do?league=11691){:target="_blank"} |Saison 2 |North America |48 |1956 | | | | | |
-|[OVAL\-UTION / Évenements Spéciaux](https://members.iracing.com/membersite/member/LeagueView.do?league=10851){:target="_blank"} |Évènements Spéciaux Saison Automne \- Hiver 2024/25 |North America |47 |1936 | | | | | |
 |[FLANC Club Serie](https://members.iracing.com/membersite/member/LeagueView.do?league=198){:target="_blank"} |Training Club |North America |47 |None |Fixed |Watkins Glen International |Thu, April 03 01:00PM EDT |Thu, April 03 06:00PM BST |Fri, April 04 04:00AM AEDT |
+|[Maine Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4256){:target="_blank"} |MSRS 24\-25 |North America |47 |1881 |Both | | | | |
 |[OVAL\-UTION / Évenements Spéciaux](https://members.iracing.com/membersite/member/LeagueView.do?league=10851){:target="_blank"} |SnoWbaLL FranzY 2025 |North America |47 |1966 | | | | | |
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2025 \- DIVISION ÉLITE FR \- SRX / GEN6 |North America |46 |3600 |Fixed | | | | |
 |[Motor City Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12105){:target="_blank"} |Motor City Racing IMSA Series |North America |46 |1475 |Open |Long Beach Street Circuit |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
 |[XMS Racing Ricmotech MiniMite Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=1424){:target="_blank"} |Ricmotech MSC Season\-8 |North America |46 |2323 |Open |Mount Panorama Circuit |Sun, March 30 04:00PM EDT |Sun, March 30 09:00PM BST |Mon, March 31 07:00AM AEDT |
 |[\#0 Midwest\-Motorsports\.com \- Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8878){:target="_blank"} |Season 8 |North America |45 |1529 |Fixed |Atlanta Motor Speedway |Fri, April 04 09:30PM EDT |Sat, April 05 02:30AM BST |Sat, April 05 12:30PM AEDT |
-|[Maine Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4256){:target="_blank"} |MSRS 24\-25 |North America |45 |1870 |Both | | | | |
 |[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2024\-25 358 |North America |44 |1958 |Fixed | | | | |
 |[Campeonato Raccoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11906){:target="_blank"} |Season 1 |North America |44 |1984 | | | | | |
 |[Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"} |E4A 2025 S2 |North America |44 |1777 |Fixed |Autodromo Internazionale Enzo e Dino Ferrari |Wed, April 02 06:45PM EDT |Wed, April 02 11:45PM BST |Thu, April 03 09:45AM AEDT |
@@ -1893,7 +1887,6 @@
 |[American Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=36){:target="_blank"} |2024 Wednesday SportsCar Championship Fall \- Season 5 |North America |40 |1712 |Fixed | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |2025 S1 \- 07 \- Beef Jerky Unlimited Sunday INDY |North America |40 |1275 |Fixed | | | | |
 |[TRACKILICIOUS iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10794){:target="_blank"} |Thursday Multiclass Championship \- Spring \- Sponsored by CDA |North America |40 |1844 | |Autodromo Nazionale Monza |Thu, April 03 06:50PM EDT |Thu, April 03 11:50PM BST |Fri, April 04 09:50AM AEDT |
-|[Turn 2 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10646){:target="_blank"} |Turn 2: Season 1 |North America |39 |1686 |Fixed | | | | |
 |[Monticello Motor Club Esports Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10574){:target="_blank"} |Monticello Motor Club Esports Challenge Season 2 |North America |39 |1540 | |Circuit Zandvoort |Wed, April 02 07:30PM EDT |Thu, April 03 12:30AM BST |Thu, April 03 10:30AM AEDT |
 |[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2025 S1 Practice Lobbies |North America |39 |None |Open | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 32 F4 |North America |38 |1784 |Fixed | | | | |
@@ -1902,13 +1895,13 @@
 |[ChampCar iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2580){:target="_blank"} |2025 Practice Sessions |North America |38 |1883 |Fixed | | | | |
 |[24 Hours of Lemons](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |Lunchtime Lemons |North America |37 |1340 | | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |SM Racing Invitational |North America |37 |2212 |Open | | | | |
-|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |Season 3 IRPAS |North America |37 |1568 | |Silverstone Circuit |Sat, March 29 12:00PM EDT |Sat, March 29 04:00PM GMT |Sun, March 30 03:00AM AEDT |
+|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |Season 3 IRPAS |North America |37 |1555 | | | | | |
 |[NIECECAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11143){:target="_blank"} |NIECECAR Season 3 |North America |37 |1983 | | | | | |
 |[Racing Club International](https://members.iracing.com/membersite/member/LeagueView.do?league=8142){:target="_blank"} |RSS Endurance Series |North America |37 |2602 |Both | | | | |
 |[NER SCCA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4356){:target="_blank"} |2024 Fall |North America |36 |1769 |Open | | | | |
 |[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |International Sportscar Challenge |North America |36 |1826 |Both |Watkins Glen International |Thu, April 03 07:30PM EDT |Fri, April 04 12:30AM BST |Fri, April 04 10:30AM AEDT |
 |[simXperienZ](https://members.iracing.com/membersite/member/LeagueView.do?league=3056){:target="_blank"} |SimXperienz Winter '24/'25 |North America |35 |1431 | | | | | |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 34 Practice Sessions |North America |35 |1041 |Fixed |Road America |Sat, March 29 02:00PM EDT |Sat, March 29 06:00PM GMT |Sun, March 30 05:00AM AEDT |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 34 Practice Sessions |North America |35 |1041 |Fixed |Road America |Sun, March 30 02:00PM EDT |Sun, March 30 07:00PM BST |Mon, March 31 05:00AM AEDT |
 |[BearPope Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=897){:target="_blank"} |GBS as heck |North America |34 |2349 |Open | | | | |
 |[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2025 WEDNESDAY NIGHTS\!\! |North America |34 |1691 |Fixed |Motorsport Arena Oschersleben |Wed, April 02 09:00PM EDT |Thu, April 03 02:00AM BST |Thu, April 03 12:00PM AEDT |
 |[YRD NEP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4677){:target="_blank"} |NEP Practice |North America |34 |1988 | | | | | |
@@ -1929,7 +1922,7 @@
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Gabir Motors Cup Season 21 |North America |31 |1742 |Both | | | | |
 |[LAS Esport](https://members.iracing.com/membersite/member/LeagueView.do?league=8419){:target="_blank"} |GT3 ESPORTS Championnat Mondial |North America |31 |1850 |Fixed | | | | |
 |[Freedom Motorsport Alliance \(FMA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} |FMA Regal Wrapz GT3 Spring Series |North America |31 |1251 | |Charlotte Motor Speedway |Mon, March 31 08:00PM EDT |Tue, April 01 01:00AM BST |Tue, April 01 11:00AM AEDT |
-|[P2 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9448){:target="_blank"} |2025 NASCAR CUP Series |North America |31 |1784 |Open | | | | |
+|[P2 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9448){:target="_blank"} |2025 NASCAR CUP Series |North America |31 |1778 |Open | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |2025 S1 \- 06 \- Kanati Tires Handicap \- Saturday |North America |30 |None |Fixed | | | | |
 |[The Apex Is Lava \(TAIL\) Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9033){:target="_blank"} |2025S1 \- Ring Runners Season 9 |North America |30 |2139 |Open | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |VOREX \- 2025 |North America |30 |3217 |Fixed | | | | |
@@ -1939,7 +1932,7 @@
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |ACTION Racing Series Monday Madness Season 2 \- Xfinity/358 Modifieds |North America |29 |1815 |Fixed | | | | |
 |[86 Challenge Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12005){:target="_blank"} |2025 Inaugural Season  \(Test season\) |North America |29 |1479 |Open | | | | |
 |[Chop Shop GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9730){:target="_blank"} |CHOPP'N IT UP GT3 |North America |29 |1343 | | | | | |
-|[Super\-High Intensity Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9997){:target="_blank"} |Year 2, Season 1 |North America |29 |1393 |Fixed |Red Bull Ring |Sat, March 29 07:00PM EDT |Sat, March 29 11:00PM GMT |Sun, March 30 10:00AM AEDT |
+|[Super\-High Intensity Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9997){:target="_blank"} |Year 2, Season 1 |North America |29 |1379 |Fixed |Road Atlanta |Sat, April 05 07:00PM EDT |Sun, April 06 12:00AM BST |Sun, April 06 09:00AM AEST |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |SEASON 1 PART 2 |North America |29 |1491 |Fixed |Martinsville Speedway |Sun, March 30 07:00PM EDT |Mon, March 31 12:00AM BST |Mon, March 31 10:00AM AEDT |
 |[Elbows Out Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9914){:target="_blank"} |Sportscar Clash // 2025 Season 2 |North America |29 |1856 |Open |Hockenheimring Baden-Württemberg |Thu, April 03 08:00PM EDT |Fri, April 04 01:00AM BST |Fri, April 04 11:00AM AEDT |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |5 \- IZZO Plumbing Legacy Series |North America |29 |1399 |Fixed | | | | |
@@ -1963,8 +1956,8 @@
 |[Sports Car Club of the SiouxLand](https://members.iracing.com/membersite/member/LeagueView.do?league=9621){:target="_blank"} |Winter 24/25 |North America |25 |1705 |Both |Suzuka International Racing Course |Mon, March 31 09:00PM EDT |Tue, April 01 02:00AM BST |Tue, April 01 12:00PM AEDT |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |Week 13 |North America |25 |1594 |Both | | | | |
 |[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |Mandobowl 2025 |North America |25 |1531 |Open | | | | |
-|[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |ACE Dirt Season \#1 |North America |25 |1675 |Fixed |Eldora Speedway |Sat, March 29 10:00PM EDT |Sun, March 30 03:00AM BST |Sun, March 30 01:00PM AEDT |
-|[IHRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12087){:target="_blank"} |IHRL season 1 |North America |25 |1519 | | | | | |
+|[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |ACE Dirt Season \#1 |North America |25 |1650 |Fixed | | | | |
+|[IHRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12087){:target="_blank"} |IHRL season 1 |North America |25 |1519 | |Langley Speedway |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
 |[The Chaos League](https://members.iracing.com/membersite/member/LeagueView.do?league=10576){:target="_blank"} |Chaos On Roads \- Season 5 |North America |25 |972 |Open | | | | |
 |[24 Hours of Lemons](https://members.iracing.com/membersite/member/LeagueView.do?league=4019){:target="_blank"} |Lemons Monthly Series |North America |24 |1197 | |Barber Motorsports Park |Sat, April 05 08:00PM EDT |Sun, April 06 01:00AM BST |Sun, April 06 10:00AM AEST |
 |[Team Hellcat](https://members.iracing.com/membersite/member/LeagueView.do?league=11679){:target="_blank"} |Season 2B: Street Stocks |North America |24 |1386 | |Nashville Fairgrounds Speedway |Tue, April 01 07:00PM EDT |Wed, April 02 12:00AM BST |Wed, April 02 10:00AM AEDT |
@@ -1981,23 +1974,25 @@
 |[2025 Great Lakes iRacing Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=10506){:target="_blank"} |Season 2 \- Winter 2025 |North America |23 |1660 | | | | | |
 |[Simaholics Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11487){:target="_blank"} |GT3/GTP \- Season 1 |North America |23 |1516 |Both |Autodromo Internazionale del Mugello |Mon, March 31 08:30PM EDT |Tue, April 01 01:30AM BST |Tue, April 01 11:30AM AEDT |
 |[EPIC RACING ASSOCIATION \(ERA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9790){:target="_blank"} |Winter 2025 Set Building |North America |22 |2354 | | | | | |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Thunder Run Season 2 |North America |22 |1291 |Fixed | | | | |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |Fun Races |North America |21 |1754 | | | | | |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |JBWC 8AM |North America |21 |1263 |Both |Okayama International Circuit |Sat, April 05 08:00AM EDT |Sat, April 05 01:00PM BST |Sat, April 05 11:00PM AEDT |
 |[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |OBRL Practice |North America |21 |None |Fixed | | | | |
 |[GT4 vs NAS](https://members.iracing.com/membersite/member/LeagueView.do?league=10931){:target="_blank"} |PCup vs\. NASCUP Season 1 |North America |21 |1800 |Open | | | | |
+|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |GT3 Winter Road Race Series |North America |21 |1200 |Fixed | | | | |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025 Season 1 \- Full Season |North America |21 |1666 | | | | | |
 |[Friday Night Thunder Presented by Freedom Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11417){:target="_blank"} |thunder season 2 |North America |21 |1846 | | | | | |
-|[SIGNATURE SUNDAY RACES](https://members.iracing.com/membersite/member/LeagueView.do?league=5083){:target="_blank"} |Sunday Funday |North America |21 |1393 |Fixed | | | | |
+|[SIGNATURE SUNDAY RACES](https://members.iracing.com/membersite/member/LeagueView.do?league=5083){:target="_blank"} |Sunday Funday |North America |21 |1393 |Fixed |Martinsville Speedway |Sun, March 30 12:00PM EDT |Sun, March 30 05:00PM BST |Mon, March 31 03:00AM AEDT |
 |[NORA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3806){:target="_blank"} |Duel Races |North America |20 |2659 | | | | | |
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |Season 2  iRPAS  International Racers Pro Am Series |North America |20 |2110 | | | | | |
 |[GT Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5760){:target="_blank"} |S7 GT3 Sprint Series |North America |20 |1086 | |Red Bull Ring |Fri, April 04 09:00PM EDT |Sat, April 05 02:00AM BST |Sat, April 05 12:00PM AEDT |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Multicrash Race Series |North America |20 |1229 |Both | | | | |
-|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |GT3 Winter Road Race Series |North America |20 |1206 |Fixed |Circuit des 24 Heures du Mans |Sat, March 29 07:30PM EDT |Sat, March 29 11:30PM GMT |Sun, March 30 10:30AM AEDT |
 |[Midwestern Council of Sports Car Clubs](https://members.iracing.com/membersite/member/LeagueView.do?league=4743){:target="_blank"} |MCSCC Winter Series Season 5 |North America |20 |1680 | | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S1 GT3 |North America |20 |1823 |Open |Autodromo Internazionale del Mugello |Wed, April 02 07:30PM EDT |Thu, April 03 12:30AM BST |Thu, April 03 10:30AM AEDT |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Keep on Truckin Tuesday |North America |20 |1524 |Fixed | | | | |
 |[Maconi Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11847){:target="_blank"} |New Content Clash 25S1 |North America |20 |2806 | | | | | |
 |[The Apex Is Lava \(TAIL\) Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9033){:target="_blank"} |2025S2 \- Ring Runners Season 10 |North America |20 |2102 |Open |Nürburgring Combined |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |6 \- Kanati Tires Handicap \- Saturday |North America |20 |None |Fixed |Donington Park Racing Circuit |Sat, April 05 08:00PM EDT |Sun, April 06 01:00AM BST |Sun, April 06 10:00AM AEST |
 |[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |ABP 2024\-2025 fall winter season |North America |19 |1348 | |Mount Panorama Circuit |Mon, March 31 08:00PM EDT |Tue, April 01 01:00AM BST |Tue, April 01 11:00AM AEDT |
 |[Delta V Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8919){:target="_blank"} |Training |North America |19 |None | | | | | |
 |[Sim Racers Group \- Thursday IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11877){:target="_blank"} |2025 S1 |North America |19 |1276 | | | | | |
@@ -2007,7 +2002,6 @@
 |[GFi Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10821){:target="_blank"} |GT3 |North America |19 |1366 |Fixed |Canadian Tire Motorsports Park |Thu, April 03 07:30PM EDT |Fri, April 04 12:30AM BST |Fri, April 04 10:30AM AEDT |
 |[Quarter Clear Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10932){:target="_blank"} |Kepley Short Track Racing |North America |19 |2015 | |New Smyrna Speedway |Sun, March 30 07:00PM EDT |Mon, March 31 12:00AM BST |Mon, March 31 10:00AM AEDT |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |GT3/GT4 Sunday 2025S02 Spring |North America |19 |1377 |Fixed |Circuit de Spa-Francorchamps |Sun, March 30 01:00PM EDT |Sun, March 30 06:00PM BST |Mon, March 31 04:00AM AEDT |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Thunder Run Season 2 |North America |19 |1309 |Fixed |Charlotte Motor Speedway |Sat, March 29 04:00PM EDT |Sat, March 29 08:00PM GMT |Sun, March 30 07:00AM AEDT |
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |Test & Tune |North America |18 |None |Both |Nürburgring Combined |Sun, March 30 01:00PM EDT |Sun, March 30 06:00PM BST |Mon, March 31 04:00AM AEDT |
 |[Purple Sector Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |PSM Academy |North America |18 |None |Open | | | | |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |JBWC 9AM |North America |18 |1315 |Both | | | | |
@@ -2019,24 +2013,27 @@
 |[MMC \*Unofficial\*](https://members.iracing.com/membersite/member/LeagueView.do?league=10485){:target="_blank"} |Season1 \- 2025 |North America |18 |1244 | | | | | |
 |[Tidewater Sports Car Club Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=10569){:target="_blank"} |TSCC \- 2025 Season |North America |18 |1465 | |Road Atlanta |Tue, April 01 08:00PM EDT |Wed, April 02 01:00AM BST |Wed, April 02 11:00AM AEDT |
 |[CORT GT](https://members.iracing.com/membersite/member/LeagueView.do?league=2875){:target="_blank"} |CORT GT 2025A |North America |18 |1683 |Open | | | | |
+|[GT4 vs NAS](https://members.iracing.com/membersite/member/LeagueView.do?league=10931){:target="_blank"} |GT4 vs NASCAR |North America |18 |1452 |Open |Canadian Tire Motorsports Park |Sat, April 05 05:15PM EDT |Sat, April 05 10:15PM BST |Sun, April 06 07:15AM AEST |
 |[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} |DSC Training |North America |17 |None | | | | | |
 |[E\-Pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |special events |North America |17 |None |Open | | | | |
 |[Broken Wing Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11729){:target="_blank"} |BWLMS Practices |North America |17 |2433 | | | | | |
 |[Urban Youth Racing School](https://members.iracing.com/membersite/member/LeagueView.do?league=11736){:target="_blank"} |UYRS |North America |17 |1328 | | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Exhibitions and Test Races \- 2025 |North America |17 |2286 |Fixed | | | | |
 |[Senior Sportsmanship League](https://members.iracing.com/membersite/member/LeagueView.do?league=3725){:target="_blank"} |Senior Sportmanship 2025S2 |North America |17 |1451 |Fixed | | | | |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |Friday Fun |North America |16 |1343 |Both | | | | |
 |[Senior Sportsmanship League](https://members.iracing.com/membersite/member/LeagueView.do?league=3725){:target="_blank"} |Testing Setups and AI\-Building the League |North America |16 |1621 |Fixed |Suzuka International Racing Course |Wed, April 02 02:45PM EDT |Wed, April 02 07:45PM BST |Thu, April 03 05:45AM AEDT |
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Experiment |North America |16 |1025 |Fixed | | | | |
 |[Sim Racers Anonymous](https://members.iracing.com/membersite/member/LeagueView.do?league=6574){:target="_blank"} |SRA Winter Series |North America |16 |1658 |Fixed | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S1 Sunday MX5 & BMW M2 CSR |North America |16 |1734 |Both | | | | |
 |[KittySpeed](https://members.iracing.com/membersite/member/LeagueView.do?league=9624){:target="_blank"} |Kittyspeed Season 6 |North America |16 |1456 | | | | | |
 |[Denver Racing Social](https://members.iracing.com/membersite/member/LeagueView.do?league=11895){:target="_blank"} |DRS Broadcast Challenge Series \(11 Races 1 Champion\) |North America |16 |1519 | | | | | |
 |[iRacing Hacks](https://members.iracing.com/membersite/member/LeagueView.do?league=8955){:target="_blank"} |2025 HACKS |North America |16 |1683 | | | | | |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |PATCO 2025 Season 1 |North America |16 |2150 |Both | | | | |
-|[FDL \- ES SFL Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12053){:target="_blank"} |SFLES1 |North America |16 |2961 | |Silverstone Circuit |Sat, March 29 10:30PM EDT |Sun, March 30 03:30AM BST |Sun, March 30 01:30PM AEDT |
+|[FDL \- ES SFL Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12053){:target="_blank"} |SFLES1 |North America |16 |2961 | | | | | |
 |[FDL \- ES SFL Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12053){:target="_blank"} |SFLES1 Official Practice |North America |16 |None | | | | | |
 |[Down South Racing Rookie League](https://members.iracing.com/membersite/member/LeagueView.do?league=11910){:target="_blank"} |DSRL Surprise races |North America |16 |1341 | | | | | |
 |[Steel City Sim\-Racers / SCS](https://members.iracing.com/membersite/member/LeagueView.do?league=8828){:target="_blank"} |Steel City Sim Racers Season 4 |North America |16 |1864 | |Phillip Island Circuit |Mon, March 31 09:00PM EDT |Tue, April 01 02:00AM BST |Tue, April 01 12:00PM AEDT |
-|[NASA Rocky Mountain](https://members.iracing.com/membersite/member/LeagueView.do?league=3759){:target="_blank"} |2025 NASA RM Spring League |North America |16 |1485 | | | | | |
+|[NASA Rocky Mountain](https://members.iracing.com/membersite/member/LeagueView.do?league=3759){:target="_blank"} |2025 NASA RM Spring League |North America |16 |1485 | |Circuit de Lédenon |Wed, April 02 08:30PM EDT |Thu, April 03 01:30AM BST |Thu, April 03 11:30AM AEDT |
 |[Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235){:target="_blank"} |ACiL Spring 2025 Sprint |North America |16 |1864 | |Fuji International Speedway |Tue, April 01 07:30PM EDT |Wed, April 02 12:30AM BST |Wed, April 02 10:30AM AEDT |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |2nd Overall Skills Challenge series |North America |16 |1548 |Both |Wild West Motorsports Park |Wed, April 02 10:05PM EDT |Thu, April 03 03:05AM BST |Thu, April 03 01:05PM AEDT |
 |[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} |DSC Endurance Training |North America |15 |None | | | | | |
@@ -2045,7 +2042,6 @@
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Chaos Series |North America |15 |1175 |Both | | | | |
 |[Turn 2 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10646){:target="_blank"} |Turn 2 Special |North America |15 |1412 |Fixed | | | | |
 |[Senior Sportsmanship League](https://members.iracing.com/membersite/member/LeagueView.do?league=3725){:target="_blank"} |Senior 55PLUS Sportsmanship 2025S1 |North America |15 |1487 |Fixed | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Exhibitions and Test Races \- 2025 |North America |15 |2301 |Fixed | | | | |
 |[OutCast Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12251){:target="_blank"} |OutCast Sunday Funday |North America |15 |1508 |Fixed | | | | |
 |[LiveWire Sim Sports GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8777){:target="_blank"} |Club Car Clash |North America |14 |1234 |Open | | | | |
 |[Chrispy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11758){:target="_blank"} |Season 1 |North America |14 |1325 | |Circuit de Spa-Francorchamps |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
@@ -2056,7 +2052,6 @@
 |[BMW CCA NCC Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4863){:target="_blank"} |2025 S1 WINTER |North America |14 |2153 |Fixed |WeatherTech Raceway at Laguna Seca |Thu, March 27 07:00PM EDT |Thu, March 27 11:00PM GMT |Fri, March 28 10:00AM AEDT |
 |[574SS](https://members.iracing.com/membersite/member/LeagueView.do?league=12075){:target="_blank"} |Street Stock Spectacular |North America |14 |1610 | | | | | |
 |[KeystoneKingPin Pro4](https://members.iracing.com/membersite/member/LeagueView.do?league=11414){:target="_blank"} |Season 3 |North America |14 |1379 |Both | | | | |
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |6 \- Kanati Tires Handicap \- Saturday |North America |14 |None |Fixed |Tsukuba Circuit |Sat, March 29 08:00PM EDT |Sun, March 30 12:00AM GMT |Sun, March 30 11:00AM AEDT |
 |[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |The Gauntlet 2025 |North America |14 |2506 |Both |Stafford Motor Speedway |Mon, March 31 08:00PM EDT |Tue, April 01 01:00AM BST |Tue, April 01 11:00AM AEDT |
 |[FRIEND \| GT4](https://members.iracing.com/membersite/member/LeagueView.do?league=11253){:target="_blank"} |Season 2 \- Beta |North America |13 |2583 | |Tsukuba Circuit |Mon, March 31 09:00PM EDT |Tue, April 01 02:00AM BST |Tue, April 01 12:00PM AEDT |
 |[FSS eSports iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8845){:target="_blank"} |FSS Endurance Team |North America |13 |None |Both | | | | |
@@ -2073,14 +2068,12 @@
 |[CEMSN Off\-Season Fun and Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=9820){:target="_blank"} |2025 CEMSN Dan Cudmore Cup Winter Bonanza |North America |12 |2038 | | | | | |
 |[MoE HPDE iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=4304){:target="_blank"} |MoE HPDE Winter 2025 |North America |12 |1610 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Renegades \- 2025 |North America |12 |2745 |Fixed | | | | |
-|[GT4 vs NAS](https://members.iracing.com/membersite/member/LeagueView.do?league=10931){:target="_blank"} |GT4 vs NASCAR |North America |12 |1536 |Open |Lime Rock Park |Sat, March 29 05:15PM EDT |Sat, March 29 09:15PM GMT |Sun, March 30 08:15AM AEDT |
 |[1RebelRacing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6506){:target="_blank"} |cup season 2025 |North America |12 |1323 | |Martinsville Speedway |Wed, April 02 08:30PM EDT |Thu, April 03 01:30AM BST |Thu, April 03 11:30AM AEDT |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 First Session |North America |12 |1712 | |Summit Point Raceway |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
 |[LiveWire Sim Sports GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8777){:target="_blank"} |Practice sessions |North America |11 |1304 |Open | | | | |
 |[1RebelRacing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6506){:target="_blank"} |2025 season\-Multiclass |North America |11 |1339 | | | | | |
 |[Send It Sim Racing Local](https://members.iracing.com/membersite/member/LeagueView.do?league=10329){:target="_blank"} |Special Events |North America |11 |1349 | | | | | |
 |[NxtLvl Racing\.](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} |NXTLVL GT3 League |North America |11 |1230 | | | | | |
-|[SRL of SC](https://members.iracing.com/membersite/member/LeagueView.do?league=9713){:target="_blank"} |Thursday Night Thunder |North America |11 |1363 |Fixed | | | | |
 |[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} |2024 Winter Silly Season |North America |11 |2690 |Fixed | | | | |
 |[League of Extraordinarily Average Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=7272){:target="_blank"} |7\-Winter 24/25 |North America |11 |1556 | |Watkins Glen International |Thu, April 03 09:45PM EDT |Fri, April 04 02:45AM BST |Fri, April 04 12:45PM AEDT |
 |[4 Stooges Outrageous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12027){:target="_blank"} |Sitnbull Season 1 |North America |11 |1158 | | | | | |
@@ -2097,6 +2090,7 @@
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 Season1 Toyota g86 |North America |11 |1426 | |Thruxton Circuit |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[DSM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12220){:target="_blank"} |Test Season Mixed Class |North America |11 |1146 |Both | | | | |
 |[Send It Sim Racing Local](https://members.iracing.com/membersite/member/LeagueView.do?league=10329){:target="_blank"} |BMW CCA March 2025 |North America |11 |1349 | | | | | |
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |West Coast Swing road course series |North America |11 |1221 |Both |Autodromo Nazionale Monza |Sat, April 05 04:00PM EDT |Sat, April 05 09:00PM BST |Sun, April 06 06:00AM AEST |
 |[Semi\-pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9027){:target="_blank"} |Silly season |North America |10 |1738 | | | | | |
 |[LiveWire Sim Sports GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8777){:target="_blank"} |LiveWire Sim Sports Endurance Challenge |North America |10 |1346 |Open | | | | |
 |[gRaceland Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7020){:target="_blank"} |Graceland Trans Am Season 1 |North America |10 |1260 |Fixed | | | | |
@@ -2108,7 +2102,7 @@
 |[Send It Sim Racing Local](https://members.iracing.com/membersite/member/LeagueView.do?league=10329){:target="_blank"} |MOD 2025 Winter 2 |North America |10 |1349 | | | | | |
 |[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Woah Nelie's Randomizer S2 |North America |10 |1577 | |Langley Speedway |Mon, March 31 08:45PM EDT |Tue, April 01 01:45AM BST |Tue, April 01 11:45AM AEDT |
 |[W\.O\.O\.L Wide Open Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=12361){:target="_blank"} |Season 1 |North America |10 |1362 |Open | | | | |
-|[4 Stooges Outrageous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12027){:target="_blank"} |4 Stooges Night Time Fun |North America |10 |1034 | |The Milwaukee Mile |Tue, April 01 07:00PM EDT |Wed, April 02 12:00AM BST |Wed, April 02 10:00AM AEDT |
+|[4 Stooges Outrageous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12027){:target="_blank"} |4 Stooges Night Time Fun |North America |10 |1037 | |The Milwaukee Mile |Tue, April 01 07:00PM EDT |Wed, April 02 12:00AM BST |Wed, April 02 10:00AM AEDT |
 |[NRL iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8800){:target="_blank"} |Season XVIII: Laverdure's Legends |North America |10 |1796 | |New Hampshire Motor Speedway |Tue, April 01 08:30PM EDT |Wed, April 02 01:30AM BST |Wed, April 02 11:30AM AEDT |
 
 ### Ring Meister
@@ -2129,8 +2123,8 @@
 |[Operation Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5403){:target="_blank"} |Season 10 |North America |55 |1606 |Open |Virginia International Raceway |Tue, April 01 07:00PM EDT |Wed, April 02 12:00AM BST |Wed, April 02 10:00AM AEDT |
 |[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |BRC Road Season 8 \- GT3 |North America |55 |1582 |Open |Red Bull Ring |Thu, April 03 09:00PM EDT |Fri, April 04 02:00AM BST |Fri, April 04 12:00PM AEDT |
 |[PRL GT3 Sprint Series \(Tuesday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3577){:target="_blank"} |PRL Tuesday GT3 Sprint 2025/S1 |North America |52 |3882 | | | | | |
+|[GLR Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12070){:target="_blank"} |GLR Sports Car GT3 Series |North America |51 |1334 | | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |GT Series Season 10 |North America |50 |1620 |Fixed | | | | |
-|[GLR Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12070){:target="_blank"} |GLR Sports Car GT3 Series |North America |50 |1328 | |Circuit de Barcelona Catalunya |Sat, March 29 07:00PM EDT |Sat, March 29 11:00PM GMT |Sun, March 30 10:00AM AEDT |
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |HPR GT3 Season 5 |North America |47 |1404 |Both |Road Atlanta |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
 |[EGT Canada \- GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10487){:target="_blank"} |S11 GT3 Series \(2025\) |North America |45 |1798 | |Road Atlanta |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |DHRL GTD Season 4 |North America |45 |1874 |Both | | | | |
@@ -2148,20 +2142,20 @@
 |[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2025 S1 \- GT3 \(Tues 8:20pm\) |North America |35 |1495 |Fixed | | | | |
 |[Slipstream Racing Alliance Road](https://members.iracing.com/membersite/member/LeagueView.do?league=11751){:target="_blank"} |All American Racing Series GT3 |North America |34 |1569 |Fixed | | | | |
 |[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |GT Sprint Series \[Europe\] |North America |34 |1826 |Both |Circuit Zolder |Tue, April 01 08:30PM EDT |Wed, April 02 01:30AM BST |Wed, April 02 11:30AM AEDT |
-|[Operation Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5403){:target="_blank"} |Season 10 Practice Sessions |North America |34 |None |Open |Virginia International Raceway |Sat, March 29 07:00PM EDT |Sat, March 29 11:00PM GMT |Sun, March 30 10:00AM AEDT |
+|[Operation Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5403){:target="_blank"} |Season 10 Practice Sessions |North America |34 |None |Open | | | | |
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Wednesday Night GT3 Road Series \- S2 |North America |31 |1273 |Fixed | | | | |
+|[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2025 TESTING AND PRACTICE |North America |31 |None | | | | | |
 |[PROCUP MECANO GANADERO/ SIMRACER LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8652){:target="_blank"} |Prácticas libres |North America |31 |3147 | | | | | |
 |[GT3 for not so serious](https://members.iracing.com/membersite/member/LeagueView.do?league=3953){:target="_blank"} |2025 Season 1 |North America |30 |2034 | | | | | |
-|[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2025 TESTING AND PRACTICE |North America |30 |None | | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |3 \- Worn Out Racer's GT3 Wednesday |North America |30 |1346 |Fixed |Algarve International Circuit |Wed, April 02 08:00PM EDT |Thu, April 03 01:00AM BST |Thu, April 03 11:00AM AEDT |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GT3 Series Season 2 |North America |29 |1182 | |Circuit of the Americas |Thu, April 03 08:00PM EDT |Fri, April 04 01:00AM BST |Fri, April 04 11:00AM AEDT |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 34 \- GT3 Series |North America |29 |1488 |Fixed |Circuit de Nevers Magny-Cours |Fri, April 04 02:00PM EDT |Fri, April 04 07:00PM BST |Sat, April 05 05:00AM AEDT |
 |[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |Simpit Spring '25 Season |North America |28 |1894 |Open |Watkins Glen International |Sun, March 30 01:00PM EDT |Sun, March 30 06:00PM BST |Mon, March 31 04:00AM AEDT |
 |[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2025 RED SOX RACING \- SPRING SERIES II |North America |27 |1897 | | | | | |
+|[Armed Forces Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11189){:target="_blank"} |Season 3 \- GT3 Championship |North America |26 |1067 | |WeatherTech Raceway at Laguna Seca |Sat, April 05 12:30PM EDT |Sat, April 05 05:30PM BST |Sun, April 06 02:30AM AEST |
 |[TFRL GT3 Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12268){:target="_blank"} |25S2 |North America |26 |3015 | |Watkins Glen International |Mon, March 31 07:30PM EDT |Tue, April 01 12:30AM BST |Tue, April 01 10:30AM AEDT |
-|[Armed Forces Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11189){:target="_blank"} |Season 3 \- GT3 Championship |North America |25 |1068 | |Okayama International Circuit |Sat, March 29 12:30PM EDT |Sat, March 29 04:30PM GMT |Sun, March 30 03:30AM AEDT |
 |[iRacing for the Blind](https://members.iracing.com/membersite/member/LeagueView.do?league=6082){:target="_blank"} |Season 5 \- Not as slow as Ian, but still pretty slow |North America |22 |1492 | | | | | |
-|[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} |Zaddy Racing Season 1 |North America |18 |1404 |Open |WeatherTech Raceway at Laguna Seca |Sat, March 29 09:00PM EDT |Sun, March 30 02:00AM BST |Sun, March 30 12:00PM AEDT |
+|[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} |Zaddy Racing Season 1 |North America |20 |1515 |Open |Road Atlanta |Sat, April 05 09:00PM EDT |Sun, April 06 02:00AM BST |Sun, April 06 11:00AM AEST |
 |[SRN Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12157){:target="_blank"} |Thursday GT3 Season 1 |North America |18 |1374 | |Fuji International Speedway |Thu, April 03 07:30PM EDT |Fri, April 04 12:30AM BST |Fri, April 04 10:30AM AEDT |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |GT3 Presented by FTR |North America |18 |1434 |Fixed |Long Beach Street Circuit |Thu, April 03 07:30PM EDT |Fri, April 04 12:30AM BST |Fri, April 04 10:30AM AEDT |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S2 Thursday GT3 |North America |18 |1895 |Both |Algarve International Circuit |Thu, April 03 07:00PM EDT |Fri, April 04 12:00AM BST |Fri, April 04 10:00AM AEDT |

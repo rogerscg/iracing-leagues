@@ -66,8 +66,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT Formula Championship 2025\.1  |South America |10 |1230 |Both |Circuit de Spa-Francorchamps |Sat, March 29 08:00PM EDT |Sun, March 30 12:00AM GMT |Sun, March 30 11:00AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------|---------------------------------|-------------|-------|----|-----|------------------|-------------------------|-------------------------|--------------------------|
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT Formula Championship 2025\.1  |South America |10 |1253 |Both |Snetterton Circuit |Sat, April 05 08:00PM EDT |Sun, April 06 01:00AM BST |Sun, April 06 10:00AM AEST |
 
 # Sports Car
 
@@ -170,7 +170,7 @@
 |[IRB \- MoT Road to Pro 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |IRB I\-Pass Gran Touring Series |South America |40 |2848 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT GT3 2025\.2 |South America |35 |1795 |Both |Autodromo Internazionale del Mugello |Sun, March 30 07:30PM EDT |Mon, March 31 12:30AM BST |Mon, March 31 10:30AM AEDT |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RACERSAV GT3 T1 2025 |South America |35 |2295 | | | | | |
-|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Carbon GT3 Cup \- T2 2025 |South America |28 |1957 | |Watkins Glen International |Sat, March 29 01:50PM EDT |Sat, March 29 05:50PM GMT |Sun, March 30 04:50AM AEDT |
+|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Carbon GT3 Cup \- T2 2025 |South America |32 |2027 | |Algarve International Circuit |Sat, April 05 01:50PM EDT |Sat, April 05 06:50PM BST |Sun, April 06 03:50AM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC GT3 SERIES |South America |17 |2154 |Both | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GT3 Challenge 2025 T1 |South America |16 |1552 |Fixed | | | | |
 

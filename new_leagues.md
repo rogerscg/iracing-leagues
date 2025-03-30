@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Arca Brakes Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12367){:target="_blank"} | |For fun Arca Series on dirt and asphalt |
-|[Wednesday Night GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=12368){:target="_blank"} |[Discord](https://discord.gg/RCFHUvA){:target="_blank"} |Bi\-weekly Wednesday Night @7:30pm PST https://discord\.gg/RCFHUvA |
-|[Adrenaline iSim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12369){:target="_blank"} | |2025 Racing League |
-|[Gurus On The Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=12366){:target="_blank"} | |Nascar Cup Series |
 |[JOHNCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12378){:target="_blank"} |[Discord](https://discord.gg/Dw5th86U){:target="_blank"} |A spiritual successor to the defunct RODDCAR league |
 |[LIRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12371){:target="_blank"} |[Discord](https://discord.gg/W2f458BmfP){:target="_blank"} |Welcome to LIRL\! Applications are open\! |
 |[Middle Pack Racing \- Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=12377){:target="_blank"} |[Discord](https://discord.gg/FKhbm7WYn4){:target="_blank"} |Laid back endurance league for those of us who aren't aliens |
@@ -73,4 +69,6 @@
 |[XMS Indycar Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12427){:target="_blank"} | |XMSRacing\.com is pleased to present the Indycar Championship Series\. ALL REGISTRATION IS VIA THE WEB PAGE\. www\.xmsracing\.com |
 |[Matt Malone Patreon League](https://members.iracing.com/membersite/member/LeagueView.do?league=12430){:target="_blank"} | |This is a league for the Patreon Patriots\! |
 |[REVSPORT International](https://members.iracing.com/membersite/member/LeagueView.do?league=12432){:target="_blank"} | | |
+|[M and B](https://members.iracing.com/membersite/member/LeagueView.do?league=12440){:target="_blank"} | | |
+|[simHUB F4 League, April\-May](https://members.iracing.com/membersite/member/LeagueView.do?league=12441){:target="_blank"} | |F4 Championship Presented By simHUB Race Lounge |
 

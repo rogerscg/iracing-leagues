@@ -31,8 +31,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |Europe |46 |3330 | |Road America |Sun, March 30 01:00PM EDT |Sun, March 30 06:00PM BST |Mon, March 31 04:00AM AEDT |
+|[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |CLN RACING LEAGUE LMP2/GTP |North America |29 |1892 |Fixed | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PROTOTYPE 2025\.1 |South America |17 |1553 |Both | | | | |
 
 ### Ligier JS P320

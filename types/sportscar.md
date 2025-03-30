@@ -3,14 +3,6 @@
 
 # Sports Car
 
-### Audi 90 GTO
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Merica Extreme Dirt and Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=11422){:target="_blank"} |Audi 90 GTO |North America |12 |1099 | | | | | |
-
 ### Ferrari 296 GT3
 
 [Back to Top](#)  
@@ -24,8 +16,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------|-------------|-------|----|-----|------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
 |[American Muscle Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6810){:target="_blank"} |Season 8 |North America |55 |2281 | |Circuit de Lédenon |Sun, March 30 08:00PM EDT |Mon, March 31 01:00AM BST |Mon, March 31 11:00AM AEDT |
+|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Mustang 500 Piston Cup |North America |11 |1346 |Both |Long Beach Street Circuit |Sat, April 05 07:30PM EDT |Sun, April 06 12:30AM BST |Sun, April 06 09:30AM AEST |
 
 ### GT4 Class
 
@@ -72,7 +65,7 @@
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 8 test races |Europe |51 |2690 |Fixed | | | | |
 |[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 11 \- Drying Track |North America |49 |1980 | | | | | |
 |[EGT Canada \- GT4\|TCR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |S11 GT4\|TCR Series \(2025\) |North America |46 |1760 | | | | | |
-|[EGT Canada \- GT4\|TCR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |S11 GT4\|TCR Pratique officielle \(2025\) |North America |38 |None | | | | | |
+|[EGT Canada \- GT4\|TCR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |S11 GT4\|TCR Pratique officielle \(2025\) |North America |38 |None | |Mid-Ohio Sports Car Course |Sun, April 06 07:20PM EDT |Mon, April 07 12:20AM BST |Mon, April 07 09:20AM AEST |
 |[Wheel Challenge Series \- Sport \- Licence C](https://members.iracing.com/membersite/member/LeagueView.do?league=11903){:target="_blank"} |Saison 2 |North America |37 |1443 | |Virginia International Raceway |Tue, April 01 07:30PM EDT |Wed, April 02 12:30AM BST |Wed, April 02 10:30AM AEDT |
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |EGT Canada \- GT4\-TCR Classification |North America |36 |None | | | | | |
 |[oNiD iRacing Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=11984){:target="_blank"} |oNiD Club World Tour |Europe |36 |1980 | | | | | |
@@ -110,7 +103,7 @@
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
 |[Spec\-5 World Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=3784){:target="_blank"} |Season 17 |North America |65 |3030 |Fixed | | | | |
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Sport 2025/2 |South America |48 |2270 | | | | | |
-|[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |MX5 WORLD SIM SERIES 2025 |Europe |47 |1543 |Fixed | | | | |
+|[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |MX5 WORLD SIM SERIES 2025 |Europe |47 |1543 |Fixed |Circuit de Lédenon |Sun, April 06 04:00PM EDT |Sun, April 06 09:00PM BST |Mon, April 07 06:00AM AEST |
 |[F1BC Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=8629){:target="_blank"} |MX5 Cup 2025/1 |South America |47 |2215 | | | | | |
 |[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Mazda Speed Season 1 |North America |44 |1425 |Both | | | | |
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Mazda MX5 Cup |Europe |43 |1661 |Open | | | | |
@@ -156,7 +149,7 @@
 |[KNAF Digital](https://members.iracing.com/membersite/member/LeagueView.do?league=8856){:target="_blank"} |KNAF Digital iRacing ONK Spring Cup 2025 |Europe |60 |2238 |Fixed |Circuit Zandvoort |Thu, April 03 01:30PM EDT |Thu, April 03 06:30PM BST |Fri, April 04 04:30AM AEDT |
 |[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 12 |Europe |58 |4123 | | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S11 Euro/Global Porsche Cup Challenge |Europe |55 |2880 |Both | | | | |
-|[GTChampions](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |Luke Manske Racing Porsche Cup |North America |53 |2190 |Both |Mount Panorama Circuit |Sat, April 05 11:10AM EDT |Sat, April 05 04:10PM BST |Sun, April 06 02:10AM AEDT |
+|[GTChampions](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |Luke Manske Racing Porsche Cup |North America |53 |2228 |Both |Mount Panorama Circuit |Sat, April 05 11:10AM EDT |Sat, April 05 04:10PM BST |Sun, April 06 02:10AM AEDT |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S12 Americas Porsche Cup Challenge |North America |49 |2098 |Both |Autodromo Internazionale Enzo e Dino Ferrari |Thu, April 03 08:00PM EDT |Fri, April 04 01:00AM BST |Fri, April 04 11:00AM AEDT |
 |[PESCP \| Sezon 5 \- Wyścig Społeczności](https://members.iracing.com/membersite/member/LeagueView.do?league=12166){:target="_blank"} |Sezon 5 |Europe |46 |2829 | | | | | |
 |[MCS](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} |CAS\- Porsche Carrera Cup Deutschland |Europe |45 |2317 | |Circuit Zandvoort |Mon, March 31 01:00PM EDT |Mon, March 31 06:00PM BST |Tue, April 01 04:00AM AEDT |
@@ -167,7 +160,7 @@
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |2025 iRTES Porsche Cup support series |North America |33 |2293 |Both |Nürburgring Grand-Prix-Strecke |Thu, April 03 10:00PM EDT |Fri, April 04 03:00AM BST |Fri, April 04 01:00PM AEDT |
 |[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |2025 A\-Finale Sportsbil NM |Europe |31 |4388 | | | | | |
 |[Porsche Esports Carrera Cup Great Britain](https://members.iracing.com/membersite/member/LeagueView.do?league=6219){:target="_blank"} |Season 5 |Europe |31 |5218 | | | | | |
-|[Porsche TAG Heuer Esports Supercup](https://members.iracing.com/membersite/member/LeagueView.do?league=6004){:target="_blank"} |2025 Porsche Esports Supercup |Europe |30 |9617 | |Thruxton Circuit |Sat, March 29 02:30PM EDT |Sat, March 29 06:30PM GMT |Sun, March 30 05:30AM AEDT |
+|[Porsche TAG Heuer Esports Supercup](https://members.iracing.com/membersite/member/LeagueView.do?league=6004){:target="_blank"} |2025 Porsche Esports Supercup |Europe |30 |9649 | |Fuji International Speedway |Sat, April 05 02:30PM EDT |Sat, April 05 07:30PM BST |Sun, April 06 04:30AM AEST |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S13 \- SWARM Racing Sunday Night PCup Challenge |North America |26 |2427 |Open |Autodromo Nazionale Monza |Sun, March 30 09:00PM EDT |Mon, March 31 02:00AM BST |Mon, March 31 12:00PM AEDT |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S12 Euro/Global Porsche Cup Challenge |Europe |26 |2902 |Both |Autodromo Nazionale Monza |Sun, March 30 02:00PM EDT |Sun, March 30 07:00PM BST |Mon, March 31 05:00AM AEDT |
 |[PESCP \| Sezon 5 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=12165){:target="_blank"} |Sezon 5 |Europe |24 |6391 | | | | | |
@@ -197,9 +190,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[Renault Clio League](https://members.iracing.com/membersite/member/LeagueView.do?league=11911){:target="_blank"} |THE FIRST SEASON |Europe |56 |2864 | |Oulton Park Circuit |Sat, March 29 01:30PM EDT |Sat, March 29 05:30PM GMT |Sun, March 30 04:30AM AEDT |
-|[E\-Sports Clio Cup Belgium 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=9521){:target="_blank"} |CLIO CUP 2025 |Europe |37 |2453 | |Motorsport Arena Oschersleben |Sat, March 29 02:00PM EDT |Sat, March 29 06:00PM GMT |Sun, March 30 05:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
+|[Renault Clio League](https://members.iracing.com/membersite/member/LeagueView.do?league=11911){:target="_blank"} |THE FIRST SEASON |Europe |56 |2857 | |Hockenheimring Baden-Württemberg |Sat, April 05 01:30PM EDT |Sat, April 05 06:30PM BST |Sun, April 06 03:30AM AEST |
+|[E\-Sports Clio Cup Belgium 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=9521){:target="_blank"} |CLIO CUP 2025 |Europe |37 |2453 | |Motorsport Arena Oschersleben |Sun, March 30 01:00PM EDT |Sun, March 30 06:00PM BST |Mon, March 31 04:00AM AEDT |
 |[ROOKIES CUP / SIMRACER LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9876){:target="_blank"} |Rookies Cup 2025 |North America |36 |1550 | | | | | |
 |[ROOKIES CUP / SIMRACER LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9876){:target="_blank"} |Prácticas libres |North America |30 |1600 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Yes2Rallycross \- FWD \(2025\) |North America |12 |2283 |Fixed | | | | |
