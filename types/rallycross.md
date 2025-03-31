@@ -17,13 +17,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25a |North America |25 |4984 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1\-2 Rallycross |Europe |23 |1840 |Both | | | | |
 |[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |Rallycross Cup |Europe |22 |1770 |Both | | | | |
 |[AusRX/AusTrux](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 10 |Australia-NZ |17 |2450 | | | | | |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25A |North America |16 |2936 | | | | | |
-|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |Europe |14 |1446 | |Oulton Park Circuit |Sun, March 30 02:10PM EDT |Sun, March 30 07:10PM BST |Mon, March 31 05:10AM AEDT |
+|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |Europe |14 |1469 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rally \- 2025 |North America |14 |2560 |Fixed | | | | |
 
 ### VW Beetle GRC
@@ -40,6 +40,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------|-------|----|-----|-------------|--------|------|------|
-|[NASA Rallycross Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Futures 25A |North America |25 |2827 | | | | | |
-|[NASA Rallycross Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Lites 25A |North America |15 |5160 | | | | | |
+|[NASA Rallycross Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Futures 25A |North America |25 |2760 | | | | | |
+|[NASA Rallycross Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Lites 25A |North America |17 |5033 | | | | | |
 

@@ -1,16 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[JOHNCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12378){:target="_blank"} |[Discord](https://discord.gg/Dw5th86U){:target="_blank"} |A spiritual successor to the defunct RODDCAR league |
-|[LIRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12371){:target="_blank"} |[Discord](https://discord.gg/W2f458BmfP){:target="_blank"} |Welcome to LIRL\! Applications are open\! |
-|[Middle Pack Racing \- Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=12377){:target="_blank"} |[Discord](https://discord.gg/FKhbm7WYn4){:target="_blank"} |Laid back endurance league for those of us who aren't aliens |
-|[Oddwhiz ARCA League](https://members.iracing.com/membersite/member/LeagueView.do?league=12372){:target="_blank"} | |Oddwhiz's ARCA League\! |
-|[RCR Rainy City Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12376){:target="_blank"} | |Team created for newer online drivers committed to clean and quick racing striving to develop and improve online racing skills\. |
-|[Rebel Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12374){:target="_blank"} | |Yes |
-|[SoR League](https://members.iracing.com/membersite/member/LeagueView.do?league=12370){:target="_blank"} |[Discord](https://discord.gg/xDyQvNa7Sf){:target="_blank"} |Soul of Racing League |
-|[StranoCar](https://members.iracing.com/membersite/member/LeagueView.do?league=12375){:target="_blank"} | | |
-|[Backfire Simsport TV TCR Challenge Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12373){:target="_blank"} | |TCR Racing\- Wednesday Evenings at 18:30 UK Time |
+|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Doug & The Slugs Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12382){:target="_blank"} | |Doug & the Slugs |
 |[OL' Timers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12380){:target="_blank"} | |just racing with older trucks , cars, tracks |
 |[ARCA Menards IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12381){:target="_blank"} | | |
@@ -32,7 +23,7 @@
 |[GGSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12401){:target="_blank"} | |GWOT Veterans that enjoy racing and some S\*\*\* talking all in good fun\. |
 |[GTCR MOTORSPORTS LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12399){:target="_blank"} | |SNS |
 |[GUH ENDURANCE by Mittelweser Brandschutz GmbH](https://members.iracing.com/membersite/member/LeagueView.do?league=12395){:target="_blank"} | |Jetzt aber ma full send inne Liga oder wat\!? |
-|[Nascar challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12406){:target="_blank"} | |will be banned after 4 warnings |
+|[Shake & Bake Nascar Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12406){:target="_blank"} |[Discord](https://discord.gg/jmY6XbBE){:target="_blank"} |will be banned after 4 warnings |
 |[One Grid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12405){:target="_blank"} | |Eine Liga für Anfänger und Fortgeschrittene, mit Fokus auf Langstreckenrennen\. |
 |[The Rebel Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12398){:target="_blank"} |[Discord](https://discord.gg/BUYv5uBqNR){:target="_blank"} |All series are Fixed Setup and new Drivers are welcome\. Clean, fun and fast racing is the goal\. |
 |[USORL National Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12397){:target="_blank"} | | |
@@ -50,7 +41,7 @@
 |[Hybrid Cross Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12418){:target="_blank"} | | |
 |[La Vieja Guardia LVG](https://members.iracing.com/membersite/member/LeagueView.do?league=12415){:target="_blank"} | |2º Cto\. LVG |
 |[NEW ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12417){:target="_blank"} | |Clean ARCA racing I hope |
-|[Australian Pro Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12419){:target="_blank"} | |We run Pro4 and Pro2 truck\. |
+|[Australian Pro Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12419){:target="_blank"} |[Discord](https://discord.gg/YJznD5gy){:target="_blank"} |League Discord: https://discord\.gg/YJznD5gy |
 |[GRAND NATIONAL PRO SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12422){:target="_blank"} | | |
 |[Down Bad Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12423){:target="_blank"} | |Speed, Fun, and friendly competition\. Join us multiple nights a week to scratch that racing itch along side new competition\. Whether you're a seasoned driver or still learning, join a community that loves racing and above all, having fun\. Any questions can be answered and additional info can be found in our discord\! |
 |[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12421){:target="_blank"} | |Cup and Xfinity cars |
@@ -71,4 +62,11 @@
 |[REVSPORT International](https://members.iracing.com/membersite/member/LeagueView.do?league=12432){:target="_blank"} | | |
 |[M and B](https://members.iracing.com/membersite/member/LeagueView.do?league=12440){:target="_blank"} | | |
 |[simHUB F4 League, April\-May](https://members.iracing.com/membersite/member/LeagueView.do?league=12441){:target="_blank"} | |F4 Championship Presented By simHUB Race Lounge |
+|[Grass Roots Racing \- SF/SFL Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12446){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} |GRR Super Formula Multiclass Series |
+|[Muel Silly League](https://members.iracing.com/membersite/member/LeagueView.do?league=12444){:target="_blank"} | |Silly League |
+|[Rummel Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12447){:target="_blank"} | |Cup |
+|[SUPERSPEEDWAY CASH RACES](https://members.iracing.com/membersite/member/LeagueView.do?league=12448){:target="_blank"} | |SS ONLY \. CASH PRIZES |
+|[Train\_\_ Community Races](https://members.iracing.com/membersite/member/LeagueView.do?league=12443){:target="_blank"} | |ur cute |
+|[Nascar 21](https://members.iracing.com/membersite/member/LeagueView.do?league=12442){:target="_blank"} | |Nascar |
+|[Sim Racers Group\- Wednesday Advanced F\-3](https://members.iracing.com/membersite/member/LeagueView.do?league=12445){:target="_blank"} | |Dallara F\-3 Fixed |
 
