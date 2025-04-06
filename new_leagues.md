@@ -1,34 +1,9 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Doug & The Slugs Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12382){:target="_blank"} | |Doug & the Slugs |
-|[OL' Timers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12380){:target="_blank"} | |just racing with older trucks , cars, tracks |
-|[ARCA Menards IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12381){:target="_blank"} | | |
-|[Electronic Sports & Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12383){:target="_blank"} |[Discord](https://discord.gg/AFzNYfYMEn){:target="_blank"} |Sim racing and sports league\. |
-|[VSR Clubsport Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12379){:target="_blank"} | | |
-|[Adrenaline Money Races](https://members.iracing.com/membersite/member/LeagueView.do?league=12385){:target="_blank"} | |Special Event Money Races |
-|[Alpha Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12386){:target="_blank"} | |Liga de ASR |
-|[ARCA Sparks](https://members.iracing.com/membersite/member/LeagueView.do?league=12384){:target="_blank"} | | |
-|[Empulse Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12394){:target="_blank"} | |Open to all\. A community\-based league for all skill levels\. Check out our website at Empulseracing\.com |
-|[Fresno SCCA 2 \(dormant, select the other league\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12391){:target="_blank"} | |Don't join yet, this is only a test |
-|[JENDRIVE \- Czech Posera racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12389){:target="_blank"} | | |
-|[Polish Non Master Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12387){:target="_blank"} | |One and Only |
-|[Zero Mercy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12392){:target="_blank"} | |ZMR |
-|[Racing with Rajah STEM Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=12390){:target="_blank"} | | |
-|[Worldwide Simracing Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12388){:target="_blank"} |[Discord](https://discord.gg/QQzevhmWBz){:target="_blank"} |The league of Worldwide Simracing Events |
-|[Adobe Mountain Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12400){:target="_blank"} | | |
-|[Amateur eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12403){:target="_blank"} | |The hub for all series powered by the Amateur eSports Racing Leagues \(AERL\)\. All series are owned and operated by member drivers of the AERL\. These series are not considered official AERL events and operate outside of the AERL guidelines\. Any driver that is apart of these series that would like to join the AERL will be permitted to do so providing they meet AERL requirements\. |
-|[CT Mini Stock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12396){:target="_blank"} | | |
-|[GGSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12401){:target="_blank"} | |GWOT Veterans that enjoy racing and some S\*\*\* talking all in good fun\. |
-|[GTCR MOTORSPORTS LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12399){:target="_blank"} | |SNS |
-|[GUH ENDURANCE by Mittelweser Brandschutz GmbH](https://members.iracing.com/membersite/member/LeagueView.do?league=12395){:target="_blank"} | |Jetzt aber ma full send inne Liga oder wat\!? |
+|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Shake & Bake Nascar Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12406){:target="_blank"} |[Discord](https://discord.gg/jmY6XbBE){:target="_blank"} |will be banned after 4 warnings |
 |[One Grid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12405){:target="_blank"} | |Eine Liga für Anfänger und Fortgeschrittene, mit Fokus auf Langstreckenrennen\. |
-|[The Rebel Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12398){:target="_blank"} |[Discord](https://discord.gg/BUYv5uBqNR){:target="_blank"} |All series are Fixed Setup and new Drivers are welcome\. Clean, fun and fast racing is the goal\. |
-|[USORL National Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12397){:target="_blank"} | | |
-|[Homestead Driving Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12404){:target="_blank"} | |Virtual racing for members of HDC |
-|[The Short Shifters](https://members.iracing.com/membersite/member/LeagueView.do?league=12402){:target="_blank"} | |Market and Motor Mayhem |
 |[92XXII Designs ARCA Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12408){:target="_blank"} | |ARCA Series |
 |[National Outlaw Racing Association \(NORA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12407){:target="_blank"} | | |
 |[The Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=12410){:target="_blank"} | |average dads |
@@ -69,4 +44,30 @@
 |[Train\_\_ Community Races](https://members.iracing.com/membersite/member/LeagueView.do?league=12443){:target="_blank"} | |ur cute |
 |[Nascar 21](https://members.iracing.com/membersite/member/LeagueView.do?league=12442){:target="_blank"} | |Nascar |
 |[Sim Racers Group\- Wednesday Advanced F\-3](https://members.iracing.com/membersite/member/LeagueView.do?league=12445){:target="_blank"} | |Dallara F\-3 Fixed |
+|[51 Fifty](https://members.iracing.com/membersite/member/LeagueView.do?league=12460){:target="_blank"} |[Discord](https://discord.gg/HrhjNVRG){:target="_blank"} |Join the Discord\! https://discord\.gg/HrhjNVRG |
+|[Almeida Motorsports Program](https://members.iracing.com/membersite/member/LeagueView.do?league=12450){:target="_blank"} | |Sim Drills For Real Life Technique Development |
+|[Amateur ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12453){:target="_blank"} | |This league was made so that amateurs who have leveled past being a rookie can show off their skills and potential growth\. |
+|[Avalanche Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12471){:target="_blank"} |[Discord](https://discord.gg/gdKCYhwx){:target="_blank"} |welcome clean drivers only |
+|[Forestall Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12458){:target="_blank"} | |Developmental league for stock car road racing\. Meant to give oval drivers a chance to improve road racing skills in a friendly environment\. Beginners welcome\! |
+|[Hoosier Daddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12454){:target="_blank"} |[Discord](https://discord.gg/6vkpUuG2){:target="_blank"} |Old school, white knuckle superspeedway racing league |
+|[LYNS DRIFTING DRAFTING](https://members.iracing.com/membersite/member/LeagueView.do?league=12470){:target="_blank"} | |Dirt Asphalt |
+|[Not Fast Just Furious](https://members.iracing.com/membersite/member/LeagueView.do?league=12469){:target="_blank"} |[Discord](https://discord.gg/kBqW3h5f){:target="_blank"} |Street Stocks\. Fixed setups |
+|[Rogue Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12451){:target="_blank"} |[Discord](https://discord.gg/UVdgPSp4){:target="_blank"} |Fun, Competitive, No BS asphalt and dirt racing league\.  Join The Discord \- https://discord\.gg/UVdgPSp4 |
+|[Rookie NASCAR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12459){:target="_blank"} | |For new drivers wanting to join a league |
+|[SiSR NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12474){:target="_blank"} | |Send It Local NASCAR |
+|[sonnys playzone](https://members.iracing.com/membersite/member/LeagueView.do?league=12467){:target="_blank"} | |fun time |
+|[Southern Roots Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12457){:target="_blank"} | | |
+|[sprintcar bonanza](https://members.iracing.com/membersite/member/LeagueView.do?league=12475){:target="_blank"} | |anyone who likes sprintcars |
+|[supercars with AI](https://members.iracing.com/membersite/member/LeagueView.do?league=12462){:target="_blank"} | |supercars with AI |
+|[TEST\-STAY OUT](https://members.iracing.com/membersite/member/LeagueView.do?league=12452){:target="_blank"} | |this is just a test |
+|[TGR Nation Grand Vee](https://members.iracing.com/membersite/member/LeagueView.do?league=12473){:target="_blank"} |[Discord](https://discord.gg/dWshxkFxJ4){:target="_blank"} |Formula Vee league where everyone is welcome no matter your skill level\. D licence drivers through to A licence will be competing to be crowned TGR Nation Grand Vee Champion\. Featuring current and past official iRacing Formula Vee World Champions\. |
+|[The Graham Crackers](https://members.iracing.com/membersite/member/LeagueView.do?league=12466){:target="_blank"} |[Discord](https://discord.gg/NsA94Q3njJ){:target="_blank"} |This league is for The Graham Crackers race team only\. If you wish to apply to The Graham Crackers race team look me up on Discord\. My name is draft\_me on Discord\. Or use this link to come right into our channel\. https://discord\.gg/NsA94Q3njJ |
+|[The Great American iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12449){:target="_blank"} | |The Great American iRacing League is a premier online racing organization focused on delivering a realistic, competitive NASCAR\-style racing experience\. |
+|[TRIPLE APEX racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12472){:target="_blank"} |[Discord](https://discord.gg/Y7ubnxBa){:target="_blank"} |TRIPLE APEX racing league \- specialize in Multiclass races with GT3 & LMP2 cars\. |
+|[truck racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12468){:target="_blank"} | |have fun racing nascar truck series |
+|[TUGA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12456){:target="_blank"} | | |
+|[UAE racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12464){:target="_blank"} | |hosted by NL RACING |
+|[zach is a homo](https://members.iracing.com/membersite/member/LeagueView.do?league=12461){:target="_blank"} | |out here turning laps |
+|[ARL Friday Dash Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12455){:target="_blank"} | |Ascent Racing League's Friday Dash Series |
+|[Doyuh Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12463){:target="_blank"} | |Doyuhs vs Shoeyuhs |
 
