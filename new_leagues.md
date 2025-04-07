@@ -1,20 +1,9 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Shake & Bake Nascar Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12406){:target="_blank"} |[Discord](https://discord.gg/jmY6XbBE){:target="_blank"} |will be banned after 4 warnings |
-|[One Grid Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12405){:target="_blank"} | |Eine Liga für Anfänger und Fortgeschrittene, mit Fokus auf Langstreckenrennen\. |
-|[92XXII Designs ARCA Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12408){:target="_blank"} | |ARCA Series |
-|[National Outlaw Racing Association \(NORA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12407){:target="_blank"} | | |
-|[The Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=12410){:target="_blank"} | |average dads |
-|[Throttle Hoppers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12409){:target="_blank"} |[Discord](https://discord.gg/ry8CgBMH){:target="_blank"} | |
-|[Renigar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12411){:target="_blank"} | |Just 2 Bros |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[ARCA New Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=12416){:target="_blank"} | |Come test your ARCA brakes in this new league\! |
-|[ATRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=12412){:target="_blank"} |[Discord](https://discord.gg/RvBYX3Z87z){:target="_blank"} |ATRacers es una comunidad latinoamericana de simracing |
-|[Direct Drive Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12413){:target="_blank"} |[Discord](https://discord.gg/ZxU9umJU){:target="_blank"} |Road Racing / Open Setups |
-|[Florida Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12414){:target="_blank"} | |To help new and old iRacers, race and make a few friends along the way\.\.\. |
 |[Hybrid Cross Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12418){:target="_blank"} | | |
-|[La Vieja Guardia LVG](https://members.iracing.com/membersite/member/LeagueView.do?league=12415){:target="_blank"} | |2º Cto\. LVG |
 |[NEW ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12417){:target="_blank"} | |Clean ARCA racing I hope |
 |[Australian Pro Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12419){:target="_blank"} |[Discord](https://discord.gg/YJznD5gy){:target="_blank"} |League Discord: https://discord\.gg/YJznD5gy |
 |[GRAND NATIONAL PRO SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12422){:target="_blank"} | | |
@@ -60,9 +49,9 @@
 |[sprintcar bonanza](https://members.iracing.com/membersite/member/LeagueView.do?league=12475){:target="_blank"} | |anyone who likes sprintcars |
 |[supercars with AI](https://members.iracing.com/membersite/member/LeagueView.do?league=12462){:target="_blank"} | |supercars with AI |
 |[TEST\-STAY OUT](https://members.iracing.com/membersite/member/LeagueView.do?league=12452){:target="_blank"} | |this is just a test |
-|[TGR Nation Grand Vee](https://members.iracing.com/membersite/member/LeagueView.do?league=12473){:target="_blank"} |[Discord](https://discord.gg/dWshxkFxJ4){:target="_blank"} |Formula Vee league where everyone is welcome no matter your skill level\. D licence drivers through to A licence will be competing to be crowned TGR Nation Grand Vee Champion\. Featuring current and past official iRacing Formula Vee World Champions\. |
-|[The Graham Crackers](https://members.iracing.com/membersite/member/LeagueView.do?league=12466){:target="_blank"} |[Discord](https://discord.gg/NsA94Q3njJ){:target="_blank"} |This league is for The Graham Crackers race team only\. If you wish to apply to The Graham Crackers race team look me up on Discord\. My name is draft\_me on Discord\. Or use this link to come right into our channel\. https://discord\.gg/NsA94Q3njJ |
-|[The Great American iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12449){:target="_blank"} | |The Great American iRacing League is a premier online racing organization focused on delivering a realistic, competitive NASCAR\-style racing experience\. |
+|[TGR Nation Grand Vee](https://members.iracing.com/membersite/member/LeagueView.do?league=12473){:target="_blank"} | |Formula Vee league where everyone is welcome no matter your skill level\. D licence drivers through to A licence will be competing to be crowned TGR Nation Grand Vee Champion\. Featuring current and past official iRacing Formula Vee World Champions\. |
+|[The Graham Crackers Race Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12466){:target="_blank"} |[Discord](https://discord.gg/NsA94Q3njJ){:target="_blank"} |This league is for The Graham Crackers race team only\. If you wish to apply to The Graham Crackers race team look me up on Discord\. My name is draft\_me on Discord\. Or use this link to come right into our channel\. https://discord\.gg/NsA94Q3njJ |
+|[The Great American Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12449){:target="_blank"} | |The Great American Racing League is a premier online racing league focused on delivering a realistic, competitive NASCAR\-style racing experience\. |
 |[TRIPLE APEX racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12472){:target="_blank"} |[Discord](https://discord.gg/Y7ubnxBa){:target="_blank"} |TRIPLE APEX racing league \- specialize in Multiclass races with GT3 & LMP2 cars\. |
 |[truck racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12468){:target="_blank"} | |have fun racing nascar truck series |
 |[TUGA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12456){:target="_blank"} | | |
@@ -70,4 +59,9 @@
 |[zach is a homo](https://members.iracing.com/membersite/member/LeagueView.do?league=12461){:target="_blank"} | |out here turning laps |
 |[ARL Friday Dash Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12455){:target="_blank"} | |Ascent Racing League's Friday Dash Series |
 |[Doyuh Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12463){:target="_blank"} | |Doyuhs vs Shoeyuhs |
+|[Club 925](https://members.iracing.com/membersite/member/LeagueView.do?league=12478){:target="_blank"} | |Friendly & Clean Group of Drivers |
+|[DCC \- Digitaler Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12479){:target="_blank"} | |Markencup auf Basis Porsche 911 \(992\) GT3 Cup |
+|[PREDATOR MWCHANICAL SEALS](https://members.iracing.com/membersite/member/LeagueView.do?league=12477){:target="_blank"} | |JUST A BUNCH OF GOOD OLD BOYS |
+|[Rocky Mountain Elite Short Track Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12476){:target="_blank"} | |Invite only short track series for mostly Rocky mountain region racers\. |
+|[PG League](https://members.iracing.com/membersite/member/LeagueView.do?league=12480){:target="_blank"} | | |
 

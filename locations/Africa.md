@@ -18,7 +18,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|-------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏳️ Free Practice |Africa |19 |1833 | | | | | |
+|-----------------------------------------------------------------------------------------------------------|-------------------------------|--------|-------|----|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏳️ Free Practice |Africa |19 |1859 | |Mobility Resort Motegi |Tue, April 08 02:00PM EDT |Tue, April 08 07:00PM BST |Wed, April 09 04:00AM AEST |
 |[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 13 🏁 Races |Africa |18 |1816 | | | | | |
 
