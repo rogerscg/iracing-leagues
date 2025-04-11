@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Yes2Rallycross \- AWD \(2025\) |North America |15 |2309 |Fixed | | | | |
-|[NASA Rallycross Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=9777){:target="_blank"} |NASA RX Masters |North America |13 |2760 | | | | | |
+|[NASA Rallycross Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=9777){:target="_blank"} |NASA RX Masters |North America |14 |2850 | | | | | |
 
 ### Rallycross
 
@@ -21,7 +21,7 @@
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25a |North America |25 |5022 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1\-2 Rallycross |Europe |23 |1840 |Both | | | | |
 |[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |Rallycross Cup |Europe |22 |1770 |Both | | | | |
-|[AusRX/AusTrux](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 10 |Australia-NZ |17 |2369 | |Circuit de Barcelona Catalunya |Thu, April 10 06:30AM EDT |Thu, April 10 11:30AM BST |Thu, April 10 08:30PM AEST |
+|[AusRX/AusTrux](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 10 |Australia-NZ |18 |2335 | |Charlotte Motor Speedway |Thu, April 17 05:30AM EDT |Thu, April 17 10:30AM BST |Thu, April 17 07:30PM AEST |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25A |North America |16 |2996 | | | | | |
 |[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |Europe |14 |1469 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rally \- 2025 |North America |14 |2560 |Fixed | | | | |
