@@ -12,17 +12,18 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Racers Elite \- Wednesday ARCA Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9180){:target="_blank"} |Racers Elite \- Xfinity Fixed Series \(Season 7\) |Fixed |Auto Club Speedway |Wed, April 16 05:35PM EDT |Wed, April 16 10:35PM BST |Thu, April 17 07:35AM AEST |
-|[The Rebel Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12398){:target="_blank"} |ARCA Season 1 |Fixed |Daytona International Speedway |Fri, April 11 09:00PM EDT |Sat, April 12 02:00AM BST |Sat, April 12 11:00AM AEST |
 |[\#0 Clean Racing League Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12364){:target="_blank"} |CRL Arca Series Season 1 |Fixed |Daytona International Speedway |Wed, April 16 07:30PM EDT |Thu, April 17 12:30AM BST |Thu, April 17 09:30AM AEST |
 |[The Pickle Gang League](https://members.iracing.com/membersite/member/LeagueView.do?league=9228){:target="_blank"} |The Pickle Gang ARCA Series Season 1 | |Iowa Speedway |Tue, April 15 07:59PM EDT |Wed, April 16 12:59AM BST |Wed, April 16 09:59AM AEST |
+|[BTG Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10505){:target="_blank"} |Season 4 | |Daytona International Speedway |Wed, April 16 06:00PM EDT |Wed, April 16 11:00PM BST |Thu, April 17 08:00AM AEST |
 
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Racers Elite \- Thursday Next Gen Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9514){:target="_blank"} |Racers Elite \- Next Gen Fixed Series \(Season 7\) |Fixed |Homestead Miami Speedway |Thu, April 17 05:35PM EDT |Thu, April 17 10:35PM BST |Fri, April 18 07:35AM AEST |
+|[Chrispy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11758){:target="_blank"} |Year 1 Season 2 | |Daytona International Speedway |Sun, April 13 08:00PM EDT |Mon, April 14 01:00AM BST |Mon, April 14 10:00AM AEST |
 
 ### NASCAR Legends 1987
 
@@ -82,8 +83,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|---------------------------|-------------------------|-------------------------|--------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B WnS Super Formula Lights \- Spreyton Ciders |Both |Mobility Resort Motegi |Thu, April 17 04:23AM EDT |Thu, April 17 09:23AM BST |Thu, April 17 06:23PM AEST |
+|[RSS Super Formula Lights Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12485){:target="_blank"} |RSS Super Formula Lights Championship | |Fuji International Speedway |Sat, April 19 11:30AM EDT |Sat, April 19 04:30PM BST |Sun, April 20 01:30AM AEST |
 
 # Sports Car
 
@@ -94,7 +96,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B GT4 Challenge \- Waste Options |Both |Autodromo Internazionale Enzo e Dino Ferrari |Mon, April 14 04:55AM EDT |Mon, April 14 09:55AM BST |Mon, April 14 06:55PM AEST |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |GT4 Pilot Series |Both |Long Beach Street Circuit |Fri, April 11 07:30PM EDT |Sat, April 12 12:30AM BST |Sat, April 12 09:30AM AEST |
 
 ### Mazda MX-5 Cup 2016
 
@@ -199,15 +200,16 @@
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |DHRL GTD Season 5 |Both |Autodromo Internazionale del Mugello |Sun, April 13 07:30PM EDT |Mon, April 14 12:30AM BST |Mon, April 14 09:30AM AEST |
 |[GSRC\.inc GT3 Am Split \- Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5306){:target="_blank"} |2025B GT3 Am Series \- Waste Options | |Autodromo Internazionale del Mugello |Mon, April 14 05:30AM EDT |Mon, April 14 10:30AM BST |Mon, April 14 07:30PM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B GT3 Pro\-Am Series \- Waste Options |Both |Autodromo Internazionale del Mugello |Mon, April 14 05:30AM EDT |Mon, April 14 10:30AM BST |Mon, April 14 07:30PM AEST |
+|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} |Season Two | |MotorLand Aragón |Mon, April 14 09:00PM EDT |Tue, April 15 02:00AM BST |Tue, April 15 11:00AM AEST |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------------|-------------------------|-------------------------|--------------------------|
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |Track Master Season 5 |Both |Watkins Glen International |Tue, April 15 08:00PM EDT |Wed, April 16 01:00AM BST |Wed, April 16 10:00AM AEST |
-|[TRIPLE APEX racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12472){:target="_blank"} |S1 \- TRIPLE APEX racing league |Fixed |Hockenheimring Baden-Württemberg |Fri, April 11 06:00PM EDT |Fri, April 11 11:00PM BST |Sat, April 12 08:00AM AEST |
 |[B\-Main Bandits Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7114){:target="_blank"} |2025 4\-Crown |Fixed |Kevin Harvick's Kern Raceway |Tue, April 15 07:45PM EDT |Wed, April 16 12:45AM BST |Wed, April 16 09:45AM AEST |
 |[Walker Sports League](https://members.iracing.com/membersite/member/LeagueView.do?league=12434){:target="_blank"} |Spring into Summer \(8 Weeks\) | |Eldora Speedway |Tue, April 15 09:00PM EDT |Wed, April 16 02:00AM BST |Wed, April 16 11:00AM AEST |
+|[Pedal Stomping in Ohio](https://members.iracing.com/membersite/member/LeagueView.do?league=5402){:target="_blank"} |Spring 2025 |Both |Circuit de Lédenon |Mon, April 14 07:50PM EDT |Tue, April 15 12:50AM BST |Tue, April 15 09:50AM AEST |
 

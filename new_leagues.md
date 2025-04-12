@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Exclusive Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12439){:target="_blank"} | |Esports League |
-|[Thompson Dirt series](https://members.iracing.com/membersite/member/LeagueView.do?league=12438){:target="_blank"} | | |
 |[M and B](https://members.iracing.com/membersite/member/LeagueView.do?league=12440){:target="_blank"} | | |
 |[simHUB F4 League, April\-May](https://members.iracing.com/membersite/member/LeagueView.do?league=12441){:target="_blank"} | |F4 Championship Presented By simHUB Race Lounge |
 |[Grass Roots Racing \- SF/SFL Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12446){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} |GRR Super Formula Multiclass Series |
@@ -62,4 +60,9 @@
 |[NEC 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12495){:target="_blank"} | |Nordic Esport Championship |
 |[NUMB DIGGERS](https://members.iracing.com/membersite/member/LeagueView.do?league=12497){:target="_blank"} | |like to see homos naked? |
 |[United Sim Racing Association \(U\.S\.R\.A\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12498){:target="_blank"} | |iRacing League focused on GT and Oval |
+|[360 Non Wings](https://members.iracing.com/membersite/member/LeagueView.do?league=12499){:target="_blank"} | | |
+|[GoFAST Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12501){:target="_blank"} |[Discord](https://discord.gg/Nu7zyAWW){:target="_blank"} |Fastest league on ACC consoles comes to iRacing\! |
+|[Moondomotors](https://members.iracing.com/membersite/member/LeagueView.do?league=12502){:target="_blank"} | |Moondomist |
+|[South Texas](https://members.iracing.com/membersite/member/LeagueView.do?league=12503){:target="_blank"} | | |
+|[O\.B\. Builders Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12500){:target="_blank"} | |NextGen Cup Series League \- Winston Cup Style |
 
