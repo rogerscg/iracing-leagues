@@ -36,7 +36,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------|--------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[ASRC iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |Season 2 |Asia |19 |2193 |Both |Daytona International Speedway |Sat, April 12 02:00PM EDT |Sat, April 12 07:00PM BST |Sun, April 13 04:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|--------|--------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|[ASRC iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |Season 2 |Asia |20 |2170 |Both |Sebring International Raceway |Sat, April 19 02:00PM EDT |Sat, April 19 07:00PM BST |Sun, April 20 04:00AM AEST |
 |[HEiR](https://members.iracing.com/membersite/member/LeagueView.do?league=11142){:target="_blank"} |2025 娱乐赛 |Asia |14 |1586 |Fixed | | | | |
 

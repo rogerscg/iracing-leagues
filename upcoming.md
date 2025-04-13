@@ -49,10 +49,27 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Draught Masters Season 6 |Both |Pocono Raceway |Sat, April 12 09:00PM EDT |Sun, April 13 02:00AM BST |Sun, April 13 11:00AM AEST |
 |[Mid Atlantic Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10854){:target="_blank"} |Mid Atlantic Racing Series Season 5 Xfinity | |Daytona International Speedway |Tue, April 15 06:55PM EDT |Tue, April 15 11:55PM BST |Wed, April 16 08:55AM AEST |
 
+# Oval
+
+### Dirt Mini Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|--------------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|[Thompson Dirt series](https://members.iracing.com/membersite/member/LeagueView.do?league=12438){:target="_blank"} |THOMPSON DIRT SEIRES | |Bristol Motor Speedway |Sun, April 13 04:00PM EDT |Sun, April 13 09:00PM BST |Mon, April 14 06:00AM AEST |
+
 # Open-wheel
+
+### Dallara F3
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[Sim Racers Group\- Wednesday Advanced F\-3](https://members.iracing.com/membersite/member/LeagueView.do?league=12445){:target="_blank"} |2025 S2 \(Practice\) | |Autódromo José Carlos Pace |Wed, April 16 10:50PM EDT |Thu, April 17 03:50AM BST |Thu, April 17 12:50PM AEST |
 
 ### Dallara IR18
 
@@ -61,6 +78,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|----------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Indy Car Series Season 3 | |Sebring International Raceway |Thu, April 17 08:00PM EDT |Fri, April 18 01:00AM BST |Fri, April 18 10:00AM AEST |
+
+### FIA F4
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------|------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO FIA F4 |Open |Motorsport Arena Oschersleben |Mon, April 14 12:00PM EDT |Mon, April 14 05:00PM BST |Tue, April 15 02:00AM AEST |
 
 ### Indy Pro 2000 PM-18
 
@@ -86,6 +111,14 @@
 |-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|---------------------------|-------------------------|-------------------------|--------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B WnS Super Formula Lights \- Spreyton Ciders |Both |Mobility Resort Motegi |Thu, April 17 04:23AM EDT |Thu, April 17 09:23AM BST |Thu, April 17 06:23PM AEST |
 |[RSS Super Formula Lights Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12485){:target="_blank"} |RSS Super Formula Lights Championship | |Fuji International Speedway |Sat, April 19 11:30AM EDT |Sat, April 19 04:30PM BST |Sun, April 20 01:30AM AEST |
+
+### Super Formula SF23
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|--------------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Super Formula Series |Fixed |Phillip Island Circuit |Tue, April 15 05:28AM EDT |Tue, April 15 10:28AM BST |Tue, April 15 07:28PM AEST |
 
 # Sports Car
 
@@ -142,6 +175,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B DownForce Legends \- HPD |Both |Circuit de Barcelona Catalunya |Tue, April 15 04:25AM EDT |Tue, April 15 09:25AM BST |Tue, April 15 06:25PM AEST |
+
+### Spec Racer Ford
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|---------------|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SCCA Spec Racer |Fixed |Autodromo Internazionale del Mugello |Thu, April 17 05:30AM EDT |Thu, April 17 10:30AM BST |Thu, April 17 07:30PM AEST |
 
 # Road
 

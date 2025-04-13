@@ -2,14 +2,11 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[M and B](https://members.iracing.com/membersite/member/LeagueView.do?league=12440){:target="_blank"} | | |
-|[simHUB F4 League, April\-May](https://members.iracing.com/membersite/member/LeagueView.do?league=12441){:target="_blank"} | |F4 Championship Presented By simHUB Race Lounge |
 |[Grass Roots Racing \- SF/SFL Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12446){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} |GRR Super Formula Multiclass Series |
 |[Muel Silly League](https://members.iracing.com/membersite/member/LeagueView.do?league=12444){:target="_blank"} | |Silly League |
 |[Rummel Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12447){:target="_blank"} | |Cup |
 |[SUPERSPEEDWAY CASH RACES](https://members.iracing.com/membersite/member/LeagueView.do?league=12448){:target="_blank"} | |SS ONLY \. CASH PRIZES |
 |[Train\_\_ Community Races](https://members.iracing.com/membersite/member/LeagueView.do?league=12443){:target="_blank"} | |ur cute |
-|[Nascar 21](https://members.iracing.com/membersite/member/LeagueView.do?league=12442){:target="_blank"} | |Nascar |
 |[Sim Racers Group\- Wednesday Advanced F\-3](https://members.iracing.com/membersite/member/LeagueView.do?league=12445){:target="_blank"} | |Dallara F\-3 Fixed |
 |[51 Fifty](https://members.iracing.com/membersite/member/LeagueView.do?league=12460){:target="_blank"} |[Discord](https://discord.gg/HrhjNVRG){:target="_blank"} |Join the Discord\! https://discord\.gg/HrhjNVRG |
 |[Almeida Motorsports Program](https://members.iracing.com/membersite/member/LeagueView.do?league=12450){:target="_blank"} | |Sim Drills For Real Life Technique Development |
@@ -27,7 +24,7 @@
 |[sprintcar bonanza](https://members.iracing.com/membersite/member/LeagueView.do?league=12475){:target="_blank"} | |anyone who likes sprintcars |
 |[supercars with AI](https://members.iracing.com/membersite/member/LeagueView.do?league=12462){:target="_blank"} | |supercars with AI |
 |[TEST\-STAY OUT](https://members.iracing.com/membersite/member/LeagueView.do?league=12452){:target="_blank"} | |this is just a test |
-|[TGR Nation Grand Vee](https://members.iracing.com/membersite/member/LeagueView.do?league=12473){:target="_blank"} | |Formula Vee league where everyone is welcome no matter your skill level\. D licence drivers through to A licence will be competing to be crowned TGR Nation Grand Vee Champion\. Featuring current and past official iRacing Formula Vee World Champions\. |
+|[TGR Nation Grand Vee](https://members.iracing.com/membersite/member/LeagueView.do?league=12473){:target="_blank"} |[Discord](https://discord.gg/dWshxkFxJ4){:target="_blank"} |Formula Vee league where everyone is welcome no matter your skill level\. D licence drivers through to A licence will be competing to be crowned TGR Nation Grand Vee Champion\. Featuring current and past official iRacing Formula Vee World Champions\. |
 |[The Graham Crackers Race Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12466){:target="_blank"} |[Discord](https://discord.gg/NsA94Q3njJ){:target="_blank"} |This league is for The Graham Crackers race team only\. If you wish to apply to The Graham Crackers race team look me up on Discord\. My name is draft\_me on Discord\. Or use this link to come right into our channel\. https://discord\.gg/NsA94Q3njJ |
 |[The Great American Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12449){:target="_blank"} | |The Great American Racing League is a premier online racing league focused on delivering a realistic, competitive NASCAR\-style racing experience\. |
 |[TRIPLE APEX racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12472){:target="_blank"} |[Discord](https://discord.gg/Y7ubnxBa){:target="_blank"} |TRIPLE APEX racing league \- specialize in Multiclass races with GT3 & LMP2 cars\. |
@@ -65,4 +62,6 @@
 |[Moondomotors](https://members.iracing.com/membersite/member/LeagueView.do?league=12502){:target="_blank"} | |Moondomist |
 |[South Texas](https://members.iracing.com/membersite/member/LeagueView.do?league=12503){:target="_blank"} | | |
 |[O\.B\. Builders Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12500){:target="_blank"} | |NextGen Cup Series League \- Winston Cup Style |
+|[PAT GIVE ME A R2\!\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12504){:target="_blank"} | |Weekend Warriors battling to see who sucks the most |
+|[Please join for fun](https://members.iracing.com/membersite/member/LeagueView.do?league=12505){:target="_blank"} | |We like to race clean |
 
