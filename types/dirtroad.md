@@ -8,9 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|-----------------------------------------------------------------------------------------------------------|----------------------------|------------|-------|----|-----|-------------|--------|------|------|
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Pro Truck Series \- Season 1 |Australia-NZ |16 |1434 |Fixed | | | | |
-|[Woah Nellie Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=7047){:target="_blank"} |Clustertruck S4: The Chaos Tour |North America |10 |1836 | | | | | |
 
 ### Pro 2 Lite Truck
 
@@ -30,8 +29,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[AMX Dirt Slingers](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |2025 Spring Dirt Slingers |North America |27 |1955 | |Lernerville Speedway |Tue, April 15 09:00PM EDT |Wed, April 16 02:00AM BST |Wed, April 16 11:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|---------------------|-------------------------|-------------------------|--------------------------|
+|[AMX Dirt Slingers](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |2025 Spring Dirt Slingers |North America |27 |1945 | |Volusia Speedway Park |Tue, April 22 09:00PM EDT |Wed, April 23 02:00AM BST |Wed, April 23 11:00AM AEST |
 |[Oval Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=9053){:target="_blank"} |2025 S1 Off\-Road Trucks |North America |14 |1446 |Fixed | | | | |
 
 ### Pro 4 Truck
@@ -40,6 +39,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2025 National Series |North America |49 |5847 |Open | | | | |
+|[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2025 National Series |North America |49 |5804 |Open | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |ORCGP Grand National Sport Truck \- 2025 |North America |22 |2526 |Fixed | | | | |
 

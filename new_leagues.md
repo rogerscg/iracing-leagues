@@ -2,25 +2,17 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[51 Fifty](https://members.iracing.com/membersite/member/LeagueView.do?league=12460){:target="_blank"} |[Discord](https://discord.gg/HrhjNVRG){:target="_blank"} |Join the Discord\! https://discord\.gg/HrhjNVRG |
 |[Avalanche Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12471){:target="_blank"} |[Discord](https://discord.gg/WQSbkCXu){:target="_blank"} |Xfinity Friday 8:30 EST\!   Join Discord To Race\! |
-|[Forestall Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12458){:target="_blank"} | |Developmental league for stock car road racing\. Meant to give oval drivers a chance to improve road racing skills in a friendly environment\. Beginners welcome\! |
 |[LYNS DRIFTING DRAFTING](https://members.iracing.com/membersite/member/LeagueView.do?league=12470){:target="_blank"} | |Dirt Asphalt |
 |[Not Fast Just Furious](https://members.iracing.com/membersite/member/LeagueView.do?league=12469){:target="_blank"} |[Discord](https://discord.gg/kBqW3h5f){:target="_blank"} |Street Stocks\. Fixed setups |
-|[Rookie NASCAR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12459){:target="_blank"} | |For new drivers wanting to join a league |
 |[SiSR NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12474){:target="_blank"} | |Send It Local NASCAR |
 |[sonnys playzone](https://members.iracing.com/membersite/member/LeagueView.do?league=12467){:target="_blank"} | |fun time |
-|[Southern Roots Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12457){:target="_blank"} | | |
 |[sprintcar bonanza](https://members.iracing.com/membersite/member/LeagueView.do?league=12475){:target="_blank"} | |anyone who likes sprintcars |
-|[supercars with AI](https://members.iracing.com/membersite/member/LeagueView.do?league=12462){:target="_blank"} | |supercars with AI |
 |[TGR Nation Grand Vee](https://members.iracing.com/membersite/member/LeagueView.do?league=12473){:target="_blank"} |[Discord](https://discord.gg/dWshxkFxJ4){:target="_blank"} |Formula Vee league where everyone is welcome no matter your skill level\. D licence drivers through to A licence will be competing to be crowned TGR Nation Grand Vee Champion\. Featuring current and past official iRacing Formula Vee World Champions\. |
 |[The Graham Crackers Race Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12466){:target="_blank"} |[Discord](https://discord.gg/NsA94Q3njJ){:target="_blank"} |This league is for The Graham Crackers race team only\. If you wish to apply to The Graham Crackers race team look me up on Discord\. My name is draft\_me on Discord\. Or use this link to come right into our channel\. https://discord\.gg/NsA94Q3njJ |
 |[TRIPLE APEX racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12472){:target="_blank"} |[Discord](https://discord.gg/Y7ubnxBa){:target="_blank"} |TRIPLE APEX racing league \- specialize in Multiclass races with GT3 & LMP2 cars\. |
 |[truck racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12468){:target="_blank"} | |have fun racing nascar truck series |
-|[TUGA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12456){:target="_blank"} | | |
 |[UAE racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12464){:target="_blank"} | |hosted by NL RACING |
-|[zach is a homo](https://members.iracing.com/membersite/member/LeagueView.do?league=12461){:target="_blank"} | |out here turning laps |
-|[ARL Friday Dash Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12455){:target="_blank"} | |Ascent Racing League's Friday Dash Series |
 |[Doyuh Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12463){:target="_blank"} | |Doyuhs vs Shoeyuhs |
 |[Club 925](https://members.iracing.com/membersite/member/LeagueView.do?league=12478){:target="_blank"} | |Friendly & Clean Group of Drivers |
 |[DCC \- Digitaler Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12479){:target="_blank"} | |Markencup auf Basis Porsche 911 \(992\) GT3 Cup |
@@ -56,4 +48,14 @@
 |[Bufty Racing Reloaded](https://members.iracing.com/membersite/member/LeagueView.do?league=12508){:target="_blank"} | | |
 |[Dark Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12507){:target="_blank"} | | |
 |[VTCR – Virtual Touring Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12509){:target="_blank"} |[Discord](https://discord.gg/TVn7HgpYPP){:target="_blank"} |British Touring Car Racing League Featuring a 10\-round calendar, live broadcasts on VTCR TV, and a dedicated support series\. Competitive sprint racing, reverse grids, stewarding, and a prize pool for top performers\. Entry: £15 for full season \(includes main\) Race Day: Thursdays, 17:30–20:30 UK |
+|[AI SCRUBBY Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12512){:target="_blank"} | | |
+|[Blacktop Arena](https://members.iracing.com/membersite/member/LeagueView.do?league=12516){:target="_blank"} | | |
+|[Firecracker 400](https://members.iracing.com/membersite/member/LeagueView.do?league=12517){:target="_blank"} |[Discord](https://discord.gg/nGfsrFzSKE){:target="_blank"} | |
+|[Five Star Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12511){:target="_blank"} |[Discord](https://discord.gg/m3fE6EMA){:target="_blank"} |Welcome to the Five Star Cup Series — a competitive NASCAR league built for clean, intense racing with a professional atmosphere\. We run open setups, 75% race lengths, and bring together some of the best talent in the sim\. If you're tired of wreckfests and ready for strategy, tire management, and full\-shend finishes, you're in the right place\.hh |
+|[GT 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12510){:target="_blank"} | |GT3 \(fixed setup\) |
+|[Mob Boi Racing "Nascar Cup Series"](https://members.iracing.com/membersite/member/LeagueView.do?league=12513){:target="_blank"} | |This league will follow the cup series schedule starting in February 2026 Randomly scheduled races until then\! |
+|[PINNED](https://members.iracing.com/membersite/member/LeagueView.do?league=12518){:target="_blank"} | |OPEN SET STREET STOCKS |
+|[Savage Sim Racing SFL League](https://members.iracing.com/membersite/member/LeagueView.do?league=12519){:target="_blank"} |[Discord](https://discord.gg/fB4wUbqfDU){:target="_blank"} |Savage Sim Racing \- Super Formula Lights |
+|[slippery speedsters](https://members.iracing.com/membersite/member/LeagueView.do?league=12514){:target="_blank"} | |5 beer lemans start |
+|[The Bois](https://members.iracing.com/membersite/member/LeagueView.do?league=12515){:target="_blank"} | | |
 
