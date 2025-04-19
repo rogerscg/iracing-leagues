@@ -2,18 +2,10 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Avalanche Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12471){:target="_blank"} |[Discord](https://discord.gg/WQSbkCXu){:target="_blank"} |Xfinity Friday 8:30 EST\!   Join Discord To Race\! |
-|[LYNS DRIFTING DRAFTING](https://members.iracing.com/membersite/member/LeagueView.do?league=12470){:target="_blank"} | |Dirt Asphalt |
-|[Not Fast Just Furious](https://members.iracing.com/membersite/member/LeagueView.do?league=12469){:target="_blank"} |[Discord](https://discord.gg/kBqW3h5f){:target="_blank"} |Street Stocks\. Fixed setups |
 |[SiSR NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12474){:target="_blank"} | |Send It Local NASCAR |
-|[sonnys playzone](https://members.iracing.com/membersite/member/LeagueView.do?league=12467){:target="_blank"} | |fun time |
 |[sprintcar bonanza](https://members.iracing.com/membersite/member/LeagueView.do?league=12475){:target="_blank"} | |anyone who likes sprintcars |
 |[TGR Nation Grand Vee](https://members.iracing.com/membersite/member/LeagueView.do?league=12473){:target="_blank"} |[Discord](https://discord.gg/dWshxkFxJ4){:target="_blank"} |Formula Vee league where everyone is welcome no matter your skill level\. D licence drivers through to A licence will be competing to be crowned TGR Nation Grand Vee Champion\. Featuring current and past official iRacing Formula Vee World Champions\. |
-|[The Graham Crackers Race Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12466){:target="_blank"} |[Discord](https://discord.gg/NsA94Q3njJ){:target="_blank"} |This league is for The Graham Crackers race team only\. If you wish to apply to The Graham Crackers race team look me up on Discord\. My name is draft\_me on Discord\. Or use this link to come right into our channel\. https://discord\.gg/NsA94Q3njJ |
 |[TRIPLE APEX racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12472){:target="_blank"} |[Discord](https://discord.gg/Y7ubnxBa){:target="_blank"} |TRIPLE APEX racing league \- specialize in Multiclass races with GT3 & LMP2 cars\. |
-|[truck racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12468){:target="_blank"} | |have fun racing nascar truck series |
-|[UAE racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12464){:target="_blank"} | |hosted by NL RACING |
-|[Doyuh Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12463){:target="_blank"} | |Doyuhs vs Shoeyuhs |
 |[Club 925](https://members.iracing.com/membersite/member/LeagueView.do?league=12478){:target="_blank"} | |Friendly & Clean Group of Drivers |
 |[DCC \- Digitaler Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12479){:target="_blank"} | |Markencup auf Basis Porsche 911 \(992\) GT3 Cup |
 |[PREDATOR MWCHANICAL SEALS](https://members.iracing.com/membersite/member/LeagueView.do?league=12477){:target="_blank"} | |JUST A BUNCH OF GOOD OLD BOYS |
@@ -58,4 +50,14 @@
 |[Savage Sim Racing SFL League](https://members.iracing.com/membersite/member/LeagueView.do?league=12519){:target="_blank"} |[Discord](https://discord.gg/fB4wUbqfDU){:target="_blank"} |Savage Sim Racing \- Super Formula Lights |
 |[slippery speedsters](https://members.iracing.com/membersite/member/LeagueView.do?league=12514){:target="_blank"} | |5 beer lemans start |
 |[The Bois](https://members.iracing.com/membersite/member/LeagueView.do?league=12515){:target="_blank"} | | |
+|[Admin\_Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=12520){:target="_blank"} | | |
+|[Burning Octane Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12522){:target="_blank"} |[Discord](https://discord.gg/TVKKX5tC){:target="_blank"} |Split from former league\. A great place for Asphalt and Dirt specialist\. Anyone is welcome\! Lets have some fun\! |
+|[DSM OFFICAL PRO4 ROOKIE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12526){:target="_blank"} | |Lucas PRO4 trucks\- for those just starting out and getting the hang of the PRO4 trucks\. A chill, laid back group\. Fairly selective on participants\. |
+|[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} | |Fun League For All Racers |
+|[Novice Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12529){:target="_blank"} | | |
+|[\*\*\* \*\*\* Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12528){:target="_blank"} | |\*\*\* \*\*\* Racing |
+|[Road to Daytona](https://members.iracing.com/membersite/member/LeagueView.do?league=12523){:target="_blank"} | |fun,fast,clean racing\! |
+|[SFL Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=12525){:target="_blank"} | |Community League dedicated to the Super Formula Lights |
+|[Subie Bros](https://members.iracing.com/membersite/member/LeagueView.do?league=12524){:target="_blank"} | | |
+|[TRG Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12527){:target="_blank"} | | |
 
