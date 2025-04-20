@@ -2,14 +2,9 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[SiSR NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12474){:target="_blank"} | |Send It Local NASCAR |
-|[sprintcar bonanza](https://members.iracing.com/membersite/member/LeagueView.do?league=12475){:target="_blank"} | |anyone who likes sprintcars |
-|[TGR Nation Grand Vee](https://members.iracing.com/membersite/member/LeagueView.do?league=12473){:target="_blank"} |[Discord](https://discord.gg/dWshxkFxJ4){:target="_blank"} |Formula Vee league where everyone is welcome no matter your skill level\. D licence drivers through to A licence will be competing to be crowned TGR Nation Grand Vee Champion\. Featuring current and past official iRacing Formula Vee World Champions\. |
-|[TRIPLE APEX racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12472){:target="_blank"} |[Discord](https://discord.gg/Y7ubnxBa){:target="_blank"} |TRIPLE APEX racing league \- specialize in Multiclass races with GT3 & LMP2 cars\. |
 |[Club 925](https://members.iracing.com/membersite/member/LeagueView.do?league=12478){:target="_blank"} | |Friendly & Clean Group of Drivers |
 |[DCC \- Digitaler Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12479){:target="_blank"} | |Markencup auf Basis Porsche 911 \(992\) GT3 Cup |
 |[PREDATOR MWCHANICAL SEALS](https://members.iracing.com/membersite/member/LeagueView.do?league=12477){:target="_blank"} | |JUST A BUNCH OF GOOD OLD BOYS |
-|[Rocky Mountain Elite Short Track Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12476){:target="_blank"} | |Invite only short track series for mostly Rocky mountain region racers\. |
 |[PG League](https://members.iracing.com/membersite/member/LeagueView.do?league=12480){:target="_blank"} | | |
 |[Area 51 Friday Night Truck SS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12481){:target="_blank"} |[Discord](https://discord.gg/ctS7c5WQkY){:target="_blank"} |Presented by Wagoner's Welding |
 |[Aðalbón Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12488){:target="_blank"} | |Hreinlega Hraðari |
@@ -60,4 +55,11 @@
 |[SFL Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=12525){:target="_blank"} | |Community League dedicated to the Super Formula Lights |
 |[Subie Bros](https://members.iracing.com/membersite/member/LeagueView.do?league=12524){:target="_blank"} | | |
 |[TRG Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12527){:target="_blank"} | | |
+|[Freedom Flyers Jerky Boys truck iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12535){:target="_blank"} | |jerky boys truck series\. a very fun truck league that you should join\. tell your friends too join |
+|[I2I Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12531){:target="_blank"} | | |
+|[Simfans Racing Leagues \- Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=12533){:target="_blank"} | | |
+|[TripleJ Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12534){:target="_blank"} | |Dirt Oval Racing |
+|[UER iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12530){:target="_blank"} | |Clean racing for all levels of experience\. |
+|[Xtreme Stock Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12536){:target="_blank"} |[Discord](https://discord.gg/KryfAkDN9x){:target="_blank"} |Class D and above\. |
+|[Zero Torque Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12532){:target="_blank"} |[Discord](https://discord.gg/TNgnfXhU){:target="_blank"} |ZTRL is a for\-fun developmental iRacing league, racing the NASCAR Gen 7 Series through a 15 week season\.  playoff format,win and in playoffs but must race atleast 6 races to be eligible for playoffs  65% fuel fixed setups  daytona 250 winner and playoff winner recieves a plaque\!  broadcasted races  rules are in discord so join and read em\!  thank you for being apart of the ztrl family |
 

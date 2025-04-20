@@ -172,11 +172,9 @@
 |[IRB \- MoT Road to Pro 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |IRB I\-Pass Gran Touring Series |South America |40 |2848 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT GT3 2025\.2 |South America |36 |1694 |Both |Autodromo Internazionale Enzo e Dino Ferrari |Sun, April 20 07:30PM EDT |Mon, April 21 12:30AM BST |Mon, April 21 09:30AM AEST |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RACERSAV GT3 T1 2025 |South America |35 |2295 | | | | | |
-|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Carbon GT3 Cup \- T2 2025 |South America |34 |2023 | |Road America |Sat, April 19 01:50PM EDT |Sat, April 19 06:50PM BST |Sun, April 20 03:50AM AEST |
-|[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/1 |South America |31 |1535 | | | | | |
+|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Carbon GT3 Cup \- T2 2025 |South America |35 |2070 | |Circuit of the Americas |Sat, April 26 01:50PM EDT |Sat, April 26 06:50PM BST |Sun, April 27 03:50AM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC GT3 SERIES |South America |31 |2232 |Both |Road America |Mon, April 21 06:00PM EDT |Mon, April 21 11:00PM BST |Tue, April 22 08:00AM AEST |
 |[IRB \- MoT Road to Pro 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |T2\-2025 \- MoT Road to Pro |South America |28 |2848 | |Road America |Tue, April 22 05:00PM EDT |Tue, April 22 10:00PM BST |Wed, April 23 07:00AM AEST |
-|[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/1 |South America |20 |2999 | | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GT3 Challenge 2025 T1 |South America |16 |1552 |Fixed | | | | |
 
 ### Hosted All Cars Class
@@ -187,9 +185,9 @@
 |-------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |194 |1964 | | | | | |
 |[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2025/2 |South America |50 |2722 | |Autodromo Internazionale Enzo e Dino Ferrari |Thu, April 24 05:10PM EDT |Thu, April 24 10:10PM BST |Fri, April 25 07:10AM AEST |
-|[LIGA FRS \- IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS IMSA \- 25T2 |South America |35 |2364 | | | | | |
+|[LIGA FRS \- IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS IMSA \- 25T2 |South America |35 |2364 | |Watkins Glen International |Sun, April 27 05:00PM EDT |Sun, April 27 10:00PM BST |Mon, April 28 07:00AM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SGA IMSA GOLD |South America |21 |2550 |Both | | | | |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP 2 |South America |18 |1624 |Both |Autodromo Internazionale Enzo e Dino Ferrari |Sat, April 19 07:45PM EDT |Sun, April 20 12:45AM BST |Sun, April 20 09:45AM AEST |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP 2 |South America |20 |1654 |Both | | | | |
 
 ### Ring Meister
 

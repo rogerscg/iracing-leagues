@@ -17,14 +17,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25a |North America |25 |5034 | | | | | |
-|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1\-2 Rallycross |Europe |23 |1840 |Both | | | | |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
+|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25a |North America |26 |5063 | | | | | |
+|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1\-2 Rallycross |Europe |23 |1840 |Both |Knockhill Racing Circuit |Sun, April 27 02:00PM EDT |Sun, April 27 07:00PM BST |Mon, April 28 04:00AM AEST |
 |[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |Rallycross Cup |Europe |22 |1770 |Both | | | | |
 |[AusRX/AusTrux](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 10 |Australia-NZ |19 |2360 | | | | | |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25A |North America |16 |2968 | | | | | |
-|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |Europe |14 |1469 | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rally \- 2025 |North America |14 |2560 |Fixed | | | | |
+|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |Europe |14 |1469 | |Circuit de Spa-Francorchamps |Sun, April 27 02:10PM EDT |Sun, April 27 07:10PM BST |Mon, April 28 04:10AM AEST |
 |[Wheel Challenge Series \- Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=11929){:target="_blank"} |Rallycross WCS S2\-2025 |North America |12 |1550 |Both | | | | |
 
 ### VW Beetle GRC

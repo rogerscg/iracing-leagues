@@ -18,7 +18,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
 |[American Muscle Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6810){:target="_blank"} |Season 8 |North America |55 |2307 | |WeatherTech Raceway at Laguna Seca |Sun, April 20 08:00PM EDT |Mon, April 21 01:00AM BST |Mon, April 21 10:00AM AEST |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Mustang 500 Piston Cup |North America |16 |1391 |Both |Lime Rock Park |Sat, April 19 07:30PM EDT |Sun, April 20 12:30AM BST |Sun, April 20 09:30AM AEST |
+|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Mustang 500 Piston Cup |North America |16 |1376 |Both |Charlotte Motor Speedway |Sat, April 26 07:30PM EDT |Sun, April 27 12:30AM BST |Sun, April 27 09:30AM AEST |
 
 ### GT4 Class
 
@@ -41,7 +41,6 @@
 |[TORQ GT4 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10313){:target="_blank"} |Season 2 |North America |23 |1789 |Fixed | | | | |
 |[Slow & Sweaty Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12249){:target="_blank"} |2025 \- Season Premiere |North America |21 |2333 | | | | | |
 |[Kart Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7635){:target="_blank"} |Spring GT4 |North America |13 |1757 |Fixed |Road Atlanta |Tue, April 22 11:00PM EDT |Wed, April 23 04:00AM BST |Wed, April 23 01:00PM AEST |
-|[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |JRH GT4 America |Europe |12 |1248 | | | | | |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |GT4 Pilot Series |North America |10 |1242 |Both |WeatherTech Raceway at Laguna Seca |Fri, April 25 07:30PM EDT |Sat, April 26 12:30AM BST |Sat, April 26 09:30AM AEST |
 
 ### GTE Class
@@ -59,9 +58,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------|-------|----|-----|-----------------------------------|-------------------------|-------------------------|--------------------------|
 |[PCA \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class A/B Group eDE |North America |138 |1342 | |Circuit of the Americas |Sun, April 20 09:00PM EDT |Mon, April 21 02:00AM BST |Mon, April 21 11:00AM AEST |
-|[PCA \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Races |North America |84 |1321 | | | | | |
+|[PCA \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Races |North America |84 |1321 | |Circuit of the Americas |Sun, April 27 09:00PM EDT |Mon, April 28 02:00AM BST |Mon, April 28 11:00AM AEST |
 |[SRL Friday Night Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |SRL Freebie Fridays |Europe |72 |2504 |Fixed |Okayama International Circuit |Fri, April 25 03:20PM EDT |Fri, April 25 08:20PM BST |Sat, April 26 05:20AM AEST |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL Miatas Season 1 |North America |66 |2209 |Open | | | | |
 |[PCA \- Entry Class](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Novice Group eDE |North America |63 |1207 | | | | | |
@@ -89,7 +88,7 @@
 |[SCCA AS Touring ERace League](https://members.iracing.com/membersite/member/LeagueView.do?league=4134){:target="_blank"} |2025 |North America |15 |1893 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |ORCGP Ultra Stock \- 2025 |North America |15 |2495 |Fixed | | | | |
 |[Fresno SCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11311){:target="_blank"} |2025 Championship Series |North America |15 |1520 | | | | | |
-|[Sim Racing Syndicate by NCR](https://members.iracing.com/membersite/member/LeagueView.do?league=11356){:target="_blank"} |Sim Racing Syndicate GT4 Series \- S2 |Australia-NZ |13 |1939 |Fixed | | | | |
+|[Sim Racing Syndicate by NCR](https://members.iracing.com/membersite/member/LeagueView.do?league=11356){:target="_blank"} |Sim Racing Syndicate GT4 Series \- S2 |Australia-NZ |13 |1939 |Fixed |Sandown International Motor Raceway |Sun, April 27 06:30AM EDT |Sun, April 27 11:30AM BST |Sun, April 27 08:30PM AEST |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |PATCO 2025 Season 2 |North America |12 |2090 |Both | | | | |
 |[Thursday International Tin Top Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12351){:target="_blank"} |Thursday International Tin Top Series \- The B Cup |Europe |10 |1578 |Open |Circuit de Spa-Francorchamps |Thu, April 24 03:00PM EDT |Thu, April 24 08:00PM BST |Fri, April 25 05:00AM AEST |
 |[HPR SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10208){:target="_blank"} |GT4 |North America |10 |1899 |Open | | | | |
@@ -99,8 +98,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[SCHERER eSPORT GT4 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10804){:target="_blank"} |SCHERER eSPORT GT4 Series Season IV |Europe |43 |3084 |Fixed | | | | |
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------|--------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
+|[SCHERER eSPORT GT4 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10804){:target="_blank"} |SCHERER eSPORT GT4 Series Season IV |Europe |43 |3084 |Fixed |Brands Hatch Circuit |Sun, April 27 01:00PM EDT |Sun, April 27 06:00PM BST |Mon, April 28 03:00AM AEST |
 
 ### Mazda MX-5 Cup
 
@@ -182,7 +181,7 @@
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S11 Americas Porsche Cup Challenge |North America |62 |2213 |Both | | | | |
 |[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 12 |Europe |58 |4123 | | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S11 Euro/Global Porsche Cup Challenge |Europe |55 |2880 |Both | | | | |
-|[GTChampions](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |Luke Manske Racing Porsche Cup |North America |54 |2170 |Both |Circuit de Spa-Francorchamps |Sat, April 19 11:10AM EDT |Sat, April 19 04:10PM BST |Sun, April 20 01:10AM AEST |
+|[GTChampions](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |Luke Manske Racing Porsche Cup |North America |55 |2186 |Both | | | | |
 |[PESCP \| Sezon 5 \- Wyścig Społeczności](https://members.iracing.com/membersite/member/LeagueView.do?league=12166){:target="_blank"} |Sezon 5 |Europe |52 |2879 | | | | | |
 |[Racing League Romania](https://members.iracing.com/membersite/member/LeagueView.do?league=350){:target="_blank"} |RLR Sezonul 7 \- Pomana Porcului de Cupă |Europe |50 |2602 | | | | | |
 |[GSRC\.inc Bowens Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2025B Porsche Cup \- Bowens |Australia-NZ |50 |2624 | |Road Atlanta |Thu, April 24 05:38AM EDT |Thu, April 24 10:38AM BST |Thu, April 24 07:38PM AEST |
@@ -193,10 +192,10 @@
 |[Porsche Cup by Simwear\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=11264){:target="_blank"} |Porsche Cup by Simwear\.eu \- Season 2 |Europe |42 |3518 | |Hockenheimring Baden-Württemberg |Wed, April 23 02:00PM EDT |Wed, April 23 07:00PM BST |Thu, April 24 04:00AM AEST |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S12 Euro/Global Porsche Cup Challenge |Europe |41 |3066 |Both |Oulton Park Circuit |Sun, April 20 02:00PM EDT |Sun, April 20 07:00PM BST |Mon, April 21 04:00AM AEST |
 |[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |2025 B\-Finale Sportsbil NM |Europe |37 |2160 | | | | | |
-|[Danny Lee Porsche Cup by GT Omega @ Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |Danny Lee Porsche Cup Season 1 |Europe |36 |2462 | | | | | |
+|[Danny Lee Porsche Cup by GT Omega @ Evolution Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |Danny Lee Porsche Cup Season 1 |Europe |36 |2462 | |Road Atlanta |Sun, April 27 02:30PM EDT |Sun, April 27 07:30PM BST |Mon, April 28 04:30AM AEST |
 |[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |2025 iRTES Porsche Cup support series |North America |33 |2303 |Both | | | | |
 |[NMK Esport Asfalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10080){:target="_blank"} |2025 A\-Finale Sportsbil NM |Europe |31 |4388 | | | | | |
-|[Porsche Esports Carrera Cup Great Britain](https://members.iracing.com/membersite/member/LeagueView.do?league=6219){:target="_blank"} |Season 5 |Europe |31 |5229 | |Brands Hatch Circuit |Sat, April 19 01:00PM EDT |Sat, April 19 06:00PM BST |Sun, April 20 03:00AM AEST |
+|[Porsche Esports Carrera Cup Great Britain](https://members.iracing.com/membersite/member/LeagueView.do?league=6219){:target="_blank"} |Season 5 |Europe |31 |5229 | |Brands Hatch Circuit |Sun, April 20 08:00AM EDT |Sun, April 20 01:00PM BST |Sun, April 20 10:00PM AEST |
 |[Porsche TAG Heuer Esports Supercup](https://members.iracing.com/membersite/member/LeagueView.do?league=6004){:target="_blank"} |2025 Porsche Esports Supercup |Europe |30 |9689 | | | | | |
 |[PESCP \| Sezon 5 \- Mistrzostwa](https://members.iracing.com/membersite/member/LeagueView.do?league=12165){:target="_blank"} |Sezon 5 |Europe |24 |6411 | | | | | |
 |[Billy Oirish Racing Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12187){:target="_blank"} |Billy Oirish Racing: Porsche Cup Season 1 |Europe |19 |1658 | |Knockhill Racing Circuit |Sun, April 20 04:00PM EDT |Sun, April 20 09:00PM BST |Mon, April 21 06:00AM AEST |
@@ -233,8 +232,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
-|[Renault Clio League](https://members.iracing.com/membersite/member/LeagueView.do?league=11911){:target="_blank"} |THE FIRST SEASON |Europe |56 |2876 | |WeatherTech Raceway at Laguna Seca |Sat, April 19 01:30PM EDT |Sat, April 19 06:30PM BST |Sun, April 20 03:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Renault Clio League](https://members.iracing.com/membersite/member/LeagueView.do?league=11911){:target="_blank"} |THE FIRST SEASON |Europe |56 |2896 | | | | | |
 |[E\-Sports Clio Cup Belgium 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=9521){:target="_blank"} |CLIO CUP 2025 |Europe |37 |2541 | | | | | |
 |[ROOKIES CUP / SIMRACER LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9876){:target="_blank"} |Rookies Cup 2025 |North America |37 |1574 | | | | | |
 |[ROOKIES CUP / SIMRACER LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9876){:target="_blank"} |Prácticas libres |North America |31 |1674 | | | | | |
@@ -293,9 +292,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[Toyota Gazoo Racing North America GR Cup eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=3607){:target="_blank"} |2025 Toyota Gazoo Racing North America GR Cup Esports League Season |North America |39 |3841 |Fixed |Circuit of the Americas |Sat, April 19 01:00PM EDT |Sat, April 19 06:00PM BST |Sun, April 20 03:00AM AEST |
+|[Toyota Gazoo Racing North America GR Cup eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=3607){:target="_blank"} |2025 Toyota Gazoo Racing North America GR Cup Esports League Season |North America |46 |4062 |Fixed | | | | |
 |[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2025/2 |South America |38 |2601 | | | | | |
-|[TANSO GR86 CHALLENGE CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=10654){:target="_blank"} |TANSO GR86 CHALLENGE CUP |North America |38 |1940 | | | | | |
+|[TANSO GR86 CHALLENGE CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=10654){:target="_blank"} |TANSO GR86 CHALLENGE CUP |North America |38 |1940 | |Oulton Park Circuit |Sun, April 27 03:00PM EDT |Sun, April 27 08:00PM BST |Mon, April 28 05:00AM AEST |
 |[Mid\-Atlantic 86 Club iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8721){:target="_blank"} |Season 9 |North America |36 |1616 | | | | | |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Vive Toyota GR86 Cup \(2025\) |Australia-NZ |35 |1672 |Both | | | | |
 |[86 Challenge Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12005){:target="_blank"} |GR Cup Season 1 |North America |35 |1604 |Open |Cadwell Park Circuit |Mon, April 21 10:00PM EDT |Tue, April 22 03:00AM BST |Tue, April 22 12:00PM AEST |
