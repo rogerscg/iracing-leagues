@@ -33,6 +33,7 @@
 |------------------------------------------------------------------------------------------------------------------|----------------------|-----|-------------------------------|-------------------------|-------------------------|--------------------------|
 |[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |ABP Trucks Spring 2025 | |Michigan International Speedway |Mon, April 21 09:00PM EDT |Tue, April 22 02:00AM BST |Tue, April 22 11:00AM AEST |
 |[Hoosier Daddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12454){:target="_blank"} |Season 1 | |Talladega Superspeedway |Tue, April 22 07:30PM EDT |Wed, April 23 12:30AM BST |Wed, April 23 09:30AM AEST |
+|[Truck Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11858){:target="_blank"} |Trucks | |Rockingham Speedway |Mon, April 21 07:00PM EDT |Tue, April 22 12:00AM BST |Tue, April 22 09:00AM AEST |
 
 ### Silverado
 
@@ -70,6 +71,14 @@
 |--------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[simHUB F4 League, April\-May](https://members.iracing.com/membersite/member/LeagueView.do?league=12441){:target="_blank"} |simHUB Season 7 Euro Tour | |Circuit de Barcelona Catalunya |Tue, April 22 07:30PM EDT |Wed, April 23 12:30AM BST |Wed, April 23 09:30AM AEST |
 
+### Super Formula SF23
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------|-------------------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
+|[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.2 RACE2 | |Suzuka International Racing Course |Mon, April 28 10:21PM EDT |Tue, April 29 03:21AM BST |Tue, April 29 12:21PM AEST |
+
 # Sports Car
 
 ### Hosted All Cars Class
@@ -77,7 +86,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
+|[Xtreme Motorsports Ricmotech Touring Car Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4438){:target="_blank"} |Ricmotech TCC Season 25 |Open |Willow Springs International Raceway |Mon, April 28 05:35PM EDT |Mon, April 28 10:35PM BST |Tue, April 29 07:35AM AEST |
 |[OZICAR Bathurst 6 Hour](https://members.iracing.com/membersite/member/LeagueView.do?league=8371){:target="_blank"} |2025 | |Mount Panorama Circuit |Wed, April 23 04:00AM EDT |Wed, April 23 09:00AM BST |Wed, April 23 06:00PM AEST |
 
 ### Porsche 911 GT3 Cup (992)
@@ -98,13 +108,13 @@
 |-------------------------------------------------------------------------------------------------------|-------------------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
 |[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |Fixed |WeatherTech Raceway at Laguna Seca |Fri, April 25 03:05PM EDT |Fri, April 25 08:05PM BST |Sat, April 26 05:05AM AEST |
 
-### Spec Racer Ford
+### Radical SR10
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|---------------------|-----|-------------------|-------------------------|-------------------------|--------------------------|
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Sunday Night Heats S2 | |Circuito de Navarra |Sun, April 20 05:30AM EDT |Sun, April 20 10:30AM BST |Sun, April 20 07:30PM AEST |
+|---------------------------------------------------------------------------------------------------------------------|----------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |Radical Challenge 2025 | |Sebring International Raceway |Sun, April 27 10:00AM EDT |Sun, April 27 03:00PM BST |Mon, April 28 12:00AM AEST |
 
 # Dirt Oval
 
@@ -140,6 +150,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|-------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
+|[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.2 総合予選 | |Silverstone Circuit |Mon, April 28 11:30PM EDT |Tue, April 29 04:30AM BST |Tue, April 29 01:30PM AEST |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Endurance Season 2 \- GT3 |Both |Autodromo Internazionale Enzo e Dino Ferrari |Sun, April 27 03:00PM EDT |Sun, April 27 08:00PM BST |Mon, April 28 05:00AM AEST |
 
 ### Hosted All Cars Class
