@@ -17,7 +17,7 @@
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1 Academy |Europe |51 |1673 |Both | | | | |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2025 Spring Season |North America |51 |2270 |Both | | | | |
 |[FNR BMW M2 CSR](https://members.iracing.com/membersite/member/LeagueView.do?league=11379){:target="_blank"} |FNR BMW M2 CUP |Europe |49 |2014 | | | | | |
-|[Racing League Romania](https://members.iracing.com/membersite/member/LeagueView.do?league=350){:target="_blank"} |RLR Sezonul 7 \- Provocarea BMW M2 CSR |Europe |45 |2316 | |WeatherTech Raceway at Laguna Seca |Mon, April 21 05:00AM EDT |Mon, April 21 10:00AM BST |Mon, April 21 07:00PM AEST |
+|[Racing League Romania](https://members.iracing.com/membersite/member/LeagueView.do?league=350){:target="_blank"} |RLR Sezonul 7 \- Provocarea BMW M2 CSR |Europe |46 |2316 | |WeatherTech Raceway at Laguna Seca |Tue, April 22 12:00PM EDT |Tue, April 22 05:00PM BST |Wed, April 23 02:00AM AEST |
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |Coupe BMW M2 CS |North America |44 |1671 | | | | | |
 |[LIGA FRS \- MAZDA MX\-5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} |FRS M2 CUP \- COPA VERÃO 25 |South America |41 |2210 | | | | | |
 |[BRSCC Winter eSports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9071){:target="_blank"} |2025 BRSCC Winter Series |Europe |40 |2240 | | | | | |
@@ -92,13 +92,13 @@
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025B V8SC Series \- Trophi\.AI |Australia-NZ |45 |2234 | |Watkins Glen International |Wed, April 23 05:25AM EDT |Wed, April 23 10:25AM BST |Wed, April 23 07:25PM AEST |
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 1 |Australia-NZ |40 |1815 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Supercars Gen  3 Season 1 |Australia-NZ |37 |1195 | | | | | |
+|[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Supercars Championship S1 \(2025\) |Australia-NZ |32 |1919 |Both |Barber Motorsports Park |Sun, April 27 06:00AM EDT |Sun, April 27 11:00AM BST |Sun, April 27 08:00PM AEST |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Super Cars Gen 3 Season 2 |Australia-NZ |32 |1250 | | | | | |
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 3 |Australia-NZ |29 |2021 |Open | | | | |
 |[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |Southern Cross Sim Racing Season 1 |Australia-NZ |28 |1534 | | | | | |
 |[VRR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6057){:target="_blank"} |Marathon GT World Tour Season 1 |North America |28 |1874 |Fixed | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday Nights Gen 3 Season 1 |Australia-NZ |25 |1158 | | | | | |
 |[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |Australia-NZ |23 |1630 |Both | | | | |
-|[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Supercars Championship S1 \(2025\) |Australia-NZ |21 |1990 |Both |Donington Park Racing Circuit |Mon, April 21 06:00AM EDT |Mon, April 21 11:00AM BST |Mon, April 21 08:00PM AEST |
 |[SMGR V8 SUPER CAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10795){:target="_blank"} |Smokey Mountain V8 Supercar Series S3 |North America |18 |2288 | | | | | |
 |[420 Oz SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |V8 Supercars Season 3 |Australia-NZ |18 |1852 |Both | | | | |
 |[Nitro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5604){:target="_blank"} |Nitro V8 Supercar Championship \- 2025 |North America |17 |2098 | | | | | |

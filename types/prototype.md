@@ -8,11 +8,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
 |[Beat the PRO Challenge presented by AVL RACETECH](https://members.iracing.com/membersite/member/LeagueView.do?league=9055){:target="_blank"} |Beat the PRO Challenge 2025 |Europe |50 |3158 | | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |LMP2 Series Season 1 |North America |20 |1958 |Fixed | | | | |
-|[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |Australia-NZ |17 |3114 |Fixed | | | | |
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 Full Season |North America |16 |1695 | |Watkins Glen International |Mon, April 21 09:15PM EDT |Tue, April 22 02:15AM BST |Tue, April 22 11:15AM AEST |
+|[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |Australia-NZ |17 |3114 |Fixed |Autodromo Internazionale Enzo e Dino Ferrari |Tue, April 22 05:58AM EDT |Tue, April 22 10:58AM BST |Tue, April 22 07:58PM AEST |
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 Full Season |North America |16 |1690 | |Autodromo Nazionale Monza |Mon, April 28 09:15PM EDT |Tue, April 29 02:15AM BST |Tue, April 29 11:15AM AEST |
 |[BitePoint Racing\-\-LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |Pre\-season |North America |13 |1322 |Open | | | | |
 
 ### GTP
@@ -41,9 +41,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |Europe |46 |3615 | |Autodromo Internazionale Enzo e Dino Ferrari |Mon, April 21 01:00PM EDT |Mon, April 21 06:00PM BST |Tue, April 22 03:00AM AEST |
-|[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |CLN RACING LEAGUE LMP2/GTP |North America |32 |1947 |Fixed | | | | |
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |Europe |46 |3637 | |Watkins Glen International |Sun, April 27 01:00PM EDT |Sun, April 27 06:00PM BST |Mon, April 28 03:00AM AEST |
+|[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |CLN RACING LEAGUE LMP2/GTP |North America |34 |1987 |Fixed | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PROTOTYPE 2025\.1 |South America |17 |1553 |Both | | | | |
 
 ### Ligier JS P320
@@ -90,7 +90,7 @@
 |---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B Mountain Men 200 Series |Australia-NZ |38 |2204 |Both | | | | |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |28 |1396 |Fixed | | | | |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |Europe |27 |2482 | |Snetterton Circuit |Mon, April 21 03:00PM EDT |Mon, April 21 08:00PM BST |Tue, April 22 05:00AM AEST |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |Europe |27 |2504 | |Road Atlanta |Mon, April 28 03:00PM EDT |Mon, April 28 08:00PM BST |Tue, April 29 05:00AM AEST |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |SR8 \- WCR Season 12 |North America |26 |2246 |Open |Nürburgring Combined |Fri, March 07 09:20PM EST |Sat, March 08 02:20AM GMT |Sat, March 08 01:20PM AEDT |
 |[Half Fast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10971){:target="_blank"} |HFRL \- 2025 Q1 \- Tuesday night \- Radical SR8 |North America |22 |1073 |Open |Charlotte Motor Speedway |Tue, January 21 10:00PM EST |Wed, January 22 03:00AM GMT |Wed, January 22 02:00PM AEDT |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Preseason |North America |21 |2090 |Fixed | | | | |

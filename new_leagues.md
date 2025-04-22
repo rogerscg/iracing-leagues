@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[DCC \- Digitaler Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12479){:target="_blank"} | |Markencup auf Basis Porsche 911 \(992\) GT3 Cup |
-|[PG League](https://members.iracing.com/membersite/member/LeagueView.do?league=12480){:target="_blank"} | | |
 |[Area 51 Friday Night Truck SS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12481){:target="_blank"} |[Discord](https://discord.gg/ctS7c5WQkY){:target="_blank"} |Presented by Wagoner's Welding |
 |[Aðalbón Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12488){:target="_blank"} | |Hreinlega Hraðari |
 |[Coast to Coast Simsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12486){:target="_blank"} | |House Driver Bash |
@@ -64,4 +62,9 @@
 |[Fd50K Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12539){:target="_blank"} | | |
 |[Fly Global Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12540){:target="_blank"} | | |
 |[WNY Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12541){:target="_blank"} | |This is a group of local WNY sim racers\. |
+|[Mini Dirty Dollar](https://members.iracing.com/membersite/member/LeagueView.do?league=12545){:target="_blank"} | |Dirty Dollar Mini Series\. |
+|[MML GT MASTERS](https://members.iracing.com/membersite/member/LeagueView.do?league=12542){:target="_blank"} | |La MML GT Masters es un campeonato competitivo de GT3 dentro de la plataforma iRacing, donde los mejores pilotos se enfrentan en circuitos míticos del mundo del motorsport\. Un formato profesional con: ✔️ Retransmisiones en directo ✔️ Formato clasificatorio \+ carrera ✔️ Cobertura audiovisual de cada ronda ✔️ Comunidad activa y apasionada por el simracing Cada ronda se disputa en condiciones realistas, con coches GT3, y un calendario cuidadosamente diseñado para ofrecer emoción, estrategia y espectáculo puro\. |
+|[Rowdy](https://members.iracing.com/membersite/member/LeagueView.do?league=12544){:target="_blank"} | | |
+|[SIMRACING\-SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12546){:target="_blank"} | | |
+|[GrandPooBear's iRacing Duos Challenge 2 on Twitch Rivals](https://members.iracing.com/membersite/member/LeagueView.do?league=12543){:target="_blank"} | | |
 
