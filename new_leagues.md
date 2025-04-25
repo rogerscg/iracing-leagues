@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[eSports for eYouth](https://members.iracing.com/membersite/member/LeagueView.do?league=12492){:target="_blank"} | |Testing |
-|[esports for eYouth](https://members.iracing.com/membersite/member/LeagueView.do?league=12493){:target="_blank"} | |2025 |
-|[Falco Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=12496){:target="_blank"} | |Road Course and Oval Racing\. We often use AI Cars to fill out the field\. We will often run with Damage Disabled, NOT to enable crashing or bumping, but the enable folks to continue on in the event of a crash\.   We also use iRacing Chat, so please have a Mic hooked up\. |
-|[Khutko Community](https://members.iracing.com/membersite/member/LeagueView.do?league=12494){:target="_blank"} | | |
-|[NEC 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12495){:target="_blank"} | |Nordic Esport Championship |
-|[NUMB DIGGERS](https://members.iracing.com/membersite/member/LeagueView.do?league=12497){:target="_blank"} | |like to see homos naked? |
-|[United Sim Racing Association \(U\.S\.R\.A\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12498){:target="_blank"} | |At United Sim Racing Association \(U\.S\.R\.A\), our mission is to create a welcoming and competitive sim racing community built by racers, for racers\. We are dedicated to providing a supportive environment where beginners and intermediate drivers can sharpen their skills, embrace the thrill of racing, and push themselves to become the best versions of their driving selves\.   We are more than just a league — we’re a community that values your thoughts, feedback, and ideas to help curate an environment where both success and fun thrive side by side\. Whether you're here to improve, compete, or simply connect, your voice matters, and your journey is part of what drives us forward\.   Welcome to a league where fun fuels improvement, community drives success, and every racer has a voice\. |
 |[360 Non Wings](https://members.iracing.com/membersite/member/LeagueView.do?league=12499){:target="_blank"} | | |
 |[GoFAST Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12501){:target="_blank"} |[Discord](https://discord.gg/Nu7zyAWW){:target="_blank"} |Fastest league on ACC consoles comes to iRacing\! |
 |[Moondomotors](https://members.iracing.com/membersite/member/LeagueView.do?league=12502){:target="_blank"} | |Moondomist |
@@ -67,4 +60,10 @@
 |[IRWC \(future\) Ferrari Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12554){:target="_blank"} | |\. |
 |[IRWC Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12555){:target="_blank"} | |\. |
 |[Southeast Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12556){:target="_blank"} | | |
+|[gaymaas](https://members.iracing.com/membersite/member/LeagueView.do?league=12562){:target="_blank"} | | |
+|[Gearhead Grinders](https://members.iracing.com/membersite/member/LeagueView.do?league=12561){:target="_blank"} | |Your setup, your glory\. Gen6 NASCAR racing league\. Open Setups\. Wednesday nights at 7:30 EST\. |
+|[NSCRA ARCA League](https://members.iracing.com/membersite/member/LeagueView.do?league=12563){:target="_blank"} |[Discord](https://discord.gg/w4cGjGR6JG){:target="_blank"} |100% length ARCA races including an East & West Series\! |
+|[This is my test league](https://members.iracing.com/membersite/member/LeagueView.do?league=12560){:target="_blank"} | |this is just a test |
+|[Trackday iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12558){:target="_blank"} | |French speaking League with Trackday Cars \- Clio Cup / MX\-5 |
+|[K6 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12564){:target="_blank"} | | |
 
