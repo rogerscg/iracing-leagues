@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[360 Non Wings](https://members.iracing.com/membersite/member/LeagueView.do?league=12499){:target="_blank"} | | |
-|[GoFAST Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12501){:target="_blank"} |[Discord](https://discord.gg/Nu7zyAWW){:target="_blank"} |Fastest league on ACC consoles comes to iRacing\! |
-|[Moondomotors](https://members.iracing.com/membersite/member/LeagueView.do?league=12502){:target="_blank"} | |Moondomist |
-|[South Texas](https://members.iracing.com/membersite/member/LeagueView.do?league=12503){:target="_blank"} | | |
-|[O\.B\. Builders Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12500){:target="_blank"} | |NextGen Cup Series League \- Winston Cup Style |
 |[PAT GIVE ME A R2\!\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12504){:target="_blank"} | |Weekend Warriors battling to see who sucks the most |
 |[Please join for fun](https://members.iracing.com/membersite/member/LeagueView.do?league=12505){:target="_blank"} | |We like to race clean |
 |[Hooked On Driving Mid\-Atlantic](https://members.iracing.com/membersite/member/LeagueView.do?league=12506){:target="_blank"} |[Discord](https://discord.gg/9v9X4fK3Zn){:target="_blank"} |Hooked On Driving Mid\-Atlantic's official sim racing league\! Fabulous prizes, mediocre dad jokes, and a dizzying array of \(typically free\) in\-region tracks |
@@ -47,7 +42,7 @@
 |[Mini Dirty Dollar](https://members.iracing.com/membersite/member/LeagueView.do?league=12545){:target="_blank"} | |Dirty Dollar Mini Series\. |
 |[MML GT MASTERS](https://members.iracing.com/membersite/member/LeagueView.do?league=12542){:target="_blank"} | |La MML GT Masters es un campeonato competitivo de GT3 dentro de la plataforma iRacing, donde los mejores pilotos se enfrentan en circuitos míticos del mundo del motorsport\. Un formato profesional con: ✔️ Retransmisiones en directo ✔️ Formato clasificatorio \+ carrera ✔️ Cobertura audiovisual de cada ronda ✔️ Comunidad activa y apasionada por el simracing Cada ronda se disputa en condiciones realistas, con coches GT3, y un calendario cuidadosamente diseñado para ofrecer emoción, estrategia y espectáculo puro\. |
 |[Rowdy](https://members.iracing.com/membersite/member/LeagueView.do?league=12544){:target="_blank"} | | |
-|[SIMRACING\-SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12546){:target="_blank"} | |🚨 ¡ÚNETE a la liga SimRacing\-Series \(SRS\) en iRacing\! 🚨 |
+|[SIM RACING\-SERIES SRS](https://members.iracing.com/membersite/member/LeagueView.do?league=12546){:target="_blank"} | |🚨 ¡ÚNETE a la liga SimRacing\-Series \(SRS\) en iRacing\! 🚨 |
 |[GrandPooBear's iRacing Duos Challenge 2 on Twitch Rivals](https://members.iracing.com/membersite/member/LeagueView.do?league=12543){:target="_blank"} | | |
 |[Australasian Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12553){:target="_blank"} |[Discord](https://discord.gg/kCtVMxPJsF){:target="_blank"} |Australasian Formula Series is a platform where the drivers show their talents and show why they are capable in the competitive scene of Sim\-Racing of iRacing\. Featuring IRL Races and Exclusively Sim\-Racers AFS produces two different championships\. Formula 2 \(SFLight\) and Formula 4 \(IR\-04\)\. |
 |[crazy offroad](https://members.iracing.com/membersite/member/LeagueView.do?league=12547){:target="_blank"} | |crazy offroad |
@@ -64,6 +59,8 @@
 |[Gearhead Grinders](https://members.iracing.com/membersite/member/LeagueView.do?league=12561){:target="_blank"} | |Your setup, your glory\. Gen6 NASCAR racing league\. Open Setups\. Wednesday nights at 7:30 EST\. |
 |[NSCRA ARCA League](https://members.iracing.com/membersite/member/LeagueView.do?league=12563){:target="_blank"} |[Discord](https://discord.gg/w4cGjGR6JG){:target="_blank"} |100% length ARCA races including an East & West Series\! |
 |[This is my test league](https://members.iracing.com/membersite/member/LeagueView.do?league=12560){:target="_blank"} | |this is just a test |
-|[Trackday iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12558){:target="_blank"} | |French speaking League with Trackday Cars \- Clio Cup / MX\-5 |
+|[Trackday iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12558){:target="_blank"} | |Ligue Française de voitures type Trackday \- Clio Cup / MX\-5 |
 |[K6 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12564){:target="_blank"} | | |
+|[Al Sena Memorial](https://members.iracing.com/membersite/member/LeagueView.do?league=12566){:target="_blank"} | |Memorial Racs |
+|[VoiDart Racing presents: VDR Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=12565){:target="_blank"} |[Discord](https://discord.gg/38kUJU2HwW){:target="_blank"} |VDR leagues |
 
