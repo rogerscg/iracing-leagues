@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[PAT GIVE ME A R2\!\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12504){:target="_blank"} | |Weekend Warriors battling to see who sucks the most |
-|[Please join for fun](https://members.iracing.com/membersite/member/LeagueView.do?league=12505){:target="_blank"} | |We like to race clean |
 |[Hooked On Driving Mid\-Atlantic](https://members.iracing.com/membersite/member/LeagueView.do?league=12506){:target="_blank"} |[Discord](https://discord.gg/9v9X4fK3Zn){:target="_blank"} |Hooked On Driving Mid\-Atlantic's official sim racing league\! Fabulous prizes, mediocre dad jokes, and a dizzying array of \(typically free\) in\-region tracks |
 |[Bufty Racing Reloaded](https://members.iracing.com/membersite/member/LeagueView.do?league=12508){:target="_blank"} | | |
 |[Dark Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12507){:target="_blank"} | | |
@@ -63,4 +61,8 @@
 |[K6 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12564){:target="_blank"} | | |
 |[Al Sena Memorial](https://members.iracing.com/membersite/member/LeagueView.do?league=12566){:target="_blank"} | |Memorial Racs |
 |[VoiDart Racing presents: VDR Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=12565){:target="_blank"} |[Discord](https://discord.gg/38kUJU2HwW){:target="_blank"} |VDR leagues |
+|[2 engineers a pilot a bum and a teen dad](https://members.iracing.com/membersite/member/LeagueView.do?league=12569){:target="_blank"} | | |
+|[iPASS](https://members.iracing.com/membersite/member/LeagueView.do?league=12568){:target="_blank"} | |iRacing Pro All Stars Series \- Short track Touring League |
+|[JOCAL Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12567){:target="_blank"} | |JOCAL MOTORSPORTS ARCA SERIES |
+|[Lap Dawg Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12570){:target="_blank"} | | |
 
