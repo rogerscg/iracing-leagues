@@ -10,7 +10,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[SFR/BNR Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9422){:target="_blank"} |Season 1 | |Daytona International Speedway |Sat, May 03 06:30PM EDT |Sat, May 03 11:30PM BST |Sun, May 04 08:30AM AEST |
 |[ASRA Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8692){:target="_blank"} |Bauman Oil Arca Series |Open |Kansas Speedway |Thu, May 01 08:00PM EDT |Fri, May 02 01:00AM BST |Fri, May 02 10:00AM AEST |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |ACTION Racing Series Monday Madness Season 3 \- ARCA |Fixed |Atlanta Motor Speedway |Mon, April 28 07:30PM EDT |Tue, April 29 12:30AM BST |Tue, April 29 09:30AM AEST |
 |[Screaming Eagles](https://members.iracing.com/membersite/member/LeagueView.do?league=12346){:target="_blank"} |Season 1 | |Charlotte Motor Speedway |Tue, April 29 07:20PM EDT |Wed, April 30 12:20AM BST |Wed, April 30 09:20AM AEST |
@@ -20,9 +21,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[SPARK Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6346){:target="_blank"} |SPARK Truck Series S4 | |Charlotte Motor Speedway |Wed, April 30 07:30PM EDT |Thu, May 01 12:30AM BST |Thu, May 01 09:30AM AEST |
 |[Great Lakes Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Truck Series \- Season 11 |Fixed |Daytona International Speedway |Tue, April 29 06:55PM EDT |Tue, April 29 11:55PM BST |Wed, April 30 08:55AM AEST |
+|[SPEEDY TROPHIES TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9086){:target="_blank"} |SPEEDY TROPHIES SEASON 5 | |Daytona International Speedway |Tue, April 29 07:30PM EDT |Wed, April 30 12:30AM BST |Wed, April 30 09:30AM AEST |
+
+### XFINITY Series
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Xfinity Season 52 |Fixed |Texas Motor Speedway |Mon, May 05 08:00PM EDT |Tue, May 06 01:00AM BST |Tue, May 06 10:00AM AEST |
+|[Proton Racing Series \- NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10951){:target="_blank"} |PRS Summer NASCAR |Fixed |Daytona International Speedway |Mon, May 05 08:00PM EDT |Tue, May 06 01:00AM BST |Tue, May 06 10:00AM AEST |
 
 # Oval
 
@@ -33,6 +44,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|------------------------|-----|---------------------|-----------------------|-----------------------|------------------------|
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Late Model Season 52 |Fixed |Myrtle Beach Speedway |Sun, May 04 07:30PM EDT |Mon, May 05 12:30AM BST |Mon, May 05 09:30AM AEST |
+
+### Legends
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------|--------|-----|------------------------|-----------------------|-----------------------|------------------------|
+|[Monday Night Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=726){:target="_blank"} |Season 1 |Fixed |Charlotte Motor Speedway |Mon, May 05 07:00PM EDT |Tue, May 06 12:00AM BST |Tue, May 06 09:00AM AEST |
 
 ### Street Stocks
 
@@ -131,14 +150,6 @@
 |--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|--------------------------|-----------------------|-----------------------|------------------------|
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES | |Watkins Glen International |Thu, May 01 05:00PM EDT |Thu, May 01 10:00PM BST |Fri, May 02 07:00AM AEST |
 
-### Radical SR10
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|----------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |Radical Challenge 2025 | |Sebring International Raceway |Sun, April 27 10:00AM EDT |Sun, April 27 03:00PM BST |Mon, April 28 12:00AM AEST |
-
 ### Radical SR8
 
 [Back to Top](#)  
@@ -175,6 +186,14 @@
 |----------------------------------------------------------------------------------------------------------------|------------------|-----|---------------|-----------------------|-----------------------|------------------------|
 |[Summer Slam Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11747){:target="_blank"} |Summer Slam Series | |Oswego Speedway |Sat, May 03 07:00PM EDT |Sun, May 04 12:00AM BST |Sun, May 04 09:00AM AEST |
 
+### Dirt SprintCar - 305
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------|----------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[Daily Green](https://members.iracing.com/membersite/member/LeagueView.do?league=12551){:target="_blank"} |305's Season \#1 | |USA International Speedway |Tue, April 29 09:00PM EDT |Wed, April 30 02:00AM BST |Wed, April 30 11:00AM AEST |
+
 # Multi-class/Unclassified
 
 ### GT3 Class
@@ -193,9 +212,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[Campeonato Raccoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11906){:target="_blank"} |Season 2 | |Circuit de Spa-Francorchamps |Mon, May 05 08:35PM EDT |Tue, May 06 01:35AM BST |Tue, May 06 10:35AM AEST |
 |[SRW \- Moza Super Formula Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |2025 S2 Moza SFL Championship | |Portland International Raceway |Wed, April 30 04:00AM EDT |Wed, April 30 09:00AM BST |Wed, April 30 06:00PM AEST |
-|[Motor City Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12105){:target="_blank"} |Motor City Racing \- WEC Season 2 |Open |Autodromo Nazionale Monza |Sun, April 27 08:00PM EDT |Mon, April 28 01:00AM BST |Mon, April 28 10:00AM AEST |
+|[Xtreme Motorsports Ricmotech World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2648){:target="_blank"} |Ricmotech World Challenge S13 | |Fuji International Speedway |Mon, May 05 05:35PM EDT |Mon, May 05 10:35PM BST |Tue, May 06 07:35AM AEST |
 |[Fly Global Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12540){:target="_blank"} |Fly Global Tour \- Temporada \#1 | |Autodromo Nazionale Monza |Fri, May 02 08:00PM EDT |Sat, May 03 01:00AM BST |Sat, May 03 10:00AM AEST |
 |[Matt Malone Patreon League](https://members.iracing.com/membersite/member/LeagueView.do?league=12430){:target="_blank"} |Season 1 |Fixed |Okayama International Circuit |Sat, May 03 03:30PM EDT |Sat, May 03 08:30PM BST |Sun, May 04 05:30AM AEST |
+|[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) SEASON 2 2025 |Open |Barber Motorsports Park |Tue, April 29 04:00AM EDT |Tue, April 29 09:00AM BST |Tue, April 29 06:00PM AEST |
 
