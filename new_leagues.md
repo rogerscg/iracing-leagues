@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Bufty Racing Reloaded](https://members.iracing.com/membersite/member/LeagueView.do?league=12508){:target="_blank"} | | |
-|[Dark Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12507){:target="_blank"} | | |
-|[VTCR – Virtual Touring Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12509){:target="_blank"} |[Discord](https://discord.gg/TVn7HgpYPP){:target="_blank"} |British Touring Car Racing League Featuring a 10\-round calendar, live broadcasts on VTCR TV, and a dedicated support series\. Competitive sprint racing, reverse grids, stewarding, and a prize pool for top performers\. Entry: £10 for full season\. Race Day: Thursdays, 18\.30–20:00 UK |
 |[AI SCRUBBY Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12512){:target="_blank"} | | |
 |[Blacktop Arena](https://members.iracing.com/membersite/member/LeagueView.do?league=12516){:target="_blank"} | | |
 |[Firecracker 400](https://members.iracing.com/membersite/member/LeagueView.do?league=12517){:target="_blank"} |[Discord](https://discord.gg/nGfsrFzSKE){:target="_blank"} | |
@@ -70,4 +67,15 @@
 |[MID WEST MULTI SERIES RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12574){:target="_blank"} | |NEVER KNOW WHATS NEXT\. DIRT OVAL, OVAL, ROAD RACE AND FORMULA |
 |[THARRISRACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12576){:target="_blank"} | | |
 |[The Rogues Gallery](https://members.iracing.com/membersite/member/LeagueView.do?league=12573){:target="_blank"} | |Welcome to The Rogues Gallery\! |
+|[Affinity Racing TRI HARD](https://members.iracing.com/membersite/member/LeagueView.do?league=12581){:target="_blank"} | |Team League Summer Event |
+|[Crocker Racing Leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=12579){:target="_blank"} | | |
+|[kenshou](https://members.iracing.com/membersite/member/LeagueView.do?league=12578){:target="_blank"} | |no |
+|[Legacy Nascar Replay](https://members.iracing.com/membersite/member/LeagueView.do?league=12586){:target="_blank"} | |Legacy Cup/ Legacy Xfinity and Legacy Nationwide cars around Nascar tracks |
+|[NoSkillz Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=12580){:target="_blank"} |[Discord](https://discord.gg/AX5rx6dk){:target="_blank"} |Official Racing League of MrNoSkillzTV |
+|[Southern Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=12585){:target="_blank"} | | |
+|[Speed Trap Racing NASCAR series](https://members.iracing.com/membersite/member/LeagueView.do?league=12582){:target="_blank"} | |Running NASCAR races |
+|[SRR \| Solo Endurance League 2025 \- S1](https://members.iracing.com/membersite/member/LeagueView.do?league=12587){:target="_blank"} | |6 Rounds over 6 weeks\! Every Sunday @ 17h00 BST\. 90 min races\. LIVE BROADCAST BY JPBROADCASTING\. |
+|[Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12583){:target="_blank"} |[Discord](https://discord.gg/QZUkYZeDkj){:target="_blank"} |Formula 4 Community League |
+|[W\.I\.P\.L\.M\.S](https://members.iracing.com/membersite/member/LeagueView.do?league=12584){:target="_blank"} | |Western Iowa Pro Late Model Series |
+|[Turbo Wank](https://members.iracing.com/membersite/member/LeagueView.do?league=12577){:target="_blank"} | |A bunch of \*\*\* trying to race |
 
