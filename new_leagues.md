@@ -2,16 +2,10 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[AI SCRUBBY Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12512){:target="_blank"} | | |
 |[Blacktop Arena](https://members.iracing.com/membersite/member/LeagueView.do?league=12516){:target="_blank"} | | |
 |[Firecracker 400](https://members.iracing.com/membersite/member/LeagueView.do?league=12517){:target="_blank"} |[Discord](https://discord.gg/nGfsrFzSKE){:target="_blank"} | |
-|[Five Star Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12511){:target="_blank"} |[Discord](https://discord.gg/m3fE6EMA){:target="_blank"} |Welcome to the Five Star Cup Series — a competitive NASCAR league built for clean, intense racing with a professional atmosphere\. We run open setups, 75% race lengths, and bring together some of the best talent in the sim\. If you're tired of wreckfests and ready for strategy, tire management, and full\-shend finishes, you're in the right place\.hh |
-|[GT 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12510){:target="_blank"} | |GT3 \(fixed setup\) |
-|[Mob Boi Racing "Nascar Cup Series"](https://members.iracing.com/membersite/member/LeagueView.do?league=12513){:target="_blank"} | |This league will follow the cup series schedule starting in February 2026 Randomly scheduled races until then\! |
 |[PINNED](https://members.iracing.com/membersite/member/LeagueView.do?league=12518){:target="_blank"} | |Street Stocks  Open Setup \- Damage On \- No Fast Repairs \- Lucky Dog \- iRacing Cautions \- 1 GWC  2 Lap Qualify  100 Lap Race \- Comp Caution at Lap 51 |
 |[Savage Sim Racing SFL League](https://members.iracing.com/membersite/member/LeagueView.do?league=12519){:target="_blank"} |[Discord](https://discord.gg/fB4wUbqfDU){:target="_blank"} |Savage Sim Racing \- Super Formula Lights |
-|[slippery speedsters](https://members.iracing.com/membersite/member/LeagueView.do?league=12514){:target="_blank"} | |5 beer lemans start |
-|[The Bois](https://members.iracing.com/membersite/member/LeagueView.do?league=12515){:target="_blank"} | | |
 |[Admin\_Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=12520){:target="_blank"} | | |
 |[Burning Octane Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12522){:target="_blank"} |[Discord](https://discord.gg/TVKKX5tC){:target="_blank"} |Split from former league\. A great place for Asphalt and Dirt specialist\. Anyone is welcome\! Lets have some fun\! |
 |[DSM OFFICAL PRO4 ROOKIE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12526){:target="_blank"} | |Lucas PRO4 trucks\- for those just starting out and getting the hang of the PRO4 trucks\. A chill, laid back group\. Fairly selective on participants\. |
@@ -55,7 +49,7 @@
 |[This is my test league](https://members.iracing.com/membersite/member/LeagueView.do?league=12560){:target="_blank"} | |this is just a test |
 |[Trackday iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12558){:target="_blank"} | |Ligue Française de voitures type Trackday \- Clio Cup / MX\-5 |
 |[K6 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12564){:target="_blank"} | | |
-|[Al Sena Memorial](https://members.iracing.com/membersite/member/LeagueView.do?league=12566){:target="_blank"} | |Memorial Racs |
+|[Al Sena Memorial](https://members.iracing.com/membersite/member/LeagueView.do?league=12566){:target="_blank"} | |Al s Memorial Race |
 |[VoiDart Racing presents: VDR Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=12565){:target="_blank"} |[Discord](https://discord.gg/QEdpCdQdKF){:target="_blank"} |VDR leagues |
 |[2 engineers a pilot a bum and a teen dad](https://members.iracing.com/membersite/member/LeagueView.do?league=12569){:target="_blank"} | | |
 |[iPASS](https://members.iracing.com/membersite/member/LeagueView.do?league=12568){:target="_blank"} | |iRacing Pro All Stars Series \- Short track Touring League |
@@ -78,4 +72,5 @@
 |[Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12583){:target="_blank"} |[Discord](https://discord.gg/QZUkYZeDkj){:target="_blank"} |Formula 4 Community League |
 |[W\.I\.P\.L\.M\.S](https://members.iracing.com/membersite/member/LeagueView.do?league=12584){:target="_blank"} | |Western Iowa Pro Late Model Series |
 |[Turbo Wank](https://members.iracing.com/membersite/member/LeagueView.do?league=12577){:target="_blank"} | |A bunch of \*\*\* trying to race |
+|[Drunken Skunks League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12588){:target="_blank"} | |Laid back league racing |
 
