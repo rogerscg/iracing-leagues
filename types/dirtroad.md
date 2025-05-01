@@ -22,8 +22,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[AMX Dirt Slingers](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |2025 Spring Dirt Slingers |North America |27 |1924 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[Pro 2 Lite Road Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |2025 Spring Dirt Slingers |North America |27 |1924 | | | | | |
 
 ### Pro 4 Truck
 
