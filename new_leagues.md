@@ -2,10 +2,7 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Admin\_Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=12520){:target="_blank"} | | |
-|[Burning Octane Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12522){:target="_blank"} |[Discord](https://discord.gg/TVKKX5tC){:target="_blank"} |Split from former league\. A great place for Asphalt and Dirt specialist\. Anyone is welcome\! Lets have some fun\! |
 |[DSM OFFICAL PRO4 ROOKIE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12526){:target="_blank"} | |Lucas PRO4 trucks\- for those just starting out and getting the hang of the PRO4 trucks\. A chill, laid back group\. Fairly selective on participants\. |
-|[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} | |Fun League For All Racers |
 |[Novice Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12529){:target="_blank"} | | |
 |[\*\*\* \*\*\* Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12528){:target="_blank"} | |\*\*\* \*\*\* Racing |
 |[Road to Daytona](https://members.iracing.com/membersite/member/LeagueView.do?league=12523){:target="_blank"} | |fun,fast,clean racing\! |
@@ -71,4 +68,6 @@
 |[Drunken Skunks League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12588){:target="_blank"} | |Laid back league racing |
 |[Coastal Crown 75 Presented By C2CSS](https://members.iracing.com/membersite/member/LeagueView.do?league=12591){:target="_blank"} | | |
 |[Credit One Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12590){:target="_blank"} | |The Cup Series |
+|[SRC South Barrington](https://members.iracing.com/membersite/member/LeagueView.do?league=12592){:target="_blank"} | | |
+|[Talladega Knights](https://members.iracing.com/membersite/member/LeagueView.do?league=12593){:target="_blank"} | |rookie amature |
 

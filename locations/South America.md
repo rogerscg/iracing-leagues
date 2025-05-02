@@ -49,7 +49,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|----------------------------------------|-----------------------|-----------------------|------------------------|
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY SILVER |South America |36 |2147 |Both | | | | |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY SILVER |South America |28 |2191 |Both |[Legacy] Charlotte Motor Speedway - 2008 |Thu, May 01 06:00PM EDT |Thu, May 01 11:00PM BST |Fri, May 02 08:00AM AEST |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY SILVER |South America |28 |2196 |Both |Indianapolis Motor Speedway |Thu, May 08 06:00PM EDT |Thu, May 08 11:00PM BST |Fri, May 09 08:00AM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY GOLD |South America |24 |3550 |Both |[Legacy] Charlotte Motor Speedway - 2008 |Sun, May 04 06:00PM EDT |Sun, May 04 11:00PM BST |Mon, May 05 08:00AM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY GOLD |South America |22 |3309 |Both | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar IR18 2025 T1 |South America |20 |2186 |Fixed | | | | |
@@ -61,7 +61,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|--------------------------|-----------------------|-----------------------|------------------------|
 |[F1BC Formula 4](https://members.iracing.com/membersite/member/LeagueView.do?league=10124){:target="_blank"} |Formula 4 2025/2 |South America |32 |2050 | |Autódromo José Carlos Pace |Wed, May 07 07:25PM EDT |Thu, May 08 12:25AM BST |Thu, May 08 09:25AM AEST |
-|[IRB F4](https://members.iracing.com/membersite/member/LeagueView.do?league=3396){:target="_blank"} |Formula 4 Challenge |South America |14 |2959 | | | | | |
+|[IRB F4](https://members.iracing.com/membersite/member/LeagueView.do?league=3396){:target="_blank"} |Formula 4 Challenge |South America |15 |3320 | | | | | |
 
 ### Ray FF1600
 
@@ -159,8 +159,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- 25T2 |South America |54 |2320 | |Road Atlanta |Mon, May 05 05:00PM EDT |Mon, May 05 10:00PM BST |Tue, May 06 07:00AM AEST |
-|[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/2 |South America |47 |3047 | |Road Atlanta |Thu, May 01 07:10PM EDT |Fri, May 02 12:10AM BST |Fri, May 02 09:10AM AEST |
-|[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/2 |South America |47 |1734 | |Road Atlanta |Thu, May 01 05:10PM EDT |Thu, May 01 10:10PM BST |Fri, May 02 07:10AM AEST |
+|[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/2 |South America |47 |3126 | | | | | |
+|[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/2 |South America |47 |1738 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT LEAGUE 2025\.1 |South America |45 |1678 |Both | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV \- GT3 OFICIAL CUP T2 |South America |42 |1930 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT GT3 2025\.2 |South America |36 |1688 |Both |Autodromo Nazionale Monza |Sun, May 04 07:30PM EDT |Mon, May 05 12:30AM BST |Mon, May 05 09:30AM AEST |
