@@ -60,14 +60,6 @@
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Xfinity Season 52 |Fixed |Texas Motor Speedway |Mon, May 05 08:00PM EDT |Tue, May 06 01:00AM BST |Tue, May 06 10:00AM AEST |
 |[Proton Racing Series \- NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=10951){:target="_blank"} |PRS Summer NASCAR |Fixed |Daytona International Speedway |Mon, May 05 08:00PM EDT |Tue, May 06 01:00AM BST |Tue, May 06 10:00AM AEST |
 
-### [Legacy] Gen 4 Cup
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|--------------------------|-----|-----------------------|-----------------------|-----------------------|------------------------|
-|[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |TRG Gen 4 Throwback Series | |Talladega Superspeedway |Fri, May 02 09:00PM EDT |Sat, May 03 02:00AM BST |Sat, May 03 11:00AM AEST |
-
 # Oval
 
 ### Late Model Stock
@@ -112,7 +104,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
+|[Armed Forces Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11189){:target="_blank"} |Season 4 \- INDYCAR | |Circuit de Spa-Francorchamps |Sat, May 10 12:30PM EDT |Sat, May 10 05:30PM BST |Sun, May 11 02:30AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCar May 2025 Championship | |Indianapolis Motor Speedway |Sat, May 03 11:00AM EDT |Sat, May 03 04:00PM BST |Sun, May 04 01:00AM AEST |
 
 ### FIA F4
@@ -141,6 +134,14 @@
 |[P2RL Super Formula Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=11116){:target="_blank"} |Super Formula Lights S1 \(2025\) |Fixed |Autodromo Nazionale Monza |Sun, May 04 10:00AM EDT |Sun, May 04 03:00PM BST |Mon, May 05 12:00AM AEST |
 
 # Sports Car
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |Wrong Wheel Drive Maniacs |Fixed |WeatherTech Raceway at Laguna Seca |Mon, May 05 08:00PM EDT |Tue, May 06 01:00AM BST |Tue, May 06 10:00AM AEST |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -211,9 +212,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|----------------------------|-----|-------------------------|-----------------------|-----------------------|------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[La Broca Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11800){:target="_blank"} |La Broca X TRE GT3 Challenge | |Autodromo Nazionale Monza |Sun, May 04 02:30PM EDT |Sun, May 04 07:30PM BST |Mon, May 05 04:30AM AEST |
 |[MML GT MASTERS](https://members.iracing.com/membersite/member/LeagueView.do?league=12542){:target="_blank"} |GT MASTERS | |Circuito de Navarra |Sun, May 04 01:00PM EDT |Sun, May 04 06:00PM BST |Mon, May 05 03:00AM AEST |
+|[GTChampions](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |GT3 Open Season 2 |Both |WeatherTech Raceway at Laguna Seca |Sat, May 10 11:10AM EDT |Sat, May 10 04:10PM BST |Sun, May 11 01:10AM AEST |
 |[Old Glory IMSA GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=9915){:target="_blank"} |2025 Summer |Fixed |Road America |Mon, May 05 08:00PM EDT |Tue, May 06 01:00AM BST |Tue, May 06 10:00AM AEST |
 
 ### Hosted All Cars Class
@@ -223,7 +225,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
 |[Campeonato Raccoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11906){:target="_blank"} |Season 2 | |Circuit de Spa-Francorchamps |Mon, May 05 08:35PM EDT |Tue, May 06 01:35AM BST |Tue, May 06 10:35AM AEST |
-|[Fly Global Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12540){:target="_blank"} |Fly Global Tour \- Temporada \#1 | |Autodromo Nazionale Monza |Fri, May 02 08:00PM EDT |Sat, May 03 01:00AM BST |Sat, May 03 10:00AM AEST |
 |[Matt Malone Patreon League](https://members.iracing.com/membersite/member/LeagueView.do?league=12430){:target="_blank"} |Season 1 |Fixed |Okayama International Circuit |Sat, May 03 03:30PM EDT |Sat, May 03 08:30PM BST |Sun, May 04 05:30AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |I'MSAved Sunday Night Road Racing Season 4 | |Indianapolis Motor Speedway |Sun, May 04 07:00PM EDT |Mon, May 05 12:00AM BST |Mon, May 05 09:00AM AEST |
 

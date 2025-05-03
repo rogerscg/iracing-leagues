@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[DSM OFFICAL PRO4 ROOKIE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12526){:target="_blank"} | |Lucas PRO4 trucks\- for those just starting out and getting the hang of the PRO4 trucks\. A chill, laid back group\. Fairly selective on participants\. |
-|[Novice Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12529){:target="_blank"} | | |
-|[\*\*\* \*\*\* Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12528){:target="_blank"} | |\*\*\* \*\*\* Racing |
-|[Road to Daytona](https://members.iracing.com/membersite/member/LeagueView.do?league=12523){:target="_blank"} | |fun,fast,clean racing\! |
-|[SFL Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=12525){:target="_blank"} | |Community League dedicated to the Super Formula Lights |
-|[Subie Bros](https://members.iracing.com/membersite/member/LeagueView.do?league=12524){:target="_blank"} | | |
-|[TRG Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12527){:target="_blank"} | | |
 |[Freedom Flyers Jerky Boys Truck iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12535){:target="_blank"} |[Discord](https://discord.gg/XURNStqk){:target="_blank"} |jerky boys truck series\. a very fun truck league that you should join\. tell your friends too join |
 |[I2I Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12531){:target="_blank"} | | |
 |[Simfans Racing Leagues \- Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=12533){:target="_blank"} | | |
@@ -70,4 +63,12 @@
 |[Credit One Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12590){:target="_blank"} | |The Cup Series |
 |[SRC South Barrington](https://members.iracing.com/membersite/member/LeagueView.do?league=12592){:target="_blank"} | | |
 |[Talladega Knights](https://members.iracing.com/membersite/member/LeagueView.do?league=12593){:target="_blank"} | |rookie amature |
+|[CSC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12596){:target="_blank"} | |Respect & Growth |
+|[Double\-M's Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12594){:target="_blank"} |[Discord](https://discord.gg/eSVnhGeF){:target="_blank"} |Time to race those Minis\! |
+|[Frontier Truck Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12600){:target="_blank"} |[Discord](https://discord.gg/cvAj29SA){:target="_blank"} |Join the ultimate Monday night Truck league — where the excitement is high, the competition is friendly, and respect drives the game\. It’s fun, fast\-paced, and built on community\! |
+|[GMB](https://members.iracing.com/membersite/member/LeagueView.do?league=12598){:target="_blank"} | |ARCA |
+|[SGC Indy](https://members.iracing.com/membersite/member/LeagueView.do?league=12601){:target="_blank"} | |Ryan isn't circumcised\.\.\. |
+|[Slidewayz Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12595){:target="_blank"} |[Discord](https://discord.gg/Rw7BnzxmjP){:target="_blank"} |Slidewayz Racing is league full of dirt oval racing series\. Join discord for more info https://discord\.gg/Rw7BnzxmjP |
+|[EPR DTM LIGHT](https://members.iracing.com/membersite/member/LeagueView.do?league=12597){:target="_blank"} | | |
+|[表彰台](https://members.iracing.com/membersite/member/LeagueView.do?league=12599){:target="_blank"} | | |
 
