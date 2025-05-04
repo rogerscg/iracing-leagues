@@ -11,7 +11,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[SFR/BNR Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9422){:target="_blank"} |Season 1 | |Daytona International Speedway |Sat, May 03 06:30PM EDT |Sat, May 03 11:30PM BST |Sun, May 04 08:30AM AEST |
 |[SPARK 2025 ARCA National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5815){:target="_blank"} |SPARK ARCA S1 |Fixed |Daytona International Speedway |Mon, May 05 08:00PM EDT |Tue, May 06 01:00AM BST |Tue, May 06 10:00AM AEST |
 |[Xcelerate Racing League Wednesday](https://members.iracing.com/membersite/member/LeagueView.do?league=11474){:target="_blank"} |AdminBoxx Arca Series | |Auto Club Speedway |Wed, May 07 07:30PM EDT |Thu, May 08 12:30AM BST |Thu, May 08 09:30AM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP ARCA East Series Season 8 |Fixed |Five Flags Speedway |Tue, May 06 08:15PM EDT |Wed, May 07 01:15AM BST |Wed, May 07 10:15AM AEST |
@@ -88,6 +87,14 @@
 |---------------------------------------------------------------------------------------------------------------------|--------|-----|----------------|-----------------------|-----------------------|------------------------|
 |[SPARK Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11959){:target="_blank"} |Season 2 | |Langley Speedway |Sun, May 04 09:00PM EDT |Mon, May 05 02:00AM BST |Mon, May 05 11:00AM AEST |
 
+### Street Stocks
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|----------------------|-----------------------|-----------------------|------------------------|
+|[Xcelerate Racing League Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=11472){:target="_blank"} |HAVOC Racing Syndicate Street Stock Season 2 | |Bristol Motor Speedway |Thu, May 08 07:30PM EDT |Fri, May 09 12:30AM BST |Fri, May 09 09:30AM AEST |
+
 # Open-wheel
 
 ### Dallara DW12
@@ -104,9 +111,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------------------|-------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
 |[Armed Forces Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11189){:target="_blank"} |Season 4 \- INDYCAR | |Circuit de Spa-Francorchamps |Sat, May 10 12:30PM EDT |Sat, May 10 05:30PM BST |Sun, May 11 02:30AM AEST |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCar May 2025 Championship | |Indianapolis Motor Speedway |Sat, May 03 11:00AM EDT |Sat, May 03 04:00PM BST |Sun, May 04 01:00AM AEST |
 
 ### FIA F4
 
@@ -114,8 +120,15 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[Rainbow Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10704){:target="_blank"} |Rainbow Racing F4 | |Lime Rock Park |Sat, May 03 02:00PM EDT |Sat, May 03 07:00PM BST |Sun, May 04 04:00AM AEST |
 |[FormulaNXT \- Racer First Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10426){:target="_blank"} |May\-June 2025 Season |Fixed |Indianapolis Motor Speedway |Sun, May 04 08:00PM EDT |Mon, May 05 01:00AM BST |Mon, May 05 10:00AM AEST |
+
+### Formula Vee
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------|-------|-----|--------------------|-----------------------|-----------------------|------------------------|
+|[ORNL\.nl Zondag](https://members.iracing.com/membersite/member/LeagueView.do?league=6769){:target="_blank"} |Vee Cup | |Summit Point Raceway |Sun, May 11 02:00PM EDT |Sun, May 11 07:00PM BST |Mon, May 12 04:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -151,14 +164,6 @@
 |-----------------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
 |[Virtual Racing Aotearoa \- Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3670){:target="_blank"} |Porsche Carrera Cup Season 4 | |Circuit de Spa-Francorchamps |Mon, May 05 03:50AM EDT |Mon, May 05 08:50AM BST |Mon, May 05 05:50PM AEST |
 
-### Renault Clio
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|---------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
-|[Renault Clio League](https://members.iracing.com/membersite/member/LeagueView.do?league=11911){:target="_blank"} |THE MINI SEASON | |Okayama International Circuit |Sat, May 03 01:30PM EDT |Sat, May 03 06:30PM BST |Sun, May 04 03:30AM AEST |
-
 ### Touring Car
 
 [Back to Top](#)  
@@ -192,18 +197,26 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------------------------------|-----|-------------------|-----------------------|-----------------------|------------------------|
-|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Saturday Night M2 Bravarian Bash |Fixed |Circuito de Navarra |Sat, May 03 07:30PM EDT |Sun, May 04 12:30AM BST |Sun, May 04 09:30AM AEST |
+|----------------------------------------------------------------------------------------------------------|--------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
+|[LVRSCCA\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10529){:target="_blank"} |2025 LVRSCCA  BMW M2 |Open |Indianapolis Motor Speedway |Sun, May 11 09:00PM EDT |Mon, May 12 02:00AM BST |Mon, May 12 11:00AM AEST |
 
-# Dirt Oval
-
-### Dirt Late Model - Limited
+### SRX
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------------------|-----|---------------|-----------------------|-----------------------|------------------------|
-|[Summer Slam Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11747){:target="_blank"} |Summer Slam Series | |Oswego Speedway |Sat, May 03 07:00PM EDT |Sun, May 04 12:00AM BST |Sun, May 04 09:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------|---------------------|-----|----------------------|-----------------------|-----------------------|------------------------|
+|[NxtLvl Racing\.](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} |2025 SRX Championship | |Bristol Motor Speedway |Sun, May 11 06:00PM EDT |Sun, May 11 11:00PM BST |Mon, May 12 08:00AM AEST |
+
+# Dirt Road
+
+### Pro 2 Lite Truck
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|[TPL Off road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10625){:target="_blank"} |TPL Off Road |Fixed |Crandon International Raceway |Wed, May 07 09:05PM EDT |Thu, May 08 02:05AM BST |Thu, May 08 11:05AM AEST |
 
 # Multi-class/Unclassified
 
@@ -223,8 +236,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
 |[Campeonato Raccoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11906){:target="_blank"} |Season 2 | |Circuit de Spa-Francorchamps |Mon, May 05 08:35PM EDT |Tue, May 06 01:35AM BST |Tue, May 06 10:35AM AEST |
-|[Matt Malone Patreon League](https://members.iracing.com/membersite/member/LeagueView.do?league=12430){:target="_blank"} |Season 1 |Fixed |Okayama International Circuit |Sat, May 03 03:30PM EDT |Sat, May 03 08:30PM BST |Sun, May 04 05:30AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |I'MSAved Sunday Night Road Racing Season 4 | |Indianapolis Motor Speedway |Sun, May 04 07:00PM EDT |Mon, May 05 12:00AM BST |Mon, May 05 09:00AM AEST |
 

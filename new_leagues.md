@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Freedom Flyers Jerky Boys Truck iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12535){:target="_blank"} |[Discord](https://discord.gg/XURNStqk){:target="_blank"} |jerky boys truck series\. a very fun truck league that you should join\. tell your friends too join |
-|[I2I Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12531){:target="_blank"} | | |
-|[Simfans Racing Leagues \- Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=12533){:target="_blank"} | | |
-|[TripleJ Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12534){:target="_blank"} | |Dirt Oval Racing |
-|[UER iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12530){:target="_blank"} | |Clean racing for all levels of experience\. |
-|[Xtreme Stock Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12536){:target="_blank"} |[Discord](https://discord.gg/KryfAkDN9x){:target="_blank"} |Class D and above\. |
-|[Zero Torque Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12532){:target="_blank"} |[Discord](https://discord.gg/TNgnfXhU){:target="_blank"} |ZTRL is a for\-fun developmental iRacing league, racing the NASCAR Gen 7 Series through a 15 week season\.  playoff format,win and in playoffs but must race atleast 6 races to be eligible for playoffs  65% fuel fixed setups  daytona 250 winner and playoff winner recieves a plaque\!  broadcasted races  rules are in discord so join and read em\!  thank you for being apart of the ztrl family |
 |[FD50K Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12537){:target="_blank"} | |Nascar Series |
 |[Fd50K Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12539){:target="_blank"} | | |
 |[Fly Global Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12540){:target="_blank"} | | |
@@ -69,6 +62,10 @@
 |[GMB](https://members.iracing.com/membersite/member/LeagueView.do?league=12598){:target="_blank"} | |ARCA |
 |[SGC Indy](https://members.iracing.com/membersite/member/LeagueView.do?league=12601){:target="_blank"} | |Ryan isn't circumcised\.\.\. |
 |[Slidewayz Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12595){:target="_blank"} |[Discord](https://discord.gg/Rw7BnzxmjP){:target="_blank"} |Slidewayz Racing is league full of dirt oval racing series\. Join discord for more info https://discord\.gg/Rw7BnzxmjP |
-|[EPR DTM LIGHT](https://members.iracing.com/membersite/member/LeagueView.do?league=12597){:target="_blank"} | | |
+|[EPR DTM LIGHT Season 1/2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12597){:target="_blank"} | | |
 |[表彰台](https://members.iracing.com/membersite/member/LeagueView.do?league=12599){:target="_blank"} | | |
+|[1000kms of Mosport](https://members.iracing.com/membersite/member/LeagueView.do?league=12604){:target="_blank"} | | |
+|[Aggressive Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12605){:target="_blank"} | |Aggressive driving encouraged with no hard feelings, this is not bumper cars though\! This league's purpose is to provide a place to push your limits without hurt feelings or irating/ safety rating loss\. "dirty moves" such as dive bombs are perfectly acceptable but don't be ramming people off track on purpose\. Please don't join if you want to play bumper cars or will get mad because someone messes up while being too aggressive\! We're all here to learn from each other\. |
+|[Full Throttle Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=12602){:target="_blank"} | |Sprintcar League |
+|[iBlinkers](https://members.iracing.com/membersite/member/LeagueView.do?league=12603){:target="_blank"} |[Discord](https://discord.gg/vhhSbHNj){:target="_blank"} |It's in the name\. |
 
