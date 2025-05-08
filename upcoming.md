@@ -10,9 +10,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|-------------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------------------|----------------|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[Squirrel League Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9676){:target="_blank"} |2025 \| Season 2 | |North Wilkesboro Speedway |Tue, May 13 08:00PM EDT |Wed, May 14 01:00AM BST |Wed, May 14 10:00AM AEST |
-|[Xcelerate Racing League Wednesday](https://members.iracing.com/membersite/member/LeagueView.do?league=11474){:target="_blank"} |AdminBoxx Arca Series | |Auto Club Speedway |Wed, May 07 07:30PM EDT |Thu, May 08 12:30AM BST |Thu, May 08 09:30AM AEST |
 
 ### Hosted All Cars Class
 
@@ -30,14 +29,6 @@
 |-------------------------------------------------------------------------------------------------------------|---------------------|-----|---------------|-----------------------|-----------------------|------------------------|
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Pro Cup Season 52 |Fixed |Kansas Speedway |Fri, May 09 08:00PM EDT |Sat, May 10 01:00AM BST |Sat, May 10 10:00AM AEST |
 
-### NASCAR Cup
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[Secret Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7271){:target="_blank"} |SRL Season 1 |Fixed |Daytona International Speedway |Wed, May 07 07:45PM EDT |Thu, May 08 12:45AM BST |Thu, May 08 09:45AM AEST |
-
 ### NASCAR Truck Series
 
 [Back to Top](#)  
@@ -48,7 +39,6 @@
 |[Southern Roots Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12457){:target="_blank"} |Spartan Truck Series Season 1 | |Charlotte Motor Speedway |Mon, May 12 07:30PM EDT |Tue, May 13 12:30AM BST |Tue, May 13 09:30AM AEST |
 |[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |Beef Jerky Unlimited Truck Series |Fixed |Daytona International Speedway |Wed, May 14 08:00PM EDT |Thu, May 15 01:00AM BST |Thu, May 15 10:00AM AEST |
 |[Outlaws Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4747){:target="_blank"} |Season 7 |Open |Daytona International Speedway |Wed, May 14 07:00PM EDT |Thu, May 15 12:00AM BST |Thu, May 15 09:00AM AEST |
-|[Crocker Racing Leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=12579){:target="_blank"} |Trucks | |Daytona International Speedway |Wed, May 07 07:45PM EDT |Thu, May 08 12:45AM BST |Thu, May 08 09:45AM AEST |
 |[Friday Night Lights w/ VRX, Papa G, and Mama T](https://members.iracing.com/membersite/member/LeagueView.do?league=12063){:target="_blank"} |Friday Night Lights |Fixed |Daytona International Speedway |Fri, May 09 07:45PM EDT |Sat, May 10 12:45AM BST |Sat, May 10 09:45AM AEST |
 
 ### Whelen Modified
@@ -78,6 +68,14 @@
 |---------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |HMS Late Model Stock Showcase Series |Fixed |North Wilkesboro Speedway |Thu, May 08 07:00PM EDT |Fri, May 09 12:00AM BST |Fri, May 09 09:00AM AEST |
 
+### Legends
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------|-----------------------|-----------------------|------------------------|
+|[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 5 |Fixed |Lanier National Speedway |Thu, May 08 08:00PM EDT |Fri, May 09 01:00AM BST |Fri, May 09 10:00AM AEST |
+
 ### Street Stocks
 
 [Back to Top](#)  
@@ -87,6 +85,14 @@
 |[Xcelerate Racing League Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=11472){:target="_blank"} |HAVOC Racing Syndicate Street Stock Season 2 | |Bristol Motor Speedway |Thu, May 08 07:30PM EDT |Fri, May 09 12:30AM BST |Fri, May 09 09:30AM AEST |
 
 # Open-wheel
+
+### Dallara DW12
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------|-------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
+|[ASML Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12188){:target="_blank"} |Season 2 2025 | |Indianapolis Motor Speedway |Thu, May 15 08:30PM EDT |Fri, May 16 01:30AM BST |Fri, May 16 10:30AM AEST |
 
 ### Dallara IR18
 
@@ -127,8 +133,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-------------------|-----------------------|-----------------------|------------------------|
-|[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |Hommage BTCC \- TCR en Angleterre | |Oulton Park Circuit |Wed, May 07 07:15PM EDT |Thu, May 08 12:15AM BST |Thu, May 08 09:15AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------|-----|--------------------|-----------------------|-----------------------|------------------------|
+|[VTCR – Virtual Touring Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12509){:target="_blank"} |VTCR Season 1 | |Brands Hatch Circuit |Thu, May 15 02:00PM EDT |Thu, May 15 07:00PM BST |Fri, May 16 04:00AM AEST |
 
 ### [Legacy] Porsche 911 GT3 Cup
 
@@ -148,6 +154,14 @@
 |----------------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[True North Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10051){:target="_blank"} |TNR LMP2 Season 1 | |Charlotte Motor Speedway |Fri, May 09 08:30PM EDT |Sat, May 10 01:30AM BST |Sat, May 10 10:30AM AEST |
 
+### Ligier JS P320
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------|--------------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC LMP3 \- Season 3 |Open |Okayama International Circuit |Thu, May 08 07:00PM EDT |Fri, May 09 12:00AM BST |Fri, May 09 09:00AM AEST |
+
 # Road
 
 ### BMW M2 CS Racing
@@ -166,15 +180,15 @@
 |-------------------------------------------------------------------------------------------------------------|---------------------|-----|----------------------|-----------------------|-----------------------|------------------------|
 |[NxtLvl Racing\.](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} |2025 SRX Championship | |Bristol Motor Speedway |Sun, May 11 06:00PM EDT |Sun, May 11 11:00PM BST |Mon, May 12 08:00AM AEST |
 
-### Supercars Gen 3
+# Dirt Oval
+
+### Dirt Late Model - Limited
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|--------------------|-----------------------|-----------------------|------------------------|
-|[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025B V8SC Development Series \- Trophi\.AI | |Winton Motor Raceway |Wed, May 07 04:50AM EDT |Wed, May 07 09:50AM BST |Wed, May 07 06:50PM AEST |
-
-# Dirt Oval
+|-------------------------------------------------------------------------------------------------------------|----------|-----|------------------|-----------------------|-----------------------|------------------------|
+|[Super Dirt Week](https://members.iracing.com/membersite/member/LeagueView.do?league=12491){:target="_blank"} |llm FunRun | |Weedsport Speedway |Thu, May 08 01:30PM EDT |Thu, May 08 06:30PM BST |Fri, May 09 03:30AM AEST |
 
 ### Dirt Late Model - Pro
 
@@ -200,16 +214,6 @@
 |------------------------------------------------------------------------------------------------------------|------------|-----|---------------------|-----------------------|-----------------------|------------------------|
 |[titans of dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=11975){:target="_blank"} |ump modified | |Volusia Speedway Park |Wed, May 14 09:15PM EDT |Thu, May 15 02:15AM BST |Thu, May 15 11:15AM AEST |
 
-# Dirt Road
-
-### Pro 2 Lite Truck
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
-|[TPL Off road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10625){:target="_blank"} |TPL Off Road |Fixed |Crandon International Raceway |Wed, May 07 09:05PM EDT |Thu, May 08 02:05AM BST |Thu, May 08 11:05AM AEST |
-
 # Multi-class/Unclassified
 
 ### GT3 Class
@@ -225,8 +229,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |MPRL Chaotic summer | |Watkins Glen International |Wed, May 14 09:00PM EDT |Thu, May 15 02:00AM BST |Thu, May 15 11:00AM AEST |
 |[Funky Bunch Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12312){:target="_blank"} |Season 2: GT3 era | |Circuit de Spa-Francorchamps |Mon, May 12 08:00PM EDT |Tue, May 13 01:00AM BST |Tue, May 13 10:00AM AEST |
-|[\(NSR\) Nortex Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=499){:target="_blank"} |Mixed Season \#4 |Fixed |Atlanta Motor Speedway |Wed, May 07 09:00PM EDT |Thu, May 08 02:00AM BST |Thu, May 08 11:00AM AEST |
+|[iBlinkers](https://members.iracing.com/membersite/member/LeagueView.do?league=12603){:target="_blank"} |The iBlinkers HIGH Performance Challenge |Open |Lime Rock Park |Sat, May 10 06:15PM EDT |Sat, May 10 11:15PM BST |Sun, May 11 08:15AM AEST |
 
