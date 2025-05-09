@@ -18,8 +18,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------|-------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[Fast Action Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12487){:target="_blank"} |FARS Season 1 |Fixed |Daytona International Speedway |Mon, May 12 07:30PM EDT |Tue, May 13 12:30AM BST |Tue, May 13 09:30AM AEST |
+|[\#0 Midwest\-Motorsports\.com \- Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8878){:target="_blank"} |Season 9 |Fixed |Michigan International Speedway |Fri, May 16 08:30PM EDT |Sat, May 17 01:30AM BST |Sat, May 17 10:30AM AEST |
 
 ### NASCAR 2022 NextGen
 
@@ -56,33 +57,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |IFF Urlengo Nascar Series |Fixed |Charlotte Motor Speedway |Tue, May 13 02:30PM EDT |Tue, May 13 07:30PM BST |Wed, May 14 04:30AM AEST |
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Xfinity Season 8 |Fixed |Dover Motor Speedway |Thu, May 08 08:15PM EDT |Fri, May 09 01:15AM BST |Fri, May 09 10:15AM AEST |
-
-# Oval
-
-### Late Model Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-------------------------|-----------------------|-----------------------|------------------------|
-|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |HMS Late Model Stock Showcase Series |Fixed |North Wilkesboro Speedway |Thu, May 08 07:00PM EDT |Fri, May 09 12:00AM BST |Fri, May 09 09:00AM AEST |
-
-### Legends
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------|-----------------------|-----------------------|------------------------|
-|[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 5 |Fixed |Lanier National Speedway |Thu, May 08 08:00PM EDT |Fri, May 09 01:00AM BST |Fri, May 09 10:00AM AEST |
-
-### Street Stocks
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|----------------------|-----------------------|-----------------------|------------------------|
-|[Xcelerate Racing League Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=11472){:target="_blank"} |HAVOC Racing Syndicate Street Stock Season 2 | |Bristol Motor Speedway |Thu, May 08 07:30PM EDT |Fri, May 09 12:30AM BST |Fri, May 09 09:30AM AEST |
 
 # Open-wheel
 
@@ -118,15 +92,15 @@
 |------------------------------------------------------------------------------------------------------------|-------|-----|--------------------|-----------------------|-----------------------|------------------------|
 |[ORNL\.nl Zondag](https://members.iracing.com/membersite/member/LeagueView.do?league=6769){:target="_blank"} |Vee Cup | |Summit Point Raceway |Sun, May 11 02:00PM EDT |Sun, May 11 07:00PM BST |Mon, May 12 04:00AM AEST |
 
-### Hosted All Cars Class
+# Sports Car
+
+### Mazda MX-5 Cup 2016
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Open Wheelers |Fixed |Virginia International Raceway |Thu, May 08 05:00AM EDT |Thu, May 08 10:00AM BST |Thu, May 08 07:00PM AEST |
-
-# Sports Car
+|------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|[VM NEXT LEVEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12618){:target="_blank"} |Mazda Cup \- Primera Edicion | |Daytona International Speedway |Tue, May 13 08:00PM EDT |Wed, May 14 01:00AM BST |Wed, May 14 10:00AM AEST |
 
 ### Touring Car
 
@@ -154,14 +128,6 @@
 |----------------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[True North Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10051){:target="_blank"} |TNR LMP2 Season 1 | |Charlotte Motor Speedway |Fri, May 09 08:30PM EDT |Sat, May 10 01:30AM BST |Sat, May 10 10:30AM AEST |
 
-### Ligier JS P320
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|--------------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
-|[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC LMP3 \- Season 3 |Open |Okayama International Circuit |Thu, May 08 07:00PM EDT |Fri, May 09 12:00AM BST |Fri, May 09 09:00AM AEST |
-
 # Road
 
 ### BMW M2 CS Racing
@@ -181,14 +147,6 @@
 |[NxtLvl Racing\.](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} |2025 SRX Championship | |Bristol Motor Speedway |Sun, May 11 06:00PM EDT |Sun, May 11 11:00PM BST |Mon, May 12 08:00AM AEST |
 
 # Dirt Oval
-
-### Dirt Late Model - Limited
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|----------|-----|------------------|-----------------------|-----------------------|------------------------|
-|[Super Dirt Week](https://members.iracing.com/membersite/member/LeagueView.do?league=12491){:target="_blank"} |llm FunRun | |Weedsport Speedway |Thu, May 08 01:30PM EDT |Thu, May 08 06:30PM BST |Fri, May 09 03:30AM AEST |
 
 ### Dirt Late Model - Pro
 

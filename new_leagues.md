@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[gaymaas](https://members.iracing.com/membersite/member/LeagueView.do?league=12562){:target="_blank"} | | |
-|[Gearhead Grinders](https://members.iracing.com/membersite/member/LeagueView.do?league=12561){:target="_blank"} | |Your setup, your glory\. Gen6 NASCAR racing league\. Open Setups\. Wednesday nights at 7:30 EST\. |
-|[NSCRA ARCA League](https://members.iracing.com/membersite/member/LeagueView.do?league=12563){:target="_blank"} |[Discord](https://discord.gg/w4cGjGR6JG){:target="_blank"} |100% length ARCA races including an East & West Series\! |
-|[This is my test league](https://members.iracing.com/membersite/member/LeagueView.do?league=12560){:target="_blank"} | |this is just a test |
-|[Trackday iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12558){:target="_blank"} | |Ligue Française de voitures type Trackday \- Clio Cup |
-|[K6 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12564){:target="_blank"} | | |
 |[Al Sena Memorial](https://members.iracing.com/membersite/member/LeagueView.do?league=12566){:target="_blank"} | |Al s Memorial Race |
 |[VoiDart Racing presents: VDR Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=12565){:target="_blank"} |[Discord](https://discord.gg/QEdpCdQdKF){:target="_blank"} |VDR leagues |
 |[2 engineers a pilot a bum and a teen dad](https://members.iracing.com/membersite/member/LeagueView.do?league=12569){:target="_blank"} | | |
@@ -65,4 +59,7 @@
 |[MDRL \(Midwest Dirt Racing League\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12622){:target="_blank"} | | |
 |[Random Race](https://members.iracing.com/membersite/member/LeagueView.do?league=12620){:target="_blank"} |[Discord](https://discord.com/invite/exUbR2T8Mv){:target="_blank"} |Combinaciones Aleatorias, Diversión Asegurada :\) |
 |[Tonight We Race\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12621){:target="_blank"} | | |
+|[ALIEN SQUAD RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12626){:target="_blank"} | |Official iRacing League of THE GREEN ALIEN SQUAD |
+|[RRL Rogers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12625){:target="_blank"} | |All Around fun racing with a little chaos\. |
+|[Hometeam](https://members.iracing.com/membersite/member/LeagueView.do?league=12624){:target="_blank"} | |rookie dirt racing |
 

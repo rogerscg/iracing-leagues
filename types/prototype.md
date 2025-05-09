@@ -23,10 +23,10 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A LeMans Hypercar Cup \- Spreyton Ciders |Australia-NZ |67 |2611 |Both | | | | |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S02 \- GTP |Europe |28 |2636 |Both |Fuji International Speedway |Thu, May 15 02:30PM EDT |Thu, May 15 07:30PM BST |Fri, May 16 04:30AM AEST |
+|[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |Europe |23 |2059 |Fixed |Daytona International Speedway |Fri, May 09 03:05PM EDT |Fri, May 09 08:05PM BST |Sat, May 10 05:05AM AEST |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |23 |2208 |Both | | | | |
-|[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |Europe |22 |2059 |Fixed |Daytona International Speedway |Thu, May 08 04:00PM EDT |Thu, May 08 09:00PM BST |Fri, May 09 06:00AM AEST |
-|[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Season 1 GTP  |North America |21 |1122 |Both |Watkins Glen International |Thu, May 08 08:00PM EDT |Fri, May 09 01:00AM BST |Fri, May 09 10:00AM AEST |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |North America |16 |1363 |Both |WeatherTech Raceway at Laguna Seca |Thu, May 08 07:30PM EDT |Fri, May 09 12:30AM BST |Fri, May 09 09:30AM AEST |
+|[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Season 1 GTP  |North America |23 |1137 |Both |Road America |Thu, May 15 08:00PM EDT |Fri, May 16 01:00AM BST |Fri, May 16 10:00AM AEST |
+|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |North America |17 |1356 |Both |Suzuka International Racing Course |Thu, May 15 07:30PM EDT |Fri, May 16 12:30AM BST |Fri, May 16 09:30AM AEST |
 |[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |Australia-NZ |13 |1359 |Both | | | | |
 
 ### HPD ARX-01c
@@ -46,7 +46,7 @@
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |Europe |46 |3749 | | | | | |
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |CLN RACING LEAGUE LMP2/GTP |North America |34 |1987 |Fixed | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PROTOTYPE 2025\.1 |South America |17 |1553 |Both | | | | |
-|[SMOKE N TACOS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8349){:target="_blank"} |Daytona Prototype Oval |North America |11 |1186 |Both | | | | |
+|[SMOKE N TACOS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8349){:target="_blank"} |Daytona Prototype Oval |North America |11 |1152 |Both | | | | |
 
 ### Ligier JS P320
 
@@ -63,10 +63,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------------|-----------------------|-----------------------|------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |Europe |41 |3373 | |Oulton Park Circuit |Sun, May 11 02:00PM EDT |Sun, May 11 07:00PM BST |Mon, May 12 04:00AM AEST |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |North America |26 |2626 | | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 2 |Europe |18 |2776 |Open |Oulton Park Circuit |Thu, May 08 02:15PM EDT |Thu, May 08 07:15PM BST |Fri, May 09 04:15AM AEST |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 2 |Europe |20 |2768 |Open |Circuit Gilles Villeneuve |Thu, May 15 02:15PM EDT |Thu, May 15 07:15PM BST |Fri, May 16 04:15AM AEST |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S2 Sunday Radical SR10 |North America |14 |1759 |Both |Oulton Park Circuit |Sun, May 11 07:00PM EDT |Mon, May 12 12:00AM BST |Mon, May 12 09:00AM AEST |
 |[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |Radical Challenge 2025 |Europe |14 |1866 | | | | | |
 |[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} |Radical Academy Esport Series \- 2025 |North America |12 |1297 | | | | | |
@@ -98,10 +98,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S1 SRF Weekend Warriors |North America |110 |3023 |Open | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S2 |North America |71 |3058 |Open |Mount Panorama Circuit |Sun, May 11 02:40PM EDT |Sun, May 11 07:40PM BST |Mon, May 12 04:40AM AEST |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL SRF Season 1 |North America |49 |2200 |Open | | | | |
 |[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRSCCA SRF WINTER 2025 |North America |40 |1632 |Both | | | | |
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SCCA Spec Racer |Australia-NZ |15 |1465 |Fixed |Circuit de Barcelona Catalunya |Thu, May 08 05:30AM EDT |Thu, May 08 10:30AM BST |Thu, May 08 07:30PM AEST |
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SCCA Spec Racer |Australia-NZ |15 |1470 |Fixed |Circuit de Spa-Francorchamps |Thu, May 15 05:30AM EDT |Thu, May 15 10:30AM BST |Thu, May 15 07:30PM AEST |
 
