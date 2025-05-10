@@ -9,7 +9,7 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
-|[Special Stage Pro Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Pro Truck Season 1 |North America |37 |2772 | | | | | |
+|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Pro Truck Season 1 |North America |37 |2772 | | | | | |
 |[IRWC TBC](https://members.iracing.com/membersite/member/LeagueView.do?league=11201){:target="_blank"} |SRW Pro 2 Lite |Australia-NZ |23 |1532 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2025 |North America |22 |2961 |Fixed | | | | |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |pro2 |North America |21 |1378 |Open | | | | |

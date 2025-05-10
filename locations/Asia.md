@@ -8,19 +8,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|----------------|--------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------------------------------------|----------------|--------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |Season1 \(2025\) |Asia |23 |2489 |Fixed | | | | |
-|[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |練習シリーズ\(2025\) |Asia |14 |2740 |Fixed | | | | |
+|[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |練習シリーズ\(2025\) |Asia |14 |2740 |Fixed |Charlotte Motor Speedway |Sat, May 17 08:00AM EDT |Sat, May 17 01:00PM BST |Sat, May 17 10:00PM AEST |
 
 # Open-wheel
-
-### FIA F4
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-----------------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Octane Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5704){:target="_blank"} |OOR \- iRacing FIA F4 S1 2025 |Asia |20 |2117 |Both | | | | |
 
 ### Super Formula SF23
 

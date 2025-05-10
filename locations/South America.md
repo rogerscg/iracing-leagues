@@ -49,7 +49,6 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|---------------------------|-----------------------|-----------------------|------------------------|
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY SILVER |South America |29 |2146 |Both |Iowa Speedway |Thu, May 15 06:00PM EDT |Thu, May 15 11:00PM BST |Fri, May 16 08:00AM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY GOLD |South America |24 |3545 |Both |Indianapolis Motor Speedway |Sun, May 11 06:00PM EDT |Sun, May 11 11:00PM BST |Mon, May 12 08:00AM AEST |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 SECTRONIC INDY GOLD |South America |22 |3309 |Both | | | | |
 |[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |IndyCar IR18 2025 T1 |South America |20 |2186 |Fixed | | | | |
 
 ### FIA F4
@@ -152,7 +151,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- 25T2 |South America |54 |2381 | | | | | |
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/2 |South America |47 |3126 | |Sebring International Raceway |Thu, May 15 07:10PM EDT |Fri, May 16 12:10AM BST |Fri, May 16 09:10AM AEST |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/2 |South America |47 |1738 | |Sebring International Raceway |Thu, May 15 05:10PM EDT |Thu, May 15 10:10PM BST |Fri, May 16 07:10AM AEST |
@@ -163,7 +162,6 @@
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC GT3 SERIES |South America |32 |2190 |Both |Circuit des 24 Heures du Mans |Mon, May 12 06:00PM EDT |Mon, May 12 11:00PM BST |Tue, May 13 08:00AM AEST |
 |[IRB \- MoT Road to Pro 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |T2\-2025 \- MoT Road to Pro |South America |32 |2907 | | | | | |
 |[RE\-S \- RACING E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |WORKSHOP IKE RAMOS GT3 SPRINT SERIES |South America |18 |1738 | | | | | |
-|[LBAV \- Liga Brasileira de Automobilismo Virtual](https://members.iracing.com/membersite/member/LeagueView.do?league=10935){:target="_blank"} |GT3 Challenge 2025 T1 |South America |16 |1552 |Fixed | | | | |
 
 ### Hosted All Cars Class
 

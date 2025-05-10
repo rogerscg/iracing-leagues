@@ -1,16 +1,6 @@
 * TOC  
 {:toc}
 
-# Road
-
-### BMW M2 CS Racing
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|--------|-------|----|-----|-------------|--------|------|------|
-|[Black Ribbon Simulations \- BMW M2 Africa Festival](https://members.iracing.com/membersite/member/LeagueView.do?league=12320){:target="_blank"} |Africa Festival Race |Africa |22 |1860 |Both | | | | |
-
 # Multi-class/Unclassified
 
 ### Hosted All Cars Class

@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Al Sena Memorial](https://members.iracing.com/membersite/member/LeagueView.do?league=12566){:target="_blank"} | |Al s Memorial Race |
-|[VoiDart Racing presents: VDR Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=12565){:target="_blank"} |[Discord](https://discord.gg/QEdpCdQdKF){:target="_blank"} |VDR leagues |
 |[2 engineers a pilot a bum and a teen dad](https://members.iracing.com/membersite/member/LeagueView.do?league=12569){:target="_blank"} | | |
 |[iPASS](https://members.iracing.com/membersite/member/LeagueView.do?league=12568){:target="_blank"} | |iRacing Pro All Stars Series \- Short track Touring League |
 |[JOCAL Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12567){:target="_blank"} | |JOCAL MOTORSPORTS ARCA SERIES |
@@ -62,4 +60,5 @@
 |[ALIEN SQUAD RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12626){:target="_blank"} | |Official iRacing League of THE GREEN ALIEN SQUAD |
 |[RRL Rogers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12625){:target="_blank"} | |All Around fun racing with a little chaos\. |
 |[Hometeam](https://members.iracing.com/membersite/member/LeagueView.do?league=12624){:target="_blank"} | |rookie dirt racing |
+|[Algarve2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12627){:target="_blank"} | |Algarve Open Season |
 
