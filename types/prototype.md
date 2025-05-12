@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |LMP2 Series Season 1 |North America |20 |1958 |Fixed | | | | |
-|[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |Australia-NZ |19 |3198 |Fixed | | | | |
-|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |North America |18 |1426 | | | | | |
+|[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |Australia-NZ |19 |3198 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, May 13 05:58AM EDT |Tue, May 13 10:58AM BST |Tue, May 13 07:58PM AEST |
+|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |North America |18 |1426 | |Circuit des 24 Heures du Mans |Fri, May 16 05:00PM EDT |Fri, May 16 10:00PM BST |Sat, May 17 07:00AM AEST |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 Full Season |North America |16 |1682 | |Road Atlanta |Mon, May 12 09:15PM EDT |Tue, May 13 02:15AM BST |Tue, May 13 11:15AM AEST |
 |[BitePoint Racing\-\-LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |Pre\-season |North America |13 |1322 |Open | | | | |
 
@@ -24,7 +24,7 @@
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A LeMans Hypercar Cup \- Spreyton Ciders |Australia-NZ |67 |2611 |Both | | | | |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S02 \- GTP |Europe |28 |2636 |Both |Fuji International Speedway |Thu, May 15 02:30PM EDT |Thu, May 15 07:30PM BST |Fri, May 16 04:30AM AEST |
 |[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |Europe |24 |2052 |Fixed |Circuit de Spa-Francorchamps |Fri, May 16 03:05PM EDT |Fri, May 16 08:05PM BST |Sat, May 17 05:05AM AEST |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |23 |2208 |Both |Sebring International Raceway |Sun, May 11 08:00PM EDT |Mon, May 12 01:00AM BST |Mon, May 12 10:00AM AEST |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |23 |2208 |Both |Sebring International Raceway |Tue, May 13 08:00PM EDT |Wed, May 14 01:00AM BST |Wed, May 14 10:00AM AEST |
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Season 1 GTP  |North America |23 |1137 |Both |Road America |Thu, May 15 08:00PM EDT |Fri, May 16 01:00AM BST |Fri, May 16 10:00AM AEST |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |North America |17 |1356 |Both |Suzuka International Racing Course |Thu, May 15 07:30PM EDT |Fri, May 16 12:30AM BST |Fri, May 16 09:30AM AEST |
 |[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |Australia-NZ |13 |1359 |Both | | | | |
@@ -56,7 +56,7 @@
 |------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |International |19 |2274 | |WeatherTech Raceway at Laguna Seca |Mon, May 12 01:30PM EDT |Mon, May 12 06:30PM BST |Tue, May 13 03:30AM AEST |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |International |17 |1416 | |WeatherTech Raceway at Laguna Seca |Mon, May 12 12:30PM EDT |Mon, May 12 05:30PM BST |Tue, May 13 02:30AM AEST |
-|[SRB LEAGUES \- LMP3 SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |SRB LMP3 SUNDAYS |Europe |12 |1904 | |Hockenheimring Baden-Württemberg |Sun, May 11 01:50PM EDT |Sun, May 11 06:50PM BST |Mon, May 12 03:50AM AEST |
+|[SRB LEAGUES \- LMP3 SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |SRB LMP3 SUNDAYS |Europe |12 |2001 | | | | | |
 
 ### Radical SR10
 
@@ -64,10 +64,10 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
-|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |Europe |41 |3373 | |Oulton Park Circuit |Sun, May 11 02:00PM EDT |Sun, May 11 07:00PM BST |Mon, May 12 04:00AM AEST |
+|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |Europe |42 |3460 | | | | | |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |North America |26 |2626 | |Circuit Gilles Villeneuve |Sun, May 18 07:30PM EDT |Mon, May 19 12:30AM BST |Mon, May 19 09:30AM AEST |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 2 |Europe |20 |2768 |Open |Circuit Gilles Villeneuve |Thu, May 15 02:15PM EDT |Thu, May 15 07:15PM BST |Fri, May 16 04:15AM AEST |
-|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S2 Sunday Radical SR10 |North America |14 |1759 |Both |Oulton Park Circuit |Sun, May 11 07:00PM EDT |Mon, May 12 12:00AM BST |Mon, May 12 09:00AM AEST |
+|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S2 Sunday Radical SR10 |North America |14 |1746 |Both |Circuit Gilles Villeneuve |Sun, May 18 07:00PM EDT |Mon, May 19 12:00AM BST |Mon, May 19 09:00AM AEST |
 |[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |Radical Challenge 2025 |Europe |14 |1866 | | | | | |
 |[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} |Radical Academy Esport Series \- 2025 |North America |12 |1297 | | | | | |
 |[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} |Coaching Session |North America |10 |None | | | | | |
@@ -77,13 +77,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-----------------------------|-----------------------|-----------------------|------------------------|
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |28 |1396 |Fixed | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |Europe |27 |2535 | | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Preseason |North America |21 |2090 |Fixed | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 1 |North America |21 |2029 |Fixed |Motorsport Arena Oschersleben |Fri, May 16 08:30PM EDT |Sat, May 17 01:30AM BST |Sat, May 17 10:30AM AEST |
 |[Superlap Community](https://members.iracing.com/membersite/member/LeagueView.do?league=11265){:target="_blank"} |SUPERLAP Radical Spring 2025 |North America |17 |1972 | | | | | |
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |North America |13 |1245 |Fixed |Thompson Speedway Motorsports Park |Sun, May 11 08:30PM EDT |Mon, May 12 01:30AM BST |Mon, May 12 10:30AM AEST |
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |North America |15 |1239 |Fixed |Richmond Raceway |Sun, May 18 08:30PM EDT |Mon, May 19 01:30AM BST |Mon, May 19 10:30AM AEST |
 
 ### Riley Daytona Prototype
 
@@ -98,9 +98,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S2 |North America |71 |3058 |Open |Mount Panorama Circuit |Sun, May 11 02:40PM EDT |Sun, May 11 07:40PM BST |Mon, May 12 04:40AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S2 |North America |72 |3022 |Open |Hungaroring |Sun, May 18 02:40PM EDT |Sun, May 18 07:40PM BST |Mon, May 19 04:40AM AEST |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL SRF Season 1 |North America |49 |2200 |Open | | | | |
-|[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRSCCA SRF WINTER 2025 |North America |40 |1632 |Both | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SCCA Spec Racer |Australia-NZ |15 |1470 |Fixed |Circuit de Spa-Francorchamps |Thu, May 15 05:30AM EDT |Thu, May 15 10:30AM BST |Thu, May 15 07:30PM AEST |
 
