@@ -12,7 +12,7 @@
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |LMP2 Series Season 1 |North America |20 |1958 |Fixed | | | | |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |Australia-NZ |19 |3198 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, May 13 05:58AM EDT |Tue, May 13 10:58AM BST |Tue, May 13 07:58PM AEST |
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |North America |18 |1426 | |Circuit des 24 Heures du Mans |Fri, May 16 05:00PM EDT |Fri, May 16 10:00PM BST |Sat, May 17 07:00AM AEST |
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 Full Season |North America |16 |1682 | |Road Atlanta |Mon, May 12 09:15PM EDT |Tue, May 13 02:15AM BST |Tue, May 13 11:15AM AEST |
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 Full Season |North America |17 |1678 | |Circuit de Spa-Francorchamps |Mon, May 19 09:15PM EDT |Tue, May 20 02:15AM BST |Tue, May 20 11:15AM AEST |
 |[BitePoint Racing\-\-LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |Pre\-season |North America |13 |1322 |Open | | | | |
 
 ### GTP
@@ -53,9 +53,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
-|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |International |19 |2274 | |WeatherTech Raceway at Laguna Seca |Mon, May 12 01:30PM EDT |Mon, May 12 06:30PM BST |Tue, May 13 03:30AM AEST |
-|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |International |17 |1416 | |WeatherTech Raceway at Laguna Seca |Mon, May 12 12:30PM EDT |Mon, May 12 05:30PM BST |Tue, May 13 02:30AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |International |19 |2302 | | | | | |
+|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |International |17 |1422 | | | | | |
 |[SRB LEAGUES \- LMP3 SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |SRB LMP3 SUNDAYS |Europe |12 |2001 | | | | | |
 
 ### Radical SR10

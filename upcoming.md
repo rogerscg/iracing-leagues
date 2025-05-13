@@ -20,8 +20,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|-------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
-|[Fast Action Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12487){:target="_blank"} |FARS Season 1 |Fixed |Daytona International Speedway |Mon, May 12 07:30PM EDT |Tue, May 13 12:30AM BST |Tue, May 13 09:30AM AEST |
+|------------------------------------------------------------------------------------------------------------------------------------------|--------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[\#0 Midwest\-Motorsports\.com \- Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8878){:target="_blank"} |Season 9 |Fixed |Michigan International Speedway |Fri, May 16 08:30PM EDT |Sat, May 17 01:30AM BST |Sat, May 17 10:30AM AEST |
 
 ### NASCAR 2022 NextGen
@@ -49,7 +48,6 @@
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[Thursday Night Racing League Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8188){:target="_blank"} |Truck Series Season 1 |Fixed |Daytona International Speedway |Fri, May 16 08:00PM EDT |Sat, May 17 01:00AM BST |Sat, May 17 10:00AM AEST |
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Trucks Season 52 |Fixed |Auto Club Speedway |Wed, May 14 08:00PM EDT |Thu, May 15 01:00AM BST |Thu, May 15 10:00AM AEST |
-|[Southern Roots Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12457){:target="_blank"} |Spartan Truck Series Season 1 | |Charlotte Motor Speedway |Mon, May 12 07:30PM EDT |Tue, May 13 12:30AM BST |Tue, May 13 09:30AM AEST |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |Craftsman Truck Series |Open |Daytona International Speedway |Sat, May 17 10:00PM EDT |Sun, May 18 03:00AM BST |Sun, May 18 12:00PM AEST |
 |[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |Beef Jerky Unlimited Truck Series |Fixed |Daytona International Speedway |Wed, May 14 08:00PM EDT |Thu, May 15 01:00AM BST |Thu, May 15 10:00AM AEST |
 |[Outlaws Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4747){:target="_blank"} |Season 7 |Open |Daytona International Speedway |Wed, May 14 07:00PM EDT |Thu, May 15 12:00AM BST |Thu, May 15 09:00AM AEST |
@@ -68,8 +66,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------|-----------------------|-----------------------|------------------------|
+|-----------------------------------------------------------------------------------------------------------|-------------------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[Urlengo Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7439){:target="_blank"} |IFF Urlengo Nascar Series |Fixed |Charlotte Motor Speedway |Tue, May 13 02:30PM EDT |Tue, May 13 07:30PM BST |Wed, May 14 04:30AM AEST |
+|[PALracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11038){:target="_blank"} |PALracing Season 4 |Fixed |Michigan International Speedway |Tue, May 20 07:30PM EDT |Wed, May 21 12:30AM BST |Wed, May 21 09:30AM AEST |
+
+# Oval
+
+### Late Model Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-------------------|-----------------------|-----------------------|------------------------|
+|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 3 | |Five Flags Speedway |Sun, May 18 07:45PM EDT |Mon, May 19 12:45AM BST |Mon, May 19 09:45AM AEST |
 
 # Open-wheel
 
@@ -80,6 +89,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|-------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
 |[ASML Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12188){:target="_blank"} |Season 2 2025 | |Indianapolis Motor Speedway |Thu, May 15 08:30PM EDT |Fri, May 16 01:30AM BST |Fri, May 16 10:30AM AEST |
+
+### Dallara IR18
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|---------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
+|[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} | Season 2 INDY  |Both |Indianapolis Motor Speedway |Tue, May 20 08:00PM EDT |Wed, May 21 01:00AM BST |Wed, May 21 10:00AM AEST |
 
 ### FIA F4
 
@@ -102,8 +119,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
 |[GM PDT Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6251){:target="_blank"} |Drive to Survive \- PDT Edition | |Algarve International Circuit |Tue, May 13 07:30PM EDT |Wed, May 14 12:30AM BST |Wed, May 14 09:30AM AEST |
+|[Savage Sim Racing SFL League](https://members.iracing.com/membersite/member/LeagueView.do?league=12519){:target="_blank"} |SFL Season 1 |Fixed |Circuit de Spa-Francorchamps |Tue, May 20 07:00PM EDT |Wed, May 21 12:00AM BST |Wed, May 21 09:00AM AEST |
 
 ### Super Formula SF23
 
@@ -112,6 +130,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-------------|-----------------------|-----------------------|------------------------|
 |[Barely Fast Enough Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12571){:target="_blank"} |Super Formula SF23 Championship \- Season 1 |Open |Red Bull Ring |Fri, May 16 01:00PM EDT |Fri, May 16 06:00PM BST |Sat, May 17 03:00AM AEST |
+
+### [Legacy] Dallara IR-05
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|--------------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
+|[NRL iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8800){:target="_blank"} |2009 Indy 500 on NRL Radio | |Indianapolis Motor Speedway |Tue, May 20 06:45PM EDT |Tue, May 20 11:45PM BST |Wed, May 21 08:45AM AEST |
 
 # Sports Car
 
@@ -131,6 +157,14 @@
 |------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[VM NEXT LEVEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12618){:target="_blank"} |Mazda Cup \- Primera Edicion | |Daytona International Speedway |Tue, May 13 08:00PM EDT |Wed, May 14 01:00AM BST |Wed, May 14 10:00AM AEST |
 
+### Porsche 911 GT3 Cup (992)
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|-----------------------|-----|--------------------------------------------|-----------------------|-----------------------|------------------------|
+|[NXTGP \- iRacing PSC](https://members.iracing.com/membersite/member/LeagueView.do?league=12643){:target="_blank"} |NXTGP Porsche Super Cup | |Autodromo Internazionale Enzo e Dino Ferrari |Tue, May 13 01:30PM EDT |Tue, May 13 06:30PM BST |Wed, May 14 03:30AM AEST |
+
 ### Touring Car
 
 [Back to Top](#)  
@@ -139,6 +173,14 @@
 |-------------------------------------------------------------------------------------------------------------------------------|-------------|-----|--------------------|-----------------------|-----------------------|------------------------|
 |[VTCR – Virtual Touring Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12509){:target="_blank"} |VTCR Season 1 | |Brands Hatch Circuit |Thu, May 15 02:00PM EDT |Thu, May 15 07:00PM BST |Fri, May 16 04:00AM AEST |
 
+### Toyota GR86
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------|-----------------|-----|--------------------|-----------------------|-----------------------|------------------------|
+|[Odyssey Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11444){:target="_blank"} |GR Rookie Academy |Both |Winton Motor Raceway |Tue, May 20 10:00PM EDT |Wed, May 21 03:00AM BST |Wed, May 21 12:00PM AEST |
+
 # Dirt Oval
 
 ### Dirt Late Model - Pro
@@ -146,8 +188,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|------------------------|-----|---------------------|-----------------------|-----------------------|------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[titans of dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=11975){:target="_blank"} |A&C Racing Prolate Model | |Volusia Speedway Park |Wed, May 14 08:00PM EDT |Thu, May 15 01:00AM BST |Thu, May 15 10:00AM AEST |
+|[SRA\-Southern Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |The SRA Pro Late Model Touring Series\! |Both |Lanier National Speedway |Tue, May 20 08:30PM EDT |Wed, May 21 01:30AM BST |Wed, May 21 10:30AM AEST |
 
 ### Dirt Late Model - Super
 
@@ -180,10 +223,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|------------------------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|------------------------------------|-----------------------|-----------------------|------------------------|
 |[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |Endurance Challenge: Powered by Triple Stint |Both |Autodromo Internazionale del Mugello |Sun, May 18 01:59PM EDT |Sun, May 18 06:59PM BST |Mon, May 19 03:59AM AEST |
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |MPRL Chaotic summer | |Watkins Glen International |Wed, May 14 09:00PM EDT |Thu, May 15 02:00AM BST |Thu, May 15 11:00AM AEST |
-|[Funky Bunch Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12312){:target="_blank"} |Season 2: GT3 era | |Circuit de Spa-Francorchamps |Mon, May 12 08:00PM EDT |Tue, May 13 01:00AM BST |Tue, May 13 10:00AM AEST |
 |[LAS Esport](https://members.iracing.com/membersite/member/LeagueView.do?league=8419){:target="_blank"} |Sports Car \- Summer racing |Fixed |Sebring International Raceway |Tue, May 13 07:30PM EDT |Wed, May 14 12:30AM BST |Wed, May 14 09:30AM AEST |
-|[NXTGEN Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=9610){:target="_blank"} |Legends Season 3 |Fixed |Brands Hatch Circuit |Mon, May 12 02:00PM EDT |Mon, May 12 07:00PM BST |Tue, May 13 04:00AM AEST |
 

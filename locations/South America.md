@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|---------------|-----------------------|-----------------------|------------------------|
-|[VC Cup Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2025 |South America |45 |3117 | |Kansas Speedway |Mon, May 12 06:30PM EDT |Mon, May 12 11:30PM BST |Tue, May 13 08:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[VC Cup Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2025 |South America |45 |3122 | | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 ANUAL PEMAP CUP |South America |43 |1953 |Both | | | | |
 
 ### NASCAR Truck Series
@@ -27,8 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[TK Oval Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Oval Challenge \- 25T2 |South America |41 |1715 | | | | | |
+|--------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|---------------------------|-----------------------|-----------------------|------------------------|
+|[TK Oval Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Oval Challenge \- 25T2 |South America |41 |1715 | |Indianapolis Motor Speedway |Tue, May 20 05:40PM EDT |Tue, May 20 10:40PM BST |Wed, May 21 07:40AM AEST |
 
 # Open-wheel
 
@@ -92,7 +92,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-------------------|-----------------------|-----------------------|------------------------|
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Sport 2025/2 |South America |51 |2350 | |Oulton Park Circuit |Mon, May 19 05:25PM EDT |Mon, May 19 10:25PM BST |Tue, May 20 07:25AM AEST |
-|[LIGA FRS \- MAZDA MX\-5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} |FRS MX5 CUP \- 25T2 |South America |42 |2288 | | | | | |
+|[LIGA FRS \- MAZDA MX\-5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} |FRS MX5 CUP \- 25T2 |South America |42 |2288 | |Tsukuba Circuit |Tue, May 20 05:00PM EDT |Tue, May 20 10:00PM BST |Wed, May 21 07:00AM AEST |
 |[RE\-S \- RACING E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |SPRINT SIMULADORES GLOBAL MX5 CUP |South America |26 |2398 | |Tsukuba Circuit |Wed, May 14 03:00PM EDT |Wed, May 14 08:00PM BST |Thu, May 15 05:00AM AEST |
 |[IRB I\-Pass Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3285){:target="_blank"} |T2\-25 \- IRB I\-Pass Global Mazda Cup |South America |24 |2644 | |Oulton Park Circuit |Tue, May 13 05:00PM EDT |Tue, May 13 10:00PM BST |Wed, May 14 07:00AM AEST |
 
@@ -101,8 +101,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[F1BC 992 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |992 Cup 2025/2 |South America |46 |2460 | |Daytona International Speedway |Mon, May 12 07:25PM EDT |Tue, May 13 12:25AM BST |Tue, May 13 09:25AM AEST |
+|-------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC 992 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |992 Cup 2025/2 |South America |46 |2480 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PORSCHE CUP 2025\.1 |South America |11 |1799 |Both | | | | |
 
 ### Touring Car
@@ -118,8 +118,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|----------------------|-----------------------|-----------------------|------------------------|
-|[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2025/2 |South America |39 |2629 | |Mount Panorama Circuit |Mon, May 12 05:25PM EDT |Mon, May 12 10:25PM BST |Tue, May 13 07:25AM AEST |
+|--------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2025/2 |South America |40 |2644 | | | | | |
 |[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 25T2 |South America |31 |2761 | | | | | |
 
 # Prototype
@@ -147,9 +147,9 @@
 |[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Carbon GT3 Cup \- T2 2025 |South America |39 |2067 | |Sebring International Raceway |Sat, May 17 01:50PM EDT |Sat, May 17 06:50PM BST |Sun, May 18 03:50AM AEST |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT GT3 2025\.2 |South America |36 |1678 |Both |Road Atlanta |Sun, May 18 07:30PM EDT |Mon, May 19 12:30AM BST |Mon, May 19 09:30AM AEST |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RACERSAV GT3 T1 2025 |South America |35 |2295 | | | | | |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC GT3 SERIES |South America |32 |2190 |Both |Circuit des 24 Heures du Mans |Mon, May 12 06:00PM EDT |Mon, May 12 11:00PM BST |Tue, May 13 08:00AM AEST |
-|[IRB \- MoT Road to Pro 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |T2\-2025 \- MoT Road to Pro |South America |32 |2907 | | | | | |
-|[RE\-S \- RACING E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |WORKSHOP IKE RAMOS GT3 SPRINT SERIES |South America |18 |1738 | |Circuit des 24 Heures du Mans |Mon, May 12 05:00PM EDT |Mon, May 12 10:00PM BST |Tue, May 13 07:00AM AEST |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC GT3 SERIES |South America |32 |2210 |Both |Sebring International Raceway |Mon, May 19 06:00PM EDT |Mon, May 19 11:00PM BST |Tue, May 20 08:00AM AEST |
+|[IRB \- MoT Road to Pro 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |T2\-2025 \- MoT Road to Pro |South America |32 |2907 | |Sebring International Raceway |Tue, May 20 05:00PM EDT |Tue, May 20 10:00PM BST |Wed, May 21 07:00AM AEST |
+|[RE\-S \- RACING E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |WORKSHOP IKE RAMOS GT3 SPRINT SERIES |South America |20 |1848 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -161,12 +161,4 @@
 |[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2025/2 |South America |50 |2820 | | | | | |
 |[LIGA FRS \- IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS IMSA \- 25T2 |South America |35 |2382 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP 2 |South America |20 |1654 |Both | | | | |
-
-### Ring Meister
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- COPA VERÃO 25 |South America |40 |2194 | | | | | |
 

@@ -22,9 +22,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Pro 2 Lite Road Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |2025 Spring Dirt Slingers |North America |27 |1924 | | | | | |
-|[Solstice Racing League \- SnG Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |Splash N' Go Series \- Season 3 |North America |16 |1539 |Fixed | | | | |
 
 ### Pro 4 Truck
 

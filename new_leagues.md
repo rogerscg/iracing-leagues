@@ -1,18 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Affinity Racing TRI HARD](https://members.iracing.com/membersite/member/LeagueView.do?league=12581){:target="_blank"} | |Team League Summer Event |
-|[Crocker Racing Leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=12579){:target="_blank"} | | |
-|[kenshou](https://members.iracing.com/membersite/member/LeagueView.do?league=12578){:target="_blank"} | |no |
-|[Legacy Nascar Replay](https://members.iracing.com/membersite/member/LeagueView.do?league=12586){:target="_blank"} | |Legacy Cup/ Legacy Xfinity and Legacy Nationwide cars around Nascar tracks |
-|[NoSkillz Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=12580){:target="_blank"} |[Discord](https://discord.gg/AX5rx6dk){:target="_blank"} |Official Racing League of MrNoSkillzTV |
-|[Southern Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=12585){:target="_blank"} | | |
-|[Speed Trap Racing NASCAR series](https://members.iracing.com/membersite/member/LeagueView.do?league=12582){:target="_blank"} | |Running NASCAR races |
-|[SRR \| Solo Endurance League 2025 \- S1](https://members.iracing.com/membersite/member/LeagueView.do?league=12587){:target="_blank"} | |6 Rounds over 6 weeks\! Every Sunday @ 17h00 BST\. 90 min races\. LIVE BROADCAST BY JPBROADCASTING\. |
-|[Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12583){:target="_blank"} |[Discord](https://discord.gg/QZUkYZeDkj){:target="_blank"} |Formula 4 Community League |
-|[W\.I\.P\.L\.M\.S](https://members.iracing.com/membersite/member/LeagueView.do?league=12584){:target="_blank"} | |Western Iowa Pro Late Model Series |
-|[Turbo Wank](https://members.iracing.com/membersite/member/LeagueView.do?league=12577){:target="_blank"} | |A bunch of \*\*\* trying to race |
+|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Drunken Skunks League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12588){:target="_blank"} | |Laid back league racing |
 |[Coastal Crown 75 Presented By C2CSS](https://members.iracing.com/membersite/member/LeagueView.do?league=12591){:target="_blank"} | | |
 |[Credit One Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12590){:target="_blank"} | |The Cup Series |
@@ -28,7 +17,7 @@
 |[表彰台](https://members.iracing.com/membersite/member/LeagueView.do?league=12599){:target="_blank"} | | |
 |[1000kms of Mosport](https://members.iracing.com/membersite/member/LeagueView.do?league=12604){:target="_blank"} | | |
 |[Aggressive Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12605){:target="_blank"} | |Aggressive driving encouraged with no hard feelings, this is not bumper cars though\! This league's purpose is to provide a place to push your limits without hurt feelings or irating/ safety rating loss\. "dirty moves" such as dive bombs are perfectly acceptable but don't be ramming people off track on purpose\. Please don't join if you want to play bumper cars or will get mad because someone messes up while being too aggressive\! We're all here to learn from each other\. |
-|[Full Throttle Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=12602){:target="_blank"} | |Sprintcar League |
+|[Full Throttle Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=12602){:target="_blank"} |[Discord](https://discord.gg/NfHBpzNf){:target="_blank"} |Sprintcar League |
 |[iBlinkers](https://members.iracing.com/membersite/member/LeagueView.do?league=12603){:target="_blank"} |[Discord](https://discord.gg/vhhSbHNj){:target="_blank"} |It's in the name\. |
 |[Bamboo Eagles](https://members.iracing.com/membersite/member/LeagueView.do?league=12608){:target="_blank"} | |Friendly Sunday Races |
 |[FD50K Truck](https://members.iracing.com/membersite/member/LeagueView.do?league=12607){:target="_blank"} | |Craftsman truck |
@@ -63,4 +52,11 @@
 |[SFR Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12636){:target="_blank"} |[Discord](https://discord.gg/5HMg9apM){:target="_blank"} |Setup Trucks |
 |[South Pacific Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12639){:target="_blank"} | |A racing league for all next gen NASCAR drivers in New Zealand and Australia |
 |[CAS \- Member Created Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12634){:target="_blank"} | |Ligen von Mitgliedern der CAS\- iRacing Community erstellt und verwaltet\. |
+|[EOL Fundraiser](https://members.iracing.com/membersite/member/LeagueView.do?league=12647){:target="_blank"} | | |
+|[NXTGP \- iRacing PSC](https://members.iracing.com/membersite/member/LeagueView.do?league=12643){:target="_blank"} | |NXTGP iRacing Porsche Super Cup League |
+|[skr0](https://members.iracing.com/membersite/member/LeagueView.do?league=12644){:target="_blank"} | |skr0 description |
+|[WRL ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12646){:target="_blank"} | | |
+|[IBEX Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12641){:target="_blank"} | |North America Summer Series |
+|[Slo\-fessional Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12645){:target="_blank"} | | |
+|[Veloce x Ferrari Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=12642){:target="_blank"} | | |
 
