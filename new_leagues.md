@@ -1,8 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Drunken Skunks League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12588){:target="_blank"} | |Laid back league racing |
+|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Coastal Crown 75 Presented By C2CSS](https://members.iracing.com/membersite/member/LeagueView.do?league=12591){:target="_blank"} | | |
 |[Credit One Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12590){:target="_blank"} | |The Cup Series |
 |[SRC South Barrington](https://members.iracing.com/membersite/member/LeagueView.do?league=12592){:target="_blank"} | | |
@@ -48,7 +47,7 @@
 |[C&C Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12638){:target="_blank"} | |Friends Racin |
 |[CHOPSHOP FULL AI](https://members.iracing.com/membersite/member/LeagueView.do?league=12635){:target="_blank"} | | |
 |[National Sim Racing League Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12637){:target="_blank"} | |ARCA Menards Season 1 |
-|[Palmetto Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12640){:target="_blank"} | |Our league is based out of the Carolinas, but we plan to have drivers from all over the east coast\. We're looking to host race sessions on Saturday afternoons and possibly some Saturday nights\. We will kick off the season once we reach at least 20 members\. Know someone who would be interested in joining? Have them apply to become a member\! |
+|[Palmetto Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12640){:target="_blank"} | |Our league is based out of the Carolinas, but we plan to have drivers from all over the east coast\. We're looking to host race sessions on Saturday afternoons and possibly some Saturday nights\. We will kick off the season once we reach at least 20 members\. Know someone who would be interested in joining? Have them apply to become a member\! If you need to contact me for questions or requests please email palmettoracingleague@gmail\.com\! We are looking at getting a Facebook page together and once we do it will be posted here on the League Website\! |
 |[SFR Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12636){:target="_blank"} |[Discord](https://discord.gg/5HMg9apM){:target="_blank"} |Setup Trucks |
 |[South Pacific Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12639){:target="_blank"} | |A racing league for all next gen NASCAR drivers in New Zealand and Australia |
 |[CAS \- Member Created Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12634){:target="_blank"} | |Ligen von Mitgliedern der CAS\- iRacing Community erstellt und verwaltet\. |
@@ -59,4 +58,8 @@
 |[IBEX Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12641){:target="_blank"} | |North America Summer Series |
 |[Slo\-fessional Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12645){:target="_blank"} | | |
 |[Veloce x Ferrari Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=12642){:target="_blank"} | | |
+|[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} | |The second league in the Billy Oirish Racing Season |
+|[Electric Thunder Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12650){:target="_blank"} | |Beginner Friendly Truck Series Racing on tuesday nights\. |
+|[ii2wi Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12648){:target="_blank"} | | |
+|[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} | |League for all, running the winston cup points format with the 2003 schedule |
 

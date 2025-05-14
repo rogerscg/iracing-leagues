@@ -114,8 +114,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------------|------------|-------|----|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Super Formula Series |Australia-NZ |14 |1404 |Fixed |Indianapolis Motor Speedway |Tue, May 13 05:28AM EDT |Tue, May 13 10:28AM BST |Tue, May 13 07:28PM AEST |
+|----------------------------------------------------------------------------------------------------------------------|--------------------|------------|-------|----|-----|--------------------------|-----------------------|-----------------------|------------------------|
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Super Formula Series |Australia-NZ |14 |1413 |Fixed |Autódromo José Carlos Pace |Tue, May 20 05:28AM EDT |Tue, May 20 10:28AM BST |Tue, May 20 07:28PM AEST |
 
 # Sports Car
 
@@ -164,8 +164,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------|------------|-------|----|-----|-----------------|-----------------------|-----------------------|------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B TCR Challenge \- MERCH\.tgsrci |Australia-NZ |59 |2796 |Both |Oran Park Raceway |Tue, May 13 05:52AM EDT |Tue, May 13 10:52AM BST |Tue, May 13 07:52PM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------|------------|-------|----|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B TCR Challenge \- MERCH\.tgsrci |Australia-NZ |71 |2727 |Both |Virginia International Raceway |Tue, May 20 05:35AM EDT |Tue, May 20 10:35AM BST |Tue, May 20 07:35PM AEST |
 
 ### Toyota GR86
 
@@ -182,25 +182,25 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|-----------------------|------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
-|[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |Australia-NZ |19 |3198 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, May 13 05:58AM EDT |Tue, May 13 10:58AM BST |Tue, May 13 07:58PM AEST |
+|-------------------------------------------------------------------------------------------------------------|-----------------------|------------|-------|----|-----|-------------|--------|------|------|
+|[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |Australia-NZ |19 |3178 |Fixed | | | | |
 
 ### GTP
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A LeMans Hypercar Cup \- Spreyton Ciders |Australia-NZ |67 |2611 |Both | | | | |
-|[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |Australia-NZ |13 |1359 |Both | | | | |
+|[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |Australia-NZ |13 |1359 |Both |Circuit de Spa-Francorchamps |Wed, May 21 05:30AM EDT |Wed, May 21 10:30AM BST |Wed, May 21 07:30PM AEST |
 
 ### HPD ARX-01c
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B DownForce Legends \- HPD |Australia-NZ |57 |2584 |Both |Circuit de Spa-Francorchamps |Tue, May 13 04:25AM EDT |Tue, May 13 09:25AM BST |Tue, May 13 06:25PM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|------------------------------|------------|-------|----|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B DownForce Legends \- HPD |Australia-NZ |60 |2594 |Both |Sebring International Raceway |Tue, May 20 04:25AM EDT |Tue, May 20 09:25AM BST |Tue, May 20 06:25PM AEST |
 
 ### Spec Racer Ford
 
@@ -248,7 +248,7 @@
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 3 |Australia-NZ |32 |2100 |Open | | | | |
 |[420 Oz SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |V8 Supercars Season 3 |Australia-NZ |29 |1872 |Both | | | | |
 |[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |Southern Cross Sim Racing Season 1 |Australia-NZ |28 |1534 | | | | | |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday Nights Gen 3 Season 1 |Australia-NZ |27 |1156 | | | | | |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday Nights Gen 3 Season 1 |Australia-NZ |27 |1122 | | | | | |
 |[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |V8 Supercars Season 2 \| Southern Cross Sim Racing |Australia-NZ |26 |1316 | |Rudskogen Motorsenter |Fri, May 16 04:30AM EDT |Fri, May 16 09:30AM BST |Fri, May 16 06:30PM AEST |
 |[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |Australia-NZ |23 |1630 |Both |Oran Park Raceway |Wed, May 14 05:30AM EDT |Wed, May 14 10:30AM BST |Wed, May 14 07:30PM AEST |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025B |Australia-NZ |21 |2015 |Fixed |Homestead Miami Speedway |Sun, May 18 04:45AM EDT |Sun, May 18 09:45AM BST |Sun, May 18 06:45PM AEST |
@@ -345,7 +345,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------------|-------|----|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[GSRC\.inc GT3 Pro Split \- Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2025A GT3 Pro Series \- Waste Options |Australia-NZ |75 |3160 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B GT3 Pro\-Am Series \- Waste Options |Australia-NZ |74 |1979 |Both |Sebring International Raceway |Mon, May 19 05:30AM EDT |Mon, May 19 10:30AM BST |Mon, May 19 07:30PM AEST |
 |[GSRC\.inc GT3 Pro Split \- Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5307){:target="_blank"} |2025B GT3 Pro Series \- Waste Options |Australia-NZ |71 |3475 | |Sebring International Raceway |Mon, May 19 05:30AM EDT |Mon, May 19 10:30AM BST |Mon, May 19 07:30PM AEST |
@@ -354,7 +354,7 @@
 |[Aussie Outlaws GT3 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8718){:target="_blank"} |2025 GT3 Championship |Australia-NZ |42 |2281 | |Brands Hatch Circuit |Wed, May 14 06:00AM EDT |Wed, May 14 11:00AM BST |Wed, May 14 08:00PM AEST |
 |[GSRC\.inc GT3 Am Split \- Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5306){:target="_blank"} |2025B GT3 Am Series \- Waste Options |Australia-NZ |35 |1447 | |Sebring International Raceway |Mon, May 19 05:30AM EDT |Mon, May 19 10:30AM BST |Mon, May 19 07:30PM AEST |
 |[Machinecult \- Australian Sports Sedan eSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Super GT GT3 S1 2025 |Australia-NZ |18 |1527 |Both | | | | |
-|[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |ProLine Esports SimRacing GT3  |Australia-NZ |15 |1575 | | | | | |
+|[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |ProLine Esports SimRacing GT3  |Australia-NZ |15 |1575 | |WeatherTech Raceway at Laguna Seca |Wed, May 14 04:29AM EDT |Wed, May 14 09:29AM BST |Wed, May 14 06:29PM AEST |
 
 ### Hosted All Cars Class
 
@@ -365,9 +365,9 @@
 |[V8 Veterans Season 23](https://members.iracing.com/membersite/member/LeagueView.do?league=6455){:target="_blank"} |Season 23 |Australia-NZ |215 |1980 |Fixed |Canadian Tire Motorsports Park |Thu, May 15 05:31AM EDT |Thu, May 15 10:31AM BST |Thu, May 15 07:31PM AEST |
 |[PREMIER ENDURANCE LEAGUE \- GT3 LIMITED](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} |The DASH OffRoad Australian GT3 Endurance Championship Season 5 |Australia-NZ |101 |2031 |Open |Autodromo Internazionale del Mugello |Fri, May 16 06:00AM EDT |Fri, May 16 11:00AM BST |Fri, May 16 08:00PM AEST |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) SEASON 1 2025 |Australia-NZ |93 |2222 |Open | | | | |
-|[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) SEASON 2 2025 |Australia-NZ |72 |2314 |Open |Canadian Tire Motorsports Park |Tue, May 13 04:00AM EDT |Tue, May 13 09:00AM BST |Tue, May 13 06:00PM AEST |
+|[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) SEASON 2 2025 |Australia-NZ |73 |2287 |Open | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B Mountain Men 200 Series |Australia-NZ |69 |2320 |Both | | | | |
-|[Australian NASCAR eSeries \- X Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9968){:target="_blank"} |Season 1 2025 |Australia-NZ |67 |2626 | |New Hampshire Motor Speedway |Tue, May 13 05:00AM EDT |Tue, May 13 10:00AM BST |Tue, May 13 07:00PM AEST |
+|[Australian NASCAR eSeries \- X Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9968){:target="_blank"} |Season 1 2025 |Australia-NZ |67 |2634 | |Richmond Raceway |Tue, May 20 06:00AM EDT |Tue, May 20 11:00AM BST |Tue, May 20 08:00PM AEST |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |PRAC AND QUAL SRW V8 TUESDAY |Australia-NZ |66 |2014 |Open | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |STONECOLD RACING POP\-UP EVENTS |Australia-NZ |64 |1351 | | | | | |
 |[SRW \- Moza Super Formula Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |SRW 2025 S1 Super Formula Championship |Australia-NZ |57 |1910 | | | | | |
@@ -377,10 +377,10 @@
 |[SRW \- Moza Super Formula Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |2025 S2 Moza SFL Championship |Australia-NZ |52 |2101 | |Hockenheimring Baden-Württemberg |Wed, May 14 04:00AM EDT |Wed, May 14 09:00AM BST |Wed, May 14 06:00PM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A Mountain Men 200 Series |Australia-NZ |51 |2088 |Both |Auto Club Speedway |Wed, April 16 04:18AM EDT |Wed, April 16 09:18AM BST |Wed, April 16 06:18PM AEST |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Domains2U GT3 \- Season 3 |Australia-NZ |51 |2071 |Fixed |Circuit de Spa-Francorchamps |Mon, May 19 05:00AM EDT |Mon, May 19 10:00AM BST |Mon, May 19 07:00PM AEST |
-|[FDL \- P1SG SFL Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11833){:target="_blank"} |SFLS2 |Australia-NZ |49 |3441 | |Circuit de Barcelona Catalunya |Tue, May 13 04:30AM EDT |Tue, May 13 09:30AM BST |Tue, May 13 06:30PM AEST |
+|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR\. Tuesday Challenge S1 2025 |Australia-NZ |50 |1314 | | | | | |
+|[FDL \- P1SG SFL Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11833){:target="_blank"} |SFLS2 |Australia-NZ |50 |3441 | |Autodromo Internazionale del Mugello |Tue, May 20 04:30AM EDT |Tue, May 20 09:30AM BST |Tue, May 20 06:30PM AEST |
+|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 4 |Australia-NZ |50 |1974 | | | | | |
 |[420 Oz SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |420 OZ SIM RACING V8 SUPERCARS SEASON 2 |Australia-NZ |48 |1605 |Both | | | | |
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR\. Tuesday Challenge S1 2025 |Australia-NZ |48 |1304 | | | | | |
-|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 4 |Australia-NZ |48 |1972 | |Canadian Tire Motorsports Park |Tue, May 13 05:30AM EDT |Tue, May 13 10:30AM BST |Tue, May 13 07:30PM AEST |
 |[IRWC VRS Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |IRWC VRS Porsche Carrera Cup Season 1 |Australia-NZ |46 |2378 | |Indianapolis Motor Speedway |Mon, May 19 04:30AM EDT |Mon, May 19 09:30AM BST |Mon, May 19 06:30PM AEST |
 |[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |The Pisston Cup 2\.0 |Australia-NZ |45 |1636 |Both | | | | |
 |[V8SCOPS Supports \- VEE Eights](https://members.iracing.com/membersite/member/LeagueView.do?league=10713){:target="_blank"} |2025 Season |Australia-NZ |38 |2190 | | | | | |
