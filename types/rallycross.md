@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Yes2Rallycross \- AWD \(2025\) |North America |15 |2309 |Fixed | | | | |
+|--------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-----------------------------------|-----------------------|-----------------------|------------------------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Yes2Rallycross \- AWD \(2025\) |North America |15 |2309 |Fixed |Lucas Oil Indianapolis Raceway Park |Thu, May 22 08:20PM EDT |Fri, May 23 01:20AM BST |Fri, May 23 10:20AM AEST |
 |[NASA Rallycross Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=9777){:target="_blank"} |NASA RX Masters |North America |14 |3115 | | | | | |
 
 ### Rallycross
@@ -24,7 +24,7 @@
 |[AusRX/AusTrux](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 10 |Australia-NZ |19 |2404 | | | | | |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25A |North America |18 |2968 | | | | | |
 |[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |Europe |14 |1485 | | | | | |
-|[Wheel Challenge Series \- Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=11929){:target="_blank"} |Rallycross WCS S2\-2025 |North America |12 |1550 |Both | | | | |
+|[Wheel Challenge Series \- Road Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=11929){:target="_blank"} |Rallycross WCS S2\-2025 |North America |12 |1550 |Both | | | | |
 
 ### VW Beetle GRC
 
