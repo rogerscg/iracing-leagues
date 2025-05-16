@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[SRC South Barrington](https://members.iracing.com/membersite/member/LeagueView.do?league=12592){:target="_blank"} | | |
-|[Talladega Knights](https://members.iracing.com/membersite/member/LeagueView.do?league=12593){:target="_blank"} | |rookie amature |
 |[CSC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12596){:target="_blank"} |[Discord](https://discord.gg/RKuS2WufFh){:target="_blank"} |Respect & Growth |
 |[Double\-M's Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12594){:target="_blank"} |[Discord](https://discord.gg/eSVnhGeF){:target="_blank"} |Time to race those Minis\! |
 |[Frontier Truck Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12600){:target="_blank"} |[Discord](https://discord.gg/cvAj29SA){:target="_blank"} |Join the ultimate Monday night Truck league — where the excitement is high, the competition is friendly, and respect drives the game\. It’s fun, fast\-paced, and built on community\! |
@@ -62,4 +60,9 @@
 |[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} | |League for all, running the winston cup points format with the 2003 schedule |
 |[Checkered Flag Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12652){:target="_blank"} |[Discord](https://discord.gg/P2T5c2f8Js){:target="_blank"} |410 Open Setup |
 |[Third Line Connection](https://members.iracing.com/membersite/member/LeagueView.do?league=12653){:target="_blank"} | |Les événements de la Third Line Connection, l'union de la Scuderia Volpe, la Unity et la Old Firm ? C'est ici \! |
+|[Almeida Racing League \(Season 3B\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12658){:target="_blank"} | | |
+|[AOTC Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=12654){:target="_blank"} |[Discord](https://discord.gg/TaCCH8BZpj){:target="_blank"} |Ahead Of The Curve Racing is a community of people who like to race and want to get to know others with similar interests in iRacing\. |
+|[Dirty South Dirt Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12655){:target="_blank"} | | |
+|[Revved Up Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12656){:target="_blank"} |[Discord](https://discord.gg/zBUk3g338w){:target="_blank"} | |
+|[Tripple R Cash Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12657){:target="_blank"} |[Discord](https://discord.gg/m4asPySaSc){:target="_blank"} |ALWAYS GO ON GREEN NO SCRUBBING TIRES @everyone VENMO \- @D\_Raleigh 5$entry CLEAN OR KICKED KEEP ER' CLEAN 3 WIDE IS KING if you cant hold your line 3 wide please remove your self https://discord\.gg/m4asPySaSc DO NOT HAVE TO PAY TO RACE BUT NO \*\*\* HOLES\!\! LETS HAVE FUN BOYS AND GIRLS JOIN OUR DISCORD FOR OVER THE TOP LIVE MONEY RACING enter RUTHLESS REBELS RACING DISCORD TO GET PAID\.\. |
 
