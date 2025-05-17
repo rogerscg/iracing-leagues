@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|----------------|--------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |Season1 \(2025\) |Asia |23 |2489 |Fixed |Charlotte Motor Speedway |Sun, May 18 08:00AM EDT |Sun, May 18 01:00PM BST |Sun, May 18 10:00PM AEST |
-|[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |練習シリーズ\(2025\) |Asia |14 |2740 |Fixed |Charlotte Motor Speedway |Sat, May 17 08:00AM EDT |Sat, May 17 01:00PM BST |Sat, May 17 10:00PM AEST |
+|[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |練習シリーズ\(2025\) |Asia |14 |2740 |Fixed |Charlotte Motor Speedway |Sat, May 17 07:30AM EDT |Sat, May 17 12:30PM BST |Sat, May 17 09:30PM AEST |
 
 # Open-wheel
 
@@ -50,5 +50,5 @@
 |------------------------------------------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[ASRC iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |Season 2 |Asia |21 |2259 |Both | | | | |
 |[Assetto Cafe Pable Cup iRacing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=12342){:target="_blank"} |APa Pre\-Season |Asia |17 |1139 |Fixed |Autodromo Nazionale Monza |Mon, May 19 08:00AM EDT |Mon, May 19 01:00PM BST |Mon, May 19 10:00PM AEST |
-|[HEiR](https://members.iracing.com/membersite/member/LeagueView.do?league=11142){:target="_blank"} |2025 娱乐赛 |Asia |14 |1586 |Fixed | | | | |
+|[HEiR](https://members.iracing.com/membersite/member/LeagueView.do?league=11142){:target="_blank"} |2025 娱乐赛 |Asia |14 |1586 |Fixed |Oulton Park Circuit |Sat, May 24 08:00AM EDT |Sat, May 24 01:00PM BST |Sat, May 24 10:00PM AEST |
 
