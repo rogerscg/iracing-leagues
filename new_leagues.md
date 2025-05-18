@@ -2,13 +2,8 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[1000kms of Mosport](https://members.iracing.com/membersite/member/LeagueView.do?league=12604){:target="_blank"} | | |
-|[Aggressive Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12605){:target="_blank"} | |Aggressive driving encouraged with no hard feelings, this is not bumper cars though\! This league's purpose is to provide a place to push your limits without hurt feelings or irating/ safety rating loss\. "dirty moves" such as dive bombs are perfectly acceptable but don't be ramming people off track on purpose\. Please don't join if you want to play bumper cars or will get mad because someone messes up while being too aggressive\! We're all here to learn from each other\. |
-|[Full Throttle Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=12602){:target="_blank"} |[Discord](https://discord.gg/NfHBpzNf){:target="_blank"} |Sprintcar League |
-|[iBlinkers](https://members.iracing.com/membersite/member/LeagueView.do?league=12603){:target="_blank"} |[Discord](https://discord.gg/vhhSbHNj){:target="_blank"} |It's in the name\. |
 |[Bamboo Eagles](https://members.iracing.com/membersite/member/LeagueView.do?league=12608){:target="_blank"} | |Friendly Sunday Races |
 |[FD50K Truck](https://members.iracing.com/membersite/member/LeagueView.do?league=12607){:target="_blank"} | |Craftsman truck |
-|[Storage Room Racer Community Races](https://members.iracing.com/membersite/member/LeagueView.do?league=12606){:target="_blank"} | |League for community events |
 |[925 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12612){:target="_blank"} | |We Turn Left |
 |[Bumper Car Cup格兰披治大奖赛](https://members.iracing.com/membersite/member/LeagueView.do?league=12609){:target="_blank"} | | |
 |[Front Runners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12611){:target="_blank"} |[Discord](https://discord.gg/taZNdrd3px){:target="_blank"} |Are you ready for the challenge? |
@@ -63,4 +58,9 @@
 |[Affinity Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12661){:target="_blank"} |[Discord](https://discord.com/invite/C4SbZryC8p){:target="_blank"} |Classes \(3 Classes\): LMP2\. LMP3, GT3 Pro, GT3 \| Schedule \(6 Races\): 1: Indianapolis 4hr, 2: Imola 4hr, 3: Spa 4hr, 4: Silverstone 4hr, 5: Monza 4hr\. |
 |[My AI](https://members.iracing.com/membersite/member/LeagueView.do?league=12659){:target="_blank"} | | |
 |[Past Their Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12660){:target="_blank"} | | |
+|[BIL \| Brazilian iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12667){:target="_blank"} |[Discord](https://discord.gg/Tfzu8uBmVj]){:target="_blank"} |🔹 Brazilian iRacing League 🔹 Casual championship using GT3\! Weekly races on free tracks, relaxed environment, but with clean and respectful racing\. 🎯 Our goal? Build a strong Brazilian community and launch a full official league soon\. 📥 Join our Discord and be part of the BIL \(Brazilian iRacing League\)\! 🔗 \[https://discord\.gg/Tfzu8uBmVj\] |
+|[Bottom Split Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12669){:target="_blank"} | |Novice oval drivers looking to race together and develop the skills needed to get you out of the bottom split\! |
+|[MullBar Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12668){:target="_blank"} | |MullBar private sessions\. |
+|[Pretzel's Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12666){:target="_blank"} | |Laid Back Nascar/Road Racing Leauge |
+|[GRID\.ONE](https://members.iracing.com/membersite/member/LeagueView.do?league=12665){:target="_blank"} | | |
 

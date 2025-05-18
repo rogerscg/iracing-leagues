@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|----------------|--------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |Season1 \(2025\) |Asia |23 |2489 |Fixed |Charlotte Motor Speedway |Sun, May 18 08:00AM EDT |Sun, May 18 01:00PM BST |Sun, May 18 10:00PM AEST |
-|[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |練習シリーズ\(2025\) |Asia |14 |2740 |Fixed |Charlotte Motor Speedway |Sat, May 17 07:30AM EDT |Sat, May 17 12:30PM BST |Sat, May 17 09:30PM AEST |
+|[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |練習シリーズ\(2025\) |Asia |16 |2696 |Fixed | | | | |
 
 # Open-wheel
 
