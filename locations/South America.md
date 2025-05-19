@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|-----------------------|-----------------------|-----------------------|------------------------|
-|[VC Cup Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2025 |South America |45 |3122 | | | | | |
+|---------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
+|[VC Cup Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2025 |South America |45 |3122 | |Charlotte Motor Speedway |Mon, May 26 06:30PM EDT |Mon, May 26 11:30PM BST |Tue, May 27 08:30AM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 ANUAL PEMAP CUP |South America |43 |1953 |Both |Nashville Superspeedway |Wed, May 21 06:00PM EDT |Wed, May 21 11:00PM BST |Thu, May 22 08:00AM AEST |
 
 ### NASCAR Truck Series
@@ -47,7 +47,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY SILVER |South America |29 |2147 |Both |Homestead Miami Speedway |Thu, May 22 06:00PM EDT |Thu, May 22 11:00PM BST |Fri, May 23 08:00AM AEST |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY GOLD |South America |24 |3515 |Both |Iowa Speedway |Sun, May 18 06:00PM EDT |Sun, May 18 11:00PM BST |Mon, May 19 08:00AM AEST |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY GOLD |South America |24 |3533 |Both |Homestead Miami Speedway |Sun, May 25 06:00PM EDT |Sun, May 25 11:00PM BST |Mon, May 26 08:00AM AEST |
 
 ### FIA F4
 
@@ -100,8 +100,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[F1BC 992 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |992 Cup 2025/2 |South America |46 |2480 | | | | | |
+|-------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|--------------------------|-----------------------|-----------------------|------------------------|
+|[F1BC 992 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |992 Cup 2025/2 |South America |46 |2480 | |Autódromo José Carlos Pace |Mon, May 26 07:25PM EDT |Tue, May 27 12:25AM BST |Tue, May 27 09:25AM AEST |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PORSCHE CUP 2025\.1 |South America |11 |1799 |Both | | | | |
 
 ### Touring Car
@@ -118,18 +118,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|----------------|-------------|-------|----|-----|----------------------|-----------------------|-----------------------|------------------------|
-|[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2025/2 |South America |40 |2644 | | | | | |
+|[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2025/2 |South America |40 |2644 | |Oulton Park Circuit |Mon, May 26 05:25PM EDT |Mon, May 26 10:25PM BST |Tue, May 27 07:25AM AEST |
 |[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 25T2 |South America |31 |2761 | |Mount Panorama Circuit |Thu, May 22 05:00PM EDT |Thu, May 22 10:00PM BST |Fri, May 23 07:00AM AEST |
-
-# Prototype
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|---------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT PROTOTYPE 2025\.1 |South America |17 |1553 |Both | | | | |
 
 # Multi-class/Unclassified
 
@@ -144,7 +134,7 @@
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/2 |South America |47 |1750 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV \- GT3 OFICIAL CUP T2 |South America |45 |1972 | |Sebring International Raceway |Wed, May 21 07:00PM EDT |Thu, May 22 12:00AM BST |Thu, May 22 09:00AM AEST |
 |[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Carbon GT3 Cup \- T2 2025 |South America |39 |2078 | |Autodromo Internazionale Enzo e Dino Ferrari |Sat, May 24 01:50PM EDT |Sat, May 24 06:50PM BST |Sun, May 25 03:50AM AEST |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT GT3 2025\.2 |South America |36 |1678 |Both |Road Atlanta |Sun, May 18 07:30PM EDT |Mon, May 19 12:30AM BST |Mon, May 19 09:30AM AEST |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT GT3 2025\.2 |South America |36 |1675 |Both |Circuit de Spa-Francorchamps |Sun, May 25 07:30PM EDT |Mon, May 26 12:30AM BST |Mon, May 26 09:30AM AEST |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RACERSAV GT3 T1 2025 |South America |35 |2295 | | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC GT3 SERIES |South America |32 |2210 |Both |Sebring International Raceway |Mon, May 19 06:00PM EDT |Mon, May 19 11:00PM BST |Tue, May 20 08:00AM AEST |
 |[IRB \- MoT Road to Pro 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |T2\-2025 \- MoT Road to Pro |South America |32 |2907 | |Sebring International Raceway |Tue, May 20 05:00PM EDT |Tue, May 20 10:00PM BST |Wed, May 21 07:00AM AEST |

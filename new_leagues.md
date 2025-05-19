@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Bamboo Eagles](https://members.iracing.com/membersite/member/LeagueView.do?league=12608){:target="_blank"} | |Friendly Sunday Races |
-|[FD50K Truck](https://members.iracing.com/membersite/member/LeagueView.do?league=12607){:target="_blank"} | |Craftsman truck |
 |[925 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12612){:target="_blank"} | |We Turn Left |
 |[Bumper Car Cup格兰披治大奖赛](https://members.iracing.com/membersite/member/LeagueView.do?league=12609){:target="_blank"} | | |
 |[Front Runners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12611){:target="_blank"} |[Discord](https://discord.gg/taZNdrd3px){:target="_blank"} |Are you ready for the challenge? |
@@ -63,4 +61,10 @@
 |[MullBar Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12668){:target="_blank"} | |MullBar private sessions\. |
 |[Pretzel's Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12666){:target="_blank"} | |Laid Back Nascar/Road Racing Leauge |
 |[GRID\.ONE](https://members.iracing.com/membersite/member/LeagueView.do?league=12665){:target="_blank"} | | |
+|[Buck Wild Racing Classic NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12673){:target="_blank"} | | |
+|[FACTORY STOCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12674){:target="_blank"} | | |
+|[iRacing INDYCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12675){:target="_blank"} | |INDYCAR racing on iRacing\! |
+|[Ninth Inning Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12670){:target="_blank"} | | |
+|[RoadMaster: Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12671){:target="_blank"} |[Discord](https://discord.gg/wJS3fwg2ru){:target="_blank"} |RoadMaster is the ultimate test of versatility in sim\-racing—a full weekend of high\-speed competition across both sportscar and formula disciplines on iRacing\. Drivers will battle for dominance in two distinct arenas: the precision and strategy of open\-wheel racing in Formula Phenom, and the endurance and aggression of GT competition in Sportscar Czar\. Only the most well\-rounded racer—fast in anything, fearless on every lap—can claim the crown of RoadMaster\. Three titles\. One weekend\. Infinite glory\. |
+|[VB Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12672){:target="_blank"} | |SS, ARCA |
 
