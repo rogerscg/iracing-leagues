@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[925 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12612){:target="_blank"} | |We Turn Left |
-|[Bumper Car Cup格兰披治大奖赛](https://members.iracing.com/membersite/member/LeagueView.do?league=12609){:target="_blank"} | | |
-|[Front Runners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12611){:target="_blank"} |[Discord](https://discord.gg/taZNdrd3px){:target="_blank"} |Are you ready for the challenge? |
-|[The Motorpool](https://members.iracing.com/membersite/member/LeagueView.do?league=12610){:target="_blank"} | |THAZExSUPERLAP \- MOTORPOOL member practice and events |
 |[Breathless Racing Team League](https://members.iracing.com/membersite/member/LeagueView.do?league=12614){:target="_blank"} |[Discord](https://discord.gg/g48veHxZGR){:target="_blank"} |Breathless Racing Team's League  Discord: Breathless Racing Team League |
 |[East Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12617){:target="_blank"} | | |
 |[Immersion Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12619){:target="_blank"} |[Discord](https://discord.gg/BWUuAKrdCR){:target="_blank"} |Full Length League \- Saturday Nights \- Join Discord Through League URL |
@@ -67,4 +63,7 @@
 |[Ninth Inning Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12670){:target="_blank"} | | |
 |[RoadMaster: Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12671){:target="_blank"} |[Discord](https://discord.gg/wJS3fwg2ru){:target="_blank"} |RoadMaster is the ultimate test of versatility in sim\-racing—a full weekend of high\-speed competition across both sportscar and formula disciplines on iRacing\. Drivers will battle for dominance in two distinct arenas: the precision and strategy of open\-wheel racing in Formula Phenom, and the endurance and aggression of GT competition in Sportscar Czar\. Only the most well\-rounded racer—fast in anything, fearless on every lap—can claim the crown of RoadMaster\. Three titles\. One weekend\. Infinite glory\. |
 |[VB Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12672){:target="_blank"} | |SS, ARCA |
+|[chaos racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12678){:target="_blank"} |[Discord](https://discord.gg/PpjgPrd77e){:target="_blank"} | |
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} | | |
+|[HVRL Gen 6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12676){:target="_blank"} | | |
 
