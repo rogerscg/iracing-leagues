@@ -1,13 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Breathless Racing Team League](https://members.iracing.com/membersite/member/LeagueView.do?league=12614){:target="_blank"} |[Discord](https://discord.gg/g48veHxZGR){:target="_blank"} |Breathless Racing Team's League  Discord: Breathless Racing Team League |
-|[East Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12617){:target="_blank"} | | |
-|[Immersion Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12619){:target="_blank"} |[Discord](https://discord.gg/BWUuAKrdCR){:target="_blank"} |Full Length League \- Saturday Nights \- Join Discord Through League URL |
-|[RMU iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12615){:target="_blank"} | | |
-|[VM NEXT LEVEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12618){:target="_blank"} | |Camino al Campeonato Nacional |
-|[Gridlock Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12613){:target="_blank"} | | |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Copa OMDAI F4 By iRacing Mexico](https://members.iracing.com/membersite/member/LeagueView.do?league=12623){:target="_blank"} |[Discord](https://discord.gg/eBcgVHGdDn){:target="_blank"} |Liga para la Clasificación y Copa OMDAI |
 |[MDRL \(Midwest Dirt Racing League\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12622){:target="_blank"} | | |
 |[Random Race](https://members.iracing.com/membersite/member/LeagueView.do?league=12620){:target="_blank"} |[Discord](https://discord.com/invite/exUbR2T8Mv){:target="_blank"} |Combinaciones Aleatorias, Diversión Asegurada :\) |
@@ -66,4 +60,8 @@
 |[chaos racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12678){:target="_blank"} |[Discord](https://discord.gg/PpjgPrd77e){:target="_blank"} | |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} | | |
 |[HVRL Gen 6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12676){:target="_blank"} | | |
+|[Blue Ridge Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12679){:target="_blank"} |[Discord](https://discord.com/channels/1374213946487345344/1374213946487345347){:target="_blank"} |This will be a group of IRacers of all skill levels, we will be running mainly stock cars on asphalt tracks \(ovals, road courses\)\. The goal is to get together and have some fun in a competitive environment\! Please join the discord via the League URL\! I look forward to racing with you all\! |
+|[NOBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} | |No BS Series |
+|[OnlyCans Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12680){:target="_blank"} | | |
+|[Outlaw Karters](https://members.iracing.com/membersite/member/LeagueView.do?league=12681){:target="_blank"} | | |
 
