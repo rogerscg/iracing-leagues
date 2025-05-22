@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Copa OMDAI F4 By iRacing Mexico](https://members.iracing.com/membersite/member/LeagueView.do?league=12623){:target="_blank"} |[Discord](https://discord.gg/eBcgVHGdDn){:target="_blank"} |Liga para la Clasificación y Copa OMDAI |
-|[MDRL \(Midwest Dirt Racing League\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12622){:target="_blank"} | | |
-|[Random Race](https://members.iracing.com/membersite/member/LeagueView.do?league=12620){:target="_blank"} |[Discord](https://discord.com/invite/exUbR2T8Mv){:target="_blank"} |Combinaciones Aleatorias, Diversión Asegurada :\) |
-|[Tonight We Race\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12621){:target="_blank"} | | |
 |[ALIEN SQUAD RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12626){:target="_blank"} | |Official iRacing League of THE GREEN ALIEN SQUAD |
 |[RRL Rogers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12625){:target="_blank"} | |All Around fun racing with a little chaos\. |
 |[Hometeam](https://members.iracing.com/membersite/member/LeagueView.do?league=12624){:target="_blank"} | |rookie dirt racing |
@@ -64,4 +60,6 @@
 |[NOBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} | |No BS Series |
 |[OnlyCans Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12680){:target="_blank"} | | |
 |[Outlaw Karters](https://members.iracing.com/membersite/member/LeagueView.do?league=12681){:target="_blank"} | | |
+|[2Morrow Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12683){:target="_blank"} | |a league for beginners using all free content so anyone can race\. beginner to pro |
+|[ekc](https://members.iracing.com/membersite/member/LeagueView.do?league=12684){:target="_blank"} | |nascar |
 
