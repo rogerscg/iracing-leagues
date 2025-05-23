@@ -10,27 +10,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
+|-----------------------------------------------------------------------------------------------------------------|-------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |Arca Series |Open |Bristol Motor Speedway |Sat, May 24 09:00PM EDT |Sun, May 25 02:00AM BST |Sun, May 25 11:00AM AEST |
 |[Superstar ARCA East](https://members.iracing.com/membersite/member/LeagueView.do?league=11840){:target="_blank"} |Season 1 East | |Michigan International Speedway |Wed, May 28 07:00PM EDT |Thu, May 29 12:00AM BST |Thu, May 29 09:00AM AEST |
-|[FTSR ARCA Series \(Thursdays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2627){:target="_blank"} |2025\-B | |Charlotte Motor Speedway |Thu, May 22 08:00PM EDT |Fri, May 23 01:00AM BST |Fri, May 23 10:00AM AEST |
-|[Pro Sim Racing Alliance \- Fixed ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11586){:target="_blank"} |ARCA Fixed Season 1 |Fixed |Daytona International Speedway |Thu, May 22 08:00PM EDT |Fri, May 23 01:00AM BST |Fri, May 23 10:00AM AEST |
-
-### NASCAR 2022 NextGen
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[Average Joes Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12575){:target="_blank"} |Next Gen Season 1 |Fixed |Daytona International Speedway |Thu, May 22 06:45PM EDT |Thu, May 22 11:45PM BST |Fri, May 23 08:45AM AEST |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------|-----------------------|-----------------------|------------------------|
-|[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |2025 Summer Super Truck Series |Fixed |Charlotte Motor Speedway |Thu, May 22 07:45PM EDT |Fri, May 23 12:45AM BST |Fri, May 23 09:45AM AEST |
+|---------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------|-----------------------|-----------------------|------------------------|
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |Craftsman Truck Series |Open |Bristol Motor Speedway |Sat, May 24 10:00PM EDT |Sun, May 25 03:00AM BST |Sun, May 25 12:00PM AEST |
 
 ### SK Modified
@@ -41,23 +30,15 @@
 |---------------------------------------------------------------------------------------------------------------|-----------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |SK Modified |Open |Nashville Fairgrounds Speedway |Sat, May 24 08:00PM EDT |Sun, May 25 01:00AM BST |Sun, May 25 10:00AM AEST |
 
-### Whelen Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------|-----|---------------|-----------------------|-----------------------|------------------------|
-|[Red Light Racing SK Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3776){:target="_blank"} |Season 14 |Fixed |Phoenix Raceway |Thu, May 22 07:00PM EDT |Fri, May 23 12:00AM BST |Fri, May 23 09:00AM AEST |
-
 # Oval
 
-### Legends
+### Mini Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------|-----|--------------------------|-----------------------|-----------------------|------------------------|
-|[AOLL Racing's TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4855){:target="_blank"} |2025 Legends Coupe |Fixed |USA International Speedway |Thu, May 22 06:00PM EDT |Thu, May 22 11:00PM BST |Fri, May 23 08:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|--------------|-----|-------------------------------|-----------------------|-----------------------|------------------------|
+|[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} |Season 9 Ovals | |[Legacy] Phoenix Raceway - 2008 |Fri, May 23 04:20PM EDT |Fri, May 23 09:20PM BST |Sat, May 24 06:20AM AEST |
 
 ### Street Stocks
 
@@ -69,13 +50,13 @@
 
 # Open-wheel
 
-### Dallara DW12
+### Dallara F3
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|-------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[ASML Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12188){:target="_blank"} |Season 2 2025 | |Indianapolis Motor Speedway |Thu, May 22 08:30PM EDT |Fri, May 23 01:30AM BST |Fri, May 23 10:30AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|--------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} |Season 9 | |Okayama International Circuit |Fri, May 23 02:15PM EDT |Fri, May 23 07:15PM BST |Sat, May 24 04:15AM AEST |
 
 ### Dallara IR18
 
@@ -102,16 +83,6 @@
 |-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----|-------------------|-----------------------|-----------------------|------------------------|
 |[ALPHA ONE RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11865){:target="_blank"} |Alpha One Titan Series \[Super Formula Lights\] Summer Season Shootout |Both |Circuito de Navarra |Sun, May 25 06:45PM EDT |Sun, May 25 11:45PM BST |Mon, May 26 08:45AM AEST |
 |[Grass Roots Racing \- SFL](https://members.iracing.com/membersite/member/LeagueView.do?league=12446){:target="_blank"} |GRR SFL Season 1 |Fixed |Silverstone Circuit |Sun, May 25 08:00PM EDT |Mon, May 26 01:00AM BST |Mon, May 26 10:00AM AEST |
-
-# Sports Car
-
-### GT4 Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
-|[Late Apex Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12435){:target="_blank"} |Season 1 |Open |WeatherTech Raceway at Laguna Seca |Thu, May 22 08:00PM EDT |Fri, May 23 01:00AM BST |Fri, May 23 10:00AM AEST |
 
 # Prototype
 
@@ -148,9 +119,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|----------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|----------------|-----|-------------------|-----------------------|-----------------------|------------------------|
 |[UER iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12530){:target="_blank"} |UER Season 1 GT3 |Fixed |Circuito de Navarra |Sun, May 25 06:20PM EDT |Sun, May 25 11:20PM BST |Mon, May 26 08:20AM AEST |
-|[Maniti Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=8136){:target="_blank"} |GT3 Shootout | |Circuit de Spa-Francorchamps |Thu, May 22 10:30AM EDT |Thu, May 22 03:30PM BST |Fri, May 23 12:30AM AEST |
+|[BIL \| Brazilian iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12667){:target="_blank"} |Pré Session | |Lime Rock Park |Sun, May 25 01:00PM EDT |Sun, May 25 06:00PM BST |Mon, May 26 03:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -161,4 +132,5 @@
 |[E\-Pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |EPRL IMSA Season 6 |Open |Suzuka International Racing Course |Sat, May 24 04:00AM EDT |Sat, May 24 09:00AM BST |Sat, May 24 06:00PM AEST |
 |[Odyssey Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11444){:target="_blank"} |ORL World Tour \- Multiclass |Both |Silverstone Circuit |Sun, May 25 03:00PM EDT |Sun, May 25 08:00PM BST |Mon, May 26 05:00AM AEST |
 |[First Gear Racing Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12012){:target="_blank"} |FGR Memorial Weekend Double\!\!\! |Fixed |Indianapolis Motor Speedway |Sat, May 24 11:00AM EDT |Sat, May 24 04:00PM BST |Sun, May 25 01:00AM AEST |
+|[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2025 Season 2 Practice Lobbies |Open |Daytona International Speedway |Fri, May 30 07:00PM EDT |Sat, May 31 12:00AM BST |Sat, May 31 09:00AM AEST |
 
