@@ -11,7 +11,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|--------------------------------|-----------------------|-----------------------|------------------------|
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 Full Season |North America |20 |1664 | |Detroit Grand Prix at Belle Isle |Mon, May 26 09:15PM EDT |Tue, May 27 02:15AM BST |Tue, May 27 11:15AM AEST |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |Australia-NZ |19 |3178 |Fixed | | | | |
-|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |North America |19 |1508 |Both |Sebring International Raceway |Fri, May 23 05:00PM EDT |Fri, May 23 10:00PM BST |Sat, May 24 07:00AM AEST |
+|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |North America |19 |1556 |Both |Road Atlanta |Fri, May 30 05:00PM EDT |Fri, May 30 10:00PM BST |Sat, May 31 07:00AM AEST |
 |[Proton Racing Series \- LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=11408){:target="_blank"} |LMP2 Series |North America |17 |2129 | | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |North America |13 |2080 |Open |Phillip Island Circuit |Wed, May 28 07:30PM EDT |Thu, May 29 12:30AM BST |Thu, May 29 09:30AM AEST |
 
@@ -20,12 +20,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|--------------------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A LeMans Hypercar Cup \- Spreyton Ciders |Australia-NZ |67 |2611 |Both | | | | |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S02 \- GTP |Europe |28 |2640 |Both |Road Atlanta |Thu, May 29 02:30PM EDT |Thu, May 29 07:30PM BST |Fri, May 30 04:30AM AEST |
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Season 1 GTP  |North America |27 |1181 |Both |Autodromo Nazionale Monza |Thu, May 29 08:00PM EDT |Fri, May 30 01:00AM BST |Fri, May 30 10:00AM AEST |
-|[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |Europe |25 |2082 |Fixed |Watkins Glen International |Fri, May 23 03:05PM EDT |Fri, May 23 08:05PM BST |Sat, May 24 05:05AM AEST |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |23 |2225 |Both | | | | |
+|[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |Europe |26 |2054 |Fixed |Charlotte Motor Speedway |Fri, May 30 03:05PM EDT |Fri, May 30 08:05PM BST |Sat, May 31 05:05AM AEST |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |23 |2225 |Both |Mobility Resort Motegi |Sun, May 25 08:00PM EDT |Mon, May 26 01:00AM BST |Mon, May 26 10:00AM AEST |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |North America |17 |1353 |Both |Circuit Zolder |Thu, May 29 07:30PM EDT |Fri, May 30 12:30AM BST |Fri, May 30 09:30AM AEST |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |Australia-NZ |14 |1543 |Both | | | | |
 
@@ -53,10 +53,9 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|--------------------------------|-----------------------|-----------------------|------------------------|
-|[Almeida Racing League \(Season 3B\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12658){:target="_blank"} |Pit Party |North America |39 |None | | | | | |
 |[Almeida Racing League \(Season 3B\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12658){:target="_blank"} |Split 1 |North America |23 |2639 | | | | | |
-|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |International |19 |2302 | | | | | |
-|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |International |17 |1422 | | | | | |
+|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |International |19 |2302 | |Nürburgring Combined |Mon, May 26 01:20PM EDT |Mon, May 26 06:20PM BST |Tue, May 27 03:20AM AEST |
+|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |International |17 |1422 | |Nürburgring Combined |Mon, May 26 12:20PM EDT |Mon, May 26 05:20PM BST |Tue, May 27 02:20AM AEST |
 |[SRB LEAGUES \- LMP3 SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |SRB LMP3 SUNDAYS |Europe |12 |2001 | | | | | |
 |[Almeida Racing League \(Season 3B\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12658){:target="_blank"} |Split 2 |Europe |12 |1668 | | | | | |
 |[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC LMP3 \- Season 3 |North America |11 |1797 |Open |Detroit Grand Prix at Belle Isle |Thu, May 29 07:00PM EDT |Fri, May 30 12:00AM BST |Fri, May 30 09:00AM AEST |
@@ -82,9 +81,8 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 2 |North America |28 |1396 |Fixed | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |Europe |27 |2535 | | | | | |
-|[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 1 |North America |23 |2044 |Fixed |Nürburgring Nordschleife |Fri, May 23 08:30PM EDT |Sat, May 24 01:30AM BST |Sat, May 24 10:30AM AEST |
+|[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 1 |North America |24 |2072 |Fixed | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Preseason |North America |21 |2090 |Fixed | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |Europe |18 |2792 | |Watkins Glen International |Mon, May 26 02:50PM EDT |Mon, May 26 07:50PM BST |Tue, May 27 04:50AM AEST |
 |[Superlap Community](https://members.iracing.com/membersite/member/LeagueView.do?league=11265){:target="_blank"} |SUPERLAP Radical Spring 2025 |North America |17 |1972 | | | | | |

@@ -2,7 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Algarve2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12627){:target="_blank"} | |Algarve Open Season |
 |[NLRL Stadium Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12630){:target="_blank"} |[Discord](https://discord.gg/hHSsgdWD9t){:target="_blank"} |Pro2 Lites at road courses with no track limit policing  https://discord\.gg/hHSsgdWD9t |
 |[OPRC](https://members.iracing.com/membersite/member/LeagueView.do?league=12629){:target="_blank"} |[Discord](https://discord.gg/8tuYRvwbsB){:target="_blank"} |Community for racers who respect racing etiquette and other drivers on the Grid\. ⠀⠀⠀⠀⠀ Are you fed up with reckless driving, constant wrecks, and dirty drivers? Join us if you value safe, clean racing, this is the league for you\. We're committed to fostering a competitive environment where respect on the track is the top priority\.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Let's build such a community together\!  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ \-Free Entry  ⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ \-Prizes |
 |[Wanka Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12631){:target="_blank"} | | |
@@ -63,4 +62,8 @@
 |[CSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12686){:target="_blank"} |[Discord](https://discord.gg/FmFkRSvB5A){:target="_blank"} |CSC Racing League \- More Info to come\. |
 |[We \*\*\* a lot](https://members.iracing.com/membersite/member/LeagueView.do?league=12687){:target="_blank"} | |Were trash |
 |[Wicked High Limit](https://members.iracing.com/membersite/member/LeagueView.do?league=12688){:target="_blank"} | |DUI's allowed |
+|[CASTOR eMotorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12690){:target="_blank"} |[Discord](https://discord.gg/RYbmc6VC){:target="_blank"} |laid\-back iRacing community built for racers who love clean battles, good banter, and a touch of shenanigans\. |
+|[FWD Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=12691){:target="_blank"} | |We run FWD cars on ovals, open setup\. |
+|[Gemstone Family League](https://members.iracing.com/membersite/member/LeagueView.do?league=12692){:target="_blank"} | | |
+|[ORBSR Rokt the Rig iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12689){:target="_blank"} | |ORBSR Rokt the Rig iRacing League |
 

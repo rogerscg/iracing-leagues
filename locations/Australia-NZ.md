@@ -25,10 +25,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------|------------|-------|----|-----|-----------------------|-----------------------|-----------------------|------------------------|
 |[Australian NASCAR eSeries \- Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=10125){:target="_blank"} |Season 1 2025 |Australia-NZ |68 |2110 | |Nashville Superspeedway |Thu, May 29 05:00AM EDT |Thu, May 29 10:00AM BST |Thu, May 29 07:00PM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025A Orbic Truck Series |Australia-NZ |61 |1795 |Both | | | | |
-|[Southern Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=12585){:target="_blank"} |2025 Open Setup Truck Series |Australia-NZ |31 |2738 | |Charlotte Motor Speedway |Fri, May 23 05:30AM EDT |Fri, May 23 10:30AM BST |Fri, May 23 07:30PM AEST |
+|[Southern Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=12585){:target="_blank"} |2025 Open Setup Truck Series |Australia-NZ |36 |2664 | |Nashville Superspeedway |Fri, May 30 05:30AM EDT |Fri, May 30 10:30AM BST |Fri, May 30 07:30PM AEST |
 |[Australian NASCAR eSeries \- Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=10125){:target="_blank"} |Australian Truck Series Season 1 |Australia-NZ |29 |2134 | | | | | |
 
 ### XFINITY Series
@@ -36,18 +36,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[Australian NASCAR Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10465){:target="_blank"} |2025 Motorsport Australia Australian NASCAR Championships |Australia-NZ |32 |3244 |Open | | | | |
+|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|------------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
+|[Australian NASCAR Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10465){:target="_blank"} |2025 Motorsport Australia Australian NASCAR Championships |Australia-NZ |32 |3244 |Open |Charlotte Motor Speedway |Sun, May 25 06:00AM EDT |Sun, May 25 11:00AM BST |Sun, May 25 08:00PM AEST |
 
 # Oval
-
-### Dirt Mini Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[THD SIMSPORT PRODUCTIONS](https://members.iracing.com/membersite/member/LeagueView.do?league=11705){:target="_blank"} |THS SimSports Productions take 2 |Australia-NZ |68 |1721 | | | | | |
 
 ### Legends
 
@@ -56,7 +48,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|-----------------------------|------------|-------|----|-----|-------------|--------|------|------|
 |[Legend Cars E\-Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11509){:target="_blank"} |Legend Car E\-Series Season 2 |Australia-NZ |26 |1672 |Fixed | | | | |
-|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 4 |Australia-NZ |16 |2111 |Fixed | | | | |
+|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 4 |Australia-NZ |16 |2110 |Fixed | | | | |
 
 ### Street Stocks
 
@@ -73,8 +65,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|------------|-------|----|-----|--------------------------------------------|-----------------------|-----------------------|------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B Road to Indy Series \- Spreyton Ciders |Australia-NZ |73 |2669 |Both |Autodromo Internazionale Enzo e Dino Ferrari |Fri, May 23 05:50AM EDT |Fri, May 23 10:50AM BST |Fri, May 23 07:50PM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|------------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B Road to Indy Series \- Spreyton Ciders |Australia-NZ |74 |2629 |Both |Homestead Miami Speedway |Fri, May 30 05:50AM EDT |Fri, May 30 10:50AM BST |Fri, May 30 07:50PM AEST |
 
 ### Hosted All Cars Class
 
@@ -97,8 +89,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|----------------------------|------------|-------|----|-----|-------------------|-----------------------|-----------------------|------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B Formula Ford Challenge |Australia-NZ |60 |2336 |Both |Oulton Park Circuit |Fri, May 23 04:23AM EDT |Fri, May 23 09:23AM BST |Fri, May 23 06:23PM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|----------------------------|------------|-------|----|-----|--------------|-----------------------|-----------------------|------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B Formula Ford Challenge |Australia-NZ |61 |2299 |Both |Lime Rock Park |Fri, May 30 04:08AM EDT |Fri, May 30 09:08AM BST |Fri, May 30 06:08PM AEST |
 
 ### Super Formula Lights
 
@@ -249,7 +241,7 @@
 |[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |Southern Cross Sim Racing Season 1 |Australia-NZ |28 |1534 | | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025B |Australia-NZ |28 |2032 |Fixed |Daytona International Speedway |Sun, May 25 04:45AM EDT |Sun, May 25 09:45AM BST |Sun, May 25 06:45PM AEST |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday Nights Gen 3 Season 1 |Australia-NZ |28 |1121 | | | | | |
-|[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |V8 Supercars Season 2 \| Southern Cross Sim Racing |Australia-NZ |27 |1335 | |Winton Motor Raceway |Fri, May 23 04:30AM EDT |Fri, May 23 09:30AM BST |Fri, May 23 06:30PM AEST |
+|[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |V8 Supercars Season 2 \| Southern Cross Sim Racing |Australia-NZ |27 |1344 | | | | | |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |Australia-NZ |23 |1638 |Both | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025B V8SC Development Series \- Trophi\.AI |Australia-NZ |13 |1771 | | | | | |
 
@@ -289,16 +281,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI 410 Sprintcar Championship |Australia-NZ |17 |2712 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------|------------------------------|------------|-------|----|-----|-------------------|-----------------------|-----------------------|------------------------|
+|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI 410 Sprintcar Championship |Australia-NZ |17 |2712 | |Port Royal Speedway |Sun, May 25 04:30AM EDT |Sun, May 25 09:30AM BST |Sun, May 25 06:30PM AEST |
 
 ### Dirt Street Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Street Stocks Super Winter Series 2025 |Australia-NZ |44 |2702 | |The Dirt Track at Charlotte |Fri, May 23 07:00AM EDT |Fri, May 23 12:00PM BST |Fri, May 23 09:00PM AEST |
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
+|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Street Stocks Super Winter Series 2025 |Australia-NZ |50 |2614 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -370,11 +362,10 @@
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Domains2U GT3 \- Season 3 |Australia-NZ |51 |2080 |Fixed |Daytona International Speedway |Mon, May 26 04:00AM EDT |Mon, May 26 09:00AM BST |Mon, May 26 06:00PM AEST |
 |[FDL \- P1SG SFL Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11833){:target="_blank"} |SFLS2 |Australia-NZ |51 |3429 | |Daytona International Speedway |Tue, May 27 04:30AM EDT |Tue, May 27 09:30AM BST |Tue, May 27 06:30PM AEST |
 |[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 4 |Australia-NZ |50 |1971 | | | | | |
-|[420 Oz SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |420 OZ SIM RACING V8 SUPERCARS SEASON 2 |Australia-NZ |48 |1605 |Both | | | | |
 |[IRWC VRS Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |IRWC VRS Porsche Carrera Cup Season 1 |Australia-NZ |46 |2374 | |Detroit Grand Prix at Belle Isle |Mon, May 26 04:30AM EDT |Mon, May 26 09:30AM BST |Mon, May 26 06:30PM AEST |
-|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |The Pisston Cup 2\.0 |Australia-NZ |45 |1678 |Both |Summit Point Raceway |Fri, May 23 04:00AM EDT |Fri, May 23 09:00AM BST |Fri, May 23 06:00PM AEST |
+|[SuperCars NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |The Pisston Cup 2\.0 |Australia-NZ |45 |1662 |Both | | | | |
+|[E\-Pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |special events |Australia-NZ |40 |1742 |Open |Mobility Resort Motegi |Fri, May 30 04:00AM EDT |Fri, May 30 09:00AM BST |Fri, May 30 06:00PM AEST |
 |[V8SCOPS Supports \- VEE Eights](https://members.iracing.com/membersite/member/LeagueView.do?league=10713){:target="_blank"} |2025 Season |Australia-NZ |40 |2298 | | | | | |
-|[E\-Pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |special events |Australia-NZ |38 |1742 |Open |Suzuka International Racing Course |Fri, May 23 04:00AM EDT |Fri, May 23 09:00AM BST |Fri, May 23 06:00PM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |Sunday Sessions |Australia-NZ |38 |1940 |Both | | | | |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |TOP 10 SHOOTOUT SRW V8 TUESDAY |Australia-NZ |35 |2252 |Open | | | | |
 |[FDL \- Formula Drivers League](https://members.iracing.com/membersite/member/LeagueView.do?league=12259){:target="_blank"} |FDL Recruitment Series |Australia-NZ |34 |3565 | | | | | |

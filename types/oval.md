@@ -9,7 +9,6 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
-|[THD SIMSPORT PRODUCTIONS](https://members.iracing.com/membersite/member/LeagueView.do?league=11705){:target="_blank"} |THS SimSports Productions take 2 |Australia-NZ |68 |1721 | | | | | |
 |[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |Les Coureurs du Dimanche \- Saison 2 : Mini\-Stock Dirt |North America |31 |1442 |Fixed |Williams Grove Speedway |Sun, May 25 08:00PM EDT |Mon, May 26 01:00AM BST |Mon, May 26 10:00AM AEST |
 |[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |AMX IRacing Dirt Mini Stock Series Season 1 |North America |26 |2324 |Both | | | | |
 |[Thompson Dirt series](https://members.iracing.com/membersite/member/LeagueView.do?league=12438){:target="_blank"} |THOMPSON DIRT SEIRES |North America |22 |1533 | | | | | |
@@ -47,7 +46,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------------|-------|----|-----|--------------------------|-----------------------|-----------------------|------------------------|
 |[American Sim Racing Club \(Late Model Stocks\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11734){:target="_blank"} |2025A Postma Flooring LMS |North America |56 |2758 |Fixed | | | | |
 |[Xcelerate Racing League Monday](https://members.iracing.com/membersite/member/LeagueView.do?league=11467){:target="_blank"} |2025 Season 1 |North America |53 |1815 | | | | | |
 |[GLR LATE MODEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11992){:target="_blank"} |GLR Late Model Season 1 |North America |48 |1881 | | | | | |
@@ -55,23 +54,22 @@
 |[SPARK 2025 ARCA National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5815){:target="_blank"} |Spark ReScreened Late Model 4 |North America |41 |2242 |Fixed | | | | |
 |[204 League \- Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11061){:target="_blank"} |204 League Late Model Stock Shootout |North America |40 |2000 |Fixed |Richmond Raceway |Tue, May 27 09:00PM EDT |Wed, May 28 02:00AM BST |Wed, May 28 11:00AM AEST |
 |[Track Masters Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11853){:target="_blank"} |Track Masters Sim Series Season 2 |North America |39 |3551 | | | | | |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Late Model Heatwave Championship |North America |35 |1530 |Fixed | | | | |
 |[North South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5080){:target="_blank"} |Spring 2025 NSRL Renu Sealcoating Late Model Stocks |North America |34 |2679 | | | | | |
 |[American Sim Racing Club \(Late Model Stocks\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11734){:target="_blank"} |Postma Flooring LMS \- 2025B \(Summer\) |North America |34 |3046 |Fixed | | | | |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Late Model Heatwave Championship |North America |33 |1512 |Fixed |Five Flags Speedway |Fri, May 23 08:00PM EDT |Sat, May 24 01:00AM BST |Sat, May 24 10:00AM AEST |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 2 |North America |33 |1776 | | | | | |
 |[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S30 |North America |31 |1790 |Fixed | | | | |
 |[Xcelerate Racing League Monday](https://members.iracing.com/membersite/member/LeagueView.do?league=11467){:target="_blank"} |2025 Season 2 |North America |31 |1644 | | | | | |
 |[Furniture Mart Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |FMWS Late Model Tour 2025 Season 1 |North America |30 |2660 |Fixed | | | | |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Late night Late Model Stock |North America |29 |1173 | |South Boston Speedway |Fri, May 30 09:30PM EDT |Sat, May 31 02:30AM BST |Sat, May 31 11:30AM AEST |
 |[Metal Heads Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11892){:target="_blank"} |Championnat LMS 2025 |North America |28 |1937 | | | | | |
 |[SART LMSC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11905){:target="_blank"} |Season 1 of the LMSC Tour of SART |North America |28 |2296 | | | | | |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Late night Late Model Stock |North America |28 |1195 | |Southern National Motorsports Park |Fri, May 23 09:30PM EDT |Sat, May 24 02:30AM BST |Sat, May 24 11:30AM AEST |
 |[eSports Championship Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10110){:target="_blank"} |eCAR 24/25 season |North America |27 |2940 |Open | | | | |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |late model stock car |North America |27 |1401 |Open | | | | |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Models S11 |North America |27 |2072 |Fixed | | | | |
 |[Down South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6920){:target="_blank"} |DC Designs Late Model Stock Series |North America |24 |1888 |Fixed | | | | |
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Late Model Season 52 |North America |23 |2253 |Fixed | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |HMS Late Model Stock Showcase Series |North America |22 |1800 |Fixed | | | | |
-|[Knottical Marine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11510){:target="_blank"} |Pro Late Tour |North America |19 |1904 | | | | | |
 |[SAORS](https://members.iracing.com/membersite/member/LeagueView.do?league=12097){:target="_blank"} |Late model |North America |19 |1781 | | | | | |
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |Rising Stars Season 12 |North America |19 |1663 |Both | | | | |
 |[CiL Short Track Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=9359){:target="_blank"} |STS Spring 2025, Season 12 |North America |18 |2926 | | | | | |
@@ -103,7 +101,7 @@
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The New Legend Gang League |North America |23 |1929 | |Langley Speedway |Sun, May 25 07:00PM EDT |Mon, May 26 12:00AM BST |Mon, May 26 09:00AM AEST |
 |[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends\-Crystal Cup |North America |23 |1816 | | | | | |
 |[Strange Brew Legends Series powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6409){:target="_blank"} |Season 6 Legend Series |North America |23 |1956 | |Oxford Plains Speedway |Tue, May 27 08:00PM EDT |Wed, May 28 01:00AM BST |Wed, May 28 10:00AM AEST |
-|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 4 |Australia-NZ |16 |2111 |Fixed | | | | |
+|[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 4 |Australia-NZ |16 |2110 |Fixed | | | | |
 |[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC Legends Season 2 Mini Season |North America |16 |1800 |Both | | | | |
 |[2025 INEX Spring Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=11316){:target="_blank"} |2025 INEX Spring Nationals |North America |16 |2260 | | | | | |
 |[League Zero \- Legends Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8126){:target="_blank"} |Season III |North America |13 |1894 |Fixed | | | | |
@@ -116,6 +114,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|-------------------|-----------------------|-----------------------|------------------------|
 |[TK Oval Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Oval Challenge \- 25T2 |South America |43 |1736 | | | | | |
+|[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} |Season 9 Ovals |Europe |31 |1515 | | | | | |
 |[QuickSilver Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4388){:target="_blank"} |Short Track Showdown Season 4 |North America |29 |1688 |Fixed | | | | |
 |[CT Mini Stock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12396){:target="_blank"} |mini Stocks |North America |22 |2657 | | | | | |
 |[FalconGrafix Mini Stocks powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=8578){:target="_blank"} |Falcongrafix Mini Stocks season 6 |North America |21 |1944 | |Five Flags Speedway |Tue, May 27 09:00PM EDT |Wed, May 28 02:00AM BST |Wed, May 28 11:00AM AEST |
@@ -138,6 +137,7 @@
 |[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |Rising Stars Season 11 |North America |42 |1695 |Both | | | | |
 |[CRA Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=11977){:target="_blank"} |CRA STREET STOCKS 2025 |North America |38 |1480 | | | | | |
 |[American Sim Racing Club \(Street Stocks\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6311){:target="_blank"} |Street Stock Summer Series \(2025\) |North America |31 |2969 | | | | | |
+|[Leave The Pack iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5801){:target="_blank"} |LTP Street Stock Showdown S3 |North America |31 |3797 | | | | | |
 |[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S33 |North America |29 |1916 |Fixed | | | | |
 |[H&H Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12307){:target="_blank"} |HHR Short Track Series Season 1 |North America |28 |1795 |Both |USA International Speedway |Thu, May 29 09:00PM EDT |Fri, May 30 02:00AM BST |Fri, May 30 11:00AM AEST |
 |[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |street stocks |North America |27 |1367 |Open | | | | |
