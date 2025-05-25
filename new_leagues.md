@@ -1,12 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[NLRL Stadium Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12630){:target="_blank"} |[Discord](https://discord.gg/hHSsgdWD9t){:target="_blank"} |Pro2 Lites at road courses with no track limit policing  https://discord\.gg/hHSsgdWD9t |
-|[OPRC](https://members.iracing.com/membersite/member/LeagueView.do?league=12629){:target="_blank"} |[Discord](https://discord.gg/8tuYRvwbsB){:target="_blank"} |Community for racers who respect racing etiquette and other drivers on the Grid\. ⠀⠀⠀⠀⠀ Are you fed up with reckless driving, constant wrecks, and dirty drivers? Join us if you value safe, clean racing, this is the league for you\. We're committed to fostering a competitive environment where respect on the track is the top priority\.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ Let's build such a community together\!  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ \-Free Entry  ⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀ \-Prizes |
-|[Wanka Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12631){:target="_blank"} | | |
-|[Bavarian Momentum Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12632){:target="_blank"} | |MoMo \| Sim Racing \| Bayern |
-|[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |[Discord](https://discord.gg/rRbSezgU){:target="_blank"} |e series racing for Manawatu car club |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[C&C Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12638){:target="_blank"} | |Friends Racin |
 |[CHOPSHOP FULL AI](https://members.iracing.com/membersite/member/LeagueView.do?league=12635){:target="_blank"} | | |
 |[National Sim Racing League Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12637){:target="_blank"} | |ARCA Menards Season 1 |
@@ -66,4 +61,6 @@
 |[FWD Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=12691){:target="_blank"} | |We run FWD cars on ovals, open setup\. |
 |[Gemstone Family League](https://members.iracing.com/membersite/member/LeagueView.do?league=12692){:target="_blank"} | | |
 |[ORBSR Rokt the Rig iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12689){:target="_blank"} | |ORBSR Rokt the Rig iRacing League |
+|[Apex MX\-5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12693){:target="_blank"} | | |
+|[FRL AI Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12694){:target="_blank"} | |Private League for Me and the Boys to Race with AI |
 
