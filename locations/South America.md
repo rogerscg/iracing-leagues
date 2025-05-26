@@ -45,9 +45,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------|----------------------------|-------------|-------|----|-----|------------------|------------------------|------------------------|-------------------------|
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY SILVER |South America |29 |2150 |Both |Auto Club Speedway |Thu, May 29 06:00PM EDT |Thu, May 29 11:00PM BST |Fri, May 30 08:00AM AEST |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY GOLD |South America |24 |3533 |Both |Homestead Miami Speedway |Sun, May 25 06:00PM EDT |Sun, May 25 11:00PM BST |Mon, May 26 08:00AM AEST |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY GOLD |South America |24 |3527 |Both |Auto Club Speedway |Sun, June 01 06:00PM EDT |Sun, June 01 11:00PM BST |Mon, June 02 08:00AM AEST |
 
 ### FIA F4
 
@@ -128,13 +128,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|--------------------------------------------|-----------------------|-----------------------|-------------------------|
-|[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- 25T2 |South America |54 |2429 | | | | | |
+|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|--------------------------------------------|------------------------|------------------------|-------------------------|
+|[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- 25T2 |South America |54 |2429 | |Autodromo Nazionale Monza |Mon, June 02 05:00PM EDT |Mon, June 02 10:00PM BST |Tue, June 03 07:00AM AEST |
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/2 |South America |47 |3139 | |Autodromo Nazionale Monza |Thu, May 29 07:10PM EDT |Fri, May 30 12:10AM BST |Fri, May 30 09:10AM AEST |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/2 |South America |47 |1750 | |Autodromo Nazionale Monza |Thu, May 29 05:10PM EDT |Thu, May 29 10:10PM BST |Fri, May 30 07:10AM AEST |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV \- GT3 OFICIAL CUP T2 |South America |46 |1965 | | | | | |
 |[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Carbon GT3 Cup \- T2 2025 |South America |39 |2084 | |Autodromo Nazionale Monza |Sat, May 31 01:50PM EDT |Sat, May 31 06:50PM BST |Sun, June 01 03:50AM AEST |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT GT3 2025\.2 |South America |36 |1675 |Both |Circuit de Spa-Francorchamps |Sun, May 25 07:30PM EDT |Mon, May 26 12:30AM BST |Mon, May 26 09:30AM AEST |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT GT3 2025\.2 |South America |37 |1683 |Both |Nürburgring Combined |Sun, June 01 07:00PM EDT |Mon, June 02 12:00AM BST |Mon, June 02 09:00AM AEST |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RACERSAV GT3 T1 2025 |South America |35 |2295 | | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC GT3 SERIES |South America |32 |2210 |Both |Autodromo Internazionale Enzo e Dino Ferrari |Mon, May 26 06:00PM EDT |Mon, May 26 11:00PM BST |Tue, May 27 08:00AM AEST |
 |[IRB \- MoT Road to Pro 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |T2\-2025 \- MoT Road to Pro |South America |32 |3029 | | | | | |
@@ -145,9 +145,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|----------------------------|-----------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|--------------------|-----------------------|------------------------|-------------------------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |198 |1967 | | | | | |
 |[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2025/2 |South America |50 |2889 | | | | | |
-|[LIGA FRS \- IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS IMSA \- 25T2 |South America |35 |2382 | |Circuit de Spa-Francorchamps |Sun, May 25 05:00PM EDT |Sun, May 25 10:00PM BST |Mon, May 26 07:00AM AEST |
+|[LIGA FRS \- IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS IMSA \- 25T2 |South America |35 |2408 | | | | | |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP 2 |South America |21 |1269 |Both |Nürburgring Combined |Sat, May 31 07:45PM EDT |Sun, June 01 12:45AM BST |Sun, June 01 09:45AM AEST |
 

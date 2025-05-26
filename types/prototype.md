@@ -25,7 +25,7 @@
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S02 \- GTP |Europe |28 |2640 |Both |Road Atlanta |Thu, May 29 02:30PM EDT |Thu, May 29 07:30PM BST |Fri, May 30 04:30AM AEST |
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Season 1 GTP  |North America |27 |1181 |Both |Autodromo Nazionale Monza |Thu, May 29 08:00PM EDT |Fri, May 30 01:00AM BST |Fri, May 30 10:00AM AEST |
 |[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |Europe |26 |2054 |Fixed |Charlotte Motor Speedway |Fri, May 30 03:05PM EDT |Fri, May 30 08:05PM BST |Sat, May 31 05:05AM AEST |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |23 |2225 |Both |Mobility Resort Motegi |Sun, May 25 08:00PM EDT |Mon, May 26 01:00AM BST |Mon, May 26 10:00AM AEST |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |23 |2225 |Both |Mobility Resort Motegi |Tue, May 27 08:00PM EDT |Wed, May 28 01:00AM BST |Wed, May 28 10:00AM AEST |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |North America |17 |1353 |Both |Circuit Zolder |Thu, May 29 07:30PM EDT |Fri, May 30 12:30AM BST |Fri, May 30 09:30AM AEST |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |Australia-NZ |14 |1543 |Both | | | | |
 
@@ -63,12 +63,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |Europe |42 |3460 | |Mount Panorama Circuit |Sun, June 01 02:00PM EDT |Sun, June 01 07:00PM BST |Mon, June 02 04:00AM AEST |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |North America |27 |2649 | | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 2 |Europe |22 |2757 |Open |Mount Panorama Circuit |Thu, May 29 02:15PM EDT |Thu, May 29 07:15PM BST |Fri, May 30 04:15AM AEST |
-|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S2 Sunday Radical SR10 |North America |14 |1730 |Both |Virginia International Raceway |Sun, May 25 07:00PM EDT |Mon, May 26 12:00AM BST |Mon, May 26 09:00AM AEST |
-|[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |Radical Challenge 2025 |Europe |14 |1866 | | | | | |
+|[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |Radical Challenge 2025 |Europe |17 |1993 | | | | | |
+|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S2 Sunday Radical SR10 |North America |15 |1727 |Both |Mount Panorama Circuit |Sun, June 01 07:00PM EDT |Mon, June 02 12:00AM BST |Mon, June 02 09:00AM AEST |
 |[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} |Radical Academy Esport Series \- 2025 |North America |12 |1297 | | | | | |
 |[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} |Coaching Session |North America |10 |None | | | | | |
 
@@ -77,15 +77,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |Europe |27 |2535 | | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 1 |North America |24 |2072 |Fixed | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Preseason |North America |21 |2090 |Fixed | | | | |
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |North America |18 |1343 |Fixed |Five Flags Speedway |Sun, June 01 08:30PM EDT |Mon, June 02 01:30AM BST |Mon, June 02 10:30AM AEST |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |Europe |18 |2792 | |Watkins Glen International |Mon, May 26 02:50PM EDT |Mon, May 26 07:50PM BST |Tue, May 27 04:50AM AEST |
 |[Superlap Community](https://members.iracing.com/membersite/member/LeagueView.do?league=11265){:target="_blank"} |SUPERLAP Radical Spring 2025 |North America |17 |1972 | | | | | |
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |North America |15 |1269 |Fixed |Daytona International Speedway |Sun, May 25 08:30PM EDT |Mon, May 26 01:30AM BST |Mon, May 26 10:30AM AEST |
+|[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |Europe |15 |1639 | |Daytona International Speedway |Sun, June 01 04:00PM EDT |Sun, June 01 09:00PM BST |Mon, June 02 06:00AM AEST |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |Europe |13 |2031 | |Algarve International Circuit |Fri, May 30 03:59PM EDT |Fri, May 30 08:59PM BST |Sat, May 31 05:59AM AEST |
-|[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |Europe |12 |1598 | |Sebring International Raceway |Sun, May 25 04:00PM EDT |Sun, May 25 09:00PM BST |Mon, May 26 06:00AM AEST |
 
 ### Riley Daytona Prototype
 
@@ -100,8 +100,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------------------------|-----------------------|-----------------------|------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S2 |North America |72 |3019 |Open |[Legacy] Phoenix Raceway - 2008 |Sun, May 25 02:40PM EDT |Sun, May 25 07:40PM BST |Mon, May 26 04:40AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------|--------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S2 |North America |73 |3064 |Open | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |RES CRL SRF Season 1 |North America |49 |2200 |Open | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SCCA Spec Racer |Australia-NZ |15 |1525 |Fixed | | | | |
 

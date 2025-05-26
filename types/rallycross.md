@@ -8,8 +8,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Yes2Rallycross \- AWD \(2025\) |North America |17 |2484 |Fixed | | | | |
+|--------------------------------------------------------------------------------------------------------------------|---------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[NASA Rallycross Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=9777){:target="_blank"} |NASA RX Masters |North America |14 |3115 | | | | | |
 
 ### Rallycross
@@ -17,12 +16,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|--------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25a |North America |27 |5169 | | | | | |
-|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1\-2 Rallycross |Europe |23 |1828 |Both |Sonoma Raceway |Sun, May 25 02:00PM EDT |Sun, May 25 07:00PM BST |Mon, May 26 04:00AM AEST |
+|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S1\-2 Rallycross |Europe |25 |1827 |Both | | | | |
 |[AusRX/AusTrux](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 10 |Australia-NZ |19 |2404 | | | | | |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25A |North America |18 |2968 | | | | | |
-|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |Europe |14 |1485 | |Summit Point Raceway |Sun, May 25 02:10PM EDT |Sun, May 25 07:10PM BST |Mon, May 26 04:10AM AEST |
+|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |Europe |14 |1485 | | | | | |
 |[Wheel Challenge Series \- Road Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=11929){:target="_blank"} |Rallycross WCS S2\-2025 |North America |12 |1550 |Both | | | | |
 
 ### VW Beetle GRC
