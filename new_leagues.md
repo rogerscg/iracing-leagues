@@ -2,16 +2,8 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[EOL Fundraiser](https://members.iracing.com/membersite/member/LeagueView.do?league=12647){:target="_blank"} | | |
-|[NXTGP \- iRacing PSC](https://members.iracing.com/membersite/member/LeagueView.do?league=12643){:target="_blank"} | |NXTGP iRacing Porsche Super Cup League |
-|[skr0](https://members.iracing.com/membersite/member/LeagueView.do?league=12644){:target="_blank"} | |skr0 description |
-|[WRL ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12646){:target="_blank"} | | |
-|[IBEX Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12641){:target="_blank"} | |North America Summer Series |
-|[Slo\-fessional Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12645){:target="_blank"} | | |
-|[Veloce x Ferrari Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=12642){:target="_blank"} | | |
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} | |The second league in the Billy Oirish Racing Season |
 |[Electric Thunder Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12650){:target="_blank"} | |Beginner Friendly Truck Series Racing on tuesday nights\. |
-|[ii2wi Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12648){:target="_blank"} | | |
 |[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} | |League for all, running the winston cup points format with the 2003 schedule |
 |[Checkered Flag Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12652){:target="_blank"} |[Discord](https://discord.gg/P2T5c2f8Js){:target="_blank"} |410 Open Setup |
 |[Third Line Connection](https://members.iracing.com/membersite/member/LeagueView.do?league=12653){:target="_blank"} | |Les événements de la Third Line Connection, l'union de la Scuderia Volpe, la Unity et la Old Firm ? C'est ici \! |
@@ -59,4 +51,7 @@
 |[Krackin Racings GT3 Sprint series](https://members.iracing.com/membersite/member/LeagueView.do?league=12696){:target="_blank"} | | |
 |[The Down Under Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=12697){:target="_blank"} |[Discord](https://discord.gg/QDf6KEGX){:target="_blank"} |Strap in for the raw power and high\-octane thrill of the Down Under Dirt League 360 Sprintcar Series, where speed meets precision on the virtual clay\. Born from Australia and New Zealand’s fierce dirt racing culture, this iRacing league delivers wheel\-to\-wheel action featuring 360 winged sprintcars—blending strategy, skill, and split\-second decisions\. Whether you're a seasoned sim racer or a rising talent, join a community that lives and breathes dirt racing\. With professionally broadcasted events, tight\-knit competition, and iconic dirt tracks, the Down Under Dirt League offers the ultimate virtual sprintcar experience—where legends are made every lap\. |
 |[dbtbjt](https://members.iracing.com/membersite/member/LeagueView.do?league=12695){:target="_blank"} | | |
+|[petsitter](https://members.iracing.com/membersite/member/LeagueView.do?league=12698){:target="_blank"} | |nur |
+|[SportsCar World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12700){:target="_blank"} | | |
+|[WRL Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=12701){:target="_blank"} |[Discord](https://discord.gg/rDZmt52g){:target="_blank"} |Various sports car championships, such as GT3 and GR86 Cup |
 

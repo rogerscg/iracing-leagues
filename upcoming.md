@@ -16,13 +16,13 @@
 |[Superstar ARCA East](https://members.iracing.com/membersite/member/LeagueView.do?league=11840){:target="_blank"} |Season 1 East | |Michigan International Speedway |Wed, May 28 07:00PM EDT |Thu, May 29 12:00AM BST |Thu, May 29 09:00AM AEST |
 |[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} |Glove Station Arca Summer Series Season 2 | |Daytona International Speedway |Mon, June 02 07:00PM EDT |Tue, June 03 12:00AM BST |Tue, June 03 09:00AM AEST |
 
-### NASCAR 2022 NextGen
+### NASCAR Legends 1987
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|-------|-----|------------------------|-----------------------|-----------------------|------------------------|
-|[FTSR Victory Fuel Cup Series \(Mondays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2485){:target="_blank"} |2025\-B |Open |Charlotte Motor Speedway |Mon, May 26 08:00PM EDT |Tue, May 27 01:00AM BST |Tue, May 27 10:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} |Cruisin Classics Retro 87 Series | |Daytona International Speedway |Tue, June 03 08:00PM EDT |Wed, June 04 01:00AM BST |Wed, June 04 10:00AM AEST |
 
 ### NASCAR Truck Series
 
@@ -61,6 +61,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|----------|-----|------------|------------------------|------------------------|-------------------------|
 |[Crocker Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12579){:target="_blank"} |late model | |The Bullring |Mon, June 02 07:45PM EDT |Tue, June 03 12:45AM BST |Tue, June 03 09:45AM AEST |
+
+### Legends
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------|------------------------|------------------------|-------------------------|
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Legends Season 1 |Fixed |Charlotte Motor Speedway |Wed, June 04 12:00AM EDT |Wed, June 04 05:00AM BST |Wed, June 04 02:00PM AEST |
 
 ### Mini Stock
 
@@ -116,6 +124,14 @@
 |------------------------------------------------------------------------------------------------------------|-------------|-----|--------------------|-----------------------|-----------------------|------------------------|
 |[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |GT4 Challenge |Both |Brands Hatch Circuit |Fri, May 30 07:59PM EDT |Sat, May 31 12:59AM BST |Sat, May 31 09:59AM AEST |
 
+### Mazda MX-5 Cup
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------------|------------------------|------------------------|-------------------------|
+|[FSS eSports iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8845){:target="_blank"} |King of the Streets |Both |Long Beach Street Circuit |Tue, June 03 07:00PM EDT |Wed, June 04 12:00AM BST |Wed, June 04 09:00AM AEST |
+
 ### Touring Car
 
 [Back to Top](#)  
@@ -134,15 +150,15 @@
 |----------------------------------------------------------------------------------------------------------------|---------------------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
 |[ORNL\.nl Woensdag 2](https://members.iracing.com/membersite/member/LeagueView.do?league=5805){:target="_blank"} |ORNL LMP2 Prototype Challenge '25 |Both |Circuit de Spa-Francorchamps |Wed, May 28 02:00PM EDT |Wed, May 28 07:00PM BST |Thu, May 29 04:00AM AEST |
 
-### Radical SR8
+# Dirt Oval
+
+### Dirt Late Model - Pro
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|--------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
-|[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 | |WeatherTech Raceway at Laguna Seca |Mon, May 26 07:30AM EDT |Mon, May 26 12:30PM BST |Mon, May 26 09:30PM AEST |
-
-# Dirt Oval
+|-------------------------------------------------------------------------------------------------------------------------------|---------------|-----|--------------------|------------------------|------------------------|-------------------------|
+|[OHIO VALLEY LATE MODEL SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12328){:target="_blank"} |OVLMSS \[2025\] | |Lernerville Speedway |Tue, June 03 06:30PM EDT |Tue, June 03 11:30PM BST |Wed, June 04 08:30AM AEST |
 
 ### Dirt Sprintcar - 410
 
@@ -176,7 +192,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[Virginia iRacing League/iFormula Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |SEASON 6 TRIPLE CROWN SERIES |Fixed |Richmond Raceway |Tue, June 03 07:00PM EDT |Wed, June 04 12:00AM BST |Wed, June 04 09:00AM AEST |
 |[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2025 Season 2 |Open |Daytona International Speedway |Sat, May 31 08:00PM EDT |Sun, June 01 01:00AM BST |Sun, June 01 10:00AM AEST |
 |[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2025 Season 2 Practice Lobbies |Open |Daytona International Speedway |Fri, May 30 07:00PM EDT |Sat, May 31 12:00AM BST |Sat, May 31 09:00AM AEST |
 |[Dirty Burger](https://members.iracing.com/membersite/member/LeagueView.do?league=12236){:target="_blank"} |Dirty Burger Overall Oval Series |Fixed |Daytona International Speedway |Sun, June 01 07:00PM EDT |Mon, June 02 12:00AM BST |Mon, June 02 09:00AM AEST |
