@@ -1,10 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} | |The second league in the Billy Oirish Racing Season |
-|[Electric Thunder Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12650){:target="_blank"} | |Beginner Friendly Truck Series Racing on tuesday nights\. |
-|[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} | |League for all, running the winston cup points format with the 2003 schedule |
+|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Checkered Flag Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12652){:target="_blank"} |[Discord](https://discord.gg/P2T5c2f8Js){:target="_blank"} |410 Open Setup |
 |[Third Line Connection](https://members.iracing.com/membersite/member/LeagueView.do?league=12653){:target="_blank"} | |Les événements de la Third Line Connection, l'union de la Scuderia Volpe, la Unity et la Old Firm ? C'est ici \! |
 |[Almeida Racing League \(Season 3B\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12658){:target="_blank"} | | |
@@ -19,7 +16,7 @@
 |[My AI](https://members.iracing.com/membersite/member/LeagueView.do?league=12659){:target="_blank"} | | |
 |[Past Their Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12660){:target="_blank"} | | |
 |[BIL \| Brazilian iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12667){:target="_blank"} |[Discord](https://discord.gg/Tfzu8uBmVj){:target="_blank"} |🔹 Brazilian iRacing League 🔹 Casual championship using GT3\! Weekly races on free tracks, relaxed environment, but with clean and respectful racing\. 🎯 Our goal? Build a strong Brazilian community and launch a full official league soon\. 📥 Join our Discord and be part of the BIL \(Brazilian iRacing League\)\! 🔗 \[https://discord\.gg/Tfzu8uBmVj\] |
-|[Bottom Split Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12669){:target="_blank"} | |Novice oval drivers looking to race together and develop the skills needed to get you out of the bottom split\! |
+|[Bottom Split Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12669){:target="_blank"} | |Novice oval drivers looking to race together and develop the skills needed to get you out of the bottom split\! Note that your application will not be approved until you register at https://frracingonline\.com/bsrs and pay the $10 season broadcast fee\.   The live broadcast will be simulcast on @stadiumscene on YouTube, Twitch, and Kick\. |
 |[MullBar Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12668){:target="_blank"} | |MullBar private sessions\. |
 |[Pretzel's Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12666){:target="_blank"} | |Laid Back Nascar/Road Racing Leauge |
 |[GRID\.ONE](https://members.iracing.com/membersite/member/LeagueView.do?league=12665){:target="_blank"} | | |
@@ -54,4 +51,12 @@
 |[petsitter](https://members.iracing.com/membersite/member/LeagueView.do?league=12698){:target="_blank"} | |nur |
 |[SportsCar World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12700){:target="_blank"} | | |
 |[WRL Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=12701){:target="_blank"} |[Discord](https://discord.gg/rDZmt52g){:target="_blank"} |Various sports car championships, such as GT3 and GR86 Cup |
+|[DES Genesis](https://members.iracing.com/membersite/member/LeagueView.do?league=12704){:target="_blank"} | | |
+|[Dudarev Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12702){:target="_blank"} | | |
+|[PH Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12705){:target="_blank"} | |Fun racing for moderate drivers |
+|[Sim Racer Academy Endurance Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=12703){:target="_blank"} | | |
+|[SOUTHWEST ARCA SIM\-RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12709){:target="_blank"} | |Beginner to B Class League |
+|[Stratus Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12707){:target="_blank"} | | |
+|[USRA \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12706){:target="_blank"} | |Special Events page for United Sim Racing Association |
+|[Winston '87](https://members.iracing.com/membersite/member/LeagueView.do?league=12708){:target="_blank"} | |87 Cup cars, 87 Winston schedule |
 
