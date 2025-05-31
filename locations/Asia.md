@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|----------------|--------|-------|----|-----|-------------|--------|------|------|
-|[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |Season1 \(2025\) |Asia |25 |2500 |Fixed | | | | |
+|------------------------------------------------------------------------------------------------------------------------------|----------------|--------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
+|[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |Season1 \(2025\) |Asia |25 |2500 |Fixed |Bristol Motor Speedway |Sat, June 07 08:00AM EDT |Sat, June 07 01:00PM BST |Sat, June 07 10:00PM AEST |
 |[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |練習シリーズ\(2025\) |Asia |16 |2696 |Fixed | | | | |
 
 # Open-wheel
@@ -50,5 +50,5 @@
 |------------------------------------------------------------------------------------------------------------------------------------|---------------|--------|-------|----|-----|--------------------|------------------------|------------------------|-------------------------|
 |[ASRC iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11612){:target="_blank"} |Season 2 |Asia |21 |2259 |Both | | | | |
 |[Assetto Cafe Pable Cup iRacing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=12342){:target="_blank"} |APa Pre\-Season |Asia |20 |1134 |Fixed |Nürburgring Combined |Mon, June 02 08:00AM EDT |Mon, June 02 01:00PM BST |Mon, June 02 10:00PM AEST |
-|[HEiR](https://members.iracing.com/membersite/member/LeagueView.do?league=11142){:target="_blank"} |2025 娱乐赛 |Asia |17 |1648 |Fixed | | | | |
+|[HEiR](https://members.iracing.com/membersite/member/LeagueView.do?league=11142){:target="_blank"} |2025 娱乐赛 |Asia |17 |1648 |Fixed |Circuito de Navarra |Mon, June 02 08:00AM EDT |Mon, June 02 01:00PM BST |Mon, June 02 10:00PM AEST |
 

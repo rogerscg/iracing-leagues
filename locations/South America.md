@@ -144,9 +144,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|--------------------|-----------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|--------------------|-----------------------|-----------------------|-------------------------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |199 |1967 | | | | | |
 |[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2025/2 |South America |50 |2889 | | | | | |
 |[LIGA FRS \- IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS IMSA \- 25T2 |South America |35 |2408 | | | | | |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP 2 |South America |21 |1269 |Both |Nürburgring Combined |Sat, May 31 07:00PM EDT |Sun, June 01 12:00AM BST |Sun, June 01 09:00AM AEST |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP 2 |South America |21 |1269 |Both |Nürburgring Combined |Sat, May 31 06:01PM EDT |Sat, May 31 11:01PM BST |Sun, June 01 08:01AM AEST |
 

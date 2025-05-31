@@ -10,8 +10,8 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 Full Season |North America |21 |1673 | |Circuit des 24 Heures du Mans |Mon, June 02 09:15PM EDT |Tue, June 03 02:15AM BST |Tue, June 03 11:15AM AEST |
+|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |North America |21 |1592 |Both | | | | |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |Australia-NZ |19 |3178 |Fixed | | | | |
-|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |North America |19 |1556 |Both |Road Atlanta |Fri, May 30 05:00PM EDT |Fri, May 30 10:00PM BST |Sat, May 31 07:00AM AEST |
 |[Proton Racing Series \- LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=11408){:target="_blank"} |LMP2 Series |North America |17 |2129 | | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |North America |13 |2148 |Open |Hockenheimring Baden-Württemberg |Wed, June 04 07:30PM EDT |Thu, June 05 12:30AM BST |Thu, June 05 09:30AM AEST |
 
@@ -23,7 +23,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Season 1 GTP  |North America |32 |1194 |Both | | | | |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S02 \- GTP |Europe |29 |2652 |Both | | | | |
-|[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |Europe |26 |2054 |Fixed |Charlotte Motor Speedway |Fri, May 30 03:05PM EDT |Fri, May 30 08:05PM BST |Sat, May 31 05:05AM AEST |
+|[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |Europe |26 |1991 |Fixed |Autodromo Nazionale Monza |Fri, June 06 03:05PM EDT |Fri, June 06 08:05PM BST |Sat, June 07 05:05AM AEST |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |North America |23 |2236 |Both | | | | |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |North America |17 |1349 |Both |Portland International Raceway |Thu, June 05 07:30PM EDT |Fri, June 06 12:30AM BST |Fri, June 06 09:30AM AEST |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |Australia-NZ |14 |1543 |Both | | | | |
@@ -85,7 +85,7 @@
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |Australia-NZ |18 |1756 | | | | | |
 |[Superlap Community](https://members.iracing.com/membersite/member/LeagueView.do?league=11265){:target="_blank"} |SUPERLAP Radical Spring 2025 |North America |17 |1972 | | | | | |
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |Europe |15 |1639 | |Daytona International Speedway |Sun, June 01 04:00PM EDT |Sun, June 01 09:00PM BST |Mon, June 02 06:00AM AEST |
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |Europe |13 |2031 | |Algarve International Circuit |Fri, May 30 03:59PM EDT |Fri, May 30 08:59PM BST |Sat, May 31 05:59AM AEST |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |Europe |15 |2053 | |Autódromo José Carlos Pace |Fri, June 06 03:59PM EDT |Fri, June 06 08:59PM BST |Sat, June 07 05:59AM AEST |
 
 ### Riley Daytona Prototype
 

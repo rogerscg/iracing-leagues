@@ -18,6 +18,8 @@
 |[Vantage iRacing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10859){:target="_blank"} |Vantage Auto Stock Tour |Fixed |Daytona International Speedway |Thu, June 05 07:30PM EDT |Fri, June 06 12:30AM BST |Fri, June 06 09:30AM AEST |
 |[East Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12617){:target="_blank"} |ARCA Season 1 | |Daytona International Speedway |Thu, June 05 06:30PM EDT |Thu, June 05 11:30PM BST |Fri, June 06 08:30AM AEST |
 |[Bolt Racing League: Bump N Buddies series](https://members.iracing.com/membersite/member/LeagueView.do?league=10175){:target="_blank"} |Season 7 Bump N Buddies |Fixed |Talladega Superspeedway |Sat, May 31 08:00PM EDT |Sun, June 01 01:00AM BST |Sun, June 01 10:00AM AEST |
+|[PeckerHead Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11233){:target="_blank"} |Arca Season 1 |Fixed |Charlotte Motor Speedway |Sun, June 01 08:00PM EDT |Mon, June 02 01:00AM BST |Mon, June 02 10:00AM AEST |
+|[ProSim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=11114){:target="_blank"} |Arca Open Series | |Daytona International Speedway |Sun, June 01 08:00PM EDT |Mon, June 02 01:00AM BST |Mon, June 02 10:00AM AEST |
 
 ### NASCAR Legends 1987
 
@@ -106,17 +108,10 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
+|[AOTC Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=12654){:target="_blank"} |F4 Season 1 | |Long Beach Street Circuit |Thu, June 05 09:00PM EDT |Fri, June 06 02:00AM BST |Fri, June 06 11:00AM AEST |
 |[Autodromo Virtual \- FIA](https://members.iracing.com/membersite/member/LeagueView.do?league=11812){:target="_blank"} |2025 \- PRECLASIFICACION \| SERVER 2 | |WeatherTech Raceway at Laguna Seca |Wed, June 04 10:00PM EDT |Thu, June 05 03:00AM BST |Thu, June 05 12:00PM AEST |
 
 # Sports Car
-
-### GT4 Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|-------------|-----|--------------------|-----------------------|-----------------------|------------------------|
-|[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |GT4 Challenge |Both |Brands Hatch Circuit |Fri, May 30 07:59PM EDT |Sat, May 31 12:59AM BST |Sat, May 31 09:59AM AEST |
 
 ### Mazda MX-5 Cup
 
@@ -192,8 +187,8 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Virginia iRacing League/iFormula Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |SEASON 6 TRIPLE CROWN SERIES |Fixed |Richmond Raceway |Tue, June 03 07:00PM EDT |Wed, June 04 12:00AM BST |Wed, June 04 09:00AM AEST |
+|[BrakeFast Club \[Road Car Cup\]](https://members.iracing.com/membersite/member/LeagueView.do?league=12104){:target="_blank"} |Road Car Cup |Open |Autódromo José Carlos Pace |Sat, June 07 06:00PM EDT |Sat, June 07 11:00PM BST |Sun, June 08 08:00AM AEST |
 |[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2025 Season 2 |Open |Daytona International Speedway |Sat, May 31 08:00PM EDT |Sun, June 01 01:00AM BST |Sun, June 01 10:00AM AEST |
-|[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2025 Season 2 Practice Lobbies |Open |Daytona International Speedway |Fri, May 30 07:00PM EDT |Sat, May 31 12:00AM BST |Sat, May 31 09:00AM AEST |
 |[Dirty Burger](https://members.iracing.com/membersite/member/LeagueView.do?league=12236){:target="_blank"} |Dirty Burger Overall Oval Series |Fixed |Daytona International Speedway |Sun, June 01 07:00PM EDT |Mon, June 02 12:00AM BST |Mon, June 02 09:00AM AEST |
 |[TRACKILICIOUS](https://members.iracing.com/membersite/member/LeagueView.do?league=10794){:target="_blank"} |Thursday Multiclass Championship \- Summer | |Daytona International Speedway |Thu, June 05 06:50PM EDT |Thu, June 05 11:50PM BST |Fri, June 06 08:50AM AEST |
 
