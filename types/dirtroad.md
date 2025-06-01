@@ -30,9 +30,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------------|-------|----|-----|--------------------|------------------------|------------------------|-------------------------|
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2025 National Series |North America |50 |5885 |Open | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- 4x4 Rolling Thunder \(2025\) |North America |15 |2690 |Fixed | | | | |
-|[Australian Pro Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12419){:target="_blank"} |APTS Season 1 |Australia-NZ |12 |1607 | | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- 4x4 Rolling Thunder \(2025\) |North America |15 |2690 |Fixed |Lime Rock Park |Sat, June 07 11:20PM EDT |Sun, June 08 04:20AM BST |Sun, June 08 01:20PM AEST |
+|[Australian Pro Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12419){:target="_blank"} |APTS Season 1 |Australia-NZ |12 |1607 | |Lånkebanen (Hell RX) |Sun, June 01 04:00AM EDT |Sun, June 01 09:00AM BST |Sun, June 01 06:00PM AEST |
 |[Mud Slingers Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12267){:target="_blank"} |Truckin Around |North America |11 |1300 | | | | | |
 

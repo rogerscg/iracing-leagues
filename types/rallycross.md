@@ -24,14 +24,6 @@
 |[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |Europe |14 |1485 | | | | | |
 |[Wheel Challenge Series \- Road Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=11929){:target="_blank"} |Rallycross WCS S2\-2025 |North America |12 |1550 |Both | | | | |
 
-### VW Beetle GRC
-
-[Back to Top](#)  
-
-| League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[ISRAEL Rallycross league](https://members.iracing.com/membersite/member/LeagueView.do?league=12041){:target="_blank"} |SEASON NO1  \-VW\- RALLYCROSS |North America |20 |1503 | | | | | |
-
 ### VW Beetle Lite
 
 [Back to Top](#)  

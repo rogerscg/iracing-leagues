@@ -10,16 +10,23 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |Arca Series |Open |Charlotte Motor Speedway |Sat, May 31 09:00PM EDT |Sun, June 01 02:00AM BST |Sun, June 01 11:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[gRaceland Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7020){:target="_blank"} |Season 10 |Fixed |Daytona International Speedway |Sun, June 08 07:00PM EDT |Mon, June 09 12:00AM BST |Mon, June 09 09:00AM AEST |
 |[The EBAA Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9626){:target="_blank"} |ARCA Summer Series 2025 | |Daytona International Speedway |Mon, June 02 07:00PM EDT |Tue, June 03 12:00AM BST |Tue, June 03 09:00AM AEST |
 |[Bolt Racing League: Pre\-Legends Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12314){:target="_blank"} |Bolt Racing League: Pre Legends Series \- Season 1 | |Daytona International Speedway |Wed, June 04 07:28PM EDT |Thu, June 05 12:28AM BST |Thu, June 05 09:28AM AEST |
 |[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} |Glove Station Arca Summer Series Season 2 | |Daytona International Speedway |Mon, June 02 07:00PM EDT |Tue, June 03 12:00AM BST |Tue, June 03 09:00AM AEST |
 |[Vantage iRacing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10859){:target="_blank"} |Vantage Auto Stock Tour |Fixed |Daytona International Speedway |Thu, June 05 07:30PM EDT |Fri, June 06 12:30AM BST |Fri, June 06 09:30AM AEST |
 |[East Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12617){:target="_blank"} |ARCA Season 1 | |Daytona International Speedway |Thu, June 05 06:30PM EDT |Thu, June 05 11:30PM BST |Fri, June 06 08:30AM AEST |
-|[Bolt Racing League: Bump N Buddies series](https://members.iracing.com/membersite/member/LeagueView.do?league=10175){:target="_blank"} |Season 7 Bump N Buddies |Fixed |Talladega Superspeedway |Sat, May 31 08:00PM EDT |Sun, June 01 01:00AM BST |Sun, June 01 10:00AM AEST |
 |[PeckerHead Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11233){:target="_blank"} |Arca Season 1 |Fixed |Charlotte Motor Speedway |Sun, June 01 08:00PM EDT |Mon, June 02 01:00AM BST |Mon, June 02 10:00AM AEST |
 |[ProSim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=11114){:target="_blank"} |Arca Open Series | |Daytona International Speedway |Sun, June 01 08:00PM EDT |Mon, June 02 01:00AM BST |Mon, June 02 10:00AM AEST |
+
+### NASCAR 2022 NextGen
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[Bolt Racing League: Lightning Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12291){:target="_blank"} |Lightning Series Season \#1 | |Daytona International Speedway |Fri, June 06 07:30PM EDT |Sat, June 07 12:30AM BST |Sat, June 07 09:30AM AEST |
 
 ### NASCAR Legends 1987
 
@@ -34,19 +41,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[titans of iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=11234){:target="_blank"} |Craftsman Truck Series |Open |Charlotte Motor Speedway |Sat, May 31 10:00PM EDT |Sun, June 01 03:00AM BST |Sun, June 01 12:00PM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} |Invets Truck Series Season 2 | |Daytona International Speedway |Sun, June 08 07:00PM EDT |Mon, June 09 12:00AM BST |Mon, June 09 09:00AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Eternity Trucks June 2025 Season | |Nashville Superspeedway |Mon, June 02 09:00PM EDT |Tue, June 03 02:00AM BST |Tue, June 03 11:00AM AEST |
 |[Frontier Truck Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12600){:target="_blank"} |Frontier Truck Tour Season 1 | |Chicagoland Speedway |Mon, June 02 07:30PM EDT |Tue, June 03 12:30AM BST |Tue, June 03 09:30AM AEST |
 |[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC Truck Series Season 3 |Fixed |Daytona International Speedway |Fri, June 06 10:30PM EDT |Sat, June 07 03:30AM BST |Sat, June 07 12:30PM AEST |
-
-### Whelen Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|---------------------|-----------------------|------------------------|-------------------------|
-|[Atlantic Coastal Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1742){:target="_blank"} |ACRL Northern Modified Tour |Fixed |South Boston Speedway |Sat, May 31 09:00PM EDT |Sun, June 01 02:00AM BST |Sun, June 01 11:00AM AEST |
+|[Draft Apprentices](https://members.iracing.com/membersite/member/LeagueView.do?league=12718){:target="_blank"} |Draft Apprentices | |Talladega Superspeedway |Mon, June 02 07:30PM EDT |Tue, June 03 12:30AM BST |Tue, June 03 09:30AM AEST |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Truck Intermediate Series Season 2 | |Atlanta Motor Speedway |Mon, June 02 07:00PM EDT |Tue, June 03 12:00AM BST |Tue, June 03 09:00AM AEST |
 
 # Oval
 
@@ -84,14 +85,6 @@
 |-------------------------------------------------------------------------------------------------------------------|----------------------|-----|------------------------|------------------------|------------------------|-------------------------|
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Street Stocks Season 1 |Fixed |Charlotte Motor Speedway |Sun, June 01 07:00PM EDT |Mon, June 02 12:00AM BST |Mon, June 02 09:00AM AEST |
 
-### Super Late Model
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|--------|-----|-------------------|------------------------|------------------------|-------------------------|
-|[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} |Season 2 |Open |Five Flags Speedway |Sun, June 01 07:30PM EDT |Mon, June 02 12:30AM BST |Mon, June 02 09:30AM AEST |
-
 # Open-wheel
 
 ### Dallara IR18
@@ -99,8 +92,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} |Lincoln Tech Indy Car Season 2 | |Daytona International Speedway |Wed, June 04 07:00PM EDT |Thu, June 05 12:00AM BST |Thu, June 05 09:00AM AEST |
+|[Votive Racing League INDY Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |Votive INDY Oval Series \- Season 3 |Fixed |Kentucky Speedway |Sun, June 08 06:00PM EDT |Sun, June 08 11:00PM BST |Mon, June 09 08:00AM AEST |
 
 ### FIA F4
 
@@ -138,6 +132,16 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|----------------------------|-----|----------------------|------------------------|------------------------|-------------------------|
 |[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |Teamed Endurance Mini Series | |Mount Panorama Circuit |Fri, June 06 08:00PM EDT |Sat, June 07 01:00AM BST |Sat, June 07 10:00AM AEST |
+
+# Road
+
+### SRX
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} |Thursday Thunder SRX Season 1 | |Daytona International Speedway |Thu, June 05 06:30PM EDT |Thu, June 05 11:30PM BST |Fri, June 06 08:30AM AEST |
 
 # Dirt Oval
 
@@ -188,7 +192,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Virginia iRacing League/iFormula Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |SEASON 6 TRIPLE CROWN SERIES |Fixed |Richmond Raceway |Tue, June 03 07:00PM EDT |Wed, June 04 12:00AM BST |Wed, June 04 09:00AM AEST |
 |[BrakeFast Club \[Road Car Cup\]](https://members.iracing.com/membersite/member/LeagueView.do?league=12104){:target="_blank"} |Road Car Cup |Open |Autódromo José Carlos Pace |Sat, June 07 06:00PM EDT |Sat, June 07 11:00PM BST |Sun, June 08 08:00AM AEST |
-|[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2025 Season 2 |Open |Daytona International Speedway |Sat, May 31 08:00PM EDT |Sun, June 01 01:00AM BST |Sun, June 01 10:00AM AEST |
+|[NASRA \(3\) \- NASRA SPECIAL EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8016){:target="_blank"} |\(5\) \- NASRA 1100 |Fixed |Indianapolis Motor Speedway |Sun, June 08 09:00AM EDT |Sun, June 08 02:00PM BST |Sun, June 08 11:00PM AEST |
 |[Dirty Burger](https://members.iracing.com/membersite/member/LeagueView.do?league=12236){:target="_blank"} |Dirty Burger Overall Oval Series |Fixed |Daytona International Speedway |Sun, June 01 07:00PM EDT |Mon, June 02 12:00AM BST |Mon, June 02 09:00AM AEST |
 |[TRACKILICIOUS](https://members.iracing.com/membersite/member/LeagueView.do?league=10794){:target="_blank"} |Thursday Multiclass Championship \- Summer | |Daytona International Speedway |Thu, June 05 06:50PM EDT |Thu, June 05 11:50PM BST |Fri, June 06 08:50AM AEST |
 

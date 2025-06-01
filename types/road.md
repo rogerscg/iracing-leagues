@@ -22,17 +22,17 @@
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |BMW M2 \- Season 1 |Australia-NZ |21 |1888 |Fixed | | | | |
 |[MOZA Racing Victorian Esports Championship:](https://members.iracing.com/membersite/member/LeagueView.do?league=12490){:target="_blank"} |Pre\-Qualifying |North America |20 |None |Fixed | | | | |
 |[go\-RILLAS AVL RACETECH SimRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7714){:target="_blank"} |Season 25\.1 BMW M2 Cup |Europe |17 |2337 |Fixed | | | | |
-|[LVRSCCA\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10529){:target="_blank"} |2025 LVRSCCA  BMW M2 |North America |16 |1646 |Open | | | | |
-|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Saturday Night M2 Bravarian Bash |North America |14 |1298 |Fixed |Rudskogen Motorsenter |Sat, May 31 07:30PM EDT |Sun, June 01 12:30AM BST |Sun, June 01 09:30AM AEST |
+|[LVRSCCA\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10529){:target="_blank"} |2025 LVRSCCA  BMW M2 |North America |16 |1646 |Open |Winton Motor Raceway |Sun, June 08 07:30PM EDT |Mon, June 09 12:30AM BST |Mon, June 09 09:30AM AEST |
+|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Saturday Night M2 Bravarian Bash |North America |15 |1296 |Fixed |Winton Motor Raceway |Sat, June 07 07:30PM EDT |Sun, June 08 12:30AM BST |Sun, June 08 09:30AM AEST |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 2 |Australia-NZ |86 |3450 |Open | | | | |
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 1 |Australia-NZ |76 |5157 |Open | | | | |
+|----------------------------------------------------------------------------------------------------------|--------------------------|-------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 2 |Australia-NZ |86 |3450 |Open |Detroit Grand Prix at Belle Isle |Sun, June 01 05:00AM EDT |Sun, June 01 10:00AM BST |Sun, June 01 07:00PM AEST |
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 1 |Australia-NZ |76 |5157 |Open |Detroit Grand Prix at Belle Isle |Sun, June 01 06:00AM EDT |Sun, June 01 11:00AM BST |Sun, June 01 08:00PM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Supercar Road Season 7 |North America |33 |1398 |Fixed | | | | |
 
 ### Supercars Gen 3
@@ -41,15 +41,15 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Pre\-Qualifying |North America |180 |None |Open |Detroit Grand Prix at Belle Isle |Sat, May 31 04:00AM EDT |Sat, May 31 09:00AM BST |Sat, May 31 06:00PM AEST |
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Pre\-Qualifying |North America |180 |None |Open | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025B V8SC Series \- Trophi\.AI |Australia-NZ |82 |2376 | |Long Beach Street Circuit |Wed, June 04 05:37AM EDT |Wed, June 04 10:37AM BST |Wed, June 04 07:37PM AEST |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR V8 Champions Challenge S1 2025 |Australia-NZ |63 |1252 | | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025A |Australia-NZ |50 |1882 |Fixed | | | | |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Supercars Championship S1 \(2025\) |Australia-NZ |49 |2002 |Both |Virginia International Raceway |Mon, June 02 06:00AM EDT |Mon, June 02 11:00AM BST |Mon, June 02 08:00PM AEST |
 |[Simability V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=713){:target="_blank"} |Season 16 \(Simability\) |Europe |48 |3158 |Open | | | | |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Super Cars Gen 3 Season 2 |Australia-NZ |40 |1289 | | | | | |
-|[420 Oz SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |V8 Supercars Season 3 |Australia-NZ |36 |1873 |Both | | | | |
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 3 |Australia-NZ |33 |2138 |Open | | | | |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Super Cars Gen 3 Season 2 |Australia-NZ |41 |1304 | | | | | |
+|[420 Oz SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |V8 Supercars Season 3 |Australia-NZ |36 |1873 |Both |Okayama International Circuit |Sun, June 01 04:59AM EDT |Sun, June 01 09:59AM BST |Sun, June 01 06:59PM AEST |
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 3 |Australia-NZ |33 |2138 |Open |Detroit Grand Prix at Belle Isle |Sun, June 01 05:10AM EDT |Sun, June 01 10:10AM BST |Sun, June 01 07:10PM AEST |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025B |Australia-NZ |32 |2017 |Fixed |Charlotte Motor Speedway |Sun, June 01 04:45AM EDT |Sun, June 01 09:45AM BST |Sun, June 01 06:45PM AEST |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday Nights Gen 3 Season 1 |Australia-NZ |32 |1139 | | | | | |
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2025 \- Supercars GEN\-3 YACHT45MTL |North America |32 |1967 |Fixed | | | | |

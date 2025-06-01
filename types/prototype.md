@@ -12,7 +12,7 @@
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 Full Season |North America |21 |1673 | |Circuit des 24 Heures du Mans |Mon, June 02 09:15PM EDT |Tue, June 03 02:15AM BST |Tue, June 03 11:15AM AEST |
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |North America |21 |1592 |Both | | | | |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |Australia-NZ |19 |3178 |Fixed | | | | |
-|[Proton Racing Series \- LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=11408){:target="_blank"} |LMP2 Series |North America |17 |2129 | | | | | |
+|[Proton Racing Series \- LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=11408){:target="_blank"} |LMP2 Series |North America |17 |2129 | |Circuit de Spa-Francorchamps |Sun, June 01 02:00PM EDT |Sun, June 01 07:00PM BST |Mon, June 02 04:00AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |North America |13 |2148 |Open |Hockenheimring Baden-Württemberg |Wed, June 04 07:30PM EDT |Thu, June 05 12:30AM BST |Thu, June 05 09:30AM AEST |
 
 ### GTP
@@ -64,12 +64,11 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |Europe |42 |3460 | |Mount Panorama Circuit |Sun, June 01 02:00PM EDT |Sun, June 01 07:00PM BST |Mon, June 02 04:00AM AEST |
-|[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |North America |27 |2649 | | | | | |
+|[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |North America |27 |2649 | |Autódromo José Carlos Pace |Sun, June 08 07:30PM EDT |Mon, June 09 12:30AM BST |Mon, June 09 09:30AM AEST |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 2 |Europe |23 |2776 |Open |Autódromo José Carlos Pace |Thu, June 05 02:15PM EDT |Thu, June 05 07:15PM BST |Fri, June 06 04:15AM AEST |
 |[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |Radical Challenge 2025 |Europe |17 |1993 | | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S2 Sunday Radical SR10 |North America |15 |1727 |Both |Mount Panorama Circuit |Sun, June 01 07:00PM EDT |Mon, June 02 12:00AM BST |Mon, June 02 09:00AM AEST |
 |[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} |Radical Academy Esport Series \- 2025 |North America |12 |1297 | | | | | |
-|[Radical Academy Esport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12223){:target="_blank"} |Coaching Session |North America |10 |None | | | | | |
 
 ### Radical SR8
 

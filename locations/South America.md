@@ -133,7 +133,7 @@
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/2 |South America |47 |3190 | | | | | |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/2 |South America |47 |1765 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV \- GT3 OFICIAL CUP T2 |South America |46 |1965 | |Autodromo Nazionale Monza |Wed, June 04 07:00PM EDT |Thu, June 05 12:00AM BST |Thu, June 05 09:00AM AEST |
-|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Carbon GT3 Cup \- T2 2025 |South America |39 |2084 | |Autodromo Nazionale Monza |Sat, May 31 01:50PM EDT |Sat, May 31 06:50PM BST |Sun, June 01 03:50AM AEST |
+|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Carbon GT3 Cup \- T2 2025 |South America |39 |2103 | |Nürburgring Combined |Sat, June 07 01:50PM EDT |Sat, June 07 06:50PM BST |Sun, June 08 03:50AM AEST |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT GT3 2025\.2 |South America |37 |1683 |Both |Nürburgring Combined |Sun, June 01 07:00PM EDT |Mon, June 02 12:00AM BST |Mon, June 02 09:00AM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC GT3 SERIES |South America |32 |2211 |Both |Autodromo Nazionale Monza |Mon, June 02 06:00PM EDT |Mon, June 02 11:00PM BST |Tue, June 03 08:00AM AEST |
 |[IRB \- MoT Road to Pro 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |T2\-2025 \- MoT Road to Pro |South America |32 |3029 | | | | | |
@@ -144,9 +144,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|--------------------|-----------------------|-----------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------|------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Pro Racing Simuladores](https://members.iracing.com/membersite/member/LeagueView.do?league=9977){:target="_blank"} |PRS Racing 4Fun |South America |199 |1967 | | | | | |
 |[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2025/2 |South America |50 |2889 | | | | | |
 |[LIGA FRS \- IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS IMSA \- 25T2 |South America |35 |2408 | | | | | |
-|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP 2 |South America |21 |1269 |Both |Nürburgring Combined |Sat, May 31 06:01PM EDT |Sat, May 31 11:01PM BST |Sun, June 01 08:01AM AEST |
+|[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT CUP 2 |South America |21 |1269 |Both | | | | |
 
