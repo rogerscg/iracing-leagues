@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|-----------------------|------------------------|------------------------|-------------------------|
-|[VC Cup Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2025 |South America |45 |3132 | |Nashville Superspeedway |Mon, June 02 06:30PM EDT |Mon, June 02 11:30PM BST |Tue, June 03 08:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------|----------------------|-------------|-------|----|-----|---------------|------------------------|------------------------|-------------------------|
+|[VC Cup Series 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2025 |South America |45 |3139 | | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S1 ANUAL PEMAP CUP |South America |43 |1951 |Both |Kansas Speedway |Wed, June 04 06:00PM EDT |Wed, June 04 11:00PM BST |Thu, June 05 08:00AM AEST |
 
 ### NASCAR Truck Series
@@ -129,13 +129,13 @@
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
-|[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- 25T2 |South America |54 |2429 | |Autodromo Nazionale Monza |Mon, June 02 05:00PM EDT |Mon, June 02 10:00PM BST |Tue, June 03 07:00AM AEST |
+|[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |FRS GT3 CUP \- 25T2 |South America |54 |2474 | | | | | |
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2025/2 |South America |47 |3190 | | | | | |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2025/2 |South America |47 |1765 | | | | | |
 |[RAV \- Liga Racers AV](https://members.iracing.com/membersite/member/LeagueView.do?league=3454){:target="_blank"} |RAV \- GT3 OFICIAL CUP T2 |South America |46 |1965 | |Autodromo Nazionale Monza |Wed, June 04 07:00PM EDT |Thu, June 05 12:00AM BST |Thu, June 05 09:00AM AEST |
 |[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |Carbon GT3 Cup \- T2 2025 |South America |39 |2103 | |Nürburgring Combined |Sat, June 07 01:50PM EDT |Sat, June 07 06:50PM BST |Sun, June 08 03:50AM AEST |
 |[Elite Motorsport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=11569){:target="_blank"} |EMT GT3 2025\.2 |South America |37 |1700 |Both | | | | |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC GT3 SERIES |South America |32 |2211 |Both |Autodromo Nazionale Monza |Mon, June 02 06:00PM EDT |Mon, June 02 11:00PM BST |Tue, June 03 08:00AM AEST |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC GT3 SERIES |South America |32 |2208 |Both |Nürburgring Combined |Mon, June 09 06:00PM EDT |Mon, June 09 11:00PM BST |Tue, June 10 08:00AM AEST |
 |[IRB \- MoT Road to Pro 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=2958){:target="_blank"} |T2\-2025 \- MoT Road to Pro |South America |32 |3029 | | | | | |
 |[RE\-S \- RACING E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |WORKSHOP IKE RAMOS GT3 SPRINT SERIES |South America |20 |1848 | | | | | |
 
