@@ -17,8 +17,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 PEMAP TRUCK BY SGA |South America |29 |2389 |Both | | | | |
+|-------------------------------------------------------------------------------------------------------|-------------------------|-------------|-------|----|-----|---------------------|------------------------|------------------------|-------------------------|
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 PEMAP TRUCK BY SGA |South America |29 |2389 |Both |iRacing Superspeedway |Wed, June 11 06:00PM EDT |Wed, June 11 11:00PM BST |Thu, June 12 08:00AM AEST |
 
 # Oval
 
@@ -37,8 +37,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 KERS DW12 LEGACY |South America |22 |2396 |Both |Mobility Resort Motegi |Tue, June 03 06:00PM EDT |Tue, June 03 11:00PM BST |Wed, June 04 08:00AM AEST |
+|-------------------------------------------------------------------------------------------------------|-----------------------|-------------|-------|----|-----|---------------------------|------------------------|------------------------|-------------------------|
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 KERS DW12 LEGACY |South America |22 |2410 |Both |Indianapolis Motor Speedway |Tue, June 10 06:00PM EDT |Tue, June 10 11:00PM BST |Wed, June 11 08:00AM AEST |
 
 ### Dallara IR18
 
@@ -89,9 +89,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Sport 2025/2 |South America |51 |2365 | | | | | |
-|[LIGA FRS \- MAZDA MX\-5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} |FRS MX5 CUP \- 25T2 |South America |42 |2320 | |Circuito de Navarra |Tue, June 03 05:00PM EDT |Tue, June 03 10:00PM BST |Wed, June 04 07:00AM AEST |
+|[LIGA FRS \- MAZDA MX\-5 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11576){:target="_blank"} |FRS MX5 CUP \- 25T2 |South America |42 |2356 | | | | | |
 |[RE\-S \- RACING E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |SPRINT SIMULADORES GLOBAL MX5 CUP |South America |28 |2403 | | | | | |
 |[IRB I\-Pass Global Mazda Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=3285){:target="_blank"} |T2\-25 \- IRB I\-Pass Global Mazda Cup |South America |24 |2960 | | | | | |
 
@@ -109,8 +109,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[LIGA FRS \- TCR CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11577){:target="_blank"} |FRS TCR CUP \- 25T2 |South America |26 |3033 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[LIGA FRS \- TCR CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11577){:target="_blank"} |FRS TCR CUP \- 25T2 |South America |26 |3033 | |Autódromo José Carlos Pace |Wed, June 11 05:00PM EDT |Wed, June 11 10:00PM BST |Thu, June 12 07:00AM AEST |
 
 ### Toyota GR86
 
