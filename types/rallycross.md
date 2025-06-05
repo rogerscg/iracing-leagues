@@ -8,7 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|---------------|-------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------|------------------------------|-------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Yes2Rallycross \- AWD \(2025\) |North America |15 |2309 |Fixed |Daytona Rallycross and Dirt Road |Thu, June 05 07:00PM EDT |Fri, June 06 12:00AM BST |Fri, June 06 09:00AM AEST |
 |[NASA Rallycross Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=9777){:target="_blank"} |NASA RX Masters |North America |14 |3115 | | | | | |
 
 ### Rallycross

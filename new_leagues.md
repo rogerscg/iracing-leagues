@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[2Morrow Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12683){:target="_blank"} |[Discord](https://discord.gg/ucJpR3QA){:target="_blank"} |a league for beginners using all free content so anyone can race\. beginner to pro |
-|[ekc](https://members.iracing.com/membersite/member/LeagueView.do?league=12684){:target="_blank"} | |nascar |
 |[Scorpion Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=12685){:target="_blank"} | |SF |
 |[CSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12686){:target="_blank"} |[Discord](https://discord.gg/FmFkRSvB5A){:target="_blank"} |CSC Racing League \- More Info to come\. |
 |[We \*\*\* a lot](https://members.iracing.com/membersite/member/LeagueView.do?league=12687){:target="_blank"} | |Were trash |
@@ -33,7 +31,7 @@
 |[National Stock Car Association \(NSCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12711){:target="_blank"} | |Next Gen NASCAR League aimed at running unique tracks with the best drivers around\. |
 |[WRL Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12712){:target="_blank"} | | |
 |[BRL Weekly Late Model Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12715){:target="_blank"} | |Running a series using the same tack each week\. Just like you local home track\. We are here to build friendships and brotherhood, and also have fun\. Top three positions will pay out\! |
-|[OutCast Motorsports Gen4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12714){:target="_blank"} | | |
+|[OutCast Motorsports Gen4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12714){:target="_blank"} |[Discord](https://discord.gg/gYUcyFvH){:target="_blank"} |The OutCast Motorsports League \(OCM\) is a community of drivers who elevate the iRacing experience to the next level\. We deliver a competitive league for all involved, while maintaining our commitment that every OutCast member treats others with the utmost respect\. |
 |[Schneider](https://members.iracing.com/membersite/member/LeagueView.do?league=12717){:target="_blank"} | | |
 |[winston 87](https://members.iracing.com/membersite/member/LeagueView.do?league=12716){:target="_blank"} | |87 cars |
 |[Draft Apprentices](https://members.iracing.com/membersite/member/LeagueView.do?league=12718){:target="_blank"} |[Discord](https://discord.gg/TyNdthBd){:target="_blank"} |NASCAR based vehicles on all the big drafting tracks\! |
@@ -55,7 +53,7 @@
 |[86 Challenge Sim Racing GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12739){:target="_blank"} | | |
 |[Dirt Storm Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=12738){:target="_blank"} | | |
 |[Durty Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12737){:target="_blank"} | |Just some Durty boys doing some Durty Racin' |
-|[Handler Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12735){:target="_blank"} | |Competitive but fun atmosphere\. |
+|[Pit Road Speed Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12735){:target="_blank"} | |Competitive but fun atmosphere\. |
 |[THE BIG SHOW \- THURSDAY GEN 6 CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=12736){:target="_blank"} | |Discord based league, send PM to Bryce Hinton for invite link\. |
 |[WEB Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=12734){:target="_blank"} | | |
 
