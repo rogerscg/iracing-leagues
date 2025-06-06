@@ -19,6 +19,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|--------|------|------|
-|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |Campeonato GT3 2025 |International |29 |2327 | | | | | |
+|---------------------------------------------------------------------------------------------------------|-------------------|-------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
+|[Peru Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10169){:target="_blank"} |Campeonato GT3 2025 |International |29 |2234 | |Road Atlanta |Tue, June 10 09:00PM EDT |Wed, June 11 02:00AM BST |Wed, June 11 11:00AM AEST |
 

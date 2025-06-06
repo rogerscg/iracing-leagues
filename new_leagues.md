@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Scorpion Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=12685){:target="_blank"} | |SF |
-|[CSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12686){:target="_blank"} |[Discord](https://discord.gg/FmFkRSvB5A){:target="_blank"} |CSC Racing League \- More Info to come\. |
-|[We \*\*\* a lot](https://members.iracing.com/membersite/member/LeagueView.do?league=12687){:target="_blank"} | |Were trash |
-|[Wicked High Limit](https://members.iracing.com/membersite/member/LeagueView.do?league=12688){:target="_blank"} | |DUI's allowed |
 |[CASTOR eMotorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12690){:target="_blank"} |[Discord](https://discord.gg/RYbmc6VC){:target="_blank"} |laid\-back iRacing community built for racers who love clean battles, good banter, and a touch of shenanigans\. |
 |[FWD Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=12691){:target="_blank"} | |We run FWD cars on ovals, open setup\. |
 |[Gemstone Family League](https://members.iracing.com/membersite/member/LeagueView.do?league=12692){:target="_blank"} | | |
@@ -39,7 +35,7 @@
 |[CORE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12721){:target="_blank"} |[Discord](https://discord.gg/4rFqc49J7Z){:target="_blank"} |Championship of Online Racing Esports\. A league open to anyone of any oval racing experience\. Discord: https://discord\.gg/4rFqc49J7Z |
 |[Floyd's Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12725){:target="_blank"} | | |
 |[FLR SCCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12723){:target="_blank"} | |FLR SCCA and Friends |
-|[Friday Nights Superspeedway Nascar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12720){:target="_blank"} | |10 race seasons Superspeedway racing |
+|[Superspeedway Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12720){:target="_blank"} | |10 race seasons Superspeedway racing |
 |[sparks racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12724){:target="_blank"} | |come out and race |
 |[Mid\-Tier Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12722){:target="_blank"} |[Discord](https://discord.gg/ZRB2eC4U){:target="_blank"} | |
 |[86 Challenge Sim Racing Multiclass](https://members.iracing.com/membersite/member/LeagueView.do?league=12728){:target="_blank"} | |Mulitlcass series for 86 Challenge Sim Racing |
@@ -56,4 +52,9 @@
 |[Pit Road Speed Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12735){:target="_blank"} | |Competitive but fun atmosphere\. |
 |[THE BIG SHOW \- THURSDAY GEN 6 CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=12736){:target="_blank"} | |Discord based league, send PM to Bryce Hinton for invite link\. |
 |[WEB Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=12734){:target="_blank"} | | |
+|[All American Cars Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12741){:target="_blank"} | |Late Model League |
+|[MOZA RACING League S1\-CN](https://members.iracing.com/membersite/member/LeagueView.do?league=12740){:target="_blank"} | |MOZA RACING League S1 |
+|[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} | |league of drivers over the age of 50 |
+|[Turtle\-Pace Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12742){:target="_blank"} |[Discord](https://discord.gg/AgkkX6yX){:target="_blank"} |An Racing League made possible by the Turtle\-Pace Racing Team\! |
+|[Simracelab Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12743){:target="_blank"} | |Simracelab Porsche Cup |
 
