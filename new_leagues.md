@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[CASTOR eMotorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12690){:target="_blank"} |[Discord](https://discord.gg/RYbmc6VC){:target="_blank"} |laid\-back iRacing community built for racers who love clean battles, good banter, and a touch of shenanigans\. |
-|[FWD Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=12691){:target="_blank"} | |We run FWD cars on ovals, open setup\. |
-|[Gemstone Family League](https://members.iracing.com/membersite/member/LeagueView.do?league=12692){:target="_blank"} | | |
-|[ORBSR Rokt the Rig iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12689){:target="_blank"} | |ORBSR Rokt the Rig iRacing League |
-|[Apex MX\-5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12693){:target="_blank"} | | |
 |[FRL AI Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12694){:target="_blank"} | |Private League for Me and the Boys to Race with AI |
 |[Krackin Racings GT3 Sprint series](https://members.iracing.com/membersite/member/LeagueView.do?league=12696){:target="_blank"} | | |
 |[The Down Under Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=12697){:target="_blank"} |[Discord](https://discord.gg/QDf6KEGX){:target="_blank"} |Strap in for the raw power and high\-octane thrill of the Down Under Dirt League 360 Sprintcar Series, where speed meets precision on the virtual clay\. Born from Australia and New Zealand’s fierce dirt racing culture, this iRacing league delivers wheel\-to\-wheel action featuring 360 winged sprintcars—blending strategy, skill, and split\-second decisions\. Whether you're a seasoned sim racer or a rising talent, join a community that lives and breathes dirt racing\. With professionally broadcasted events, tight\-knit competition, and iconic dirt tracks, the Down Under Dirt League offers the ultimate virtual sprintcar experience—where legends are made every lap\. |
@@ -37,8 +32,8 @@
 |[FLR SCCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12723){:target="_blank"} | |FLR SCCA and Friends |
 |[Superspeedway Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12720){:target="_blank"} | |10 race seasons Superspeedway racing |
 |[sparks racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12724){:target="_blank"} | |come out and race |
-|[Mid\-Tier Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12722){:target="_blank"} |[Discord](https://discord.gg/ZRB2eC4U){:target="_blank"} | |
-|[86 Challenge Sim Racing Multiclass](https://members.iracing.com/membersite/member/LeagueView.do?league=12728){:target="_blank"} | |Mulitlcass series for 86 Challenge Sim Racing |
+|[Side Draft Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12722){:target="_blank"} |[Discord](https://discord.gg/ZRB2eC4U){:target="_blank"} | |
+|[West Coast Sim Racing \- Multiclass](https://members.iracing.com/membersite/member/LeagueView.do?league=12728){:target="_blank"} | |Mulitlcass series for 86 Challenge Sim Racing |
 |[RACERS\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12727){:target="_blank"} | |RACING |
 |[Rebel Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12726){:target="_blank"} | |Welcome to the Rebel Racing Series, where high\-speed action meets fierce competition in the world of iRacing\! Our league is all about pushing boundaries, embracing the spirit of rebellion, and creating a community of passionate drivers who aren’t afraid to race hard\.  League Features:  • Weekly Races: Competitive races every week with a mix of short tracks, road courses, and superspeedways to test your versatility\.  • Custom Seasons: Engaging season formats with unique championship points systems, playoff\-style events, and exciting prize giveaways\.  • Clean Racing: We emphasize fair, respectful racing\. Our drivers have a reputation for keeping it clean, no matter the stakes\. |
 |[P1 600](https://members.iracing.com/membersite/member/LeagueView.do?league=12729){:target="_blank"} | |Home of the P1 600 |
@@ -46,7 +41,7 @@
 |[Friday Night ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12732){:target="_blank"} |[Discord](https://discord.gg/EaxWxJnxQX){:target="_blank"} |We run the new ARCA cars on Friday nights starting June 20th\. 7pm Pacific/10pm Eastern  https://discord\.gg/EaxWxJnxQX |
 |[OsNoobs \- PT](https://members.iracing.com/membersite/member/LeagueView.do?league=12730){:target="_blank"} | |Portugal |
 |[Rage Against the Game Esports Practice League](https://members.iracing.com/membersite/member/LeagueView.do?league=12731){:target="_blank"} |[Discord](https://discord.gg/Xqdh6e2asY){:target="_blank"} |Whether you are looking to improve your skills, get some setup help, or run some laps with the team, RAGE practice league is the place you want to be\. Practices throughout the week will be held for the current tracks of the week in the GT3s, GT4s, GTPs, and the LMPs |
-|[86 Challenge Sim Racing GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12739){:target="_blank"} | | |
+|[West Coast Sim Racing \- GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12739){:target="_blank"} | | |
 |[Dirt Storm Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=12738){:target="_blank"} | | |
 |[Durty Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12737){:target="_blank"} | |Just some Durty boys doing some Durty Racin' |
 |[Pit Road Speed Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12735){:target="_blank"} | |Competitive but fun atmosphere\. |
@@ -57,4 +52,8 @@
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} | |league of drivers over the age of 50 |
 |[Turtle\-Pace Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12742){:target="_blank"} |[Discord](https://discord.gg/AgkkX6yX){:target="_blank"} |An Racing League made possible by the Turtle\-Pace Racing Team\! |
 |[Simracelab Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12743){:target="_blank"} | |Simracelab Porsche Cup |
+|[For The Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12748){:target="_blank"} | |Car of Tomorrow \(COT League\) |
+|[INDYCAR Legacy](https://members.iracing.com/membersite/member/LeagueView.do?league=12747){:target="_blank"} | |INDYCAR Career Series  \( \+ IMSA \) |
+|[NASCAR Legacy](https://members.iracing.com/membersite/member/LeagueView.do?league=12745){:target="_blank"} | |NASCAR Career Series |
+|[YUNG MONEY](https://members.iracing.com/membersite/member/LeagueView.do?league=12746){:target="_blank"} | |2021 NASCAR Cup Series |
 

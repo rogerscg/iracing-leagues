@@ -10,7 +10,7 @@
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|----------------|--------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
 |[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |Season1 \(2025\) |Asia |25 |2500 |Fixed |Bristol Motor Speedway |Sat, June 07 08:00AM EDT |Sat, June 07 01:00PM BST |Sat, June 07 10:00PM AEST |
-|[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |練習シリーズ\(2025\) |Asia |16 |2696 |Fixed |Bristol Motor Speedway |Fri, June 06 08:30AM EDT |Fri, June 06 01:30PM BST |Fri, June 06 10:30PM AEST |
+|[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |練習シリーズ\(2025\) |Asia |17 |2792 |Fixed | | | | |
 
 # Open-wheel
 
