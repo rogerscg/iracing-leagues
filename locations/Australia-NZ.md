@@ -231,8 +231,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[ASND Harman Designs Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |2025 Speedway Series 2 Big Block Modifieds |Australia-NZ |44 |2744 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|------------|-------|----|-----|--------------------|------------------------|------------------------|-------------------------|
+|[ASND Harman Designs Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |2025 Speedway Series 2 Big Block Modifieds |Australia-NZ |44 |2744 | |Lernerville Speedway |Sun, June 08 06:30AM EDT |Sun, June 08 11:30AM BST |Sun, June 08 08:30PM AEST |
 
 ### Dirt Midget
 
@@ -333,8 +333,8 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
 |[V8 Veterans Season 23](https://members.iracing.com/membersite/member/LeagueView.do?league=6455){:target="_blank"} |Season 23 |Australia-NZ |215 |2006 |Fixed | | | | |
 |[PREMIER ENDURANCE LEAGUE \- GT3 LIMITED](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} |The DASH OffRoad Australian GT3 Endurance Championship Season 5 |Australia-NZ |102 |2026 |Open |Circuit de Spa-Francorchamps |Fri, June 13 06:00AM EDT |Fri, June 13 11:00AM BST |Fri, June 13 08:00PM AEST |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B Mountain Men 200 Series |Australia-NZ |80 |2356 |Both |Mount Panorama Circuit |Sat, June 07 05:00AM EDT |Sat, June 07 10:00AM BST |Sat, June 07 07:00PM AEST |
-|[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) SEASON 2 2025 |Australia-NZ |76 |2251 |Open | | | | |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B Mountain Men 200 Series |Australia-NZ |80 |2357 |Both | | | | |
+|[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |RACE SRW W&B TOOLS V8 SUPERCARS \(TUE\) SEASON 2 2025 |Australia-NZ |76 |2251 |Open |Sonoma Raceway |Tue, June 10 03:45AM EDT |Tue, June 10 08:45AM BST |Tue, June 10 05:45PM AEST |
 |[Australian NASCAR eSeries \- X Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9968){:target="_blank"} |Season 1 2025 |Australia-NZ |72 |2678 | |Nashville Fairgrounds Speedway |Tue, June 10 06:00AM EDT |Tue, June 10 11:00AM BST |Tue, June 10 08:00PM AEST |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |STONECOLD RACING POP\-UP EVENTS |Australia-NZ |71 |1367 | | | | | |
 |[PREMIER ENDURANCE LEAGUE \- GT3 OPEN](https://members.iracing.com/membersite/member/LeagueView.do?league=12123){:target="_blank"} |The GGD Australian GT3 Endurance Championship\. |Australia-NZ |58 |2817 | | | | | |
@@ -352,7 +352,7 @@
 |[V8SCOPS Supports \- VEE Eights](https://members.iracing.com/membersite/member/LeagueView.do?league=10713){:target="_blank"} |2025 Season |Australia-NZ |41 |2330 | | | | | |
 |[E\-Pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |special events |Australia-NZ |40 |1742 |Open |Phillip Island Circuit |Fri, June 13 04:00AM EDT |Fri, June 13 09:00AM BST |Fri, June 13 06:00PM AEST |
 |[E\-Pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |EPRL IMSA Season 6 |Australia-NZ |33 |1722 |Open |Phillip Island Circuit |Sat, June 14 04:00AM EDT |Sat, June 14 09:00AM BST |Sat, June 14 06:00PM AEST |
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Sunday Night Heats S2 |Australia-NZ |32 |1418 | | | | | |
+|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Sunday Night Heats S2 |Australia-NZ |32 |1418 | |Mount Panorama Circuit |Sun, June 08 05:30AM EDT |Sun, June 08 10:30AM BST |Sun, June 08 07:30PM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |Saturday Shenanigans |Australia-NZ |23 |1907 |Both | | | | |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |PRACTICE SESSION |Australia-NZ |20 |1649 |Both |Sonoma Raceway |Sun, June 08 06:00AM EDT |Sun, June 08 11:00AM BST |Sun, June 08 08:00PM AEST |
 |[420 Oz SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |GT3 Endurance |Australia-NZ |20 |1356 |Both | | | | |
