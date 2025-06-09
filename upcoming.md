@@ -10,8 +10,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-------------------------|-----|-------------------------------|------------------------|------------------------|-------------------------|
-|[HVRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12167){:target="_blank"} |HVRL ARCA SERIES SEASON 1 | |Michigan International Speedway |Sun, June 08 08:00PM EDT |Mon, June 09 01:00AM BST |Mon, June 09 10:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------|------------------------|------------------------|-------------------------|
+|[SSRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7812){:target="_blank"} |2025 ARCA Series |Open |Charlotte Motor Speedway |Mon, June 16 08:00PM EDT |Tue, June 17 01:00AM BST |Tue, June 17 10:00AM AEST |
+
+### NASCAR 2022 NextGen
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[LSR Nascar iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4288){:target="_blank"} |Lonestar Nascar iRacing Series |Fixed |Daytona International Speedway |Mon, June 16 08:30PM EDT |Tue, June 17 01:30AM BST |Tue, June 17 10:30AM AEST |
 
 ### NASCAR Cup
 
@@ -20,6 +28,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Josh White Racing Esports Victory\-X Financial Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=428){:target="_blank"} |JWES Victory X Cup Series |Fixed |Daytona International Speedway |Sat, June 14 07:00PM EDT |Sun, June 15 12:00AM BST |Sun, June 15 09:00AM AEST |
+|[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} |Gen 6 |Fixed |Daytona International Speedway |Mon, June 16 09:00PM EDT |Tue, June 17 02:00AM BST |Tue, June 17 11:00AM AEST |
 
 ### NASCAR Truck Series
 
@@ -27,9 +36,16 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|-------------------------------|------------------------|------------------------|-------------------------|
-|[WSL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9800){:target="_blank"} |WSL Summer Speedway Recruitment Season 2025 \[Jun\-Aug\] |Fixed |Michigan International Speedway |Mon, June 09 09:00PM EDT |Tue, June 10 02:00AM BST |Tue, June 10 11:00AM AEST |
-|[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} |Invets Truck Series Season 2 | |Daytona International Speedway |Sun, June 08 07:00PM EDT |Mon, June 09 12:00AM BST |Mon, June 09 09:00AM AEST |
+|[WSL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9800){:target="_blank"} |WSL Summer Speedway Recruitment Season 2025 \[Jun\-Aug\] |Fixed |Michigan International Speedway |Mon, June 09 07:00PM EDT |Tue, June 10 12:00AM BST |Tue, June 10 09:00AM AEST |
 |[Area 51 Friday Night Truck SS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12481){:target="_blank"} |Area 51 Season Two Friday Night SS Series | |Talladega Superspeedway |Fri, June 13 08:00PM EDT |Sat, June 14 01:00AM BST |Sat, June 14 10:00AM AEST |
+
+### SK Modified
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[MRL \| BlackTop Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11382){:target="_blank"} |Sk Modified Season 1 |Both |USA International Speedway |Wed, June 11 07:30PM EDT |Thu, June 12 12:30AM BST |Thu, June 12 09:30AM AEST |
 
 ### XFINITY Series
 
@@ -50,14 +66,6 @@
 |[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |ProLine Esports Legend Cup | |Phillip Island Circuit |Wed, June 11 04:29AM EDT |Wed, June 11 09:29AM BST |Wed, June 11 06:29PM AEST |
 
 # Open-wheel
-
-### Dallara IR18
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-----------------|------------------------|------------------------|-------------------------|
-|[Votive Racing League INDY Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |Votive INDY Oval Series \- Season 3 |Fixed |Kentucky Speedway |Sun, June 08 06:00PM EDT |Sun, June 08 11:00PM BST |Mon, June 09 08:00AM AEST |
 
 ### FIA F4
 
@@ -92,7 +100,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------|-----|----------------------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
+|[IRWC VRS Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |IRWC VRS Porsche Carrera Cup Season 2 | |Hockenheimring Baden-Württemberg |Mon, June 16 04:30AM EDT |Mon, June 16 09:30AM BST |Mon, June 16 06:30PM AEST |
 |[Revved Up Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12656){:target="_blank"} |Season 1 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, June 10 07:00PM EDT |Wed, June 11 12:00AM BST |Wed, June 11 09:00AM AEST |
 
 ### Mazda MX-5 Cup 2016
@@ -100,8 +109,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|------------------|-----|--------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------|------------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
 |[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} |Summer Season 2025 |Open |Lime Rock Park |Sat, June 14 09:00PM EDT |Sun, June 15 02:00AM BST |Sun, June 15 11:00AM AEST |
+|[F1BC MX5 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Cup 2025/3 | |Okayama International Circuit |Mon, June 16 05:25PM EDT |Mon, June 16 10:25PM BST |Tue, June 17 07:25AM AEST |
 
 ### Renault Clio
 
@@ -110,6 +120,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|----------------------|------------------------|------------------------|-------------------------|
 |[FWD Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=12691){:target="_blank"} |FWD League Season 1 \- Renault Clio |Open |Hickory Motor Speedway |Sat, June 14 08:00PM EDT |Sun, June 15 01:00AM BST |Sun, June 15 10:00AM AEST |
+
+### Toyota GR86
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[West Coast Sim Racing \- GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12739){:target="_blank"} |Season 2 | |Portland International Raceway |Mon, June 16 09:30PM EDT |Tue, June 17 02:30AM BST |Tue, June 17 11:30AM AEST |
 
 # Prototype
 
@@ -132,6 +150,22 @@
 |[AROC](https://members.iracing.com/membersite/member/LeagueView.do?league=9076){:target="_blank"} |AROC V |Fixed |Daytona International Speedway |Thu, June 12 07:30PM EDT |Fri, June 13 12:30AM BST |Fri, June 13 09:30AM AEST |
 
 # Dirt Oval
+
+### Dirt Late Model - Limited
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|---------------|------------------------|------------------------|-------------------------|
+|[Slick Sim Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=11186){:target="_blank"} |Slick Sim Limited Late Model Series |Fixed |Eldora Speedway |Wed, June 11 09:25PM EDT |Thu, June 12 02:25AM BST |Thu, June 12 11:25AM AEST |
+
+### Dirt Late Model - Pro
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------|----------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
+|[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Monday Masters of Dirt | |The Dirt Track at Charlotte |Mon, June 16 07:30PM EDT |Tue, June 17 12:30AM BST |Tue, June 17 09:30AM AEST |
 
 ### Dirt SprintCar - 305
 
@@ -164,6 +198,7 @@
 |[Top Speed Liga \(CZ/SK\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10159){:target="_blank"} |TSL GT3 2025 |Fixed |Circuit de Lédenon |Sun, June 15 02:05PM EDT |Sun, June 15 07:05PM BST |Mon, June 16 04:05AM AEST |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.3 スプリントレース②もてぎ | |Mobility Resort Motegi |Sat, June 14 10:42AM EDT |Sat, June 14 03:42PM BST |Sun, June 15 12:42AM AEST |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.3 スプリントレース②ムジェロ | |Autodromo Internazionale del Mugello |Sat, June 14 10:47AM EDT |Sat, June 14 03:47PM BST |Sun, June 15 12:47AM AEST |
+|[ARL GT3 Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=6437){:target="_blank"} |Season 10 | |Daytona International Speedway |Mon, June 16 01:00PM EDT |Mon, June 16 06:00PM BST |Tue, June 17 03:00AM AEST |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.3 セミ耐久 | |Autodromo Internazionale del Mugello |Sat, June 14 10:09AM EDT |Sat, June 14 03:09PM BST |Sun, June 15 12:09AM AEST |
 |[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |ProLine Esports GT3's | |Motorsport Arena Oschersleben |Fri, June 13 04:29AM EDT |Fri, June 13 09:29AM BST |Fri, June 13 06:29PM AEST |
 
@@ -172,7 +207,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
-|[NASRA \(3\) \- NASRA SPECIAL EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=8016){:target="_blank"} |\(5\) \- NASRA 1100 |Fixed |Indianapolis Motor Speedway |Sun, June 08 09:00AM EDT |Sun, June 08 02:00PM BST |Sun, June 08 11:00PM AEST |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|-------------------------|------------------------|------------------------|-------------------------|
 |[The Super Duper Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9836){:target="_blank"} |Street Stock Legends and Losers |Fixed |Limaland Motorsports Park |Tue, June 10 07:00PM EDT |Wed, June 11 12:00AM BST |Wed, June 11 09:00AM AEST |
 

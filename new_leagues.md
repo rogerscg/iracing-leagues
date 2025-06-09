@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Krackin Racings GT3 Sprint series](https://members.iracing.com/membersite/member/LeagueView.do?league=12696){:target="_blank"} | | |
-|[The Down Under Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=12697){:target="_blank"} |[Discord](https://discord.gg/QDf6KEGX){:target="_blank"} |Strap in for the raw power and high\-octane thrill of the Down Under Dirt League 360 Sprintcar Series, where speed meets precision on the virtual clay\. Born from Australia and New Zealand’s fierce dirt racing culture, this iRacing league delivers wheel\-to\-wheel action featuring 360 winged sprintcars—blending strategy, skill, and split\-second decisions\. Whether you're a seasoned sim racer or a rising talent, join a community that lives and breathes dirt racing\. With professionally broadcasted events, tight\-knit competition, and iconic dirt tracks, the Down Under Dirt League offers the ultimate virtual sprintcar experience—where legends are made every lap\. |
-|[dbtbjt](https://members.iracing.com/membersite/member/LeagueView.do?league=12695){:target="_blank"} | | |
 |[petsitter](https://members.iracing.com/membersite/member/LeagueView.do?league=12698){:target="_blank"} | |nur |
 |[SportsCar World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12700){:target="_blank"} | | |
 |[WRL Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=12701){:target="_blank"} |[Discord](https://discord.gg/rDZmt52g){:target="_blank"} |Various sports car championships, such as GT3 and GR86 Cup |
@@ -52,10 +49,14 @@
 |[Turtle\-Pace Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12742){:target="_blank"} |[Discord](https://discord.gg/AgkkX6yX){:target="_blank"} |An Racing League made possible by the Turtle\-Pace Racing Team\! |
 |[Simracelab Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12743){:target="_blank"} | |Simracelab Porsche Cup |
 |[For The Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12748){:target="_blank"} | |Car of Tomorrow \(COT League\) |
-|[INDYCAR Legacy](https://members.iracing.com/membersite/member/LeagueView.do?league=12747){:target="_blank"} | |INDYCAR Career Series  \( \+ IMSA \) |
-|[NASCAR Legacy](https://members.iracing.com/membersite/member/LeagueView.do?league=12745){:target="_blank"} | |NASCAR Career Series |
-|[YUNG MONEY](https://members.iracing.com/membersite/member/LeagueView.do?league=12746){:target="_blank"} | |2021 NASCAR Cup Series |
+|[INDYCAR Legacy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12747){:target="_blank"} | |INDYCAR Career  \( \+ IMSA Races \) |
+|[NASCAR Legacy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12745){:target="_blank"} | |NASCAR Career |
+|[2021 NASCAR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12746){:target="_blank"} | |2021 NASCAR Cup Series FULL SEASON  YUNG MONEY |
 |[NSRLA CARS TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=12751){:target="_blank"} | |NSRLA CARS TOUR |
 |[Optimum Broke Bois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12752){:target="_blank"} |[Discord](https://discord.gg/tprXHNtT){:target="_blank"} |Hanna brothers defeat AI |
 |[BSTV Pitstop Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12750){:target="_blank"} | |Week 13 multiclass championship |
+|[DCM Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12753){:target="_blank"} | |Sunday Nights – NASCAR League |
+|[GT3 3\-races in a day League \(2 drop\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12754){:target="_blank"} | |P:5' Q:25' R:30'\(64 Liters\)   IMSA point system \(Q: 35, 32, 30, \.\. R: 350, 320, 300, \.\.\)  1 point per lead lap  10 points most leading laps  35 points best race lap   2 races to drop \(on 3 race\)   2 fast repair  drive thru every 10 inc |
+|[North East Bandit Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12756){:target="_blank"} | |Small Series from the Racers Of Winchester Speedway |
+|[USRA \- Stock Car Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12755){:target="_blank"} | |Stock Car Series League page |
 
