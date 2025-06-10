@@ -51,12 +51,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Location | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |International |20 |2331 | |Mid-Ohio Sports Car Course |Mon, June 09 01:30PM EDT |Mon, June 09 06:30PM BST |Tue, June 10 03:30AM AEST |
-|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |International |17 |1427 | |Mid-Ohio Sports Car Course |Mon, June 09 12:30PM EDT |Mon, June 09 05:30PM BST |Tue, June 10 02:30AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|---------------------------|-------------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
+|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |International |21 |2331 | | | | | |
+|[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |International |17 |1435 | | | | | |
 |[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC LMP3 \- Season 3 |North America |12 |1855 |Open | | | | |
 |[SRB LEAGUES \- LMP3 SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |SRB LMP3 SUNDAYS |Europe |12 |2001 | | | | | |
-|[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |North America |11 |1930 |Open |Motorsport Arena Oschersleben |Mon, June 09 08:25PM EDT |Tue, June 10 01:25AM BST |Tue, June 10 10:25AM AEST |
+|[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |North America |12 |1952 |Open |Circuito de Navarra |Mon, June 16 08:25PM EDT |Tue, June 17 01:25AM BST |Tue, June 17 10:25AM AEST |
 
 ### Radical SR10
 
@@ -78,10 +78,10 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |Europe |27 |2535 | | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 1 |North America |24 |2072 |Fixed | | | | |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |Europe |21 |2862 | |Knockhill Racing Circuit |Mon, June 09 02:50PM EDT |Mon, June 09 07:50PM BST |Tue, June 10 04:50AM AEST |
+|[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |Australia-NZ |23 |1812 | | | | | |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |Europe |21 |2917 | |Sebring International Raceway |Mon, June 16 02:50PM EDT |Mon, June 16 07:50PM BST |Tue, June 17 04:50AM AEST |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |North America |19 |1412 |Fixed |Iowa Speedway |Sun, June 15 08:30PM EDT |Mon, June 16 01:30AM BST |Mon, June 16 10:30AM AEST |
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |Europe |19 |1648 | |Oulton Park Circuit |Sun, June 15 04:00PM EDT |Sun, June 15 09:00PM BST |Mon, June 16 06:00AM AEST |
-|[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |Australia-NZ |18 |1756 | |Canadian Tire Motorsports Park |Mon, June 09 07:30AM EDT |Mon, June 09 12:30PM BST |Mon, June 09 09:30PM AEST |
 |[Superlap Community](https://members.iracing.com/membersite/member/LeagueView.do?league=11265){:target="_blank"} |SUPERLAP Radical Spring 2025 |North America |17 |1972 | | | | | |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |Europe |16 |2145 | |Canadian Tire Motorsports Park |Fri, June 13 03:59PM EDT |Fri, June 13 08:59PM BST |Sat, June 14 05:59AM AEST |
 

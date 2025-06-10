@@ -35,9 +35,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|-------------------------------|------------------------|------------------------|-------------------------|
-|[WSL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9800){:target="_blank"} |WSL Summer Speedway Recruitment Season 2025 \[Jun\-Aug\] |Fixed |Michigan International Speedway |Mon, June 09 07:00PM EDT |Tue, June 10 12:00AM BST |Tue, June 10 09:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Area 51 Friday Night Truck SS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12481){:target="_blank"} |Area 51 Season Two Friday Night SS Series | |Talladega Superspeedway |Fri, June 13 08:00PM EDT |Sat, June 14 01:00AM BST |Sat, June 14 10:00AM AEST |
+|[BSR GRID Network Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6126){:target="_blank"} |Season 8 |Fixed |Daytona International Speedway |Sat, June 14 07:00PM EDT |Sun, June 15 12:00AM BST |Sun, June 15 09:00AM AEST |
 
 ### SK Modified
 
@@ -57,6 +57,14 @@
 
 # Oval
 
+### Late Model Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-----------------------|------------------------|------------------------|-------------------------|
+|[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Hometown Short Track Season 9, 9pm Est\. |Both |Stafford Motor Speedway |Wed, June 11 09:00PM EDT |Thu, June 12 02:00AM BST |Thu, June 12 11:00AM AEST |
+
 ### Legends
 
 [Back to Top](#)  
@@ -64,6 +72,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|----------------------|------------------------|------------------------|-------------------------|
 |[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |ProLine Esports Legend Cup | |Phillip Island Circuit |Wed, June 11 04:29AM EDT |Wed, June 11 09:29AM BST |Wed, June 11 06:29PM AEST |
+
+### Street Stocks
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-----------------------|------------------------|------------------------|-------------------------|
+|[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Hometown Short Track Season 9, 8pm est\. |Both |Stafford Motor Speedway |Wed, June 11 08:00PM EDT |Thu, June 12 01:00AM BST |Thu, June 12 10:00AM AEST |
 
 # Open-wheel
 
@@ -75,14 +91,6 @@
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[AOTC Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=12654){:target="_blank"} |F4 Season 1 | |Mount Panorama Circuit |Thu, June 12 09:00PM EDT |Fri, June 13 02:00AM BST |Fri, June 13 11:00AM AEST |
 |[SIMGEAR\.gg](https://members.iracing.com/membersite/member/LeagueView.do?league=4369){:target="_blank"} |Season 10 SIMGEAR F4 Summer Challenge |Both |WeatherTech Raceway at Laguna Seca |Sun, June 15 12:20PM EDT |Sun, June 15 05:20PM BST |Mon, June 16 02:20AM AEST |
-
-### Mercedes-AMG W12 E Performance
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|------------------------------|-----|-------------------------|------------------------|------------------------|-------------------------|
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Grand Prix Series Season 7 | |Circuit Gilles Villeneuve |Mon, June 09 08:00PM EDT |Tue, June 10 01:00AM BST |Tue, June 10 10:00AM AEST |
 
 ### Super Formula SF23
 
@@ -127,6 +135,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S1 |Fixed |Virginia International Raceway |Fri, June 13 07:30PM EDT |Sat, June 14 12:30AM BST |Sat, June 14 09:30AM AEST |
 |[West Coast Sim Racing \- GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12739){:target="_blank"} |Season 2 | |Portland International Raceway |Mon, June 16 09:30PM EDT |Tue, June 17 02:30AM BST |Tue, June 17 11:30AM AEST |
 
 # Prototype
@@ -173,7 +182,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|----------------|------------------------|------------------------|-------------------------|
-|[RPES 305 Nationals Monday](https://members.iracing.com/membersite/member/LeagueView.do?league=11709){:target="_blank"} |2025 RPES 305 Nationals Monday & B\-Main 1 | |Huset's Speedway |Mon, June 09 08:00PM EDT |Tue, June 10 01:00AM BST |Tue, June 10 10:00AM AEST |
 |[RPES 305 Nationals Tuesday](https://members.iracing.com/membersite/member/LeagueView.do?league=11710){:target="_blank"} |2025 RPES 305 Nationals Tuesday & B\-Main 2 | |Huset's Speedway |Tue, June 10 08:00PM EDT |Wed, June 11 01:00AM BST |Wed, June 11 10:00AM AEST |
 |[RPES 305 Nationals Wednesday Feature](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2025 RPES 305 Nationals Feature |Fixed |Huset's Speedway |Wed, June 11 09:00PM EDT |Thu, June 12 02:00AM BST |Thu, June 12 11:00AM AEST |
 

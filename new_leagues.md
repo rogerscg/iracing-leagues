@@ -2,18 +2,15 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[petsitter](https://members.iracing.com/membersite/member/LeagueView.do?league=12698){:target="_blank"} | |nur |
-|[SportsCar World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12700){:target="_blank"} | | |
-|[WRL Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=12701){:target="_blank"} |[Discord](https://discord.gg/rDZmt52g){:target="_blank"} |Various sports car championships, such as GT3 and GR86 Cup |
 |[DES Genesis](https://members.iracing.com/membersite/member/LeagueView.do?league=12704){:target="_blank"} | | |
 |[Dudarev Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12702){:target="_blank"} | | |
 |[PH Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12705){:target="_blank"} | |Fun racing for moderate drivers |
 |[Sim Racer Academy Endurance Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=12703){:target="_blank"} | | |
 |[SOUTHWEST ARCA SIM\-RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12709){:target="_blank"} | |Beginner to B Class League |
 |[Stratus Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12707){:target="_blank"} | |The Official League for all Stratus Racing drivers and employees\. |
-|[USRA \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12706){:target="_blank"} | |Special Events page for United Sim Racing Association |
+|[USRA \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12706){:target="_blank"} | |United Sim Racing Association \- Special Events   From iconic ovals to legendary road courses, USRA brings intense, high\-quality racing to every special event we host\. Expect stacked grids, clean competition, and a broadcast\-worthy show every time you hit the track |
 |[Winston '87](https://members.iracing.com/membersite/member/LeagueView.do?league=12708){:target="_blank"} | |87 Cup cars, 87 Winston schedule\. Races Tuesday nights 8:00 est starting June 3 |
-|[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} | | |
+|[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} | |Blue Flags & Dads is a North\-America based iRacing league built for busy parents who are short on free time but still want to enjoy some fun wheel\-to\-wheel racing — after the kids are asleep and the chaos of the day has settled\. |
 |[LPA Shenanigans League](https://members.iracing.com/membersite/member/LeagueView.do?league=12710){:target="_blank"} | | |
 |[National Stock Car Association \(NSCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12711){:target="_blank"} | |Next Gen NASCAR League aimed at running unique tracks with the best drivers around\. |
 |[WRL Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12712){:target="_blank"} | | |
@@ -48,7 +45,7 @@
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} | |league of drivers over the age of 50 |
 |[Turtle\-Pace Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12742){:target="_blank"} |[Discord](https://discord.gg/AgkkX6yX){:target="_blank"} |An Racing League made possible by the Turtle\-Pace Racing Team\! |
 |[Simracelab Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12743){:target="_blank"} | |Simracelab Porsche Cup |
-|[For The Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12748){:target="_blank"} | |Car of Tomorrow \(COT League\) |
+|[For The Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12748){:target="_blank"} |[Discord](https://discord.gg/ca877Mh5){:target="_blank"} |Car of Tomorrow \(COT League\) |
 |[INDYCAR Legacy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12747){:target="_blank"} | |INDYCAR Career  \( \+ IMSA Races \) |
 |[NASCAR Legacy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12745){:target="_blank"} | |NASCAR Career |
 |[2021 NASCAR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12746){:target="_blank"} | |2021 NASCAR Cup Series FULL SEASON  YUNG MONEY |
@@ -59,4 +56,10 @@
 |[GT3 3\-races in a day League \(2 drop\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12754){:target="_blank"} | |P:5' Q:25' R:30'\(64 Liters\)   IMSA point system \(Q: 35, 32, 30, \.\. R: 350, 320, 300, \.\.\)  1 point per lead lap  10 points most leading laps  35 points best race lap   2 races to drop \(on 3 race\)   2 fast repair  drive thru every 10 inc |
 |[North East Bandit Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12756){:target="_blank"} | |Small Series from the Racers Of Winchester Speedway |
 |[USRA \- Stock Car Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12755){:target="_blank"} | |Stock Car Series League page |
+|[Almeida Racing League \- Season 4](https://members.iracing.com/membersite/member/LeagueView.do?league=12757){:target="_blank"} | | |
+|[Dirt Late Model Dream @Eldora Speedway](https://members.iracing.com/membersite/member/LeagueView.do?league=12758){:target="_blank"} | |Night 1 : $100 to win plus check Night 2 : $100 to win plus check Night 3 : $500 to win $300 for 2nd $200 for 3rd plus check to winner |
+|[indy car](https://members.iracing.com/membersite/member/LeagueView.do?league=12761){:target="_blank"} | | |
+|[Isringhausen Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=12762){:target="_blank"} | |This is a sim racing league reserved for past, present, and aspiring customers of Isringhausen Motorsports or Isringhausen Imports\. This league will focus solely on sportcar racing at world class circuits around North America and beyond\. Join us for some good times and friendly competition\. |
+|[Marmo Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12760){:target="_blank"} | |Pendiente |
+|[Platinum Temporary Silly Season](https://members.iracing.com/membersite/member/LeagueView.do?league=12759){:target="_blank"} | |Just race and have fun and go a little mad in the process |
 
