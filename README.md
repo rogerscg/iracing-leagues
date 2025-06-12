@@ -1,7 +1,7 @@
 Welcome to the iRacing League Directory! This is updated daily to make finding a league that fits your needs more
 easily. It's a simple UI, but it should be easy to navigate.
 
-Find a league that interests you by going to any of the pages below based on car type, location, or just scroll through
+Find a league that interests you by going to any of the pages below based on car type, or just scroll through
 the hundreds of active leagues in the directory. The directory also contains things such as the number of active drivers
 in a season, the average strength of field, and any upcoming races the league has scheduled.
 
@@ -42,15 +42,3 @@ Check out newly-created leagues. These may still be in the process of getting se
 * [Rallycross](types/rallycross)  
 * [Dirt Oval](types/dirtoval)  
 * [Dirt Road](types/dirtroad)  
-
-## Leagues by Location  
-
-* [Africa](locations/Africa)  
-* [Asia](locations/Asia)  
-* [Australia-NZ](locations/Australia-NZ)  
-* [Europe](locations/Europe)  
-* [International](locations/International)  
-* [North America](locations/North America)  
-* [South America](locations/South America)   
-
-
