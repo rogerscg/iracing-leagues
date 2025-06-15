@@ -10,7 +10,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 Full Season |23 |1675 | | | | | |
-|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |21 |1592 |Both |Road America |Fri, June 13 05:00PM EDT |Fri, June 13 10:00PM BST |Sat, June 14 07:00AM AEST |
+|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |21 |1580 |Both | | | | |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |19 |3178 |Fixed | | | | |
 |[Proton Racing Series \- LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=11408){:target="_blank"} |LMP2 Series |17 |2041 | | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |14 |2246 |Open |Road Atlanta |Wed, June 18 07:30PM EDT |Thu, June 19 12:30AM BST |Thu, June 19 09:30AM AEST |
@@ -21,12 +21,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Season 1 GTP  |32 |1194 |Both | | | | |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S02 \- GTP |29 |2652 |Both | | | | |
-|[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |26 |2007 |Fixed |Road Atlanta |Thu, June 12 04:00PM EDT |Thu, June 12 09:00PM BST |Fri, June 13 06:00AM AEST |
+|[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |26 |2007 |Fixed |Circuit des 24 Heures du Mans |Fri, June 20 03:05PM EDT |Fri, June 20 08:05PM BST |Sat, June 21 05:05AM AEST |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |23 |2236 |Both | | | | |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |17 |1357 |Both |Circuit de Spa-Francorchamps |Thu, June 12 07:30PM EDT |Fri, June 13 12:30AM BST |Fri, June 13 09:30AM AEST |
+|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |17 |1346 |Both |Road Atlanta |Thu, June 19 07:30PM EDT |Fri, June 20 12:30AM BST |Fri, June 20 09:30AM AEST |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |14 |1543 |Both | | | | |
 
 ### HPD ARX-01c
@@ -55,7 +55,7 @@
 |------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |21 |2331 | | | | | |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |17 |1435 | | | | | |
-|[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC LMP3 \- Season 3 |12 |1855 |Open |Oulton Park Circuit |Thu, June 12 07:00PM EDT |Fri, June 13 12:00AM BST |Fri, June 13 09:00AM AEST |
+|[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC LMP3 \- Season 3 |12 |1804 |Open | | | | |
 |[SRB LEAGUES \- LMP3 SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |SRB LMP3 SUNDAYS |12 |2001 | | | | | |
 |[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1952 |Open |Circuito de Navarra |Mon, June 16 08:25PM EDT |Tue, June 17 01:25AM BST |Tue, June 17 10:25AM AEST |
 
@@ -76,23 +76,24 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |27 |2535 | | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 1 |24 |2072 |Fixed | | | | |
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |23 |1812 | | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |21 |2917 | |Sebring International Raceway |Mon, June 16 02:50PM EDT |Mon, June 16 07:50PM BST |Tue, June 17 04:50AM AEST |
+|[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S03 \- BRITISH CUP SR8 |20 |2389 |Both |Cadwell Park Circuit |Thu, June 19 02:30PM EDT |Thu, June 19 07:30PM BST |Fri, June 20 04:30AM AEST |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |19 |1412 |Fixed |Iowa Speedway - Oval - 2011 |Sun, June 15 08:30PM EDT |Mon, June 16 01:30AM BST |Mon, June 16 10:30AM AEST |
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |19 |1648 | |Oulton Park Circuit |Sun, June 15 04:00PM EDT |Sun, June 15 09:00PM BST |Mon, June 16 06:00AM AEST |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |18 |2138 | |Nürburgring Nordschleife |Fri, June 20 03:59PM EDT |Fri, June 20 08:59PM BST |Sat, June 21 05:59AM AEST |
 |[Superlap Community](https://members.iracing.com/membersite/member/LeagueView.do?league=11265){:target="_blank"} |SUPERLAP Radical Spring 2025 |17 |1972 | | | | | |
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |16 |2145 | |Canadian Tire Motorsports Park |Fri, June 13 03:59PM EDT |Fri, June 13 08:59PM BST |Sat, June 14 05:59AM AEST |
 
 ### Riley Daytona Prototype
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[Dinner with Racers' Thursday Night Blunder](https://members.iracing.com/membersite/member/LeagueView.do?league=3320){:target="_blank"} |Thursday Night Blunder 2025 |18 |1284 |Both |Circuit des 24 Heures du Mans |Sat, June 14 06:00PM EDT |Sat, June 14 11:00PM BST |Sun, June 15 08:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------|--------|------|------|
+|[Dinner with Racers' Thursday Night Blunder](https://members.iracing.com/membersite/member/LeagueView.do?league=3320){:target="_blank"} |Thursday Night Blunder 2025 |18 |1293 |Both | | | | |
 
 ### Spec Racer Ford
 
