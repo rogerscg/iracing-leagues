@@ -1,15 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[West Coast Sim Racing \- Multiclass](https://members.iracing.com/membersite/member/LeagueView.do?league=12728){:target="_blank"} | |Mulitlcass series for 86 Challenge Sim Racing |
-|[RACERS\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12727){:target="_blank"} | |RACING |
-|[Rebel Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12726){:target="_blank"} | |Welcome to the Rebel Racing Series, where high\-speed action meets fierce competition in the world of iRacing\! Our league is all about pushing boundaries, embracing the spirit of rebellion, and creating a community of passionate drivers who aren’t afraid to race hard\.  League Features:  • Weekly Races: Competitive races every week with a mix of short tracks, road courses, and superspeedways to test your versatility\.  • Custom Seasons: Engaging season formats with unique championship points systems, playoff\-style events, and exciting prize giveaways\.  • Clean Racing: We emphasize fair, respectful racing\. Our drivers have a reputation for keeping it clean, no matter the stakes\. |
-|[P1 600](https://members.iracing.com/membersite/member/LeagueView.do?league=12729){:target="_blank"} | |Home of the P1 600 |
-|[Clean Coal Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12733){:target="_blank"} | |Fast, just fast\. |
-|[Friday Night ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12732){:target="_blank"} |[Discord](https://discord.gg/EaxWxJnxQX){:target="_blank"} |We run the new ARCA cars on Friday nights starting June 20th\. 7pm Pacific/10pm Eastern  https://discord\.gg/EaxWxJnxQX |
-|[OsNoobs \- PT](https://members.iracing.com/membersite/member/LeagueView.do?league=12730){:target="_blank"} | |Portugal |
-|[Rage Against the Game Esports Practice League](https://members.iracing.com/membersite/member/LeagueView.do?league=12731){:target="_blank"} |[Discord](https://discord.gg/Xqdh6e2asY){:target="_blank"} |Whether you are looking to improve your skills, get some setup help, or run some laps with the team, RAGE practice league is the place you want to be\. Practices throughout the week will be held for the current tracks of the week in the GT3s, GT4s, GTPs, and the LMPs |
+|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[West Coast Sim Racing \- GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12739){:target="_blank"} | | |
 |[Dirt Storm Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=12738){:target="_blank"} | | |
 |[Durty Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12737){:target="_blank"} | |Just some Durty boys doing some Durty Racin' |
@@ -29,7 +21,7 @@
 |[Optimum Broke Bois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12752){:target="_blank"} |[Discord](https://discord.gg/tprXHNtT){:target="_blank"} |Hanna brothers defeat AI |
 |[BSTV Pitstop Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12750){:target="_blank"} | |Week 13 multiclass championship |
 |[DCM Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12753){:target="_blank"} | |Sunday Nights – NASCAR League |
-|[GT3 2\-races in a day League](https://members.iracing.com/membersite/member/LeagueView.do?league=12754){:target="_blank"} | |P:5' Q:25' R:30'\(57 Liters\)   IMSA point system \(Q: 35, 32, 30, \.\. R: 350, 320, 300, \.\.\)  1 point per lead lap  10 points most leading laps  35 points best race lap   2 races to drop \(on 3 race\)   2 fast repair  drive thru every 10 inc |
+|[GT3 Sprint & Feature Race \(50% AI\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12754){:target="_blank"} | |P:20' Q:20' R1:20' R2:40'   IMSA point system \(Q: 35, 32, 30, \.\. R: 350, 320, 300, \.\.\)  1 point per lead lap  10 points most leading laps  35 points best race lap   free fast repair  drive thru every 10 inc |
 |[North East Bandit Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12756){:target="_blank"} | |Small Series from the Racers Of Winchester Speedway |
 |[USRA \- Stock Car Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12755){:target="_blank"} | |Stock Car Series League page |
 |[Almeida Racing League \- Season 4](https://members.iracing.com/membersite/member/LeagueView.do?league=12757){:target="_blank"} | | |
@@ -45,7 +37,7 @@
 |[IFF ENDURANCE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12780){:target="_blank"} | | |
 |[JPs Indycar League](https://members.iracing.com/membersite/member/LeagueView.do?league=12775){:target="_blank"} | | |
 |[Kerb Krashers Kartel](https://members.iracing.com/membersite/member/LeagueView.do?league=12770){:target="_blank"} | |Home of the Hosses Clibbins Cup |
-|[OMEGA Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12777){:target="_blank"} | |Stock Car Racing |
+|[KENETIK STREET STOCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12777){:target="_blank"} | |Stock Car Racing |
 |[Past My BedTime Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12763){:target="_blank"} | |ARCA series\.\.\.all races finish by 8:30 PM ET |
 |[Phoenix Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12765){:target="_blank"} | |Coming Soon |
 |[Test12](https://members.iracing.com/membersite/member/LeagueView.do?league=12766){:target="_blank"} | | |
@@ -68,5 +60,16 @@
 |[David's Radical Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12792){:target="_blank"} | |Radical Practice and Training \- David Mason |
 |[Pinheadlarrys IRACING league](https://members.iracing.com/membersite/member/LeagueView.do?league=12793){:target="_blank"} |[Discord](https://discord.gg/QQUTzKNKww){:target="_blank"} |balls to the wall, come one come all |
 |[SXRL: Mini Stock](https://members.iracing.com/membersite/member/LeagueView.do?league=12790){:target="_blank"} |[Discord](https://discord.gg/mEWg6smmFU){:target="_blank"} |Free League: new comers welcome |
-|[Satellite Rogue Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=12791){:target="_blank"} | |Self\-Explanatory |
+|[Candy Canes](https://members.iracing.com/membersite/member/LeagueView.do?league=12791){:target="_blank"} | |Self\-Explanatory |
+|[DV8 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12804){:target="_blank"} |[Discord](https://discord.gg/yqXJ4nvG){:target="_blank"} | |
+|[Floki Token Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12799){:target="_blank"} | |Lets Go Fast\! |
+|[Independence Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12801){:target="_blank"} |[Discord](https://discord.gg/jFpSKfJB){:target="_blank"} |Fun league run by a group of friends\. B Class license with 1500\+ iRating required for entry\. Join the league discord for more info https://discord\.gg/jFpSKfJB |
+|[Liga RPM](https://members.iracing.com/membersite/member/LeagueView.do?league=12803){:target="_blank"} | | |
+|[Midwest Elite Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12795){:target="_blank"} |[Discord](https://discord.gg/ZbhjD9krCn){:target="_blank"} |Welcome to the Midwest Elite Racing League\. Here we encourage fast, hard, and clean NASCAR style racing, while also encouraging the development of drivers\. |
+|[NGC eSport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12794){:target="_blank"} | | |
+|[SOAR racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12802){:target="_blank"} | | |
+|[The Cheddar Jetta Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12800){:target="_blank"} | |This league is about cheese |
+|[Trinity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12796){:target="_blank"} | | |
+|[AA Support Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12798){:target="_blank"} | |Video Gamers |
+|[Greene Street Stock Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=12797){:target="_blank"} | | |
 
