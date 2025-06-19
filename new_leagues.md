@@ -73,4 +73,9 @@
 |[The Corsair CN iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12805){:target="_blank"} | |This is Season 1 for IR贼船 Tournament |
 |[705 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12808){:target="_blank"} | |first league were running, going to be some things to be learned\. have any input, follow us on discord \(705 Racing\) |
 |[B League](https://members.iracing.com/membersite/member/LeagueView.do?league=12806){:target="_blank"} | |A casual friends league that races once per week :\) |
+|[4BigGuys](https://members.iracing.com/membersite/member/LeagueView.do?league=12816){:target="_blank"} | |TEHE |
+|[DSA Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12813){:target="_blank"} |[Discord](https://discord.gg/BREydf9fDz){:target="_blank"} |Next Gen NASCAR league |
+|[OutKast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12812){:target="_blank"} |[Discord](https://discord.gg/5AaW27v4){:target="_blank"} | |
+|[Ring Tail Casual League](https://members.iracing.com/membersite/member/LeagueView.do?league=12815){:target="_blank"} | | |
+|[Sim Racing Chicago Community Event](https://members.iracing.com/membersite/member/LeagueView.do?league=12814){:target="_blank"} | | |
 
