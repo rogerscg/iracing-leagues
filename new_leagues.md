@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[All American Cars Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12741){:target="_blank"} | |Late Model League |
-|[MOZA RACING 魔爪联赛 League S1](https://members.iracing.com/membersite/member/LeagueView.do?league=12740){:target="_blank"} | |MOZA RACING League S1 |
-|[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} | |league of drivers over the age of 50 |
-|[Turtle\-Pace Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12742){:target="_blank"} |[Discord](https://discord.gg/AgkkX6yX){:target="_blank"} |An Racing League made possible by the Turtle\-Pace Racing Team\! |
-|[Simracelab Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12743){:target="_blank"} | |Simracelab Porsche Cup |
 |[For The Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12748){:target="_blank"} |[Discord](https://discord.gg/ca877Mh5){:target="_blank"} |Car of Tomorrow \(COT League\) |
 |[INDYCAR Legacy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12747){:target="_blank"} | |INDYCAR Career  \( \+ IMSA Races \) |
 |[NASCAR Legacy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12745){:target="_blank"} | |NASCAR Career |
@@ -63,7 +58,7 @@
 |[NGC eSport Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12794){:target="_blank"} | | |
 |[SOAR racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12802){:target="_blank"} | | |
 |[The Cheddar Jetta Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12800){:target="_blank"} | |This league is about cheese |
-|[Trinity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12796){:target="_blank"} | | |
+|[Trinity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12796){:target="_blank"} | |Trinity Racing League was founded by dedicated sim racers who came together after the closure of a previous league\. As the third league to rise from those ashes, Trinity represents more than just a fresh start; it’s a continuation of the community spirit, camaraderie, and competitive integrity we’ve all come to value from NAISCC and ISRC\.   Built on the feedback and hard lessons from our past two leagues, Trinity Racing League is focused on providing a fair, consistent, and transparent racing environment\. We’re committed to listening to our drivers, enforcing clear rules, and keeping things fun while still maintaining a competitive edge\.   If you're looking for a league that values clean racing, open communication, and continuous improvement, you’ve found your home\.   Welcome to Trinity\. |
 |[AA Support Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12798){:target="_blank"} | |Video Gamers |
 |[Greene Street Stock Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=12797){:target="_blank"} | | |
 |[Broke Boyz Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12810){:target="_blank"} | |Oval \(mainly\) seasons with a schedule heavier on the road course side\. |
@@ -78,4 +73,8 @@
 |[OutKast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12812){:target="_blank"} |[Discord](https://discord.gg/5AaW27v4){:target="_blank"} | |
 |[Ring Tail Casual League](https://members.iracing.com/membersite/member/LeagueView.do?league=12815){:target="_blank"} | | |
 |[Sim Racing Chicago Community Event](https://members.iracing.com/membersite/member/LeagueView.do?league=12814){:target="_blank"} | | |
+|[Flogrown2219](https://members.iracing.com/membersite/member/LeagueView.do?league=12820){:target="_blank"} | |private |
+|[Maniacs Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12819){:target="_blank"} |[Discord](https://discord.gg/h54QFxSw){:target="_blank"} |Monday Night Short Track |
+|[Vortex Precision Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12818){:target="_blank"} | | |
+|[BISC GT3 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12817){:target="_blank"} | |GT3 \- FIXED SETUP \- $$ PRIZES $$$ \- 8 ROUNDS |
 
