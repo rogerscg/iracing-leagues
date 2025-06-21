@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[For The Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12748){:target="_blank"} |[Discord](https://discord.gg/ca877Mh5){:target="_blank"} |Car of Tomorrow \(COT League\) |
-|[INDYCAR Legacy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12747){:target="_blank"} | |INDYCAR Career  \( \+ IMSA Races \) |
-|[NASCAR Legacy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12745){:target="_blank"} | |NASCAR Career |
-|[2021 NASCAR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12746){:target="_blank"} | |2021 NASCAR Cup Series FULL SEASON  YUNG MONEY |
 |[NSRLA CARS TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=12751){:target="_blank"} | |NSRLA CARS TOUR |
 |[Optimum Broke Bois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12752){:target="_blank"} |[Discord](https://discord.gg/tprXHNtT){:target="_blank"} |Hanna brothers defeat AI |
 |[BSTV Pitstop Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12750){:target="_blank"} | |Week 13 multiclass championship |
@@ -36,7 +32,7 @@
 |[Club Atlantis](https://members.iracing.com/membersite/member/LeagueView.do?league=12772){:target="_blank"} | | |
 |[Spar Franks](https://members.iracing.com/membersite/member/LeagueView.do?league=12769){:target="_blank"} | | |
 |[Under The Lights Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12779){:target="_blank"} | | |
-|[Zero7 Racing \- LMDh/GTP](https://members.iracing.com/membersite/member/LeagueView.do?league=12778){:target="_blank"} | |League for practice and testing \- Racing Prep and Strategy Analysis |
+|[Zero7 Racing \- Practice/Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=12778){:target="_blank"} | |League for practice and testing \- Racing Prep and Strategy Analysis |
 |[Just For Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=12783){:target="_blank"} | |Just For Fun |
 |[National Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12781){:target="_blank"} | |National Racing League |
 |[DDIRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12782){:target="_blank"} | |Daily Drivers Inc\. Racing League |
@@ -77,4 +73,9 @@
 |[Maniacs Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12819){:target="_blank"} |[Discord](https://discord.gg/h54QFxSw){:target="_blank"} |Monday Night Short Track |
 |[Vortex Precision Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12818){:target="_blank"} | | |
 |[BISC GT3 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=12817){:target="_blank"} | |GT3 \- FIXED SETUP \- $$ PRIZES $$$ \- 8 ROUNDS |
+|[mkhalifa](https://members.iracing.com/membersite/member/LeagueView.do?league=12824){:target="_blank"} | | |
+|[Phantom Sports Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=12821){:target="_blank"} | |A league of legends |
+|[PRA GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=12822){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} |discord\.gg/pra |
+|[Smith and Leftson](https://members.iracing.com/membersite/member/LeagueView.do?league=12825){:target="_blank"} | | |
+|[Low & Slow Simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12823){:target="_blank"} | | |
 
