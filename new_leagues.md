@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[NSRLA CARS TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=12751){:target="_blank"} | |NSRLA CARS TOUR |
-|[Optimum Broke Bois Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12752){:target="_blank"} |[Discord](https://discord.gg/tprXHNtT){:target="_blank"} |Hanna brothers defeat AI |
-|[BSTV Pitstop Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12750){:target="_blank"} | |Week 13 multiclass championship |
 |[DCM Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12753){:target="_blank"} | |Sunday Nights – NASCAR League |
 |[GT3 Sprint & Feature Race \(50% AI\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12754){:target="_blank"} | |P:20' Q:20' R1:20' R2:40'   IMSA point system \(Q: 35, 32, 30, \.\. R: 350, 320, 300, \.\.\)  1 point per lead lap  10 points most leading laps  35 points best race lap   free fast repair  drive thru every 10 inc |
 |[North East Bandit Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12756){:target="_blank"} | |Small Series from the Racers Of Winchester Speedway |
@@ -22,7 +19,7 @@
 |[IFF ENDURANCE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12780){:target="_blank"} | | |
 |[JPs Indycar League](https://members.iracing.com/membersite/member/LeagueView.do?league=12775){:target="_blank"} | | |
 |[Kerb Krashers Kartel](https://members.iracing.com/membersite/member/LeagueView.do?league=12770){:target="_blank"} | |Home of the Hosses Clibbins Cup |
-|[KENETIK STREET STOCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12777){:target="_blank"} | |Stock Car Racing |
+|[OMEGA INDYCAR OVAL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12777){:target="_blank"} |[Discord](https://discord.gg/HtAYbNHz4Q){:target="_blank"} |🛠️ Details:  • 🏎️ Car: Indy Pro 2000 PM\-18  • 📆 Race Day: Saturdays @ 10PM ET  • 🛠️ Fixed Setup – no tuning needed  • 🏟️ All oval tracks – includes many free tracks  • 🚨 Clean racing culture – toxic\-free & respectful  • 🏆 Championship points, wildcards, and driver spotlights   💬 Join the Paddock:  👉 https://discord\.gg/HtAYbNHz4Q   Whether you’re an oval main, an Indy fan, or just want something new — you’re welcome on the grid\! |
 |[Past My BedTime Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12763){:target="_blank"} | |ARCA series\.\.\.all races finish by 8:30 PM ET |
 |[Phoenix Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12765){:target="_blank"} | |Coming Soon |
 |[Test12](https://members.iracing.com/membersite/member/LeagueView.do?league=12766){:target="_blank"} | | |
@@ -77,5 +74,15 @@
 |[Phantom Sports Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=12821){:target="_blank"} | |A league of legends |
 |[PRA GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=12822){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} |discord\.gg/pra |
 |[Smith and Leftson](https://members.iracing.com/membersite/member/LeagueView.do?league=12825){:target="_blank"} | | |
-|[Low & Slow Simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12823){:target="_blank"} | | |
+|[Low & Slow Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12823){:target="_blank"} | | |
+|[Roven Simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12830){:target="_blank"} | |Racing for friends |
+|[Slow Poke MotorSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12835){:target="_blank"} |[Discord](https://discord.gg/vtccgZJfBN){:target="_blank"} |Sports Car Endurance |
+|[Smokie Mount\. Speed Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12831){:target="_blank"} |[Discord](https://discord.gg/wTFRJKuk){:target="_blank"} |Fun, Clean, Competitive Racing\! |
+|[Smokie Mount\. Speed Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12832){:target="_blank"} |[Discord](https://discord.gg/wTFRJKuk){:target="_blank"} |Fun, Clean and Competitive Racing\! |
+|[Starter's Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12827){:target="_blank"} | |AI Racing League, format TBD |
+|[Suarez Creations iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12829){:target="_blank"} |[Discord](https://discord.gg/AcThp2RkaK){:target="_blank"} |The Suarez Creations iRacing League is an up\-and\-coming racing league, which includes our current Street Stock Series\! Everything as of now is free from cars, tracks, and entry, however will grow and change overtime\. Sponsorships are available\! |
+|[Thunder Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12834){:target="_blank"} | |oval,dirt oval, sports cars |
+|[Vee me Daddy](https://members.iracing.com/membersite/member/LeagueView.do?league=12833){:target="_blank"} | |VEE racing |
+|[Coast 2 Coast iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12826){:target="_blank"} | |Awesome league with the boys\! |
+|[Rolling Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12828){:target="_blank"} | | |
 
