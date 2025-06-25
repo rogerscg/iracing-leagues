@@ -2,18 +2,12 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Appalachian 360 NW Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12767){:target="_blank"} |[Discord](https://discord.gg/knyc2BHp){:target="_blank"} |360 NW League |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12764){:target="_blank"} | |Weekly Wednesday 8:30PM PT \- Formula/GT |
 |[Collins Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12774){:target="_blank"} | | |
 |[FastNDaFurious](https://members.iracing.com/membersite/member/LeagueView.do?league=12773){:target="_blank"} | |Just for fun |
 |[IFF ENDURANCE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12780){:target="_blank"} | | |
 |[JPs Indycar League](https://members.iracing.com/membersite/member/LeagueView.do?league=12775){:target="_blank"} | | |
 |[Kerb Krashers Kartel](https://members.iracing.com/membersite/member/LeagueView.do?league=12770){:target="_blank"} | |Home of the Hosses Clibbins Cup |
 |[ARCA After Dark](https://members.iracing.com/membersite/member/LeagueView.do?league=12777){:target="_blank"} |[Discord](https://discord.gg/HtAYbNHz4Q){:target="_blank"} |ARCA After Dark is a fixed setup oval racing league on iRacing, running intense short track and superspeedway races under the lights\. Built for clean, competitive racing with a late\-night edge, we’re a brand\-new league looking for committed drivers who want fun, drama, and great racecraft without setup headaches\. Races are held weekly on Saturday nights\. New season starts soon — join now and help shape the future of the league\!   https://discord\.gg/HtAYbNHz4Q |
-|[Past My BedTime Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12763){:target="_blank"} | |ARCA series\.\.\.all races finish by 8:30 PM ET |
-|[Phoenix Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12765){:target="_blank"} | |Coming Soon |
-|[Test12](https://members.iracing.com/membersite/member/LeagueView.do?league=12766){:target="_blank"} | | |
-|[The Late Model "GANG"](https://members.iracing.com/membersite/member/LeagueView.do?league=12768){:target="_blank"} | |Late Model Stock Cars Open Setups "Cars Tour" type Rules |
 |[Wednesday Cold Chicken Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=12776){:target="_blank"} |[Discord](https://discord.gg/TbBd5E5b){:target="_blank"} | |
 |[ADAC SimRacing Rallycross Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12771){:target="_blank"} | |Der ADAC SimRacing Cup bildet den in verschiedenen Ligen strukturierten Einstieg in die virtuelle Welt des Motorsports\. In dieser Liga wird der Rallycross Cup durchgeführt\. Je Rennabend 2 Server mit spannenden Rennen vom Heat bis zum Finale\. Mehr Infos auf der Website\! |
 |[Club Atlantis](https://members.iracing.com/membersite/member/LeagueView.do?league=12772){:target="_blank"} | | |
@@ -84,4 +78,6 @@
 |[DDK RACING TEAM](https://members.iracing.com/membersite/member/LeagueView.do?league=12841){:target="_blank"} | | |
 |[eNASCAR \- Group A \- College iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12843){:target="_blank"} | | |
 |[Vanquist Ferrari Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12842){:target="_blank"} | |https://vanquist\.ca/index\.php/tournaments/ |
+|[CSC Short Track League](https://members.iracing.com/membersite/member/LeagueView.do?league=12846){:target="_blank"} | |short track/street stocks |
+|[FORTIS Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12845){:target="_blank"} | | |
 
