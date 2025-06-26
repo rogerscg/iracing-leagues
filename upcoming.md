@@ -22,14 +22,6 @@
 |------------------------------------------------------------------------------------------------------------------------|------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[For The Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12748){:target="_blank"} |COT Season 1 | |Daytona International Speedway |Sun, June 29 07:00PM EDT |Mon, June 30 12:00AM BST |Mon, June 30 09:00AM AEST |
 
-### NASCAR 2003 Gen 4
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|---------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[FUEL Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2844){:target="_blank"} |25 Summer |Fixed |Daytona International Speedway |Wed, June 25 08:00PM EDT |Thu, June 26 01:00AM BST |Thu, June 26 10:00AM AEST |
-
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
@@ -38,6 +30,7 @@
 |------------------------------------------------------------------------------------------------------------------------|------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Prestige Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11426){:target="_blank"} |PRS Cup Season Two |Fixed |Daytona International Speedway |Sat, June 28 08:00PM EDT |Sun, June 29 01:00AM BST |Sun, June 29 10:00AM AEST |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |HOF Race |Fixed |Talladega Superspeedway |Fri, June 27 08:20PM EDT |Sat, June 28 01:20AM BST |Sat, June 28 10:20AM AEST |
+|[DSA Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12813){:target="_blank"} |Season 1 |Fixed |Daytona International Speedway |Thu, June 26 08:00PM EDT |Fri, June 27 01:00AM BST |Fri, June 27 10:00AM AEST |
 
 ### NASCAR Legends 1987
 
@@ -52,8 +45,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Ruff\-Neck Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9844){:target="_blank"} |Season 7:  James Wagoner's Welding Truck Series |Fixed |Daytona International Speedway |Wed, June 25 07:00PM EDT |Thu, June 26 12:00AM BST |Thu, June 26 09:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Trackside Solutions Trucks |Both |Daytona International Speedway |Sun, June 29 08:20PM EDT |Mon, June 30 01:20AM BST |Mon, June 30 10:20AM AEST |
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |Trucks Season 9 |Fixed |Nashville Superspeedway |Mon, June 30 08:29PM EDT |Tue, July 01 01:29AM BST |Tue, July 01 10:29AM AEST |
 |[OutKast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12812){:target="_blank"} |Outkast Racing League Season 1 | |Daytona International Speedway |Fri, June 27 07:00PM EDT |Sat, June 28 12:00AM BST |Sat, June 28 09:00AM AEST |
@@ -65,14 +57,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|--------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
 |[The Motor Racing Academy 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11293){:target="_blank"} |Challenge \#13 | |Sebring International Raceway |Mon, June 30 07:11PM EDT |Tue, July 01 12:11AM BST |Tue, July 01 09:11AM AEST |
-
-### XFINITY Series
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Moonlight Racing League Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8588){:target="_blank"} |Season 7 |Fixed |Daytona International Speedway |Wed, June 25 08:00PM EDT |Thu, June 26 01:00AM BST |Thu, June 26 10:00AM AEST |
 
 # Oval
 
@@ -110,14 +94,6 @@
 
 # Open-wheel
 
-### Dallara IR18
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|----------------|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[Horizon Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11964){:target="_blank"} |Horizon Season 2 | |Watkins Glen International |Wed, June 25 07:00PM EDT |Thu, June 26 12:00AM BST |Thu, June 26 09:00AM AEST |
-
 ### FIA F4
 
 [Back to Top](#)  
@@ -145,22 +121,6 @@
 |[The Motor Racing Academy 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11293){:target="_blank"} |Challenge \#16 \(Wet\) | |Oran Park Raceway |Mon, June 30 07:28PM EDT |Tue, July 01 12:28AM BST |Tue, July 01 09:28AM AEST |
 |[The Motor Racing Academy 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11293){:target="_blank"} |Challenge \#20 \(Wet\) | |Nürburgring Nordschleife |Mon, June 30 07:47PM EDT |Tue, July 01 12:47AM BST |Tue, July 01 09:47AM AEST |
 
-### Super Formula Lights
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[CAS \- Super Formula Lights Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10716){:target="_blank"} |CAS \- Super Formula Lights Cup 6th Season |Fixed |Okayama International Circuit |Wed, June 25 01:00PM EDT |Wed, June 25 06:00PM BST |Thu, June 26 03:00AM AEST |
-
-### [Legacy] Dallara IR-05
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------|------------------------|------------------------|-------------------------|
-|[Crown Jewel Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9996){:target="_blank"} |United States Grand Prix \- 2000 | |Homestead Miami Speedway |Wed, June 25 07:30PM EDT |Thu, June 26 12:30AM BST |Thu, June 26 09:30AM AEST |
-
 # Sports Car
 
 ### Cadillac CTS-VR
@@ -179,14 +139,6 @@
 |------------------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------------|------------------------|------------------------|-------------------------|
 |[The Motor Racing Academy 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11293){:target="_blank"} |Challenge \#08 | |Circuito de Navarra |Mon, June 30 06:49PM EDT |Mon, June 30 11:49PM BST |Tue, July 01 08:49AM AEST |
 |[The Motor Racing Academy 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11293){:target="_blank"} |Challenge \#18 \(Wet\) | |Circuit de Spa-Francorchamps |Mon, June 30 07:35PM EDT |Tue, July 01 12:35AM BST |Tue, July 01 09:35AM AEST |
-
-### GT4 Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|----------|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} |2025S1 GT4 |Fixed |Watkins Glen International |Wed, June 25 08:30PM EDT |Thu, June 26 01:30AM BST |Thu, June 26 10:30AM AEST |
 
 ### Hosted All Cars Class
 
@@ -212,9 +164,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[The Motor Racing Academy 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11293){:target="_blank"} |Challenge \#06 | |Tsukuba Circuit |Mon, June 30 06:46PM EDT |Mon, June 30 11:46PM BST |Tue, July 01 08:46AM AEST |
 |[The Motor Racing Academy 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11293){:target="_blank"} |Challenge \#12 | |Virginia International Raceway |Mon, June 30 07:07PM EDT |Tue, July 01 12:07AM BST |Tue, July 01 09:07AM AEST |
+|[CAS \- Porsche Community Cup Deutschland](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} |CAS\- Porsche Community Cup Deutschland Season 2 | |Autódromo José Carlos Pace |Thu, July 03 01:00PM EDT |Thu, July 03 06:00PM BST |Fri, July 04 03:00AM AEST |
 
 ### Toyota GR86
 
@@ -292,6 +245,7 @@
 |-------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------------|------------------------|------------------------|-------------------------|
 |[NARL GT3 Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7824){:target="_blank"} |NARL GT3 Fixed Season 8 |Fixed |Autodromo Internazionale del Mugello |Thu, June 26 07:00PM EDT |Fri, June 27 12:00AM BST |Fri, June 27 09:00AM AEST |
 |[Bennetton Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12272){:target="_blank"} |BRT GT3 Sprint Series |Fixed |Circuit de Spa-Francorchamps |Fri, June 27 08:00PM EDT |Sat, June 28 01:00AM BST |Sat, June 28 10:00AM AEST |
+|[OPRC](https://members.iracing.com/membersite/member/LeagueView.do?league=12629){:target="_blank"} |Prep 24h SPA |Both |Circuit de Spa-Francorchamps |Thu, July 03 01:40PM EDT |Thu, July 03 06:40PM BST |Fri, July 04 03:40AM AEST |
 
 ### Hosted All Cars Class
 
