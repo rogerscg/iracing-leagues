@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[IFF ENDURANCE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12780){:target="_blank"} | | |
-|[Just For Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=12783){:target="_blank"} | |Just For Fun |
-|[National Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12781){:target="_blank"} | |National Racing League |
-|[DDIRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12782){:target="_blank"} | |Daily Drivers Inc\. Racing League |
 |[CTC 712Breaks Gen 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12786){:target="_blank"} | | |
 |[DIRTcar 358 Nationals Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12785){:target="_blank"} | |The DIRTcar 358 Nationals Tour is a fun and friendly competiton with the 358 modified series\. Come out every Wednesday at 7:45 for drivers meeting in discord\. |
 |[RaceFace\.PRO](https://members.iracing.com/membersite/member/LeagueView.do?league=12788){:target="_blank"} |[Discord](https://discord.gg/QYchajWjDH){:target="_blank"} |South African simracing league with over 1000 active members offering racing leagues in ACC, iRacing, AMS2 and F1 20XX |
@@ -71,4 +67,6 @@
 |[FORTIS Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12845){:target="_blank"} | | |
 |[Josh White Racing Esports J&K Lift Service Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12849){:target="_blank"} | | |
 |[TitanUpRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12848){:target="_blank"} | |Competitive Racing Group |
+|[\*\*\* box racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12851){:target="_blank"} | |anyone welcome |
+|[Brothers of Destruction Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12850){:target="_blank"} | | |
 

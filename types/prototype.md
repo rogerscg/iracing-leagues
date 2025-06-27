@@ -22,12 +22,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------|----|-----|-------------|--------|------|------|
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Season 1 GTP  |32 |1194 |Both | | | | |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S02 \- GTP |29 |2652 |Both | | | | |
 |[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |26 |2007 |Fixed | | | | |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Endurance \- Season 10 |23 |2236 |Both | | | | |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |17 |1336 |Both |Circuit des 24 Heures du Mans |Thu, June 26 07:30PM EDT |Fri, June 27 12:30AM BST |Fri, June 27 09:30AM AEST |
+|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |17 |1329 |Both | | | | |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |14 |1585 |Both | | | | |
 
 ### HPD ARX-01c
@@ -43,9 +43,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|-------------|--------|------|------|
+|-----------------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 9 |46 |3749 | | | | | |
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2025 Abruzzi Prototype Challenge |44 |2563 | | | | | |
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2025 Abruzzi Prototype Challenge |44 |2563 | |Watkins Glen International |Tue, July 01 01:00PM EDT |Tue, July 01 06:00PM BST |Wed, July 02 03:00AM AEST |
 |[SMOKE N TACOS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8349){:target="_blank"} |Daytona Prototype Oval |12 |1163 |Both | | | | |
 
 ### Ligier JS P320
@@ -65,12 +65,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |42 |3545 | | | | | |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |29 |2704 | |Watkins Glen International |Sun, June 29 07:30PM EDT |Mon, June 30 12:30AM BST |Mon, June 30 09:30AM AEST |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 2 |23 |2742 |Open | | | | |
 |[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |Radical Challenge 2025 |18 |1944 | | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S2 Sunday Radical SR10 |15 |1708 |Both | | | | |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 3 |12 |3068 |Open |Motorsport Arena Oschersleben |Thu, July 03 02:15PM EDT |Thu, July 03 07:15PM BST |Fri, July 04 04:15AM AEST |
 
 ### Radical SR8
 
@@ -83,7 +84,7 @@
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 1 |24 |2072 |Fixed | | | | |
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |23 |1812 | |Road Atlanta |Mon, June 30 07:30AM EDT |Mon, June 30 12:30PM BST |Mon, June 30 09:30PM AEST |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |22 |2899 | |Circuit Zolder |Mon, June 30 02:50PM EDT |Mon, June 30 07:50PM BST |Tue, July 01 04:50AM AEST |
-|[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S03 \- BRITISH CUP SR8 |22 |2570 |Both |Donington Park Racing Circuit |Thu, June 26 02:30PM EDT |Thu, June 26 07:30PM BST |Fri, June 27 04:30AM AEST |
+|[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S03 \- BRITISH CUP SR8 |22 |2546 |Both |Oulton Park Circuit |Thu, July 03 02:30PM EDT |Thu, July 03 07:30PM BST |Fri, July 04 04:30AM AEST |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |21 |2124 | |Okayama International Circuit |Fri, June 27 03:58PM EDT |Fri, June 27 08:58PM BST |Sat, June 28 05:58AM AEST |
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |20 |1598 | |Knockhill Racing Circuit |Sun, June 29 04:00PM EDT |Sun, June 29 09:00PM BST |Mon, June 30 06:00AM AEST |
 |[Superlap Community](https://members.iracing.com/membersite/member/LeagueView.do?league=11265){:target="_blank"} |SUPERLAP Radical Spring 2025 |17 |1972 | | | | | |
@@ -102,8 +103,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------|---------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S2 |75 |3072 |Open | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S3 SRF WW |32 |3149 |Open |Red Bull Ring |Sun, June 29 02:40PM EDT |Sun, June 29 07:40PM BST |Mon, June 30 04:40AM AEST |
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SCCA Spec Racer |15 |1550 |Fixed |Watkins Glen International |Thu, June 26 05:30AM EDT |Thu, June 26 10:30AM BST |Thu, June 26 07:30PM AEST |
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SCCA Spec Racer |16 |1539 |Fixed |Nürburgring Grand-Prix-Strecke |Thu, July 03 05:30AM EDT |Thu, July 03 10:30AM BST |Thu, July 03 07:30PM AEST |
 
