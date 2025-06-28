@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[CTC 712Breaks Gen 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12786){:target="_blank"} | | |
-|[DIRTcar 358 Nationals Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12785){:target="_blank"} | |The DIRTcar 358 Nationals Tour is a fun and friendly competiton with the 358 modified series\. Come out every Wednesday at 7:45 for drivers meeting in discord\. |
-|[RaceFace\.PRO](https://members.iracing.com/membersite/member/LeagueView.do?league=12788){:target="_blank"} |[Discord](https://discord.gg/QYchajWjDH){:target="_blank"} |South African simracing league with over 1000 active members offering racing leagues in ACC, iRacing, AMS2 and F1 20XX |
-|[THE DML NATIONALS](https://members.iracing.com/membersite/member/LeagueView.do?league=12784){:target="_blank"} | |Welcome to the home of the DML \- Dirt Midget League Nationals\! The Nationals is run over 3 nights\.\. Group 1 will run on Friday the 4th of July, Group 2 will run on Saturday the 5th of July, once both prelim nights have been complete drivers will fall into there respected feature races which will commence on Sunday the 6th of July\. |
-|[Tube Frame Twisters, The League](https://members.iracing.com/membersite/member/LeagueView.do?league=12787){:target="_blank"} | |Street Stocks on Road Courses |
-|[Bumpin n Drivin](https://members.iracing.com/membersite/member/LeagueView.do?league=12789){:target="_blank"} | | |
 |[David's Radical Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12792){:target="_blank"} | |Radical Practice and Training \- David Mason |
 |[Pinheadlarrys IRACING league](https://members.iracing.com/membersite/member/LeagueView.do?league=12793){:target="_blank"} |[Discord](https://discord.gg/QQUTzKNKww){:target="_blank"} |balls to the wall, come one come all |
 |[SXRL: Mini Stock](https://members.iracing.com/membersite/member/LeagueView.do?league=12790){:target="_blank"} |[Discord](https://discord.gg/mEWg6smmFU){:target="_blank"} |Free League: new comers welcome |
@@ -52,7 +46,7 @@
 |[Suarez Creations iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12829){:target="_blank"} |[Discord](https://discord.gg/AcThp2RkaK){:target="_blank"} |The Suarez Creations iRacing League is an up\-and\-coming racing league, which includes our current Street Stock Series\! Everything as of now is free from cars, tracks, and entry, however will grow and change overtime\. Sponsorships are available\! |
 |[Thunder Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12834){:target="_blank"} | |oval,dirt oval, sports cars |
 |[Vee me Daddy](https://members.iracing.com/membersite/member/LeagueView.do?league=12833){:target="_blank"} | |VEE racing |
-|[Coast 2 Coast iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12826){:target="_blank"} | |Awesome league with the boys\! |
+|[Coast 2 Coast iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12826){:target="_blank"} |[Discord](https://discord.gg/UM3fTm5Q){:target="_blank"} |Awesome league with the boys\! |
 |[Rolling Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12828){:target="_blank"} | | |
 |[DyN RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12840){:target="_blank"} | | |
 |[Grass Roots Racing \- Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12838){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} | |
@@ -69,4 +63,8 @@
 |[TitanUpRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12848){:target="_blank"} | |Competitive Racing Group |
 |[\*\*\* box racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12851){:target="_blank"} | |anyone welcome |
 |[Brothers of Destruction Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12850){:target="_blank"} | | |
+|[Full Throttle Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12853){:target="_blank"} | | |
+|[NERL](https://members.iracing.com/membersite/member/LeagueView.do?league=12855){:target="_blank"} | | |
+|[No Limit Modified](https://members.iracing.com/membersite/member/LeagueView.do?league=12852){:target="_blank"} |[Discord](https://discord.gg/sMfBUhSK){:target="_blank"} |From the Street Stocks to the short track kings this is No Limit Modified |
+|[speed demon mini series](https://members.iracing.com/membersite/member/LeagueView.do?league=12854){:target="_blank"} | | |
 
