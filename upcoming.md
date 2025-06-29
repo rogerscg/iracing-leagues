@@ -11,6 +11,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[SimStock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12662){:target="_blank"} |SSRL Season 1 |Fixed |Daytona International Speedway |Tue, July 01 08:00PM EDT |Wed, July 02 01:00AM BST |Wed, July 02 10:00AM AEST |
 |[Coast 2 Coast iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12826){:target="_blank"} |Coast 2 Coast iRacing League Season 1 | |Daytona International Speedway |Mon, June 30 07:45PM EDT |Tue, July 01 12:45AM BST |Tue, July 01 09:45AM AEST |
 
 ### Impala SS Class A
@@ -20,14 +21,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[For The Boys Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12748){:target="_blank"} |COT Season 1 | |Daytona International Speedway |Sun, June 29 07:00PM EDT |Mon, June 30 12:00AM BST |Mon, June 30 09:00AM AEST |
-
-### NASCAR 2022 NextGen
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Prestige Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11426){:target="_blank"} |PRS Cup Season Two |Fixed |Daytona International Speedway |Sat, June 28 08:30PM EDT |Sun, June 29 01:30AM BST |Sun, June 29 10:30AM AEST |
 
 ### NASCAR Cup
 
@@ -52,10 +45,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Trackside Solutions Trucks |Both |Daytona International Speedway |Sun, June 29 08:20PM EDT |Mon, June 30 01:20AM BST |Mon, June 30 10:20AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |Trucks Season 9 |Fixed |Nashville Superspeedway |Mon, June 30 08:29PM EDT |Tue, July 01 01:29AM BST |Tue, July 01 10:29AM AEST |
 |[Josh White Racing Esports J&K Lift Service Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12849){:target="_blank"} |Season 1 | |Daytona International Speedway |Thu, July 03 07:30PM EDT |Fri, July 04 12:30AM BST |Fri, July 04 09:30AM AEST |
+|[KCERacing](https://members.iracing.com/membersite/member/LeagueView.do?league=7607){:target="_blank"} |KCERacing Trucks Series \- Season 7B |Fixed |Daytona International Speedway |Sun, July 06 08:00PM EDT |Mon, July 07 01:00AM BST |Mon, July 07 10:00AM AEST |
+|[Monday Mayhem Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5627){:target="_blank"} |Monday Mayhem Truck Series\_Season 1 |Fixed |Daytona International Speedway |Mon, June 30 08:00PM EDT |Tue, July 01 01:00AM BST |Tue, July 01 10:00AM AEST |
 
 ### Silverado
 
@@ -66,6 +60,14 @@
 |[The Motor Racing Academy 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11293){:target="_blank"} |Challenge \#13 | |Sebring International Raceway |Mon, June 30 07:11PM EDT |Tue, July 01 12:11AM BST |Tue, July 01 09:11AM AEST |
 
 # Oval
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-----------------------|------------------------|------------------------|-------------------------|
+|[BMR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11446){:target="_blank"} |Summertime Speedweeks at Stafford |Fixed |Stafford Motor Speedway |Sun, July 06 10:30PM EDT |Mon, July 07 03:30AM BST |Mon, July 07 12:30PM AEST |
 
 ### Late Model Stock
 
@@ -88,7 +90,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------|------------------------------|-----|------------------------|------------------------|------------------------|-------------------------|
+|[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Carolina Mini Stock Series |Both |Charlotte Motor Speedway |Sun, June 29 09:30PM EDT |Mon, June 30 02:30AM BST |Mon, June 30 11:30AM AEST |
 |[Maniacs Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12819){:target="_blank"} |Maniacs Racing League Season 1 | |Langley Speedway |Mon, June 30 07:30PM EDT |Tue, July 01 12:30AM BST |Tue, July 01 09:30AM AEST |
 
 ### Street Stocks
@@ -106,8 +109,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-------------------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[CBA \- Max Arena](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2025 \- F4 Girls On Track | |Okayama International Circuit |Mon, June 30 05:00PM EDT |Mon, June 30 10:00PM BST |Tue, July 01 07:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------|--------------------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[CBA \- Max Arena](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2025 \- FIA Girls On Track | |Okayama International Circuit |Mon, June 30 05:00PM EDT |Mon, June 30 10:00PM BST |Tue, July 01 07:00AM AEST |
 
 ### Formula Vee
 
@@ -189,9 +192,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------------|-----|-----------------------------------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------------------|--------------|-----|--------------------|------------------------|------------------------|-------------------------|
 |[The Motor Racing Academy 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11293){:target="_blank"} |Challenge \#03 | |Summit Point Raceway |Mon, June 30 12:23AM EDT |Mon, June 30 05:23AM BST |Mon, June 30 02:23PM AEST |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 25 |Both |Shell V-Power Motorsport Park at The Bend |Sat, June 28 07:30PM EDT |Sun, June 29 12:30AM BST |Sun, June 29 09:30AM AEST |
 
 # Prototype
 
@@ -238,8 +240,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-----|------------------------------------|------------------------|------------------------|-------------------------|
 |[THE DML NATIONALS](https://members.iracing.com/membersite/member/LeagueView.do?league=12784){:target="_blank"} |THE DML NATIONALS |Fixed |Federated Auto Parts Raceway at I-55 |Fri, July 04 05:30AM EDT |Fri, July 04 10:30AM BST |Fri, July 04 07:30PM AEST |
+|[SRPI: Speedcar Racing Promotion of Indiana](https://members.iracing.com/membersite/member/LeagueView.do?league=12221){:target="_blank"} |SRPI: Speedcar Racing Promotion of Indiana Season 1 | |Huset's Speedway |Wed, July 02 07:30PM EDT |Thu, July 03 12:30AM BST |Thu, July 03 09:30AM AEST |
 
 ### Hosted All Cars Class
 

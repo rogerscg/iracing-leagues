@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[David's Radical Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=12792){:target="_blank"} | |Radical Practice and Training \- David Mason |
-|[Pinheadlarrys IRACING league](https://members.iracing.com/membersite/member/LeagueView.do?league=12793){:target="_blank"} |[Discord](https://discord.gg/QQUTzKNKww){:target="_blank"} |balls to the wall, come one come all |
-|[SXRL: Mini Stock](https://members.iracing.com/membersite/member/LeagueView.do?league=12790){:target="_blank"} |[Discord](https://discord.gg/mEWg6smmFU){:target="_blank"} |Free League: new comers welcome |
-|[Candy Canes](https://members.iracing.com/membersite/member/LeagueView.do?league=12791){:target="_blank"} | |Self\-Explanatory |
 |[DV8 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12804){:target="_blank"} |[Discord](https://discord.gg/yqXJ4nvG){:target="_blank"} | |
 |[Floki Token Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12799){:target="_blank"} | |Lets Go Fast\! |
 |[Independence Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12801){:target="_blank"} |[Discord](https://discord.gg/jFpSKfJB){:target="_blank"} |Fun league run by a group of friends\. B Class license with 1500\+ iRating required for entry\. Join the league discord for more info https://discord\.gg/jFpSKfJB |
@@ -67,4 +63,9 @@
 |[NERL](https://members.iracing.com/membersite/member/LeagueView.do?league=12855){:target="_blank"} | | |
 |[No Limit Modified](https://members.iracing.com/membersite/member/LeagueView.do?league=12852){:target="_blank"} |[Discord](https://discord.gg/sMfBUhSK){:target="_blank"} |From the Street Stocks to the short track kings this is No Limit Modified |
 |[speed demon mini series](https://members.iracing.com/membersite/member/LeagueView.do?league=12854){:target="_blank"} | | |
+|[Aaron Fanning Fan Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12858){:target="_blank"} | | |
+|[Formula Multiclass](https://members.iracing.com/membersite/member/LeagueView.do?league=12857){:target="_blank"} |[Discord](https://discord.gg/eTMQfaYsmn){:target="_blank"} |This league is a Multiclass Openwheeler League, we will race the McLaren F1 car and the Dallara F3\! |
+|[T\-Ray's Circle Track Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12860){:target="_blank"} |[Discord](https://discord.gg/Qe5XeWnB){:target="_blank"} | |
+|[Williams Grove iRacing Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=12856){:target="_blank"} | |Presented by Flatout Sim Racing |
+|[Knoxville Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=12859){:target="_blank"} | | |
 
