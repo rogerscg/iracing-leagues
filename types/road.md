@@ -56,9 +56,9 @@
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2025 \- Supercars GEN\-3 YACHT45MTL |36 |2028 |Fixed | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday Nights Gen 3 Season 1 |33 |1150 | | | | | |
 |[VRR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6057){:target="_blank"} |Marathon GT World Tour Season 1 |31 |1900 |Fixed | | | | |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday night Gen 3 season 2 |30 |1373 | | | | | |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |23 |1610 |Both |Shell V-Power Motorsport Park at The Bend |Wed, July 02 05:30AM EDT |Wed, July 02 10:30AM BST |Wed, July 02 07:30PM AEST |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Supercars gen3 Season 3 |23 |1360 | | | | | |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday night Gen 3 season 2 |23 |1287 | | | | | |
 |[CiL Collegiate Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CiL Summer Thunder Down Under 2025 |20 |2068 | | | | | |
 |[AROC](https://members.iracing.com/membersite/member/LeagueView.do?league=9076){:target="_blank"} |AROC V |20 |1307 |Fixed | | | | |
 |[Nitro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5604){:target="_blank"} |Nitro V8 Supercar Championship \- 2025 |18 |2084 | | | | | |

@@ -13,7 +13,7 @@
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |21 |1580 |Both | | | | |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |19 |3178 |Fixed | | | | |
 |[Proton Racing Series \- LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=11408){:target="_blank"} |LMP2 Series |17 |2041 | | | | | |
-|[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |16 |1816 |Open |MotorLand Aragón |Fri, July 04 08:20PM EDT |Sat, July 05 01:20AM BST |Sat, July 05 10:20AM AEST |
+|[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |16 |1816 |Open |MotorLand Aragón |Sat, July 05 08:20PM EDT |Sun, July 06 01:20AM BST |Sun, July 06 10:20AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |14 |2142 |Open |Watkins Glen International |Wed, July 02 07:30PM EDT |Thu, July 03 12:30AM BST |Thu, July 03 09:30AM AEST |
 |[ORNL\.nl Woensdag 2](https://members.iracing.com/membersite/member/LeagueView.do?league=5805){:target="_blank"} |ORNL LMP2 Prototype Challenge '25 |12 |2402 |Both |Circuit des 24 Heures du Mans |Wed, July 02 02:00PM EDT |Wed, July 02 07:00PM BST |Thu, July 03 04:00AM AEST |
 
@@ -44,7 +44,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2025 Abruzzi Prototype Challenge |44 |2563 | |Watkins Glen International |Tue, July 01 01:00PM EDT |Tue, July 01 06:00PM BST |Wed, July 02 03:00AM AEST |
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2025 Abruzzi Prototype Challenge |44 |2563 | |Watkins Glen International |Wed, July 02 01:30PM EDT |Wed, July 02 06:30PM BST |Thu, July 03 03:30AM AEST |
 |[SMOKE N TACOS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8349){:target="_blank"} |Daytona Prototype Oval |12 |1163 |Both | | | | |
 
 ### Ligier JS P320
@@ -52,12 +52,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------------------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |21 |2331 | | | | | |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |17 |1435 | | | | | |
 |[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC LMP3 \- Season 3 |12 |1822 |Open | | | | |
 |[SRB LEAGUES \- LMP3 SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |SRB LMP3 SUNDAYS |12 |2001 | | | | | |
-|[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1902 |Open |Circuito de Jerez - Ángel Nieto |Mon, June 30 08:25PM EDT |Tue, July 01 01:25AM BST |Tue, July 01 10:25AM AEST |
+|[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1927 |Open |Detroit Grand Prix at Belle Isle |Mon, July 07 08:25PM EDT |Tue, July 08 01:25AM BST |Tue, July 08 10:25AM AEST |
 
 ### Radical SR10
 
@@ -77,16 +77,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Season 3 Radical SR8 |27 |2535 | | | | | |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |24 |1389 |Fixed | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 1 |24 |2072 |Fixed | | | | |
-|[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |23 |1812 | |Road Atlanta |Mon, June 30 07:30AM EDT |Mon, June 30 12:30PM BST |Mon, June 30 09:30PM AEST |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |22 |2899 | |Circuit Zolder |Mon, June 30 02:50PM EDT |Mon, June 30 07:50PM BST |Tue, July 01 04:50AM AEST |
+|[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |24 |1833 | |Virginia International Raceway |Mon, July 07 07:30AM EDT |Mon, July 07 12:30PM BST |Mon, July 07 09:30PM AEST |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |23 |2869 | |Road America |Mon, July 07 02:50PM EDT |Mon, July 07 07:50PM BST |Tue, July 08 04:50AM AEST |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |22 |2159 | |Oulton Park Circuit |Fri, July 04 03:58PM EDT |Fri, July 04 08:58PM BST |Sat, July 05 05:58AM AEST |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S03 \- BRITISH CUP SR8 |22 |2546 |Both |Oulton Park Circuit |Thu, July 03 02:30PM EDT |Thu, July 03 07:30PM BST |Fri, July 04 04:30AM AEST |
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |20 |1586 | |Autodromo Nazionale Monza |Sun, July 06 04:00PM EDT |Sun, July 06 09:00PM BST |Mon, July 07 06:00AM AEST |
-|[Superlap Community](https://members.iracing.com/membersite/member/LeagueView.do?league=11265){:target="_blank"} |SUPERLAP Radical Spring 2025 |17 |1972 | | | | | |
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |19 |1884 |Open | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 2 |14 |2359 |Fixed | | | | |
 
 ### Riley Daytona Prototype

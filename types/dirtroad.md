@@ -3,13 +3,20 @@
 
 # Dirt Road
 
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[Pro 2 Lite Road Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |Pro 2 Lite Road Championship |22 |1349 | |Daytona International Speedway |Tue, July 08 09:00PM EDT |Wed, July 09 02:00AM BST |Wed, July 09 11:00AM AEST |
+
 ### Pro 2 Lite Truck
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Pro 2 Lite Road Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |Pro 2 Lite Road Championship |21 |1362 | |Virginia International Raceway |Tue, July 01 09:00PM EDT |Wed, July 02 02:00AM BST |Wed, July 02 11:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|------------------|------------------------|------------------------|-------------------------|
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 S1 Pro Truck 2 lite |18 |1124 | |Circuit de Lédenon |Thu, July 03 08:00PM EDT |Fri, July 04 01:00AM BST |Fri, July 04 10:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- TINYTRUCK \(2025\) |16 |2813 |Fixed | | | | |
 |[Loose is Fast Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=290){:target="_blank"} |Loose is Fast Podcast \- Pro2Lite RC |15 |1576 |Fixed | | | | |

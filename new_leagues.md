@@ -2,18 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[DV8 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12804){:target="_blank"} |[Discord](https://discord.gg/yqXJ4nvG){:target="_blank"} | |
-|[Independence Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12801){:target="_blank"} |[Discord](https://discord.gg/jFpSKfJB){:target="_blank"} |Fun league run by a group of friends\. B Class license with 1500\+ iRating required for entry\. Join the league discord for more info https://discord\.gg/jFpSKfJB |
-|[Liga RPM](https://members.iracing.com/membersite/member/LeagueView.do?league=12803){:target="_blank"} | | |
-|[SOAR racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12802){:target="_blank"} | | |
-|[The Cheddar Jetta Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12800){:target="_blank"} | |This league is about cheese |
-|[Broke Boyz Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12810){:target="_blank"} | |Oval \(mainly\) seasons with a schedule heavier on the road course side\. |
-|[Itty Bitty Mini Committee](https://members.iracing.com/membersite/member/LeagueView.do?league=12811){:target="_blank"} |[Discord](https://discord.gg/2cnt7xcf){:target="_blank"} |Mini stock fixed setup league rookie\-b class |
-|[Pariah Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12809){:target="_blank"} |[Discord](https://discord.gg/aDS5S4xA){:target="_blank"} |This is a Beginner Friendly ARCA League\. iRating Cap of 1500 when you join, unless you wish to be a mentor  Full Length Races with Cautions, 3 Quick Repairs \(It is meant to be a learning league\)  We are attempting to facilitate a culture where rookies can work on race craft and get guidance on how to race cleaner |
-|[Stratos Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12807){:target="_blank"} | | |
-|[The Corsair CN iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12805){:target="_blank"} | |This is Season 1 for IR贼船 Tournament |
-|[705 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12808){:target="_blank"} | |first league were running, going to be some things to be learned\. have any input, follow us on discord \(705 Racing\) |
-|[B League](https://members.iracing.com/membersite/member/LeagueView.do?league=12806){:target="_blank"} | |A casual friends league that races once per week :\) |
 |[4BigGuys](https://members.iracing.com/membersite/member/LeagueView.do?league=12816){:target="_blank"} | |TEHE |
 |[DSA Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12813){:target="_blank"} |[Discord](https://discord.gg/BREydf9fDz){:target="_blank"} |Next Gen NASCAR league |
 |[OutKast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12812){:target="_blank"} |[Discord](https://discord.gg/5AaW27v4){:target="_blank"} | |
@@ -32,7 +20,7 @@
 |[Slow Poke MotorSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12835){:target="_blank"} |[Discord](https://discord.gg/vtccgZJfBN){:target="_blank"} |Sports Car Endurance |
 |[Smokie Mount\. Speed Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12831){:target="_blank"} |[Discord](https://discord.gg/wTFRJKuk){:target="_blank"} |Fun, Clean, Competitive Racing\! |
 |[Smokie Mount\. Speed Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12832){:target="_blank"} |[Discord](https://discord.gg/wTFRJKuk){:target="_blank"} |Fun, Clean and Competitive Racing\! |
-|[Starter's Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12827){:target="_blank"} | |AI Racing League, format TBD |
+|[Rookie Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12827){:target="_blank"} | |Current running season: GT World Championship; 33 GT3's, 7 GT4's  AI roster based off of real life drivers for any open seat\. |
 |[Suarez Creations iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12829){:target="_blank"} |[Discord](https://discord.gg/AcThp2RkaK){:target="_blank"} |The Suarez Creations iRacing League is an up\-and\-coming racing league, which includes our current Street Stock Series\! Everything as of now is free from cars, tracks, and entry, however will grow and change overtime\. Sponsorships are available\! |
 |[Thunder Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12834){:target="_blank"} | |oval,dirt oval, sports cars |
 |[Vee me Daddy](https://members.iracing.com/membersite/member/LeagueView.do?league=12833){:target="_blank"} | |VEE racing |
@@ -66,4 +54,11 @@
 |[Slide Job Syndicate](https://members.iracing.com/membersite/member/LeagueView.do?league=12863){:target="_blank"} | |Winged Sprint Cars |
 |[TPL Dirt series](https://members.iracing.com/membersite/member/LeagueView.do?league=12862){:target="_blank"} |[Discord](https://discord.gg/KACFRKGPWA){:target="_blank"} |This is a FIXED SETUP league, WE race Sunday nights @ 700 et\. we are NOT LOOKING FOR ALIEN DRIVERS, Just good attitudes\. if you think you may fit, join us in discord\. To join our discord copy and paste the following link into your web browser, by highlighting the link and then control c, then control v, to paste it in your browser https://discord\.gg/KACFRKGPWA |
 |[Tekly Racing GR86 Amateur Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12861){:target="_blank"} | |A friendly and welcoming league for all skill levels, but focusing on rookie and amateur growth\! We come from an existing large Assetto Corsa community, trying out iRacing\. We offer coaching, stewarding and broadcasts\! |
+|[Club iRacing PY](https://members.iracing.com/membersite/member/LeagueView.do?league=12867){:target="_blank"} | |Club de Jugadores de iRacing de Paraguay |
+|[Gen4 off season league](https://members.iracing.com/membersite/member/LeagueView.do?league=12870){:target="_blank"} | | |
+|[Grid Nacional AV](https://members.iracing.com/membersite/member/LeagueView.do?league=12869){:target="_blank"} | | |
+|[Prestige Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12865){:target="_blank"} | |Prestige Racing Series is a collaboration league of several highly regarded drivers from different leagues that have come together to form one major racing series\. |
+|[Shake and bake](https://members.iracing.com/membersite/member/LeagueView.do?league=12866){:target="_blank"} | |Clean racing mini stock |
+|[SSRL The Double](https://members.iracing.com/membersite/member/LeagueView.do?league=12868){:target="_blank"} | | |
+|[Texas Speed Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12871){:target="_blank"} | | |
 
