@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[4BigGuys](https://members.iracing.com/membersite/member/LeagueView.do?league=12816){:target="_blank"} | |TEHE |
-|[DSA Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12813){:target="_blank"} |[Discord](https://discord.gg/BREydf9fDz){:target="_blank"} |Next Gen NASCAR league |
-|[OutKast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12812){:target="_blank"} |[Discord](https://discord.gg/5AaW27v4){:target="_blank"} | |
-|[Ring Tail Casual League](https://members.iracing.com/membersite/member/LeagueView.do?league=12815){:target="_blank"} | | |
-|[Sim Racing Chicago Community Event](https://members.iracing.com/membersite/member/LeagueView.do?league=12814){:target="_blank"} | | |
 |[Flogrown2219](https://members.iracing.com/membersite/member/LeagueView.do?league=12820){:target="_blank"} | |private |
 |[Maniacs Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12819){:target="_blank"} |[Discord](https://discord.gg/h54QFxSw){:target="_blank"} |Monday Night Short Track |
 |[Vortex Precision Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12818){:target="_blank"} | | |
@@ -61,4 +56,8 @@
 |[Shake and bake](https://members.iracing.com/membersite/member/LeagueView.do?league=12866){:target="_blank"} | |Clean racing mini stock |
 |[SSRL The Double](https://members.iracing.com/membersite/member/LeagueView.do?league=12868){:target="_blank"} | | |
 |[Texas Speed Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12871){:target="_blank"} | | |
+|[24 Hour Karty People](https://members.iracing.com/membersite/member/LeagueView.do?league=12875){:target="_blank"} | | |
+|[4X Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12873){:target="_blank"} | |Liga para treinos dos membros da equipa 4X\! |
+|[Fatscar](https://members.iracing.com/membersite/member/LeagueView.do?league=12872){:target="_blank"} | |relaxed |
+|[The Dented Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12874){:target="_blank"} | |The Dented Cup – A Thirsty Thursday League, Come for the racing, stay for the body damage\. We race rally and ovals, we drink, we talk \*\*\* we don’t care about points\. Winning’s optional, fun’s mandatory\. Races are Thursday nights Expect chaos, dented fenders, and maybe some dignity loss Show up buzzed, show up bad, just show up |
 
