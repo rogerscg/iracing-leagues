@@ -16,8 +16,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|------------------|------------------------|------------------------|-------------------------|
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 S1 Pro Truck 2 lite |18 |1124 | |Circuit de Lédenon |Thu, July 03 08:00PM EDT |Fri, July 04 01:00AM BST |Fri, July 04 10:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|---------------------|------------------------|------------------------|-------------------------|
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 S1 Pro Truck 2 lite |18 |1125 | |Rudskogen Motorsenter |Thu, July 10 08:00PM EDT |Fri, July 11 01:00AM BST |Fri, July 11 10:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- TINYTRUCK \(2025\) |16 |2813 |Fixed | | | | |
 |[Loose is Fast Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=290){:target="_blank"} |Loose is Fast Podcast \- Pro2Lite RC |15 |1576 |Fixed | | | | |
 
