@@ -1,22 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[mkhalifa](https://members.iracing.com/membersite/member/LeagueView.do?league=12824){:target="_blank"} | | |
-|[Phantom Sports Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=12821){:target="_blank"} | |A league of legends |
-|[PRA GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=12822){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} |discord\.gg/pra |
-|[Smith and Leftson](https://members.iracing.com/membersite/member/LeagueView.do?league=12825){:target="_blank"} | | |
-|[Low & Slow Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12823){:target="_blank"} | | |
-|[Roven Simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12830){:target="_blank"} | |Racing for friends |
-|[Slow Poke MotorSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12835){:target="_blank"} |[Discord](https://discord.gg/vtccgZJfBN){:target="_blank"} |Sports Car Endurance |
-|[Smokie Mount\. Speed Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12831){:target="_blank"} |[Discord](https://discord.gg/wTFRJKuk){:target="_blank"} |Fun, Clean, Competitive Racing\! |
-|[Smokie Mount\. Speed Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12832){:target="_blank"} |[Discord](https://discord.gg/wTFRJKuk){:target="_blank"} |Fun, Clean and Competitive Racing\! |
-|[Rookie Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12827){:target="_blank"} | |Current running season: GT Journeyman's Cup; 33 GT3's, 7 GT4's  AI roster based off of real life drivers for any open seat\. |
-|[Suarez Creations iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12829){:target="_blank"} |[Discord](https://discord.gg/AcThp2RkaK){:target="_blank"} |The Suarez Creations iRacing League is an up\-and\-coming racing league, which includes our current Street Stock Series\! Everything as of now is free from cars, tracks, and entry, however will grow and change overtime\. Sponsorships are available\! |
-|[Thunder Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12834){:target="_blank"} | |oval,dirt oval, sports cars |
-|[Vee me Daddy](https://members.iracing.com/membersite/member/LeagueView.do?league=12833){:target="_blank"} | |VEE racing |
-|[Coast 2 Coast iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12826){:target="_blank"} |[Discord](https://discord.gg/UM3fTm5Q){:target="_blank"} |Awesome league with the boys\! |
-|[Rolling Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12828){:target="_blank"} | | |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[DyN RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12840){:target="_blank"} | | |
 |[Grass Roots Racing \- Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12838){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} | |
 |[TC Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=12837){:target="_blank"} | | |
@@ -61,9 +46,19 @@
 |[Kyle n Preston](https://members.iracing.com/membersite/member/LeagueView.do?league=12877){:target="_blank"} | | |
 |[marcos F4 championshipp](https://members.iracing.com/membersite/member/LeagueView.do?league=12879){:target="_blank"} | |bit if fun |
 |[Meek's Pub Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12885){:target="_blank"} | | |
-|[Mr\. Z's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12882){:target="_blank"} | |Just some god Old Clean Racing Group just looking for some members to start up some racing\. |
+|[Mr\. Z's Racing Garage League](https://members.iracing.com/membersite/member/LeagueView.do?league=12882){:target="_blank"} | |Just some god Old Clean Racing Group just looking for some members to start up some racing\. I would like to focus on formula racing to get into Indycar racing\!\!\!\! My goal is to make the Indianapolis 500 on day\!\!\!\! |
 |[Superstar ARCA West](https://members.iracing.com/membersite/member/LeagueView.do?league=12880){:target="_blank"} | | |
 |[Tfboys](https://members.iracing.com/membersite/member/LeagueView.do?league=12876){:target="_blank"} | |青春修炼手册 |
 |[The Bros](https://members.iracing.com/membersite/member/LeagueView.do?league=12881){:target="_blank"} | |A league for The Bros |
 |[TMC Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12884){:target="_blank"} | | |
+|[Diode Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12886){:target="_blank"} |[Discord](https://discord.gg/KqnNkzhv){:target="_blank"} |Diode league race |
+|[ERC NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12889){:target="_blank"} |[Discord](https://discord.gg/96CRXPuDSz){:target="_blank"} | |
+|[iRacing Formula LATAM](https://members.iracing.com/membersite/member/LeagueView.do?league=12895){:target="_blank"} | |El Campeonato iRacing Formula LATAM es una competencia virtual de alto rendimiento que une a pilotos de toda América Latina, desde promesas emergentes hasta simracers con experiencia consolidada\. Con una estructura inclusiva y competitiva, esta liga invita a participantes de todos los niveles a formar parte de una experiencia única en el automovilismo digital\. Con carreras disputadas en algunos de los circuitos más emblemáticos del mundo, recreados con precisión en la plataforma iRacing, cada evento es una prueba real de talento, constancia y toma de decisiones en fracciones de segundo\. Además, el formato escalonado permite que cada piloto compita en condiciones justas y desafiantes, promoviendo la mejora continua y el espíritu deportivo\. |
+|[JonesRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12892){:target="_blank"} | | |
+|[NHRL iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12890){:target="_blank"} | |NHRL |
+|[PRA Vision Corsa Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12888){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} |discord\.gg/pra |
+|[Push The Edge iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12887){:target="_blank"} |[Discord](https://discord.gg/sGTHC2TvTm){:target="_blank"} |12 week mock career seasons utilizing 4 car classes to simulate moving up the ranks\! |
+|[Racinghaus Fastest Lap \- Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=12894){:target="_blank"} | | |
+|[Racinghaus Fastest Lap \- Road](https://members.iracing.com/membersite/member/LeagueView.do?league=12893){:target="_blank"} | | |
+|[Savage Sim Racing Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=12891){:target="_blank"} |[Discord](https://discord.gg/fB4wUbqfDU){:target="_blank"} |a beginner\-focused league with weekly coaching, data analysis\. |
 
