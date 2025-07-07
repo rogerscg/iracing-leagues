@@ -1,12 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[DyN RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=12840){:target="_blank"} | | |
-|[Grass Roots Racing \- Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12838){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} | |
-|[TC Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=12837){:target="_blank"} | | |
-|[Mirage Raceway Park Dirt Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12839){:target="_blank"} | |Dirt Racing With Friends |
-|[Z80 ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12836){:target="_blank"} | |Lime get ready tour |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[1987 CARS](https://members.iracing.com/membersite/member/LeagueView.do?league=12844){:target="_blank"} | | |
 |[DDK RACING TEAM](https://members.iracing.com/membersite/member/LeagueView.do?league=12841){:target="_blank"} | | |
 |[eNASCAR \- Group A \- College iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12843){:target="_blank"} | | |
@@ -38,7 +33,7 @@
 |[SSRL The Double](https://members.iracing.com/membersite/member/LeagueView.do?league=12868){:target="_blank"} | | |
 |[Texas Speed Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12871){:target="_blank"} | | |
 |[24 Hour Karty People](https://members.iracing.com/membersite/member/LeagueView.do?league=12875){:target="_blank"} | | |
-|[4X Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12873){:target="_blank"} | |Liga para treinos dos membros da equipa 4X\! |
+|[4X Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12873){:target="_blank"} |[Discord](https://discord.gg/nWhnw4Dw2R){:target="_blank"} |Liga para treinos dos membros da equipa 4X\! |
 |[Fatscar](https://members.iracing.com/membersite/member/LeagueView.do?league=12872){:target="_blank"} | |relaxed |
 |[The Dented Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12874){:target="_blank"} | |The Dented Cup – A Thirsty Thursday League, Come for the racing, stay for the body damage\. We race rally and ovals, we drink, we talk \*\*\* we don’t care about points\. Winning’s optional, fun’s mandatory\. Races are Thursday nights Expect chaos, dented fenders, and maybe some dignity loss Show up buzzed, show up bad, just show up |
 |[DEREK](https://members.iracing.com/membersite/member/LeagueView.do?league=12878){:target="_blank"} | | |
@@ -61,4 +56,7 @@
 |[Racinghaus Fastest Lap \- Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=12894){:target="_blank"} | | |
 |[Racinghaus Fastest Lap \- Road](https://members.iracing.com/membersite/member/LeagueView.do?league=12893){:target="_blank"} | | |
 |[Savage Sim Racing Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=12891){:target="_blank"} |[Discord](https://discord.gg/fB4wUbqfDU){:target="_blank"} |a beginner\-focused league with weekly coaching, data analysis\. |
+|[Atlantic Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12898){:target="_blank"} | |Ready to Hit the Track? Your GT3 Racing Journey Starts Here\! Ever dreamed of taming the beasts of GT3 racing but felt intimidated by the pros? Our Beginner GT3 Racing League is the perfect place to turn those dreams into reality\! |
+|[T\.H\.C\. Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12896){:target="_blank"} |[Discord](https://discord.gg/Ju3Tu42M9G){:target="_blank"} |All Disciplines with A\.I\. |
+|[Wheel up Wednesday Speedweek](https://members.iracing.com/membersite/member/LeagueView.do?league=12897){:target="_blank"} | | |
 

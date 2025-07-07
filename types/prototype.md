@@ -84,8 +84,8 @@
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |23 |2869 | |Road America |Mon, July 07 02:50PM EDT |Mon, July 07 07:50PM BST |Tue, July 08 04:50AM AEST |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |22 |2165 | |WeatherTech Raceway at Laguna Seca |Fri, July 11 03:58PM EDT |Fri, July 11 08:58PM BST |Sat, July 12 05:58AM AEST |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S03 \- BRITISH CUP SR8 |22 |2552 |Both |[Legacy] Silverstone Circuit - 2008 |Thu, July 10 02:30PM EDT |Thu, July 10 07:30PM BST |Fri, July 11 04:30AM AEST |
-|[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |20 |1586 | |Autodromo Nazionale Monza |Sun, July 06 04:00PM EDT |Sun, July 06 09:00PM BST |Mon, July 07 06:00AM AEST |
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |19 |1884 |Open | | | | |
+|[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |20 |1580 | |Red Bull Ring |Sun, July 13 03:00PM EDT |Sun, July 13 08:00PM BST |Mon, July 14 05:00AM AEST |
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |19 |1884 |Open |Circuit de Spa-Francorchamps |Mon, July 14 12:30PM EDT |Mon, July 14 05:30PM BST |Tue, July 15 02:30AM AEST |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 2 |14 |2359 |Fixed |Rudskogen Motorsenter |Fri, July 11 08:30PM EDT |Sat, July 12 01:30AM BST |Sat, July 12 10:30AM AEST |
 
 ### Riley Daytona Prototype
@@ -101,8 +101,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------|---------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S2 |75 |3072 |Open | | | | |
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S3 SRF WW |41 |3074 |Open |Hungaroring |Sun, July 06 02:40PM EDT |Sun, July 06 07:40PM BST |Mon, July 07 04:40AM AEST |
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S3 SRF WW |44 |3155 |Open |Lime Rock Park |Sun, July 13 02:40PM EDT |Sun, July 13 07:40PM BST |Mon, July 14 04:40AM AEST |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SCCA Spec Racer |16 |1547 |Fixed | | | | |
 

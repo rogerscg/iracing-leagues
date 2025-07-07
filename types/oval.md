@@ -20,7 +20,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[SARA \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=363){:target="_blank"} |2025 National Tour |50 |4883 |Open | | | | |
 |[OVAL\-UTION / Home Tracks](https://members.iracing.com/membersite/member/LeagueView.do?league=10853){:target="_blank"} |HOME TRACKS Saison printemps / été 2025 |48 |2028 | | | | | |
 |[ARCS ARX Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8363){:target="_blank"} |ARX 2025 S1 Mini Stock |28 |2190 | | | | | |
@@ -34,27 +34,28 @@
 |[Apex Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9523){:target="_blank"} |ASRL Mini Stocks |17 |1623 | | | | | |
 |[Mixed Oval Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11953){:target="_blank"} |Season 2 |17 |1722 |Fixed | | | | |
 |[BullRing iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=3123){:target="_blank"} |2025\-A STSS\-Mini Series |11 |1674 | | | | | |
+|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Mini Stock Sunday |11 |1652 |Fixed |USA International Speedway |Sun, July 13 07:30PM EDT |Mon, July 14 12:30AM BST |Mon, July 14 09:30AM AEST |
 
 ### Late Model Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------|----|-----|-----------------------------------|------------------------|------------------------|-------------------------|
 |[GLR LATE MODEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11992){:target="_blank"} |GLR Late Model Season 1 |48 |1881 | | | | | |
-|[Xcelerate Racing League Monday](https://members.iracing.com/membersite/member/LeagueView.do?league=11467){:target="_blank"} |2025 Season 2 |48 |1720 | | | | | |
+|[Xcelerate Racing League Monday](https://members.iracing.com/membersite/member/LeagueView.do?league=11467){:target="_blank"} |2025 Season 2 |48 |1720 | |Concord Speedway |Mon, July 14 07:30PM EDT |Tue, July 15 12:30AM BST |Tue, July 15 09:30AM AEST |
 |[American Sim Racing Club \(Late Model Stocks\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11734){:target="_blank"} |Postma Flooring LMS \- 2025B \(Summer\) |42 |2791 |Fixed | | | | |
 |[204 League \- Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11061){:target="_blank"} |204 League Late Model Stock Shootout |40 |1999 |Fixed | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Late Model Heatwave Championship |39 |1532 |Fixed | | | | |
 |[Track Masters Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11853){:target="_blank"} |Track Masters Sim Series Season 2 |39 |3575 | | | | | |
 |[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S30 |34 |1787 |Fixed | | | | |
-|[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |Rising Stars Season 12 |31 |1823 |Both | | | | |
+|[JBSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |Rising Stars Season 12 |31 |1823 |Both |Lucas Oil Indianapolis Raceway Park |Mon, July 07 07:30PM EDT |Tue, July 08 12:30AM BST |Tue, July 08 09:30AM AEST |
 |[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Hometown Short Track Season 9, 9pm Est\. |31 |1578 |Both |Stafford Motor Speedway |Wed, July 09 09:00PM EDT |Thu, July 10 02:00AM BST |Thu, July 10 11:00AM AEST |
 |[Furniture Mart Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |FMWS Late Model Tour 2025 Season 1 |30 |2660 |Fixed | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Late night Late Model Stock |30 |1184 | | | | | |
-|[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Late Model Season 52 |29 |2227 |Both |South Boston Speedway |Sun, July 06 07:30PM EDT |Mon, July 07 12:30AM BST |Mon, July 07 09:30AM AEST |
+|[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Late Model Season 52 |29 |2222 |Both |Hickory Motor Speedway |Sun, July 13 07:30PM EDT |Mon, July 14 12:30AM BST |Mon, July 14 09:30AM AEST |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Models S11 |29 |2075 |Fixed | | | | |
-|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 3 |29 |1820 | |North Wilkesboro Speedway |Sun, July 06 07:45PM EDT |Mon, July 07 12:45AM BST |Mon, July 07 09:45AM AEST |
+|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 3 |29 |1844 | | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |HMS Late Model Stock Showcase Series |25 |1898 |Fixed | | | | |
 |[Down South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6920){:target="_blank"} |DC Designs Late Model Stock Series |24 |1888 |Fixed | | | | |
 |[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC Late Model Stock Season 1 |24 |1636 |Fixed |Nashville Fairgrounds Speedway |Mon, July 07 10:30PM EDT |Tue, July 08 03:30AM BST |Tue, July 08 12:30PM AEST |
@@ -105,10 +106,10 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[TK Oval Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Oval Challenge \- 25T2 |43 |1736 | | | | | |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Little Village Proving Grounds |42 |1492 |Fixed | | | | |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Little Village Proving Grounds |43 |1480 |Fixed | | | | |
 |[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} |Season 9 Ovals |38 |1482 | | | | | |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Mondays Mini Stocks Season 1 |27 |1548 |Fixed |Concord Speedway |Mon, July 07 10:00PM EDT |Tue, July 08 03:00AM BST |Tue, July 08 12:00PM AEST |
-|[CT Mini Stock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12396){:target="_blank"} |mini Stocks |24 |2582 | | | | | |
+|[CT Mini Stock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12396){:target="_blank"} |mini Stocks |25 |2586 | | | | | |
 |[EFRL Dirt Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8578){:target="_blank"} |Falcongrafix Mini Stocks season 6 |22 |1934 | | | | | |
 |[Loose is Fast Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=290){:target="_blank"} |Loose is Fast Podcast \- Mini Stock |14 |1912 |Fixed | | | | |
 |[Maniacs Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12819){:target="_blank"} |Maniacs Racing League Season 1 |12 |1581 | |USA International Speedway |Mon, July 07 07:30PM EDT |Tue, July 08 12:30AM BST |Tue, July 08 09:30AM AEST |
@@ -130,10 +131,10 @@
 |[H&H Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12307){:target="_blank"} |HHR Speedway Series Season 1 |30 |1788 |Both |EchoPark Speedway (Atlanta) |Thu, July 10 09:00PM EDT |Fri, July 11 02:00AM BST |Fri, July 11 11:00AM AEST |
 |[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Hometown Short Track Season 9, 8pm est\. |29 |1628 |Both |Stafford Motor Speedway |Wed, July 09 08:00PM EDT |Thu, July 10 01:00AM BST |Thu, July 10 10:00AM AEST |
 |[Full Throttle Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10782){:target="_blank"} |king of the quartermiles |27 |2149 | | | | | |
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Sundays Street Stocks Season 1 |26 |1608 |Fixed |Oxford Plains Speedway |Sun, July 13 07:00PM EDT |Mon, July 14 12:00AM BST |Mon, July 14 09:00AM AEST |
 |[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |SimAbility Street Stock Showdown |23 |1579 | |Charlotte Motor Speedway |Wed, July 09 07:00PM EDT |Thu, July 10 12:00AM BST |Thu, July 10 09:00AM AEST |
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Sundays Street Stocks Season 1 |21 |1580 |Fixed |Concord Speedway |Sun, July 06 07:00PM EDT |Mon, July 07 12:00AM BST |Mon, July 07 09:00AM AEST |
 |[RFC](https://members.iracing.com/membersite/member/LeagueView.do?league=2735){:target="_blank"} |2025 Spring RFC "Tigers" |20 |2099 |Fixed | | | | |
-|[iPASS](https://members.iracing.com/membersite/member/LeagueView.do?league=12568){:target="_blank"} |iPASS Street stocks Summer Series |18 |1913 |Both | | | | |
+|[iPASS](https://members.iracing.com/membersite/member/LeagueView.do?league=12568){:target="_blank"} |iPASS Street stocks Summer Series |18 |1913 |Both |Oxford Plains Speedway |Mon, July 14 07:30PM EDT |Tue, July 15 12:30AM BST |Tue, July 15 09:30AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- Global Stock Car Challenge \(2025\) |17 |1398 |Fixed | | | | |
 |[PINNED](https://members.iracing.com/membersite/member/LeagueView.do?league=12518){:target="_blank"} |Season 1 |17 |2791 |Open |Auto Club Speedway |Wed, July 09 07:30PM EDT |Thu, July 10 12:30AM BST |Thu, July 10 09:30AM AEST |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Saturday Night Fever street stock series |17 |1442 |Both |Thompson Speedway Motorsports Park |Sat, July 12 10:05PM EDT |Sun, July 13 03:05AM BST |Sun, July 13 12:05PM AEST |
@@ -150,10 +151,9 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
 |[All Pro Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=208){:target="_blank"} |2025 Super Late |51 |2734 |Fixed |Hickory Motor Speedway |Mon, June 23 07:00PM EDT |Tue, June 24 12:00AM BST |Tue, June 24 09:00AM AEST |
-|[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} |Season 2 |32 |3562 |Open |Oxford Plains Speedway |Sun, July 06 08:30PM EDT |Mon, July 07 01:30AM BST |Mon, July 07 10:30AM AEST |
+|[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} |Season 2 |36 |3698 |Open | | | | |
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |SLM Showcase Series \- 2025 Spring |31 |5005 |Open | | | | |
 |[ARC Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=8792){:target="_blank"} |2025 ARC Late Model Tour |29 |2103 |Fixed | | | | |
-|[gRaceland Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7020){:target="_blank"} |gRaceland Shootout Series Season 9 |16 |1577 |Fixed | | | | |
 |[National Iracing Association \(NIRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} |NIRA Short Track Series Season 2 |16 |1662 |Fixed | | | | |
 |[Renegade Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9561){:target="_blank"} |THURSDAY NIGHT THUNDER |16 |1665 |Fixed | | | | |
 |[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} |2025 S1 SLM |14 |2975 |Fixed | | | | |

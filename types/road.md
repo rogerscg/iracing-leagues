@@ -52,8 +52,8 @@
 |[Simability V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=713){:target="_blank"} |Season 16 \(Simability\) |48 |3158 |Open | | | | |
 |[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |V8 Supercars Season 2 \| Southern Cross Sim Racing |47 |1402 |Open | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Super Cars Gen 3 Season 2 |41 |1304 | | | | | |
+|[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025B |38 |2062 |Fixed |Phoenix Raceway |Sun, July 13 04:45AM EDT |Sun, July 13 09:45AM BST |Sun, July 13 06:45PM AEST |
 |[420 Oz SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |V8 Supercars Season 3 |38 |1901 |Both | | | | |
-|[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025B |37 |2054 |Fixed |Texas Motor Speedway |Sun, July 06 04:45AM EDT |Sun, July 06 09:45AM BST |Sun, July 06 06:45PM AEST |
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2025 \- Supercars GEN\-3 YACHT45MTL |36 |2028 |Fixed | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday Nights Gen 3 Season 1 |33 |1150 | | | | | |
 |[VRR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6057){:target="_blank"} |Marathon GT World Tour Season 1 |31 |1900 |Fixed | | | | |
