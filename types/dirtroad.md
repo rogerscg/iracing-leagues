@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Pro 2 Lite Road Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |Pro 2 Lite Road Championship |22 |1349 | |Daytona International Speedway |Tue, July 08 09:00PM EDT |Wed, July 09 02:00AM BST |Wed, July 09 11:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[Pro 2 Lite Road Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |Pro 2 Lite Road Championship |23 |1360 | |Motorsport Arena Oschersleben |Tue, July 15 09:00PM EDT |Wed, July 16 02:00AM BST |Wed, July 16 11:00AM AEST |
 
 ### Pro 2 Lite Truck
 

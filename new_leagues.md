@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[CSC Short Track League](https://members.iracing.com/membersite/member/LeagueView.do?league=12846){:target="_blank"} |[Discord](https://discord.gg/DuyCPdwWQv){:target="_blank"} |CSC Short Track Racing Series\. Short Tracks, heat races, street stocks\. |
-|[FORTIS Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12845){:target="_blank"} | | |
 |[Josh White Racing Esports J&K Lift Service Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12849){:target="_blank"} | | |
 |[TitanUpRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12848){:target="_blank"} | |Competitive Racing Group |
 |[Free races](https://members.iracing.com/membersite/member/LeagueView.do?league=12851){:target="_blank"} | |anyone welcome |
@@ -63,4 +61,9 @@
 |[OnlyHands\- Adaptive Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12903){:target="_blank"} |[Discord](https://discord.gg/j3uSWK9da4){:target="_blank"} |OnlyHands was created as a means to gather and share information about the different types of hand control systems disabled sim racers are using, and connect the people using adaptive control systems with people who are designing and making the current and future generations of adaptive hand controls, to ensure as maby people as possible are able to enjoy sim racing |
 |[WNR SoCal](https://members.iracing.com/membersite/member/LeagueView.do?league=12904){:target="_blank"} | | |
 |[Back of the Pack Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12901){:target="_blank"} | |Racing league for bad drivers |
+|[Fat Duck Gaming](https://members.iracing.com/membersite/member/LeagueView.do?league=12907){:target="_blank"} | |The Official Fat Duck Gaming iRacing League |
+|[GMRL Late Model Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=12909){:target="_blank"} | | |
+|[IRacing Modified League](https://members.iracing.com/membersite/member/LeagueView.do?league=12910){:target="_blank"} | |A league that you can have fun and have comp\. |
+|[Marathon Movers Special Event](https://members.iracing.com/membersite/member/LeagueView.do?league=12911){:target="_blank"} | |Brickyard 400 |
+|[Slowbois Formula Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12908){:target="_blank"} | | |
 
