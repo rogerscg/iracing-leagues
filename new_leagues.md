@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Josh White Racing Esports J&K Lift Service Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12849){:target="_blank"} | | |
-|[TitanUpRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12848){:target="_blank"} | |Competitive Racing Group |
 |[Free races](https://members.iracing.com/membersite/member/LeagueView.do?league=12851){:target="_blank"} | |anyone welcome |
 |[Brothers of Destruction Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12850){:target="_blank"} | | |
 |[Full Throttle Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12853){:target="_blank"} | | |
@@ -66,4 +64,6 @@
 |[IRacing Modified League](https://members.iracing.com/membersite/member/LeagueView.do?league=12910){:target="_blank"} | |A league that you can have fun and have comp\. |
 |[Marathon Movers Special Event](https://members.iracing.com/membersite/member/LeagueView.do?league=12911){:target="_blank"} | |Brickyard 400 |
 |[Slowbois Formula Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12908){:target="_blank"} | | |
+|[iRacing Grand Touring Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12913){:target="_blank"} | |iRacing Grand Touring Championship \(IGTC\) is a racing league inspired by the likes of IMSA, WEC, and ELMS\. It features multiclass racing with iRacings GTP and GT3 cars, battling it out across the world over 11 rounds\. |
+|[SRN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12912){:target="_blank"} | |SimRacing Norway Racing League |
 
