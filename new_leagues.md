@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Free races](https://members.iracing.com/membersite/member/LeagueView.do?league=12851){:target="_blank"} | |anyone welcome |
-|[Brothers of Destruction Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12850){:target="_blank"} | | |
 |[Full Throttle Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12853){:target="_blank"} | | |
 |[NERL](https://members.iracing.com/membersite/member/LeagueView.do?league=12855){:target="_blank"} | | |
 |[No Limit Modified](https://members.iracing.com/membersite/member/LeagueView.do?league=12852){:target="_blank"} |[Discord](https://discord.gg/sMfBUhSK){:target="_blank"} |From the Street Stocks to the short track kings this is No Limit Modified |
@@ -14,7 +12,7 @@
 |[Williams Grove iRacing Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=12856){:target="_blank"} | |Presented by Flatout Sim Racing |
 |[Knoxville Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=12859){:target="_blank"} | | |
 |[Grease Monkey Racing Sk Mod League](https://members.iracing.com/membersite/member/LeagueView.do?league=12864){:target="_blank"} | |SK Mod series |
-|[Slide Job Syndicate](https://members.iracing.com/membersite/member/LeagueView.do?league=12863){:target="_blank"} | |Winged Sprint Cars |
+|[Slide Job Syndicate 360's](https://members.iracing.com/membersite/member/LeagueView.do?league=12863){:target="_blank"} |[Discord](https://discord.gg/tGzukSFgEr){:target="_blank"} |360 Winged Sprint Cars |
 |[TPL Dirt series](https://members.iracing.com/membersite/member/LeagueView.do?league=12862){:target="_blank"} |[Discord](https://discord.gg/KACFRKGPWA){:target="_blank"} |This is a FIXED SETUP league, WE race Sunday nights @ 700 et\. we are NOT LOOKING FOR ALIEN DRIVERS, Just good attitudes\. if you think you may fit, join us in discord\. To join our discord copy and paste the following link into your web browser, by highlighting the link and then control c, then control v, to paste it in your browser https://discord\.gg/KACFRKGPWA |
 |[Tekly Racing GR86 Amateur Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12861){:target="_blank"} | |A friendly and welcoming league for all skill levels, but focusing on rookie and amateur growth\! We come from an existing large Assetto Corsa community, trying out iRacing\. We offer coaching, stewarding and broadcasts\! |
 |[Club iRacing PY](https://members.iracing.com/membersite/member/LeagueView.do?league=12867){:target="_blank"} | |Comunidad de Jugadores de iRacing de Paraguay |
@@ -66,4 +64,5 @@
 |[Slowbois Formula Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12908){:target="_blank"} | | |
 |[iRacing Grand Touring Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12913){:target="_blank"} | |iRacing Grand Touring Championship \(IGTC\) is a racing league inspired by the likes of IMSA, WEC, and ELMS\. It features multiclass racing with iRacings GTP and GT3 cars, battling it out across the world over 11 rounds\. |
 |[SRN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12912){:target="_blank"} | |SimRacing Norway Racing League |
+|[Pioneer Dirt Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12914){:target="_blank"} | |305,360 & 410 Sprint Car Series\. It'll be ran like a local dirt series\. Will run same 2 tracks for the whole year with a points\. Races will be Saturday evenings and Sunday evenings at 8:30 Eastern Time\. The 360 and 410 series halfway through will have a speedweek where we will race everyday for 7 days\. |
 
