@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Full Throttle Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12853){:target="_blank"} | | |
-|[NERL](https://members.iracing.com/membersite/member/LeagueView.do?league=12855){:target="_blank"} | | |
-|[No Limit Modified](https://members.iracing.com/membersite/member/LeagueView.do?league=12852){:target="_blank"} |[Discord](https://discord.gg/sMfBUhSK){:target="_blank"} |From the Street Stocks to the short track kings this is No Limit Modified |
-|[speed demon mini series](https://members.iracing.com/membersite/member/LeagueView.do?league=12854){:target="_blank"} | | |
 |[Aaron Fanning Fan Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12858){:target="_blank"} | | |
 |[Formula Multiclass](https://members.iracing.com/membersite/member/LeagueView.do?league=12857){:target="_blank"} |[Discord](https://discord.gg/eTMQfaYsmn){:target="_blank"} |This league is a Multiclass Openwheeler League, we will race the McLaren F1 car and the Dallara F3\! |
 |[T\-Ray's Circle Track Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12860){:target="_blank"} |[Discord](https://discord.gg/Qe5XeWnB){:target="_blank"} | |
@@ -65,4 +61,7 @@
 |[iRacing Grand Touring Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12913){:target="_blank"} | |iRacing Grand Touring Championship \(IGTC\) is a racing league inspired by the likes of IMSA, WEC, and ELMS\. It features multiclass racing with iRacings GTP and GT3 cars, battling it out across the world over 11 rounds\. |
 |[SRN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12912){:target="_blank"} | |SimRacing Norway Racing League |
 |[Pioneer Dirt Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12914){:target="_blank"} | |305,360 & 410 Sprint Car Series\. It'll be ran like a local dirt series\. Will run same 2 tracks for the whole year with a points\. Races will be Saturday evenings and Sunday evenings at 8:30 Eastern Time\. The 360 and 410 series halfway through will have a speedweek where we will race everyday for 7 days\. |
+|[DarkSaber Practice League](https://members.iracing.com/membersite/member/LeagueView.do?league=12915){:target="_blank"} | |Practice races for upcoming BNR league |
+|[PROJECT 36](https://members.iracing.com/membersite/member/LeagueView.do?league=12916){:target="_blank"} | |PRACTICE |
+|[Road To Glory](https://members.iracing.com/membersite/member/LeagueView.do?league=12917){:target="_blank"} | | |
 

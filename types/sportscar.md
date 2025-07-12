@@ -43,7 +43,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B GT4 Challenge \- Waste Options |78 |2974 |Both | | | | |
 |[Sim Racing Magazine Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7770){:target="_blank"} |SRM GT4 Challenge Season 6 |38 |3013 | | | | | |
 |[NXTGP \- Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=11981){:target="_blank"} |GT4 Sprint cup |31 |2909 | | | | | |
@@ -55,7 +55,7 @@
 |[Late Apex Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12435){:target="_blank"} |Season 1 |21 |2536 |Open |Circuit de Lédenon |Thu, July 17 07:00PM EDT |Fri, July 18 12:00AM BST |Fri, July 18 09:00AM AEST |
 |[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR GT4 Challenge Season 1 |21 |1884 |Both | | | | |
 |[AW Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11496){:target="_blank"} |4 \- GT4 All Around |20 |1822 | | | | | |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |GT4 Pilot Series |18 |1238 |Both |Canadian Tire Motorsports Park |Fri, July 11 07:30PM EDT |Sat, July 12 12:30AM BST |Sat, July 12 09:30AM AEST |
+|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |GT4 Pilot Series |18 |1238 |Both |Detroit Grand Prix at Belle Isle |Fri, July 18 07:30PM EDT |Sat, July 19 12:30AM BST |Sat, July 19 09:30AM AEST |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR GT4 |18 |1622 |Open | | | | |
 |[Mid\-Atlantic 86 Club iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8721){:target="_blank"} |GT4 Season 1 |17 |1857 |Open | | | | |
 |[CAS \- Member Created Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12634){:target="_blank"} |The Sixpack |15 |1900 | | | | | |
@@ -108,7 +108,6 @@
 |[Fresno SCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11311){:target="_blank"} |2025 Championship Series |15 |1558 | | | | | |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |PATCO 2025 Season 2 |14 |2099 |Both | | | | |
 |[420 Oz SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |V8 Gen2 S1 |14 |1611 |Both | | | | |
-|[Sim Racing Syndicate by NCR](https://members.iracing.com/membersite/member/LeagueView.do?league=11356){:target="_blank"} |Sim Racing Syndicate GT4 Series \- S2 |13 |1940 |Fixed | | | | |
 |[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |Wrong Wheel Drive Maniacs |10 |1910 |Fixed | | | | |
 
 ### IMPCGT4 Class
@@ -158,16 +157,16 @@
 |[RE\-S \- RACING E\-SPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |SPRINT SIMULADORES GLOBAL MX5 CUP |28 |2300 | | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |859 Designs Mx5 |28 |1564 |Fixed | | | | |
 |[VM NEXT LEVEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12618){:target="_blank"} |Mazda Cup \- Primera Edicion |28 |1856 | | | | | |
+|[Alpha Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12386){:target="_blank"} |Academy League Costa Rica |26 |1382 | | | | | |
 |[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Mazda Speed Season 3 |26 |1582 |Both |Brands Hatch Circuit |Mon, July 14 07:00PM EDT |Tue, July 15 12:00AM BST |Tue, July 15 09:00AM AEST |
-|[Alpha Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12386){:target="_blank"} |Academy League Costa Rica |25 |1340 | |Winton Motor Raceway |Fri, July 11 08:00PM EDT |Sat, July 12 01:00AM BST |Sat, July 12 10:00AM AEST |
 |[IRB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=3285){:target="_blank"} |T2\-25 \- IRB I\-Pass Global Mazda Cup |24 |2960 | | | | | |
 |[ATRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=12412){:target="_blank"} |Temporada 1 \- Mazda MX\-5 Cup |21 |1662 |Both |Road America |Tue, July 15 08:30PM EDT |Wed, July 16 01:30AM BST |Wed, July 16 10:30AM AEST |
 |[UK SimRacing Community \- MX5 League Season 8](https://members.iracing.com/membersite/member/LeagueView.do?league=7891){:target="_blank"} |UKSR MX5 Season 8 |20 |2608 | | | | | |
-|[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} |Summer Season 2025 |20 |1513 |Open | | | | |
+|[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} |Summer Season 2025 |20 |1513 |Open |Tsukuba Circuit |Sat, July 19 09:00PM EDT |Sun, July 20 02:00AM BST |Sun, July 20 11:00AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 S1 Global Mazda |19 |1168 | | | | | |
 |[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} |2025S1 MX\-5 |19 |1338 |Fixed |WeatherTech Raceway at Laguna Seca |Wed, July 16 08:30PM EDT |Thu, July 17 01:30AM BST |Thu, July 17 10:30AM AEST |
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |MX\-5 Cup Season 6 |19 |2045 |Both | | | | |
-|[CanAm Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3534){:target="_blank"} |1H25 \- MX\-5 |12 |1817 | | | | | |
+|[CanAm Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3534){:target="_blank"} |1H25 \- MX\-5 |12 |1817 | |Okayama International Circuit |Sat, July 19 09:30PM EDT |Sun, July 20 02:30AM BST |Sun, July 20 11:30AM AEST |
 |[\(Unofficial\) The Track at Asheville Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11686){:target="_blank"} |Miatas |11 |1354 | |Winton Motor Raceway |Tue, July 15 07:30PM EDT |Wed, July 16 12:30AM BST |Wed, July 16 09:30AM AEST |
 
 ### Mercedes-AMG GT3 2020
@@ -205,6 +204,7 @@
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |Porsche Cup By CLN \(Season 2\) |44 |2045 |Fixed |Watkins Glen International |Mon, July 14 11:00PM EDT |Tue, July 15 04:00AM BST |Tue, July 15 01:00PM AEST |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S13 Euro/Global Porsche Cup Challenge |40 |3123 |Both |Tsukuba Circuit |Sun, July 13 02:00PM EDT |Sun, July 13 07:00PM BST |Mon, July 14 04:00AM AEST |
 |[NXTGP \- iRacing PSC](https://members.iracing.com/membersite/member/LeagueView.do?league=12643){:target="_blank"} |NXTGP Porsche Super Cup |35 |2600 | | | | | |
+|[DCC \- Digitaler Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12479){:target="_blank"} |DCC \- Digitaler Carrera Cup \- 1\. Saison |35 |3688 | | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S14 WCR Sunday Porsche Cup Presented by SWARM Racing |27 |2392 |Open |Tsukuba Circuit |Sun, July 13 09:00PM EDT |Mon, July 14 02:00AM BST |Mon, July 14 11:00AM AEST |
 |[GT Meister Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10095){:target="_blank"} |GTMR Porsche Cup Championship |26 |2002 |Both |Okayama International Circuit |Mon, July 14 08:00PM EDT |Tue, July 15 01:00AM BST |Tue, July 15 10:00AM AEST |
 |[Pineapple Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11781){:target="_blank"} |Porsche Cup |25 |2231 |Fixed |Nürburgring Combined |Sun, July 13 02:00PM EDT |Sun, July 13 07:00PM BST |Mon, July 14 04:00AM AEST |
@@ -255,6 +255,7 @@
 |[Backfire Simsport TV TCR Challenge Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12373){:target="_blank"} |Season 21 |47 |2889 | |Phillip Island Circuit |Wed, July 16 01:30PM EDT |Wed, July 16 06:30PM BST |Thu, July 17 03:30AM AEST |
 |[Backfire Simsport TV TCR Challenge Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12373){:target="_blank"} |Season 20 |43 |2760 | | | | | |
 |[Autodromo Virtual \- JHR](https://members.iracing.com/membersite/member/LeagueView.do?league=9327){:target="_blank"} |TCR SPAIN \- EVENTO ESPECIAL |31 |4757 |Fixed | | | | |
+|[SRL Friday Night Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |TCR Season 8 |27 |3022 |Fixed | | | | |
 |[LIGA FRS \- 3h de SPA](https://members.iracing.com/membersite/member/LeagueView.do?league=11577){:target="_blank"} |FRS TCR CUP \- 25T2 |26 |3131 | | | | | |
 |[ADAC SimRacing Cup \- TC Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10098){:target="_blank"} |2025 |25 |2238 |Open | | | | |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Touring Car Series S5 |22 |2220 | | | | | |
@@ -277,7 +278,7 @@
 |[LIGA FRS \- GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10916){:target="_blank"} |FRS GR86 \- 25T2 |31 |2868 | | | | | |
 |[XP Series 2025 Cat: Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10986){:target="_blank"} |XP Series Summer |29 |1559 | | | | | |
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Toyota GR86 Cup |28 |1830 |Open | | | | |
-|[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S1 |27 |1342 |Fixed |Summit Point Raceway |Fri, July 11 07:30PM EDT |Sat, July 12 12:30AM BST |Sat, July 12 09:30AM AEST |
+|[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S1 |27 |1324 |Fixed | | | | |
 |[TANSO ONLY HANDS GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=10654){:target="_blank"} |TANSO ONLY HANDS GR86 |23 |2045 | | | | | |
 |[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2025/3 |21 |1858 | | | | | |
 |[Odyssey Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11444){:target="_blank"} |GR Rookie Academy |20 |1699 |Both | | | | |
@@ -299,6 +300,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP \[L\] Porsche Cup \- Road Heads S8 |25 |1508 |Fixed |Virginia International Raceway |Fri, July 11 08:00PM EDT |Sat, July 12 01:00AM BST |Sat, July 12 10:00AM AEST |
+|----------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
+|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP \[L\] Porsche Cup \- Road Heads S8 |25 |1519 |Fixed |Circuit de Spa-Francorchamps |Fri, July 18 08:00PM EDT |Sat, July 19 01:00AM BST |Sat, July 19 10:00AM AEST |
 

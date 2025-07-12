@@ -13,8 +13,6 @@
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |NARC 358 2025\-2 |53 |2895 |Open | | | | |
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |358s |46 |2471 |Fixed | | | | |
 |[Legend Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10100){:target="_blank"} |Legend Series |42 |2291 |Open | | | | |
-|[Unused Lesgue](https://members.iracing.com/membersite/member/LeagueView.do?league=11604){:target="_blank"} |2025 RPES Extreme 358 Modified Tour |40 |2659 | | | | | |
-|[Ohio Valley Sim Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |2025 358 Modified Mayhem Tour |30 |1750 |Fixed | | | | |
 |[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |GRAY FOX RACING TUESDAY SUMMER DIRT SERIES |20 |1474 |Fixed | | | | |
 |[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |Tuesday Night 358 Modified Championship |11 |1826 |Fixed |Bristol Motor Speedway |Tue, July 15 08:00PM EDT |Wed, July 16 01:00AM BST |Wed, July 16 10:00AM AEST |
 |[esr 358 dirt series](https://members.iracing.com/membersite/member/LeagueView.do?league=10635){:target="_blank"} |esr rhino grapics elite 11 memorial race |10 |1886 |Open | | | | |
@@ -46,7 +44,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|---------------------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|------------------|------------------------|------------------------|-------------------------|
 |[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |s5 Pro late models |85 |3442 | | | | | |
 |[SRA\-Southern Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |The SRA Pro Late Model Touring Series\! |60 |3234 |Both | | | | |
 |[Night Owl Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11640){:target="_blank"} |pro late models |50 |2730 |Fixed | | | | |
@@ -66,7 +64,7 @@
 |[Down South Racing Rookie League](https://members.iracing.com/membersite/member/LeagueView.do?league=11910){:target="_blank"} |JYM pro lates |20 |1939 | | | | | |
 |[No Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12306){:target="_blank"} |Pro Lates Fixed Season 1 |19 |1457 | | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |BizRat Paints Dirt Late Model Pro's S3 |19 |1994 |Fixed |Weedsport Speedway |Wed, July 16 08:30PM EDT |Thu, July 17 01:30AM BST |Thu, July 17 10:30AM AEST |
-|[BRL Pro Late Model Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=764){:target="_blank"} |DLM S1 |17 |1822 |Fixed |The Dirt Track at Charlotte |Fri, July 11 09:00PM EDT |Sat, July 12 02:00AM BST |Sat, July 12 11:00AM AEST |
+|[BRL Pro Late Model Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=764){:target="_blank"} |DLM S1 |17 |1760 |Fixed | | | | |
 |[W\.I\.P\.L\.M\.S](https://members.iracing.com/membersite/member/LeagueView.do?league=12584){:target="_blank"} |Season 1 |16 |1791 | | | | | |
 |[TIer 1 Wednesday Night Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=10999){:target="_blank"} |T1P Season 1 |15 |2536 |Fixed | | | | |
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Monday Masters of Dirt |13 |1304 | | | | | |
@@ -150,10 +148,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|---------------------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|--------------------|------------------------|------------------------|-------------------------|
 |[iRacing Midget Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11786){:target="_blank"} |2025 360NW NATIONAL TOUR |55 |4505 | | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 360 non wing |41 |2333 |Open | | | | |
-|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Wingless Sprints Super Series 2025 |15 |3738 | |The Dirt Track at Charlotte |Fri, July 11 07:00AM EDT |Fri, July 11 12:00PM BST |Fri, July 11 09:00PM AEST |
+|[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Wingless Sprints Super Series 2025 |25 |3604 | |Lernerville Speedway |Fri, July 18 07:00AM EDT |Fri, July 18 12:00PM BST |Fri, July 18 09:00PM AEST |
 
 ### Dirt SprintCar - 410wingless
 
@@ -196,12 +194,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------|----|-----|------------------------------------|------------------------|------------------------|-------------------------|
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |BizRat Paints Dirt UMP |35 |2009 |Fixed | | | | |
 |[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |Summer Series UMP 2025 |35 |3650 |Both | | | | |
 |[titans of dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=11975){:target="_blank"} |ump modified |34 |1860 | | | | | |
 |[UMP Summer Natty](https://members.iracing.com/membersite/member/LeagueView.do?league=4992){:target="_blank"} |Summer Nats Season 1 |29 |2638 |Both | | | | |
-|[BRL J&B Modified Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} |Season 4\- UMP Modifieds |21 |2334 | | | | | |
+|[BRL J&B Modified Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} |Season 4\- UMP Modifieds |21 |2334 | |Federated Auto Parts Raceway at I-55 |Tue, July 15 07:30PM EDT |Wed, July 16 12:30AM BST |Wed, July 16 09:30AM AEST |
 |[DIRTKARS UMP SERIES powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7932){:target="_blank"} |DIRTKARS UMP SEASON 9 |20 |2069 | | | | | |
 |[BRL J&B Modified Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} |Season 3 |17 |1794 | | | | | |
 
@@ -225,7 +223,6 @@
 |[2025 Oceanic Sprintcar Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=3319){:target="_blank"} |2025 Oceanic Sprintcar Tour |30 |3277 | | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Dirt Proving Grounds |26 |1404 |Fixed | | | | |
 |[GeoMax Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9941){:target="_blank"} |Geomax Outlaw Season 4 |25 |2778 | |The Dirt Track at Charlotte |Thu, July 17 07:30PM EDT |Fri, July 18 12:30AM BST |Fri, July 18 09:30AM AEST |
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |wing and no wing mircos |20 |1351 |Fixed | | | | |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Summer 2025 \(BB, SLM, MS\) |18 |2340 |Fixed | | | | |
 |[Tanner Pettit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10975){:target="_blank"} |Testing |13 |8456 | | | | | |
 |[BRL J&B Modified Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} |test sessions |11 |1944 | | | | | |

@@ -62,6 +62,7 @@
 |[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S31 |20 |1718 |Fixed | | | | |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |Sunday Night Late Model Stocks |19 |1150 | | | | | |
 |[Strictly Stock Motor Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=3109){:target="_blank"} |SSMS LMSC 2025 |18 |2037 |Fixed | | | | |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |LMS Heatwave season 3 |18 |1566 |Fixed |Iowa Speedway |Fri, July 18 10:00PM EDT |Sat, July 19 03:00AM BST |Sat, July 19 12:00PM AEST |
 |[Outcast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7861){:target="_blank"} |Outcast Racing League Land & Sea Late Models |17 |1846 | | | | | |
 |[SART LMSC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11905){:target="_blank"} |Season 2 of SART LMSC Series |17 |1888 | | | | | |
 |[Happy Hour Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8318){:target="_blank"} |2025 S2 \- Late Models \(Tues 7:30pm\) |16 |2268 |Fixed | | | | |
@@ -77,7 +78,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|----|-----|------------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|----|-----|-----------------------------------|------------------------|------------------------|-------------------------|
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |Legend Cars Series \- 2025 Spring |70 |4277 |Open | | | | |
 |[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 11 |60 |2227 |Fixed | | | | |
 |[FR8 Racing & Speed\-U \- Race for a Ride](https://members.iracing.com/membersite/member/LeagueView.do?league=12281){:target="_blank"} |FR8 Racing Race For A Ride \- Presented by Speed\-U |37 |1865 | | | | | |
@@ -91,9 +92,9 @@
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |Legends Cup |23 |2185 | | | | | |
 |[Almost Aussie Racing Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10367){:target="_blank"} |AARC Season 4 |18 |2100 |Fixed | | | | |
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Super Gang |17 |1721 | | | | | |
-|[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HRT2HEART LEGENDS 34 COUPE |15 |1558 |Fixed |Martinsville Speedway |Fri, July 11 07:58PM EDT |Sat, July 12 12:58AM BST |Sat, July 12 09:58AM AEST |
+|[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HRT2HEART LEGENDS 34 COUPE |15 |1555 |Fixed |Lucas Oil Indianapolis Raceway Park |Fri, July 18 07:58PM EDT |Sat, July 19 12:58AM BST |Sat, July 19 09:58AM AEST |
 |[AOLL Racing's TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4855){:target="_blank"} |2025 Legends Coupe |14 |1289 |Fixed |Five Flags Speedway |Thu, July 17 06:00PM EDT |Thu, July 17 11:00PM BST |Fri, July 18 08:00AM AEST |
-|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |'34 Legends |13 |1436 |Fixed | | | | |
+|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |'34 Legends |13 |1436 |Fixed |Lanier National Speedway |Thu, July 17 08:30PM EDT |Fri, July 18 01:30AM BST |Fri, July 18 10:30AM AEST |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |VRS \- Legends Road Course |12 |1073 | | | | | |
 
 ### Mini Stock
@@ -148,11 +149,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|----------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[All Pro Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=208){:target="_blank"} |2025 Super Late |51 |2734 |Fixed |Hickory Motor Speedway |Mon, June 23 07:00PM EDT |Tue, June 24 12:00AM BST |Tue, June 24 09:00AM AEST |
 |[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} |Season 2 |36 |3698 |Open | | | | |
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |SLM Showcase Series \- 2025 Spring |31 |5005 |Open | | | | |
 |[ARC NASCAR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8792){:target="_blank"} |2025 ARC Late Model Tour |29 |2103 |Fixed | | | | |
-|[Renegade Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9561){:target="_blank"} |THURSDAY NIGHT THUNDER |20 |1642 |Fixed | | | | |
+|[ALL\-STAR Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9161){:target="_blank"} |2025 All Pro Sim Super Series Season |26 |2817 | |South Boston Speedway |Mon, July 14 07:00PM EDT |Tue, July 15 12:00AM BST |Tue, July 15 09:00AM AEST |
+|[Renegade Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9561){:target="_blank"} |THURSDAY NIGHT THUNDER |20 |1642 |Fixed |Southern National Motorsports Park |Thu, July 17 07:00PM EDT |Fri, July 18 12:00AM BST |Fri, July 18 09:00AM AEST |
 |[National Iracing Association \(NIRA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} |NIRA Short Track Series Season 2 |17 |1656 |Fixed | | | | |
 

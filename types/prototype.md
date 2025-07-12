@@ -8,12 +8,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2025S2 Full Season |23 |1675 | | | | | |
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |21 |1580 |Both | | | | |
 |[Red Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=791){:target="_blank"} |Season 34 \- LMP2 Fixed |19 |3178 |Fixed | | | | |
+|[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |18 |1783 |Open |Autódromo José Carlos Pace |Fri, July 18 08:20PM EDT |Sat, July 19 01:20AM BST |Sat, July 19 10:20AM AEST |
 |[Proton Racing Series \- LMP2](https://members.iracing.com/membersite/member/LeagueView.do?league=11408){:target="_blank"} |LMP2 Series |17 |2041 | | | | | |
-|[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |16 |1800 |Open |Canadian Tire Motorsports Park |Fri, July 11 08:20PM EDT |Sat, July 12 01:20AM BST |Sat, July 12 10:20AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |15 |2161 |Open |Circuit de Spa-Francorchamps |Wed, July 16 07:30PM EDT |Thu, July 17 12:30AM BST |Thu, July 17 09:30AM AEST |
 |[ORNL\.nl Woensdag 2](https://members.iracing.com/membersite/member/LeagueView.do?league=5805){:target="_blank"} |ORNL LMP2 Prototype Challenge '25 |13 |2460 |Both | | | | |
 
@@ -43,8 +43,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|-------------|--------|------|------|
-|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2025 Abruzzi Prototype Challenge |45 |2488 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|--------------------------------------------|------------------------|------------------------|-------------------------|
+|[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2025 Abruzzi Prototype Challenge |45 |2488 | |Autodromo Internazionale Enzo e Dino Ferrari |Tue, July 15 01:00PM EDT |Tue, July 15 06:00PM BST |Wed, July 16 03:00AM AEST |
 |[SMOKE N TACOS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8349){:target="_blank"} |Daytona Prototype Oval |12 |1163 |Both | | | | |
 
 ### Ligier JS P320
@@ -52,11 +52,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |21 |2331 | | | | | |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |17 |1435 | | | | | |
 |[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC LMP3 \- Season 3 |12 |1822 |Open | | | | |
-|[SRB LEAGUES \- LMP3 SUNDAYS](https://members.iracing.com/membersite/member/LeagueView.do?league=6479){:target="_blank"} |SRB LMP3 SUNDAYS |12 |2001 | | | | | |
 |[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1942 |Open |Circuit Gilles Villeneuve |Mon, July 14 08:25PM EDT |Tue, July 15 01:25AM BST |Tue, July 15 10:25AM AEST |
 
 ### Radical SR10
@@ -77,16 +76,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |25 |1880 | | | | | |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |24 |1389 |Fixed |New Smyrna Speedway |Sun, July 13 08:30PM EDT |Mon, July 14 01:30AM BST |Mon, July 14 10:30AM AEST |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 1 |24 |2072 |Fixed | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |23 |2859 | |Circuit de Spa-Francorchamps |Mon, July 14 02:50PM EDT |Mon, July 14 07:50PM BST |Tue, July 15 04:50AM AEST |
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |22 |2165 | |WeatherTech Raceway at Laguna Seca |Fri, July 11 03:58PM EDT |Fri, July 11 08:58PM BST |Sat, July 12 05:58AM AEST |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |22 |2162 | | | | | |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S03 \- BRITISH CUP SR8 |22 |2562 |Both |Snetterton Circuit |Thu, July 17 02:30PM EDT |Thu, July 17 07:30PM BST |Fri, July 18 04:30AM AEST |
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |20 |1580 | |Red Bull Ring |Sun, July 13 03:00PM EDT |Sun, July 13 08:00PM BST |Mon, July 14 05:00AM AEST |
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |19 |1884 |Open |Circuit de Spa-Francorchamps |Mon, July 14 12:30PM EDT |Mon, July 14 05:30PM BST |Tue, July 15 02:30AM AEST |
-|[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 2 |14 |2359 |Fixed |Rudskogen Motorsenter |Fri, July 11 08:30PM EDT |Sat, July 12 01:30AM BST |Sat, July 12 10:30AM AEST |
+|[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 2 |15 |2351 |Fixed |Mount Panorama Circuit |Fri, July 18 08:30PM EDT |Sat, July 19 01:30AM BST |Sat, July 19 10:30AM AEST |
 
 ### Riley Daytona Prototype
 
@@ -101,7 +100,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
+|----------------------------------------------------------------------------------------------------------------------|---------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S2 |75 |3072 |Open | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S3 SRF WW |44 |3155 |Open |Lime Rock Park |Sun, July 13 02:40PM EDT |Sun, July 13 07:40PM BST |Mon, July 14 04:40AM AEST |
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SCCA Spec Racer |16 |1547 |Fixed | | | | |
 
