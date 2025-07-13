@@ -18,19 +18,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Octane Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=10141){:target="_blank"} |Season 5 |Fixed |Daytona International Speedway |Fri, July 18 08:20PM EDT |Sat, July 19 01:20AM BST |Sat, July 19 10:20AM AEST |
 |[KCERacing](https://members.iracing.com/membersite/member/LeagueView.do?league=7607){:target="_blank"} |KCERacing Next Gen Cup Series \- Season 7B |Fixed |Dover Motor Speedway |Wed, July 16 08:00PM EDT |Thu, July 17 01:00AM BST |Thu, July 17 10:00AM AEST |
-|[iSNF: NextGen Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5875){:target="_blank"} |CUP SEASON 10 |Fixed |Daytona International Speedway |Sat, July 12 12:30PM EDT |Sat, July 12 05:30PM BST |Sun, July 13 02:30AM AEST |
 
 ### NASCAR Legends 1987
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|-----------------------------------------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------|------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[1987 CARS](https://members.iracing.com/membersite/member/LeagueView.do?league=12844){:target="_blank"} |1 |Fixed |Daytona International Speedway |Sun, July 13 06:00PM EDT |Sun, July 13 11:00PM BST |Mon, July 14 08:00AM AEST |
-|[RBRL \- Rust Bucket Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12309){:target="_blank"} |Legends 87 \- Presented by Captain Morgan \(Preseason\)  |Fixed |[Legacy] Michigan International Speedway - 2009 |Sat, July 12 10:00AM EDT |Sat, July 12 03:00PM BST |Sun, July 13 12:00AM AEST |
 
 ### NASCAR Truck Series
 
@@ -38,16 +36,9 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----|---------------------------------------|------------------------|------------------------|-------------------------|
+|[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Trackside Solutions Trucks |Both |Daytona International Speedway |Sun, July 20 08:00PM EDT |Mon, July 21 01:00AM BST |Mon, July 21 10:00AM AEST |
 |[Vspeed NEPA Towing Contender Series Powered by NITRO](https://members.iracing.com/membersite/member/LeagueView.do?league=3520){:target="_blank"} |Vspeed NEPA Towing Contender Series Season14 Powered by NITRO |Open |World Wide Technology Raceway (Gateway) |Wed, July 16 09:00PM EDT |Thu, July 17 02:00AM BST |Thu, July 17 11:00AM AEST |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Tuesday Superspeedway Series Season 1 by Ivan Garcia |Fixed |EchoPark Speedway (Atlanta) |Tue, July 15 07:30PM EDT |Wed, July 16 12:30AM BST |Wed, July 16 09:30AM AEST |
-
-### SK Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------|-----|----------------------|------------------------|------------------------|-------------------------|
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |The Saturday Knights |Fixed |Bristol Motor Speedway |Sat, July 12 08:00PM EDT |Sun, July 13 01:00AM BST |Sun, July 13 10:00AM AEST |
 
 ### XFINITY Series
 
@@ -110,6 +101,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------|----------|-----|--------------------|------------------------|------------------------|-------------------------|
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |F4 Season1 | |Brands Hatch Circuit |Wed, July 16 02:00PM EDT |Wed, July 16 07:00PM BST |Thu, July 17 04:00AM AEST |
+
+### Lotus 79
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|---------------|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Classic lotus79 |Fixed |Autódromo José Carlos Pace |Tue, July 15 05:30AM EDT |Tue, July 15 10:30AM BST |Tue, July 15 07:30PM AEST |
 
 ### Ray FF1600
 
