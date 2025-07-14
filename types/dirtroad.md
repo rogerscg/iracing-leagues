@@ -29,8 +29,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|------------------------|-------|----|-----|-------------|--------|------|------|
-|[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |MINI CHAMPIONNAT SPÉCIAL |29 |1669 | | | | | |
+|------------------------------------------------------------------------------------------------------------------|------------------------|-------|----|-----|------------------------|------------------------|------------------------|-------------------------|
+|[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |MINI CHAMPIONNAT SPÉCIAL |29 |1669 | |Lanier National Speedway |Mon, July 14 07:15PM EDT |Tue, July 15 12:15AM BST |Tue, July 15 09:15AM AEST |
 
 ### Pro 4 Truck
 
