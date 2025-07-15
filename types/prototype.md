@@ -51,11 +51,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |21 |2331 | | | | | |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |17 |1435 | | | | | |
 |[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC LMP3 \- Season 3 |12 |1822 |Open | | | | |
-|[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1942 |Open |Circuit Gilles Villeneuve |Mon, July 14 08:25PM EDT |Tue, July 15 01:25AM BST |Tue, July 15 10:25AM AEST |
+|[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1936 |Open |Mid-Ohio Sports Car Course |Mon, July 21 08:25PM EDT |Tue, July 22 01:25AM BST |Tue, July 22 10:25AM AEST |
 
 ### Radical SR10
 
@@ -80,11 +80,11 @@
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |25 |1389 |Fixed |Lucas Oil Indianapolis Raceway Park |Sun, July 20 08:30PM EDT |Mon, July 21 01:30AM BST |Mon, July 21 10:30AM AEST |
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |25 |1880 | |Watkins Glen International |Mon, July 21 07:30AM EDT |Mon, July 21 12:30PM BST |Mon, July 21 09:30PM AEST |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 1 |24 |2072 |Fixed | | | | |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |23 |2859 | |Circuit de Spa-Francorchamps |Mon, July 14 02:50PM EDT |Mon, July 14 07:50PM BST |Tue, July 15 04:50AM AEST |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |23 |2880 | |Autodromo Nazionale Monza |Mon, July 21 02:50PM EDT |Mon, July 21 07:50PM BST |Tue, July 22 04:50AM AEST |
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |23 |1858 |Open | | | | |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |22 |2162 | | | | | |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S03 \- BRITISH CUP SR8 |22 |2562 |Both |Snetterton Circuit |Thu, July 17 02:30PM EDT |Thu, July 17 07:30PM BST |Fri, July 18 04:30AM AEST |
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |20 |1588 | |Road Atlanta |Sun, July 20 03:00PM EDT |Sun, July 20 08:00PM BST |Mon, July 21 05:00AM AEST |
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |19 |1884 |Open |Circuit de Spa-Francorchamps |Mon, July 14 12:30PM EDT |Mon, July 14 05:30PM BST |Tue, July 15 02:30AM AEST |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 2 |15 |2351 |Fixed |Mount Panorama Circuit |Fri, July 18 08:30PM EDT |Sat, July 19 01:30AM BST |Sat, July 19 10:30AM AEST |
 
 ### Riley Daytona Prototype

@@ -29,6 +29,7 @@
 |------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Octane Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=10141){:target="_blank"} |Season 5 |Fixed |Daytona International Speedway |Fri, July 18 08:20PM EDT |Sat, July 19 01:20AM BST |Sat, July 19 10:20AM AEST |
 |[KCERacing](https://members.iracing.com/membersite/member/LeagueView.do?league=7607){:target="_blank"} |KCERacing Next Gen Cup Series \- Season 7B |Fixed |Dover Motor Speedway |Wed, July 16 08:00PM EDT |Thu, July 17 01:00AM BST |Thu, July 17 10:00AM AEST |
+|[ROAR CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=10081){:target="_blank"} |Next Gen CUP 2025 |Fixed |Las Vegas Motor Speedway |Wed, July 16 09:30PM EDT |Thu, July 17 02:30AM BST |Thu, July 17 11:30AM AEST |
 
 ### NASCAR Truck Series
 
@@ -38,6 +39,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----|---------------------------------------|------------------------|------------------------|-------------------------|
 |[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Trackside Solutions Trucks |Both |Daytona International Speedway |Sun, July 20 08:00PM EDT |Mon, July 21 01:00AM BST |Mon, July 21 10:00AM AEST |
 |[Vspeed NEPA Towing Contender Series Powered by NITRO](https://members.iracing.com/membersite/member/LeagueView.do?league=3520){:target="_blank"} |Vspeed NEPA Towing Contender Series Season14 Powered by NITRO |Open |World Wide Technology Raceway (Gateway) |Wed, July 16 09:00PM EDT |Thu, July 17 02:00AM BST |Thu, July 17 11:00AM AEST |
+|[Racers Elite \- Tuesday Truck Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9801){:target="_blank"} |Racers Elite \- Truck Fixed Series \(Season 8\) |Fixed |Auto Club Speedway |Tue, July 22 05:35PM EDT |Tue, July 22 10:35PM BST |Wed, July 23 07:35AM AEST |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Tuesday Superspeedway Series Season 1 by Ivan Garcia |Fixed |EchoPark Speedway (Atlanta) |Tue, July 15 07:30PM EDT |Wed, July 16 12:30AM BST |Wed, July 16 09:30AM AEST |
 
 # Oval
@@ -63,19 +65,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
-|[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Legends Cup |Both |Knockhill Racing Circuit |Mon, July 14 06:00AM EDT |Mon, July 14 11:00AM BST |Mon, July 14 08:00PM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
 |[FALCONGRAFIX Legends Series powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6409){:target="_blank"} |FG Legends Season 7 2025 | |EchoPark Speedway (Atlanta) |Tue, July 15 08:00PM EDT |Wed, July 16 01:00AM BST |Wed, July 16 10:00AM AEST |
 
-### Super Late Model
+# Open-wheel
+
+### Dallara F3
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[Prodigy Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10908){:target="_blank"} |Super Late Model Series｜Season 1 |Both |Thompson Speedway Motorsports Park |Mon, July 14 09:00PM EDT |Tue, July 15 02:00AM BST |Tue, July 15 11:00AM AEST |
-
-# Open-wheel
+|------------------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[BiS Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12173){:target="_blank"} |Official Practice | |Canadian Tire Motorsports Park |Tue, July 22 07:00PM EDT |Wed, July 23 12:00AM BST |Wed, July 23 09:00AM AEST |
 
 ### Dallara IR18
 
@@ -101,40 +102,6 @@
 |----------------------------------------------------------------------------------------------------------------------|---------------|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Classic lotus79 |Fixed |Autódromo José Carlos Pace |Tue, July 15 05:30AM EDT |Tue, July 15 10:30AM BST |Tue, July 15 07:30PM AEST |
 
-### Mercedes-AMG W12 E Performance
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-----------|-----|-------------|------------------------|------------------------|-------------------------|
-|[Slowbois Formula Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12908){:target="_blank"} |Test Season | |Red Bull Ring |Mon, July 14 08:00PM EDT |Tue, July 15 01:00AM BST |Tue, July 15 10:00AM AEST |
-
-### Ray FF1600
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------------------|------------------------|------------------------|-------------------------|
-|[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2025 Summer FF/F4 |Fixed |Willow Springs International Raceway |Mon, July 14 08:00PM EDT |Tue, July 15 01:00AM BST |Tue, July 15 10:00AM AEST |
-
-# Sports Car
-
-### GT4 Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-------------------|-----|--------------------|------------------------|------------------------|-------------------------|
-|[Money Shift Lite](https://members.iracing.com/membersite/member/LeagueView.do?league=11008){:target="_blank"} |GT\(4x \- Contact\) | |Brands Hatch Circuit |Mon, July 14 09:00PM EDT |Tue, July 15 02:00AM BST |Tue, July 15 11:00AM AEST |
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|-------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2025\-2 |Fixed |Nürburgring Grand-Prix-Strecke |Mon, July 14 06:50PM EDT |Mon, July 14 11:50PM BST |Tue, July 15 08:50AM AEST |
-
 # Dirt Oval
 
 ### Dirt Late Model - Pro
@@ -142,8 +109,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------|------------------------|------------------------|-------------------------|
-|[DCM Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12753){:target="_blank"} |Monday Night Dirt\- DCM Racing | |Bristol Motor Speedway |Mon, July 14 08:00PM EDT |Tue, July 15 01:00AM BST |Tue, July 15 10:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------|------------------------------|-----|-------------------|------------------------|------------------------|-------------------------|
+|[DCM Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12753){:target="_blank"} |Monday Night Dirt\- DCM Racing | |Cedar Lake Speedway |Mon, July 21 08:00PM EDT |Tue, July 22 01:00AM BST |Tue, July 22 10:00AM AEST |
 
 ### Dirt SprintCar - 360
 
@@ -181,7 +148,6 @@
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GT3 Series Season 3 | |Autodromo Nazionale Monza |Thu, July 17 08:00PM EDT |Fri, July 18 01:00AM BST |Fri, July 18 10:00AM AEST |
 |[CSC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12596){:target="_blank"} |Season 2 |Open |Circuit de Spa-Francorchamps |Sat, July 19 12:00PM EDT |Sat, July 19 05:00PM BST |Sun, July 20 02:00AM AEST |
 |[PRA GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=12822){:target="_blank"} |Full Send Friday Nights GT3 Series | |Daytona International Speedway |Fri, July 18 08:45PM EDT |Sat, July 19 01:45AM BST |Sat, July 19 10:45AM AEST |
-|[Diode Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12886){:target="_blank"} |Diode Cup season 1 | |Oulton Park Circuit |Mon, July 14 02:30AM EDT |Mon, July 14 07:30AM BST |Mon, July 14 04:30PM AEST |
 |[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |GT3 \- Espresso Cup Season 1 |Both |Mid-Ohio Sports Car Course |Tue, July 15 07:15PM EDT |Wed, July 16 12:15AM BST |Wed, July 16 09:15AM AEST |
 
 ### Hosted All Cars Class
@@ -190,7 +156,8 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[ARL Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7178){:target="_blank"} |2025 |Open |Circuit de Spa-Francorchamps |Fri, July 18 01:00PM EDT |Fri, July 18 06:00PM BST |Sat, July 19 03:00AM AEST |
+|[ARL Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7178){:target="_blank"} |2025 |Open |Circuit de Spa-Francorchamps |Wed, July 16 01:00PM EDT |Wed, July 16 06:00PM BST |Thu, July 17 03:00AM AEST |
+|[PWA GT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9269){:target="_blank"} |PWA GTC Season 4 | |Mobility Resort Motegi |Tue, July 22 12:30PM EDT |Tue, July 22 05:30PM BST |Wed, July 23 02:30AM AEST |
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |Track Master Season 6 |Both |Virginia International Raceway |Tue, July 15 08:00PM EDT |Wed, July 16 01:00AM BST |Wed, July 16 10:00AM AEST |
 |[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |Sportscar Challenge \- Powered by Triple Stint |Both |Fuji International Speedway |Fri, July 18 08:14PM EDT |Sat, July 19 01:14AM BST |Sat, July 19 10:14AM AEST |
 
