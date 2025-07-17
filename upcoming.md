@@ -18,21 +18,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Octane Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=10141){:target="_blank"} |Season 5 |Fixed |Daytona International Speedway |Fri, July 18 08:20PM EDT |Sat, July 19 01:20AM BST |Sat, July 19 10:20AM AEST |
-|[KCERacing](https://members.iracing.com/membersite/member/LeagueView.do?league=7607){:target="_blank"} |KCERacing Next Gen Cup Series \- Season 7B |Fixed |Dover Motor Speedway |Wed, July 16 08:00PM EDT |Thu, July 17 01:00AM BST |Thu, July 17 10:00AM AEST |
-|[ROAR CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=10081){:target="_blank"} |Next Gen CUP 2025 |Fixed |Las Vegas Motor Speedway |Wed, July 16 09:30PM EDT |Thu, July 17 02:30AM BST |Thu, July 17 11:30AM AEST |
+|[Racers Elite \- Thursday Next Gen Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9514){:target="_blank"} |Racers Elite \- Next Gen Fixed Series \(Season 8\) |Fixed |EchoPark Speedway (Atlanta) |Thu, July 24 05:35PM EDT |Thu, July 24 10:35PM BST |Fri, July 25 07:35AM AEST |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----|---------------------------------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Trackside Solutions Trucks |Both |Daytona International Speedway |Sun, July 20 08:00PM EDT |Mon, July 21 01:00AM BST |Mon, July 21 10:00AM AEST |
-|[Vspeed NEPA Towing Contender Series Powered by NITRO](https://members.iracing.com/membersite/member/LeagueView.do?league=3520){:target="_blank"} |Vspeed NEPA Towing Contender Series Season14 Powered by NITRO |Open |World Wide Technology Raceway (Gateway) |Wed, July 16 09:00PM EDT |Thu, July 17 02:00AM BST |Thu, July 17 11:00AM AEST |
 |[Racers Elite \- Tuesday Truck Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9801){:target="_blank"} |Racers Elite \- Truck Fixed Series \(Season 8\) |Fixed |Auto Club Speedway |Tue, July 22 05:35PM EDT |Tue, July 22 10:35PM BST |Wed, July 23 07:35AM AEST |
-|[\(NSR\) Nortex Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=499){:target="_blank"} |Mixed Season 5 |Fixed |EchoPark Speedway (Atlanta) |Wed, July 16 09:00PM EDT |Thu, July 17 02:00AM BST |Thu, July 17 11:00AM AEST |
+|[Maximum Velocity Racing League \(MVRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=1262){:target="_blank"} |2025 Trucks Season 4 |Fixed |Phoenix Raceway |Thu, July 24 08:15PM EDT |Fri, July 25 01:15AM BST |Fri, July 25 10:15AM AEST |
 
 ### XFINITY Series
 
@@ -84,16 +82,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|---------------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[Quickdraw Indy\-car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12922){:target="_blank"} |Quickdraw Indycar Series 2025 | |Chicago Street Course |Fri, July 18 06:15PM EDT |Fri, July 18 11:15PM BST |Sat, July 19 08:15AM AEST |
-
-### FIA F4
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|----------|-----|--------------------|------------------------|------------------------|-------------------------|
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |F4 Season1 | |Brands Hatch Circuit |Wed, July 16 02:00PM EDT |Wed, July 16 07:00PM BST |Thu, July 17 04:00AM AEST |
+|[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8424){:target="_blank"} |Season 4 Fall Championship |Fixed |WeatherTech Raceway at Laguna Seca |Tue, July 22 07:00PM EDT |Wed, July 23 12:00AM BST |Wed, July 23 09:00AM AEST |
 
 ### Super Formula SF23
 
@@ -102,6 +93,34 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
 |[Tachycardia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11017){:target="_blank"} |Season 15:  Tachycardia Super Formula Series | |Indianapolis Motor Speedway |Wed, July 23 07:30PM EDT |Thu, July 24 12:30AM BST |Thu, July 24 09:30AM AEST |
+
+# Sports Car
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------------|--------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[SRW \- Shannons Toyota GR86 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 3, 2025 |Open |Nürburgring Grand-Prix-Strecke |Thu, July 24 04:00AM EDT |Thu, July 24 09:00AM BST |Thu, July 24 06:00PM AEST |
+
+### Ruf RT 12R RWD
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |International RUF of Champions \- 2025 |Fixed |Daytona International Speedway |Thu, July 24 07:55PM EDT |Fri, July 25 12:55AM BST |Fri, July 25 09:55AM AEST |
+
+# Prototype
+
+### Dallara P217
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|-----------------|-----|--------------------------|------------------------|------------------------|-------------------------|
+|[True North Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10051){:target="_blank"} |TNR LMP2 Season 1 | |Watkins Glen International |Fri, July 25 12:03AM EDT |Fri, July 25 05:03AM BST |Fri, July 25 02:03PM AEST |
 
 # Dirt Oval
 
@@ -112,6 +131,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------------------------------|-----|-------------------|------------------------|------------------------|-------------------------|
 |[DCM Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12753){:target="_blank"} |Monday Night Dirt\- DCM Racing | |Cedar Lake Speedway |Mon, July 21 08:00PM EDT |Tue, July 22 01:00AM BST |Tue, July 22 10:00AM AEST |
+
+### Dirt SprintCar - 360
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|---------------------|------------------------|------------------------|-------------------------|
+|[Australian Super Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |𝗠𝗼𝗻𝗱𝗮𝘆 𝗡𝗶𝗴𝗵𝘁 𝗦𝗽𝗿𝗶𝗻𝘁𝗰𝗮𝗿 𝗦𝗲𝗿𝗶𝗲𝘀 2025 | |Volusia Speedway Park |Mon, July 21 07:00AM EDT |Mon, July 21 12:00PM BST |Mon, July 21 09:00PM AEST |
 
 ### Dirt Sprintcar - 410
 
@@ -141,6 +168,7 @@
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GT3 Series Season 3 | |Autodromo Nazionale Monza |Thu, July 17 08:00PM EDT |Fri, July 18 01:00AM BST |Fri, July 18 10:00AM AEST |
 |[CSC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12596){:target="_blank"} |Season 2 |Open |Circuit de Spa-Francorchamps |Sat, July 19 12:00PM EDT |Sat, July 19 05:00PM BST |Sun, July 20 02:00AM AEST |
 |[PRA GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=12822){:target="_blank"} |Full Send Friday Nights GT3 Series | |Daytona International Speedway |Fri, July 18 08:45PM EDT |Sat, July 19 01:45AM BST |Sat, July 19 10:45AM AEST |
+|[OGRL Sunday Coffee Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10244){:target="_blank"} |Season 4 2025 | |Mid-Ohio Sports Car Course |Sun, July 20 07:30AM EDT |Sun, July 20 12:30PM BST |Sun, July 20 09:30PM AEST |
 
 ### Hosted All Cars Class
 
@@ -148,9 +176,9 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-----|-----------------------------------------|------------------------|------------------------|-------------------------|
-|[ARL Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7178){:target="_blank"} |2025 |Open |Circuit de Spa-Francorchamps |Wed, July 16 01:00PM EDT |Wed, July 16 06:00PM BST |Thu, July 17 03:00AM AEST |
 |[PWA GT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9269){:target="_blank"} |PWA GTC Season 4 | |Mobility Resort Motegi |Tue, July 22 12:30PM EDT |Tue, July 22 05:30PM BST |Wed, July 23 02:30AM AEST |
 |[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |Sportscar Challenge \- Powered by Triple Stint |Both |Fuji International Speedway |Fri, July 18 08:14PM EDT |Sat, July 19 01:14AM BST |Sat, July 19 10:14AM AEST |
+|[Thursday International Tin Top Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12351){:target="_blank"} |T\.I\.T\.T\.S Season 2 \- The C Cup |Open |Motorsport Arena Oschersleben |Thu, July 24 03:00PM EDT |Thu, July 24 08:00PM BST |Fri, July 25 05:00AM AEST |
 |[SRW \- Moza Super Formula Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |SRW Moza SFL Season 3 | |Shell V-Power Motorsport Park at The Bend |Wed, July 23 04:00AM EDT |Wed, July 23 09:00AM BST |Wed, July 23 06:00PM AEST |
 |[Road N' Plate Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} |Summer Series 2025 |Fixed |Charlotte Motor Speedway |Thu, July 17 08:00PM EDT |Fri, July 18 01:00AM BST |Fri, July 18 10:00AM AEST |
 |[Maximum Velocity Racing League \(MVRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=1262){:target="_blank"} |2025 Rotating Series Season 1 |Fixed |Daytona International Speedway |Mon, July 21 08:15PM EDT |Tue, July 22 01:15AM BST |Tue, July 22 10:15AM AEST |
