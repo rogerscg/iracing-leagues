@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Atlantic Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12898){:target="_blank"} | |Ready to Hit the Track? Your GT3 Racing Journey Starts Here\! Ever dreamed of taming the beasts of GT3 racing but felt intimidated by the pros? Our Beginner GT3 Racing League is the perfect place to turn those dreams into reality\! |
-|[Global eRacing Outreach](https://members.iracing.com/membersite/member/LeagueView.do?league=12896){:target="_blank"} |[Discord](https://discord.gg/Ju3Tu42M9G){:target="_blank"} |All Disciplines with A\.I\. |
-|[Wheel up Wednesday Speedweek](https://members.iracing.com/membersite/member/LeagueView.do?league=12897){:target="_blank"} | | |
 |[Ezk1LLz Oval Racing Extravaganza](https://members.iracing.com/membersite/member/LeagueView.do?league=12906){:target="_blank"} |[Discord](https://discord.gg/DwYJBQDGtt){:target="_blank"} |RACE ON TUESDAYS |
 |[Kukasz Crew x Blichemia](https://members.iracing.com/membersite/member/LeagueView.do?league=12900){:target="_blank"} |[Discord](https://discord.gg/EBvyHntM){:target="_blank"} |Liga Kukasz Crew pod patronatem Blichemi\. Organizujemy luźne ściganie w profesjonalnej atmosferze\. Poczuj dreszczyk emocji i weź udział w naszych ligach\. |
 |[Mercedes\-AMG Motorsport Virtual Championship \- Division 1](https://members.iracing.com/membersite/member/LeagueView.do?league=12899){:target="_blank"} | |the official Mercedes\-AMG Motorsport Virtual Championship League for Division 1 |
@@ -63,4 +60,6 @@
 |[Independent Sim Racing League Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12952){:target="_blank"} |[Discord](https://discord.gg/GZnQhAdNTT){:target="_blank"} |iSRL Special Events Server |
 |[SCR](https://members.iracing.com/membersite/member/LeagueView.do?league=12954){:target="_blank"} | | |
 |[Kenaz SimSports \- racetheapex\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=12953){:target="_blank"} | |Official Sim League of Kenaz Simsports |
+|[Flynas Car](https://members.iracing.com/membersite/member/LeagueView.do?league=12957){:target="_blank"} | |F&F |
+|[GT Sim](https://members.iracing.com/membersite/member/LeagueView.do?league=12958){:target="_blank"} | |GT Sim |
 
