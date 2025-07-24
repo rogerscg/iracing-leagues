@@ -13,13 +13,20 @@
 |---------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2025 ARCA Season |Fixed |Daytona International Speedway |Sun, July 27 09:15PM EDT |Mon, July 28 02:15AM BST |Mon, July 28 11:15AM AEST |
 
+### NASCAR 2003 Gen 4
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[FourWide MotorSports](https://members.iracing.com/membersite/member/LeagueView.do?league=8179){:target="_blank"} |FWM Friday Night Gen 4 League | |Daytona International Speedway |Fri, July 25 08:00PM EDT |Sat, July 26 01:00AM BST |Sat, July 26 10:00AM AEST |
+
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[CTC Wanted Goons Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6525){:target="_blank"} |Cup Season 10 \(2025b\) |Fixed |Daytona International Speedway |Wed, July 23 08:00PM EDT |Thu, July 24 01:00AM BST |Thu, July 24 10:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
 |[Racers Elite \- Thursday Next Gen Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9514){:target="_blank"} |Racers Elite \- Next Gen Fixed Series \(Season 8\) |Fixed |EchoPark Speedway (Atlanta) |Thu, July 24 05:35PM EDT |Thu, July 24 10:35PM BST |Fri, July 25 07:35AM AEST |
 
 ### NASCAR Truck Series
@@ -27,10 +34,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|-----------------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|------------------------|--------------------------|---------------------------|
 |[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Trackside Solutions Trucks |Both |Auto Club Speedway |Mon, July 28 08:00PM EDT |Tue, July 29 01:00AM BST |Tue, July 29 10:00AM AEST |
+|[Moonlight Racing League MRL Thursday Thriller Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9419){:target="_blank"} |Season 6 |Fixed |Nashville Superspeedway |Thu, July 31 08:00PM EDT |Fri, August 01 01:00AM BST |Fri, August 01 10:00AM AEST |
 |[Blackout Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11326){:target="_blank"} |Season 3 \(Trucks\) | |Talladega Superspeedway |Sun, July 27 07:00PM EDT |Mon, July 28 12:00AM BST |Mon, July 28 09:00AM AEST |
 |[Maximum Velocity Racing League \(MVRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=1262){:target="_blank"} |2025 Trucks Season 4 |Fixed |Phoenix Raceway |Thu, July 24 08:15PM EDT |Fri, July 25 01:15AM BST |Fri, July 25 10:15AM AEST |
+|[JUICYSPYDR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3818){:target="_blank"} |2025B |Fixed |Daytona International Speedway |Sun, July 27 07:30PM EDT |Mon, July 28 12:30AM BST |Mon, July 28 09:30AM AEST |
+|[NSRLA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12960){:target="_blank"} |Truck Series Season 1 | |Daytona International Speedway |Mon, July 28 06:59PM EDT |Mon, July 28 11:59PM BST |Tue, July 29 08:59AM AEST |
 
 ### Whelen Modified
 
@@ -45,9 +55,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Madness Racing League \(MRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11268){:target="_blank"} |MRL Xfinity Season 2 |Fixed |EchoPark Speedway (Atlanta) |Sat, July 26 08:45PM EDT |Sun, July 27 01:45AM BST |Sun, July 27 10:45AM AEST |
-|[Racers Elite \- Wednesday Xfinity Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9180){:target="_blank"} |Racers Elite \- Xfinity Fixed Series \(Season 7\) |Fixed |Daytona International Speedway |Wed, July 23 05:35PM EDT |Wed, July 23 10:35PM BST |Thu, July 24 07:35AM AEST |
 |[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |2025 NASCAR Xfinity Series |Fixed |Daytona International Speedway |Tue, July 29 08:45PM EDT |Wed, July 30 01:45AM BST |Wed, July 30 10:45AM AEST |
 |[Crusader Auto Racing Tournaments](https://members.iracing.com/membersite/member/LeagueView.do?league=12942){:target="_blank"} |SRC Season 0 | |Kansas Speedway |Sun, July 27 01:48PM EDT |Sun, July 27 06:48PM BST |Mon, July 28 03:48AM AEST |
 
@@ -86,14 +95,6 @@
 |-------------------------------------------------------------------------------------------------------------------------|-----------|-----|------------------------|------------------------|------------------------|-------------------------|
 |[Chalou's Short Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12949){:target="_blank"} |Mini Stocks | |Lanier National Speedway |Sat, July 26 01:10AM EDT |Sat, July 26 06:10AM BST |Sat, July 26 03:10PM AEST |
 
-### Street Stocks
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|----------------|------------------------|------------------------|-------------------------|
-|[Furniture Mart Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |FMWS 2025 Season 2 \- Street Stock Series |Fixed |Slinger Speedway |Wed, July 23 08:30PM EDT |Thu, July 24 01:30AM BST |Thu, July 24 10:30AM AEST |
-
 ### Super Late Model
 
 [Back to Top](#)  
@@ -113,14 +114,6 @@
 |--------------------------------------------------------------------------------------------------------------|-------------------------|-----|--------------------|------------------------|------------------------|-------------------------|
 |[DW12 Afterburner](https://members.iracing.com/membersite/member/LeagueView.do?league=12224){:target="_blank"} |DW12 Afterburner season 3 | |Chicagoland Speedway |Tue, July 29 07:00PM EDT |Wed, July 30 12:00AM BST |Wed, July 30 09:00AM AEST |
 
-### Dallara F3
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[BiS Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12173){:target="_blank"} |BiS Formula 3 | |Canadian Tire Motorsports Park |Wed, July 23 07:00PM EDT |Thu, July 24 12:00AM BST |Thu, July 24 09:00AM AEST |
-
 ### FIA F4
 
 [Back to Top](#)  
@@ -136,14 +129,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|----------|-----|------------------------|------------------------|------------------------|-------------------------|
 |[Pro Laps Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |Fun League |Fixed |Charlotte Motor Speedway |Sun, July 27 07:00PM EDT |Mon, July 28 12:00AM BST |Mon, July 28 09:00AM AEST |
-
-### Super Formula SF23
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
-|[Tachycardia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11017){:target="_blank"} |Season 15:  Tachycardia Super Formula Series | |Indianapolis Motor Speedway |Wed, July 23 07:30PM EDT |Thu, July 24 12:30AM BST |Thu, July 24 09:30AM AEST |
 
 # Sports Car
 
@@ -205,6 +190,16 @@
 |----------------------------------------------------------------------------------------------------------------------|-----------------|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[True North Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10051){:target="_blank"} |TNR LMP2 Season 1 | |Watkins Glen International |Fri, July 25 12:03AM EDT |Fri, July 25 05:03AM BST |Fri, July 25 02:03PM AEST |
 
+# Road
+
+### BMW M2 CS Racing
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------------|-------|-----|---------------------|------------------------|------------------------|---------------------------|
+|[ADAC SimRacing Cup \- Clubsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10120){:target="_blank"} |2025 S2 |Fixed |Rudskogen Motorsenter |Thu, July 31 12:00PM EDT |Thu, July 31 05:00PM BST |Fri, August 01 02:00AM AEST |
+
 # Dirt Oval
 
 ### Dirt Late Model - Pro
@@ -223,14 +218,6 @@
 |-----------------------------------------------------------------------------------------------------------------------|------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
 |[Afb Lounge 360 sprintcars](https://members.iracing.com/membersite/member/LeagueView.do?league=12924){:target="_blank"} |AFB 360 SPRINTCARS | |The Dirt Track at Charlotte |Sat, July 26 04:00AM EDT |Sat, July 26 09:00AM BST |Sat, July 26 06:00PM AEST |
 
-### Dirt Sprintcar - 410
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------|-----|-----------------------|------------------------|------------------------|-------------------------|
-|[Williams Grove iRacing Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=12856){:target="_blank"} |Summer 2025 | |Williams Grove Speedway |Wed, July 23 06:00PM EDT |Wed, July 23 11:00PM BST |Thu, July 24 08:00AM AEST |
-
 # Multi-class/Unclassified
 
 ### Hosted All Cars Class
@@ -238,7 +225,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-----------------------------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
 |[Thursday International Tin Top Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12351){:target="_blank"} |T\.I\.T\.T\.S Season 2 \- The C Cup |Open |Motorsport Arena Oschersleben |Thu, July 24 03:00PM EDT |Thu, July 24 08:00PM BST |Fri, July 25 05:00AM AEST |
-|[SRW \- Moza Super Formula Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=8995){:target="_blank"} |SRW Moza SFL Season 3 | |Shell V-Power Motorsport Park at The Bend |Wed, July 23 04:00AM EDT |Wed, July 23 09:00AM BST |Wed, July 23 06:00PM AEST |
 
