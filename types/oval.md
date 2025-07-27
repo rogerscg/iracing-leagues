@@ -53,14 +53,14 @@
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Late night Late Model Stock |30 |1184 | | | | | |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Models S11 |30 |2083 |Fixed | | | | |
 |[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC Late Model Stock Season 1 |29 |1642 |Fixed |South Boston Speedway |Mon, July 28 10:30PM EDT |Tue, July 29 03:30AM BST |Tue, July 29 12:30PM AEST |
-|[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S31 |28 |1768 |Fixed | | | | |
+|[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S31 |28 |1794 |Fixed | | | | |
 |[NSRLA CARS TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=12751){:target="_blank"} |Season 1 LMSC |27 |1832 | | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |HMS Late Model Stock Showcase Series |25 |1898 |Fixed | | | | |
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Wild Wednesday on Asphalt |24 |1558 | |Hickory Motor Speedway |Wed, July 30 07:45PM EDT |Thu, July 31 12:45AM BST |Thu, July 31 09:45AM AEST |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Tuesdays Late Model Stocks Season 1 |22 |1774 |Fixed | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |LMS Heatwave season 3 |22 |1595 |Fixed |Bristol Motor Speedway |Fri, August 01 10:00PM EDT |Sat, August 02 03:00AM BST |Sat, August 02 12:00PM AEST |
 |[SRA\-Southern Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |SRA Late Model Stock Weekly Open Series |22 |2116 |Both |Hickory Motor Speedway |Sun, July 27 07:30PM EDT |Mon, July 28 12:30AM BST |Mon, July 28 09:30AM AEST |
-|[204 League \- Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11061){:target="_blank"} |204 League Summer Heat |20 |2209 |Fixed | | | | |
+|[204 League \- Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11061){:target="_blank"} |204 League Summer Heat |20 |2209 |Fixed |Nashville Fairgrounds Speedway |Tue, July 29 08:00PM EDT |Wed, July 30 01:00AM BST |Wed, July 30 10:00AM AEST |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |Sunday Night Late Model Stocks |19 |1150 | | | | | |
 |[Twisted Chassis Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10613){:target="_blank"} |Season 2 |18 |1530 | |Lucas Oil Indianapolis Raceway Park |Sun, July 27 07:25PM EDT |Mon, July 28 12:25AM BST |Mon, July 28 09:25AM AEST |
 |[SART LMSC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11905){:target="_blank"} |Season 2 of SART LMSC Series |17 |1888 | | | | | |
@@ -120,7 +120,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|----------------------------------|------------------------|--------------------------|---------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[XCAL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1264){:target="_blank"} |2025 XCAL RACING WEB SHOP SERIES |57 |3033 |Both | | | | |
 |[Xcelerate Racing League Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=11472){:target="_blank"} |HAVOC Racing Syndicate Street Stock Season 2 |54 |1790 | |New Hampshire Motor Speedway |Thu, July 31 07:30PM EDT |Fri, August 01 12:30AM BST |Fri, August 01 09:30AM AEST |
 |[Leave The Pack iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5801){:target="_blank"} |LTP Street Stock Showdown S3 |54 |3621 | |Hickory Motor Speedway |Mon, July 28 08:15PM EDT |Tue, July 29 01:15AM BST |Tue, July 29 10:15AM AEST |
@@ -133,21 +133,21 @@
 |[PINNED](https://members.iracing.com/membersite/member/LeagueView.do?league=12518){:target="_blank"} |Season 1 |28 |2780 |Open | | | | |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Sundays Street Stocks Season 1 |28 |1613 |Fixed |Thompson Speedway Motorsports Park |Sun, July 27 07:00PM EDT |Mon, July 28 12:00AM BST |Mon, July 28 09:00AM AEST |
 |[Full Throttle Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10782){:target="_blank"} |king of the quartermiles |27 |2149 | | | | | |
+|[Tube Frame Twisters, The League](https://members.iracing.com/membersite/member/LeagueView.do?league=12787){:target="_blank"} |Tube Frame Twister, The League Inaugural Season |27 |1596 |Open |Summit Point Raceway |Sat, August 02 09:00PM EDT |Sun, August 03 02:00AM BST |Sun, August 03 11:00AM AEST |
 |[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |SimAbility Street Stock Showdown |27 |1546 | |Hickory Motor Speedway |Wed, July 30 07:00PM EDT |Thu, July 31 12:00AM BST |Thu, July 31 09:00AM AEST |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |TVR\-Esports Street Stock series 3 |26 |1485 |Fixed |USA International Speedway |Wed, July 30 08:00PM EDT |Thu, July 31 01:00AM BST |Thu, July 31 10:00AM AEST |
-|[Tube Frame Twisters, The League](https://members.iracing.com/membersite/member/LeagueView.do?league=12787){:target="_blank"} |Tube Frame Twister, The League Inaugural Season |25 |1585 |Open |Rudskogen Motorsenter |Sat, July 26 09:00PM EDT |Sun, July 27 02:00AM BST |Sun, July 27 11:00AM AEST |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Saturday Night Fever street stock series |25 |1362 |Both |Charlotte Motor Speedway |Sat, July 26 09:05PM EDT |Sun, July 27 02:05AM BST |Sun, July 27 11:05AM AEST |
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Saturday Night Fever street stock series |26 |1341 |Both | | | | |
+|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S34 |22 |1903 |Fixed | | | | |
 |[RFC](https://members.iracing.com/membersite/member/LeagueView.do?league=2735){:target="_blank"} |2025 Spring RFC "Tigers" |20 |2099 |Fixed | | | | |
 |[The Pickle Gang League](https://members.iracing.com/membersite/member/LeagueView.do?league=9228){:target="_blank"} |The Pickle Gang Street Stock League Season 1 |20 |1820 |Fixed | | | | |
-|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S34 |20 |1891 |Fixed | | | | |
 |[iPASS](https://members.iracing.com/membersite/member/LeagueView.do?league=12568){:target="_blank"} |iPASS Street stocks Summer Series |19 |1942 |Both |Oxford Plains Speedway |Mon, July 28 07:30PM EDT |Tue, July 29 12:30AM BST |Tue, July 29 09:30AM AEST |
-|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Factory Stocks Season 3 |19 |1474 |Both | | | | |
+|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Factory Stocks Season 3 |19 |1474 |Both |Huset's Speedway |Sun, July 27 07:45PM EDT |Mon, July 28 12:45AM BST |Mon, July 28 09:45AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- Global Stock Car Challenge \(2025\) |17 |1398 |Fixed | | | | |
 |[Furniture Mart Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |FMWS 2025 Season 2 \- Street Stock Series |17 |2595 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- Global Stock Car Challenge \(2025B\) |17 |1550 |Fixed | | | | |
 |[EPIC RACING ASSOCIATION \(ERA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9790){:target="_blank"} |Tri\-Track Challenge Series |15 |2195 | |Lanier National Speedway |Tue, July 29 08:00PM EDT |Wed, July 30 01:00AM BST |Wed, July 30 10:00AM AEST |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |Tuesday Street Stocks |14 |1196 | | | | | |
 |[SMOKE N TACOS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8349){:target="_blank"} |Street Stocks |12 |1361 |Both | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- Global Stock Car Challenge \(2025B\) |12 |1481 |Fixed | | | | |
 |[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} |2025 S2 Street Stocks |10 |2916 |Fixed |Tsukuba Circuit |Thu, July 31 10:55PM EDT |Fri, August 01 03:55AM BST |Fri, August 01 12:55PM AEST |
 
 ### Super Late Model
@@ -155,9 +155,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|----------------------|------------------------|------------------------|---------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|----------------------|--------------------------|--------------------------|---------------------------|
 |[All Pro Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=208){:target="_blank"} |2025 Super Late |51 |2734 |Fixed |Hickory Motor Speedway |Mon, June 23 07:00PM EDT |Tue, June 24 12:00AM BST |Tue, June 24 09:00AM AEST |
-|[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} |Season 2 |38 |3786 |Open | | | | |
+|[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} |Season 2 |38 |3786 |Open |Myrtle Beach Speedway |Sun, August 03 08:30PM EDT |Mon, August 04 01:30AM BST |Mon, August 04 10:30AM AEST |
 |[ALL\-STAR Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9161){:target="_blank"} |2025 All Pro Sim Super Series Season |38 |2661 | |Langley Speedway |Mon, July 28 07:00PM EDT |Tue, July 29 12:00AM BST |Tue, July 29 09:00AM AEST |
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |SLM Showcase Series \- 2025 Spring |31 |5005 |Open | | | | |
 |[ARC NASCAR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8792){:target="_blank"} |2025 ARC Late Model Tour |29 |2103 |Fixed | | | | |
