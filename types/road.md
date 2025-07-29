@@ -60,5 +60,5 @@
 |[AROC](https://members.iracing.com/membersite/member/LeagueView.do?league=9076){:target="_blank"} |AROC V |22 |1338 |Fixed | | | | |
 |[CiL Collegiate Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CiL Summer Thunder Down Under 2025 |21 |2117 | |Sandown International Motor Raceway |Wed, July 30 08:00PM EDT |Thu, July 31 01:00AM BST |Thu, July 31 10:00AM AEST |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Pushrods & Popcorn |14 |1238 |Fixed | | | | |
-|[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |SuperChairs Season 1 |10 |1608 | |Portland International Raceway |Mon, July 28 08:00PM EDT |Tue, July 29 01:00AM BST |Tue, July 29 10:00AM AEST |
+|[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |SuperChairs Season 1 |11 |1488 | | | | | |
 

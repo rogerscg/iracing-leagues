@@ -19,13 +19,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------|----|-----|--------------------------|------------------------|--------------------------|---------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------|-------|----|-----|--------------------------|--------------------------|--------------------------|---------------------------|
 |[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} |Season 9 |47 |2289 | | | | | |
 |[Sim Racers Group\- Wednesday Advanced F\-3](https://members.iracing.com/membersite/member/LeagueView.do?league=12445){:target="_blank"} |2025 S3 |36 |1784 | |Circuit Zandvoort |Wed, July 30 08:58PM EDT |Thu, July 31 01:58AM BST |Thu, July 31 10:58AM AEST |
 |[Sim Racers Group\- Wednesday Advanced F\-3](https://members.iracing.com/membersite/member/LeagueView.do?league=12445){:target="_blank"} |2025 S2 \(Practice\) |33 |1630 | | | | | |
 |[Almeida Racing League \- Season 4](https://members.iracing.com/membersite/member/LeagueView.do?league=12757){:target="_blank"} |Split 1 |33 |2966 | | | | | |
 |[BiS Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12173){:target="_blank"} |BiS Formula 3 |23 |2536 | | | | | |
-|[BiS Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12173){:target="_blank"} |Official Practice |15 |None | | | | | |
+|[BiS Formula 3 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12173){:target="_blank"} |Official Practice |15 |None | |Thruxton Circuit |Tue, August 05 07:00PM EDT |Wed, August 06 12:00AM BST |Wed, August 06 09:00AM AEST |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |F1 Season \#13 |13 |1209 |Both | | | | |
 |[BMW CCA NCC Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4863){:target="_blank"} |2025 S3 SUMMER |13 |2288 |Fixed |Mid-Ohio Sports Car Course |Thu, July 31 07:30PM EDT |Fri, August 01 12:30AM BST |Fri, August 01 09:30AM AEST |
 
@@ -46,7 +46,7 @@
 |[GLR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11059){:target="_blank"} |Lincoln Tech Indy Car Season 2 |40 |1399 | |Nashville Superspeedway |Wed, July 30 07:00PM EDT |Thu, July 31 12:00AM BST |Thu, July 31 09:00AM AEST |
 |[Warriors 4 Peace Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3645){:target="_blank"} |2025B |40 |2090 | |Iowa Speedway |Thu, July 31 06:45PM EDT |Thu, July 31 11:45PM BST |Fri, August 01 08:45AM AEST |
 |[2025 BiS Doppler IndyCar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10578){:target="_blank"} |2025 BiS IndyCar Championship |37 |2479 | | | | | |
-|[Internet Sim\-Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10688){:target="_blank"} |ISRA \- Sim Gaming Expo \- Season 2 IR\-18 |37 |2838 |Fixed |Kansas Speedway |Mon, July 28 08:30PM EDT |Tue, July 29 01:30AM BST |Tue, July 29 10:30AM AEST |
+|[Internet Sim\-Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10688){:target="_blank"} |ISRA \- Sim Gaming Expo \- Season 2 IR\-18 |37 |2872 |Fixed |Pocono Raceway |Mon, August 04 08:30PM EDT |Tue, August 05 01:30AM BST |Tue, August 05 10:30AM AEST |
 |[Area 51 Indycar Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |Area 51 Indycar Series 2025 Season 2 |36 |2872 |Fixed | | | | |
 |[2025 BiS Doppler IndyCar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10578){:target="_blank"} |Official Test |35 |None | | | | | |
 |[Horizon Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11964){:target="_blank"} |Horizon Season 2 |35 |2739 | |World Wide Technology Raceway (Gateway) |Wed, July 30 07:00PM EDT |Thu, July 31 12:00AM BST |Thu, July 31 09:00AM AEST |
@@ -59,7 +59,7 @@
 |[CRS Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11796){:target="_blank"} |CRS \- Indy Championship \- \(Including the 5th Annual CRS Indy 500\) |26 |1645 | | | | | |
 |[Elbows Out Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9914){:target="_blank"} |Indy Series // 2025 Season 2 |26 |1657 |Open | | | | |
 |[MileHi Indy League](https://members.iracing.com/membersite/member/LeagueView.do?league=11131){:target="_blank"} |Season 4 |25 |2168 |Fixed | | | | |
-|[VSR IndyCar Series powered by SZESE E\-Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=12379){:target="_blank"} |Indycar '25 |25 |2290 | |WeatherTech Raceway at Laguna Seca |Mon, July 28 12:20PM EDT |Mon, July 28 05:20PM BST |Tue, July 29 02:20AM AEST |
+|[VSR IndyCar Series powered by SZESE E\-Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=12379){:target="_blank"} |Indycar '25 |25 |2286 | | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S3 SECTRONIC INDY SILVER |25 |2033 |Both |Nashville Superspeedway |Thu, July 31 06:00PM EDT |Thu, July 31 11:00PM BST |Fri, August 01 08:00AM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S2 SECTRONIC INDY GOLD |24 |3528 |Both | | | | |
 |[IRB \- \(BOWS\) Brazilian Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3433){:target="_blank"} |IRB Indy 500 |23 |2340 | | | | | |
@@ -75,11 +75,12 @@
 |[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8424){:target="_blank"} |Season 4 Summer Championship |17 |2502 |Fixed | | | | |
 |[WRL Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12712){:target="_blank"} |WRL Indycar Series Season 1 |16 |1026 | | | | | |
 |[Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"} |DHO Oval 2025S1 |15 |2136 |Fixed |Indianapolis Motor Speedway |Tue, July 29 07:50PM EDT |Wed, July 30 12:50AM BST |Wed, July 30 09:50AM AEST |
+|[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC Indycar Mini\-Series |15 |1487 |Fixed |Talladega Superspeedway |Sun, August 03 10:30PM EDT |Mon, August 04 03:30AM BST |Mon, August 04 12:30PM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCar May 2025 Championship |14 |1373 | | | | | |
 |[Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"} |DHO Road 2025S1 |14 |2240 |Fixed | | | | |
 |[Horizon Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11964){:target="_blank"} |practice |13 |None | | | | | |
 |[NORA Big Events](https://members.iracing.com/membersite/member/LeagueView.do?league=3238){:target="_blank"} |NORA 500 V3 2025 |13 |1292 |Open | | | | |
-|[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8424){:target="_blank"} |Season 4 Fall Championship |13 |2263 |Fixed | | | | |
+|[Velocity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8424){:target="_blank"} |Season 4 Fall Championship |13 |2263 |Fixed |Portland International Raceway |Tue, August 05 07:00PM EDT |Wed, August 06 12:00AM BST |Wed, August 06 09:00AM AEST |
 |[East Coast Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=4377){:target="_blank"} |Indy 500 |12 |1391 |Fixed | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCar June 2025 Championship |12 |1484 | | | | | |
 |[Indy Racing World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9599){:target="_blank"} |Season 6 |12 |1227 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, July 29 09:50PM EDT |Wed, July 30 02:50AM BST |Wed, July 30 11:50AM AEST |
@@ -96,20 +97,19 @@
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S2 Formula 4 |66 |2466 |Both | | | | |
 |[CBA \- Max Arena](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2025 \- Copa Brasil Formula Virtual |56 |2958 | |Circuito de Navarra |Tue, July 29 06:55PM EDT |Tue, July 29 11:55PM BST |Wed, July 30 08:55AM AEST |
 |[Sunday Night Skip Barber](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |SNSB Season 1 |54 |2544 |Fixed |WeatherTech Raceway at Laguna Seca |Sun, August 03 06:00PM EDT |Sun, August 03 11:00PM BST |Mon, August 04 08:00AM AEST |
-|[Autodromo Virtual \- FIA](https://members.iracing.com/membersite/member/LeagueView.do?league=11812){:target="_blank"} |2025 \- PRECLASIFICACION \| SERVER 1 |51 |None | | | | | |
 |[Sim Racers Group Tuesday Intermediate](https://members.iracing.com/membersite/member/LeagueView.do?league=11451){:target="_blank"} |2025 S2\- Asia/Aussie Series |48 |1566 |Fixed | | | | |
 |[SIM RACING\-SERIES SRS](https://members.iracing.com/membersite/member/LeagueView.do?league=12546){:target="_blank"} |SRS Challenge FT AWII \- F4 |47 |1617 | | | | | |
 |[SIMGEAR\.gg](https://members.iracing.com/membersite/member/LeagueView.do?league=4369){:target="_blank"} |Season 10 SIMGEAR F4 Summer Challenge |47 |2162 |Both | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S5 F4 Challenge |46 |1885 |Both | | | | |
 |[L\.A\. Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11004){:target="_blank"} |Copa F4 \- Season III |44 |1978 |Both | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S13 \- Trophi\.ai F4 Monday |43 |1967 |Open | | | | |
-|[CBA \- Max Arena](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2025 \- FIA Girls On Track |42 |1463 | | | | | |
+|[CBA \- Max Arena](https://members.iracing.com/membersite/member/LeagueView.do?league=11248){:target="_blank"} |2025 \- FIA Girls On Track |42 |1463 | |Circuito de Navarra |Tue, August 05 06:55PM EDT |Tue, August 05 11:55PM BST |Wed, August 06 08:55AM AEST |
 |[Autodromo Virtual \- FIA](https://members.iracing.com/membersite/member/LeagueView.do?league=11812){:target="_blank"} |2025 \- ETAPA 1 |42 |2810 | | | | | |
 |[Copa OMDAI F4 By iRacing Mexico](https://members.iracing.com/membersite/member/LeagueView.do?league=12623){:target="_blank"} |Clasificación para COPA OMDAI F4 \(24 Finalistas\) |41 |2179 |Fixed | | | | |
 |[Belgian F4 Championship sponsored by Auriga Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10676){:target="_blank"} |AM \- Belgian F4 Championship sponsored by Auriga Racing |41 |1618 | | | | | |
 |[oNiD iRacing Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=11984){:target="_blank"} |oNiD Sim Hound British oNiD4 Series |36 |1798 | | | | | |
+|[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S6 F4 Challenge |36 |1835 |Both | | | | |
 |[Sim Racers Group Sunday Funday](https://members.iracing.com/membersite/member/LeagueView.do?league=11412){:target="_blank"} |2025 |34 |1552 | |Hungaroring |Sun, August 03 03:30PM EDT |Sun, August 03 08:30PM BST |Mon, August 04 05:30AM AEST |
-|[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S6 F4 Challenge |34 |1858 |Both | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |F4 Season1 |33 |1866 | |Snetterton Circuit |Wed, July 30 02:00PM EDT |Wed, July 30 07:00PM BST |Thu, July 31 04:00AM AEST |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |F4 Sunday 2025\-S02 Spring |31 |1362 |Fixed | | | | |
 |[Skid Mark Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10396){:target="_blank"} |2025 Organized Chaos Season 5 \- F4 |31 |1511 |Open |Hungaroring |Sun, August 03 09:00PM EDT |Mon, August 04 02:00AM BST |Mon, August 04 11:00AM AEST |
@@ -131,9 +131,9 @@
 |[IRB \- F4 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=3396){:target="_blank"} |S3\-25 |20 |2677 | |Autodromo Internazionale Enzo e Dino Ferrari |Thu, July 31 05:00PM EDT |Thu, July 31 10:00PM BST |Fri, August 01 07:00AM AEST |
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |Open Wheel Season 5 |19 |1897 |Both | | | | |
 |[IFF Formula League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |Fia F4 Season 2 |18 |1791 | | | | | |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 35 \- F4 |18 |1954 |Fixed |Road Atlanta |Mon, August 04 02:00PM EDT |Mon, August 04 07:00PM BST |Tue, August 05 04:00AM AEST |
 |[Rainbow Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10704){:target="_blank"} |Rainbow Racing F4 |17 |1250 | | | | | |
 |[simHUB F4 League, April\-May](https://members.iracing.com/membersite/member/LeagueView.do?league=12441){:target="_blank"} |simHUB Season 7 Euro Tour |16 |1517 | | | | | |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 35 \- F4 |16 |1936 |Fixed |Circuit de Nevers Magny-Cours |Mon, July 28 02:00PM EDT |Mon, July 28 07:00PM BST |Tue, July 29 04:00AM AEST |
 |[IRB \- F4 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=3396){:target="_blank"} |Formula 4 Challenge |15 |3265 | | | | | |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR F4 Season 2 |15 |1595 |Open | | | | |
 |[Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12583){:target="_blank"} |VRL Season 1 F4 |13 |1708 |Fixed | | | | |
@@ -159,19 +159,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[FDL \- Formula Drivers League](https://members.iracing.com/membersite/member/LeagueView.do?league=12259){:target="_blank"} |Recruitment Series \#2 |46 |2928 | | | | | |
 |[Week 13 Big Grid Events](https://members.iracing.com/membersite/member/LeagueView.do?league=2694){:target="_blank"} |Formula Giving \- Race for Vimala F3 |35 |3775 | | | | | |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Open Wheelers |31 |1814 |Fixed | | | | |
 |[IRB \- \(BOWS\) Brazilian Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3433){:target="_blank"} |S3\-25 |29 |2574 | |Iowa Speedway |Wed, July 30 04:30PM EDT |Wed, July 30 09:30PM BST |Thu, July 31 06:30AM AEST |
 |[Internet Sim\-Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10688){:target="_blank"} |ISRA Practice |26 |1726 |Fixed | | | | |
-|[Senior Sportsmanship League](https://members.iracing.com/membersite/member/LeagueView.do?league=3725){:target="_blank"} |Senior Sportsmanship 2025S3 |21 |1641 |Fixed |Road America |Mon, July 28 01:45PM EDT |Mon, July 28 06:45PM BST |Tue, July 29 03:45AM AEST |
+|[Senior Sportsmanship League](https://members.iracing.com/membersite/member/LeagueView.do?league=3725){:target="_blank"} |Senior Sportsmanship 2025S3 |22 |1628 |Fixed |Donington Park Racing Circuit |Thu, July 31 01:45PM EDT |Thu, July 31 06:45PM BST |Fri, August 01 03:45AM AEST |
 |[Blue Wave Formula Career](https://members.iracing.com/membersite/member/LeagueView.do?league=10269){:target="_blank"} |Formula3 |18 |2842 | | | | | |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Revving Red's Roaring Road Racing Revelry \- Season 8 |17 |1820 |Both | | | | |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |Vees & Rays Season 9 |13 |2170 |Both |Winton Motor Raceway |Thu, March 27 07:30PM EDT |Thu, March 27 11:30PM GMT |Fri, March 28 10:30AM AEDT |
 |[LAS Esport](https://members.iracing.com/membersite/member/LeagueView.do?league=8419){:target="_blank"} |Formula Car \- Summer racing |12 |3018 |Fixed | | | | |
-|[Blue Wave Formula Career](https://members.iracing.com/membersite/member/LeagueView.do?league=10269){:target="_blank"} |Formula2 |11 |2824 | |Road America |Mon, July 28 02:30PM EDT |Mon, July 28 07:30PM BST |Tue, July 29 04:30AM AEST |
-|[Moonshiners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5681){:target="_blank"} |Formula Series |10 |1254 |Both | | | | |
+|[Blue Wave Formula Career](https://members.iracing.com/membersite/member/LeagueView.do?league=10269){:target="_blank"} |Formula2 |11 |2848 | | | | | |
+|[Moonshiners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5681){:target="_blank"} |Formula Series |10 |1254 |Both |Long Beach Street Circuit |Tue, August 05 07:00PM EDT |Wed, August 06 12:00AM BST |Wed, August 06 09:00AM AEST |
 
 ### Indy Pro 2000 PM-18
 
@@ -207,8 +207,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Grand Prix Series Season 7 |20 |1450 | |Red Bull Ring |Mon, July 28 08:00PM EDT |Tue, July 29 01:00AM BST |Tue, July 29 10:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Grand Prix Series Season 7 |22 |1465 | |Autodromo Nazionale Monza |Mon, August 04 08:00PM EDT |Tue, August 05 01:00AM BST |Tue, August 05 10:00AM AEST |
 
 ### Pro Mazda
 
@@ -227,18 +227,18 @@
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B Formula Ford Challenge |80 |2335 |Both | | | | |
 |[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |2025 S2 |71 |3262 |Open | | | | |
 |[FF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=9555){:target="_blank"} |2025S3 WW FF1600 |52 |3238 |Open | | | | |
-|[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRSCCA RAY 1600 SUMMER 2025 |37 |1697 |Both |Charlotte Motor Speedway |Mon, July 28 07:00PM EDT |Tue, July 29 12:00AM BST |Tue, July 29 09:00AM AEST |
+|[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRSCCA RAY 1600 SUMMER 2025 |38 |1697 |Both |Charlotte Motor Speedway |Tue, July 29 07:00PM EDT |Wed, July 30 12:00AM BST |Wed, July 30 09:00AM AEST |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2025 S2 Academy |34 |1578 |Both | | | | |
 |[Sim Racers Group Tuesday Rookie](https://members.iracing.com/membersite/member/LeagueView.do?league=11455){:target="_blank"} |2025 S2 |33 |1403 |Fixed | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025C Formula Ford Challenge \- Spreyton Ciders |31 |2303 |Both |Summit Point Raceway |Fri, August 01 04:20AM EDT |Fri, August 01 09:20AM BST |Fri, August 01 06:20PM AEST |
 |[HPR SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10208){:target="_blank"} |FF1600 season 5 |29 |1612 |Open | | | | |
 |[Sim Racers Group Tuesday Rookie](https://members.iracing.com/membersite/member/LeagueView.do?league=11455){:target="_blank"} |2025 S3 |25 |1356 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, July 29 10:48PM EDT |Wed, July 30 03:48AM BST |Wed, July 30 12:48PM AEST |
-|[F1BC Formula 1600](https://members.iracing.com/membersite/member/LeagueView.do?league=9741){:target="_blank"} |Formula 1600 2025/2 |25 |2356 | | | | | |
 |[OZICAR Formula Ford](https://members.iracing.com/membersite/member/LeagueView.do?league=9524){:target="_blank"} |Season 6 USA Classic |25 |2439 | | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S2 Tuesday FF1600 |22 |1910 |Both | | | | |
 |[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |Season 2 \- 2025\-VRG Formula Ford Vapaa Challenge Series |13 |1779 |Fixed | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2025\-S3 Tuesday Ray FF1600 |12 |1991 |Both |Long Beach Street Circuit |Tue, July 29 07:00PM EDT |Wed, July 30 12:00AM BST |Wed, July 30 09:00AM AEST |
 |[24 Hour Karty People](https://members.iracing.com/membersite/member/LeagueView.do?league=12875){:target="_blank"} |Season 1: Ray 1600 |11 |1990 | |WeatherTech Raceway at Laguna Seca |Tue, July 29 08:00PM EDT |Wed, July 30 01:00AM BST |Wed, July 30 10:00AM AEST |
+|[PCA NER Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3847){:target="_blank"} |2025 Summer FF/F4 |11 |2006 |Fixed |Long Beach Street Circuit |Mon, August 04 08:00PM EDT |Tue, August 05 01:00AM BST |Tue, August 05 10:00AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 Ray 1600 Season 1 |10 |1322 | |Lime Rock Park |Thu, July 31 09:00PM EDT |Fri, August 01 02:00AM BST |Fri, August 01 11:00AM AEST |
 
 ### Skip Barber Race Series
@@ -246,9 +246,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|--------------------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-------------|--------|------|------|
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Saison 31 |43 |3317 |Both | | | | |
-|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Saison 32 |40 |3150 |Both |Autódromo José Carlos Pace |Mon, July 28 02:00PM EDT |Mon, July 28 07:00PM BST |Tue, July 29 04:00AM AEST |
+|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Saison 32 |43 |3149 |Both | | | | |
 |[Skip Barber Community Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=9160){:target="_blank"} |SBCT Spring 2025 |38 |4299 |Open | | | | |
 |[Sunday Night Skip Barber](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |Sunday Night Skippy Season 22 |33 |3526 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- Formula 2000 \(2025\) |20 |1420 |Fixed | | | | |
@@ -259,29 +259,28 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------|----|-----|--------------------------------|--------------------------|--------------------------|---------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025B WnS Super Formula Lights \- Spreyton Ciders |71 |2956 |Both | | | | |
-|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S14 WCR Super Formula Lights Monday by Trophi\.ai |50 |1971 |Open |Road America |Mon, July 28 09:00PM EDT |Tue, July 29 02:00AM BST |Tue, July 29 11:00AM AEST |
+|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S14 WCR Super Formula Lights Monday by Trophi\.ai |50 |1969 |Open |Circuit de Nevers Magny-Cours |Mon, August 04 09:00PM EDT |Tue, August 05 02:00AM BST |Tue, August 05 11:00AM AEST |
 |[Limit of Adhesion](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 11 \- Super Formula Light |46 |1977 |Both | | | | |
 |[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 12 |42 |2133 |Fixed | | | | |
 |[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |Open Wheel Season 3 \- SFL |39 |1559 |Open | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 34 Super Formula Lights |37 |1788 |Fixed | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S13 \- Justin Loyear SFL Wednesday |36 |1851 |Open | | | | |
 |[SR4S • Super Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |SR4S Spring 2025 Super Formula Light Championship |34 |2293 |Fixed | | | | |
-|[FDL \- SFL Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11833){:target="_blank"} |SFLS3 Official Practice |30 |None | |Detroit Grand Prix at Belle Isle |Mon, July 28 04:30AM EDT |Mon, July 28 09:30AM BST |Mon, July 28 06:30PM AEST |
+|[FDL \- SFL Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11833){:target="_blank"} |SFLS3 Official Practice |33 |None | | | | | |
 |[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR SFL Championship Season 2 |28 |2057 |Both | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 35 \- Super Formula Lights |28 |1834 |Fixed |Circuit de Nevers Magny-Cours |Wed, July 30 02:30PM EDT |Wed, July 30 07:30PM BST |Thu, July 31 04:30AM AEST |
 |[Grass Roots Racing \- SFL](https://members.iracing.com/membersite/member/LeagueView.do?league=12446){:target="_blank"} |GRR SFL Season 1 |27 |1763 |Fixed | | | | |
+|[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |SFL Season 4 |27 |1773 |Open |Circuito de Navarra |Mon, August 04 09:00PM EDT |Tue, August 05 02:00AM BST |Tue, August 05 11:00AM AEST |
 |[SFL Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=12525){:target="_blank"} |SFL Community League Inaugural Season |26 |2215 |Open | | | | |
 |[Elbows Out Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9914){:target="_blank"} |Super Formula Lights // 2025 Season 3 |26 |1770 |Open |Tsukuba Circuit |Fri, August 01 07:40PM EDT |Sat, August 02 12:40AM BST |Sat, August 02 09:40AM AEST |
-|[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |SFL Season 4 |25 |1726 |Open |Circuito de Navarra |Mon, August 04 09:00PM EDT |Tue, August 05 02:00AM BST |Tue, August 05 11:00AM AEST |
 |[Savage Sim Racing SFL League](https://members.iracing.com/membersite/member/LeagueView.do?league=12519){:target="_blank"} |SFL Season 1 |23 |1552 |Fixed |Circuit of the Americas |Tue, July 29 07:00PM EDT |Wed, July 30 12:00AM BST |Wed, July 30 09:00AM AEST |
-|[CAS \- Super Formula Lights Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10716){:target="_blank"} |CAS \- Super Formula Lights Cup 5th Season |18 |1479 |Fixed | | | | |
 |[Grass Roots Racing \- SFL](https://members.iracing.com/membersite/member/LeagueView.do?league=12446){:target="_blank"} |GRR Season 2 Super Formula Lights \- Fixed |17 |1552 |Fixed | | | | |
 |[RSS Super Formula Lights Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12485){:target="_blank"} |RSS Super Formula Lights Championship |15 |3862 | | | | | |
-|[GM PDT Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6251){:target="_blank"} |Drive to Survive \- PDT Edition |14 |1963 | | | | | |
+|[GM PDT Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6251){:target="_blank"} |Drive to Survive \- PDT Edition |14 |1963 | |Red Bull Ring |Tue, August 05 08:00PM EDT |Wed, August 06 01:00AM BST |Wed, August 06 10:00AM AEST |
 |[IFF Formula League](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |Superformula Light Season 1 |14 |1881 | | | | | |
-|[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |2025 SFL Formula One Season |13 |1960 | |Hungaroring |Wed, July 30 07:30PM EDT |Thu, July 31 12:30AM BST |Thu, July 31 09:30AM AEST |
+|[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |2025 SFL Formula One Season |13 |1971 | |Hungaroring |Wed, July 30 07:30PM EDT |Thu, July 31 12:30AM BST |Thu, July 31 09:30AM AEST |
 |[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |Formula None World Tour Season 2 |13 |1452 | | | | | |
 |[Light Speed Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8427){:target="_blank"} |Single Seater Saturday \(super formula light\) |12 |1141 |Both | | | | |
 |[ALPHA ONE RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11865){:target="_blank"} |Alpha One Titan Series \[Super Formula Lights\] Summer Season Shootout |10 |1601 |Both |Okayama International Circuit |Sun, August 03 06:45PM EDT |Sun, August 03 11:45PM BST |Mon, August 04 08:45AM AEST |
@@ -294,16 +293,16 @@
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025C WnS Super Formula SF23 \- Spreyton Ciders |57 |2660 |Both |Hungaroring |Fri, August 01 05:47AM EDT |Fri, August 01 10:47AM BST |Fri, August 01 07:47PM AEST |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 25S2 \- Super Formula Tournament |52 |2728 |Open | | | | |
-|[Formula Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10300){:target="_blank"} |GoSquadra Formula Super Series Season 3 |41 |2670 |Fixed | | | | |
+|[Formula Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10300){:target="_blank"} |GoSquadra Formula Super Series Season 3 |43 |2679 |Fixed | | | | |
 |[League Zero \- Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season XV |40 |2448 |Fixed |Circuit de Nevers Magny-Cours |Thu, July 31 08:00PM EDT |Fri, August 01 01:00AM BST |Fri, August 01 10:00AM AEST |
 |[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |Super Formula \- Season 4 |19 |2610 |Open | | | | |
 |[Barely Fast Enough Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12571){:target="_blank"} |Super Formula SF23 Championship \- Season 1 |17 |2587 |Open | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Super Formula Series |15 |1430 |Fixed | | | | |
+|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} |Super Formula |11 |1526 | |Hungaroring |Mon, August 04 09:00PM EDT |Tue, August 05 02:00AM BST |Tue, August 05 11:00AM AEST |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.3 スプリント① |10 |4084 | | | | | |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.3 総合予選 |10 |None | | | | | |
 |[Scorpion Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=12685){:target="_blank"} |SFL S1 |10 |1754 |Open | | | | |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |Rd\.3 確認ホスト SF\-もてぎ |10 |None | | | | | |
-|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} |Super Formula |10 |1522 | |Circuit de Spa-Francorchamps |Mon, July 28 09:00PM EDT |Tue, July 29 02:00AM BST |Tue, July 29 11:00AM AEST |
 
 ### Super Formula SF23 - Toyota
 
