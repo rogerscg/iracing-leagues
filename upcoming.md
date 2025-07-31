@@ -5,14 +5,6 @@
 
 # NASCAR
 
-### ARCA
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-----|-----------------------|------------------------|------------------------|-------------------------|
-|[MMR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12940){:target="_blank"} |ARCA |Fixed |Talladega Superspeedway |Wed, July 30 08:20PM EDT |Thu, July 31 01:20AM BST |Thu, July 31 10:20AM AEST |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -35,8 +27,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------|-----|---------------------|--------------------------|--------------------------|---------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
 |[Shake & Bake Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12406){:target="_blank"} |Season 2 |Open |South Boston Speedway |Tue, August 05 08:30PM EDT |Wed, August 06 01:30AM BST |Wed, August 06 10:30AM AEST |
+|[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=12340){:target="_blank"} |SEASON 2 \- New Gen | |Michigan International Speedway |Thu, August 07 08:29PM EDT |Fri, August 08 01:29AM BST |Fri, August 08 10:29AM AEST |
+|[RBRL \- Rust Bucket Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12309){:target="_blank"} |NextGen 2025 Season 2 |Fixed |Daytona International Speedway |Wed, August 06 07:30PM EDT |Thu, August 07 12:30AM BST |Thu, August 07 09:30AM AEST |
 
 ### NASCAR Cup
 
@@ -69,8 +63,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|----------------------|--------------------------|--------------------------|---------------------------|
-|[Furniture Mart Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |FMWS 2025 Season 2 \- Late Model Tour |Fixed |Five Flags Speedway |Wed, July 30 08:30PM EDT |Thu, July 31 01:30AM BST |Thu, July 31 10:30AM AEST |
+|----------------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------|--------------------------|--------------------------|---------------------------|
 |[GMRL Late Model Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=12909){:target="_blank"} |Gmrl Late Model Stock Season 1 |Fixed |Hickory Motor Speedway |Tue, August 05 07:30PM EDT |Wed, August 06 12:30AM BST |Wed, August 06 09:30AM AEST |
 |[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |2025 Late Model Stock Series |Fixed |Martinsville Speedway |Fri, August 01 08:45PM EDT |Sat, August 02 01:45AM BST |Sat, August 02 10:45AM AEST |
 
@@ -83,6 +76,22 @@
 |[Kawczynski iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12977){:target="_blank"} |Kawczynski iRacing \| Mini Stock S1 |Fixed |Charlotte Motor Speedway |Sat, August 02 04:45PM EDT |Sat, August 02 09:45PM BST |Sun, August 03 06:45AM AEST |
 
 # Open-wheel
+
+### Lotus 79
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|-----------------|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
+|[1RebelRacing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6506){:target="_blank"} |fucked up fridays | |Michigan International Speedway |Fri, August 01 08:30PM EDT |Sat, August 02 01:30AM BST |Sat, August 02 10:30AM AEST |
+
+### Ray FF1600
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|[\(Unofficial\) The Track at Asheville Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11686){:target="_blank"} |1600 | |WeatherTech Raceway at Laguna Seca |Tue, August 05 07:30PM EDT |Wed, August 06 12:30AM BST |Wed, August 06 09:30AM AEST |
 
 ### Super Formula SF23
 
@@ -147,7 +156,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
-|[Manual Brasil E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=12935){:target="_blank"} |Clube de Pilotos \| SEASON 1 \| GT3 \- 2025 |Fixed |Okayama International Circuit |Wed, July 30 06:15PM EDT |Wed, July 30 11:15PM BST |Thu, July 31 08:15AM AEST |
+|---------------------------------------------------------------------------------------------------------------|------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Season 7 GT3 |Both |Sebring International Raceway |Sun, August 03 07:30PM EDT |Mon, August 04 12:30AM BST |Mon, August 04 09:30AM AEST |
 
