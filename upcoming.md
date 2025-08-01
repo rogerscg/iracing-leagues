@@ -5,6 +5,14 @@
 
 # NASCAR
 
+### ARCA
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[The Rebel Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12398){:target="_blank"} |ARCA Season 2 |Fixed |Daytona International Speedway |Fri, August 08 09:00PM EDT |Sat, August 09 02:00AM BST |Sat, August 09 11:00AM AEST |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -28,9 +36,10 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
-|[Shake & Bake Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12406){:target="_blank"} |Season 2 |Open |South Boston Speedway |Tue, August 05 08:30PM EDT |Wed, August 06 01:30AM BST |Wed, August 06 10:30AM AEST |
+|[Shake & Bake Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12406){:target="_blank"} |Season 2 |Open |South Boston Speedway |Mon, August 04 08:30PM EDT |Tue, August 05 01:30AM BST |Tue, August 05 10:30AM AEST |
 |[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=12340){:target="_blank"} |SEASON 2 \- New Gen | |Michigan International Speedway |Thu, August 07 08:29PM EDT |Fri, August 08 01:29AM BST |Fri, August 08 10:29AM AEST |
 |[RBRL \- Rust Bucket Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12309){:target="_blank"} |NextGen 2025 Season 2 |Fixed |Daytona International Speedway |Wed, August 06 07:30PM EDT |Thu, August 07 12:30AM BST |Thu, August 07 09:30AM AEST |
+|[Vantage iRacing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10859){:target="_blank"} |Vantage Pro Series S3 |Fixed |Daytona International Speedway |Fri, August 08 07:30PM EDT |Sat, August 09 12:30AM BST |Sat, August 09 09:30AM AEST |
 
 ### NASCAR Cup
 
@@ -45,18 +54,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------|-----|-----------------------|------------------------|--------------------------|---------------------------|
-|[Moonlight Racing League MRL Thursday Thriller Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9419){:target="_blank"} |Season 6 |Fixed |Nashville Superspeedway |Thu, July 31 08:00PM EDT |Fri, August 01 01:00AM BST |Fri, August 01 10:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|--------------------------|--------------------------|--------------------------|---------------------------|
+|[PAC SUNDAY PRACTICE/RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=11169){:target="_blank"} |SUNDAY FUNDAY | |Watkins Glen International |Sun, August 03 08:30PM EDT |Mon, August 04 01:30AM BST |Mon, August 04 10:30AM AEST |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Eternity Trucks August 2025 Championship | |Iowa Speedway |Mon, August 04 09:00PM EDT |Tue, August 05 02:00AM BST |Tue, August 05 11:00AM AEST |
 
-# Oval
-
-### Hosted All Cars Class
+### XFINITY Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------------------|------------------------|--------------------------|---------------------------|
-|[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=10069){:target="_blank"} |street stock series | |Michigan International Speedway |Thu, July 31 07:00PM EDT |Fri, August 01 12:00AM BST |Fri, August 01 09:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------|-------------|-----|------------------|--------------------------|--------------------------|---------------------------|
+|[Saturday Night Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7102){:target="_blank"} |2025 Season B |Fixed |Auto Club Speedway |Sat, August 02 07:00PM EDT |Sun, August 03 12:00AM BST |Sun, August 03 09:00AM AEST |
+
+# Oval
 
 ### Late Model Stock
 
@@ -77,21 +87,30 @@
 
 # Open-wheel
 
+### Dallara IR18
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|---------------------------|--------------------------|--------------------------|---------------------------|
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCars August 2025 Championship | |Indianapolis Motor Speedway |Sat, August 02 11:00AM EDT |Sat, August 02 04:00PM BST |Sun, August 03 01:00AM AEST |
+
 ### Lotus 79
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|-----------------|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
-|[1RebelRacing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6506){:target="_blank"} |fucked up fridays | |Michigan International Speedway |Fri, August 01 08:30PM EDT |Sat, August 02 01:30AM BST |Sat, August 02 10:30AM AEST |
+|[1RebelRacing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6506){:target="_blank"} |fucked up fridays | |Michigan International Speedway |Fri, August 01 08:00PM EDT |Sat, August 02 01:00AM BST |Sat, August 02 10:00AM AEST |
 
 ### Ray FF1600
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[\(Unofficial\) The Track at Asheville Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11686){:target="_blank"} |1600 | |WeatherTech Raceway at Laguna Seca |Tue, August 05 07:30PM EDT |Wed, August 06 12:30AM BST |Wed, August 06 09:30AM AEST |
+|[Race Relax\.ltd\.](https://members.iracing.com/membersite/member/LeagueView.do?league=12996){:target="_blank"} |1600 fix |Both |Circuito de Navarra |Sat, August 02 04:00PM EDT |Sat, August 02 09:00PM BST |Sun, August 03 06:00AM AEST |
 
 ### Super Formula SF23
 
@@ -108,8 +127,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------|--------------------------|--------------------------|---------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|---------------|--------------------------|--------------------------|---------------------------|
 |[Super\-High Intensity Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9997){:target="_blank"} |Subpar Motorsports Road Series \- S1 |Fixed |Road Atlanta |Fri, August 01 07:00PM EDT |Sat, August 02 12:00AM BST |Sat, August 02 09:00AM AEST |
+|[Next Level Racing Circuit Attack Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12989){:target="_blank"} |2025 Circuit Attack Championship |Fixed |Tsukuba Circuit |Fri, August 01 07:00PM EDT |Sat, August 02 12:00AM BST |Sat, August 02 09:00AM AEST |
 
 # Prototype
 
@@ -121,16 +141,6 @@
 |----------------------------------------------------------------------------------------------------------|-----------|-----|------------------------------------|--------------------------|--------------------------|---------------------------|
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy | |Autodromo Internazionale del Mugello |Fri, August 01 03:58PM EDT |Fri, August 01 08:58PM BST |Sat, August 02 05:58AM AEST |
 
-# Road
-
-### BMW M2 CS Racing
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-------|-----|---------------------|------------------------|------------------------|---------------------------|
-|[ADAC SimRacing Cup \- Clubsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10120){:target="_blank"} |2025 S2 |Fixed |Rudskogen Motorsenter |Thu, July 31 12:00PM EDT |Thu, July 31 05:00PM BST |Fri, August 01 02:00AM AEST |
-
 # Dirt Oval
 
 ### Dirt Late Model - Pro
@@ -140,14 +150,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------------------------------|-----|-----------------|--------------------------|--------------------------|---------------------------|
 |[DCM Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12753){:target="_blank"} |Monday Night Dirt\- DCM Racing | |Knoxville Raceway |Mon, August 04 08:00PM EDT |Tue, August 05 01:00AM BST |Tue, August 05 10:00AM AEST |
-
-### Dirt Late Model - Super
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-----------------------|------------------------|--------------------------|---------------------------|
-|[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2025 Turn2Terribles Super Late Model Series |Open |Williams Grove Speedway |Thu, July 31 09:00PM EDT |Fri, August 01 02:00AM BST |Fri, August 01 11:00AM AEST |
 
 # Multi-class/Unclassified
 
