@@ -10,7 +10,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|---------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[Midwest Elite Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12795){:target="_blank"} |MER ARCA FALL 25 SERIES |Fixed |Daytona International Speedway |Sun, August 10 08:30PM EDT |Mon, August 11 01:30AM BST |Mon, August 11 10:30AM AEST |
 |[The Rebel Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12398){:target="_blank"} |ARCA Season 2 |Fixed |Daytona International Speedway |Fri, August 08 09:00PM EDT |Sat, August 09 02:00AM BST |Sat, August 09 11:00AM AEST |
 
 ### Hosted All Cars Class
@@ -26,8 +27,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|---------------------------|--------------------------|--------------------------|---------------------------|
-|[The Rebel Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12398){:target="_blank"} |Nascar Gen 4 Season 1 |Fixed |EchoPark Speedway (Atlanta) |Sun, August 03 09:00PM EDT |Mon, August 04 02:00AM BST |Mon, August 04 11:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|------------------------|--------------------------|--------------------------|---------------------------|
 |[Texas Speed Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12871){:target="_blank"} |Texas Speed Tuesday Night Shootout | |Charlotte Motor Speedway |Tue, August 05 09:00PM EDT |Wed, August 06 02:00AM BST |Wed, August 06 11:00AM AEST |
 
 ### NASCAR 2022 NextGen
@@ -58,15 +58,15 @@
 |[PAC SUNDAY PRACTICE/RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=11169){:target="_blank"} |SUNDAY FUNDAY | |Watkins Glen International |Sun, August 03 08:30PM EDT |Mon, August 04 01:30AM BST |Mon, August 04 10:30AM AEST |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Eternity Trucks August 2025 Championship | |Iowa Speedway |Mon, August 04 09:00PM EDT |Tue, August 05 02:00AM BST |Tue, August 05 11:00AM AEST |
 
-### XFINITY Series
+# Oval
+
+### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------|-----|------------------|--------------------------|--------------------------|---------------------------|
-|[Saturday Night Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7102){:target="_blank"} |2025 Season B |Fixed |Auto Club Speedway |Sat, August 02 07:00PM EDT |Sun, August 03 12:00AM BST |Sun, August 03 09:00AM AEST |
-
-# Oval
+|--------------------------------------------------------------------------------------------------------------------|-------------------|-----|------------------------|--------------------------|--------------------------|---------------------------|
+|[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=10069){:target="_blank"} |street stock series | |Charlotte Motor Speedway |Thu, August 07 07:00PM EDT |Fri, August 08 12:00AM BST |Fri, August 08 09:00AM AEST |
 
 ### Late Model Stock
 
@@ -75,42 +75,16 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------|--------------------------|--------------------------|---------------------------|
 |[GMRL Late Model Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=12909){:target="_blank"} |Gmrl Late Model Stock Season 1 |Fixed |Hickory Motor Speedway |Tue, August 05 07:30PM EDT |Wed, August 06 12:30AM BST |Wed, August 06 09:30AM AEST |
-|[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |2025 Late Model Stock Series |Fixed |Martinsville Speedway |Fri, August 01 08:45PM EDT |Sat, August 02 01:45AM BST |Sat, August 02 10:45AM AEST |
-
-### Mini Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|------------------------|--------------------------|--------------------------|---------------------------|
-|[Kawczynski iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12977){:target="_blank"} |Kawczynski iRacing \| Mini Stock S1 |Fixed |Charlotte Motor Speedway |Sat, August 02 04:45PM EDT |Sat, August 02 09:45PM BST |Sun, August 03 06:45AM AEST |
 
 # Open-wheel
-
-### Dallara IR18
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|---------------------------|--------------------------|--------------------------|---------------------------|
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCars August 2025 Championship | |Indianapolis Motor Speedway |Sat, August 02 11:00AM EDT |Sat, August 02 04:00PM BST |Sun, August 03 01:00AM AEST |
-
-### Lotus 79
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-----------------|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
-|[1RebelRacing Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6506){:target="_blank"} |fucked up fridays | |Michigan International Speedway |Fri, August 01 08:00PM EDT |Sat, August 02 01:00AM BST |Sat, August 02 10:00AM AEST |
 
 ### Ray FF1600
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------------|------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[\(Unofficial\) The Track at Asheville Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11686){:target="_blank"} |1600 | |WeatherTech Raceway at Laguna Seca |Tue, August 05 07:30PM EDT |Wed, August 06 12:30AM BST |Wed, August 06 09:30AM AEST |
-|[Race Relax\.ltd\.](https://members.iracing.com/membersite/member/LeagueView.do?league=12996){:target="_blank"} |1600 fix |Both |Circuito de Navarra |Sat, August 02 04:00PM EDT |Sat, August 02 09:00PM BST |Sun, August 03 06:00AM AEST |
 
 ### Super Formula SF23
 
@@ -122,24 +96,13 @@
 
 # Sports Car
 
-### Toyota GR86
+### McLaren 720S GT3 EVO
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|---------------|--------------------------|--------------------------|---------------------------|
-|[Super\-High Intensity Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9997){:target="_blank"} |Subpar Motorsports Road Series \- S1 |Fixed |Road Atlanta |Fri, August 01 07:00PM EDT |Sat, August 02 12:00AM BST |Sat, August 02 09:00AM AEST |
-|[Next Level Racing Circuit Attack Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12989){:target="_blank"} |2025 Circuit Attack Championship |Fixed |Tsukuba Circuit |Fri, August 01 07:00PM EDT |Sat, August 02 12:00AM BST |Sat, August 02 09:00AM AEST |
-
-# Prototype
-
-### Ligier JS P320
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|-----------|-----|------------------------------------|--------------------------|--------------------------|---------------------------|
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy | |Autodromo Internazionale del Mugello |Fri, August 01 03:58PM EDT |Fri, August 01 08:58PM BST |Sat, August 02 05:58AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------|--------------------------|--------------------------|---------------------------|
+|[Four\-Nations Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11318){:target="_blank"} |2025 Four\-Nations Esports Cup | |Mount Panorama Circuit |Sun, August 03 03:00AM EDT |Sun, August 03 08:00AM BST |Sun, August 03 05:00PM AEST |
 
 # Dirt Oval
 
@@ -160,4 +123,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Season 7 GT3 |Both |Sebring International Raceway |Sun, August 03 07:30PM EDT |Mon, August 04 12:30AM BST |Mon, August 04 09:30AM AEST |
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[Front Runners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12611){:target="_blank"} |Checkered Crown Championship \- Fall 2025 |Fixed |Daytona International Speedway |Sun, August 10 08:00PM EDT |Mon, August 11 01:00AM BST |Mon, August 11 10:00AM AEST |
+|[Bandit Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12991){:target="_blank"} |2025 Summer Legends Challenge |Fixed |Lanier National Speedway |Tue, August 05 05:30PM EDT |Tue, August 05 10:30PM BST |Wed, August 06 07:30AM AEST |
+|[NIECECAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11143){:target="_blank"} |NIECECAR Season 5 | |Daytona International Speedway |Mon, August 04 07:00PM EDT |Tue, August 05 12:00AM BST |Tue, August 05 09:00AM AEST |
 
