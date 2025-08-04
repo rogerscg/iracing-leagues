@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Flynas Car](https://members.iracing.com/membersite/member/LeagueView.do?league=12957){:target="_blank"} | |F&F |
-|[GT Sim](https://members.iracing.com/membersite/member/LeagueView.do?league=12958){:target="_blank"} | |GT Sim |
 |[Fédération Internet de l'Automobile](https://members.iracing.com/membersite/member/LeagueView.do?league=12962){:target="_blank"} | | |
 |[Gaslight Racing League LMSC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12961){:target="_blank"} | |LMSC Series |
 |[Green Flag Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12959){:target="_blank"} |[Discord](https://discord.gg/py3fCsvQdV){:target="_blank"} |Weekly League Races & Community Events |
@@ -53,7 +51,13 @@
 |[\#0 Clean Racing League Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13009){:target="_blank"} | |A non\-toxic, high talent level environment to compete against the best that do it\. Car Type\= Xfinity Car// Races on Tuesday Nights at 8:30pm eastern, Practice Sessions open at 7:00pm eastern\. Fixed Setup |
 |[EIRCA Late Model Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13010){:target="_blank"} | |For dedicated short track racers and drivers looking to get experience before moving into a faster series\. |
 |[Motorsport Simworld 1](https://members.iracing.com/membersite/member/LeagueView.do?league=13005){:target="_blank"} | |Simworld GT3 League |
-|[Showtime Nascar Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13008){:target="_blank"} | |Next Gen League using all real teams of today and the past we are looking for a full field of 40 drivers |
+|[Showtime Nascar Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13008){:target="_blank"} | |Nascar Cup League using all real teams of today and the past we are looking for a full field of 40 drivers |
 |[Boomshine Syndicate](https://members.iracing.com/membersite/member/LeagueView.do?league=13007){:target="_blank"} | |Currently recruiting beginners and amateurs\. Casual racing league for dirt and asphalt ovals\. Cars will vary from season to season, ranging from the NASCAR next gen, to sprint cars, late models, mini stocks, and more\. CLEAN racing only or get kicked\. |
 |[DBAD RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=13006){:target="_blank"} | | |
+|[Dinoco Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=13013){:target="_blank"} | | |
+|[iRacing NASCAR Logitech Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13016){:target="_blank"} | |NASCAR Truck Series league by Logitech\. D Class license minimum\! |
+|[Late night Rubbin](https://members.iracing.com/membersite/member/LeagueView.do?league=13014){:target="_blank"} | |weekly night CLEAN racing |
+|[TC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13012){:target="_blank"} | |Liga para pilotos da equipe onde faremos treinos e corridas da equipe |
+|[DWR Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13011){:target="_blank"} | |The HUB for all DARK WING RACING Events\. Whether they're Charity Races, Challenges or one off Enduros\. This is where you will find it\. |
+|[Solana Gran Prix](https://members.iracing.com/membersite/member/LeagueView.do?league=13015){:target="_blank"} | |The first ever Solana Gran Prix |
 
