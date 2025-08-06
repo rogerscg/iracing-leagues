@@ -11,9 +11,9 @@
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |23 |1713 |Open |Daytona International Speedway |Fri, August 08 08:20PM EDT |Sat, August 09 01:20AM BST |Sat, August 09 10:20AM AEST |
 |[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 1 FRIDAY NITE LMP2 SERIES |21 |1580 |Both | | | | |
+|[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR LMP2 |16 |1622 |Open |Circuit des 24 Heures du Mans |Tue, August 12 03:00PM EDT |Tue, August 12 08:00PM BST |Wed, August 13 05:00AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |15 |2132 |Open |Circuit des 24 Heures du Mans |Wed, August 06 07:30PM EDT |Thu, August 07 12:30AM BST |Thu, August 07 09:30AM AEST |
 |[ORNL\.nl Woensdag 2](https://members.iracing.com/membersite/member/LeagueView.do?league=5805){:target="_blank"} |ORNL LMP2 Prototype Challenge '25 |13 |2460 |Both | | | | |
-|[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR LMP2 |12 |1666 |Open |Silverstone Circuit |Tue, August 05 03:00PM EDT |Tue, August 05 08:00PM BST |Wed, August 06 05:00AM AEST |
 
 ### GTP
 
@@ -39,23 +39,23 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|--------------------------------------------|--------------------------|--------------------------|---------------------------|
+|----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2025 Abruzzi Prototype Challenge |45 |2498 | | | | | |
 |[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 3 |20 |3118 |Open |Suzuka International Racing Course |Thu, August 07 02:15PM EDT |Thu, August 07 07:15PM BST |Fri, August 08 04:15AM AEST |
-|[SRFD Central PA Division](https://members.iracing.com/membersite/member/LeagueView.do?league=10390){:target="_blank"} |Radical World of Racing |10 |1398 |Fixed |Autodromo Internazionale Enzo e Dino Ferrari |Tue, August 05 09:00PM EDT |Wed, August 06 02:00AM BST |Wed, August 06 11:00AM AEST |
+|[SRFD Central PA Division](https://members.iracing.com/membersite/member/LeagueView.do?league=10390){:target="_blank"} |Radical World of Racing |10 |1396 |Fixed |Fuji International Speedway |Tue, August 12 09:00PM EDT |Wed, August 13 02:00AM BST |Wed, August 13 11:00AM AEST |
 
 ### Ligier JS P320
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|--------------------------|--------------------------|--------------------------|---------------------------|
+|--------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------------------|--------------------------|--------------------------|---------------------------|
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- PRO |21 |2331 | | | | | |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy |19 |2112 | |Circuit Gilles Villeneuve |Fri, August 08 03:58PM EDT |Fri, August 08 08:58PM BST |Sat, August 09 05:58AM AEST |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |LMP3 \- SILVER |17 |1435 | | | | | |
 |[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC LMP3 \- Season 3 |12 |1822 |Open | | | | |
 |[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1947 |Open | | | | |
-|[NoBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} |LMP3 NoBS season 1 |10 |1977 |Fixed |Watkins Glen International |Tue, August 05 08:45PM EDT |Wed, August 06 01:45AM BST |Wed, August 06 10:45AM AEST |
+|[NoBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} |LMP3 NoBS season 1 |11 |1969 |Fixed | | | | |
 
 ### Radical SR10
 
