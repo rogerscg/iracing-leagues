@@ -61,4 +61,7 @@
 |[NMA E\-Sports Rookies & Rock Stars](https://members.iracing.com/membersite/member/LeagueView.do?league=13024){:target="_blank"} | |Racing in the cheap seats \- Freebies only, all season\! |
 |[TeeZer Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13025){:target="_blank"} | |Casual racing, mostly oval tracks\. New drivers welcome\. Friday evenings Eastern time zone multiple matchups\. |
 |[Texas Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13026){:target="_blank"} |[Discord](https://discord.com/channels/1402447077589516404/1402447079275761725){:target="_blank"} |NASCAR 2 NIGHTS A WEEK |
+|[Jermainia Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13029){:target="_blank"} | |JCS S1 |
+|[Northwest Dirt Track Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=13031){:target="_blank"} | |Racers from Oregon, Washington and Idaho |
+|[Quickshift & Chill Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=13032){:target="_blank"} | |Upcoming races for Coopers Birthday |
 
