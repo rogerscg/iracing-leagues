@@ -10,9 +10,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Midwest Elite Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12795){:target="_blank"} |MER ARCA FALL 25 SERIES |Fixed |Daytona International Speedway |Sun, August 10 08:30PM EDT |Mon, August 11 01:30AM BST |Mon, August 11 10:30AM AEST |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |ARCA Monday Madness Season 4 |Fixed |Daytona International Speedway |Mon, August 11 07:30PM EDT |Tue, August 12 12:30AM BST |Tue, August 12 09:30AM AEST |
+|[Groburkchan Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=9778){:target="_blank"} |ARCA \- Season 1 | |USA International Speedway |Sun, August 10 12:00PM EDT |Sun, August 10 05:00PM BST |Mon, August 11 02:00AM AEST |
 
 ### NASCAR 2003 Gen 4
 
@@ -28,8 +29,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[FSRA \- Full Send Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7414){:target="_blank"} |Season 8 \(Next Gen\) |Fixed |Homestead Miami Speedway |Wed, August 13 08:45PM EDT |Thu, August 14 01:45AM BST |Thu, August 14 10:45AM AEST |
+|[DCM Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12753){:target="_blank"} |DCM Fall Cup NASCAR Season | |Daytona International Speedway |Sun, August 17 08:00PM EDT |Mon, August 18 01:00AM BST |Mon, August 18 10:00AM AEST |
 |[DV8 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12804){:target="_blank"} |DV8 Cup series | |Daytona International Speedway |Mon, August 11 08:00PM EDT |Tue, August 12 01:00AM BST |Tue, August 12 10:00AM AEST |
 
 ### NASCAR Cup
@@ -47,6 +49,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|--------------------|-----|-----------------------|--------------------------|--------------------------|---------------------------|
 |[Midwest Thunder Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12902){:target="_blank"} |Midwest Thunder Tour |Fixed |Talladega Superspeedway |Thu, August 14 08:15PM EDT |Fri, August 15 01:15AM BST |Fri, August 15 10:15AM AEST |
+
+### NASCAR Truck Series
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-----------------------|--------------------------|--------------------------|---------------------------|
+|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR Truck Series Fall 2025 |Fixed |Stafford Motor Speedway |Tue, August 12 07:30PM EDT |Wed, August 13 12:30AM BST |Wed, August 13 09:30AM AEST |
 
 ### XFINITY Series
 
@@ -88,6 +98,14 @@
 
 # Sports Car
 
+### Mazda MX-5 Cup 2016
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------|---------|-----|--------------------|--------------------------|--------------------------|---------------------------|
+|[ORNL\.nl Zondag](https://members.iracing.com/membersite/member/LeagueView.do?league=6769){:target="_blank"} |Mazda Cup | |Summit Point Raceway |Sun, August 17 02:00PM EDT |Sun, August 17 07:00PM BST |Mon, August 18 04:00AM AEST |
+
 ### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  
@@ -95,16 +113,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|-----------|-----|--------------------------------|--------------------------|--------------------------|---------------------------|
 |[ADAC SimRacing Cup \- Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7760){:target="_blank"} |Saison 2025 | |Hockenheimring Baden-Württemberg |Tue, August 12 12:25PM EDT |Tue, August 12 05:25PM BST |Wed, August 13 02:25AM AEST |
-
-### Porsche 911 GT3 R (992)
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
-|[SGE Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9399){:target="_blank"} |SGE Challenge Series SPLIT 1 | |Daytona International Speedway |Sat, August 09 11:30AM EDT |Sat, August 09 04:30PM BST |Sun, August 10 01:30AM AEST |
-|[SGE Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9399){:target="_blank"} |SGE Challenge Series SPLIT 2 | |Daytona International Speedway |Sat, August 09 12:30PM EDT |Sat, August 09 05:30PM BST |Sun, August 10 02:30AM AEST |
-|[SGE Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9399){:target="_blank"} |SGE Challenge Series SPLIT 3 | |Daytona International Speedway |Sat, August 09 01:30PM EDT |Sat, August 09 06:30PM BST |Sun, August 10 03:30AM AEST |
 
 # Dirt Oval
 
@@ -131,10 +139,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|-----------------------------------------|--------------------------|--------------------------|---------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Wednesday Night IMSA Series \- S1 |Fixed |Daytona International Speedway |Wed, August 13 08:00PM EDT |Thu, August 14 01:00AM BST |Thu, August 14 10:00AM AEST |
 |[Front Runners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12611){:target="_blank"} |Checkered Crown Championship \- Fall 2025 |Fixed |Daytona International Speedway |Sun, August 10 08:15PM EDT |Mon, August 11 01:15AM BST |Mon, August 11 10:15AM AEST |
 |[Odyssey Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11444){:target="_blank"} |ORL IMSA Sprints |Both |Daytona International Speedway |Mon, August 11 08:00PM EDT |Tue, August 12 01:00AM BST |Tue, August 12 10:00AM AEST |
-|[Battle Scarred eMotorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10456){:target="_blank"} |2025 circle track saturday | |Daytona International Speedway |Sat, August 09 08:00PM EDT |Sun, August 10 01:00AM BST |Sun, August 10 10:00AM AEST |
-|[FTR Events](https://members.iracing.com/membersite/member/LeagueView.do?league=6529){:target="_blank"} |trophi\.ai Endurance Series S7 | |Shell V-Power Motorsport Park at The Bend |Sat, August 09 12:00PM EDT |Sat, August 09 05:00PM BST |Sun, August 10 02:00AM AEST |
+|[League of Extraordinarily Average Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=7272){:target="_blank"} |8\-Summer 2025 | |WeatherTech Raceway at Laguna Seca |Thu, August 14 09:10PM EDT |Fri, August 15 02:10AM BST |Fri, August 15 11:10AM AEST |
 

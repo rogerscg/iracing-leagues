@@ -48,8 +48,8 @@
 |[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S30 |34 |1787 |Fixed | | | | |
 |[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC Late Model Stock Season 1 |31 |1662 |Fixed |Stafford Motor Speedway |Mon, August 11 10:30PM EDT |Tue, August 12 03:30AM BST |Tue, August 12 12:30PM AEST |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Models S11 |30 |2083 |Fixed | | | | |
+|[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S31 |30 |1862 |Fixed | | | | |
 |[SRA\-Southern Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |SRA Late Model Stock Weekly Open Series |30 |2346 |Both |Stafford Motor Speedway |Sun, August 10 07:30PM EDT |Mon, August 11 12:30AM BST |Mon, August 11 09:30AM AEST |
-|[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S31 |29 |1840 |Fixed | | | | |
 |[National Outlaw Racing Association \| \(NORA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12407){:target="_blank"} |Late Model Stock Outlaw Tour |28 |1747 |Fixed |Hickory Motor Speedway |Sun, August 10 09:30PM EDT |Mon, August 11 02:30AM BST |Mon, August 11 11:30AM AEST |
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Wild Wednesday on Asphalt |26 |1578 | |Nashville Fairgrounds Speedway |Wed, August 13 07:45PM EDT |Thu, August 14 12:45AM BST |Thu, August 14 09:45AM AEST |
 |[ROSS DALTON RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10108){:target="_blank"} |RDR LMSC TOUR |26 |2953 | |Langley Speedway |Sun, August 10 09:00PM EDT |Mon, August 11 02:00AM BST |Mon, August 11 11:00AM AEST |
@@ -76,16 +76,15 @@
 |[FR8 Racing & Speed\-U \- Race for a Ride](https://members.iracing.com/membersite/member/LeagueView.do?league=12281){:target="_blank"} |FR8 Racing Race For A Ride \- Presented by Speed\-U |37 |1865 | | | | | |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Tuesdays Legends Season 1 |33 |1638 |Fixed |Oxford Plains Speedway |Tue, August 12 09:00PM EDT |Wed, August 13 02:00AM BST |Wed, August 13 11:00AM AEST |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 5 |28 |2241 |Fixed | | | | |
-|[The Italian Job Simracing ASD \- Indycar Italian Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |The Legend Championship 3rd edition |26 |1944 | | | | | |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |Legends Cup |26 |2108 | | | | | |
 |[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |TDR League of Legends\-Crystal Cup |24 |1741 | | | | | |
 |[FALCONGRAFIX Legends Series powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6409){:target="_blank"} |Season 6 Legend Series |23 |2066 | | | | | |
+|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Legends of the Fall |18 |1826 | | | | | |
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Super Gang |17 |1721 | | | | | |
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Super Gang |17 |1884 | |Five Flags Speedway |Sun, August 10 07:00PM EDT |Mon, August 11 12:00AM BST |Mon, August 11 09:00AM AEST |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Legends Cup |16 |1538 |Both |Homestead Miami Speedway |Mon, August 11 06:00AM EDT |Mon, August 11 11:00AM BST |Mon, August 11 08:00PM AEST |
 |[AOLL Racing's TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4855){:target="_blank"} |2025 Legends Coupe |15 |1286 |Fixed |Bristol Motor Speedway |Thu, August 14 06:00PM EDT |Thu, August 14 11:00PM BST |Fri, August 15 08:00AM AEST |
 |[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HRT2HEART LEGENDS 34 COUPE |15 |1540 |Fixed | | | | |
-|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Legends of the Fall |14 |1862 | |Kevin Harvick's Kern Raceway |Sat, August 09 09:30AM EDT |Sat, August 09 02:30PM BST |Sat, August 09 11:30PM AEST |
 |[FALCONGRAFIX Legends Series powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6409){:target="_blank"} |FG Legends Season 7 2025 |13 |2132 | |Kevin Harvick's Kern Raceway |Tue, August 12 08:00PM EDT |Wed, August 13 01:00AM BST |Wed, August 13 10:00AM AEST |
 |[Sim Racing Syndicate by NCR](https://members.iracing.com/membersite/member/LeagueView.do?league=11356){:target="_blank"} |Sim Racing Syndicate Legends Series 2025 \- S3 |11 |2067 |Fixed |Oulton Park Circuit |Sun, August 10 06:30AM EDT |Sun, August 10 11:30AM BST |Sun, August 10 08:30PM AEST |
 |[Sim ARCA Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12421){:target="_blank"} |JD SWEET CORN LEGENDS |10 |2543 | | | | | |
@@ -102,8 +101,8 @@
 |[CT Mini Stock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12396){:target="_blank"} |mini Stocks |29 |2564 | | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Little Village Proving Grounds Clean Driving series |26 |1424 |Fixed | | | | |
 |[EFRL Dirt Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8578){:target="_blank"} |Falcongrafix Mini Stocks season 6 |22 |1934 | | | | | |
+|[Loose is Fast Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=290){:target="_blank"} |Loose is Fast Podcast \- Mini Stock |15 |1862 |Fixed | | | | |
 |[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Carolina Mini Stock Series |15 |1903 |Both | | | | |
-|[Loose is Fast Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=290){:target="_blank"} |Loose is Fast Podcast \- Mini Stock |14 |1912 |Fixed |Charlotte Motor Speedway |Sat, August 09 08:30PM EDT |Sun, August 10 01:30AM BST |Sun, August 10 10:30AM AEST |
 |[Maniacs Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12819){:target="_blank"} |Maniacs Racing League Season 1 |13 |1557 | | | | | |
 |[Half Decent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12215){:target="_blank"} |Season 3 \| Bang Bangers |13 |1386 |Fixed | | | | |
 
@@ -126,12 +125,12 @@
 |[PINNED](https://members.iracing.com/membersite/member/LeagueView.do?league=12518){:target="_blank"} |Season 1 |29 |2781 |Open |Oxford Plains Speedway |Wed, August 13 07:30PM EDT |Thu, August 14 12:30AM BST |Thu, August 14 09:30AM AEST |
 |[Full Throttle Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10782){:target="_blank"} |king of the quartermiles |27 |2149 | | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |TVR\-Esports Street Stock series 3 |27 |1515 |Fixed |Oswego Speedway |Wed, August 13 08:00PM EDT |Thu, August 14 01:00AM BST |Thu, August 14 10:00AM AEST |
-|[Tube Frame Twisters, The League](https://members.iracing.com/membersite/member/LeagueView.do?league=12787){:target="_blank"} |Tube Frame Twister, The League Inaugural Season |27 |1656 |Open |Okayama International Circuit |Sat, August 09 09:00PM EDT |Sun, August 10 02:00AM BST |Sun, August 10 11:00AM AEST |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Saturday Night Fever street stock series |27 |1328 |Both |Oxford Plains Speedway |Sat, August 09 09:05PM EDT |Sun, August 10 02:05AM BST |Sun, August 10 11:05AM AEST |
+|[Tube Frame Twisters, The League](https://members.iracing.com/membersite/member/LeagueView.do?league=12787){:target="_blank"} |Tube Frame Twister, The League Inaugural Season |27 |1670 |Open |Portland International Raceway |Sat, August 16 08:00PM EDT |Sun, August 17 01:00AM BST |Sun, August 17 10:00AM AEST |
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Saturday Night Fever street stock series |27 |1335 |Both | | | | |
 |[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |SimAbility Street Stock Showdown |27 |1558 | |Five Flags Speedway |Wed, August 13 07:00PM EDT |Thu, August 14 12:00AM BST |Thu, August 14 09:00AM AEST |
-|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Factory Stocks Season 3 |24 |1452 |Both | | | | |
+|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Factory Stocks Season 3 |24 |1452 |Both |Lincoln Speedway |Sun, August 10 07:45PM EDT |Mon, August 11 12:45AM BST |Mon, August 11 09:45AM AEST |
 |[The Pickle Gang League](https://members.iracing.com/membersite/member/LeagueView.do?league=9228){:target="_blank"} |The Pickle Gang Street Stock League Season 1 |23 |1782 |Fixed |EchoPark Speedway (Atlanta) |Tue, August 12 08:00PM EDT |Wed, August 13 01:00AM BST |Wed, August 13 10:00AM AEST |
-|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S34 |22 |1908 |Fixed | | | | |
+|[BRL Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=743){:target="_blank"} |SS S34 |22 |1900 |Fixed | | | | |
 |[RFC](https://members.iracing.com/membersite/member/LeagueView.do?league=2735){:target="_blank"} |2025 Spring RFC "Tigers" |20 |2099 |Fixed | | | | |
 |[iPASS](https://members.iracing.com/membersite/member/LeagueView.do?league=12568){:target="_blank"} |iPASS Street stocks Summer Series |19 |1973 |Both |Oxford Plains Speedway |Mon, August 11 07:30PM EDT |Tue, August 12 12:30AM BST |Tue, August 12 09:30AM AEST |
 |[Furniture Mart Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |FMWS 2025 Season 2 \- Street Stock Series |17 |2595 |Fixed |Southern National Motorsports Park |Wed, August 13 08:30PM EDT |Thu, August 14 01:30AM BST |Thu, August 14 10:30AM AEST |
@@ -139,8 +138,8 @@
 |[EPIC RACING ASSOCIATION \(ERA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9790){:target="_blank"} |Tri\-Track Challenge Series |16 |2233 | |Hickory Motor Speedway |Tue, August 12 08:00PM EDT |Wed, August 13 01:00AM BST |Wed, August 13 10:00AM AEST |
 |[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} |2025 S2 Street Stocks |12 |2947 |Fixed |Rockingham Speedway |Thu, August 14 10:55PM EDT |Fri, August 15 03:55AM BST |Fri, August 15 12:55PM AEST |
 |[SMOKE N TACOS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8349){:target="_blank"} |Street Stocks |12 |1345 |Both | | | | |
+|[Suarez Creations iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12829){:target="_blank"} |Street Stock Series \(Season 1\) |12 |1550 | | | | | |
 |[T\-Ray's Circle Track Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12860){:target="_blank"} |Street Stocks Season 1 |12 |1332 | | | | | |
-|[Suarez Creations iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12829){:target="_blank"} |Street Stock Series \(Season 1\) |11 |1558 | |Oxford Plains Speedway |Sat, August 09 07:00PM EDT |Sun, August 10 12:00AM BST |Sun, August 10 09:00AM AEST |
 
 ### Super Late Model
 
@@ -150,7 +149,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[All Pro Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=208){:target="_blank"} |2025 Super Late |51 |2734 |Fixed |Hickory Motor Speedway |Mon, June 23 07:00PM EDT |Tue, June 24 12:00AM BST |Tue, June 24 09:00AM AEST |
 |[ALL\-STAR Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9161){:target="_blank"} |2025 All Pro Sim Super Series Season |44 |2692 | |Southern National Motorsports Park |Mon, August 11 07:00PM EDT |Tue, August 12 12:00AM BST |Tue, August 12 09:00AM AEST |
-|[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} |Season 2 |38 |3753 |Open | | | | |
+|[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} |Season 2 |38 |3753 |Open |South Boston Speedway |Sun, August 17 07:30PM EDT |Mon, August 18 12:30AM BST |Mon, August 18 09:30AM AEST |
 |[Renegade Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9561){:target="_blank"} |THURSDAY NIGHT THUNDER |34 |1559 |Fixed |Kevin Harvick's Kern Raceway |Thu, August 14 07:00PM EDT |Fri, August 15 12:00AM BST |Fri, August 15 09:00AM AEST |
 |[ARC NASCAR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8792){:target="_blank"} |2025 ARC Late Model Tour |29 |2103 |Fixed | | | | |
 |[Prodigy Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10908){:target="_blank"} |Super Late Model Series｜Season 1 |26 |1787 |Both | | | | |
