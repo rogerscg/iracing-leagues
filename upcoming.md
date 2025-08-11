@@ -10,10 +10,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
-|[Midwest Elite Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12795){:target="_blank"} |MER ARCA FALL 25 SERIES |Fixed |Daytona International Speedway |Sun, August 10 08:30PM EDT |Mon, August 11 01:30AM BST |Mon, August 11 10:30AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |ARCA Monday Madness Season 4 |Fixed |Daytona International Speedway |Mon, August 11 07:30PM EDT |Tue, August 12 12:30AM BST |Tue, August 12 09:30AM AEST |
-|[Groburkchan Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=9778){:target="_blank"} |ARCA \- Season 1 | |USA International Speedway |Sun, August 10 12:00PM EDT |Sun, August 10 05:00PM BST |Mon, August 11 02:00AM AEST |
 
 ### NASCAR 2003 Gen 4
 
@@ -77,6 +75,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[RPES Pavement Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2025 RPES Pavement Ignition Series |Fixed |Thompson Speedway Motorsports Park |Tue, August 12 08:00PM EDT |Wed, August 13 01:00AM BST |Wed, August 13 10:00AM AEST |
+|[Bump N Run Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12915){:target="_blank"} |Practice Season | |Martinsville Speedway |Tue, August 12 08:30PM EDT |Wed, August 13 01:30AM BST |Wed, August 13 10:30AM AEST |
 
 # Open-wheel
 
@@ -95,6 +94,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|----------------------------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Friday Open Wheel IndyCar Season 1 |Fixed |Long Beach Street Circuit |Fri, August 15 07:30PM EDT |Sat, August 16 12:30AM BST |Sat, August 16 09:30AM AEST |
+
+### Super Formula SF23 - Honda
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|[High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Season 1 Super Formula |Both |Suzuka International Racing Course |Mon, August 18 08:00PM EDT |Tue, August 19 01:00AM BST |Tue, August 19 10:00AM AEST |
 
 # Sports Car
 
@@ -121,8 +128,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|--------------------------|--------------------------|--------------------------|---------------------------|
+|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|---------------------------|--------------------------|--------------------------|---------------------------|
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Thursday Night Throwdown \- Dirt \- S1 |Fixed |USA International Speedway |Thu, August 14 08:00PM EDT |Fri, August 15 01:00AM BST |Fri, August 15 10:00AM AEST |
+|[Dirt Trackin' Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=13048){:target="_blank"} |Dream Tour | |The Dirt Track at Charlotte |Wed, August 13 08:30PM EDT |Thu, August 14 01:30AM BST |Thu, August 14 10:30AM AEST |
 
 # Multi-class/Unclassified
 
@@ -131,17 +139,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|--------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
-|[WGTC \(World GT Championship\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2193){:target="_blank"} |WGTC Season 18 |Open |Sebring International Raceway |Mon, August 11 03:30PM EDT |Mon, August 11 08:30PM BST |Tue, August 12 05:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------|----------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|[WGTC \(World GT Championship\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2193){:target="_blank"} |WGTC Season 18 |Open |Sebring International Raceway |Mon, August 11 12:30PM EDT |Mon, August 11 05:30PM BST |Tue, August 12 02:30AM AEST |
+|[Atlantic Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12898){:target="_blank"} |ACR GT3 season 1 | |Autodromo Nazionale Monza |Mon, August 18 06:30PM EDT |Mon, August 18 11:30PM BST |Tue, August 19 08:30AM AEST |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Wednesday Night IMSA Series \- S1 |Fixed |Daytona International Speedway |Wed, August 13 08:00PM EDT |Thu, August 14 01:00AM BST |Thu, August 14 10:00AM AEST |
-|[Front Runners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12611){:target="_blank"} |Checkered Crown Championship \- Fall 2025 |Fixed |Daytona International Speedway |Sun, August 10 08:15PM EDT |Mon, August 11 01:15AM BST |Mon, August 11 10:15AM AEST |
 |[Odyssey Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11444){:target="_blank"} |ORL IMSA Sprints |Both |Daytona International Speedway |Mon, August 11 08:00PM EDT |Tue, August 12 01:00AM BST |Tue, August 12 10:00AM AEST |
 |[League of Extraordinarily Average Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=7272){:target="_blank"} |8\-Summer 2025 | |WeatherTech Raceway at Laguna Seca |Thu, August 14 09:10PM EDT |Fri, August 15 02:10AM BST |Fri, August 15 11:10AM AEST |
 
