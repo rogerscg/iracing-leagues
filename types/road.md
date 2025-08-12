@@ -10,6 +10,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|-------------|--------|------|------|
 |[Almeida Racing League \- Season 4](https://members.iracing.com/membersite/member/LeagueView.do?league=12757){:target="_blank"} |Pre\-Qualifying |113 |1834 | | | | | |
+|[Road To SimRacing Expo](https://members.iracing.com/membersite/member/LeagueView.do?league=12937){:target="_blank"} |Road To SimRacing Expo 2025 |45 |4701 |Fixed | | | | |
 |[Almeida Racing League \- Season 4](https://members.iracing.com/membersite/member/LeagueView.do?league=12757){:target="_blank"} |Split 2 |33 |1862 | | | | | |
 |[Almeida Racing League \- Season 4](https://members.iracing.com/membersite/member/LeagueView.do?league=12757){:target="_blank"} |Split 3 |32 |1439 | | | | | |
 |[DMC \- Digitaler M2 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11971){:target="_blank"} |Digitaler M2 Cup \- 2\. Saison |30 |2548 | | | | | |
@@ -57,5 +58,5 @@
 |[AROC](https://members.iracing.com/membersite/member/LeagueView.do?league=9076){:target="_blank"} |AROC V |22 |1338 |Fixed | | | | |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Pushrods & Popcorn |14 |1238 |Fixed | | | | |
 |[Southern Cross Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11713){:target="_blank"} |Season 3 Gen 3 |12 |1758 |Open |Phillip Island Circuit |Fri, August 15 04:30AM EDT |Fri, August 15 09:30AM BST |Fri, August 15 06:30PM AEST |
-|[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |SuperChairs Season 1 |11 |1518 | |Sonoma Raceway |Mon, August 11 08:00PM EDT |Tue, August 12 01:00AM BST |Tue, August 12 10:00AM AEST |
+|[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |SuperChairs Season 1 |11 |1543 | | | | | |
 

@@ -73,7 +73,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |27 |1354 |Fixed | | | | |
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |26 |1876 | | | | | |
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |24 |1864 |Open |Snetterton Circuit |Mon, August 11 12:30PM EDT |Mon, August 11 05:30PM BST |Tue, August 12 02:30AM AEST |
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |26 |1877 |Open | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |23 |2872 | | | | | |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S03 \- BRITISH CUP SR8 |23 |2518 |Both | | | | |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |22 |2162 | | | | | |
@@ -87,6 +87,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------|--------|------|------|
 |[Dinner with Racers' Thursday Night Blunder](https://members.iracing.com/membersite/member/LeagueView.do?league=3320){:target="_blank"} |Thursday Night Blunder 2025 |18 |1293 |Both | | | | |
+|[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |King of the Track Road |10 |827 | | | | | |
 
 ### Spec Racer Ford
 
