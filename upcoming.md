@@ -42,21 +42,12 @@
 |[Midwest Thunder Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12902){:target="_blank"} |Midwest Thunder Tour |Fixed |Talladega Superspeedway |Thu, August 14 08:15PM EDT |Fri, August 15 01:15AM BST |Fri, August 15 10:15AM AEST |
 |[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 13 \- NASCAR Legends | |Daytona International Speedway |Tue, August 19 07:58PM EDT |Wed, August 20 12:58AM BST |Wed, August 20 09:58AM AEST |
 
-### NASCAR Truck Series
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-----------------------|--------------------------|--------------------------|---------------------------|
-|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR Truck Series Fall 2025 |Fixed |Stafford Motor Speedway |Tue, August 12 07:30PM EDT |Wed, August 13 12:30AM BST |Wed, August 13 09:30AM AEST |
-
 ### XFINITY Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----|------------------------|--------------------------|--------------------------|---------------------------|
-|[Squirrel League Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9676){:target="_blank"} |2025 \| Season 3 | |Richmond Raceway |Tue, August 12 08:00PM EDT |Wed, August 13 01:00AM BST |Wed, August 13 10:00AM AEST |
 |[Wednesday Night Dash on StadiumScene\.TV](https://members.iracing.com/membersite/member/LeagueView.do?league=8100){:target="_blank"} |2025 Xfinity Series |Fixed |Las Vegas Motor Speedway |Wed, August 13 09:30PM EDT |Thu, August 14 02:30AM BST |Thu, August 14 11:30AM AEST |
 
 # Oval
@@ -68,16 +59,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------|-----------------|-----|-------------|--------------------------|--------------------------|---------------------------|
 |[RFG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11005){:target="_blank"} |Mini Stock Serise | |Iowa Speedway |Fri, August 15 08:00PM EDT |Sat, August 16 01:00AM BST |Sat, August 16 10:00AM AEST |
-
-### Late Model Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
-|[RPES Pavement Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2025 RPES Pavement Ignition Series |Fixed |Thompson Speedway Motorsports Park |Tue, August 12 08:00PM EDT |Wed, August 13 01:00AM BST |Wed, August 13 10:00AM AEST |
-|[Bump N Run Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12915){:target="_blank"} |Practice Season | |Martinsville Speedway |Tue, August 12 08:30PM EDT |Wed, August 13 01:30AM BST |Wed, August 13 10:30AM AEST |
-|[Boomshine Syndicate](https://members.iracing.com/membersite/member/LeagueView.do?league=13007){:target="_blank"} |Asphalt\- Late Model Stocks | |USA International Speedway |Tue, August 12 08:00PM EDT |Wed, August 13 01:00AM BST |Wed, August 13 10:00AM AEST |
 
 # Open-wheel
 
@@ -121,8 +102,32 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|-----------|-----|--------------------------------|--------------------------|--------------------------|---------------------------|
-|[ADAC SimRacing Cup \- Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7760){:target="_blank"} |Saison 2025 | |Hockenheimring Baden-Württemberg |Tue, August 12 12:25PM EDT |Tue, August 12 05:25PM BST |Wed, August 13 02:25AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|--------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Porsche Cup NA |Fixed |Long Beach Street Circuit |Sat, August 16 07:30PM EDT |Sun, August 17 12:30AM BST |Sun, August 17 09:30AM AEST |
+
+### Supercars - 2019
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------|-------------------------|-----|----------------------|--------------------------|--------------------------|---------------------------|
+|[ORNL\.nl Woensdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=5652){:target="_blank"} |ORNL Supercars Series '25 |Fixed |Mount Panorama Circuit |Wed, August 20 02:00PM EDT |Wed, August 20 07:00PM BST |Thu, August 21 04:00AM AEST |
+
+### Toyota GR86
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|--------------|--------------------------|--------------------------|---------------------------|
+|[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HRT2HEART MOTORSPORTS ROAD RACING |Fixed |Lime Rock Park |Wed, August 20 07:58PM EDT |Thu, August 21 12:58AM BST |Thu, August 21 09:58AM AEST |
+
+### [Legacy] Ferrari 488 GT3
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------|-----------------------------|-----|--------------|--------------------------|--------------------------|---------------------------|
+|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP RoadHeads Series Season 9 |Fixed |Lime Rock Park |Wed, August 20 08:00PM EDT |Thu, August 21 01:00AM BST |Thu, August 21 10:00AM AEST |
 
 # Prototype
 
@@ -186,4 +191,5 @@
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Wednesday Night IMSA Series \- S1 |Fixed |Daytona International Speedway |Wed, August 13 08:00PM EDT |Thu, August 14 01:00AM BST |Thu, August 14 10:00AM AEST |
 |[League of Extraordinarily Average Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=7272){:target="_blank"} |8\-Summer 2025 | |WeatherTech Raceway at Laguna Seca |Thu, August 14 09:10PM EDT |Fri, August 15 02:10AM BST |Fri, August 15 11:10AM AEST |
 |[Valiant Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |Triple Attack |Fixed |Canadian Tire Motorsports Park |Sat, August 16 07:00PM EDT |Sun, August 17 12:00AM BST |Sun, August 17 09:00AM AEST |
+|[WSL Alternative Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} |WSL GT3 series | |Daytona International Speedway |Thu, August 14 08:00PM EDT |Fri, August 15 01:00AM BST |Fri, August 15 10:00AM AEST |
 

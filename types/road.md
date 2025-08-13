@@ -50,7 +50,7 @@
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025B |53 |2077 |Fixed |Auto Club Speedway |Sun, August 17 04:45AM EDT |Sun, August 17 09:45AM BST |Sun, August 17 06:45PM AEST |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Supercars Championship S1 \(2025\) |49 |1982 |Both | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025C V8SC Series \- Trophi\.AI |48 |2198 | |Shell V-Power Motorsport Park at The Bend |Wed, August 13 05:37AM EDT |Wed, August 13 10:37AM BST |Wed, August 13 07:37PM AEST |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday night Gen 3 season 2 |45 |1481 | | | | | |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday night Gen 3 season 2 |46 |1486 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Supercars gen3 Season 3 |36 |1418 | | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR Thursday V8 Champions Challenge S2 2025 |28 |1354 | | | | | |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |24 |1601 |Both |Phillip Island Circuit |Wed, August 13 05:30AM EDT |Wed, August 13 10:30AM BST |Wed, August 13 07:30PM AEST |
