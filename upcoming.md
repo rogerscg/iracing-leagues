@@ -27,17 +27,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Saturday Night Gen 6 Cup Series \- S5 |Fixed |Daytona International Speedway |Sat, August 16 08:00PM EDT |Sun, August 17 01:00AM BST |Sun, August 17 10:00AM AEST |
+|[Bolt Racing League: Bump N Buddies series](https://members.iracing.com/membersite/member/LeagueView.do?league=10175){:target="_blank"} |Bump N Buddies Season 8 |Fixed |Talladega Superspeedway |Sat, August 16 08:30PM EDT |Sun, August 17 01:30AM BST |Sun, August 17 10:30AM AEST |
 
 ### NASCAR Legends 1987
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|---------------------------|-----|---------------------------------|--------------------------|--------------------------|---------------------------|
+|---------------------------------------------------------------------------------------------------------------|---------------------------|-----|---------------------------------|--------------------------|--------------------------|---------------------------|
 |[ORNL\.nl Dinsdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=8273){:target="_blank"} |Winston Cup | |[Legacy] Kentucky Speedway - 2011 |Tue, August 19 02:00PM EDT |Tue, August 19 07:00PM BST |Wed, August 20 04:00AM AEST |
-|[Midwest Thunder Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12902){:target="_blank"} |Midwest Thunder Tour |Fixed |Talladega Superspeedway |Thu, August 14 08:15PM EDT |Fri, August 15 01:15AM BST |Fri, August 15 10:15AM AEST |
 |[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 13 \- NASCAR Legends | |Daytona International Speedway |Tue, August 19 07:58PM EDT |Wed, August 20 12:58AM BST |Wed, August 20 09:58AM AEST |
 
 ### NASCAR Truck Series
@@ -55,8 +55,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-----------------|-----|-------------|--------------------------|--------------------------|---------------------------|
-|[RFG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11005){:target="_blank"} |Mini Stock Serise | |Iowa Speedway |Fri, August 15 08:00PM EDT |Sat, August 16 01:00AM BST |Sat, August 16 10:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------|--------------------------|--------------------------|---------------------------|
+|[RFG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11005){:target="_blank"} |Mini Stock Serise | |Lanier National Speedway |Fri, August 15 08:00PM EDT |Sat, August 16 01:00AM BST |Sat, August 16 10:00AM AEST |
 
 # Open-wheel
 
@@ -137,16 +137,6 @@
 |-----------------------------------------------------------------------------------------------------------------------|----------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |King of the Track Oval | |Daytona International Speedway |Sun, August 17 07:00PM EDT |Mon, August 18 12:00AM BST |Mon, August 18 09:00AM AEST |
 
-# Dirt Oval
-
-### Dirt Late Model - Pro
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|--------------------------|--------------------------|--------------------------|---------------------------|
-|[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Thursday Night Throwdown \- Dirt \- S1 |Fixed |USA International Speedway |Thu, August 14 08:00PM EDT |Fri, August 15 01:00AM BST |Fri, August 15 10:00AM AEST |
-
 # Multi-class/Unclassified
 
 ### GT3 Class
@@ -168,10 +158,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[ORNL\.nl Donderdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |ORNL IMSA iRacing Series '25 |Open |Daytona International Speedway |Thu, August 21 02:00PM EDT |Thu, August 21 07:00PM BST |Fri, August 22 04:00AM AEST |
 |[TRACKILICIOUS](https://members.iracing.com/membersite/member/LeagueView.do?league=10794){:target="_blank"} |Thursday Multiclass Championship \- Fall | |Virginia International Raceway |Thu, August 21 06:50PM EDT |Thu, August 21 11:50PM BST |Fri, August 22 08:50AM AEST |
-|[League of Extraordinarily Average Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=7272){:target="_blank"} |8\-Summer 2025 | |WeatherTech Raceway at Laguna Seca |Thu, August 14 09:10PM EDT |Fri, August 15 02:10AM BST |Fri, August 15 11:10AM AEST |
 |[Valiant Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |Triple Attack |Fixed |Canadian Tire Motorsports Park |Sat, August 16 07:00PM EDT |Sun, August 17 12:00AM BST |Sun, August 17 09:00AM AEST |
-|[WSL Alternative Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} |WSL GT3 series | |Daytona International Speedway |Thu, August 14 08:00PM EDT |Fri, August 15 01:00AM BST |Fri, August 15 10:00AM AEST |
 
