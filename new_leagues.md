@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Dinoco Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=13013){:target="_blank"} | | |
-|[iRacing NASCAR Logitech Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13016){:target="_blank"} | |NASCAR Truck Series league by Logitech\. D Class license minimum\! |
-|[Late night Rubbin](https://members.iracing.com/membersite/member/LeagueView.do?league=13014){:target="_blank"} | |weekly night CLEAN racing |
-|[TC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13012){:target="_blank"} | |Liga para pilotos da equipe onde faremos treinos e corridas da equipe |
-|[DWR Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13011){:target="_blank"} | |The HUB for all DARK WING RACING Events\. Whether they're Charity Races, Challenges or one off Enduros\. This is where you will find it\. |
-|[Solana Gran Prix](https://members.iracing.com/membersite/member/LeagueView.do?league=13015){:target="_blank"} | |The first ever Solana Gran Prix |
 |[Cone Collectors United](https://members.iracing.com/membersite/member/LeagueView.do?league=13021){:target="_blank"} | |Multiclass Sportscars, Formula, and Ovals\! |
 |[Formula Zac's Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=13018){:target="_blank"} |[Discord](https://discord.gg/3cRcKzZT){:target="_blank"} |Fun Racing, Just for Fun, Because It's Fun\. |
 |[NASA Texas & Scott Adams Driver Development](https://members.iracing.com/membersite/member/LeagueView.do?league=13023){:target="_blank"} | |NASA Texas & Scott Adams Driver Development |
@@ -67,4 +61,11 @@
 |[Grind Sim Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13070){:target="_blank"} | | |
 |[iRaceControl Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=13067){:target="_blank"} | |For testing stuff |
 |[Virtual Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13075){:target="_blank"} | | |
+|[carb friends](https://members.iracing.com/membersite/member/LeagueView.do?league=13082){:target="_blank"} | | |
+|[Chicane Crew Mini IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=13078){:target="_blank"} | |Please Register on SimGrid, Failure to do so will result in removal from the League |
+|[DREAMTRIPS Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13080){:target="_blank"} |[Discord](https://discord.gg/agWp8nhXwv){:target="_blank"} |Free Oval League |
+|[Knapp Daddy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13084){:target="_blank"} | | |
+|[Nascar Fun Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=13083){:target="_blank"} | |Just have fun |
+|[Rookie Class Racing Arca](https://members.iracing.com/membersite/member/LeagueView.do?league=13079){:target="_blank"} |[Discord](https://discord.gg/45K9XCYe35){:target="_blank"} |Discord:https://discord\.gg/45K9XCYe35 |
+|[bleu mercure challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13081){:target="_blank"} | | |
 
