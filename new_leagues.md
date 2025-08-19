@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Cone Collectors United](https://members.iracing.com/membersite/member/LeagueView.do?league=13021){:target="_blank"} | |Multiclass Sportscars, Formula, and Ovals\! |
-|[Formula Zac's Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=13018){:target="_blank"} |[Discord](https://discord.gg/3cRcKzZT){:target="_blank"} |Fun Racing, Just for Fun, Because It's Fun\. |
-|[NASA Texas & Scott Adams Driver Development](https://members.iracing.com/membersite/member/LeagueView.do?league=13023){:target="_blank"} | |NASA Texas & Scott Adams Driver Development |
-|[SRK community Multi class league Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=13020){:target="_blank"} | |SRK community members\. RACE HARD\. RACE FAIR\. HAVE FUN\. |
-|[Zypto Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13017){:target="_blank"} | |A 12 week series where you will be required to download the Zypto App Digital Wallet and hold Zypto in your wallet the entire season starting with 1000 tokens and increasing 1000 each week you maintain custody of your wallet they are NOT an entry fee each week just a required min that you must maintain to race each week they are yours to keep for as long as you want to race in our League failure to maintain the min is a rules violation which makes you ineligible to participate until you meet the min required for that week\. Check Website form more details\. |
-|[70 for 70](https://members.iracing.com/membersite/member/LeagueView.do?league=13022){:target="_blank"} | |Celebrate PCA's 70th Anniversary with PCA Sim Racing's Special Event on September 13th, 2025\. The live broadcast starts at 8 PM Eastern / 5 PM Pacific on pcasimracing\.com |
-|[Professionally Unprofessional](https://members.iracing.com/membersite/member/LeagueView.do?league=13019){:target="_blank"} | |AI with J&A |
 |[American Virtual Stock Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13028){:target="_blank"} |[Discord](https://discord.gg/avscs){:target="_blank"} | |
 |[ApexTurboMotorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13027){:target="_blank"} | |pure adrenaline |
 |[NMA E\-Sports Rookies & Rock Stars](https://members.iracing.com/membersite/member/LeagueView.do?league=13024){:target="_blank"} | |Racing in the cheap seats \- Freebies only, all season\! |
@@ -61,11 +54,17 @@
 |[Grind Sim Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13070){:target="_blank"} | | |
 |[iRaceControl Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=13067){:target="_blank"} | |For testing stuff |
 |[Virtual Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13075){:target="_blank"} | | |
-|[carb friends](https://members.iracing.com/membersite/member/LeagueView.do?league=13082){:target="_blank"} | | |
+|[carb friends](https://members.iracing.com/membersite/member/LeagueView.do?league=13082){:target="_blank"} | |this league consist of great people and clean racers ,,if ya wanna race the carb is the place |
 |[Chicane Crew Mini IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=13078){:target="_blank"} | |Please Register on SimGrid, Failure to do so will result in removal from the League |
 |[DREAMTRIPS Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13080){:target="_blank"} |[Discord](https://discord.gg/agWp8nhXwv){:target="_blank"} |Free Oval League |
 |[Knapp Daddy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13084){:target="_blank"} | | |
 |[Nascar Fun Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=13083){:target="_blank"} | |Just have fun |
 |[Rookie Class Racing Arca](https://members.iracing.com/membersite/member/LeagueView.do?league=13079){:target="_blank"} |[Discord](https://discord.gg/45K9XCYe35){:target="_blank"} |Discord:https://discord\.gg/45K9XCYe35 |
 |[bleu mercure challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13081){:target="_blank"} | | |
+|[2025 ESR Porsche Cup Trophy \- DIV3](https://members.iracing.com/membersite/member/LeagueView.do?league=13088){:target="_blank"} | |ESR Trophy |
+|[Iron Apex Racing League \(IARL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13089){:target="_blank"} | |The Iron Apex Racing League is where precision meets aggression\. Every race is a battle for the apex — clean, fast, and fiercely competitive\. Mistakes are punished, consistency is rewarded, and champions are forged in steel\. |
+|[JPs Nascar League](https://members.iracing.com/membersite/member/LeagueView.do?league=13090){:target="_blank"} | | |
+|[Simworld \(Sat 2:00\-3:20\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13086){:target="_blank"} | | |
+|[Simworld \(Sun 3:00\-4:20\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13087){:target="_blank"} | | |
+|[Simworld \(Thurs 7:40\-9:00\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13085){:target="_blank"} | | |
 

@@ -21,7 +21,6 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|---------------------------|--------------------------|--------------------------|---------------------------|
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2025 \- HYPERCARS PASSIONSIM |45 |2254 |Fixed |Fuji International Speedway |Sun, August 24 05:15PM EDT |Sun, August 24 10:15PM BST |Mon, August 25 07:15AM AEST |
-|[FFC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8534){:target="_blank"} |IFCS \- TEMPORADA 5 |26 |2007 |Fixed | | | | |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |RW GTP |17 |1329 |Both | | | | |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |16 |1550 |Both | | | | |
 
@@ -40,11 +39,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|-------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|--------------------------------|--------------------------|--------------------------|---------------------------|
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy |20 |2156 | |Sebring International Raceway |Fri, August 22 03:58PM EDT |Fri, August 22 08:58PM BST |Sat, August 23 05:58AM AEST |
-|[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC LMP3 \- Season 3 |12 |1822 |Open | | | | |
 |[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1947 |Open | | | | |
-|[NoBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} |LMP3 NoBS season 1 |11 |1969 |Fixed | | | | |
+|[NoBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} |LMP3 NoBS season 1 |11 |1969 |Fixed |Detroit Grand Prix at Belle Isle |Tue, August 26 08:45PM EDT |Wed, August 27 01:45AM BST |Wed, August 27 10:45AM AEST |
 
 ### Radical SR10
 
@@ -61,7 +59,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|--------------------------------------------|--------------------------|--------------------------|---------------------------|
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |27 |1354 |Fixed | | | | |
 |[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |26 |1876 | | | | | |
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |26 |1877 |Open |Circuito de Navarra |Mon, August 25 12:30PM EDT |Mon, August 25 05:30PM BST |Tue, August 26 02:30AM AEST |
@@ -70,7 +68,7 @@
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |SR8 GRAPE\! |22 |2162 | | | | | |
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |21 |1572 | | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 2 |18 |2429 |Fixed |Circuit des 24 Heures du Mans |Fri, August 22 08:30PM EDT |Sat, August 23 01:30AM BST |Sat, August 23 10:30AM AEST |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 5 |14 |2859 | |Donington Park Racing Circuit |Mon, August 18 02:50PM EDT |Mon, August 18 07:50PM BST |Tue, August 19 04:50AM AEST |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 5 |16 |2825 | |Autodromo Internazionale Enzo e Dino Ferrari |Mon, August 25 02:50PM EDT |Mon, August 25 07:50PM BST |Tue, August 26 04:50AM AEST |
 
 ### Riley Daytona Prototype
 
