@@ -12,7 +12,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-----------------------|--------------------------|--------------------------|---------------------------|
 |[GLR GLOVE STATION ARCA SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9310){:target="_blank"} |Glove Station Arca Season 4 | |Talladega Superspeedway |Mon, August 25 07:00PM EDT |Tue, August 26 12:00AM BST |Tue, August 26 09:00AM AEST |
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP ARCA Series Season 9 |Fixed |Richmond Raceway |Tue, August 19 08:14PM EDT |Wed, August 20 01:14AM BST |Wed, August 20 10:14AM AEST |
 
 ### Hosted All Cars Class
 
@@ -22,14 +21,13 @@
 |---------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[NASCAR Generations](https://members.iracing.com/membersite/member/LeagueView.do?league=9688){:target="_blank"} |NASCAR Generations Season 2 | |Daytona International Speedway |Sat, August 23 08:00PM EDT |Sun, August 24 01:00AM BST |Sun, August 24 10:00AM AEST |
 
-### NASCAR Legends 1987
+### NASCAR 2022 NextGen
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|---------------------------|-----|---------------------------------|--------------------------|--------------------------|---------------------------|
-|[ORNL\.nl Dinsdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=8273){:target="_blank"} |Winston Cup | |[Legacy] Kentucky Speedway - 2011 |Tue, August 19 02:00PM EDT |Tue, August 19 07:00PM BST |Wed, August 20 04:00AM AEST |
-|[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 13 \- NASCAR Legends | |Daytona International Speedway |Tue, August 19 07:58PM EDT |Wed, August 20 12:58AM BST |Wed, August 20 09:58AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|-----------------------|--------------------------|--------------------------|---------------------------|
+|[GLR CRUISIN CLASSICS/NASTY'S SPORTS BAR NEXT GEN SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=6838){:target="_blank"} |Cruisin Classic's Season 8 | |Talladega Superspeedway |Wed, August 27 07:00PM EDT |Thu, August 28 12:00AM BST |Thu, August 28 09:00AM AEST |
 
 ### NASCAR Truck Series
 
@@ -55,8 +53,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------------------|-----|----------------------------|--------------------------|--------------------------|---------------------------|
-|[Bump N Run Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12915){:target="_blank"} |Bump N Run Iracing | |Kevin Harvick's Kern Raceway |Tue, August 19 08:30PM EDT |Wed, August 20 01:30AM BST |Wed, August 20 10:30AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------|------------|-----|-------------------|--------------------------|--------------------------|---------------------------|
+|[Grand American Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12931){:target="_blank"} |S2: LMSC Cup |Fixed |New Smyrna Speedway |Tue, August 26 08:00PM EDT |Wed, August 27 01:00AM BST |Wed, August 27 10:00AM AEST |
 
 # Open-wheel
 
@@ -76,25 +74,31 @@
 |---------------------------------------------------------------------------------------------------------------------------|------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[Power FM Racing – Time Attack](https://members.iracing.com/membersite/member/LeagueView.do?league=12984){:target="_blank"} |PowerFM Time Attack 2025 | |WeatherTech Raceway at Laguna Seca |Mon, August 25 06:01PM EDT |Mon, August 25 11:01PM BST |Tue, August 26 08:01AM AEST |
 
+### Lotus 79
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|--------|-----|---------------------------|--------------------------|--------------------------|---------------------------|
+|[The Daredevil Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9822){:target="_blank"} |SEASON 6 | |Indianapolis Motor Speedway |Wed, August 27 07:00PM EDT |Thu, August 28 12:00AM BST |Thu, August 28 09:00AM AEST |
+
 ### Ray FF1600
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----|-------------------|--------------------------|--------------------------|---------------------------|
+|-------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|--------------|--------------------------|--------------------------|---------------------------|
 |[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HRT2HEART MOTORSPORTS ROAD RACING |Fixed |Lime Rock Park |Wed, August 20 07:58PM EDT |Thu, August 21 12:58AM BST |Thu, August 21 09:58AM AEST |
-|[Tuesday Tuggers](https://members.iracing.com/membersite/member/LeagueView.do?league=2304){:target="_blank"} |Tuesday Tuggers Season 2 \- British Formula Ford | |Oulton Park Circuit |Tue, August 19 07:00PM EDT |Wed, August 20 12:00AM BST |Wed, August 20 09:00AM AEST |
 
-### Super Formula SF23
+# Sports Car
+
+### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------|-----------------------|-----|---------------------------|--------------------------|--------------------------|---------------------------|
-|[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.4 スプリントレース④ | |Fuji International Speedway |Tue, August 19 10:08AM EDT |Tue, August 19 03:08PM BST |Wed, August 20 12:08AM AEST |
-|[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.4 スプリントレース⑤ | |Fuji International Speedway |Tue, August 19 10:13AM EDT |Tue, August 19 03:13PM BST |Wed, August 20 12:13AM AEST |
-
-# Sports Car
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|[EGT Canada \- GT4\|TCR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |S12 GT4\|TCR Pratique officielle \(2025\) | |Algarve International Circuit |Wed, August 27 07:30PM EDT |Thu, August 28 12:30AM BST |Thu, August 28 09:30AM AEST |
 
 ### Mazda MX-5 Cup 2016
 
@@ -119,6 +123,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|-------------------------|-----|----------------------|--------------------------|--------------------------|---------------------------|
 |[ORNL\.nl Woensdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=5652){:target="_blank"} |ORNL Supercars Series '25 |Fixed |Mount Panorama Circuit |Wed, August 20 02:00PM EDT |Wed, August 20 07:00PM BST |Thu, August 21 04:00AM AEST |
+
+### Toyota GR86
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|-------------------|-----|--------------|--------------------------|--------------------------|---------------------------|
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 7: Gr86 Gala |Both |Lime Rock Park |Wed, August 20 08:30PM EDT |Thu, August 21 01:30AM BST |Thu, August 21 10:30AM AEST |
 
 ### [Legacy] Ferrari 488 GT3
 
@@ -145,12 +157,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|---------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|-----------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Operation Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5403){:target="_blank"} |Season 11 |Open |Daytona International Speedway |Tue, August 26 07:00PM EDT |Wed, August 27 12:00AM BST |Wed, August 27 09:00AM AEST |
-|[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.4 スプリント① | |Suzuka International Racing Course |Tue, August 19 10:45AM EDT |Tue, August 19 03:45PM BST |Wed, August 20 12:45AM AEST |
-|[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.4 スプリントレース② | |Suzuka International Racing Course |Tue, August 19 10:57AM EDT |Tue, August 19 03:57PM BST |Wed, August 20 12:57AM AEST |
-|[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.4 スプリントレース③ | |Suzuka International Racing Course |Tue, August 19 10:03AM EDT |Tue, August 19 03:03PM BST |Wed, August 20 12:03AM AEST |
-|[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE Rd\.4 総合予選 | |Suzuka International Racing Course |Tue, August 19 04:00AM EDT |Tue, August 19 09:00AM BST |Tue, August 19 06:00PM AEST |
 |[Operation Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5403){:target="_blank"} |Season 11 Practice Sessions |Open |Daytona International Speedway |Thu, August 21 07:00PM EDT |Fri, August 22 12:00AM BST |Fri, August 22 09:00AM AEST |
 
 ### Hosted All Cars Class

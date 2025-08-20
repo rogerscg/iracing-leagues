@@ -1,12 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[American Virtual Stock Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13028){:target="_blank"} |[Discord](https://discord.gg/avscs){:target="_blank"} | |
-|[ApexTurboMotorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13027){:target="_blank"} | |pure adrenaline |
-|[NMA E\-Sports Rookies & Rock Stars](https://members.iracing.com/membersite/member/LeagueView.do?league=13024){:target="_blank"} | |Racing in the cheap seats \- Freebies only, all season\! |
-|[TeeZer Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13025){:target="_blank"} | |Casual racing, mostly oval tracks\. New drivers welcome\. Friday evenings Eastern time zone multiple matchups\. |
-|[Texas Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13026){:target="_blank"} |[Discord](https://discord.com/channels/1402447077589516404/1402447079275761725){:target="_blank"} |NASCAR 2 NIGHTS A WEEK |
+|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Jermainia Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13029){:target="_blank"} | |JCS S1 |
 |[Dirt Track Junkies](https://members.iracing.com/membersite/member/LeagueView.do?league=13031){:target="_blank"} | |We like to race, and like to race in the dirt\! |
 |[Quickshift & Chill Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=13032){:target="_blank"} | |Upcoming races for Coopers Birthday |
@@ -67,4 +62,13 @@
 |[Simworld \(Sat 2:00\-3:20\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13086){:target="_blank"} | | |
 |[Simworld \(Sun 3:00\-4:20\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13087){:target="_blank"} | | |
 |[Simworld \(Thurs 7:40\-9:00\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13085){:target="_blank"} | | |
+|[Da Bros](https://members.iracing.com/membersite/member/LeagueView.do?league=13094){:target="_blank"} | |Casual League getting used to the game |
+|[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} | |Esports Racing Canada is the official Sim Racing division of ASN Canada, a Member of the FIA\. Here we will host private events, beginner league racing and coaching sessions\! |
+|[Kluesner Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13098){:target="_blank"} | |Oval |
+|[Nationwide Truck Series \(NTS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13097){:target="_blank"} |[Discord](https://discord.gg/5EkAhqcs){:target="_blank"} |Racing Saturdays @ 6pm CST |
+|[San Diego iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13096){:target="_blank"} | |Beginner league, transitioning from PS5 ACC to PC iRacing\. We will be starting with MX\-5 Cup cars and progressing as we improve\. |
+|[Saturday Night Lights at The Apollo](https://members.iracing.com/membersite/member/LeagueView.do?league=13091){:target="_blank"} | |Monthly Winter Series for Advanced Legends |
+|["The Gang" Friday night triple](https://members.iracing.com/membersite/member/LeagueView.do?league=13092){:target="_blank"} | |3 different cars, 3 different tracks each Friday night |
+|[This is my Testing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13093){:target="_blank"} | |A League for Tyler Holhubner2 to Test League things |
+|[Exodus Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13099){:target="_blank"} | | |
 
