@@ -1,10 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Jermainia Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13029){:target="_blank"} | |JCS S1 |
-|[Dirt Track Junkies](https://members.iracing.com/membersite/member/LeagueView.do?league=13031){:target="_blank"} | |We like to race, and like to race in the dirt\! |
-|[Quickshift & Chill Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=13032){:target="_blank"} | |Upcoming races for Coopers Birthday |
+|---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[DM3 Media Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13038){:target="_blank"} | |A Competitive short track racing league |
 |[Friday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13036){:target="_blank"} | |This is a league for our Friday Night Series |
 |[Hardee Designs Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13033){:target="_blank"} | | |
@@ -71,4 +68,6 @@
 |["The Gang" Friday night triple](https://members.iracing.com/membersite/member/LeagueView.do?league=13092){:target="_blank"} | |3 different cars, 3 different tracks each Friday night |
 |[This is my Testing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13093){:target="_blank"} | |A League for Tyler Holhubner2 to Test League things |
 |[Exodus Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13099){:target="_blank"} | | |
+|[Combat Tested Gaming's Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13101){:target="_blank"} |[Discord](https://discord.gg/combattestedgaming){:target="_blank"} |Combat Tested Gaming is the VFW's Veteran Only Sports League |
+|[Cus999](https://members.iracing.com/membersite/member/LeagueView.do?league=13100){:target="_blank"} | |training |
 

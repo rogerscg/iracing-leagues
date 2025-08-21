@@ -21,7 +21,7 @@
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 25S3 \- Ferrari Challenge |57 |2650 |Open |Autodromo Nazionale Monza |Mon, August 25 01:30PM EDT |Mon, August 25 06:30PM BST |Tue, August 26 03:30AM AEST |
 |[Jack Ashton Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11866){:target="_blank"} |JARC & The Novice Racer Racing League |22 |1713 | | | | | |
 |[Vanquist Radical Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12842){:target="_blank"} |Vanquist Ferrari Challente \- 25S1 |16 |2439 | | | | | |
-|[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |VRS \- Ferrari 296 Challenge Series |10 |1157 | |Circuit Zandvoort |Wed, August 20 08:45PM EDT |Thu, August 21 01:45AM BST |Thu, August 21 10:45AM AEST |
+|[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |VRS \- Ferrari 296 Challenge Series |10 |1160 | |Autodromo Nazionale Monza |Wed, August 27 08:45PM EDT |Thu, August 28 01:45AM BST |Thu, August 28 10:45AM AEST |
 |[Subpar Motorsports Ferrari Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=11758){:target="_blank"} |Subpar Motorsports Ferrari Challenge |10 |1553 |Fixed |WeatherTech Raceway at Laguna Seca |Sun, August 24 07:30PM EDT |Mon, August 25 12:30AM BST |Mon, August 25 09:30AM AEST |
 
 ### Ferrari 296 GT3
@@ -37,9 +37,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------------|--------|-------|----|-----|-------------|--------|------|------|
 |[American Muscle Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6810){:target="_blank"} |Season 9 |42 |2306 | | | | | |
-|[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Mustang 500 Piston Cup |17 |1403 |Both | | | | |
 
 ### Ford Mustang GT3
 
@@ -58,7 +57,7 @@
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |4 \- Worn Out Racers \- Road Thursday's |40 |1322 |Fixed |Virginia International Raceway |Thu, August 21 08:00PM EDT |Fri, August 22 01:00AM BST |Fri, August 22 10:00AM AEST |
 |[Sim Racing Magazine Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7770){:target="_blank"} |SRM GT4 Challenge Season 6 |38 |3013 | | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 35 Sixty\+ Touring Car Challenge |27 |1765 |Fixed |Virginia International Raceway |Thu, August 21 03:00PM EDT |Thu, August 21 08:00PM BST |Fri, August 22 05:00AM AEST |
-|[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} |2025S1 GT4 |25 |1382 |Fixed |Virginia International Raceway |Wed, August 20 08:30PM EDT |Thu, August 21 01:30AM BST |Thu, August 21 10:30AM AEST |
+|[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} |2025S1 GT4 |26 |1391 |Fixed | | | | |
 |[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR GT4 Challenge Season 1 |24 |1937 |Both | | | | |
 |[Late Apex Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12435){:target="_blank"} |Season 1 |23 |2644 |Open | | | | |
 |[CAS \- Member Created Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12634){:target="_blank"} |The Sixpack |20 |1872 | | | | | |
@@ -86,14 +85,13 @@
 |[PCA \- 2025 Entry](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class A/B Group eDE |167 |1361 | |Circuit de Spa-Francorchamps |Sun, August 24 09:00PM EDT |Mon, August 25 02:00AM BST |Mon, August 25 11:00AM AEST |
 |[PCA \- 2025 Entry](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Races |104 |1362 | | | | | |
 |[SRL Friday Night Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |SRL Freebie Fridays |85 |2528 |Fixed | | | | |
-|[PCA \- 2025 Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |2025 Summer Tour |78 |1675 | |Mid-Ohio Sports Car Course |Wed, August 20 09:00PM EDT |Thu, August 21 02:00AM BST |Thu, August 21 11:00AM AEST |
+|[PCA \- 2025 Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |2025 Summer Tour |79 |1679 | | | | | |
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |GT4 d'été |66 |2062 | | | | | |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 9  |64 |2789 |Fixed | | | | |
 |[IRWC VRS Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |IRWC VRS Porsche Carrera Cup Season 2 |64 |2644 | | | | | |
 |[PCA \- 2025 Entry](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Checkrides |43 |1631 | |Daytona International Speedway |Thu, August 21 09:00PM EDT |Fri, August 22 02:00AM BST |Fri, August 22 11:00AM AEST |
 |[LIGA FRS \- IMSA PILOT](https://members.iracing.com/membersite/member/LeagueView.do?league=11302){:target="_blank"} |FRS IMSA PILOT \- 25T3 |43 |3274 | |Virginia International Raceway |Wed, August 27 05:00PM EDT |Wed, August 27 10:00PM BST |Thu, August 28 07:00AM AEST |
 |[SRW \- Warren & Brown Tools Toyota GR86 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 2, 2025 |42 |1923 |Open | | | | |
-|[XP Series 2025 Cat: Élite y Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=10354){:target="_blank"} |XP Series Summer 2025 |42 |3355 | | | | | |
 |[SRW \- Warren & Brown Tools Toyota GR86 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 3, 2025 |41 |1772 |Open |Phillip Island Circuit |Thu, August 21 04:00AM EDT |Thu, August 21 09:00AM BST |Thu, August 21 06:00PM AEST |
 |[simRacingPR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4040){:target="_blank"} |2025 S2 \-simRacingPR Summer Series |41 |2084 |Both | | | | |
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |EGT Canada \- GT4\-TCR Classification |36 |None | |Okayama International Circuit |Thu, August 21 07:30PM EDT |Fri, August 22 12:30AM BST |Fri, August 22 09:30AM AEST |
@@ -154,7 +152,7 @@
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 S1 Global Mazda |19 |1168 | | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 Global Mazda Season 2 |18 |1171 | |Tsukuba Circuit |Thu, August 21 08:00PM EDT |Fri, August 22 01:00AM BST |Fri, August 22 10:00AM AEST |
 |[\(Unofficial\) The Track at Asheville Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11686){:target="_blank"} |Miatas |13 |1426 | | | | | |
-|[NASA Texas & Scott Adams Driver Development](https://members.iracing.com/membersite/member/LeagueView.do?league=13023){:target="_blank"} |NASA Texas & Scott Adams Driver Development 2025 |13 |1603 | | | | | |
+|[NASA Texas & Scott Adams Driver Development](https://members.iracing.com/membersite/member/LeagueView.do?league=13023){:target="_blank"} |NASA Texas & Scott Adams Driver Development 2025 |13 |1603 |Open | | | | |
 |[CanAm Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3534){:target="_blank"} |1H25 \- MX\-5 |12 |1886 | | | | | |
 |[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S2 |10 |1334 |Fixed | | | | |
 
@@ -195,13 +193,12 @@
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S14 WCR Sunday Porsche Cup Presented by SWARM Racing |38 |2355 |Open |Road America |Sun, August 24 09:00PM EDT |Mon, August 25 02:00AM BST |Mon, August 25 11:00AM AEST |
 |[ADAC SimRacing Cup \- Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7760){:target="_blank"} |Saison 2025 |33 |3036 | |Circuit of the Americas |Tue, August 26 12:25PM EDT |Tue, August 26 05:25PM BST |Wed, August 27 02:25AM AEST |
 |[PCA \- 2025 Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |2025 PCA A&D Supercup Series |29 |1614 | | | | | |
-|[Goatifi Pro League](https://members.iracing.com/membersite/member/LeagueView.do?league=11127){:target="_blank"} |SEASON 7 |29 |2380 | | | | | |
 |[Pineapple Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=11781){:target="_blank"} |Porsche Cup |26 |2150 |Fixed | | | | |
 |[GT Meister Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10095){:target="_blank"} |GTMR Porsche Cup Championship |26 |2048 |Both | | | | |
 |[CAS \- Porsche Community Cup Deutschland](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} |CAS\- Porsche Community Cup Deutschland Season 2 |25 |2011 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Yes2Rallycross \- RWD \(2025\) |23 |2504 |Fixed | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S3 SGA PORSCHE CUP |21 |2158 |Both |Road America |Tue, August 26 06:00PM EDT |Tue, August 26 11:00PM BST |Wed, August 27 08:00AM AEST |
-|[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |Porsche Cup Sprint Series |16 |1666 |Both |Road Atlanta |Wed, August 20 07:59PM EDT |Thu, August 21 12:59AM BST |Thu, August 21 09:59AM AEST |
+|[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |Porsche Cup Sprint Series |16 |1758 |Both |Road America |Wed, August 27 07:59PM EDT |Thu, August 28 12:59AM BST |Thu, August 28 09:59AM AEST |
 
 ### Porsche 911 GT3 R (992)
 
@@ -262,12 +259,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------|----|-----|-----------------------------------------|--------------------------|--------------------------|---------------------------|
 |[Toyota Gazoo Racing North America GR Cup eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=3607){:target="_blank"} |2025 Toyota Gazoo Racing North America GR Cup Esports League Season |54 |4155 |Fixed | | | | |
 |[Mid\-Atlantic 86 Club iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8721){:target="_blank"} |Season 11 |41 |1593 |Open |Virginia International Raceway |Tue, August 26 06:30PM EDT |Tue, August 26 11:30PM BST |Wed, August 27 08:30AM AEST |
 |[West Coast Sim Racing \- GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12739){:target="_blank"} |Season 2 |36 |1790 | |Phillip Island Circuit |Mon, August 25 09:30PM EDT |Tue, August 26 02:30AM BST |Tue, August 26 11:30AM AEST |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR Tuesday Weekly Challenge S2 2025 |34 |1336 | | | | | |
-|[XP Series 2025 Cat: Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10986){:target="_blank"} |XP Series Summer |29 |1559 | | | | | |
 |[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S1 |28 |1345 |Fixed | | | | |
 |[TANSO RACING GROUP](https://members.iracing.com/membersite/member/LeagueView.do?league=8141){:target="_blank"} |GR86 FUN RACES |27 |2256 | |Silverstone Circuit |Sun, August 24 03:00PM EDT |Sun, August 24 08:00PM BST |Mon, August 25 05:00AM AEST |
 |[Next Level Racing Circuit Attack Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12989){:target="_blank"} |2025 Circuit Attack Championship |24 |2127 |Fixed | | | | |
@@ -277,6 +273,7 @@
 |[Liga RPM](https://members.iracing.com/membersite/member/LeagueView.do?league=12803){:target="_blank"} |Liga RPM GR\-86 |20 |1910 | | | | | |
 |[Savage Sim Racing Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=12891){:target="_blank"} |Savage Sim Racing Academy Inaugural Season |16 |1802 |Fixed | | | | |
 |[Sbincity](https://members.iracing.com/membersite/member/LeagueView.do?league=10437){:target="_blank"} |GR86 Cup Season 2 |15 |2112 | | | | | |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 7: Gr86 Gala |15 |2128 |Both |Shell V-Power Motorsport Park at The Bend |Wed, August 27 08:30PM EDT |Thu, August 28 01:30AM BST |Thu, August 28 10:30AM AEST |
 |[GR86 Cup 2025 FSRS](https://members.iracing.com/membersite/member/LeagueView.do?league=9383){:target="_blank"} |GR86 cup |13 |1577 |Fixed | | | | |
 
 ### VW Jetta TDI Cup
@@ -294,6 +291,14 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|------|-------|----|-----|-------------|--------------------------|--------------------------|---------------------------|
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Z4 |17 |1632 |Fixed |Road Atlanta |Thu, August 21 05:28AM EDT |Thu, August 21 10:28AM BST |Thu, August 21 07:28PM AEST |
+
+### [Legacy] Ferrari 488 GT3
+
+[Back to Top](#)  
+
+| League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------|-----------------------------|-------|----|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP RoadHeads Series Season 9 |16 |1363 |Fixed |Autodromo Nazionale Monza |Wed, August 27 08:00PM EDT |Thu, August 28 01:00AM BST |Thu, August 28 10:00AM AEST |
 
 ### [Legacy] Porsche 911 GT3 Cup
 

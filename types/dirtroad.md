@@ -11,7 +11,7 @@
 |----------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|--------------------------|--------------------------|--------------------------|---------------------------|
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Pro Truck Season 2 |40 |3421 | |Wild West Motorsports Park |Wed, August 27 08:00AM EDT |Wed, August 27 01:00PM BST |Wed, August 27 10:00PM AEST |
 |[AMX Annex](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |Pro 2 Lite Road Championship |24 |1386 | | | | | |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Jump and Roar Tour |18 |1330 |Both | | | | |
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Jump and Roar Tour |20 |1325 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks West \- 2025 |16 |2786 |Fixed | | | | |
 
 ### Pro 2 Lite Truck

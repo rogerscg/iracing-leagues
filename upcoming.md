@@ -34,9 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
+|------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |2025 Fall Super Truck Series |Fixed |Daytona International Speedway |Thu, August 21 07:45PM EDT |Fri, August 22 12:45AM BST |Fri, August 22 09:45AM AEST |
-|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Truck Series \- Season 4 | |Michigan International Speedway |Wed, August 20 07:45PM EDT |Thu, August 21 12:45AM BST |Thu, August 21 09:45AM AEST |
 
 ### XFINITY Series
 
@@ -53,7 +52,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|------------|-----|-------------------|--------------------------|--------------------------|---------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|------------------------|-----|---------------------|--------------------------|--------------------------|---------------------------|
+|[GLR LATE MODEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11992){:target="_blank"} |GLR Late Models Season 2 | |Martinsville Speedway |Thu, August 28 09:00PM EDT |Fri, August 29 02:00AM BST |Fri, August 29 11:00AM AEST |
 |[Grand American Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12931){:target="_blank"} |S2: LMSC Cup |Fixed |New Smyrna Speedway |Tue, August 26 08:00PM EDT |Wed, August 27 01:00AM BST |Wed, August 27 10:00AM AEST |
 
 # Open-wheel
@@ -66,7 +66,7 @@
 |--------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[GLR LINCOLN TECH INDY SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11390){:target="_blank"} |Lincoln Tech Indy Season 1 | |Sebring International Raceway |Tue, August 26 07:00PM EDT |Wed, August 27 12:00AM BST |Wed, August 27 09:00AM AEST |
 
-### FIA F4
+### Hosted All Cars Class
 
 [Back to Top](#)  
 
@@ -81,14 +81,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|--------|-----|---------------------------|--------------------------|--------------------------|---------------------------|
 |[The Daredevil Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9822){:target="_blank"} |SEASON 6 | |Indianapolis Motor Speedway |Wed, August 27 07:00PM EDT |Thu, August 28 12:00AM BST |Thu, August 28 09:00AM AEST |
-
-### Ray FF1600
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|--------------|--------------------------|--------------------------|---------------------------|
-|[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HRT2HEART MOTORSPORTS ROAD RACING |Fixed |Lime Rock Park |Wed, August 20 07:58PM EDT |Thu, August 21 12:58AM BST |Thu, August 21 09:58AM AEST |
 
 # Sports Car
 
@@ -115,30 +107,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|-----------------------|-----|----------------------------|--------------------------|--------------------------|---------------------------|
 |[PACE Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11264){:target="_blank"} |Porsche Cup \- Season 3 | |Circuit de Spa-Francorchamps |Mon, August 25 02:30PM EDT |Mon, August 25 07:30PM BST |Tue, August 26 04:30AM AEST |
-
-### Supercars - 2019
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|-------------------------|-----|----------------------|--------------------------|--------------------------|---------------------------|
-|[ORNL\.nl Woensdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=5652){:target="_blank"} |ORNL Supercars Series '25 |Fixed |Mount Panorama Circuit |Wed, August 20 02:00PM EDT |Wed, August 20 07:00PM BST |Thu, August 21 04:00AM AEST |
-
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-------------------|-----|--------------|--------------------------|--------------------------|---------------------------|
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 7: Gr86 Gala |Both |Lime Rock Park |Wed, August 20 08:30PM EDT |Thu, August 21 01:30AM BST |Thu, August 21 10:30AM AEST |
-
-### [Legacy] Ferrari 488 GT3
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|-----------------------------|-----|--------------|--------------------------|--------------------------|---------------------------|
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP RoadHeads Series Season 9 |Fixed |Lime Rock Park |Wed, August 20 08:00PM EDT |Thu, August 21 01:00AM BST |Thu, August 21 10:00AM AEST |
 
 # Rallycross
 
@@ -173,4 +141,5 @@
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |Southeast Sexy Super Street Stock Spectacular Series Starring Somebody Special Superior Streetsweeping | |New Smyrna Speedway |Mon, August 25 07:00PM EDT |Tue, August 26 12:00AM BST |Tue, August 26 09:00AM AEST |
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |2025\-Motorsport Triathlon /Independence Day of Ukraine\. |Both |[Legacy] Phoenix Raceway - 2008 |Sun, August 24 01:00PM EDT |Sun, August 24 06:00PM BST |Mon, August 25 03:00AM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Dirty Draft Queens Season 9 |Fixed |iRacing Superspeedway |Fri, August 22 08:15PM EDT |Sat, August 23 01:15AM BST |Sat, August 23 10:15AM AEST |
+|[Bayou City Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13072){:target="_blank"} |Season Zero | |Circuit de Barcelona Catalunya |Fri, August 22 09:00PM EDT |Sat, August 23 02:00AM BST |Sat, August 23 11:00AM AEST |
 

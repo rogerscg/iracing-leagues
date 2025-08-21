@@ -12,7 +12,6 @@
 |[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |26 |1732 |Open |Virginia International Raceway |Fri, August 22 08:20PM EDT |Sat, August 23 01:20AM BST |Sat, August 23 10:20AM AEST |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR LMP2 |16 |1580 |Open |Nürburgring Grand-Prix-Strecke |Tue, August 26 03:00PM EDT |Tue, August 26 08:00PM BST |Wed, August 27 05:00AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |15 |2151 |Open | | | | |
-|[Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5539){:target="_blank"} |2025 Season 15 🏁 Races |15 |1850 | | | | | |
 |[ORNL\.nl Woensdag 2](https://members.iracing.com/membersite/member/LeagueView.do?league=5805){:target="_blank"} |ORNL LMP2 Prototype Challenge '25 |13 |2460 |Both | | | | |
 
 ### GTP
