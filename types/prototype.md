@@ -31,7 +31,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10509){:target="_blank"} |2025 Abruzzi Prototype Challenge |45 |2498 | | | | | |
-|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 3 |22 |3316 |Open |Sebring International Raceway |Thu, August 21 02:15PM EDT |Thu, August 21 07:15PM BST |Fri, August 22 04:15AM AEST |
+|[UK&I Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 3 |22 |3535 |Open |Autódromo José Carlos Pace |Thu, August 28 02:15PM EDT |Thu, August 28 07:15PM BST |Fri, August 29 04:15AM AEST |
 |[SRFD Central PA Division](https://members.iracing.com/membersite/member/LeagueView.do?league=10390){:target="_blank"} |Radical World of Racing |10 |1379 |Fixed |Canadian Tire Motorsports Park |Tue, August 26 09:00PM EDT |Wed, August 27 02:00AM BST |Wed, August 27 11:00AM AEST |
 
 ### Ligier JS P320

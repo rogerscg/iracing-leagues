@@ -2,15 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[DM3 Media Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13038){:target="_blank"} | |A Competitive short track racing league |
-|[Friday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13036){:target="_blank"} | |This is a league for our Friday Night Series |
-|[Hardee Designs Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13033){:target="_blank"} | | |
-|[KBRN Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13035){:target="_blank"} | |Welcome to the KBRN Truck Series, a fun and competitive league designed to celebrate the five year history of the KBueno Racing Network and the community\! |
-|[Prototype Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13034){:target="_blank"} | | |
-|[SBRA Stevens Boys Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=13039){:target="_blank"} | | |
-|[Simulation Zone](https://members.iracing.com/membersite/member/LeagueView.do?league=13037){:target="_blank"} | |Simulation Zone |
-|[PCA CHALLENGE 2026 \(GP\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13042){:target="_blank"} | | |
-|[PCA CLUB 2026 \(GP\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13041){:target="_blank"} | | |
 |[Rookies apply](https://members.iracing.com/membersite/member/LeagueView.do?league=13046){:target="_blank"} |[Discord](https://discord.gg/MVawk993){:target="_blank"} |Nascar racing league for all |
 |[Cannonball Run](https://members.iracing.com/membersite/member/LeagueView.do?league=13045){:target="_blank"} | |2025 Cannonball Run Presented by MARS |
 |[Pursuit Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13043){:target="_blank"} |[Discord](https://discord.gg/TZDrGpW4Cb){:target="_blank"} |5 races, 5 iconic cars, 5 legendary tracks\. Hosted by Pursuit Racing during Week 13\. Race starts 20:00 daily\. Join our Discord for details\. |
@@ -70,4 +61,7 @@
 |[Exodus Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13099){:target="_blank"} | | |
 |[Combat Tested Gaming's Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13101){:target="_blank"} |[Discord](https://discord.gg/combattestedgaming){:target="_blank"} |Combat Tested Gaming is the VFW's Veteran Only Sports League |
 |[Cus999](https://members.iracing.com/membersite/member/LeagueView.do?league=13100){:target="_blank"} | |training |
+|[Arcs High Octane: Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=13103){:target="_blank"} | | |
+|[Gentlemen Warriors Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13102){:target="_blank"} | |New League being created to have fun, clean racing\. We are a group of guys that show respect and drive hard and clean\. |
+|[The Rooks](https://members.iracing.com/membersite/member/LeagueView.do?league=13104){:target="_blank"} | |Rookie racing with friends |
 

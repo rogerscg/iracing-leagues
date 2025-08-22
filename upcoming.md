@@ -34,16 +34,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
-|[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |2025 Fall Super Truck Series |Fixed |Daytona International Speedway |Thu, August 21 07:45PM EDT |Fri, August 22 12:45AM BST |Fri, August 22 09:45AM AEST |
-
-### XFINITY Series
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|--------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Xfinity Season 9 |Fixed |Daytona International Speedway |Thu, August 21 08:15PM EDT |Fri, August 22 01:15AM BST |Fri, August 22 10:15AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|-----------------------|--------------------------|--------------------------|---------------------------|
+|[GLR SAVE22\.VET TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8963){:target="_blank"} |SAVE22 Premier Trucks Season 10 | |Talladega Superspeedway |Fri, August 29 07:00PM EDT |Sat, August 30 12:00AM BST |Sat, August 30 09:00AM AEST |
 
 # Oval
 
@@ -63,7 +55,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[LaunchPoint Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12352){:target="_blank"} |Season 2 | |Portland International Raceway |Sat, August 23 10:00AM EDT |Sat, August 23 03:00PM BST |Sun, August 24 12:00AM AEST |
 |[GLR LINCOLN TECH INDY SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11390){:target="_blank"} |Lincoln Tech Indy Season 1 | |Sebring International Raceway |Tue, August 26 07:00PM EDT |Wed, August 27 12:00AM BST |Wed, August 27 09:00AM AEST |
 
 ### Hosted All Cars Class
@@ -125,9 +118,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |GT3 Championship \- Season I |Open |Nürburgring Grand-Prix-Strecke |Fri, August 29 02:00PM EDT |Fri, August 29 07:00PM BST |Sat, August 30 04:00AM AEST |
 |[Operation Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5403){:target="_blank"} |Season 11 |Open |Daytona International Speedway |Tue, August 26 07:00PM EDT |Wed, August 27 12:00AM BST |Wed, August 27 09:00AM AEST |
-|[Operation Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5403){:target="_blank"} |Season 11 Practice Sessions |Open |Daytona International Speedway |Thu, August 21 07:00PM EDT |Fri, August 22 12:00AM BST |Fri, August 22 09:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -135,9 +128,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
-|[ORNL\.nl Donderdag 1](https://members.iracing.com/membersite/member/LeagueView.do?league=8531){:target="_blank"} |ORNL IMSA iRacing Series '25 |Open |Daytona International Speedway |Thu, August 21 02:00PM EDT |Thu, August 21 07:00PM BST |Fri, August 22 04:00AM AEST |
 |[Wheel Challenge Series \- Sport \- Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=11691){:target="_blank"} |Saison automne 2025 | |Fuji International Speedway |Tue, August 26 07:00PM EDT |Wed, August 27 12:00AM BST |Wed, August 27 09:00AM AEST |
-|[TRACKILICIOUS](https://members.iracing.com/membersite/member/LeagueView.do?league=10794){:target="_blank"} |Thursday Multiclass Championship \- Fall | |Virginia International Raceway |Thu, August 21 06:50PM EDT |Thu, August 21 11:50PM BST |Fri, August 22 08:50AM AEST |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |Southeast Sexy Super Street Stock Spectacular Series Starring Somebody Special Superior Streetsweeping | |New Smyrna Speedway |Mon, August 25 07:00PM EDT |Tue, August 26 12:00AM BST |Tue, August 26 09:00AM AEST |
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |2025\-Motorsport Triathlon /Independence Day of Ukraine\. |Both |[Legacy] Phoenix Raceway - 2008 |Sun, August 24 01:00PM EDT |Sun, August 24 06:00PM BST |Mon, August 25 03:00AM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Dirty Draft Queens Season 9 |Fixed |iRacing Superspeedway |Fri, August 22 08:15PM EDT |Sat, August 23 01:15AM BST |Sat, August 23 10:15AM AEST |
