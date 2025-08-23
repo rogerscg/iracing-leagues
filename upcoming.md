@@ -10,8 +10,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-----------------------|--------------------------|--------------------------|---------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[GLR GLOVE STATION ARCA SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9310){:target="_blank"} |Glove Station Arca Season 4 | |Talladega Superspeedway |Mon, August 25 07:00PM EDT |Tue, August 26 12:00AM BST |Tue, August 26 09:00AM AEST |
+|[AOLL Racing's Sportsman Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5052){:target="_blank"} |2025 ARCA Season |Fixed |Daytona International Speedway |Wed, August 27 06:00PM EDT |Wed, August 27 11:00PM BST |Thu, August 28 08:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -28,6 +29,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|-----------------------|--------------------------|--------------------------|---------------------------|
 |[GLR CRUISIN CLASSICS/NASTY'S SPORTS BAR NEXT GEN SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=6838){:target="_blank"} |Cruisin Classic's Season 8 | |Talladega Superspeedway |Wed, August 27 07:00PM EDT |Thu, August 28 12:00AM BST |Thu, August 28 09:00AM AEST |
+
+### NASCAR Legends 1987
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------|------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|[trophyhunt\.org 1987's](https://members.iracing.com/membersite/member/LeagueView.do?league=12990){:target="_blank"} |Trophy Races |Open |North Wilkesboro Speedway |Sun, August 24 10:00PM EDT |Mon, August 25 03:00AM BST |Mon, August 25 12:00PM AEST |
 
 ### NASCAR Truck Series
 
@@ -75,6 +84,14 @@
 |-----------------------------------------------------------------------------------------------------------------|--------|-----|---------------------------|--------------------------|--------------------------|---------------------------|
 |[The Daredevil Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9822){:target="_blank"} |SEASON 6 | |Indianapolis Motor Speedway |Wed, August 27 07:00PM EDT |Thu, August 28 12:00AM BST |Thu, August 28 09:00AM AEST |
 
+### Super Formula SF23
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|--------------------------|-----|----------------------|--------------------------|--------------------------|---------------------------|
+|[Adrian's Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=8234){:target="_blank"} |Teat Season One Grand Prix |Open |Mount Panorama Circuit |Sat, August 30 06:00AM EDT |Sat, August 30 11:00AM BST |Sat, August 30 08:00PM AEST |
+
 # Sports Car
 
 ### Hosted All Cars Class
@@ -84,14 +101,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[EGT Canada \- GT4\|TCR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |S12 GT4\|TCR Pratique officielle \(2025\) | |Algarve International Circuit |Wed, August 27 07:30PM EDT |Thu, August 28 12:30AM BST |Thu, August 28 09:30AM AEST |
-
-### Mazda MX-5 Cup 2016
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------|--------------------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
-|[Club50](https://members.iracing.com/membersite/member/LeagueView.do?league=13069){:target="_blank"} |Club50 League Startup 2025 | |Motorsport Arena Oschersleben |Sun, August 24 02:00PM EDT |Sun, August 24 07:00PM BST |Mon, August 25 04:00AM AEST |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -121,6 +130,8 @@
 |-------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |GT3 Championship \- Season I |Open |Nürburgring Grand-Prix-Strecke |Fri, August 29 02:00PM EDT |Fri, August 29 07:00PM BST |Sat, August 30 04:00AM AEST |
 |[Operation Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5403){:target="_blank"} |Season 11 |Open |Daytona International Speedway |Tue, August 26 07:00PM EDT |Wed, August 27 12:00AM BST |Wed, August 27 09:00AM AEST |
+|[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} |Zaddy Racing Season 2 |Open |Circuit of the Americas |Sat, August 30 09:00PM EDT |Sun, August 31 02:00AM BST |Sun, August 31 11:00AM AEST |
+|[GLR Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12070){:target="_blank"} |GLR Sports Cars Season 2 | |Indianapolis Motor Speedway |Sat, August 30 07:00PM EDT |Sun, August 31 12:00AM BST |Sun, August 31 09:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -128,9 +139,9 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
+|[2025 Team USA Talent Scouting events](https://members.iracing.com/membersite/member/LeagueView.do?league=12295){:target="_blank"} |Team USA Talent Scout Events | |Portland International Raceway |Sat, August 30 06:55PM EDT |Sat, August 30 11:55PM BST |Sun, August 31 08:55AM AEST |
 |[Wheel Challenge Series \- Sport \- Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=11691){:target="_blank"} |Saison automne 2025 | |Fuji International Speedway |Tue, August 26 07:00PM EDT |Wed, August 27 12:00AM BST |Wed, August 27 09:00AM AEST |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |Southeast Sexy Super Street Stock Spectacular Series Starring Somebody Special Superior Streetsweeping | |New Smyrna Speedway |Mon, August 25 07:00PM EDT |Tue, August 26 12:00AM BST |Tue, August 26 09:00AM AEST |
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |2025\-Motorsport Triathlon /Independence Day of Ukraine\. |Both |[Legacy] Phoenix Raceway - 2008 |Sun, August 24 01:00PM EDT |Sun, August 24 06:00PM BST |Mon, August 25 03:00AM AEST |
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Dirty Draft Queens Season 9 |Fixed |iRacing Superspeedway |Fri, August 22 08:15PM EDT |Sat, August 23 01:15AM BST |Sat, August 23 10:15AM AEST |
-|[Bayou City Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13072){:target="_blank"} |Season Zero | |Circuit de Barcelona Catalunya |Fri, August 22 09:00PM EDT |Sat, August 23 02:00AM BST |Sat, August 23 11:00AM AEST |
+|[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2025 FALL Heat and INVERT Feature season |Fixed |Snetterton Circuit |Wed, August 27 09:00PM EDT |Thu, August 28 02:00AM BST |Thu, August 28 11:00AM AEST |
 
