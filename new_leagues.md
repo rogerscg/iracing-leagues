@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Dirt Trackin' Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=13048){:target="_blank"} |[Discord](https://discord.gg/eFKsEhck){:target="_blank"} |Dirt is for racing, asphalt is for getting there\. |
-|[Inex Legend Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13047){:target="_blank"} |[Discord](https://discord.gg/uHFqFQS6){:target="_blank"} |legends in iracing lets have some fun |
 |[AP Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13051){:target="_blank"} | |For plumbers and non\-plumbers |
 |[miton cat amercian candian tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13050){:target="_blank"} | | |
 |[SXRL: Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=13049){:target="_blank"} |[Discord](https://discord.gg/mEWg6smmFU){:target="_blank"} |Sim Xpress Racing League: Xfinity division; to sign up head to my discord for more information |
@@ -33,7 +31,7 @@
 |[Grind Sim Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13070){:target="_blank"} | | |
 |[iRaceControl Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=13067){:target="_blank"} | |For testing stuff |
 |[Virtual Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13075){:target="_blank"} | | |
-|[carb friends](https://members.iracing.com/membersite/member/LeagueView.do?league=13082){:target="_blank"} | |this league consist of great people and clean racers ,,if ya wanna race the carb is the place |
+|[carb friends](https://members.iracing.com/membersite/member/LeagueView.do?league=13082){:target="_blank"} | |this league consist of great people and clean racers ,,if ya wanna race the carb is the place we will not put up with foolish driving i will put you out,,we are here to have fun |
 |[Chicane Crew Mini IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=13078){:target="_blank"} | |Please Register on SimGrid, Failure to do so will result in removal from the League |
 |[DREAMTRIPS Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13080){:target="_blank"} |[Discord](https://discord.gg/agWp8nhXwv){:target="_blank"} |Free Oval League |
 |[Knapp Daddy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13084){:target="_blank"} | | |
@@ -64,4 +62,6 @@
 |[Coast to Coast Racing League \(CCRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13107){:target="_blank"} |[Discord](https://discord.gg/tEgnXarB){:target="_blank"} |The Coast to Coast Racing League \(CCRL\) is a competitive iRacing league that puts competition first in a laid\-back, community\-driven atmosphere\. Our schedule features a variety of cars and track types, with most races run on free content to keep things accessible, while occasionally sprinkling in select paid tracks or series to keep the competition fresh\. At CCRL, we race hard, clean, and fair\. On\-track intensity meets off\-track respect, creating the perfect balance of serious competition and relaxed community vibes\. |
 |[High Point Racing IMSA Season 3](https://members.iracing.com/membersite/member/LeagueView.do?league=13108){:target="_blank"} |[Discord](https://discord.gg/highpointracingleague){:target="_blank"} |IMSA Series |
 |[October Fest](https://members.iracing.com/membersite/member/LeagueView.do?league=13105){:target="_blank"} | | |
+|[Audi Digital Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13109){:target="_blank"} | |Official Audi Digital Cup |
+|[Lickity Slicks Dirt Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13110){:target="_blank"} | |The Premier dirt racing series |
 

@@ -16,13 +16,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|----|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
-|[RX Am \(fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10282){:target="_blank"} |2025 RX Am |40 |2956 | | | | | |
-|[RX Pro \(open\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2025 RX Pro |28 |6189 | | | | | |
+|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|----|-----|--------------------------------|--------------------------|--------------------------|------------------------------|
+|[RX Am \(fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10282){:target="_blank"} |2025 RX Am |40 |2956 | |Daytona Rallycross and Dirt Road |Sun, August 24 02:50PM EDT |Sun, August 24 07:50PM BST |Mon, August 25 04:50AM AEST |
+|[RX Pro \(open\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2025 RX Pro |28 |6189 | |Daytona Rallycross and Dirt Road |Sun, August 24 03:30PM EDT |Sun, August 24 08:30PM BST |Mon, August 25 05:30AM AEST |
 |[ADAC SimRacing Rallycross Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12771){:target="_blank"} |ADAC SimRacing Rallycross Cup 2025 |26 |2902 |Fixed | | | | |
 |[AusRX/AusTrux](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 11 |18 |2622 | |[Legacy] Phoenix Raceway - 2008 |Thu, August 28 05:30AM EDT |Thu, August 28 10:30AM BST |Thu, August 28 07:30PM AEST |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- Supporting the WWP |15 |1507 |Fixed |Brands Hatch Circuit |Fri, August 29 08:15PM EDT |Sat, August 30 01:15AM BST |Sat, August 30 10:15AM AEST |
-|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |14 |1494 | | | | | |
+|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |14 |1494 | |Watkins Glen International |Sun, August 31 02:05PM EDT |Sun, August 31 07:05PM BST |Mon, September 01 04:05AM AEST |
 
 ### VW Beetle Lite
 
