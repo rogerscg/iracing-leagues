@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[AP Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13051){:target="_blank"} | |For plumbers and non\-plumbers |
-|[miton cat amercian candian tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13050){:target="_blank"} | | |
-|[SXRL: Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=13049){:target="_blank"} |[Discord](https://discord.gg/mEWg6smmFU){:target="_blank"} |Sim Xpress Racing League: Xfinity division; to sign up head to my discord for more information |
 |[Ninth Gear Racing Association \- Classic Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13052){:target="_blank"} |[Discord](https://discord.gg/aXwxhVZu){:target="_blank"} |Competitive oval & road racing, streamed on Ninth Gear Broadcasting\. Join us on Discord: https://discord\.gg/aXwxhVZu |
 |[Dirty Air Development League](https://members.iracing.com/membersite/member/LeagueView.do?league=13055){:target="_blank"} | |A NASCAR\-style oval league dedicated to clean racing, driver development, and sportsmanship\. We focus on fixed setups, fair competition, and respectful racing with an emphasis on improving skills and racecraft\. Teamwork and strategy are encouraged, but clean driving is always the priority\. Join us to race, learn, and grow in a competitive yet welcoming environment\. |
 |[Formula Speed Society](https://members.iracing.com/membersite/member/LeagueView.do?league=13059){:target="_blank"} | | |
@@ -35,7 +32,7 @@
 |[Chicane Crew Mini IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=13078){:target="_blank"} | |Please Register on SimGrid, Failure to do so will result in removal from the League |
 |[DREAMTRIPS Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13080){:target="_blank"} |[Discord](https://discord.gg/agWp8nhXwv){:target="_blank"} |Free Oval League |
 |[Knapp Daddy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13084){:target="_blank"} | | |
-|[Nascar Fun Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=13083){:target="_blank"} | |Just have fun |
+|[Nascar Fun Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=13083){:target="_blank"} | |Just have fun and race clean |
 |[Rookie Class Racing Arca](https://members.iracing.com/membersite/member/LeagueView.do?league=13079){:target="_blank"} |[Discord](https://discord.gg/45K9XCYe35){:target="_blank"} |Discord:https://discord\.gg/45K9XCYe35 |
 |[bleu mercure challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13081){:target="_blank"} | | |
 |[2025 ESR Porsche Cup Trophy \- DIV3](https://members.iracing.com/membersite/member/LeagueView.do?league=13088){:target="_blank"} | |ESR Trophy |
@@ -64,4 +61,11 @@
 |[October Fest](https://members.iracing.com/membersite/member/LeagueView.do?league=13105){:target="_blank"} | | |
 |[Audi Digital Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13109){:target="_blank"} | |Official Audi Digital Cup |
 |[Lickity Slicks Dirt Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13110){:target="_blank"} | |The Premier dirt racing series |
+|[BRE \- Best Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=13112){:target="_blank"} | | |
+|[Redline Racing League Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13113){:target="_blank"} | | |
+|[Soggy Bottom Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13115){:target="_blank"} | |Racing for the boys |
+|[TadPole Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13116){:target="_blank"} |[Discord](https://discord.gg/xPJaSzwm){:target="_blank"} |Just a bunch of guys \(and gals\) hanging out and having a good time\! |
+|[Titans Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=13111){:target="_blank"} | |League which focus on multiclass endurance racing\. Calendar will mainly be base on the iRacing special events |
+|[Twisted Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=13117){:target="_blank"} | | |
+|[High Rev Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13114){:target="_blank"} | | |
 
