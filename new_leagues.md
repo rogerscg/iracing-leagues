@@ -1,8 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Ninth Gear Racing Association \- Classic Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13052){:target="_blank"} |[Discord](https://discord.gg/aXwxhVZu){:target="_blank"} |Competitive oval & road racing, streamed on Ninth Gear Broadcasting\. Join us on Discord: https://discord\.gg/aXwxhVZu |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Dirty Air Development League](https://members.iracing.com/membersite/member/LeagueView.do?league=13055){:target="_blank"} | |A NASCAR\-style oval league dedicated to clean racing, driver development, and sportsmanship\. We focus on fixed setups, fair competition, and respectful racing with an emphasis on improving skills and racecraft\. Teamwork and strategy are encouraged, but clean driving is always the priority\. Join us to race, learn, and grow in a competitive yet welcoming environment\. |
 |[Formula Speed Society](https://members.iracing.com/membersite/member/LeagueView.do?league=13059){:target="_blank"} | | |
 |[Nextel Cup Revival](https://members.iracing.com/membersite/member/LeagueView.do?league=13060){:target="_blank"} | |Reliving the thunder of the nascar nextel cup with the gen4 and the COT 50% races and 50% fuel, fixed and open setups |
@@ -34,7 +33,7 @@
 |[Knapp Daddy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13084){:target="_blank"} | | |
 |[Nascar Fun Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=13083){:target="_blank"} | |Just have fun and race clean |
 |[Rookie Class Racing Arca](https://members.iracing.com/membersite/member/LeagueView.do?league=13079){:target="_blank"} |[Discord](https://discord.gg/45K9XCYe35){:target="_blank"} |Discord:https://discord\.gg/45K9XCYe35 |
-|[bleu mercure challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13081){:target="_blank"} | | |
+|[Challenge bleu mercure](https://members.iracing.com/membersite/member/LeagueView.do?league=13081){:target="_blank"} | |Championnat d'endurance avec 6 courses de 4 à 6 heures sur Ligier LMP3 |
 |[2025 ESR Porsche Cup Trophy \- DIV3](https://members.iracing.com/membersite/member/LeagueView.do?league=13088){:target="_blank"} | |ESR Trophy |
 |[Iron Apex Racing League \(IARL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13089){:target="_blank"} | |The Iron Apex Racing League is where precision meets aggression\. Every race is a battle for the apex — clean, fast, and fiercely competitive\. Mistakes are punished, consistency is rewarded, and champions are forged in steel\. |
 |[JPs Nascar League](https://members.iracing.com/membersite/member/LeagueView.do?league=13090){:target="_blank"} | | |
@@ -68,4 +67,13 @@
 |[Titans Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=13111){:target="_blank"} | |League which focus on multiclass endurance racing\. Calendar will mainly be base on the iRacing special events |
 |[Twisted Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=13117){:target="_blank"} | | |
 |[High Rev Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13114){:target="_blank"} | | |
+|[ASRNZ](https://members.iracing.com/membersite/member/LeagueView.do?league=13122){:target="_blank"} | |NZ Based Sim Racing League |
+|[Billy Oirish Racing FF1600 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13118){:target="_blank"} | |12 Week Racing League In The FF1600\.  Every Thursday Night From 9PM UK/ 10PM CET/ 4PM EST  Free to enter |
+|[Bowman Gray Modifieds](https://members.iracing.com/membersite/member/LeagueView.do?league=13123){:target="_blank"} | | |
+|[CusF4training](https://members.iracing.com/membersite/member/LeagueView.do?league=13121){:target="_blank"} | | |
+|[Medway iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13120){:target="_blank"} | | |
+|[RFRL Elite Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13124){:target="_blank"} | | |
+|[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |[Discord](https://discord.gg/XhNsUerTFp){:target="_blank"} | |
+|[Smoke Show Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13125){:target="_blank"} |[Discord](https://discord.gg/dykjjTrMsW){:target="_blank"} | |
+|[team speed](https://members.iracing.com/membersite/member/LeagueView.do?league=13126){:target="_blank"} | |speed |
 
