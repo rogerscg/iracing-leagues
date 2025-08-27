@@ -2,14 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Dirty Air Development League](https://members.iracing.com/membersite/member/LeagueView.do?league=13055){:target="_blank"} | |A NASCAR\-style oval league dedicated to clean racing, driver development, and sportsmanship\. We focus on fixed setups, fair competition, and respectful racing with an emphasis on improving skills and racecraft\. Teamwork and strategy are encouraged, but clean driving is always the priority\. Join us to race, learn, and grow in a competitive yet welcoming environment\. |
-|[Formula Speed Society](https://members.iracing.com/membersite/member/LeagueView.do?league=13059){:target="_blank"} | | |
-|[Nextel Cup Revival](https://members.iracing.com/membersite/member/LeagueView.do?league=13060){:target="_blank"} | |Reliving the thunder of the nascar nextel cup with the gen4 and the COT 50% races and 50% fuel, fixed and open setups |
-|[Slide job sim racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13057){:target="_blank"} | |We are slide job sim racing a new found sim racing league looking to have fun and have clean races from the thrilling battles of dirt track racing to the toe to toe fights of nascar |
-|[The Bump & Run Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13058){:target="_blank"} | | |
-|[K & J Race Nights](https://members.iracing.com/membersite/member/LeagueView.do?league=13054){:target="_blank"} | | |
-|[MRT](https://members.iracing.com/membersite/member/LeagueView.do?league=13053){:target="_blank"} | |MOKKA RACING TEAM |
-|[Pump n' Dump Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13056){:target="_blank"} | |Racing League that doesn't take itself very seriously\. |
 |[Heartland Dirt Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13062){:target="_blank"} | | |
 |[Myrmica MA70 Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13061){:target="_blank"} | | |
 |[6 Hours at Donington](https://members.iracing.com/membersite/member/LeagueView.do?league=13065){:target="_blank"} | | |
@@ -76,4 +68,8 @@
 |[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |[Discord](https://discord.gg/XhNsUerTFp){:target="_blank"} | |
 |[Smoke Show Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13125){:target="_blank"} |[Discord](https://discord.gg/dykjjTrMsW){:target="_blank"} | |
 |[team speed](https://members.iracing.com/membersite/member/LeagueView.do?league=13126){:target="_blank"} | |speed |
+|[BNR Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13127){:target="_blank"} | |Growing Next Gen Series\. Discord\.gg/VPAqyqtE |
+|[Latvia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13129){:target="_blank"} | |https://discord\.com/invite/6DQP5mPyDm |
+|[Legacy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13130){:target="_blank"} | |Oval Racing with one Daytona road race |
+|[F1\-Onlineliga Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13128){:target="_blank"} | | |
 
