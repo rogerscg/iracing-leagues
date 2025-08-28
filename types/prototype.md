@@ -68,6 +68,7 @@
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |21 |1572 | | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 2 |19 |2448 |Fixed | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 5 |17 |2918 | |Charlotte Motor Speedway |Mon, September 01 02:50PM EDT |Mon, September 01 07:50PM BST |Tue, September 02 04:50AM AEST |
+|[Vanquist Radical Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12842){:target="_blank"} |Vanquist Challenge \- 25S2 |10 |2298 | |Lime Rock Park |Wed, September 03 07:40PM EDT |Thu, September 04 12:40AM BST |Thu, September 04 09:40AM AEST |
 
 ### Riley Daytona Prototype
 

@@ -34,22 +34,21 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------|----|-----|-------------|--------|------|------|
-|[Pit Road Speed Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12735){:target="_blank"} |DIrt Late Models \- Limited |24 |1383 |Fixed | | | | |
+|-------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------|----|-----|---------------|-----------------------------|-----------------------------|------------------------------|
+|[Pit Road Speed Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12735){:target="_blank"} |DIrt Late Models \- Limited |24 |1383 |Fixed |Kokomo Speedway |Tue, September 02 08:00PM EDT |Wed, September 03 01:00AM BST |Wed, September 03 10:00AM AEST |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Can you Lick it Proving Grounds |21 |1416 |Fixed | | | | |
-|[Summer Slam Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11747){:target="_blank"} |Summer Slam Series |15 |1272 | | | | | |
 
 ### Dirt Late Model - Pro
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|--------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|---------------------|-----------------------------|-----------------------------|------------------------------|
 |[ASND Harman Designs Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |2025 Speedway Series 3 Pro Late Models |47 |2587 | | | | | |
 |[NLR High Stakes Pro Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11702){:target="_blank"} |High Stakes Pro Late Models |42 |2895 | |Eldora Speedway |Tue, September 02 08:00PM EDT |Wed, September 03 01:00AM BST |Wed, September 03 10:00AM AEST |
 |[PLMDS \- Sanctioned Events](https://members.iracing.com/membersite/member/LeagueView.do?league=6365){:target="_blank"} |2025 \- Sanctioned Events |40 |2688 | | | | | |
-|[VDRA](https://members.iracing.com/membersite/member/LeagueView.do?league=11260){:target="_blank"} |2025 Season 1 |33 |2345 | |Lernerville Speedway |Wed, August 27 08:15PM EDT |Thu, August 28 01:15AM BST |Thu, August 28 10:15AM AEST |
-|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |All Motor Racing Dirt Late Model Pro's S3 |30 |2050 |Fixed |Knoxville Raceway |Wed, August 27 08:30PM EDT |Thu, August 28 01:30AM BST |Thu, August 28 10:30AM AEST |
+|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |All Motor Racing Dirt Late Model Pro's S3 |34 |2039 |Fixed |Volusia Speedway Park |Wed, September 03 08:30PM EDT |Thu, September 04 01:30AM BST |Thu, September 04 10:30AM AEST |
+|[VDRA](https://members.iracing.com/membersite/member/LeagueView.do?league=11260){:target="_blank"} |2025 Season 1 |33 |2338 | | | | | |
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2025 Pro Late Model |27 |2589 |Fixed | | | | |
 |[BRL Pro Late Model Series \(DIRT\)](https://members.iracing.com/membersite/member/LeagueView.do?league=764){:target="_blank"} |DLM S1 |24 |1827 |Fixed | | | | |
 |[Kings Hustle Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11742){:target="_blank"} |Kings Hustle 2025 |23 |3212 | | | | | |
@@ -69,7 +68,7 @@
 |[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |Summer Series Super Lates 2025 |32 |3759 |Both | | | | |
 |[KMKZ Media\- The Hell Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=9890){:target="_blank"} |KMKZ Media 2025 Hell Tour |28 |3325 | | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2025 Turn2Terribles Super Late Model Series |23 |3312 |Open | | | | |
-|[HELL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=11698){:target="_blank"} |CSS HELL TOUR |21 |3593 |Open | | | | |
+|[HELL TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=11698){:target="_blank"} |CSS HELL TOUR |23 |3706 |Open | | | | |
 
 ### Dirt Micro Sprint Car - Winged
 
@@ -89,7 +88,7 @@
 |[THE DML NATIONALS](https://members.iracing.com/membersite/member/LeagueView.do?league=12784){:target="_blank"} |THE DML NATIONALS |73 |3390 |Fixed | | | | |
 |[TNT Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=12602){:target="_blank"} |Season 2 Dirt Midgets |38 |3018 | | | | | |
 |[SRPI: Speedcar Racing Promotion of Indiana](https://members.iracing.com/membersite/member/LeagueView.do?league=12221){:target="_blank"} |SRPI: Season 1 |30 |2968 | | | | | |
-|[DOB 410 Nationals B & A\-Main](https://members.iracing.com/membersite/member/LeagueView.do?league=3835){:target="_blank"} |2025 Ironman 55 Midgets |22 |3569 | | | | | |
+|[DOB 410 Nationals A\-Main](https://members.iracing.com/membersite/member/LeagueView.do?league=3835){:target="_blank"} |2025 Ironman 55 Midgets |22 |3569 | | | | | |
 |[NETCODE ESPORTS Mighty Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3159){:target="_blank"} |2025 Summer Sizzler |15 |2743 |Fixed | | | | |
 
 ### Dirt Outlaw Micro Sprint Car - Winged
@@ -158,10 +157,10 @@
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2025 Speedweeks |39 |3663 |Open | | | | |
 |[Sprint Car Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10610){:target="_blank"} |SCRA SEASON 1 |36 |3538 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2025 Lernerville Track Championship |34 |3378 |Open | | | | |
-|[DOB 410 Nationals D & C\-Main](https://members.iracing.com/membersite/member/LeagueView.do?league=3681){:target="_blank"} |2025 Ironman 55 410s |33 |3958 |Fixed | | | | |
+|[DOB 410 Nationals C&B\-Main](https://members.iracing.com/membersite/member/LeagueView.do?league=3681){:target="_blank"} |2025 Ironman 55 410s |33 |3958 |Fixed | | | | |
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |ᴛʀʟ 410 ꜱᴘʀɪɴᴛᴄᴀʀ ꜱᴜᴘᴇʀ ꜱᴇʀɪᴇꜱ 2025 |32 |3555 | |Knoxville Raceway |Fri, August 29 07:00AM EDT |Fri, August 29 12:00PM BST |Fri, August 29 09:00PM AEST |
 |[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |JSI 410 Sprintcar Championship |23 |2772 | | | | | |
-|[Williams Grove iRacing Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=12856){:target="_blank"} |Summer 2025 |10 |1349 | |Lincoln Speedway |Wed, August 27 06:00PM EDT |Wed, August 27 11:00PM BST |Thu, August 28 08:00AM AEST |
+|[Williams Grove iRacing Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=12856){:target="_blank"} |Summer 2025 |10 |1349 | | | | | |
 
 ### Dirt Street Stock
 
@@ -189,18 +188,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------|----|-----|-------------------|--------------------------|--------------------------|---------------------------|
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |78 |2577 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 358 |78 |2597 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |74 |2486 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |73 |2618 |Open | | | | |
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |78 |2577 |Open |Port Royal Speedway |Thu, August 28 07:30PM EDT |Fri, August 29 12:30AM BST |Fri, August 29 09:30AM AEST |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 358 |78 |2592 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |74 |2481 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |73 |2618 |Open |Port Royal Speedway |Thu, August 28 08:15PM EDT |Fri, August 29 01:15AM BST |Fri, August 29 10:15AM AEST |
 |[Knoxville Nights Weekly League](https://members.iracing.com/membersite/member/LeagueView.do?league=12437){:target="_blank"} |Knoxville Nights Weekly Series |73 |2916 | | | | | |
-|[2025 ODSE Wide Open Clothing ASC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2025 ASC Series |60 |4839 | | | | | |
+|[2025 ODSE Wide Open Clothing ASC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2025 ASC Series |60 |4839 | |Weedsport Speedway |Thu, September 04 06:05AM EDT |Thu, September 04 11:05AM BST |Thu, September 04 08:05PM AEST |
 |[2025 ODSE Wide Open Clothing ASC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2025 ASC SERIES PRACTICE |50 |None | | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- MIDGET |49 |2230 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- MIDGET |49 |2229 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |45 |1961 |Open | | | | |
 |[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2025 Dirt Pro Late Model Season |45 |1660 |Fixed | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |35 |2193 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |35 |2193 |Open |Port Royal Speedway |Thu, August 28 01:30PM EDT |Thu, August 28 06:30PM BST |Fri, August 29 03:30AM AEST |
 |[2025 Oceanic Sprintcar Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=3319){:target="_blank"} |2025 Oceanic Sprintcar Tour |32 |3537 | | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Dirt Proving Grounds |26 |1404 |Fixed | | | | |
 |[GeoMax Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9941){:target="_blank"} |Geomax Outlaw Season 4 |25 |2790 | | | | | |
