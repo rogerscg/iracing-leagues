@@ -30,12 +30,22 @@
 |------------------------------------------------------------------------------------------------------------------|------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Mid South Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11070){:target="_blank"} |MSSR Fall Brawl 25 |Fixed |Daytona International Speedway |Tue, September 02 09:00PM EDT |Wed, September 03 02:00AM BST |Wed, September 03 11:00AM AEST |
 
+### NASCAR 2003 Gen 4
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Ninth Gear Racing Association \- Classic Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13052){:target="_blank"} |Ninth Gear Classic \- Gen 4 Series | |Daytona International Speedway |Fri, September 05 09:00PM EDT |Sat, September 06 02:00AM BST |Sat, September 06 11:00AM AEST |
+|[Turn 2 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10646){:target="_blank"} |Turn 2 Season 2 |Fixed |Talladega Superspeedway |Fri, September 05 07:58PM EDT |Sat, September 06 12:58AM BST |Sat, September 06 09:58AM AEST |
+
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-------|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
+|-------------------------------------------------------------------------------------------------------------------|---------------------|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Pro Cup Season 53 |Both |Michigan International Speedway |Fri, September 05 08:00PM EDT |Sat, September 06 01:00AM BST |Sat, September 06 10:00AM AEST |
 |[CiL College Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6214){:target="_blank"} |CCS S13 | |Michigan International Speedway |Mon, September 01 07:30PM EDT |Tue, September 02 12:30AM BST |Tue, September 02 09:30AM AEST |
 
 ### NASCAR Legends 1987
@@ -62,9 +72,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
+|-------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|----------------|-----------------------------|-----------------------------|------------------------------|
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |06 Tuesdays SK Modifieds Season 2 |Fixed |Langley Speedway |Tue, September 02 07:00PM EDT |Wed, September 03 12:00AM BST |Wed, September 03 09:00AM AEST |
-|[OVAL\-UTION / Évenements Spéciaux](https://members.iracing.com/membersite/member/LeagueView.do?league=10851){:target="_blank"} |Mini Champ SK ÉTÉ 2025 | |Hickory Motor Speedway |Thu, August 28 07:00PM EDT |Fri, August 29 12:00AM BST |Fri, August 29 09:00AM AEST |
 
 ### XFINITY Series
 
@@ -76,14 +85,21 @@
 
 # Oval
 
+### Dirt Mini Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|---------------|-----|------------------------|--------------------------|--------------------------|---------------------------|
+|[MMR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12940){:target="_blank"} |Dirt Mini stock |Fixed |Lanier National Speedway |Fri, August 29 08:30PM EDT |Sat, August 30 01:30AM BST |Sat, August 30 10:30AM AEST |
+
 ### Late Model Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|---------------------|-----------------------------|-----------------------------|------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
 |[EIRCA Late Model Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13010){:target="_blank"} |2025 EIRCA CARS Tour Season | |New Smyrna Speedway |Tue, September 02 08:30PM EDT |Wed, September 03 01:30AM BST |Wed, September 03 10:30AM AEST |
-|[GLR LATE MODEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11992){:target="_blank"} |GLR Late Models Season 2 | |Martinsville Speedway |Thu, August 28 09:00PM EDT |Fri, August 29 02:00AM BST |Fri, August 29 11:00AM AEST |
 
 ### Legends
 
@@ -184,6 +200,7 @@
 |--------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Lightning Storm Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7437){:target="_blank"} |LSE Official Non Points Races |Both |Charlotte Motor Speedway |Sat, August 30 08:00PM EDT |Sun, August 31 01:00AM BST |Sun, August 31 10:00AM AEST |
 |[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |Community Racing League |Fixed |Okayama International Circuit |Wed, September 03 08:00PM EDT |Thu, September 04 01:00AM BST |Thu, September 04 10:00AM AEST |
+|[Khutko Community](https://members.iracing.com/membersite/member/LeagueView.do?league=12494){:target="_blank"} |Mazda Draft Cup | |Circuito de Navarra |Fri, September 05 12:00PM EDT |Fri, September 05 05:00PM BST |Sat, September 06 02:00AM AEST |
 
 ### McLaren 720S GT3 EVO
 
@@ -215,6 +232,8 @@
 |[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |GT3 Championship \- Season I |Open |Nürburgring Grand-Prix-Strecke |Fri, August 29 02:00PM EDT |Fri, August 29 07:00PM BST |Sat, August 30 04:00AM AEST |
 |[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} |Zaddy Racing Season 2 |Open |Circuit of the Americas |Sat, August 30 09:00PM EDT |Sun, August 31 02:00AM BST |Sun, August 31 11:00AM AEST |
 |[GLR MK Fire Designs Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12070){:target="_blank"} |GLR Sports Cars Season 2 | |Indianapolis Motor Speedway |Sat, August 30 07:00PM EDT |Sun, August 31 12:00AM BST |Sun, August 31 09:00AM AEST |
+|[Slow Poke MotorSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12835){:target="_blank"} |IMSA GT3 Endurance Season 2 | |Fuji International Speedway |Wed, September 03 08:00PM EDT |Thu, September 04 01:00AM BST |Thu, September 04 10:00AM AEST |
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |11 Fridays GT3 Season 1 |Fixed |Watkins Glen International |Fri, September 05 06:00PM EDT |Fri, September 05 11:00PM BST |Sat, September 06 08:00AM AEST |
 |[BRE \- Best Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=13112){:target="_blank"} |S1 GT3S | |Okayama International Circuit |Sun, August 31 11:00AM EDT |Sun, August 31 04:00PM BST |Mon, September 01 01:00AM AEST |
 |[OPRC \- Old Pluto Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=12629){:target="_blank"} |Golden Europe \- Top 5 \- GT3 |Both |Autodromo Nazionale Monza |Thu, September 04 01:55PM EDT |Thu, September 04 06:55PM BST |Fri, September 05 03:55AM AEST |
 
@@ -232,4 +251,5 @@
 |[Walker Sports League](https://members.iracing.com/membersite/member/LeagueView.do?league=12434){:target="_blank"} |Send \-It Series | |Eldora Speedway |Mon, September 01 09:15PM EDT |Tue, September 02 02:15AM BST |Tue, September 02 11:15AM AEST |
 |[XMS Racing Ricmotech World Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=2648){:target="_blank"} |Ricmotech World Challenge S14 | |Road Atlanta |Wed, September 03 05:00PM EDT |Wed, September 03 10:00PM BST |Thu, September 04 07:00AM AEST |
 |[Wheel Challenge Series \- Sport \- ProAm](https://members.iracing.com/membersite/member/LeagueView.do?league=11903){:target="_blank"} |Saison automne 2025 | |Fuji International Speedway |Tue, September 02 06:15PM EDT |Tue, September 02 11:15PM BST |Wed, September 03 08:15AM AEST |
+|[OTAe presented by HIP Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=5548){:target="_blank"} |OTAe Fall 2025 |Fixed |Snetterton Circuit |Wed, September 03 07:00PM EDT |Thu, September 04 12:00AM BST |Thu, September 04 09:00AM AEST |
 
