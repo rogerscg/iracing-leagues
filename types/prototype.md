@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |26 |1748 |Open |Hockenheimring Baden-Württemberg |Fri, August 29 08:20PM EDT |Sat, August 30 01:20AM BST |Sat, August 30 10:20AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |26 |1772 |Open |Indianapolis Motor Speedway |Fri, September 05 08:20PM EDT |Sat, September 06 01:20AM BST |Sat, September 06 10:20AM AEST |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR LMP2 |17 |1604 |Open |Daytona International Speedway |Tue, September 02 03:00PM EDT |Tue, September 02 08:00PM BST |Wed, September 03 05:00AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |15 |2151 |Open | | | | |
 |[ORNL\.nl Woensdag 2](https://members.iracing.com/membersite/member/LeagueView.do?league=5805){:target="_blank"} |ORNL LMP2 Prototype Challenge '25 |13 |2460 |Both | | | | |
@@ -39,7 +39,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy |21 |2101 | |Nürburgring Nordschleife |Fri, August 29 03:58PM EDT |Fri, August 29 08:58PM BST |Sat, August 30 05:58AM AEST |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy |22 |2111 | |Red Bull Ring |Fri, September 05 03:58PM EDT |Fri, September 05 08:58PM BST |Sat, September 06 05:58AM AEST |
 |[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1947 |Open | | | | |
 |[NoBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} |LMP3 NoBS season 1 |11 |1993 |Fixed |Indianapolis Motor Speedway |Tue, September 02 08:45PM EDT |Wed, September 03 01:45AM BST |Wed, September 03 10:45AM AEST |
 
