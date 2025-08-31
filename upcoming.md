@@ -13,6 +13,7 @@
 |--------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Dirty Air Development League](https://members.iracing.com/membersite/member/LeagueView.do?league=13055){:target="_blank"} |Season 1 ARCA |Fixed |Daytona International Speedway |Thu, September 04 08:30PM EDT |Fri, September 05 01:30AM BST |Fri, September 05 10:30AM AEST |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |10 Thursdays Arca Season 1 |Fixed |Daytona International Speedway |Thu, September 04 09:00PM EDT |Fri, September 05 02:00AM BST |Fri, September 05 11:00AM AEST |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Arca Series Season 3 | |Las Vegas Motor Speedway |Tue, September 02 07:00PM EDT |Wed, September 03 12:00AM BST |Wed, September 03 09:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -49,14 +50,23 @@
 |[CiL College Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6214){:target="_blank"} |CCS S13 | |Michigan International Speedway |Mon, September 01 07:30PM EDT |Tue, September 02 12:30AM BST |Tue, September 02 09:30AM AEST |
 |[Affinity Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8601){:target="_blank"} |AFFINITY CUP Season Six |Fixed |Daytona International Speedway |Mon, September 01 07:30PM EDT |Tue, September 02 12:30AM BST |Tue, September 02 09:30AM AEST |
 
+### NASCAR Cup
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------|------------------------|-----|----------------|-----------------------------|-----------------------------|------------------------------|
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Cup Series Season 3 | |Richmond Raceway |Wed, September 03 07:00PM EDT |Thu, September 04 12:00AM BST |Thu, September 04 09:00AM AEST |
+
 ### NASCAR Legends 1987
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|--------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |02 Sundays Legends Cup Season 1 |Fixed |Daytona International Speedway |Sun, August 31 08:00PM EDT |Mon, September 01 01:00AM BST |Mon, September 01 10:00AM AEST |
 |[trophyhunt\.org 1987's](https://members.iracing.com/membersite/member/LeagueView.do?league=12990){:target="_blank"} |Trophy Hunt 87's |Open |North Wilkesboro Speedway |Sun, August 31 07:00PM EDT |Mon, September 01 12:00AM BST |Mon, September 01 09:00AM AEST |
+|[Solstice Racing League \- Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9120){:target="_blank"} |Grand National Series \- Season 1 |Fixed |Daytona International Speedway |Mon, September 01 07:30PM EDT |Tue, September 02 12:30AM BST |Tue, September 02 09:30AM AEST |
 
 ### NASCAR Truck Series
 
@@ -64,10 +74,14 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} |Trucks Season 1 |Fixed |Las Vegas Motor Speedway |Sun, September 07 08:30PM EDT |Mon, September 08 01:30AM BST |Mon, September 08 10:30AM AEST |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Old Farts Sim Racing Season 3 Open Trucks | |Talladega Superspeedway |Sat, September 06 07:00PM EDT |Sun, September 07 12:00AM BST |Sun, September 07 09:00AM AEST |
 |[Nationwide Truck Series \(NTS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13097){:target="_blank"} |2025 Season 1 |Fixed |Las Vegas Motor Speedway |Sat, September 06 07:00PM EDT |Sun, September 07 12:00AM BST |Sun, September 07 09:00AM AEST |
 |[FourWide MotorSports](https://members.iracing.com/membersite/member/LeagueView.do?league=8179){:target="_blank"} |Trucks Season 1 | |EchoPark Speedway (Atlanta) |Mon, September 01 07:00PM EDT |Tue, September 02 12:00AM BST |Tue, September 02 09:00AM AEST |
 |[Mid South Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11070){:target="_blank"} |MSSR Trucks Fall 25 |Fixed |Daytona International Speedway |Thu, September 04 09:00PM EDT |Fri, September 05 02:00AM BST |Fri, September 05 11:00AM AEST |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Truck Intermediate Series Season 3 | |EchoPark Speedway (Atlanta) |Mon, September 01 07:00PM EDT |Tue, September 02 12:00AM BST |Tue, September 02 09:00AM AEST |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Truck Short Series Season 3 | |Dover Motor Speedway |Thu, September 04 07:00PM EDT |Fri, September 05 12:00AM BST |Fri, September 05 09:00AM AEST |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 Truck Speedway Series 3 | |Daytona International Speedway |Fri, September 05 07:00PM EDT |Sat, September 06 12:00AM BST |Sat, September 06 09:00AM AEST |
 
 ### SK Modified
 
@@ -94,7 +108,9 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[THURSDAY NIGHT THUNDER](https://members.iracing.com/membersite/member/LeagueView.do?league=4968){:target="_blank"} |LATE MODEL \- SEASON 3 | |Southern National Motorsports Park |Thu, September 04 09:00PM EDT |Fri, September 05 02:00AM BST |Fri, September 05 11:00AM AEST |
+|[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Late Model Season 53 |Both |Stafford Motor Speedway |Sun, September 07 07:30PM EDT |Mon, September 08 12:30AM BST |Mon, September 08 09:30AM AEST |
 |[EIRCA Late Model Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13010){:target="_blank"} |2025 EIRCA CARS Tour Season | |New Smyrna Speedway |Tue, September 02 08:30PM EDT |Wed, September 03 01:30AM BST |Wed, September 03 10:30AM AEST |
+|[CASH CLOWNS](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |SEASON 3 | |Southern National Motorsports Park |Sun, September 07 08:00PM EDT |Mon, September 08 01:00AM BST |Mon, September 08 10:00AM AEST |
 
 ### Legends
 
@@ -162,14 +178,6 @@
 |[FDL \- Formula Drivers League](https://members.iracing.com/membersite/member/LeagueView.do?league=12259){:target="_blank"} |Recruitment Series \#3 | |Virginia International Raceway |Tue, September 02 05:00AM EDT |Tue, September 02 10:00AM BST |Tue, September 02 07:00PM AEST |
 |[FDL \- Formula Drivers League](https://members.iracing.com/membersite/member/LeagueView.do?league=12259){:target="_blank"} |Official Practice | |Virginia International Raceway |Mon, September 01 04:30AM EDT |Mon, September 01 09:30AM BST |Mon, September 01 06:30PM AEST |
 
-### Super Formula SF23
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------------------------|-----|----------------------|--------------------------|--------------------------|---------------------------|
-|[Adrian's Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=8234){:target="_blank"} |Teat Season One Grand Prix |Open |Mount Panorama Circuit |Sat, August 30 06:00AM EDT |Sat, August 30 11:00AM BST |Sat, August 30 08:00PM AEST |
-
 # Sports Car
 
 ### Hosted All Cars Class
@@ -194,8 +202,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Lightning Storm Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7437){:target="_blank"} |LSE Official Non Points Races |Both |Charlotte Motor Speedway |Sat, August 30 08:00PM EDT |Sun, August 31 01:00AM BST |Sun, August 31 10:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------------|-----------------------|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |Community Racing League |Fixed |Okayama International Circuit |Wed, September 03 08:00PM EDT |Thu, September 04 01:00AM BST |Thu, September 04 10:00AM AEST |
 |[Khutko Community](https://members.iracing.com/membersite/member/LeagueView.do?league=12494){:target="_blank"} |Mazda Draft Cup | |Circuito de Navarra |Fri, September 05 12:00PM EDT |Fri, September 05 05:00PM BST |Sat, September 06 02:00AM AEST |
 
@@ -207,15 +214,33 @@
 |-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|--------------------------------------------|--------------------------|--------------------------|---------------------------|
 |[Jack Ashton Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11866){:target="_blank"} |JARC & TNR McLaren GT3 World Tour | |Autodromo Internazionale Enzo e Dino Ferrari |Sun, August 31 06:00AM EDT |Sun, August 31 11:00AM BST |Sun, August 31 08:00PM AEST |
 
-# Prototype
-
-### Ligier JS P320
+### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|----------------|--------------------------|--------------------------|------------------------------|
-|[Challenge bleu mercure](https://members.iracing.com/membersite/member/LeagueView.do?league=13081){:target="_blank"} |bleu mercure challenge saison 1 |Fixed |MotorLand Aragón |Sun, August 31 11:00AM EDT |Sun, August 31 04:00PM BST |Mon, September 01 01:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------------|--------------|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
+|[PCA \- 2025 Pro \(GP\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5844){:target="_blank"} |PCA S14 \- Pro | |Circuit de Spa-Francorchamps |Wed, September 03 08:15PM EDT |Thu, September 04 01:15AM BST |Thu, September 04 10:15AM AEST |
+
+# Prototype
+
+### GTP
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------|----------------------|-----|------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Hybrid GTP Series |Fixed |Charlotte Motor Speedway |Sun, September 07 08:20PM EDT |Mon, September 08 01:20AM BST |Mon, September 08 10:20AM AEST |
+
+# Road
+
+### BMW M2 CS Racing
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|----------------|-----|---------------|-----------------------------|-----------------------------|------------------------------|
+|[San Diego iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13096){:target="_blank"} |San Diego M2 Cup | |Tsukuba Circuit |Fri, September 05 11:30PM EDT |Sat, September 06 04:30AM BST |Sat, September 06 01:30PM AEST |
 
 # Dirt Oval
 
@@ -243,6 +268,16 @@
 |-------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |13 Saturdays Big Block Mods Season 1 |Fixed |Cedar Lake Speedway |Sat, September 06 09:00PM EDT |Sun, September 07 02:00AM BST |Sun, September 07 11:00AM AEST |
 
+# Rallycross
+
+### VW Beetle Lite
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Collins Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12774){:target="_blank"} |Collins Cup S1\- Dirt | |Charlotte Motor Speedway |Sat, September 06 01:00PM EDT |Sat, September 06 06:00PM BST |Sun, September 07 03:00AM AEST |
+
 # Dirt Road
 
 ### Pro 4 Truck
@@ -250,8 +285,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|--------------------------|--------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Wheel Challenge Series \- Dirt Road](https://members.iracing.com/membersite/member/LeagueView.do?league=11092){:target="_blank"} |ProTruck \- Automne 2025 |Open |Wild West Motorsports Park |Sun, August 31 08:00PM EDT |Mon, September 01 01:00AM BST |Mon, September 01 10:00AM AEST |
+|[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TKDI Pro 4 shootout \#6 | |Crandon International Raceway |Tue, September 02 08:00PM EDT |Wed, September 03 01:00AM BST |Wed, September 03 10:00AM AEST |
 
 # Multi-class/Unclassified
 
@@ -260,11 +296,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[EGT Canada \- GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10487){:target="_blank"} |S12 GT3 Pratique officielle \(2025\) | |Algarve International Circuit |Wed, September 03 07:30PM EDT |Thu, September 04 12:30AM BST |Thu, September 04 09:30AM AEST |
-|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 6 NORTH AMERICA Saturday |Both |Circuit des 24 Heures du Mans |Sat, September 06 03:30PM EDT |Sat, September 06 08:30PM BST |Sun, September 07 05:30AM AEST |
-|[Zaddy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} |Zaddy Racing Season 2 |Open |Circuit of the Americas |Sat, August 30 09:00PM EDT |Sun, August 31 02:00AM BST |Sun, August 31 11:00AM AEST |
-|[GLR MK Fire Designs Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12070){:target="_blank"} |GLR Sports Cars Season 2 | |Indianapolis Motor Speedway |Sat, August 30 07:00PM EDT |Sun, August 31 12:00AM BST |Sun, August 31 09:00AM AEST |
+|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |IRPAS SEASON 6 International  Saturday |Both |Circuit des 24 Heures du Mans |Sat, September 06 03:30PM EDT |Sat, September 06 08:30PM BST |Sun, September 07 05:30AM AEST |
 |[Slow Poke MotorSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12835){:target="_blank"} |IMSA GT3 Endurance Season 2 | |Fuji International Speedway |Wed, September 03 08:00PM EDT |Thu, September 04 01:00AM BST |Thu, September 04 10:00AM AEST |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |11 Fridays GT3 Season 1 |Fixed |Watkins Glen International |Fri, September 05 06:00PM EDT |Fri, September 05 11:00PM BST |Sat, September 06 08:00AM AEST |
 |[BRE \- Best Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=13112){:target="_blank"} |S1 GT3S | |Okayama International Circuit |Sun, August 31 11:00AM EDT |Sun, August 31 04:00PM BST |Mon, September 01 01:00AM AEST |
@@ -278,7 +312,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Campeonato Raccoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11906){:target="_blank"} |Season 3 | |Fuji International Speedway |Mon, September 01 07:35PM EDT |Tue, September 02 12:35AM BST |Tue, September 02 09:35AM AEST |
-|[2025 Team USA Talent Scouting events](https://members.iracing.com/membersite/member/LeagueView.do?league=12295){:target="_blank"} |Team USA Talent Scout Events | |Portland International Raceway |Sat, August 30 06:55PM EDT |Sat, August 30 11:55PM BST |Sun, August 31 08:55AM AEST |
 |[RoadMaster: Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12671){:target="_blank"} |Season Zero |Open |Canadian Tire Motorsports Park |Sun, August 31 07:00PM EDT |Mon, September 01 12:00AM BST |Mon, September 01 09:00AM AEST |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |09 Wednesday King Of Charlotte Asphalt |Fixed |Charlotte Motor Speedway |Wed, September 03 09:00PM EDT |Thu, September 04 02:00AM BST |Thu, September 04 11:00AM AEST |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |08 Wednesdays King Of Charlotte Dirt |Fixed |The Dirt Track at Charlotte |Wed, September 03 07:00PM EDT |Thu, September 04 12:00AM BST |Thu, September 04 09:00AM AEST |

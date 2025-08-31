@@ -2,13 +2,7 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Bayou City Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13072){:target="_blank"} | |Bayou City Cup – Season Zero Welcome to the Bayou City Cup, Houston’s premier iRacing championship powered by SHiFT eRacing\. This league is open exclusively to drivers from Houston, TX and the surrounding area\. Over 18 weeks, racers will compete across multiple disciplines — Sportscar \(9 races\), Formula \(4 races\), Oval \(2 races\), Dirt Oval \(2 races\), and Dirt Road \(1 race\) — to determine who earns the ultimate title: Houston’s Fastest\. |
-|[carb friends](https://members.iracing.com/membersite/member/LeagueView.do?league=13073){:target="_blank"} | |no discord allowed \.\. |
-|[Elite Dirt Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13076){:target="_blank"} | |Dirt ovals have long been the root of motorsport superstar creation\. The Elite Dirt Racing Tour is committed to helping growing the iRacing stars of tomorrow by providing newer drivers a place to first establish their roots\. |
-|[La Ligue d'Agropire](https://members.iracing.com/membersite/member/LeagueView.do?league=13077){:target="_blank"} | | |
-|[NBNF Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13074){:target="_blank"} | |NBNF车队专用练习房 招收新人分段不限 Q群：627325769 欢迎任何iRacing玩家加入车队 谢谢 |
-|[Virtual Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13075){:target="_blank"} | | |
-|[carb friends](https://members.iracing.com/membersite/member/LeagueView.do?league=13082){:target="_blank"} | |this league consist of great people and clean racers ,,if ya wanna race the carb is the place we will not put up with foolish driving i will put you out,,we are here to have fun |
+|[carb friends](https://members.iracing.com/membersite/member/LeagueView.do?league=13082){:target="_blank"} | |this league consist of great people and clean racers ,,if ya wanna race the carb is the place we will not put up with foolish driving or cussing people out i will put you out,,we are here to have fun |
 |[Chicane Crew Mini IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=13078){:target="_blank"} | |Please Register on SimGrid, Failure to do so will result in removal from the League |
 |[DREAMTRIPS Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13080){:target="_blank"} |[Discord](https://discord.gg/agWp8nhXwv){:target="_blank"} |Free Oval League |
 |[Knapp Daddy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13084){:target="_blank"} | | |
@@ -41,7 +35,7 @@
 |[October Fest](https://members.iracing.com/membersite/member/LeagueView.do?league=13105){:target="_blank"} | | |
 |[Audi Digital Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13109){:target="_blank"} | |Official Audi Digital Cup |
 |[Lickity Slicks Dirt Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13110){:target="_blank"} | |The Premier dirt racing series |
-|[BRE \- Best Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=13112){:target="_blank"} | | |
+|[BRE \- Best Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=13112){:target="_blank"} |[Discord](https://discord.gg/eqR3DQ3v){:target="_blank"} | |
 |[Redline Racing League Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13113){:target="_blank"} | | |
 |[Soggy Bottom Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13115){:target="_blank"} | |Racing for the boys |
 |[TadPole Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13116){:target="_blank"} |[Discord](https://discord.gg/xPJaSzwm){:target="_blank"} |Just a bunch of guys \(and gals\) hanging out and having a good time\! |
@@ -76,4 +70,13 @@
 |[SXRL: Arca West](https://members.iracing.com/membersite/member/LeagueView.do?league=13142){:target="_blank"} |[Discord](https://discord.gg/nPq6pCP9pa){:target="_blank"} |Welcome to SXRL: Arca West vs Arca East Division\. Head over to the discord for more information |
 |[The Bros](https://members.iracing.com/membersite/member/LeagueView.do?league=13140){:target="_blank"} | | |
 |[Vested Ice Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13145){:target="_blank"} | |Beginners focussed for Rookie to Class C drivers\. |
+|[APRF Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=13147){:target="_blank"} | |This league is about helping develop new sim racers, and make racing about racing again\! |
+|[Campeonato F4 eMotorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13152){:target="_blank"} | |Campeonato oficial eMotorsport F4 dentro de la plataforma iRacing\. |
+|[Rotorhead Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13149){:target="_blank"} | | |
+|[SFR Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13154){:target="_blank"} |[Discord](https://discord.gg/B9yRndEG){:target="_blank"} |These cars sound badass |
+|[SplitGrid Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13150){:target="_blank"} | |TBA |
+|[Timmerman Memorial Race](https://members.iracing.com/membersite/member/LeagueView.do?league=13151){:target="_blank"} | |Memorial race for Shaun Timmerman |
+|[UpFront Motorsports Poker League](https://members.iracing.com/membersite/member/LeagueView.do?league=13153){:target="_blank"} | |Fun GT3 League with Weekly Competition and Random Payouts\! |
+|[wir diskutieren nicht](https://members.iracing.com/membersite/member/LeagueView.do?league=13146){:target="_blank"} | |wir diskutieren nicht |
+|[Zephyr Sim Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=13148){:target="_blank"} | |Racing League mostly dedicated to fundraiser sessions   Our race frequency is atleast once a month for these events |
 
