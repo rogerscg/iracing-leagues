@@ -1,20 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[carb friends](https://members.iracing.com/membersite/member/LeagueView.do?league=13082){:target="_blank"} | |this league consist of great people and clean racers ,,if ya wanna race the carb is the place we will not put up with foolish driving or cussing people out i will put you out,,we are here to have fun |
-|[Chicane Crew Mini IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=13078){:target="_blank"} | |Please Register on SimGrid, Failure to do so will result in removal from the League |
-|[DREAMTRIPS Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13080){:target="_blank"} |[Discord](https://discord.gg/agWp8nhXwv){:target="_blank"} |Free Oval League |
-|[Knapp Daddy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13084){:target="_blank"} | | |
-|[Nascar Fun Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=13083){:target="_blank"} | |Just have fun and race clean  We have a group on facebook as well called Nascar fun Friday |
-|[Rookie Class Racing Arca](https://members.iracing.com/membersite/member/LeagueView.do?league=13079){:target="_blank"} |[Discord](https://discord.gg/45K9XCYe35){:target="_blank"} |Discord:https://discord\.gg/45K9XCYe35 |
-|[Challenge bleu mercure](https://members.iracing.com/membersite/member/LeagueView.do?league=13081){:target="_blank"} | |Championnat d'endurance avec 6 courses de 4 à 6 heures sur Ligier LMP3 |
-|[2025 ESR Porsche Cup Trophy \- DIV3](https://members.iracing.com/membersite/member/LeagueView.do?league=13088){:target="_blank"} | |ESR Trophy |
-|[Iron Apex Racing League \(IARL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13089){:target="_blank"} | |The Iron Apex Racing League is where precision meets aggression\. Every race is a battle for the apex — clean, fast, and fiercely competitive\. Mistakes are punished, consistency is rewarded, and champions are forged in steel\. |
-|[JPs Nascar League](https://members.iracing.com/membersite/member/LeagueView.do?league=13090){:target="_blank"} | | |
-|[Simworld \(Sat 2:00\-3:20\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13086){:target="_blank"} | | |
-|[Simworld \(Sun 3:00\-4:20\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13087){:target="_blank"} | | |
-|[Simworld \(Thurs 7:40\-9:00\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13085){:target="_blank"} | | |
+|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Da Bros](https://members.iracing.com/membersite/member/LeagueView.do?league=13094){:target="_blank"} | |Casual League getting used to the game |
 |[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} | |Esports Racing Canada is the official Sim Racing division of ASN Canada, a Member of the FIA\. Here we will host private events, beginner league racing and coaching sessions\! |
 |[Kluesner Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13098){:target="_blank"} | |Oval |
@@ -71,12 +58,23 @@
 |[The Bros](https://members.iracing.com/membersite/member/LeagueView.do?league=13140){:target="_blank"} | | |
 |[Vested Ice Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13145){:target="_blank"} | |Beginners focussed for Rookie to Class C drivers\. |
 |[APRF Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=13147){:target="_blank"} | |This league is about helping develop new sim racers, and make racing about racing again\! |
-|[Campeonato F4 eMotorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13152){:target="_blank"} | |Campeonato oficial eMotorsport F4 dentro de la plataforma iRacing\. |
+|[FIA F4 eMotorsport ARG by Logitech G](https://members.iracing.com/membersite/member/LeagueView.do?league=13152){:target="_blank"} | |Campeonato oficial eMotorsport F4 dentro de la plataforma iRacing\. |
 |[Rotorhead Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13149){:target="_blank"} | | |
 |[SFR Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13154){:target="_blank"} |[Discord](https://discord.gg/B9yRndEG){:target="_blank"} |These cars sound badass |
-|[SplitGrid Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13150){:target="_blank"} | |TBA |
+|[The Collective Racing Club \- CRC](https://members.iracing.com/membersite/member/LeagueView.do?league=13150){:target="_blank"} | |The Collective Racing Club \(CRC\) is a community\-driven sim racing league built for authentic multiclass competition\. We run a mix of endurance, sprint, and fixed\-setup racing inspired by WEC, IMSA, and GT World Challenge\. Our goal is to bring together drivers of all levels — from grassroots to experienced — under one grid\. Each season features structured championships, clear rules, and post\-race protest systems to keep racing fair and competitive without heavy admin overhead\. Whether you’re here to learn, compete, or chase endurance glory, Multiclass Union has a place for you on the grid\. |
 |[Timmerman Memorial Race](https://members.iracing.com/membersite/member/LeagueView.do?league=13151){:target="_blank"} | |Memorial race for Shaun Timmerman |
 |[UpFront Motorsports Poker League](https://members.iracing.com/membersite/member/LeagueView.do?league=13153){:target="_blank"} | |Fun GT3 League with Weekly Competition and Random Payouts\! |
 |[wir diskutieren nicht](https://members.iracing.com/membersite/member/LeagueView.do?league=13146){:target="_blank"} | |wir diskutieren nicht |
 |[Zephyr Sim Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=13148){:target="_blank"} | |Racing League mostly dedicated to fundraiser sessions   Our race frequency is atleast once a month for these events |
+|[be smart have fun](https://members.iracing.com/membersite/member/LeagueView.do?league=13156){:target="_blank"} | | |
+|[Cobra Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13163){:target="_blank"} |[Discord](https://discord.gg/honkem){:target="_blank"} |Friendly racing |
+|[GLR Glove Station Arca West](https://members.iracing.com/membersite/member/LeagueView.do?league=13162){:target="_blank"} | |This is a developmental series where drivers can have a coach or ask questions in an open forum to develop race craft from more experienced drivers |
+|[Indy at Night](https://members.iracing.com/membersite/member/LeagueView.do?league=13158){:target="_blank"} | |An indycar league that only runs races under the lights |
+|[Road Course Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=13161){:target="_blank"} | | |
+|[Rocken R Budget League](https://members.iracing.com/membersite/member/LeagueView.do?league=13164){:target="_blank"} | |Where Rookies Become Has\-Beens |
+|[The League of Gong](https://members.iracing.com/membersite/member/LeagueView.do?league=13165){:target="_blank"} | | |
+|[Zoot Lord Racing Leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=13157){:target="_blank"} | | |
+|[Zypto Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13159){:target="_blank"} | |nascar racing |
+|[4SS Victoria](https://members.iracing.com/membersite/member/LeagueView.do?league=13155){:target="_blank"} | |Racers of 4SS Victoria Karting |
+|[Elite Sim Expo League](https://members.iracing.com/membersite/member/LeagueView.do?league=13160){:target="_blank"} | |This is the league used for the racing at the annual Sim Expo\. |
 
