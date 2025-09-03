@@ -2,15 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Da Bros](https://members.iracing.com/membersite/member/LeagueView.do?league=13094){:target="_blank"} | |Casual League getting used to the game |
-|[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} | |Esports Racing Canada is the official Sim Racing division of ASN Canada, a Member of the FIA\. Here we will host private events, beginner league racing and coaching sessions\! |
-|[Kluesner Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13098){:target="_blank"} | |Oval |
-|[Nationwide Truck Series \(NTS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13097){:target="_blank"} |[Discord](https://discord.gg/5EkAhqcs){:target="_blank"} |Racing Saturdays @ 6pm CST |
-|[San Diego iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13096){:target="_blank"} | |Beginner league, transitioning from PS5 ACC to PC iRacing\. We will be starting with the BMW M2 and progressing as we improve\. |
-|[Saturday Night Lights at The Apollo](https://members.iracing.com/membersite/member/LeagueView.do?league=13091){:target="_blank"} | |Monthly Winter Series for Advanced Legends |
-|["The Gang" Friday night triple](https://members.iracing.com/membersite/member/LeagueView.do?league=13092){:target="_blank"} | |3 different cars, 3 different tracks each Friday night |
-|[This is my Testing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13093){:target="_blank"} | |A League for Tyler Holhubner2 to Test League things |
-|[Exodus Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13099){:target="_blank"} | | |
 |[Combat Tested Gaming's Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13101){:target="_blank"} |[Discord](https://discord.gg/combattestedgaming){:target="_blank"} |Combat Tested Gaming is the VFW's Veteran Only Sports League |
 |[Cus999](https://members.iracing.com/membersite/member/LeagueView.do?league=13100){:target="_blank"} | |training |
 |[Arcs High Octane: Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=13103){:target="_blank"} | | |
@@ -21,7 +12,7 @@
 |[High Point Racing IMSA Season 3](https://members.iracing.com/membersite/member/LeagueView.do?league=13108){:target="_blank"} |[Discord](https://discord.gg/highpointracingleague){:target="_blank"} |IMSA Series |
 |[October Fest](https://members.iracing.com/membersite/member/LeagueView.do?league=13105){:target="_blank"} | | |
 |[Audi Digital Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13109){:target="_blank"} | |Official Audi Digital Cup |
-|[Lickity Slicks Dirt Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13110){:target="_blank"} | |The Premier dirt racing series |
+|[Lickity Slicks Dirt Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13110){:target="_blank"} | |The Premier Dirt Racing Series |
 |[BRE \- Best Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=13112){:target="_blank"} |[Discord](https://discord.gg/eqR3DQ3v){:target="_blank"} | |
 |[Redline Racing League Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13113){:target="_blank"} | | |
 |[Soggy Bottom Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13115){:target="_blank"} | |Racing for the boys |
@@ -77,4 +68,9 @@
 |[Zypto Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13159){:target="_blank"} | |nascar racing |
 |[4SS Victoria](https://members.iracing.com/membersite/member/LeagueView.do?league=13155){:target="_blank"} | |Racers of 4SS Victoria Karting |
 |[Elite Sim Expo League](https://members.iracing.com/membersite/member/LeagueView.do?league=13160){:target="_blank"} | |This is the league used for the racing at the annual Sim Expo\. |
+|[4tty](https://members.iracing.com/membersite/member/LeagueView.do?league=13170){:target="_blank"} | |4tty |
+|[Challenge CAN\-AM](https://members.iracing.com/membersite/member/LeagueView.do?league=13167){:target="_blank"} | |dirt racing |
+|[Dirt Outlaw Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13169){:target="_blank"} | | |
+|[Evo Works Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=13166){:target="_blank"} | |EWRT |
+|[Iron Skull NOS Season 4](https://members.iracing.com/membersite/member/LeagueView.do?league=13168){:target="_blank"} | | |
 
