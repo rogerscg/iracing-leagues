@@ -8,8 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |26 |1772 |Open |Indianapolis Motor Speedway |Fri, September 05 08:20PM EDT |Sat, September 06 01:20AM BST |Sat, September 06 10:20AM AEST |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |21 |None |Fixed |Daytona International Speedway |Thu, September 04 01:00PM EDT |Thu, September 04 06:00PM BST |Fri, September 05 03:00AM AEST |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR LMP2 |18 |1627 |Open | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |15 |2151 |Open | | | | |
 
@@ -37,10 +38,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------|-----------------------------|-----------------------------|------------------------------|
+|-------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy |22 |2111 | |Red Bull Ring |Fri, September 05 03:58PM EDT |Fri, September 05 08:58PM BST |Sat, September 06 05:58AM AEST |
 |[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1947 |Open | | | | |
-|[NoBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} |LMP3 NoBS season 1 |12 |2005 |Fixed | | | | |
+|[NoBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} |LMP3 NoBS season 1 |12 |2005 |Fixed |Canadian Tire Motorsports Park |Tue, September 09 08:45PM EDT |Wed, September 10 01:45AM BST |Wed, September 10 10:45AM AEST |
 
 ### Radical SR10
 
@@ -67,7 +68,7 @@
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |21 |1572 | | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 2 |19 |2448 |Fixed | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 5 |19 |2904 | |Circuit des 24 Heures du Mans |Mon, September 08 02:50PM EDT |Mon, September 08 07:50PM BST |Tue, September 09 04:50AM AEST |
-|[Vanquist Radical Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12842){:target="_blank"} |Vanquist Challenge \- 25S2 |10 |2298 | |Lime Rock Park |Wed, September 03 07:40PM EDT |Thu, September 04 12:40AM BST |Thu, September 04 09:40AM AEST |
+|[Vanquist Radical Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12842){:target="_blank"} |Vanquist Challenge \- 25S2 |11 |2436 | | | | | |
 
 ### Riley Daytona Prototype
 

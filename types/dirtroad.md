@@ -11,7 +11,7 @@
 |----------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|-------------|--------|------|------|
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Pro Truck Season 2 |41 |3450 | | | | | |
 |[AMX Annex](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |Pro 2 Lite Road Championship |24 |1386 | | | | | |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Jump and Roar Tour |22 |1314 |Both | | | | |
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Jump and Roar Tour |22 |1309 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks West \- 2025 |16 |2786 |Fixed | | | | |
 
 ### Pro 2 Lite Truck
