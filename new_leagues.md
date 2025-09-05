@@ -2,13 +2,9 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Arcs High Octane: Xfinity](https://members.iracing.com/membersite/member/LeagueView.do?league=13103){:target="_blank"} | | |
-|[Gentlemen Warriors Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13102){:target="_blank"} |[Discord](https://discord.gg/WYSkgVMt){:target="_blank"} |New League being created to have fun, clean racing\. We are a group of guys that show respect and drive hard and clean\. We are here to have fun with out a lot of drama\. Most of us are 50 years old or more so we want to have a good time and don't put up with much BS\. |
-|[The Rooks](https://members.iracing.com/membersite/member/LeagueView.do?league=13104){:target="_blank"} | |Rookie racing with friends |
 |[4C Syndicate Racing IMSA NASCAR INDY](https://members.iracing.com/membersite/member/LeagueView.do?league=13106){:target="_blank"} | |AI Championships\. |
 |[Coast to Coast Racing League \(CCRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13107){:target="_blank"} |[Discord](https://discord.gg/tEgnXarB){:target="_blank"} |The Coast to Coast Racing League \(CCRL\) is a competitive iRacing league that puts competition first in a laid\-back, community\-driven atmosphere\. Our schedule features a variety of cars and track types, with most races run on free content to keep things accessible, while occasionally sprinkling in select paid tracks or series to keep the competition fresh\. At CCRL, we race hard, clean, and fair\. On\-track intensity meets off\-track respect, creating the perfect balance of serious competition and relaxed community vibes\. |
 |[High Point Racing IMSA Season 3](https://members.iracing.com/membersite/member/LeagueView.do?league=13108){:target="_blank"} |[Discord](https://discord.gg/highpointracingleague){:target="_blank"} |IMSA Series |
-|[October Fest](https://members.iracing.com/membersite/member/LeagueView.do?league=13105){:target="_blank"} | | |
 |[Audi Digital Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13109){:target="_blank"} | |Official Audi Digital Cup |
 |[Lickity Slicks Dirt Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13110){:target="_blank"} | |The Premier Dirt Racing Series |
 |[BRE \- Best Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=13112){:target="_blank"} |[Discord](https://discord.gg/eqR3DQ3v){:target="_blank"} | |
@@ -76,4 +72,8 @@
 |[SRL Friday Night TCR](https://members.iracing.com/membersite/member/LeagueView.do?league=13171){:target="_blank"} | |THE place to get your weekend warm up TCR fix\! |
 |[USORL Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13175){:target="_blank"} | | |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} | |Euro Timeslot V8 League |
+|[5 Guys IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=13179){:target="_blank"} | | |
+|[FlatOut Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13176){:target="_blank"} | |League just for fun |
+|[FRIC SimRacing Feierabend\-Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=13178){:target="_blank"} | |Vorbereitungstraining für GT\-Sprint ausweich auf IMSA falls Special Event\. Von 2\.5k \- 14k\. HARTES und FAIRES RACING\. Es geht um die Goldene Ananas\!\!\! |
+|[Lumeris Racing Institute](https://members.iracing.com/membersite/member/LeagueView.do?league=13177){:target="_blank"} | |A community designed for deep learning\. This is where drivers come together to find clarity, grow awareness, and build their racing instinct\. |
 
