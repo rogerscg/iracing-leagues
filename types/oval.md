@@ -49,20 +49,20 @@
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Models S11 |30 |2083 |Fixed | | | | |
 |[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S31 |30 |1855 |Fixed | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |HMS Late Model Stock Showcase Series |28 |1941 |Fixed | | | | |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |LMS Heatwave season 3 |28 |1539 |Fixed |Martinsville Speedway |Fri, September 12 10:00PM EDT |Sat, September 13 03:00AM BST |Sat, September 13 12:00PM AEST |
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Wild Wednesday on Asphalt |27 |1585 | | | | | |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |LMS Heatwave season 3 |27 |1530 |Fixed |Langley Speedway |Fri, September 05 10:00PM EDT |Sat, September 06 03:00AM BST |Sat, September 06 12:00PM AEST |
 |[GMRL Late Model Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=12909){:target="_blank"} |Gmrl Late Model Stock Season 1 |27 |2046 |Fixed | | | | |
 |[ROSS DALTON RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=10108){:target="_blank"} |RDR LMSC TOUR |27 |2782 | |USA International Speedway |Sun, September 07 09:00PM EDT |Mon, September 08 02:00AM BST |Mon, September 08 11:00AM AEST |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Models S12 |26 |2346 |Fixed | | | | |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 4 |24 |1914 |Fixed |Southern National Motorsports Park |Sun, September 07 07:45PM EDT |Mon, September 08 12:45AM BST |Mon, September 08 09:45AM AEST |
 |[Furniture Mart Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |FMWS 2025 Season 2 \- Late Model Tour |22 |2996 |Fixed | | | | |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 Late Model Stock Season 2 |21 |1339 | |Southern National Motorsports Park |Fri, September 05 09:00PM EDT |Sat, September 06 02:00AM BST |Sat, September 06 11:00AM AEST |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 Late Model Stock Season 2 |22 |1370 | |Irwindale Speedway |Fri, September 12 09:00PM EDT |Sat, September 13 02:00AM BST |Sat, September 13 11:00AM AEST |
 |[GLR LATE MODEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11992){:target="_blank"} |GLR Late Models Season 2 |21 |1918 | |Thompson Speedway Motorsports Park |Thu, September 11 09:00PM EDT |Fri, September 12 02:00AM BST |Fri, September 12 11:00AM AEST |
 |[2025 RPES Kings Clash](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2025 RPES Pavement Ignition Series |20 |1706 |Fixed | | | | |
 |[204 League \- Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11061){:target="_blank"} |204 League Summer Heat |20 |2261 |Fixed | | | | |
 |[Twisted Chassis Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10613){:target="_blank"} |Season 2 |19 |1678 | | | | | |
 |[Sim 360](https://members.iracing.com/membersite/member/LeagueView.do?league=2202){:target="_blank"} |Sim 306 Late Model Stocks Series |18 |1655 |Both |Southern National Motorsports Park |Wed, September 10 08:00PM EDT |Thu, September 11 01:00AM BST |Thu, September 11 10:00AM AEST |
-|[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |2025 Late Model Stock Series |17 |1932 |Fixed |Kevin Harvick's Kern Raceway |Fri, September 05 08:30PM EDT |Sat, September 06 01:30AM BST |Sat, September 06 10:30AM AEST |
+|[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |2025 Late Model Stock Series |17 |1939 |Fixed |Southern National Motorsports Park |Fri, September 12 08:30PM EDT |Sat, September 13 01:30AM BST |Sat, September 13 10:30AM AEST |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |NASCAR GP S1 |16 |2075 |Fixed | | | | |
 |[WSL Alternative Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} |WSL LMSC Series |15 |1685 | | | | | |
 |[T\-Ray's Circle Track Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12860){:target="_blank"} |Late Models Season 1 |15 |1265 | |New Smyrna Speedway |Mon, September 08 08:25PM EDT |Tue, September 09 01:25AM BST |Tue, September 09 10:25AM AEST |
@@ -104,7 +104,8 @@
 |[Loose is Fast Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=290){:target="_blank"} |Loose is Fast Podcast \- Mini Stock |15 |1862 |Fixed | | | | |
 |[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Carolina Mini Stock Series |15 |1903 |Both | | | | |
 |[Maniacs Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12819){:target="_blank"} |Maniacs Racing League Season 1 |14 |1461 | | | | | |
-|[Kawczynski iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12977){:target="_blank"} |Kawczynski iRacing \| Mini Stock S1 |12 |2255 |Fixed | | | | |
+|[Kawczynski iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=12977){:target="_blank"} |Kawczynski iRacing \| Mini Stock S1 |13 |2290 |Fixed | | | | |
+|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Z\-Series 2025B |13 |1856 | | | | | |
 
 ### Street Stocks
 
@@ -132,7 +133,7 @@
 |[Furniture Mart Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |FMWS 2025 Season 2 \- Street Stock Series |21 |2757 |Fixed |South Boston Speedway |Wed, September 10 08:30PM EDT |Thu, September 11 01:30AM BST |Thu, September 11 10:30AM AEST |
 |[iPASS](https://members.iracing.com/membersite/member/LeagueView.do?league=12568){:target="_blank"} |iPASS Street stocks Summer Series |19 |1961 |Both | | | | |
 |[Friday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13036){:target="_blank"} |8\.22\.2025 1 |18 |1966 | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- Global Stock Car Challenge \(2025B\) |17 |1523 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- Global Stock Car Challenge \(2025B\) |17 |1523 |Fixed |Winton Motor Raceway |Sat, September 06 10:00PM EDT |Sun, September 07 03:00AM BST |Sun, September 07 12:00PM AEST |
 |[T\-Ray's Circle Track Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12860){:target="_blank"} |Street Stocks Season 1 |17 |1370 | |Charlotte Motor Speedway |Wed, September 10 07:25PM EDT |Thu, September 11 12:25AM BST |Thu, September 11 09:25AM AEST |
 |[EPIC RACING ASSOCIATION \(ERA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9790){:target="_blank"} |Tri\-Track Challenge Series |16 |2233 | | | | | |
 |[United Racing Online Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11591){:target="_blank"} |Streeters Showdown S1 |16 |2737 | | | | | |

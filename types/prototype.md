@@ -9,8 +9,8 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |26 |1772 |Open |Indianapolis Motor Speedway |Fri, September 05 08:20PM EDT |Sat, September 06 01:20AM BST |Sat, September 06 10:20AM AEST |
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |23 |None |Fixed |Daytona International Speedway |Fri, September 05 01:00PM EDT |Fri, September 05 06:00PM BST |Sat, September 06 03:00AM AEST |
+|[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |26 |1779 |Open | | | | |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |24 |None |Fixed |Daytona International Speedway |Sat, September 06 01:00PM EDT |Sat, September 06 06:00PM BST |Sun, September 07 03:00AM AEST |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR LMP2 |18 |1627 |Open | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |15 |2151 |Open | | | | |
 
@@ -39,7 +39,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy |22 |2111 | |Red Bull Ring |Fri, September 05 03:58PM EDT |Fri, September 05 08:58PM BST |Sat, September 06 05:58AM AEST |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy |23 |2105 | |Circuit of the Americas |Fri, September 12 03:58PM EDT |Fri, September 12 08:58PM BST |Sat, September 13 05:58AM AEST |
 |[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1947 |Open | | | | |
 |[NoBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} |LMP3 NoBS season 1 |12 |2005 |Fixed |Canadian Tire Motorsports Park |Tue, September 09 08:45PM EDT |Wed, September 10 01:45AM BST |Wed, September 10 10:45AM AEST |
 
