@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Audi Digital Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13109){:target="_blank"} | |Official Audi Digital Cup |
-|[Lickity Slicks Dirt Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13110){:target="_blank"} | |The Premier Dirt Racing Series |
 |[BRE \- Best Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=13112){:target="_blank"} |[Discord](https://discord.gg/eqR3DQ3v){:target="_blank"} | |
 |[Redline Racing League Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13113){:target="_blank"} | | |
 |[Soggy Bottom Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13115){:target="_blank"} | |Racing for the boys |
@@ -75,4 +73,5 @@
 |[Lumeris Racing Institute](https://members.iracing.com/membersite/member/LeagueView.do?league=13177){:target="_blank"} | |A community designed for deep learning\. This is where drivers come together to find clarity, grow awareness, and build their racing instinct\. |
 |[IFF Indy](https://members.iracing.com/membersite/member/LeagueView.do?league=13180){:target="_blank"} | |Campionato IndyCar \- Fixed |
 |[V7 League](https://members.iracing.com/membersite/member/LeagueView.do?league=13181){:target="_blank"} | |V7 League |
+|[青盟iRacing俱乐部联赛](https://members.iracing.com/membersite/member/LeagueView.do?league=13182){:target="_blank"} | |微信：QMiRacing 欢迎您加入！ |
 
