@@ -10,7 +10,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |26 |1779 |Open | | | | |
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |26 |None |Fixed |Daytona International Speedway |Sun, September 07 01:00PM EDT |Sun, September 07 06:00PM BST |Mon, September 08 03:00AM AEST |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |26 |None |Fixed |Daytona International Speedway |Mon, September 08 01:00PM EDT |Mon, September 08 06:00PM BST |Tue, September 09 03:00AM AEST |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR LMP2 |18 |1627 |Open | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |15 |2151 |Open | | | | |
 
@@ -19,9 +19,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|-------------|--------|------|------|
+|-----------------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2025 \- HYPERCARS PASSIONSIM |47 |2306 |Fixed | | | | |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Prototypes S1 2025 |16 |1550 |Both | | | | |
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Hybrid GTP Series |10 |1335 |Fixed |Michigan International Speedway |Sun, September 14 09:20PM EDT |Mon, September 15 02:20AM BST |Mon, September 15 11:20AM AEST |
 
 ### Hosted All Cars Class
 
@@ -48,8 +49,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |42 |3624 | |Hockenheimring Baden-Württemberg |Sun, September 07 02:00PM EDT |Sun, September 07 07:00PM BST |Mon, September 08 04:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------|--------|------|------|
+|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |42 |3674 | | | | | |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |29 |2748 | | | | | |
 |[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |Radical Challenge 2025 |19 |1983 | | | | | |
 
@@ -76,7 +77,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|----------------------|-------|---|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |King of the Track Oval |12 |856 | |[Legacy] Pocono Raceway - 2009 |Sun, September 07 07:00PM EDT |Mon, September 08 12:00AM BST |Mon, September 08 09:00AM AEST |
+|[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |King of the Track Oval |12 |889 | | | | | |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |King of the Track Road |12 |810 | |Daytona International Speedway |Sun, September 14 07:00PM EDT |Mon, September 15 12:00AM BST |Mon, September 15 09:00AM AEST |
 
 ### Spec Racer Ford
@@ -84,7 +85,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|--------------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S3 SRF WW |73 |3220 |Open |Circuito de Navarra |Sun, September 07 02:40PM EDT |Sun, September 07 07:40PM BST |Mon, September 08 04:40AM AEST |
+|------------------------------------------------------------------------------------------------------------------------------------|--------------|-------|----|-----|-------------|--------|------|------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S3 SRF WW |78 |3231 |Open | | | | |
 |[North American Spec Racer Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11606){:target="_blank"} |NASRC Season 1 |11 |1398 |Fixed | | | | |
 

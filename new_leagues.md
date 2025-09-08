@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[BRE \- Best Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=13112){:target="_blank"} |[Discord](https://discord.gg/eqR3DQ3v){:target="_blank"} | |
-|[Redline Racing League Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13113){:target="_blank"} | | |
-|[Soggy Bottom Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13115){:target="_blank"} | |Racing for the boys |
-|[TadPole Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13116){:target="_blank"} |[Discord](https://discord.gg/xPJaSzwm){:target="_blank"} |Just a bunch of guys \(and gals\) hanging out and having a good time\! |
-|[Titans Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=13111){:target="_blank"} | |League which focus on multiclass endurance racing\. Calendar will mainly be base on the iRacing special events |
-|[Twisted Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=13117){:target="_blank"} | | |
-|[High Rev Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13114){:target="_blank"} | | |
 |[ASRNZ](https://members.iracing.com/membersite/member/LeagueView.do?league=13122){:target="_blank"} | |NZ Based Sim Racing League |
 |[Billy Oirish Racing FF1600 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13118){:target="_blank"} | |12 Week Racing League In The FF1600\.  Every Thursday Night From 9PM UK/ 10PM CET/ 4PM EST  Free to enter |
 |[Bowman Gray Modifieds](https://members.iracing.com/membersite/member/LeagueView.do?league=13123){:target="_blank"} | | |
@@ -71,7 +64,11 @@
 |[FlatOut Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13176){:target="_blank"} | |League just for fun |
 |[FRIC SimRacing Feierabend\-Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=13178){:target="_blank"} | |Vorbereitungstraining am Montag Abend \(Details folgen\) für GT\-Sprint ausweich auf IMSA falls Special Event\. Von 2\.5k \- 14k\. HARTES und FAIRES RACING\. Es geht um die Goldene Ananas\!\!\! |
 |[Lumeris Racing Institute](https://members.iracing.com/membersite/member/LeagueView.do?league=13177){:target="_blank"} | |A community designed for deep learning\. This is where drivers come together to find clarity, grow awareness, and build their racing instinct\. |
-|[IFF Indy](https://members.iracing.com/membersite/member/LeagueView.do?league=13180){:target="_blank"} | |Campionato IndyCar \- Fixed |
+|[IFF ESPORT Indy](https://members.iracing.com/membersite/member/LeagueView.do?league=13180){:target="_blank"} | |Campionato IndyCar \- Fixed |
 |[V7 League](https://members.iracing.com/membersite/member/LeagueView.do?league=13181){:target="_blank"} | |V7 League |
 |[青盟iRacing俱乐部联赛](https://members.iracing.com/membersite/member/LeagueView.do?league=13182){:target="_blank"} | |微信：QMiRacing 欢迎您加入！ |
+|[BMW Driving School](https://members.iracing.com/membersite/member/LeagueView.do?league=13187){:target="_blank"} | |Just a fun league BMW vs VAG drivers, who is worse? |
+|[GT\-PORKYS](https://members.iracing.com/membersite/member/LeagueView.do?league=13186){:target="_blank"} | |GT\-Porky’s is a monthly GT3 showdown at Porky’s Backyard where drivers qualify all month long on the rigs, with the fastest earning a shot at the feature race\. Cash prizes, bragging rights, and glory on the line every round\. |
+|[Thunder Apex Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} | | |
+|[British F4 Prep](https://members.iracing.com/membersite/member/LeagueView.do?league=13185){:target="_blank"} | | |
 
