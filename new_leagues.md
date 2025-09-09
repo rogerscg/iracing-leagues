@@ -2,15 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[ASRNZ](https://members.iracing.com/membersite/member/LeagueView.do?league=13122){:target="_blank"} | |NZ Based Sim Racing League |
-|[Billy Oirish Racing FF1600 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13118){:target="_blank"} | |12 Week Racing League In The FF1600\.  Every Thursday Night From 9PM UK/ 10PM CET/ 4PM EST  Free to enter |
-|[Bowman Gray Modifieds](https://members.iracing.com/membersite/member/LeagueView.do?league=13123){:target="_blank"} | | |
-|[CusF4training](https://members.iracing.com/membersite/member/LeagueView.do?league=13121){:target="_blank"} | | |
-|[Medway iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13120){:target="_blank"} | | |
-|[RFRL Elite Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13124){:target="_blank"} | | |
-|[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |[Discord](https://discord.gg/XhNsUerTFp){:target="_blank"} | |
-|[Smoke Show Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13125){:target="_blank"} |[Discord](https://discord.gg/dykjjTrMsW){:target="_blank"} | |
-|[team speed](https://members.iracing.com/membersite/member/LeagueView.do?league=13126){:target="_blank"} | |speed |
 |[BNR Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13127){:target="_blank"} | |Growing Next Gen Series\. Discord\.gg/VPAqyqtE |
 |[Latvia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13129){:target="_blank"} | |https://discord\.com/invite/6DQP5mPyDm |
 |[Legacy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13130){:target="_blank"} | |Oval Racing with one Daytona road race |
@@ -71,4 +62,11 @@
 |[GT\-PORKYS](https://members.iracing.com/membersite/member/LeagueView.do?league=13186){:target="_blank"} | |GT\-Porky’s is a monthly GT3 showdown at Porky’s Backyard where drivers qualify all month long on the rigs, with the fastest earning a shot at the feature race\. Cash prizes, bragging rights, and glory on the line every round\. |
 |[Thunder Apex Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} | | |
 |[British F4 Prep](https://members.iracing.com/membersite/member/LeagueView.do?league=13185){:target="_blank"} | | |
+|[AFLR](https://members.iracing.com/membersite/member/LeagueView.do?league=13191){:target="_blank"} | |Arca Fixed League Racing |
+|[DML Pre Qualifier League](https://members.iracing.com/membersite/member/LeagueView.do?league=13189){:target="_blank"} | |The new way forward\.\.\. DML will now conduct Pre Qualifier races, these races will be held on Wednesday nights, the top 15 finishers from the Wednesday night A main will qualify to run in the premier league on Monday Nights\. to be eligible to stay in the premier league you must sit 40th or higher in the DML \- Dirt Midget League Series Point Standings if not you will be required to race the pre qualifier league races until you maintain a top 40 points standing |
+|[DNS \- All Stars](https://members.iracing.com/membersite/member/LeagueView.do?league=13192){:target="_blank"} |[Discord](https://discord.gg/geJZ8ZVhQk){:target="_blank"} |DNS \- All Stars is a beginner\-friendly iRacing league designed for fresh racers with little or no experience\. We’ve all been there—losing iRating early in our careers due to inexperience, confusion about racing etiquette, or unfamiliarity with iRacing and third\-party tools\. |
+|[Elite Racing Network\- SM Design Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13194){:target="_blank"} | |Welcome to the Elite Racing Network\- SM Design Truck Series   Admins: Eric Heil \| Adam Spratt \| Paul Christensen \| Christopher Bruns \| Damien Lampert \| Peter Rouzic |
+|[Ridgway Racing Setups](https://members.iracing.com/membersite/member/LeagueView.do?league=13190){:target="_blank"} | |Patreon Member Practice League |
+|[WRIGHT Time ARCA series](https://members.iracing.com/membersite/member/LeagueView.do?league=13193){:target="_blank"} | |Welcome to our 1st year 12 race ARCA series   we are aiming to do a progression system if this league is successful |
+|[PG Lang](https://members.iracing.com/membersite/member/LeagueView.do?league=13188){:target="_blank"} | | |
 
