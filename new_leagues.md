@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[BNR Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13127){:target="_blank"} | |Growing Next Gen Series\. Discord\.gg/VPAqyqtE |
-|[Latvia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13129){:target="_blank"} | |https://discord\.com/invite/6DQP5mPyDm |
-|[Legacy Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13130){:target="_blank"} | |Oval Racing with one Daytona road race |
-|[F1\-Onlineliga Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13128){:target="_blank"} | | |
 |[Checkers N Wreckers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13132){:target="_blank"} | |Casual/Compative racing league |
 |[DUBV RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=13134){:target="_blank"} | |I STARTED THIS LEAGUE BACK ON GT7 AND NOW THAT I HAVE MERGED ONTO IRACING, I WANT TO CONTINUE WHAT I STARTED THERE AND BRING THE FUN OVER TO IRACING\.\.\.\. KEEP AN EYE OUT IN OUR DISCORD FOR INFORMATION OUTSIDE OF HERE ON WHATS HAPPENING WITH THE LEAGUE'S FUTURE\.\.\. |
 |[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |[Discord](https://discord.gg/nF3w2f97){:target="_blank"} |Australian based Sim Racing league that promotes hard racing, fair play, with an awesome community\. |
@@ -53,7 +49,7 @@
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} | |Euro Timeslot V8 League |
 |[5 Guys IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=13179){:target="_blank"} | | |
 |[FlatOut Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13176){:target="_blank"} | |League just for fun |
-|[FRIC SimRacing Feierabend\-Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=13178){:target="_blank"} | |Vorbereitungstraining am Montag Abend \(Details folgen\) für GT\-Sprint ausweich auf IMSA falls Special Event\. Von 2\.5k \- 14k\. HARTES und FAIRES RACING\. Es geht um die Goldene Ananas\!\!\! |
+|[FRIC SimRacing Feierabend\-Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=13178){:target="_blank"} | |Vorbereitungstraining am Montag Abend \(Open Practice: 18:15, Qualy 2L Lone: 20:20, Rennstart: 20:30 \- GT Sprint 40min\) für GT\-Sprint ausweich auf IMSA falls Special Event\. Von 2\.5k \- 14k\. HARTES und FAIRES RACING\. Es geht um die Goldene Ananas\!\!\! |
 |[Lumeris Racing Institute](https://members.iracing.com/membersite/member/LeagueView.do?league=13177){:target="_blank"} | |A community designed for deep learning\. This is where drivers come together to find clarity, grow awareness, and build their racing instinct\. |
 |[IFF ESPORT Indy](https://members.iracing.com/membersite/member/LeagueView.do?league=13180){:target="_blank"} | |Campionato IndyCar \- Fixed |
 |[V7 League](https://members.iracing.com/membersite/member/LeagueView.do?league=13181){:target="_blank"} | |V7 League |
