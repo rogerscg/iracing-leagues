@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Checkers N Wreckers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13132){:target="_blank"} | |Casual/Compative racing league |
-|[DUBV RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=13134){:target="_blank"} | |I STARTED THIS LEAGUE BACK ON GT7 AND NOW THAT I HAVE MERGED ONTO IRACING, I WANT TO CONTINUE WHAT I STARTED THERE AND BRING THE FUN OVER TO IRACING\.\.\.\. KEEP AN EYE OUT IN OUR DISCORD FOR INFORMATION OUTSIDE OF HERE ON WHATS HAPPENING WITH THE LEAGUE'S FUTURE\.\.\. |
-|[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |[Discord](https://discord.gg/nF3w2f97){:target="_blank"} |Australian based Sim Racing league that promotes hard racing, fair play, with an awesome community\. |
-|[RFRL Elite Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13135){:target="_blank"} | |Iracing Xfinity Series |
-|[Sunoco All\-Star Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13133){:target="_blank"} | | |
 |[Blackwood Performance Multi\-Class](https://members.iracing.com/membersite/member/LeagueView.do?league=13137){:target="_blank"} |[Discord](https://discord.gg/TUhhmbEsEE){:target="_blank"} | |
 |[American Velocity Championship \(AVC\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13138){:target="_blank"} | |Laughs\. Right turns, Left turns, and rocket ships\. |
 |[Legacy Cup Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13136){:target="_blank"} |[Discord](https://discord.gg/j7UV8M8gBK){:target="_blank"} |Racing Too Good To Leave Behind |
@@ -65,4 +60,11 @@
 |[Ridgway Racing Setups](https://members.iracing.com/membersite/member/LeagueView.do?league=13190){:target="_blank"} | |Patreon Member Practice League |
 |[WRIGHT Time ARCA series](https://members.iracing.com/membersite/member/LeagueView.do?league=13193){:target="_blank"} | |Welcome to our 1st year 12 race ARCA series   we are aiming to do a progression system if this league is successful |
 |[PG Lang](https://members.iracing.com/membersite/member/LeagueView.do?league=13188){:target="_blank"} | | |
+|[BDYD invitational series](https://members.iracing.com/membersite/member/LeagueView.do?league=13202){:target="_blank"} | |Fixed setup Limited Late Model series toshowcase the best drivers not the best setup\. Each Series race will also give 5 invitations to drivers for the 2026 Jackson Croft Memorial\. |
+|[Crash Test Dummies](https://members.iracing.com/membersite/member/LeagueView.do?league=13198){:target="_blank"} | |Här kraschar vi så det sjunger om det |
+|[DDSRT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13201){:target="_blank"} | |The DDSRT Challenge League is a fun yet competitive iRacing community built for racers who enjoy clean, respectful, and thrilling battles on track\. Our focus is on creating a fair and friendly environment where both newcomers and experienced drivers can showcase their skills\. We welcome all respectful drivers who want to race hard, race fair, and build friendships along the way\. Communication, updates, and results will be shared in our Discord/WhatsApp group\. |
+|[Oak Med](https://members.iracing.com/membersite/member/LeagueView.do?league=13199){:target="_blank"} | | |
+|[Racinghaus Fastest Lap \- Oval \[Academy\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13196){:target="_blank"} | | |
+|[Racinghaus Fastest Lap \- Road \[Academy\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13197){:target="_blank"} | | |
+|[The boys](https://members.iracing.com/membersite/member/LeagueView.do?league=13200){:target="_blank"} | |Chillers |
 
