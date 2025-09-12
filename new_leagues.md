@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Blackwood Performance Multi\-Class](https://members.iracing.com/membersite/member/LeagueView.do?league=13137){:target="_blank"} |[Discord](https://discord.gg/TUhhmbEsEE){:target="_blank"} | |
-|[American Velocity Championship \(AVC\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13138){:target="_blank"} | |Laughs\. Right turns, Left turns, and rocket ships\. |
-|[Legacy Cup Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13136){:target="_blank"} |[Discord](https://discord.gg/j7UV8M8gBK){:target="_blank"} |Racing Too Good To Leave Behind |
-|[Mud Slingers Off Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13139){:target="_blank"} | |Just a bunch of friends playing in the mud |
 |[leekwwanghee](https://members.iracing.com/membersite/member/LeagueView.do?league=13144){:target="_blank"} | | |
 |[multi class nascar](https://members.iracing.com/membersite/member/LeagueView.do?league=13141){:target="_blank"} | |cup vs xfinty vs truks vs arca |
 |[SXRL: Arca East](https://members.iracing.com/membersite/member/LeagueView.do?league=13143){:target="_blank"} |[Discord](https://discord.gg/nPq6pCP9pa){:target="_blank"} |Welcome to Arca East vs Arca West\. Please head over to the discord for more information |
@@ -67,4 +63,12 @@
 |[Racinghaus Fastest Lap \- Oval \[Academy\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13196){:target="_blank"} | | |
 |[Racinghaus Fastest Lap \- Road \[Academy\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13197){:target="_blank"} | | |
 |[The boys](https://members.iracing.com/membersite/member/LeagueView.do?league=13200){:target="_blank"} | |Chillers |
+|[Crossroads Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13210){:target="_blank"} | | |
+|[Formula Rookies](https://members.iracing.com/membersite/member/LeagueView.do?league=13204){:target="_blank"} |[Discord](https://discord.gg/6d76y4GEN9){:target="_blank"} |New to Formula and want a place to practice and learn? Sign up\! |
+|[Ignition Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13209){:target="_blank"} | | |
+|[JOY耐](https://members.iracing.com/membersite/member/LeagueView.do?league=13207){:target="_blank"} | | |
+|[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |[Discord](https://discord.gg/rEwReysA){:target="_blank"} | |
+|[Matchfit Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13206){:target="_blank"} | | |
+|[Night Owl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13205){:target="_blank"} | |For those on later than the rest\. |
+|[Formula Challenge by AntiGravity](https://members.iracing.com/membersite/member/LeagueView.do?league=13203){:target="_blank"} | |Campeonato de formulas organizado por el equipo AntiGravity Sim Racing |
 
