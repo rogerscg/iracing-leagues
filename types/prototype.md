@@ -41,7 +41,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy |23 |2105 | |Circuit of the Americas |Fri, September 12 03:58PM EDT |Fri, September 12 08:58PM BST |Sat, September 13 05:58AM AEST |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy |23 |2138 | |Watkins Glen International |Fri, September 19 03:58PM EDT |Fri, September 19 08:58PM BST |Sat, September 20 05:58AM AEST |
 |[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1947 |Open | | | | |
 |[NoBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} |LMP3 NoBS season 1 |12 |2002 |Fixed |Road America |Tue, September 16 08:45PM EDT |Wed, September 17 01:45AM BST |Wed, September 17 10:45AM AEST |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |SCR Season \#3 |10 |1428 |Both |Fuji International Speedway |Wed, September 17 06:00PM EDT |Wed, September 17 11:00PM BST |Thu, September 18 08:00AM AEST |

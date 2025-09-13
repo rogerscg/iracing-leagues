@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[leekwwanghee](https://members.iracing.com/membersite/member/LeagueView.do?league=13144){:target="_blank"} | | |
-|[multi class nascar](https://members.iracing.com/membersite/member/LeagueView.do?league=13141){:target="_blank"} | |cup vs xfinty vs truks vs arca |
-|[SXRL: Arca East](https://members.iracing.com/membersite/member/LeagueView.do?league=13143){:target="_blank"} |[Discord](https://discord.gg/nPq6pCP9pa){:target="_blank"} |Welcome to Arca East vs Arca West\. Please head over to the discord for more information |
-|[SXRL: Arca West](https://members.iracing.com/membersite/member/LeagueView.do?league=13142){:target="_blank"} |[Discord](https://discord.gg/nPq6pCP9pa){:target="_blank"} |Welcome to SXRL: Arca West vs Arca East Division\. Head over to the discord for more information |
-|[The Bros](https://members.iracing.com/membersite/member/LeagueView.do?league=13140){:target="_blank"} | | |
-|[Vested Ice Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13145){:target="_blank"} | |Beginners focussed for Rookie to Class C drivers\. |
 |[APRF Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=13147){:target="_blank"} | |This league is about helping develop new sim racers, and make racing about racing again\! |
 |[FIA F4 eMotorsport ARG by Logitech G](https://members.iracing.com/membersite/member/LeagueView.do?league=13152){:target="_blank"} | |Campeonato oficial eMotorsport F4 dentro de la plataforma iRacing\. |
 |[Rotorhead Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13149){:target="_blank"} | | |
@@ -71,4 +65,8 @@
 |[Matchfit Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13206){:target="_blank"} | | |
 |[Night Owl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13205){:target="_blank"} | |For those on later than the rest\. |
 |[Formula Challenge by AntiGravity](https://members.iracing.com/membersite/member/LeagueView.do?league=13203){:target="_blank"} | |Campeonato de formulas organizado por el equipo AntiGravity Sim Racing |
+|[DCinside Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13216){:target="_blank"} | |DCinside Simracing |
+|[HTRS Hardcore Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13211){:target="_blank"} | | |
+|[Terminator League](https://members.iracing.com/membersite/member/LeagueView.do?league=13213){:target="_blank"} | | |
+|[ASAS Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13215){:target="_blank"} | | |
 
