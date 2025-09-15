@@ -2,16 +2,12 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[be smart have fun](https://members.iracing.com/membersite/member/LeagueView.do?league=13156){:target="_blank"} | | |
 |[Cobra Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13163){:target="_blank"} |[Discord](https://discord.gg/honkem){:target="_blank"} |Friendly racing |
 |[GLR Glove Station Arca West](https://members.iracing.com/membersite/member/LeagueView.do?league=13162){:target="_blank"} | |This is a developmental series where drivers can have a coach or ask questions in an open forum to develop race craft from more experienced drivers |
-|[Indy at Night](https://members.iracing.com/membersite/member/LeagueView.do?league=13158){:target="_blank"} | |An indycar league that only runs races under the lights |
 |[Road Course Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=13161){:target="_blank"} | | |
 |[Rocken R Budget League](https://members.iracing.com/membersite/member/LeagueView.do?league=13164){:target="_blank"} | |Where Rookies Become Has\-Beens |
 |[The League of Gong](https://members.iracing.com/membersite/member/LeagueView.do?league=13165){:target="_blank"} | | |
-|[Zoot Lord Racing Leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=13157){:target="_blank"} | | |
 |[Zypto Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13159){:target="_blank"} | |nascar racing |
-|[4SS Victoria](https://members.iracing.com/membersite/member/LeagueView.do?league=13155){:target="_blank"} | |Racers of 4SS Victoria Karting |
 |[Elite Sim Expo League](https://members.iracing.com/membersite/member/LeagueView.do?league=13160){:target="_blank"} | |This is the league used for the racing at the annual Sim Expo\. |
 |[4tty](https://members.iracing.com/membersite/member/LeagueView.do?league=13170){:target="_blank"} | |4tty |
 |[Challenge CAN\-AM](https://members.iracing.com/membersite/member/LeagueView.do?league=13167){:target="_blank"} | |dirt racing |
@@ -53,7 +49,7 @@
 |[Ignition Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13209){:target="_blank"} | | |
 |[JOY耐](https://members.iracing.com/membersite/member/LeagueView.do?league=13207){:target="_blank"} | | |
 |[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |[Discord](https://discord.gg/rEwReysA){:target="_blank"} | |
-|[Matchfit Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13206){:target="_blank"} | | |
+|[Matchfit Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13206){:target="_blank"} | |Oct 26th  300km \- 100 laps  Winton Motor Race  BMW M2 CS  Server live 2pm, Race starts 3pm NZ time |
 |[Night Owl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13205){:target="_blank"} | |For those on later than the rest\. |
 |[Formula Challenge by AntiGravity](https://members.iracing.com/membersite/member/LeagueView.do?league=13203){:target="_blank"} | |Campeonato de formulas organizado por el equipo AntiGravity Sim Racing |
 |[DCinside Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13216){:target="_blank"} | |DCinside Simracing |
@@ -65,4 +61,16 @@
 |[Ignition Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13220){:target="_blank"} | |iOR runs the next gens Wednesday nights and the modern trucks Friday nights |
 |[running on empty](https://members.iracing.com/membersite/member/LeagueView.do?league=13217){:target="_blank"} | |we are all running on fumes here if you like to race hard and clean come join us\.\.\.\.\.\.\.WHAT COLOUR IS SHE GREEN GREEN IS NICE |
 |[PHR Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13219){:target="_blank"} | | |
+|[ADK Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=13224){:target="_blank"} | |clean and respectful racing is number one and everyone is held to this standard |
+|[GFi Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13230){:target="_blank"} | |The top tier racing at GFi\. Only the best get to race in this competitive series\. |
+|[GFi Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13231){:target="_blank"} | |Road racing is for turning right and left\. This series if for all levels of road drivers\. |
+|[Korn Pop Racing Extravaganza](https://members.iracing.com/membersite/member/LeagueView.do?league=13226){:target="_blank"} | | |
+|[Limit of Adhesion \- Sprint](https://members.iracing.com/membersite/member/LeagueView.do?league=13225){:target="_blank"} | |The home of the Sprint championship of the Limit of Adhesion\. |
+|[OutCast Motorsports Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13233){:target="_blank"} |[Discord](https://discord.gg/syFBG8PuPe){:target="_blank"} |The OutCast Motorsports League \(OCM\) is a community of drivers who elevate the iRacing experience to the next level\. We deliver a competitive league for all involved, while maintaining our commitment that every OutCast member treats others with the utmost respect\. |
+|[PPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=13232){:target="_blank"} |[Discord](https://discord.gg/mHYcDk4Xdv){:target="_blank"} |gt3 formula NASCAR and enduro |
+|[zamcorp practice server](https://members.iracing.com/membersite/member/LeagueView.do?league=13234){:target="_blank"} | | |
+|[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} | | |
+|[Craic'd](https://members.iracing.com/membersite/member/LeagueView.do?league=13229){:target="_blank"} | |Fender Benders |
+|[GFi Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13228){:target="_blank"} | |This is series is for less our tier 2 drivers\. Drivers in this series will have the opportunity to advance to the Cup series\. |
+|[Ump Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13227){:target="_blank"} | |Ump Dirt Oval Racing |
 
