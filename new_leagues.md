@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Cobra Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13163){:target="_blank"} |[Discord](https://discord.gg/honkem){:target="_blank"} |Friendly racing |
-|[GLR Glove Station Arca West](https://members.iracing.com/membersite/member/LeagueView.do?league=13162){:target="_blank"} | |This is a developmental series where drivers can have a coach or ask questions in an open forum to develop race craft from more experienced drivers |
-|[Road Course Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=13161){:target="_blank"} | | |
-|[Rocken R Budget League](https://members.iracing.com/membersite/member/LeagueView.do?league=13164){:target="_blank"} | |Where Rookies Become Has\-Beens |
-|[The League of Gong](https://members.iracing.com/membersite/member/LeagueView.do?league=13165){:target="_blank"} | | |
-|[Zypto Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13159){:target="_blank"} | |nascar racing |
-|[Elite Sim Expo League](https://members.iracing.com/membersite/member/LeagueView.do?league=13160){:target="_blank"} | |This is the league used for the racing at the annual Sim Expo\. |
 |[4tty](https://members.iracing.com/membersite/member/LeagueView.do?league=13170){:target="_blank"} | |4tty |
 |[Challenge CAN\-AM](https://members.iracing.com/membersite/member/LeagueView.do?league=13167){:target="_blank"} | |dirt racing |
 |[Dirt Outlaw Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13169){:target="_blank"} | | |
@@ -37,7 +30,7 @@
 |[Ridgway Racing Setups](https://members.iracing.com/membersite/member/LeagueView.do?league=13190){:target="_blank"} | |Patreon Member Practice League |
 |[WRIGHT Time ARCA series](https://members.iracing.com/membersite/member/LeagueView.do?league=13193){:target="_blank"} | |Welcome to our 1st year 12 race ARCA series   we are aiming to do a progression system if this league is successful |
 |[PG Lang](https://members.iracing.com/membersite/member/LeagueView.do?league=13188){:target="_blank"} | | |
-|[BDYD invitational series](https://members.iracing.com/membersite/member/LeagueView.do?league=13202){:target="_blank"} | |Fixed setup Limited Late Model series toshowcase the best drivers not the best setup\. Each Series race will also give 5 invitations to drivers for the 2026 Jackson Croft Memorial\. |
+|[BDYD invitational series](https://members.iracing.com/membersite/member/LeagueView.do?league=13202){:target="_blank"} | |Fixed setup Limited Late Model series to showcase the best drivers not the best setup\. Each Series race will also give 5 invitations to drivers for the 2026 Jackson Croft Memorial\. |
 |[Crash Test Dummies](https://members.iracing.com/membersite/member/LeagueView.do?league=13198){:target="_blank"} | |Här kraschar vi så det sjunger om det |
 |[DDSRT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13201){:target="_blank"} | |The DDSRT Challenge League is a fun yet competitive iRacing community built for racers who enjoy clean, respectful, and thrilling battles on track\. Our focus is on creating a fair and friendly environment where both newcomers and experienced drivers can showcase their skills\. We welcome all respectful drivers who want to race hard, race fair, and build friendships along the way\. Communication, updates, and results will be shared in our Discord/WhatsApp group\. |
 |[Oak Med](https://members.iracing.com/membersite/member/LeagueView.do?league=13199){:target="_blank"} | | |
@@ -73,4 +66,6 @@
 |[Craic'd](https://members.iracing.com/membersite/member/LeagueView.do?league=13229){:target="_blank"} | |Fender Benders |
 |[GFi Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13228){:target="_blank"} | |This is series is for less our tier 2 drivers\. Drivers in this series will have the opportunity to advance to the Cup series\. |
 |[Ump Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13227){:target="_blank"} | |Ump Dirt Oval Racing |
+|[Flemdogs Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13237){:target="_blank"} |[Discord](https://discord.gg/eyGU825t){:target="_blank"} |Next Gen Cup Series, Monday nights practice at 7:30est with green flag at 8:30pm est\. join the discord https://discord\.gg/eyGU825t |
+|[Momentum Racing League \(Season 1\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13235){:target="_blank"} |[Discord](https://discord.gg/r3fGNzU4Wk){:target="_blank"} |Truck Series Racing League that is driven off of strong competition and clean racing\! |
 
