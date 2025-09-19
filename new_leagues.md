@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[5 Guys IMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=13179){:target="_blank"} | | |
-|[FlatOut Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13176){:target="_blank"} | |League just for fun |
-|[FRIC SimRacing Feierabend\-Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=13178){:target="_blank"} | |Vorbereitungstraining am Montag Abend \(Open Practice: 18:15, Qualy 2L Lone: 20:20, Rennstart: 20:30 \- GT Sprint 40min\) für GT\-Sprint ausweich auf IMSA falls Special Event\. Von 2\.5k \- 14k\. HARTES und FAIRES RACING\. Es geht um die Goldene Ananas\!\!\! |
-|[Lumeris Racing Institute](https://members.iracing.com/membersite/member/LeagueView.do?league=13177){:target="_blank"} | |A community designed for deep learning\. This is where drivers come together to find clarity, grow awareness, and build their racing instinct\. |
 |[IFF ESPORT Indy](https://members.iracing.com/membersite/member/LeagueView.do?league=13180){:target="_blank"} | |Campionato IndyCar \- Fixed |
 |[V7 League](https://members.iracing.com/membersite/member/LeagueView.do?league=13181){:target="_blank"} | |V7 League |
 |[青盟iRacing俱乐部联赛](https://members.iracing.com/membersite/member/LeagueView.do?league=13182){:target="_blank"} | |微信：QMiRacing 欢迎您加入！ |
@@ -71,4 +67,14 @@
 |[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} | | |
 |[Tri Oval Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13251){:target="_blank"} | |we will be racing everything dirt at one point or another |
 |[Malta National F4 Championship 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=13250){:target="_blank"} | |Malta Motorsport Federation National F4 Sim Racing Championship, organised by World Pro Racing |
+|[Caribbean Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13256){:target="_blank"} | |Join our exciting Caribbean Simracing league, where passion for speed and competition come together\. Participate in thrilling races, improve your skills, and enjoy a competitive yet friendly environment\. Get ready to push your limits on the track\! |
+|[Delta Hunters Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13261){:target="_blank"} |[Discord](https://discord.gg/4RAqkyha4u){:target="_blank"} | |
+|[Eight01](https://members.iracing.com/membersite/member/LeagueView.do?league=13252){:target="_blank"} | |Bathurst test |
+|[FIA F4 Uruguay 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=13260){:target="_blank"} | |Pre Qualy campeonato Uruguayo |
+|[Liberty Belle League](https://members.iracing.com/membersite/member/LeagueView.do?league=13258){:target="_blank"} | |An an women's iRacing league on a mission to create a welcoming and supportive environment for all women to grow as drivers\. |
+|[No Bull Racing League \(NBRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13254){:target="_blank"} | |League for drivers who are looking for good, hard racing, but clean racing as well\. Created to get away from the 'bull' that we've experienced in other leagues due to drama from in\-race and post\-race actions\. |
+|[Porsche Challenge France by 2LPXperience](https://members.iracing.com/membersite/member/LeagueView.do?league=13257){:target="_blank"} | |Championnat Porsche \(991 R,991/992 Cup,718 Gt4\) |
+|[PRA Saturday Night Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=13259){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} |PRA's Nascar focused series\. |
+|[Malta National GT3 Championship 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=13253){:target="_blank"} | |Malta Motorsport Federation National GT3 Sim Racing Championship, organised by World Pro Racing |
+|[Race1Online](https://members.iracing.com/membersite/member/LeagueView.do?league=13255){:target="_blank"} | | |
 
