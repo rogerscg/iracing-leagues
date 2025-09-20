@@ -8,7 +8,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
 |[Road To SimRacing Expo](https://members.iracing.com/membersite/member/LeagueView.do?league=12937){:target="_blank"} |Road To SimRacing Expo 2025 |47 |4757 |Fixed | | | | |
 |[Almeida Racing League \- Season 4](https://members.iracing.com/membersite/member/LeagueView.do?league=12757){:target="_blank"} |Split 2 |33 |1862 | | | | | |
 |[Almeida Racing League \- Season 4](https://members.iracing.com/membersite/member/LeagueView.do?league=12757){:target="_blank"} |Split 3 |32 |1439 | | | | | |
@@ -16,6 +16,7 @@
 |[ADAC SimRacing Cup \- Clubsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10120){:target="_blank"} |2025 S2 |28 |1401 |Fixed | | | | |
 |[LVRSCCA\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10529){:target="_blank"} |2025 LVRSCCA  BMW M2 |19 |1788 |Open | | | | |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Saturday Night M2 Bravarian Bash |19 |1346 |Fixed | | | | |
+|[San Diego iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13096){:target="_blank"} |San Diego M2 Cup |11 |1241 | |Oulton Park Circuit |Fri, September 26 11:30PM EDT |Sat, September 27 04:30AM BST |Sat, September 27 01:30PM AEST |
 
 ### Hosted All Cars Class
 
