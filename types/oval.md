@@ -72,17 +72,17 @@
 |[Super\-High Intensity Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9997){:target="_blank"} |Two\-Five Designs Grass Roots Series |11 |1997 |Fixed | | | | |
 |[THURSDAY NIGHT THUNDER](https://members.iracing.com/membersite/member/LeagueView.do?league=4968){:target="_blank"} |LATE MODEL \- SEASON 3 |10 |1715 | | | | | |
 |[Sim ARCA Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12421){:target="_blank"} |Timmys Late model League |10 |2095 | | | | | |
-|[CASH CLOWNS](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |SEASON 3 |10 |1790 | | | | | |
+|[CASH CLOWNS](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |SEASON 3 |10 |1790 | |Oxford Plains Speedway |Sun, September 28 09:00PM EDT |Mon, September 29 02:00AM BST |Mon, September 29 11:00AM AEST |
 
 ### Legends
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Tuesdays Legends Season 1 |36 |1659 |Fixed | | | | |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 5 |28 |2241 |Fixed | | | | |
-|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Legends of the Fall |27 |1894 | |Southern National Motorsports Park |Sat, September 20 09:30AM EDT |Sat, September 20 02:30PM BST |Sat, September 20 11:30PM AEST |
+|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Legends of the Fall |27 |1900 | | | | | |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |Legends Cup |26 |2108 | | | | | |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 6 |23 |2252 |Fixed | | | | |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Legends Cup |22 |1496 |Both | | | | |
@@ -121,7 +121,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|-------------------------------|-----------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|------------------------|-----------------------------|-----------------------------|------------------------------|
 |[XCAL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1264){:target="_blank"} |2025 XCAL RACING WEB SHOP SERIES |63 |3048 |Both | | | | |
 |[Xcelerate Racing League Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=11472){:target="_blank"} |HAVOC Racing Syndicate Street Stock Season 2 |59 |1790 | | | | | |
 |[Leave The Pack iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5801){:target="_blank"} |LTP Street Stock Showdown S3 |58 |3622 | | | | | |
@@ -148,13 +148,13 @@
 |[PRA Short Track League](https://members.iracing.com/membersite/member/LeagueView.do?league=12999){:target="_blank"} |Asphalt Assault Series \| Season 3 |19 |1942 | |Concord Speedway |Mon, September 22 09:00PM EDT |Tue, September 23 02:00AM BST |Tue, September 23 11:00AM AEST |
 |[United Racing Online Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11591){:target="_blank"} |Streeters Showdown S1 |18 |2684 | | | | | |
 |[Friday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13036){:target="_blank"} |8\.22\.2025 1 |18 |1966 | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- Global Stock Car Challenge \(2025B\) |17 |1540 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- Global Stock Car Challenge \(2025B\) |17 |1542 |Fixed | | | | |
 |[T\-Ray's Circle Track Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12860){:target="_blank"} |Street Stocks Season 1 |17 |1371 | | | | | |
 |[EPIC RACING ASSOCIATION \(ERA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9790){:target="_blank"} |Tri\-Track Challenge Series |16 |2233 | | | | | |
 |[Friday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13036){:target="_blank"} |August 29th 2025 |15 |1998 | | | | | |
+|[Suarez Creations iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12829){:target="_blank"} |Street Stock Series \(Season 1\) |14 |1739 | | | | | |
 |[Friday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13036){:target="_blank"} |8\.8\.2025 |14 |2320 | | | | | |
 |[SMOKE N TACOS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8349){:target="_blank"} |Street Stocks |13 |1416 |Both | | | | |
-|[Suarez Creations iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12829){:target="_blank"} |Street Stock Series \(Season 1\) |13 |1679 | |[Legacy] Phoenix Raceway - 2008 |Sat, September 20 07:00PM EDT |Sun, September 21 12:00AM BST |Sun, September 21 09:00AM AEST |
 |[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} |2025 S2 Street Stocks |12 |3005 |Fixed | | | | |
 
 ### Super Late Model
@@ -165,11 +165,11 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
 |[ALL\-STAR Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9161){:target="_blank"} |2025 All Pro Sim Super Series Season |56 |2713 | |Bristol Motor Speedway |Mon, September 22 07:00PM EDT |Tue, September 23 12:00AM BST |Tue, September 23 09:00AM AEST |
 |[Renegade Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9561){:target="_blank"} |THURSDAY NIGHT THUNDER |43 |1825 |Fixed | | | | |
-|[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} |Season 2 |39 |3832 |Open | | | | |
+|[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} |Season 2 |39 |3832 |Open |Hickory Motor Speedway |Sun, September 28 07:30PM EDT |Mon, September 29 12:30AM BST |Mon, September 29 09:30AM AEST |
 |[American Sim Racing Club \(Super Late Models\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11734){:target="_blank"} |Postma Flooring SLM \- Fall 2025 |35 |2960 |Fixed | | | | |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |07 Tuesdays Super Late Models Season 2 |30 |1850 |Fixed |Bristol Motor Speedway |Tue, September 23 09:00PM EDT |Wed, September 24 02:00AM BST |Wed, September 24 11:00AM AEST |
 |[Prodigy Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10908){:target="_blank"} |Super Late Model Series｜Season 1 |26 |1787 |Both | | | | |
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |6BDesigns Super Late Model Tour |15 |2147 |Both | | | | |
-|[Slingshot Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8466){:target="_blank"} |SRL Short Track Championship Season 1 |14 |2297 | | | | | |
+|[Slingshot Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8466){:target="_blank"} |SRL Short Track Championship Season 1 |14 |2297 | |New Smyrna Speedway |Mon, September 22 07:00PM EDT |Tue, September 23 12:00AM BST |Tue, September 23 09:00AM AEST |
 |[OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Hometown Short Track S10, 9pm est\. Mitchell Williams |13 |1847 |Both |Myrtle Beach Speedway |Wed, September 24 09:00PM EDT |Thu, September 25 02:00AM BST |Thu, September 25 11:00AM AEST |
 

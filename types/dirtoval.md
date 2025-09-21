@@ -40,7 +40,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|---------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
 |[ASND Harman Designs Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7505){:target="_blank"} |2025 Speedway Series 3 Pro Late Models |47 |2587 | | | | | |
 |[NLR High Stakes Pro Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11702){:target="_blank"} |High Stakes Pro Late Models |43 |2972 | |Knoxville Raceway |Tue, September 23 08:00PM EDT |Wed, September 24 01:00AM BST |Wed, September 24 10:00AM AEST |
 |[PLMDS \- Sanctioned Events](https://members.iracing.com/membersite/member/LeagueView.do?league=6365){:target="_blank"} |2025 \- Sanctioned Events |41 |2450 | | | | | |
@@ -54,6 +54,8 @@
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Monday Masters of Dirt |17 |1300 | | | | | |
 |[Bone Head Racing: Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=4204){:target="_blank"} |BHR Dirt Tour: Season 1 |17 |1861 |Fixed | | | | |
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Fall Jamboree Pro Late Models |16 |2072 |Fixed | | | | |
+|[Twisted Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=13117){:target="_blank"} |Pro Late Models Season 1 |16 |1417 | | | | | |
+|[Freedom Motorsports Alliance\-Dirt Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13173){:target="_blank"} |FMA pro lates season 1 |16 |1720 |Fixed |Williams Grove Speedway |Fri, September 26 08:30PM EDT |Sat, September 27 01:30AM BST |Sat, September 27 10:30AM AEST |
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Thursday Night Throwdown \- Dirt \- S1 |15 |1265 |Fixed |Volusia Speedway Park |Thu, September 25 08:00PM EDT |Fri, September 26 01:00AM BST |Fri, September 26 10:00AM AEST |
 |[Fast Action Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12487){:target="_blank"} |FARS Dirt Season 1 |12 |1765 |Fixed | | | | |
 |[Dirt Trackin' Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=13048){:target="_blank"} |Dream Tour |10 |1610 | | | | | |
@@ -103,8 +105,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------|----|-----|-------------|--------|------|------|
-|[ASND Presents VapourTrail Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |2025 Outlaw Micro Sprints |20 |1971 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
+|[ASND Presents VapourTrail Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |2025 Outlaw Micro Sprints |20 |1971 | |Millbridge Speedway |Sun, September 21 06:30AM EDT |Sun, September 21 11:30AM BST |Sun, September 21 08:30PM AEST |
 
 ### Dirt SprintCar - 305
 
@@ -121,8 +123,8 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |93 |2179 |Open | | | | |
+|[Afb Lounge 360 sprintcars](https://members.iracing.com/membersite/member/LeagueView.do?league=12924){:target="_blank"} |AFB 360 SPRINTCARS |81 |2326 | | | | | |
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 360 Season 21 |81 |4210 |Open |Port Royal Speedway |Tue, September 23 09:00PM EDT |Wed, September 24 02:00AM BST |Wed, September 24 11:00AM AEST |
-|[Afb Lounge 360 sprintcars](https://members.iracing.com/membersite/member/LeagueView.do?league=12924){:target="_blank"} |AFB 360 SPRINTCARS |79 |2339 | | | | | |
 |[RPES 305 & 360 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2025 RPES 360 Sprint Car Series |78 |3838 |Fixed | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |68 |2681 |Open | | | | |
 |[Australian Super Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |𝗠𝗼𝗻𝗱𝗮𝘆 𝗡𝗶𝗴𝗵𝘁 𝗦𝗽𝗿𝗶𝗻𝘁𝗰𝗮𝗿 𝗦𝗲𝗿𝗶𝗲𝘀 2025 |53 |3338 | |Knoxville Raceway |Mon, September 22 07:00AM EDT |Mon, September 22 12:00PM BST |Mon, September 22 09:00PM AEST |
@@ -131,9 +133,9 @@
 |[Knoxville Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=12859){:target="_blank"} |Knoxville A\-main |29 |2606 | | | | | |
 |[The Down Under Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=12697){:target="_blank"} |Graham electrical & data Chariots of Thunder 360 Sprint car series |27 |2200 | | | | | |
 |[AcesUp Fall Frenzy 360 Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10746){:target="_blank"} |AcesUp Fall Frenzy 360 Sprint Cars 2025 |21 |3705 | |Lernerville Speedway |Wed, September 24 09:00PM EDT |Thu, September 25 02:00AM BST |Thu, September 25 11:00AM AEST |
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |14 Saturdays 360 Sprint Season 2 |14 |1960 |Fixed |Knoxville Raceway |Sat, September 27 10:30PM EDT |Sun, September 28 03:30AM BST |Sun, September 28 12:30PM AEST |
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Fall Jamboree 360 Sprint Cars |14 |1840 |Fixed | | | | |
 |[NORA Big Events](https://members.iracing.com/membersite/member/LeagueView.do?league=3238){:target="_blank"} |NORA 5th 360 Knoxville Nationals |14 |2488 |Open | | | | |
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |14 Saturdays 360 Sprint Season 2 |10 |2120 |Fixed |Eldora Speedway |Sat, September 20 10:30PM EDT |Sun, September 21 03:30AM BST |Sun, September 21 12:30PM AEST |
 
 ### Dirt SprintCar - 360wingless
 
@@ -175,11 +177,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------|----|-----|---------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|---------------------|-----------------------------|-----------------------------|------------------------------|
 |[FACTORY STOCK SUPER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=12674){:target="_blank"} |FACTORY STOCK SUPER SERIES SEASON 1 |33 |3735 | | | | | |
 |[Dirt Warrior Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2763){:target="_blank"} |WNSF SEASON 21 |33 |3910 |Open |Fairbury Speedway |Wed, September 24 07:59PM EDT |Thu, September 25 12:59AM BST |Thu, September 25 09:59AM AEST |
 |[EFRL Dirt Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8578){:target="_blank"} |DSS Season 7 2025 |24 |1941 | |Volusia Speedway Park |Tue, September 23 09:00PM EDT |Wed, September 24 02:00AM BST |Wed, September 24 11:00AM AEST |
 |[Dirt Warrior Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2763){:target="_blank"} |DWRL WNSF S21 |23 |3551 |Open | | | | |
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |12 Saturday Dirt Street Stocks Season 1 |11 |1809 |Fixed |Knoxville Raceway |Sat, September 27 07:00PM EDT |Sun, September 28 12:00AM BST |Sun, September 28 09:00AM AEST |
 
 ### Dirt UMP Modified
 
@@ -192,8 +195,8 @@
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB UMP Season 1 |25 |3015 |Open | | | | |
 |[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |s6 UMP mods |21 |3234 | | | | | |
 |[DIRTKARS UMP SERIES powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7932){:target="_blank"} |DIRTKARS UMP SEASON 9 |20 |1964 | | | | | |
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |13 Saturdays UMP Mods Season 1 |17 |1795 |Fixed |Knoxville Raceway |Sat, September 27 09:00PM EDT |Sun, September 28 02:00AM BST |Sun, September 28 11:00AM AEST |
 |[Down South Racing Rookie League](https://members.iracing.com/membersite/member/LeagueView.do?league=11910){:target="_blank"} |ump |14 |1703 | | | | | |
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |13 Saturdays UMP Mods Season 1 |13 |1809 |Fixed |Eldora Speedway |Sat, September 20 09:00PM EDT |Sun, September 21 02:00AM BST |Sun, September 21 11:00AM AEST |
 |[DIRTKARS UMP SERIES powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7932){:target="_blank"} |season 10 |13 |1797 | |Volusia Speedway Park |Thu, September 25 09:00PM EDT |Fri, September 26 02:00AM BST |Fri, September 26 11:00AM AEST |
 |[Twisted Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=13117){:target="_blank"} |UMP Season 1 |13 |4047 | | | | | |
 

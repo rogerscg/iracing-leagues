@@ -62,8 +62,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------|-------------------------------|-------|----|-----|-------------|-----------------------------|-----------------------------|------------------------------|
-|[GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=11069){:target="_blank"} |GT Masters |11 |1969 |Open |Road America |Sat, September 20 04:00AM EDT |Sat, September 20 09:00AM BST |Sat, September 20 06:00PM AEST |
+|--------------------------------------------------------------------------------------------------------|-------------------------------|-------|----|-----|-------------|--------|------|------|
+|[GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=11069){:target="_blank"} |GT Masters |11 |1969 |Open | | | | |
 |[VRR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=6057){:target="_blank"} |VRR Energizer Supercup Season 1 |10 |1711 |Fixed | | | | |
 
 ### Hosted All Cars Class
@@ -79,7 +79,7 @@
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |GT4 d'été |72 |2131 | | | | | |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 9  |66 |2780 |Fixed | | | | |
 |[IRWC VRS Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |IRWC VRS Porsche Carrera Cup Season 2 |64 |2644 | | | | | |
-|[simRacingPR Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4040){:target="_blank"} |2025 S2 \-simRacingPR Summer Series |57 |2106 |Both | | | | |
+|[simRacingPR](https://members.iracing.com/membersite/member/LeagueView.do?league=4040){:target="_blank"} |2025 S2 \-simRacingPR Summer Series |57 |2106 |Both | | | | |
 |[PCA \- 2025 Entry](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class Checkrides |56 |1582 | | | | | |
 |[EGT Canada \- GT4\|TCR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10104){:target="_blank"} |S12 GT4\|TCR Series \(2025\) |46 |1838 | | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |4 \- Worn Out Racers \- Road Thursday's |46 |1344 |Fixed | | | | |
@@ -105,11 +105,12 @@
 |[Motor City Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12105){:target="_blank"} |MCR \- Late Night Runs Season 1 |16 |1346 |Open | | | | |
 |[Half Fast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10925){:target="_blank"} |Twelve Weeks to Glory |15 |1473 | | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S3 Miata Madness |13 |1882 |Open |Okayama International Circuit |Wed, September 24 07:30PM EDT |Thu, September 25 12:30AM BST |Thu, September 25 09:30AM AEST |
+|[Valiant Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |GTCUP Series |13 |1213 |Fixed |Circuit des 24 Heures du Mans |Sat, September 27 07:00PM EDT |Sun, September 28 12:00AM BST |Sun, September 28 09:00AM AEST |
 |[DDSRT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13201){:target="_blank"} |Short Season 2025 \(17/9\-15/10\) |13 |1923 |Both | | | | |
 |[Sport Car Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=11818){:target="_blank"} |2025 Season 1 |12 |2183 |Fixed | | | | |
+|[Porsche Esports Sprint Challenge GB](https://members.iracing.com/membersite/member/LeagueView.do?league=10204){:target="_blank"} |2025 |12 |None | | | | | |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Down Unda Thunda V8 super junk fun |12 |1385 |Both |Charlotte Motor Speedway  |Fri, September 26 09:00PM EDT |Sat, September 27 02:00AM BST |Sat, September 27 11:00AM AEST |
 |[MAZDA MX\-5 Club VIC TAS \- Sunday Sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=10430){:target="_blank"} |Sunday Sessions \#3 2025 |11 |1703 | |Winton Motor Raceway |Sun, September 21 06:00AM EDT |Sun, September 21 11:00AM BST |Sun, September 21 08:00PM AEST |
-|[Valiant Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |GTCUP Series |10 |1194 |Fixed |Watkins Glen International |Sat, September 20 07:00PM EDT |Sun, September 21 12:00AM BST |Sun, September 21 09:00AM AEST |
 
 ### Mazda MX-5 Cup
 
@@ -153,7 +154,7 @@
 |[MSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12250){:target="_blank"} |MSC MX5 Championship Season 1 |20 |1550 |Fixed |Oran Park Raceway |Sun, September 21 12:00PM EDT |Sun, September 21 05:00PM BST |Mon, September 22 02:00AM AEST |
 |[APRF Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=13147){:target="_blank"} |APRF MX\-5 Cup |14 |1005 |Fixed | | | | |
 |[\(Unofficial\) The Track at Asheville Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11686){:target="_blank"} |Miatas |13 |1426 | | | | | |
-|[HTRS Hardcore Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13211){:target="_blank"} |Season 1 \- HTRS Hardcore Sprint Cup |13 |1795 |Open |Okayama International Circuit |Fri, September 26 12:00PM EDT |Fri, September 26 05:00PM BST |Sat, September 27 02:00AM AEST |
+|[HTRacingS](https://members.iracing.com/membersite/member/LeagueView.do?league=13211){:target="_blank"} |Season 1 \- HTRS Hardcore Sprint Cup |13 |1795 |Open |Okayama International Circuit |Fri, September 26 12:00PM EDT |Fri, September 26 05:00PM BST |Sat, September 27 02:00AM AEST |
 |[CanAm Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3534){:target="_blank"} |1H25 \- MX\-5 |12 |1886 | | | | | |
 |[ORNL\.nl Zondag](https://members.iracing.com/membersite/member/LeagueView.do?league=6769){:target="_blank"} |Mazda Cup |11 |2349 | |Winton Motor Raceway |Sun, September 21 02:00PM EDT |Sun, September 21 07:00PM BST |Mon, September 22 04:00AM AEST |
 
@@ -190,11 +191,11 @@
 |[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |PORSCHE Cup S1\-25 |37 |2076 | | | | | |
 |[PACE Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11264){:target="_blank"} |Porsche Cup \- Season 3 |30 |None | |Red Bull Ring |Mon, September 22 01:30PM EDT |Mon, September 22 06:30PM BST |Tue, September 23 03:30AM AEST |
 |[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 14 |28 |3060 | |Autódromo Hermanos Rodríguez |Mon, September 22 01:00PM EDT |Mon, September 22 06:00PM BST |Tue, September 23 03:00AM AEST |
+|[IRWC VRS Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |Pre Qualifying |27 |None | | | | | |
 |[Simracelab Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12743){:target="_blank"} |Season 1 |26 |2320 | | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S14 Americas Porsche Cup Challenge |26 |2131 |Both |Algarve International Circuit |Thu, September 25 08:00PM EDT |Fri, September 26 01:00AM BST |Fri, September 26 10:00AM AEST |
 |[CAS \- Porsche Community Cup Deutschland](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} |CAS\- Porsche Community Cup Deutschland Season 2 |25 |2011 | | | | | |
 |[PCA \- 2025 Sport \(GP\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6444){:target="_blank"} |PCA S14 \- Sport |24 |1328 | |Watkins Glen International |Wed, September 24 08:15PM EDT |Thu, September 25 01:15AM BST |Thu, September 25 10:15AM AEST |
-|[IRWC VRS Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7613){:target="_blank"} |Pre Qualifying |24 |None | |Red Bull Ring |Sat, September 20 03:30AM EDT |Sat, September 20 08:30AM BST |Sat, September 20 05:30PM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Yes2Rallycross \- RWD \(2025\) |23 |2504 |Fixed | | | | |
 |[PCA \- 2025 Challenge \(GP\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6446){:target="_blank"} |PCA S14 \- Challenge |23 |1095 | |Watkins Glen International |Thu, September 25 08:15PM EDT |Fri, September 26 01:15AM BST |Fri, September 26 10:15AM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2025S3 SGA PORSCHE CUP |21 |2216 |Both | | | | |
@@ -202,9 +203,9 @@
 |[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |Porsche Cup Sprint Series |16 |1758 |Both | | | | |
 |[CRC Virtual Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=10980){:target="_blank"} |Season 3 |16 |2271 |Both |Sebring International Raceway |Thu, September 25 08:00PM EDT |Fri, September 26 01:00AM BST |Fri, September 26 10:00AM AEST |
 |[2025 ESR Porsche Cup Trophy \- DIV3](https://members.iracing.com/membersite/member/LeagueView.do?league=13088){:target="_blank"} |Porsche Cup Trophy 2025 Div 3 |15 |1355 | | | | | |
-|[SIM RACERS ROOM](https://members.iracing.com/membersite/member/LeagueView.do?league=12587){:target="_blank"} |Porsche Cup Challenge \| 2025 S1 |13 |2020 |Open |Circuit Gilles Villeneuve |Sat, September 20 03:00PM EDT |Sat, September 20 08:00PM BST |Sun, September 21 05:00AM AEST |
+|[SIM RACERS ROOM](https://members.iracing.com/membersite/member/LeagueView.do?league=12587){:target="_blank"} |Porsche Cup Challenge \| 2025 S1 |14 |2185 |Open |Circuit de Barcelona Catalunya |Sat, September 27 03:00PM EDT |Sat, September 27 08:00PM BST |Sun, September 28 05:00AM AEST |
 |[Elbows Out Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9914){:target="_blank"} |Porsche Cup Series // 2025 Season 4 Round 1 |11 |1698 |Open |Autódromo José Carlos Pace |Thu, September 25 07:55PM EDT |Fri, September 26 12:55AM BST |Fri, September 26 09:55AM AEST |
-|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Porsche Cup NA |10 |1445 |Fixed |Virginia International Raceway |Sat, September 20 07:30PM EDT |Sun, September 21 12:30AM BST |Sun, September 21 09:30AM AEST |
+|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Porsche Cup NA |10 |1399 |Fixed |Road America |Sat, September 27 07:30PM EDT |Sun, September 28 12:30AM BST |Sun, September 28 09:30AM AEST |
 
 ### Porsche 911 GT3 R (992)
 
@@ -226,8 +227,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|----------------|-----------------------------|-----------------------------|------------------------------|
-|[Renault Clio League](https://members.iracing.com/membersite/member/LeagueView.do?league=11911){:target="_blank"} |THE SECOND SEASON |52 |2943 | |Thruxton Circuit |Sat, September 20 01:29PM EDT |Sat, September 20 06:29PM BST |Sun, September 21 03:29AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Renault Clio League](https://members.iracing.com/membersite/member/LeagueView.do?league=11911){:target="_blank"} |THE SECOND SEASON |54 |2943 | |Nürburgring Grand-Prix-Strecke |Sat, September 27 01:29PM EDT |Sat, September 27 06:29PM BST |Sun, September 28 03:29AM AEST |
 |[ROOKIES CUP / SIMRACER LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9876){:target="_blank"} |Rookies Cup 2025 |39 |1603 | | | | | |
 |[ROOKIES CUP / SIMRACER LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9876){:target="_blank"} |Prácticas libres |34 |1626 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Yes2Rallycross \- FWD \(2025\) |19 |2685 |Fixed | | | | |

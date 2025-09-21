@@ -41,17 +41,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-----------------|-----------------------------|-----------------------------|------------------------------|
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Pre\-Qualifying |192 |None |Open | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2025C V8SC Series \- Trophi\.AI |63 |2360 | | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |OZOVAL V8SC Series 2025B |57 |2097 |Fixed | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SCR Thursday V8 Champions Challenge S2 2025 |42 |1366 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Supercars gen3 Season 3 |37 |1419 | | | | | |
-|[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |V8 Supercars Gen\-3 Season 5 |30 |1496 |Both | | | | |
+|[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |V8 Supercars Gen\-3 Season 5 |30 |1496 |Both |Oran Park Raceway |Sun, September 21 05:00AM EDT |Sun, September 21 10:00AM BST |Sun, September 21 07:00PM AEST |
 |[V8 Veterans Season 25](https://members.iracing.com/membersite/member/LeagueView.do?league=6455){:target="_blank"} |Season 25 |30 |None |Fixed | | | | |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |26 |1605 |Both | | | | |
 |[CiL Collegiate Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CiL Summer Thunder Down Under 2025 |22 |2128 | | | | | |
 |[AROC](https://members.iracing.com/membersite/member/LeagueView.do?league=9076){:target="_blank"} |AROC V |22 |1338 |Fixed | | | | |
+|[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 17 |21 |3740 |Open | | | | |
 |[OZZEE2](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |V8 Gen 3 Season 5 |17 |None |Both | | | | |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Pushrods & Popcorn |14 |1238 |Fixed | | | | |
 |[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |SuperChairs Season 1 |11 |1586 | | | | | |

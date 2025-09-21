@@ -20,7 +20,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|-------------|--------|------|------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2025 |31 |2791 |Fixed | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- TINYTRUCK \(2025B\) |18 |2859 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- TINYTRUCK \(2025B\) |18 |2757 |Fixed | | | | |
 
 ### Pro 2 Truck
 
@@ -39,7 +39,7 @@
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |NARC Lucas Oil Pro 4 |22 |1451 |Open |Firebird Motorsports Park |Mon, September 22 08:30PM EDT |Tue, September 23 01:30AM BST |Tue, September 23 10:30AM AEST |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |PRO FOURS\! |17 |1654 |Fixed | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- 4x4 Rolling Thunder \(2025B\) |14 |2481 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- 4x4 Rolling Thunder \(2025B\) |15 |2465 |Fixed | | | | |
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TKDI Pro 4 shootout \#6 |13 |1363 | |Firebird Motorsports Park |Tue, September 23 08:00PM EDT |Wed, September 24 01:00AM BST |Wed, September 24 10:00AM AEST |
 |[Pit Road Speed Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12735){:target="_blank"} |Jumpy Trucks |11 |1333 |Fixed | | | | |
 

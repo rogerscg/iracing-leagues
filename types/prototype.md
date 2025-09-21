@@ -68,9 +68,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |27 |1354 |Fixed | | | | |
-|[Swan Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12078){:target="_blank"} |Season 2 |26 |1876 | | | | | |
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |26 |1901 |Open |WeatherTech Raceway at Laguna Seca |Mon, September 22 12:30PM EDT |Mon, September 22 05:30PM BST |Tue, September 23 02:30AM AEST |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 4 |23 |2872 | | | | | |
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |21 |1572 | | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 5 |20 |2916 | |Circuit Zandvoort |Mon, September 22 02:50PM EDT |Mon, September 22 07:50PM BST |Tue, September 23 04:50AM AEST |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 2 |19 |2448 |Fixed | | | | |
@@ -90,7 +88,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------|----|-----|-------------|--------|------|------|
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
+|[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Pre\-Qualifying |79 |1661 | |Oulton Park Circuit |Sun, September 21 11:00AM EDT |Sun, September 21 04:00PM BST |Mon, September 22 01:00AM AEST |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S3 SRF WW |78 |3231 |Open | | | | |
 |[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRSCCA SRF \- FALL 2025 |23 |1822 |Both | | | | |
 |[North American Spec Racer Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11606){:target="_blank"} |NASRC Season 1 |11 |1398 |Fixed | | | | |

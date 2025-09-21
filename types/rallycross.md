@@ -30,6 +30,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|-------------------|-------|----|-----|-------------|--------|------|------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------|----|-----|-------------|--------|------|------|
+|[NASA Rallycross Lites World Championship & Futures](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |Lites 25B |20 |3351 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Class 11X \(2025B\) |14 |3039 |Fixed | | | | |
 
