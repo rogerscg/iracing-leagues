@@ -86,4 +86,7 @@
 |[Digital NOS Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=13276){:target="_blank"} | | |
 |[UNTITLED Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13284){:target="_blank"} | |TBD |
 |[WinterFest](https://members.iracing.com/membersite/member/LeagueView.do?league=13281){:target="_blank"} | |Annual short track event held every January at USA International Speedway\. This event is sanctioned by the Bootleg Racing League and the YesterYear Racing League\. |
+|[GP Lab](https://members.iracing.com/membersite/member/LeagueView.do?league=13287){:target="_blank"} | |The Official iRacing League of GP Lab\. Access is included with your subscription to the GP Lab App\! |
+|[Mid DIV](https://members.iracing.com/membersite/member/LeagueView.do?league=13286){:target="_blank"} | |SCCA Mid DIV |
+|[The Fundamental Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13285){:target="_blank"} | |Fixed\-setup Mazda MX\-5 Cup league using only free iRacing content\. 11\-week season focused on clean racing, consistent pace, and racecraft development\. Open to all skill levels\. Weekly races on Saturdays @ 6PM CST\. Cash prizes for top 3\. Discord required to race\. Easy to drive\. Hard to master\. |
 
