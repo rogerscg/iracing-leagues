@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[BDYD Limited Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13202){:target="_blank"} | |Fixed setup Limited Late Model series to showcase the best drivers not the best setup\. Each Series race will also give 5 invitations to drivers for the 2026 Jackson Croft Memorial\. |
-|[Crash Test Dummies](https://members.iracing.com/membersite/member/LeagueView.do?league=13198){:target="_blank"} | |Här kraschar vi så det sjunger om det |
-|[DDSRT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13201){:target="_blank"} | |The DDSRT Challenge League is a fun yet competitive iRacing community built for racers who enjoy clean, respectful, and thrilling battles on track\. Our focus is on creating a fair and friendly environment where both newcomers and experienced drivers can showcase their skills\. We welcome all respectful drivers who want to race hard, race fair, and build friendships along the way\. Communication, updates, and results will be shared in our Discord/WhatsApp group\. |
-|[Oak Med](https://members.iracing.com/membersite/member/LeagueView.do?league=13199){:target="_blank"} | | |
-|[Racinghaus Fastest Lap \- Oval \[Academy\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13196){:target="_blank"} | | |
-|[Racinghaus Fastest Lap \- Road \[Academy\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13197){:target="_blank"} | | |
-|[The boys](https://members.iracing.com/membersite/member/LeagueView.do?league=13200){:target="_blank"} | |Chillers |
 |[Crossroads Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13210){:target="_blank"} | | |
 |[Formula Rookies](https://members.iracing.com/membersite/member/LeagueView.do?league=13204){:target="_blank"} |[Discord](https://discord.gg/6d76y4GEN9){:target="_blank"} |New to Formula and want a place to practice and learn? Sign up\! |
 |[Ignition Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13209){:target="_blank"} | | |
@@ -16,7 +9,6 @@
 |[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |[Discord](https://discord.gg/rEwReysA){:target="_blank"} | |
 |[Matchfit Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13206){:target="_blank"} | |Oct 26th  300km \- 100 laps  Winton Motor Race  BMW M2 CS  Server live 2pm, Race starts 3pm NZ time |
 |[Night Owl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13205){:target="_blank"} | |For those on later than the rest\. |
-|[Formula Challenge by AntiGravity](https://members.iracing.com/membersite/member/LeagueView.do?league=13203){:target="_blank"} | |Campeonato de formulas organizado por el equipo AntiGravity Sim Racing |
 |[DCinside Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13216){:target="_blank"} | |DCinside Simracing |
 |[HTRacingS](https://members.iracing.com/membersite/member/LeagueView.do?league=13211){:target="_blank"} | | |
 |[Terminator League](https://members.iracing.com/membersite/member/LeagueView.do?league=13213){:target="_blank"} | | |
@@ -89,4 +81,10 @@
 |[GP Lab](https://members.iracing.com/membersite/member/LeagueView.do?league=13287){:target="_blank"} | |The Official iRacing League of GP Lab\. Access is included with your subscription to the GP Lab App\! |
 |[Mid DIV](https://members.iracing.com/membersite/member/LeagueView.do?league=13286){:target="_blank"} | |SCCA Mid DIV |
 |[The Fundamental Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13285){:target="_blank"} | |Fixed\-setup Mazda MX\-5 Cup league using only free iRacing content\. 11\-week season focused on clean racing, consistent pace, and racecraft development\. Open to all skill levels\. Weekly races on Saturdays @ 6PM CST\. Cash prizes for top 3\. Discord required to race\. Easy to drive\. Hard to master\. |
+|[Bigfoot League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13288){:target="_blank"} |[Discord](https://discord.gg/Q4uAPHjdAX){:target="_blank"} |feel free to join clean hard nose to nose racing please join our discord tp keep up to date and is mandatory to stay in the league |
+|[boyzzzz](https://members.iracing.com/membersite/member/LeagueView.do?league=13292){:target="_blank"} | |GT3 |
+|[Formula 1600 Uruguay Rookie](https://members.iracing.com/membersite/member/LeagueView.do?league=13291){:target="_blank"} |[Discord](https://discord.gg/PBNKzZ2FVZ){:target="_blank"} |Discord: https://discord\.gg/PBNKzZ2FVZ |
+|[Freedom Motorsports Alliance IndyCar](https://members.iracing.com/membersite/member/LeagueView.do?league=13290){:target="_blank"} |[Discord](https://discord.gg/fftUWpggjh){:target="_blank"} |Freedom Motorsports Alliance Saturday Night IndyCar League\. |
+|[X\-R'cer](https://members.iracing.com/membersite/member/LeagueView.do?league=13289){:target="_blank"} | | |
+|[Crown Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13293){:target="_blank"} | |4 the crown |
 
