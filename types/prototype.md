@@ -11,10 +11,10 @@
 |---------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |LMP2 2025 |36 |2145 | | | | | |
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |33 |2332 |Fixed | | | | |
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |33 |None |Fixed |Watkins Glen International |Sat, September 27 01:00PM EDT |Sat, September 27 06:00PM BST |Sun, September 28 03:00AM AEST |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |33 |None |Fixed |Watkins Glen International |Sun, September 28 01:00PM EDT |Sun, September 28 06:00PM BST |Mon, September 29 03:00AM AEST |
 |[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |26 |1779 |Open | | | | |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR LMP2 |18 |1627 |Open | | | | |
-|[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2025 RED SOX RACING \- FALL LMP2 SERIES IV |17 |2102 | | | | | |
+|[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2025 RED SOX RACING \- FALL LMP2 SERIES IV |17 |2102 | |Road Atlanta |Thu, October 02 07:15PM EDT |Fri, October 03 12:15AM BST |Fri, October 03 09:15AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S2 LMP2 |15 |2151 |Open | | | | |
 
 ### GTP
@@ -57,8 +57,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------|--------|------|------|
-|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |42 |3674 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|--------------------------------------------|---------------------------|---------------------------|----------------------------|
+|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |42 |3674 | |Autodromo Internazionale Enzo e Dino Ferrari |Sun, October 05 02:00PM EDT |Sun, October 05 07:00PM BST |Mon, October 06 05:00AM AEDT |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |29 |2787 | | | | | |
 |[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |Radical Challenge 2025 |19 |1983 | | | | | |
 
@@ -94,6 +94,9 @@
 |[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Pre\-Qualifying |102 |1642 | | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S3 SRF WW |78 |3231 |Open | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025S4 WW SRF 10yr Anniversary season |40 |3107 |Open |Road Atlanta |Sun, September 28 02:40PM EDT |Sun, September 28 07:40PM BST |Mon, September 29 04:40AM AEST |
+|[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Split 1 |35 |2167 | | | | | |
 |[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRSCCA SRF \- FALL 2025 |27 |1798 |Both |Summit Point Raceway |Mon, September 29 07:00PM EDT |Tue, September 30 12:00AM BST |Tue, September 30 09:00AM AEST |
+|[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Split 2 |27 |1339 | | | | | |
+|[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Official Practice |24 |None | | | | | |
 |[North American Spec Racer Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11606){:target="_blank"} |NASRC Season 1 |11 |1398 |Fixed | | | | |
 

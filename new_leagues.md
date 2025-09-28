@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[7th Gear iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13221){:target="_blank"} | | |
-|[Billy Oirish Racing IMSA League](https://members.iracing.com/membersite/member/LeagueView.do?league=13218){:target="_blank"} | |A 12 Week Multiclass League Utilising The Corvette and Riley Prototypes |
-|[Ignition Online Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13220){:target="_blank"} | |iOR runs the next gens Wednesday nights and the modern trucks Friday nights |
-|[running on empty](https://members.iracing.com/membersite/member/LeagueView.do?league=13217){:target="_blank"} | |we are all running on fumes here if you like to race hard and clean come join us\.\.\.\.\.\.\.WHAT COLOUR IS SHE GREEN GREEN IS NICE |
-|[PHR Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13219){:target="_blank"} | | |
 |[ADK Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=13224){:target="_blank"} | |clean and respectful racing is number one and everyone is held to this standard |
 |[GFi Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13230){:target="_blank"} | |The top tier racing at GFi\. Only the best get to race in this competitive series\. |
 |[GFi Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13231){:target="_blank"} | |Road racing is for turning right and left\. This series if for all levels of road drivers\. |
@@ -53,7 +48,7 @@
 |[Lab Rats Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13269){:target="_blank"} | | |
 |[Raging Misfits](https://members.iracing.com/membersite/member/LeagueView.do?league=13272){:target="_blank"} | |Racing |
 |[Rookie Draft Triple Crown](https://members.iracing.com/membersite/member/LeagueView.do?league=13270){:target="_blank"} | |Rookie League Featuring 3 Superspeedways and 3 Car Types |
-|[Dutch's Dirty Dozen](https://members.iracing.com/membersite/member/LeagueView.do?league=13268){:target="_blank"} |[Discord](https://discord.gg/gygCTGvk){:target="_blank"} |gen 6 cup series league |
+|[Dutch's Dirty Dozen](https://members.iracing.com/membersite/member/LeagueView.do?league=13268){:target="_blank"} |[Discord](https://discord.gg/gygCTGvk){:target="_blank"} |Gen 6 Cup series league |
 |[Rock Bottom Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13271){:target="_blank"} |[Discord](https://discord.gg/Y8pPmwXp){:target="_blank"} |Monday, Wednesday, And Friday Mornings 11AM to 1PM \(EST\)\. Mondays are Road Racing, Wednesdays are Nascar \(Gen/series TBD\), And Fridays are TBD\! All are welcome Rookie\+, IRating cap of 2500\! |
 |[296 America Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13283){:target="_blank"} | | |
 |[Hyrbid Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13273){:target="_blank"} |[Discord](https://discord.gg/VzBWtVfuwf){:target="_blank"} |Multi\-Class NASCAR Series Monday Nights @ 8:05 P\.M\. EST\! |
@@ -85,4 +80,9 @@
 |[GAAAA](https://members.iracing.com/membersite/member/LeagueView.do?league=13302){:target="_blank"} | | |
 |[PACE Toyota GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=13300){:target="_blank"} |[Discord](https://discord.gg/r5XG7Q2d6s){:target="_blank"} |Precision Automobile Club Esports |
 |[WNBF Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13301){:target="_blank"} | | |
+|[Bad Batch Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=13304){:target="_blank"} | |We look to have great, competitive fun races\. Built to mainly do Dirt Oval racing but also will host Xfinity, Trucks, Cup racing seasons\. Look forward for having you in this league\. No politics or negativity and ABSOLUTLEY NO wrecking on purpose\. Keep it clean\. Will be looking to do broadcast races in the future\. |
+|[CNA Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13306){:target="_blank"} | | |
+|[Jabba League](https://members.iracing.com/membersite/member/LeagueView.do?league=13307){:target="_blank"} | |Jabba |
+|[Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13305){:target="_blank"} | |just messing around with 30 minute special event practice |
+|[Truck Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13303){:target="_blank"} | |This is setup around SimGrandPa's Stream channel for American and Euro racers\. |
 
