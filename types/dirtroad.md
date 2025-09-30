@@ -36,8 +36,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |NARC Lucas Oil Pro 4 |25 |1457 |Open |Knoxville Raceway |Mon, September 29 08:30PM EDT |Tue, September 30 01:30AM BST |Tue, September 30 10:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|-----------------------------|-----------------------------|---------------------------|----------------------------|
+|[Virtual Racing Aotearoa \- Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |Pro4 Short Course Championship |29 |2321 | |Wild West Motorsports Park |Mon, October 06 02:30AM EDT |Mon, October 06 07:30AM BST |Mon, October 06 05:30PM AEDT |
+|[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |NARC Lucas Oil Pro 4 |25 |1435 |Open |Wild West Motorsports Park |Mon, October 06 08:30PM EDT |Tue, October 07 01:30AM BST |Tue, October 07 11:30AM AEDT |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |PRO FOURS\! |17 |1654 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- 4x4 Rolling Thunder \(2025B\) |16 |2549 |Fixed | | | | |
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TKDI Pro 4 shootout \#6 |13 |1363 | |Wild West Motorsports Park |Tue, September 30 08:00PM EDT |Wed, October 01 01:00AM BST |Wed, October 01 10:00AM AEST |
