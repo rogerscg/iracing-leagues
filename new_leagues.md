@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Bragging Rights Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13249){:target="_blank"} |[Discord](https://discord.gg/rhDgpVeK){:target="_blank"} |NASCAR / 75% length / 50% fuel / stage racing |
-|[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} | | |
-|[Tri Oval Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13251){:target="_blank"} | |we will be racing everything dirt at one point or another |
-|[Malta National F4 Championship 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=13250){:target="_blank"} | |Malta Motorsport Federation National F4 Sim Racing Championship, organised by World Pro Racing |
 |[Caribbean Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13256){:target="_blank"} | |Join our exciting Caribbean Simracing league, where passion for speed and competition come together\. Participate in thrilling races, improve your skills, and enjoy a competitive yet friendly environment\. Get ready to push your limits on the track\! |
 |[Delta Hunters Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13261){:target="_blank"} |[Discord](https://discord.gg/4RAqkyha4u){:target="_blank"} | |
 |[Eight01](https://members.iracing.com/membersite/member/LeagueView.do?league=13252){:target="_blank"} | |Bathurst test |
@@ -25,7 +21,7 @@
 |[Lab Rats Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13269){:target="_blank"} | | |
 |[Raging Misfits](https://members.iracing.com/membersite/member/LeagueView.do?league=13272){:target="_blank"} | |Racing |
 |[Rookie Draft Triple Crown](https://members.iracing.com/membersite/member/LeagueView.do?league=13270){:target="_blank"} | |Rookie League Featuring 3 Superspeedways and 3 Car Types |
-|[Dutch's Dirty Dozen](https://members.iracing.com/membersite/member/LeagueView.do?league=13268){:target="_blank"} |[Discord](https://discord.gg/gygCTGvk){:target="_blank"} |Gen 6 Cup series league |
+|[Dutch's Dirty Dozen](https://members.iracing.com/membersite/member/LeagueView.do?league=13268){:target="_blank"} |[Discord](https://discord.gg/gygCTGvk){:target="_blank"} |Gen 7 Cup Series League |
 |[Rock Bottom Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13271){:target="_blank"} |[Discord](https://discord.gg/Y8pPmwXp){:target="_blank"} |Monday, Wednesday, And Friday Mornings 11AM to 1PM \(EST\)\. Mondays are Road Racing, Wednesdays are Nascar \(Gen/series TBD\), And Fridays are TBD\! All are welcome Rookie\+, IRating cap of 2500\! |
 |[296 America Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13283){:target="_blank"} | | |
 |[Hyrbid Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13273){:target="_blank"} |[Discord](https://discord.gg/VzBWtVfuwf){:target="_blank"} |Multi\-Class NASCAR Series Monday Nights @ 8:05 P\.M\. EST\! |
@@ -72,4 +68,7 @@
 |[Automóvil Club de Cuba](https://members.iracing.com/membersite/member/LeagueView.do?league=13318){:target="_blank"} | | |
 |[League of Misfits](https://members.iracing.com/membersite/member/LeagueView.do?league=13317){:target="_blank"} | |Private League |
 |[Porsche Virtual Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13316){:target="_blank"} | |ligue porsche cup |
+|[LDMS IRACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=13321){:target="_blank"} | |Iracing league for drivers/fans/crew of LDMS to hold us over for the off season |
+|[Next Gen](https://members.iracing.com/membersite/member/LeagueView.do?league=13320){:target="_blank"} | |casey is slow |
+|[SOAGs Go Faster](https://members.iracing.com/membersite/member/LeagueView.do?league=13319){:target="_blank"} | | |
 
