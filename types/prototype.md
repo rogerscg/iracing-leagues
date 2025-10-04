@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|-------------|--------|------|------|
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Hybrid GTP Series |11 |1364 |Fixed | | | | |
+|-------------------------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Hybrid GTP Series |11 |1364 |Fixed |Watkins Glen International |Sun, October 05 08:20PM EDT |Mon, October 06 01:20AM BST |Mon, October 06 11:20AM AEDT |
 
 ### Dallara P217
 
@@ -17,7 +17,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |37 |None |Fixed |Watkins Glen International |Fri, October 03 01:00PM EDT |Fri, October 03 06:00PM BST |Sat, October 04 03:00AM AEST |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |38 |None |Fixed |Watkins Glen International |Sat, October 04 01:00PM EDT |Sat, October 04 06:00PM BST |Sun, October 05 04:00AM AEDT |
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |LMP2 2025 |37 |2109 | | | | | |
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |33 |2332 |Fixed |Watkins Glen International |Thu, October 09 12:30PM EDT |Thu, October 09 05:30PM BST |Fri, October 10 03:30AM AEDT |
 |[Bite Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |BitePoint Racing League Season 2 \-\- LMP2 |26 |1779 |Open | | | | |
@@ -54,7 +54,6 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |LMP3 Trophy |24 |2172 | | | | | |
-|[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP3 Challenge Season 1 |23 |1954 |Both | | | | |
 |[DES Genesis](https://members.iracing.com/membersite/member/LeagueView.do?league=12704){:target="_blank"} |LMP3 DES Season 1 |16 |1674 |Both |Canadian Tire Motorsports Park |Wed, October 08 07:20PM EDT |Thu, October 09 12:20AM BST |Thu, October 09 10:20AM AEDT |
 |[MidWest eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11203){:target="_blank"} |MidWest iRacing S4 \(LMP3\) |12 |1947 |Open | | | | |
 |[NoBS](https://members.iracing.com/membersite/member/LeagueView.do?league=12682){:target="_blank"} |LMP3 NoBS season 1 |12 |1996 |Fixed | | | | |
@@ -68,7 +67,6 @@
 |----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|--------------------------------------------|---------------------------|---------------------------|----------------------------|
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |42 |3674 | |Autodromo Internazionale Enzo e Dino Ferrari |Sun, October 05 02:00PM EDT |Sun, October 05 07:00PM BST |Mon, October 06 05:00AM AEDT |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |29 |2787 | | | | | |
-|[Ukrainian Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10983){:target="_blank"} |Radical Challenge 2025 |19 |1983 | | | | | |
 
 ### Radical SR8
 
@@ -76,14 +74,13 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Radical Season 3 |27 |1354 |Fixed | | | | |
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |26 |1900 |Open |Oulton Park Circuit |Mon, October 06 12:30PM EDT |Mon, October 06 05:30PM BST |Tue, October 07 03:30AM AEDT |
 |[Billy Oirish Racing Radical SR8 iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12649){:target="_blank"} |Billy Oirish Racing Radical SR8 iRacing League |21 |1572 | | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 5 |21 |2909 | |Thruxton Circuit |Mon, October 06 02:50PM EDT |Mon, October 06 07:50PM BST |Tue, October 07 05:50AM AEDT |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 2 |19 |2448 |Fixed | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 3 |12 |1853 |Fixed | | | | |
 |[Vanquist Radical Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12842){:target="_blank"} |Vanquist Challenge \- 25S2 |11 |2436 | | | | | |
-|[24 Hour Karty People](https://members.iracing.com/membersite/member/LeagueView.do?league=12875){:target="_blank"} |Season 2: Autumn League |11 |1803 | | | | | |
+|[24 Hour Karty People](https://members.iracing.com/membersite/member/LeagueView.do?league=12875){:target="_blank"} |Season 2: Autumn League |11 |1803 | |Road America |Wed, October 08 09:00PM EDT |Thu, October 09 02:00AM BST |Thu, October 09 12:00PM AEDT |
 
 ### Riley Daytona Prototype
 

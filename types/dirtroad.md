@@ -18,19 +18,21 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2025 |31 |2791 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- TINYTRUCK \(2025B\) |18 |2757 |Fixed | | | | |
+|[Mud Slingers Off Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13139){:target="_blank"} |Mud Slinging Pro 2 lite season 1 |11 |1402 | |[Legacy] Phoenix Raceway - 2008 |Fri, October 10 08:00PM EDT |Sat, October 11 01:00AM BST |Sat, October 11 11:00AM AEDT |
 
 ### Pro 2 Truck
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2025 Pro 2 Qualifying Series |52 |3946 |Open | | | | |
 |[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |MINI CHAMPIONNAT SPÉCIAL |42 |1695 | | | | | |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025D Pro 2 Truck Series |28 |1872 |Both | | | | |
+|[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2025 Pro 2 National Series |38 |5776 |Open | | | | |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025D Pro 2 Truck Series |28 |1872 |Both |Watkins Glen International |Tue, October 07 05:20AM EDT |Tue, October 07 10:20AM BST |Tue, October 07 08:20PM AEDT |
 
 ### Pro 4 Truck
 
@@ -40,7 +42,6 @@
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|--------------------------------|---------------------------|---------------------------|----------------------------|
 |[Virtual Racing Aotearoa \- Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |Pro4 Short Course Championship |29 |2321 | |Wild West Motorsports Park |Mon, October 06 02:30AM EDT |Mon, October 06 07:30AM BST |Mon, October 06 05:30PM AEDT |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |NARC Lucas Oil Pro 4 |25 |1435 |Open |Wild West Motorsports Park |Mon, October 06 08:30PM EDT |Tue, October 07 01:30AM BST |Tue, October 07 11:30AM AEDT |
-|[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |PRO FOURS\! |17 |1654 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- 4x4 Rolling Thunder \(2025B\) |16 |2549 |Fixed | | | | |
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TKDI Pro 4 shootout \#6 |13 |1351 | |Bark River International Raceway |Tue, October 07 08:00PM EDT |Wed, October 08 01:00AM BST |Wed, October 08 11:00AM AEDT |
 |[Pit Road Speed Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12735){:target="_blank"} |Jumpy Trucks |12 |1327 |Fixed | | | | |
