@@ -14,14 +14,6 @@
 |[WRIGHT Time ARCA series](https://members.iracing.com/membersite/member/LeagueView.do?league=13193){:target="_blank"} |WRIGHT TIME | |Daytona International Speedway |Wed, October 15 08:30PM EDT |Thu, October 16 01:30AM BST |Thu, October 16 11:30AM AEDT |
 |[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |ARCA Winter Series 2025/2026 |Both |Charlotte Motor Speedway  |Tue, October 14 07:00PM EDT |Wed, October 15 12:00AM BST |Wed, October 15 10:00AM AEDT |
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[Nascar Fun Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=13083){:target="_blank"} |Nascar |Open |Daytona International Speedway |Fri, October 10 02:55PM EDT |Fri, October 10 07:55PM BST |Sat, October 11 05:55AM AEDT |
-
 ### NASCAR 2003 Gen 4
 
 [Back to Top](#)  
@@ -74,14 +66,13 @@
 |--------------------------------------------------------------------------------------------------------------|------------------------------------|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Mini\-Stock Experience \- Season\#01 |Both |Summit Point Raceway |Sun, October 12 12:30PM EDT |Sun, October 12 05:30PM BST |Mon, October 13 03:30AM AEDT |
 
-### Street Stocks
+### Silver Crown
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|---------------------|---------------------------|---------------------------|----------------------------|
-|[H&H Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12307){:target="_blank"} |HHR Short Track Series Season 2 |Both |Dover Motor Speedway |Thu, October 09 09:00PM EDT |Fri, October 10 02:00AM BST |Fri, October 10 12:00PM AEDT |
-|[PRA Sunset Bend Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13295){:target="_blank"} |Sunset Bend Street Stock RC Challenge | |Chicago Street Course |Thu, October 09 08:00PM EDT |Fri, October 10 01:00AM BST |Fri, October 10 11:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
+|[BRL National Sprint Car Trail](https://members.iracing.com/membersite/member/LeagueView.do?league=8516){:target="_blank"} |NSCT S2 \- Silver Crown |Fixed |Kevin Harvick's Kern Raceway |Sat, October 11 07:45PM EDT |Sun, October 12 12:45AM BST |Sun, October 12 10:45AM AEDT |
 
 # Open-wheel
 
@@ -100,6 +91,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|---------------|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART IndyCar S4 |Fixed |Chicagoland Speedway |Thu, October 16 07:00PM EDT |Fri, October 17 12:00AM BST |Fri, October 17 10:00AM AEDT |
+
+### FIA F4
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|---------------|-----|---------------|---------------------------|---------------------------|----------------------------|
+|[WNY Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12541){:target="_blank"} |WNY CR Season 1 | |Tsukuba Circuit |Sun, October 12 08:00PM EDT |Mon, October 13 01:00AM BST |Mon, October 13 11:00AM AEDT |
 
 ### Mercedes-AMG W12 E Performance
 
@@ -135,19 +134,36 @@
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
 |[Second Saturday Endurance by LMS](https://members.iracing.com/membersite/member/LeagueView.do?league=11478){:target="_blank"} |Year 2 |Open |Red Bull Ring |Sat, October 11 08:00PM EDT |Sun, October 12 01:00AM BST |Sun, October 12 11:00AM AEDT |
 |[SCHERER eSPORT GT4 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10804){:target="_blank"} |SCHERER eSPORT GT4 Series Season V |Fixed |Algarve International Circuit |Sun, October 12 01:00PM EDT |Sun, October 12 06:00PM BST |Mon, October 13 04:00AM AEDT |
+|[Simworld \(Sat 2:00\-3:20\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13086){:target="_blank"} |Season 2 | |Road America |Fri, October 17 10:55PM EDT |Sat, October 18 03:55AM BST |Sat, October 18 01:55PM AEDT |
 |[Simworld \(Thurs 6:20\-7:40\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13005){:target="_blank"} |Season 2 | |Road America |Thu, October 16 03:15AM EDT |Thu, October 16 08:15AM BST |Thu, October 16 06:15PM AEDT |
 |[SRW \- Warren & Brown Tools Toyota GR86 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 4, 2025 |Open |Sachsenring |Thu, October 16 03:00AM EDT |Thu, October 16 08:00AM BST |Thu, October 16 06:00PM AEDT |
 |[Thursday International Tin Top Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12351){:target="_blank"} |Season 3 \- The D Cup |Open |Charlotte Motor Speedway  |Thu, October 16 03:00PM EDT |Thu, October 16 08:00PM BST |Fri, October 17 06:00AM AEDT |
 
-# Prototype
-
-### GTP
+### Touring Car
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Season 1 | |Daytona International Speedway |Thu, October 09 08:00PM EDT |Fri, October 10 01:00AM BST |Fri, October 10 11:00AM AEDT |
+|------------------------------------------------------------------------------------------------------------------|----------------|-----|------------|---------------------------|---------------------------|----------------------------|
+|[SRL Friday Night TCR](https://members.iracing.com/membersite/member/LeagueView.do?league=13171){:target="_blank"} |SRL TCR SEASON 9 | |Road Atlanta |Fri, October 10 03:20PM EDT |Fri, October 10 08:20PM BST |Sat, October 11 06:20AM AEDT |
+
+### Toyota GR86
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|-----------|-----|------------------|---------------------------|---------------------------|----------------------------|
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Toyota GR86 | |Circuit de Lédenon |Thu, October 16 08:00PM EDT |Fri, October 17 01:00AM BST |Fri, October 17 11:00AM AEDT |
+
+# Prototype
+
+### Riley Daytona Prototype
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|---------------|-----|------------------|---------------------------|---------------------------|----------------------------|
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Riley Prototype | |Circuit de Lédenon |Thu, October 16 09:00PM EDT |Fri, October 17 02:00AM BST |Fri, October 17 12:00PM AEDT |
 
 # Dirt Oval
 
@@ -185,11 +201,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |DHRL GTD Season 7 |Both |Circuit de Barcelona Catalunya |Sun, October 12 07:30PM EDT |Mon, October 13 12:30AM BST |Mon, October 13 10:30AM AEDT |
 |[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |Itasha Coffee: GT Sprint Series \- Powered by Triple Stint |Both |Sonoma Raceway |Fri, October 10 08:14PM EDT |Sat, October 11 01:14AM BST |Sat, October 11 11:14AM AEDT |
 |[GRID FNR Racing GT3 Cup Sezon 3](https://members.iracing.com/membersite/member/LeagueView.do?league=11150){:target="_blank"} |GRID FNR Racing GT3 Cup Sezon 3 |Open |Road America |Sun, October 12 01:10PM EDT |Sun, October 12 06:10PM BST |Mon, October 13 04:10AM AEDT |
-|[DGTS GT3 Championship \(DCS\) Server 1](https://members.iracing.com/membersite/member/LeagueView.do?league=6281){:target="_blank"} |DCS 8  \- Dansk Mesterskab Server 1 | |Silverstone Circuit |Thu, October 09 11:20AM EDT |Thu, October 09 04:20PM BST |Fri, October 10 02:20AM AEDT |
 
 ### Hosted All Cars Class
 
