@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[APMC 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=13299){:target="_blank"} | |Official League for APMC Drivers |
-|[GAAAA](https://members.iracing.com/membersite/member/LeagueView.do?league=13302){:target="_blank"} | | |
-|[PACE Toyota GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=13300){:target="_blank"} |[Discord](https://discord.gg/r5XG7Q2d6s){:target="_blank"} |Precision Automobile Club Esports |
-|[WNBF Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13301){:target="_blank"} | | |
 |[Bad Batch Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=13304){:target="_blank"} |[Discord](https://discord.gg/2dpjBXug){:target="_blank"} |We look to have great, competitive fun races\. Built to mainly do Dirt Oval racing but also will host Xfinity, Trucks, Cup racing seasons\. Look forward for having you in this league\. No politics or negativity and ABSOLUTLEY NO wrecking on purpose\. Keep it clean\. Will be looking to do broadcasted races, cash prizes and trophies as well\. Come join this league help it grow\. |
 |[CNA Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13306){:target="_blank"} | | |
 |[Jabba League](https://members.iracing.com/membersite/member/LeagueView.do?league=13307){:target="_blank"} | |Jabba |
@@ -56,4 +52,12 @@
 |[OFF THE TOP RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=13353){:target="_blank"} |[Discord](https://discord.gg/2Gn8f9Xj){:target="_blank"} | |
 |[SimHub Race Lounge\- Thursday Night F4](https://members.iracing.com/membersite/member/LeagueView.do?league=13351){:target="_blank"} | | |
 |[The GTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=13352){:target="_blank"} | |Good Times Cup Challenge |
+|[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} | |Monday night W12 Fixed Series & more to come\! |
+|[Liga de los Pedax](https://members.iracing.com/membersite/member/LeagueView.do?league=13361){:target="_blank"} | | |
+|[M&M Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13360){:target="_blank"} | |Mainly a ministock league although we may venture out from time to time\.  Find us on discord at M&M racing |
+|[Pizza Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13358){:target="_blank"} | | |
+|[Sim Science Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13357){:target="_blank"} | | |
+|[TCR Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=13354){:target="_blank"} | |A league for TCR racing enthusiasts |
+|[Byte500](https://members.iracing.com/membersite/member/LeagueView.do?league=13355){:target="_blank"} | | |
+|[Sabiá Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13359){:target="_blank"} | | |
 
