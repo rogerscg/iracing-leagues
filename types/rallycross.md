@@ -21,7 +21,7 @@
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025D Rally X Games |44 |2078 |Both |Knockhill Racing Circuit |Tue, October 14 04:30AM EDT |Tue, October 14 09:30AM BST |Tue, October 14 07:30PM AEDT |
 |[RX Pro \(open\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2025 RX Pro |31 |6391 | | | | | |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25B |28 |4418 | | | | | |
-|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25B |20 |3190 | | | | | |
+|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25B |20 |3186 | | | | | |
 |[AusRX/AusTrux](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 11 |19 |2596 | | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- Supporting the WWP |17 |1497 |Fixed | | | | |
 |[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |15 |1494 | | | | | |

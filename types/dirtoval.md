@@ -8,8 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-------------------------|-------|----|-----|---------------|---------------------------|---------------------------|----------------------------|
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 358 Dirt Mods OPEN |86 |2524 |Open |Oswego Speedway |Mon, October 13 06:30PM EDT |Mon, October 13 11:30PM BST |Tue, October 14 09:30AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 358 Dirt Mods OPEN |86 |2530 |Open |Lanier National Speedway |Mon, October 20 06:30PM EDT |Mon, October 20 11:30PM BST |Tue, October 21 09:30AM AEDT |
+|[DOB Small Block SDW](https://members.iracing.com/membersite/member/LeagueView.do?league=3835){:target="_blank"} |2025 SDW Small Block |39 |2894 | | | | | |
 |[Metal Heads Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12030){:target="_blank"} |SUMMER SHOWDOWN 2025 |29 |2377 | | | | | |
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |SARL 358 Mods Fixed |17 |1953 |Both | | | | |
 
@@ -18,8 +19,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------|----|-----|-------------|--------|------|------|
-|[RPES Dirt Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11710){:target="_blank"} |2025 RPES Dirt Modified Series |76 |3728 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-------|----|-----|---------------|---------------------------|---------------------------|----------------------------|
+|[RPES Dirt Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11710){:target="_blank"} |2025 RPES Dirt Modified Series |76 |3728 | |Oswego Speedway |Tue, October 21 08:30PM EDT |Wed, October 22 01:30AM BST |Wed, October 22 11:30AM AEDT |
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB Big Blocks Season 7 |70 |3052 |Open | | | | |
 |[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |Big Block Modified Series |69 |2908 | | | | | |
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Xtreme Big Blocks Super Series 2025 |32 |3667 | | | | | |
@@ -41,7 +42,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|----------------------|---------------------------|---------------------------|----------------------------|
 |[NLR High Stakes Pro Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=11702){:target="_blank"} |High Stakes Pro Late Models |43 |3002 | | | | | |
 |[PLMDS \- Sanctioned Events](https://members.iracing.com/membersite/member/LeagueView.do?league=6365){:target="_blank"} |2025 \- Sanctioned Events |41 |2450 | | | | | |
 |[VDRA](https://members.iracing.com/membersite/member/LeagueView.do?league=11260){:target="_blank"} |2025 Season 1 |34 |2389 | | | | | |
@@ -55,7 +56,7 @@
 |[Bone Head Racing: Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=4204){:target="_blank"} |BHR Dirt Tour: Season 1 |19 |1914 |Fixed |Knoxville Raceway |Wed, October 15 08:00PM EDT |Thu, October 16 01:00AM BST |Thu, October 16 11:00AM AEDT |
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Fall Jamboree Pro Late Models |17 |2130 |Fixed | | | | |
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Saturday Night Throwdown \- Dirt \- S1 |15 |1285 |Fixed |Bristol Motor Speedway |Sat, October 18 06:30PM EDT |Sat, October 18 11:30PM BST |Sun, October 19 09:30AM AEDT |
-|[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Monday Masters of Dirt \- Season 2 |15 |1464 |Fixed |Limaland Motorsports Park |Mon, October 13 08:00PM EDT |Tue, October 14 01:00AM BST |Tue, October 14 11:00AM AEDT |
+|[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Monday Masters of Dirt \- Season 2 |15 |1443 |Fixed |Lernerville Speedway |Mon, October 20 08:00PM EDT |Tue, October 21 01:00AM BST |Tue, October 21 11:00AM AEDT |
 |[Fast Action Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12487){:target="_blank"} |FARS Dirt Season 1 |12 |1765 |Fixed | | | | |
 |[Premier Racing League \- Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=13247){:target="_blank"} |Season 1 |12 |1684 |Fixed | | | | |
 |[Local Dig Racing Series\!\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=11688){:target="_blank"} |Local Dig Racing Series |11 |1615 | | | | | |
@@ -91,10 +92,10 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|---------------------------|---------------------------|---------------------------|----------------------------|
 |[iRacing Midget Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11786){:target="_blank"} |iRacing Midget Association 2025 REGIONAL TOUR |144 |3839 | | | | | |
-|[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=12784){:target="_blank"} |DML \- Dirt Midget League S3 |103 |3509 |Fixed |Fairbury Speedway |Mon, October 13 05:30AM EDT |Mon, October 13 10:30AM BST |Mon, October 13 08:30PM AEDT |
+|[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=12784){:target="_blank"} |DML \- Dirt Midget League S3 |104 |3505 |Fixed | | | | |
 |[TNT Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=12602){:target="_blank"} |Season 2 Dirt Midgets |80 |3318 | | | | | |
 |[DML Pre Qualifier League](https://members.iracing.com/membersite/member/LeagueView.do?league=13189){:target="_blank"} |DML Pre Qualifier Series |57 |2455 | | | | | |
-|[Summit Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13326){:target="_blank"} |Summit Midget Series Season 1 |43 |3856 | | | | | |
+|[Summit Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13326){:target="_blank"} |Summit Midget Series Season 1 |43 |3856 | |Eldora Speedway |Thu, October 16 05:30AM EDT |Thu, October 16 10:30AM BST |Thu, October 16 08:30PM AEDT |
 |[SRPI: Speedcar Racing Promotion of Indiana](https://members.iracing.com/membersite/member/LeagueView.do?league=12221){:target="_blank"} |SRPI: Season 1 |40 |3044 | | | | | |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |Midget Fall Season 2025 |36 |2647 |Open |Huset's Speedway |Thu, October 16 08:30PM EDT |Fri, October 17 01:30AM BST |Fri, October 17 11:30AM AEDT |
 |[B\-Main Bandits Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7114){:target="_blank"} |Fall 2025 Midget Series |19 |2724 |Fixed |The Dirt Track at Charlotte |Tue, October 14 07:45PM EDT |Wed, October 15 12:45AM BST |Wed, October 15 10:45AM AEDT |
@@ -106,17 +107,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
 |[ASND Presents VapourTrail Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |2025 Outlaw Micro Sprints |20 |1949 | | | | | |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Micro Madness |10 |1134 |Both | | | | |
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Micro Madness |10 |1134 |Both |USA International Speedway |Wed, October 15 11:15PM EDT |Thu, October 16 04:15AM BST |Thu, October 16 02:15PM AEDT |
 
 ### Dirt SprintCar - 305
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[RPES 305 & 360 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2025 RPES 305 Sprint Car Series |87 |2225 |Fixed |Port Royal Speedway |Mon, October 13 08:00PM EDT |Tue, October 14 01:00AM BST |Tue, October 14 11:00AM AEDT |
+|------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------|----|-----|------------------|---------------------------|---------------------------|----------------------------|
+|[RPES 305 & 360 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2025 RPES 305 Sprint Car Series |90 |2272 |Fixed |Weedsport Speedway |Mon, October 20 08:00PM EDT |Tue, October 21 01:00AM BST |Tue, October 21 11:00AM AEDT |
 
 ### Dirt SprintCar - 360
 
@@ -125,11 +126,11 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
 |[RPES 305 & 360 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2025 RPES 360 Sprint Car Series |98 |3861 |Fixed |Port Royal Speedway |Wed, October 15 08:30PM EDT |Thu, October 16 01:30AM BST |Thu, October 16 11:30AM AEDT |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |97 |2197 |Open |Oswego Speedway |Mon, October 13 07:30PM EDT |Tue, October 14 12:30AM BST |Tue, October 14 10:30AM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |97 |2205 |Open |Lanier National Speedway |Mon, October 20 07:30PM EDT |Tue, October 21 12:30AM BST |Tue, October 21 10:30AM AEDT |
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 360 Season 21 |96 |4170 |Open | | | | |
 |[Afb Lounge 360 sprintcars](https://members.iracing.com/membersite/member/LeagueView.do?league=12924){:target="_blank"} |AFB 360 SPRINTCARS |81 |2326 | | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |69 |2689 |Open |Oswego Speedway |Mon, October 13 08:00PM EDT |Tue, October 14 01:00AM BST |Tue, October 14 11:00AM AEDT |
-|[Australian Super Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |𝗠𝗼𝗻𝗱𝗮𝘆 𝗡𝗶𝗴𝗵𝘁 𝗦𝗽𝗿𝗶𝗻𝘁𝗰𝗮𝗿 𝗦𝗲𝗿𝗶𝗲𝘀 2025 |68 |3355 | |Lanier National Speedway |Mon, October 13 06:00AM EDT |Mon, October 13 11:00AM BST |Mon, October 13 09:00PM AEDT |
+|[Australian Super Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=7087){:target="_blank"} |𝗠𝗼𝗻𝗱𝗮𝘆 𝗡𝗶𝗴𝗵𝘁 𝗦𝗽𝗿𝗶𝗻𝘁𝗰𝗮𝗿 𝗦𝗲𝗿𝗶𝗲𝘀 2025 |73 |3376 | |Kokomo Speedway |Mon, October 20 06:00AM EDT |Mon, October 20 11:00AM BST |Mon, October 20 09:00PM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |69 |2698 |Open |Lanier National Speedway |Mon, October 20 08:00PM EDT |Tue, October 21 01:00AM BST |Tue, October 21 11:00AM AEDT |
 |[AcesUp Fall Frenzy 360 Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10746){:target="_blank"} |AcesUp Fall Frenzy 360 Sprint Cars 2025 |47 |4543 | |Knoxville Raceway |Wed, October 15 09:00PM EDT |Thu, October 16 02:00AM BST |Thu, October 16 12:00PM AEDT |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |360 Winged Sprints \( open\) 2025\-3 |41 |3815 |Open |Cedar Lake Speedway |Tue, October 14 10:00PM EDT |Wed, October 15 03:00AM BST |Wed, October 15 01:00PM AEDT |
 |[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2025 360 Sprints Season |40 |1980 |Fixed |Eldora Speedway |Tue, October 14 09:15PM EDT |Wed, October 15 02:15AM BST |Wed, October 15 12:15PM AEDT |
@@ -145,7 +146,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------|------------------------|-------|----|-----|---------------------------|---------------------------|---------------------------|----------------------------|
-|[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |mini champ USAC 360 |32 |2480 | | | | | |
+|[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |mini champ USAC 360 |33 |2549 | | | | | |
 |[BRL National Sprint Car Trail](https://members.iracing.com/membersite/member/LeagueView.do?league=8516){:target="_blank"} |NSCT S2 \- Sprint 360 NW |12 |1702 |Fixed | | | | |
 |[B\-Main Bandits Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7114){:target="_blank"} |Fall 2025 NW360 Season |12 |2770 |Fixed |The Dirt Track at Charlotte |Tue, October 14 09:00PM EDT |Wed, October 15 02:00AM BST |Wed, October 15 12:00PM AEDT |
 
@@ -206,7 +207,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|---------------------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|------------------------------------|---------------------------|---------------------------|----------------------------|
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- Limited LM |84 |2571 |Open |Lincoln Speedway |Wed, October 15 06:30PM EDT |Wed, October 15 11:30PM BST |Thu, October 16 09:30AM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |81 |2571 |Open |Kokomo Speedway |Thu, October 16 07:30PM EDT |Fri, October 17 12:30AM BST |Fri, October 17 10:30AM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |78 |2469 |Open |Lincoln Speedway |Wed, October 15 07:30PM EDT |Thu, October 16 12:30AM BST |Thu, October 16 10:30AM AEDT |
@@ -215,21 +216,13 @@
 |[2025 ODSE Wide Open Clothing ASC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2025 ASC Series |60 |4848 | |Lanier National Speedway |Thu, October 16 06:05AM EDT |Thu, October 16 11:05AM BST |Thu, October 16 09:05PM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- MIDGET |55 |2236 |Open |Lincoln Speedway |Wed, October 15 08:00PM EDT |Thu, October 16 01:00AM BST |Thu, October 16 11:00AM AEDT |
 |[2025 ODSE Wide Open Clothing ASC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2025 ASC SERIES PRACTICE |50 |None | | | | | |
-|[DSRL Monday Night Thunder Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=101){:target="_blank"} |Season 26 |48 |4365 |Both |Port Royal Speedway |Mon, October 13 09:00PM EDT |Tue, October 14 02:00AM BST |Tue, October 14 12:00PM AEDT |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |45 |1971 |Open |Oswego Speedway |Mon, October 13 01:30PM EDT |Mon, October 13 06:30PM BST |Tue, October 14 04:30AM AEDT |
+|[DSRL Monday Night Thunder Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=101){:target="_blank"} |Season 26 |48 |4429 |Both |Federated Auto Parts Raceway at I-55 |Mon, October 20 09:00PM EDT |Tue, October 21 02:00AM BST |Tue, October 21 12:00PM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |45 |1975 |Open |Lanier National Speedway |Mon, October 20 01:30PM EDT |Mon, October 20 06:30PM BST |Tue, October 21 04:30AM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |38 |2180 |Open |Kokomo Speedway |Thu, October 16 01:30PM EDT |Thu, October 16 06:30PM BST |Fri, October 17 04:30AM AEDT |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Summer 2025 \(BB, SLM, MS\) |24 |2042 |Fixed | | | | |
 |[Corn Bar and Grill](https://members.iracing.com/membersite/member/LeagueView.do?league=10251){:target="_blank"} |2025 Winter Series |24 |3047 | |The Dirt Track at Charlotte |Sun, October 19 07:45PM EDT |Mon, October 20 12:45AM BST |Mon, October 20 10:45AM AEDT |
-|[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |Tuesday Night Winged Sprints Series |22 |1844 |Fixed | | | | |
+|[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |Tuesday Night Winged Sprints Series |22 |1844 |Fixed |Eldora Speedway |Tue, October 14 08:00PM EDT |Wed, October 15 01:00AM BST |Wed, October 15 11:00AM AEDT |
 |[Tanner Pettit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10975){:target="_blank"} |Testing |15 |8456 | | | | | |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Wednesdays 360s Season 1 |11 |1499 |Fixed |Port Royal Speedway |Wed, August 13 07:00PM EDT |Thu, August 14 12:00AM BST |Thu, August 14 09:00AM AEST |
 |[TIer 1 Wednesday Night Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=10999){:target="_blank"} |Wednesday Night Showdown Season 2 |10 |2550 |Fixed | | | | |
-
-### USAC Sprint
-
-[Back to Top](#)  
-
-| League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|------------------------|-------|----|-----|-------------|--------|------|------|
-|[iRacing Midget Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11786){:target="_blank"} |2025 360NW NATIONAL TOUR |90 |4202 | | | | | |
 

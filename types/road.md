@@ -50,5 +50,5 @@
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 17 |24 |3768 |Open |Detroit Grand Prix at Belle Isle |Sat, October 18 01:00PM EDT |Sat, October 18 06:00PM BST |Sun, October 19 04:00AM AEDT |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |Summer of 25/26 Special Events |20 |1486 |Fixed | | | | |
 |[OZZEE2](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |V8 Gen 3 Season 5 |17 |None |Both | | | | |
-|[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |SuperChairs Season 1 |11 |1587 | |Mount Panorama Circuit |Mon, October 13 08:00PM EDT |Tue, October 14 01:00AM BST |Tue, October 14 11:00AM AEDT |
+|[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |SuperChairs Season 1 |12 |1577 | | | | | |
 
