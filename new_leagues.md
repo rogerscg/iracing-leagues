@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[BSR](https://members.iracing.com/membersite/member/LeagueView.do?league=13323){:target="_blank"} | |BSR Team League |
-|[Hawes Motorsports iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13324){:target="_blank"} | | |
-|[Simworld Grand Final](https://members.iracing.com/membersite/member/LeagueView.do?league=13322){:target="_blank"} | | |
 |[2025 Cup Off\-Season League](https://members.iracing.com/membersite/member/LeagueView.do?league=13327){:target="_blank"} | |Hey all, this will be an off season league that will begin the Sunday after Phoenix\. Creating it now to try and get some members together\. Please race clean and respectful of others, as I am creating this mostly to get away from the caution filled public lobbies\. Would like to assign people numbers, and track points as they do in real life for the time being\. Please join, invite a friend, etc\. I will create a discord once we have some more members, thanks\! |
 |[Dirt 2 Daytona \(DTD\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13331){:target="_blank"} | | |
 |[Matchfit Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13325){:target="_blank"} | |Winton 3000 |
@@ -61,4 +58,7 @@
 |[Hendrick Performance](https://members.iracing.com/membersite/member/LeagueView.do?league=13376){:target="_blank"} | | |
 |[TFG Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13374){:target="_blank"} | |Official Two Fat Guys Sim Racing Promotions Special Events Series |
 |[Xtreme Spec Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13378){:target="_blank"} | |iRacing League for XSR |
+|[Battle Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=13381){:target="_blank"} | | |
+|[Short Track of America](https://members.iracing.com/membersite/member/LeagueView.do?league=13383){:target="_blank"} |[Discord](https://discord.gg/mFsfkPQh){:target="_blank"} | |
+|[Take 2 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13382){:target="_blank"} | | |
 
