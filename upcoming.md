@@ -29,7 +29,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[Oval Cup Series 25/26 by pwa\-simracing\.de](https://members.iracing.com/membersite/member/LeagueView.do?league=8914){:target="_blank"} |PWA Oval Series 25/26 |Fixed |Las Vegas Motor Speedway |Fri, October 17 12:00PM EDT |Fri, October 17 05:00PM BST |Sat, October 18 03:00AM AEDT |
 |[Racers Elite \- Thursday Next Gen Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9514){:target="_blank"} |Racers Elite \- Next Gen Fixed Series \(Season 9\) |Fixed |Charlotte Motor Speedway  |Thu, October 23 05:35PM EDT |Thu, October 23 10:35PM BST |Fri, October 24 08:35AM AEDT |
 |[802 Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5979){:target="_blank"} |802 Winston Cup Series Season 6 | |Daytona International Speedway |Sun, October 19 06:45PM EDT |Sun, October 19 11:45PM BST |Mon, October 20 09:45AM AEDT |
 |[Showtime Nascar Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13008){:target="_blank"} |Showtime Cup Series \- Season 1 |Fixed |Daytona International Speedway |Tue, October 21 08:30PM EDT |Wed, October 22 01:30AM BST |Wed, October 22 11:30AM AEDT |
@@ -79,7 +78,17 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|------------------|-----|--------------------------|---------------------------|---------------------------|----------------------------|
-|[Knottical Marine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11510){:target="_blank"} |2026 Rookie Legend | |USA International Speedway |Sat, October 18 09:00PM EDT |Sun, October 19 02:00AM BST |Sun, October 19 12:00PM AEDT |
+|[Knottical Marine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11510){:target="_blank"} |2026 Rookie Legend | |USA International Speedway |Sat, October 18 10:00PM EDT |Sun, October 19 03:00AM BST |Sun, October 19 01:00PM AEDT |
+
+# Open-wheel
+
+### FIA F4
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|-----------------------------------|---------------------------|---------------------------|----------------------------|
+|[FIA F4 eSports Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11277){:target="_blank"} |2025 FIA F4 eSports Global Championship | |[Legacy] Silverstone Circuit - 2008 |Sat, October 25 02:40PM EDT |Sat, October 25 07:40PM BST |Sun, October 26 05:40AM AEDT |
 
 # Sports Car
 
@@ -89,7 +98,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|--------|-----|------------|---------------------------|---------------------------|----------------------------|
-|[Simworld \(Sat 2:00\-3:20\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13086){:target="_blank"} |Season 2 | |Road America |Fri, October 17 10:55PM EDT |Sat, October 18 03:55AM BST |Sat, October 18 01:55PM AEDT |
 |[Simworld \(Sun 3:00\-4:20\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13087){:target="_blank"} |Season 2 | |Road America |Sat, October 18 11:55PM EDT |Sun, October 19 04:55AM BST |Sun, October 19 02:55PM AEDT |
 
 # Prototype
@@ -102,14 +110,6 @@
 |--------------------------------------------------------------------------------------------------------------|---------------------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
 |[GTChampions Road](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |GTC Prototype Showdown 2025 |Both |Sebring International Raceway |Sat, October 18 11:00AM EDT |Sat, October 18 04:00PM BST |Sun, October 19 02:00AM AEDT |
 
-### Radical SR8
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 3\.1 |Fixed |Daytona International Speedway |Fri, October 17 08:30PM EDT |Sat, October 18 01:30AM BST |Sat, October 18 11:30AM AEDT |
-
 ### Spec Racer Ford
 
 [Back to Top](#)  
@@ -117,6 +117,16 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------|--------|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[ORNL\.nl Zondag](https://members.iracing.com/membersite/member/LeagueView.do?league=6769){:target="_blank"} |SCCA Cup | |Summit Point Raceway |Sun, October 19 02:00PM EDT |Sun, October 19 07:00PM BST |Mon, October 20 05:00AM AEDT |
+
+# Road
+
+### Supercars Gen 3
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|-------------------|-----|---------------------|---------------------------|---------------------------|----------------------------|
+|[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |UES Off Season Slam |Fixed |Martinsville Speedway |Sun, October 19 04:45AM EDT |Sun, October 19 09:45AM BST |Sun, October 19 07:45PM AEDT |
 
 # Dirt Oval
 
@@ -161,8 +171,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|------------------------------------|---------------------------|---------------------------|----------------------------|
 |[CAS \- Combined Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10943){:target="_blank"} |CAS\- Combined Cup 9th Season | |Phillip Island Circuit |Fri, October 24 01:00PM EDT |Fri, October 24 06:00PM BST |Sat, October 25 04:00AM AEDT |
+|[GRD iRacing Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10888){:target="_blank"} |Season 1 | |Okayama International Circuit |Sat, October 25 06:00PM EDT |Sat, October 25 11:00PM BST |Sun, October 26 09:00AM AEDT |
 |[SOAR racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12802){:target="_blank"} |SOAR season 2 | |EchoPark Speedway (Atlanta) |Mon, October 20 08:00PM EDT |Tue, October 21 01:00AM BST |Tue, October 21 11:00AM AEDT |
 |[THD SIMSPORT PRODUCTIONS](https://members.iracing.com/membersite/member/LeagueView.do?league=11705){:target="_blank"} |Full Contact Legends | |Federated Auto Parts Raceway at I-55 |Sun, October 19 03:15AM EDT |Sun, October 19 08:15AM BST |Sun, October 19 06:15PM AEDT |
 
