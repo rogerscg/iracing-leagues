@@ -20,7 +20,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HRT2HEART MOTORSPORTS TRUCK SEASON |Fixed |Daytona International Speedway |Sun, October 26 07:58PM EDT |Sun, October 26 11:58PM GMT |Mon, October 27 10:58AM AEDT |
 |[Nascar Fun Friday](https://members.iracing.com/membersite/member/LeagueView.do?league=13083){:target="_blank"} |Nascar |Open |Daytona International Speedway |Fri, October 24 02:55PM EDT |Fri, October 24 07:55PM BST |Sat, October 25 05:55AM AEDT |
 
 ### NASCAR 2022 NextGen
@@ -43,16 +44,22 @@
 |[Racers Elite \- Tuesday Truck Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9801){:target="_blank"} |Racers Elite \- Truck Fixed Series \(Season 9\) |Fixed |Las Vegas Motor Speedway |Tue, October 21 05:35PM EDT |Tue, October 21 10:35PM BST |Wed, October 22 08:35AM AEDT |
 |[WSL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9800){:target="_blank"} |WSL Truck Series Season 4 \{2025\-2026\} |Fixed |Charlotte Motor Speedway  |Mon, October 20 07:00PM EDT |Tue, October 21 12:00AM BST |Tue, October 21 10:00AM AEDT |
 
+### SK Modified
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------|--------------------|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |S\.K Warne Modfiieds |Fixed |USA International Speedway |Sun, October 19 04:30AM EDT |Sun, October 19 09:30AM BST |Sun, October 19 07:30PM AEDT |
+
 ### XFINITY Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[Racers Elite \- Wednesday Xfinity Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9180){:target="_blank"} |Racers Elite \- Xfinity Fixed Series \(Season 8\) |Fixed |Auto Club Speedway |Wed, October 22 05:35PM EDT |Wed, October 22 10:35PM BST |Thu, October 23 08:35AM AEDT |
 |[802 Busch Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8305){:target="_blank"} |802 Busch Series Inaugural Season | |Daytona International Speedway |Fri, October 24 09:00PM EDT |Sat, October 25 02:00AM BST |Sat, October 25 12:00PM AEDT |
-|[Madness Racing League \(MRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11268){:target="_blank"} |Xfinity Series Season 3 |Fixed |Rockingham Speedway |Sat, October 18 11:17PM EDT |Sun, October 19 04:17AM BST |Sun, October 19 02:17PM AEDT |
-|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |FTR Xfinity Series |Fixed |Michigan International Speedway |Sat, October 18 08:30PM EDT |Sun, October 19 01:30AM BST |Sun, October 19 11:30AM AEDT |
 
 # Oval
 
@@ -72,14 +79,6 @@
 |-------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
 |[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HRT2HEART MOTORSPORTS LATE MODEL STOCK |Fixed |Kevin Harvick's Kern Raceway |Wed, October 22 07:58PM EDT |Thu, October 23 12:58AM BST |Thu, October 23 10:58AM AEDT |
 
-### Legends
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|------------------|-----|--------------------------|---------------------------|---------------------------|----------------------------|
-|[Knottical Marine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11510){:target="_blank"} |2026 Rookie Legend | |USA International Speedway |Sat, October 18 10:00PM EDT |Sun, October 19 03:00AM BST |Sun, October 19 01:00PM AEDT |
-
 # Open-wheel
 
 ### FIA F4
@@ -92,23 +91,15 @@
 
 # Sports Car
 
-### Hosted All Cars Class
+### GT4 Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|--------|-----|------------|---------------------------|---------------------------|----------------------------|
-|[Simworld \(Sun 3:00\-4:20\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13087){:target="_blank"} |Season 2 | |Road America |Sat, October 18 11:55PM EDT |Sun, October 19 04:55AM BST |Sun, October 19 02:55PM AEDT |
+|---------------------------------------------------------------------------------------------------|---------------------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO GT4 Series 2025\-2026 |Open |Circuit de Spa-Francorchamps |Mon, October 20 12:30PM EDT |Mon, October 20 05:30PM BST |Tue, October 21 03:30AM AEDT |
 
 # Prototype
-
-### GTP
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|---------------------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
-|[GTChampions Road](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |GTC Prototype Showdown 2025 |Both |Sebring International Raceway |Sat, October 18 11:00AM EDT |Sat, October 18 04:00PM BST |Sun, October 19 02:00AM AEDT |
 
 ### Spec Racer Ford
 
@@ -130,21 +121,13 @@
 
 # Dirt Oval
 
-### Dirt SprintCar - 360
+### Dirt Street Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|---------------------------|---------------------------|---------------------------|----------------------------|
-|[Freedom Motorsports Alliance\-Dirt Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13173){:target="_blank"} |FMA 360 Sprints Season 1 |Fixed |The Dirt Track at Charlotte |Sat, October 18 08:30PM EDT |Sun, October 19 01:30AM BST |Sun, October 19 11:30AM AEDT |
-
-### Dirt UMP Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|---------------|-----|---------------|---------------------------|---------------------------|----------------------------|
-|[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2025 UMP Season |Fixed |Eldora Speedway |Sat, October 18 10:15PM EDT |Sun, October 19 03:15AM BST |Sun, October 19 01:15PM AEDT |
+|-------------------------------------------------------------------------------------------------------|----------------|-----|---------------------------|---------------------------|---------------------------|----------------------------|
+|[PS Enduros](https://members.iracing.com/membersite/member/LeagueView.do?league=7139){:target="_blank"} |Enduros Season 6 |Fixed |The Dirt Track at Charlotte |Tue, October 21 08:30PM EDT |Wed, October 22 01:30AM BST |Wed, October 22 11:30AM AEDT |
 
 # Rallycross
 
@@ -165,6 +148,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
 |[TORA \(The Online Racing Association\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5254){:target="_blank"} |TORA Intro\-GT Series 2025 |Open |Okayama International Circuit |Sun, October 19 01:10PM EDT |Sun, October 19 06:10PM BST |Mon, October 20 04:10AM AEDT |
+|[GoFAST Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12501){:target="_blank"} |GT3 Sprint Shootout |Open |Indianapolis Motor Speedway |Sun, October 19 06:15PM EDT |Sun, October 19 11:15PM BST |Mon, October 20 09:15AM AEDT |
 
 ### Hosted All Cars Class
 
