@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Hybrid GTP Series |16 |1423 |Fixed |Las Vegas Motor Speedway |Sun, October 19 08:16PM EDT |Mon, October 20 01:16AM BST |Mon, October 20 11:16AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|-------------|--------|------|------|
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Hybrid GTP Series |18 |1420 |Fixed | | | | |
 
 ### Dallara P217
 
@@ -29,9 +29,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|---------------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2025 \- HYPERCARS PASSIONSIM |47 |2306 |Fixed | | | | |
-|[GTChampions Road](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |GTC Prototype Showdown 2025 |21 |2341 |Both | | | | |
+|[GTChampions Road](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |GTC Prototype Showdown 2025 |21 |2341 |Both |Circuit de Spa-Francorchamps |Sat, October 25 11:00AM EDT |Sat, October 25 04:00PM BST |Sun, October 26 02:00AM AEDT |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Season 1 |12 |1106 | |Indianapolis Motor Speedway |Thu, October 23 08:00PM EDT |Fri, October 24 01:00AM BST |Fri, October 24 11:00AM AEDT |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Hybrid GTP Series |10 |1335 |Fixed | | | | |
 
@@ -40,11 +40,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|-------------------------|---------------------------|---------------------------|----------------------------|
 |[RaceFace\.Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=12788){:target="_blank"} |RaceFace\.Pro Prototype Multi\-Class Challenge |28 |2200 |Both | | | | |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 3 |22 |3490 |Open | | | | |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 4 |20 |3048 |Open |Circuit Zandvoort |Thu, October 23 02:15PM EDT |Thu, October 23 07:15PM BST |Fri, October 24 05:15AM AEDT |
-|[Billy Oirish Racing IMSA League](https://members.iracing.com/membersite/member/LeagueView.do?league=13218){:target="_blank"} |Billy Oirish Racing Sunday Night IMSA League |14 |1535 | |Daytona International Speedway |Sun, October 19 04:00PM EDT |Sun, October 19 09:00PM BST |Mon, October 20 07:00AM AEDT |
+|[Billy Oirish Racing IMSA League](https://members.iracing.com/membersite/member/LeagueView.do?league=13218){:target="_blank"} |Billy Oirish Racing Sunday Night IMSA League |14 |1535 | |Charlotte Motor Speedway  |Sun, October 26 05:00PM EDT |Sun, October 26 09:00PM GMT |Mon, October 27 08:00AM AEDT |
 |[Tachycardia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11017){:target="_blank"} |Season 16 Radical |11 |1310 | | | | | |
 |[SRFD Central PA Division](https://members.iracing.com/membersite/member/LeagueView.do?league=10390){:target="_blank"} |Radical World of Racing |10 |1402 |Fixed |Circuit Gilles Villeneuve |Tue, October 21 09:00PM EDT |Wed, October 22 02:00AM BST |Wed, October 22 12:00PM AEDT |
 
@@ -103,7 +103,7 @@
 |-----------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Pre\-Qualifying |102 |1642 | | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S3 SRF WW |78 |3231 |Open | | | | |
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025S4 WW SRF 10yr Anniversary season |69 |2975 |Open |Watkins Glen International |Sun, October 19 02:40PM EDT |Sun, October 19 07:40PM BST |Mon, October 20 05:40AM AEDT |
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025S4 WW SRF 10yr Anniversary season |72 |2956 |Open |Autódromo José Carlos Pace |Sun, October 26 02:40PM EDT |Sun, October 26 06:40PM GMT |Mon, October 27 05:40AM AEDT |
 |[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Split 1 |46 |2334 | | | | | |
 |[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRSCCA SRF \- FALL 2025 |37 |1796 |Both | | | | |
 |[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Split 2 |37 |1436 | | | | | |

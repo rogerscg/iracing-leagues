@@ -28,7 +28,7 @@
 |[Friday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13036){:target="_blank"} |9\.12\.2025 |14 |1794 | | | | | |
 |[TadPole Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13116){:target="_blank"} |Season 1 |13 |1620 | |Bristol Motor Speedway |Wed, October 22 08:00PM EDT |Thu, October 23 01:00AM BST |Thu, October 23 11:00AM AEDT |
 |[Field Filler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9117){:target="_blank"} |Summer Season |12 |1387 | | | | | |
-|[Slingshot Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11959){:target="_blank"} |SRL Ministocks Season 1 |11 |2039 | |Summit Point Raceway |Sun, October 19 08:00PM EDT |Mon, October 20 01:00AM BST |Mon, October 20 11:00AM AEDT |
+|[Slingshot Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11959){:target="_blank"} |SRL Ministocks Season 1 |12 |2040 | | | | | |
 
 ### Late Model Stock
 
@@ -47,9 +47,8 @@
 |[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC Late Model Stock Season 1 |34 |1657 |Fixed | | | | |
 |[GLR LATE MODEL SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11992){:target="_blank"} |GLR Late Models Season 2 |34 |1915 | |[Legacy] Phoenix Raceway - 2008 |Thu, October 23 09:00PM EDT |Fri, October 24 02:00AM BST |Fri, October 24 12:00PM AEDT |
 |[Sim 360](https://members.iracing.com/membersite/member/LeagueView.do?league=2202){:target="_blank"} |Sim 306 Late Model Stocks Series |34 |1611 |Both |Five Flags Speedway |Wed, October 22 08:00PM EDT |Thu, October 23 01:00AM BST |Thu, October 23 11:00AM AEDT |
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Tuesdays Late Model Stocks Season 1 |32 |1772 |Fixed | | | | |
-|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 4 |32 |1961 |Fixed |New Smyrna Speedway |Sun, October 19 07:45PM EDT |Mon, October 20 12:45AM BST |Mon, October 20 10:45AM AEDT |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |LMS Heatwave season 3 |31 |1435 |Fixed |Concord Speedway |Sun, October 19 08:00PM EDT |Mon, October 20 01:00AM BST |Mon, October 20 11:00AM AEDT |
+|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 4 |32 |1976 |Fixed | | | | |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |LMS Heatwave season 3 |31 |1423 |Fixed | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |HMS Late Model Stock Showcase Series |30 |1959 |Fixed | | | | |
 |[National Outlaw Racing Association \| \(NORA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12407){:target="_blank"} |Late Model Stock Outlaw Tour |30 |1991 |Fixed | | | | |
 |[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S31 |30 |1860 |Fixed | | | | |
@@ -60,8 +59,8 @@
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Models S12 |27 |2328 |Fixed | | | | |
 |[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S32 |27 |1946 |Fixed | | | | |
 |[Furniture Mart Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5291){:target="_blank"} |FMWS 2025 Season 2 \- Late Model Tour |26 |2948 |Fixed | | | | |
+|[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Late Model Season 53 |26 |2386 |Both |Kevin Harvick's Kern Raceway |Sun, October 26 07:30PM EDT |Sun, October 26 11:30PM GMT |Mon, October 27 10:30AM AEDT |
 |[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |Late Model Stock Series \(Season 1\) |25 |2152 |Fixed | | | | |
-|[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Late Model Season 53 |25 |2380 |Both |Myrtle Beach Speedway |Sun, October 19 07:30PM EDT |Mon, October 20 12:30AM BST |Mon, October 20 10:30AM AEDT |
 |[eSports Championship Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10110){:target="_blank"} |Season 4 |25 |2956 |Open |Oxford Plains Speedway |Thu, October 23 07:30PM EDT |Fri, October 24 12:30AM BST |Fri, October 24 10:30AM AEDT |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 Late Model Stock Season 2 |24 |1390 | | | | | |
 |[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC Late Model Season 2 |23 |1744 |Fixed |Bristol Motor Speedway |Mon, October 13 10:30PM EDT |Tue, October 14 03:30AM BST |Tue, October 14 01:30PM AEDT |
@@ -72,15 +71,16 @@
 |[FALCONGRAFIX Late Model Series powered by EFRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6409){:target="_blank"} |Falcon Grafix Late Model Series |20 |2152 | |Myrtle Beach Speedway |Tue, October 21 08:00PM EDT |Wed, October 22 01:00AM BST |Wed, October 22 11:00AM AEDT |
 |[Twisted Chassis Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10613){:target="_blank"} |Season 2 |19 |1678 | | | | | |
 |[Gaslight Racing League LMSC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12961){:target="_blank"} |LMSC Season 1 2025 |19 |2576 | |Kevin Harvick's Kern Raceway |Wed, October 22 08:30PM EDT |Thu, October 23 01:30AM BST |Thu, October 23 11:30AM AEDT |
+|[Trans\-Am International Tribute Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5091){:target="_blank"} |TAInTS \- Season 1 |18 |1861 |Fixed |Mount Panorama Circuit |Sun, October 26 10:00AM EDT |Sun, October 26 02:00PM GMT |Mon, October 27 01:00AM AEDT |
 |[All\-Star Racing League \(LMSC's & SLM's\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |BRNZ Performance Late Model Stock Series |18 |1679 |Fixed | | | | |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |NASCAR GP S1 |16 |1877 |Fixed | | | | |
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Wild Wednesday on Asphalt \- Season 2 |16 |1518 |Fixed |Hickory Motor Speedway |Wed, October 22 08:00PM EDT |Thu, October 23 01:00AM BST |Thu, October 23 11:00AM AEDT |
 |[T\-Ray's Circle Track Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12860){:target="_blank"} |Late Models Season 1 |15 |1265 | | | | | |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |Fall Pavement Pounders |15 |1302 | |New Smyrna Speedway |Thu, October 23 07:00PM EDT |Fri, October 24 12:00AM BST |Fri, October 24 10:00AM AEDT |
-|[Trans\-Am International Tribute Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5091){:target="_blank"} |TAInTS \- Season 1 |14 |1720 |Fixed |Watkins Glen International |Sun, October 19 10:00AM EDT |Sun, October 19 03:00PM BST |Mon, October 20 01:00AM AEDT |
-|[CASH CLOWNS](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |SEASON 3 |14 |1947 | | | | | |
+|[CASH CLOWNS](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |SEASON 3 |14 |1910 | | | | | |
 |[PRA Short Track League](https://members.iracing.com/membersite/member/LeagueView.do?league=12999){:target="_blank"} |Late Model Stock Series \| Season 3 |14 |1810 | |Nashville Fairgrounds Speedway |Mon, October 20 10:00PM EDT |Tue, October 21 03:00AM BST |Tue, October 21 01:00PM AEDT |
 |[The EBAA Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9626){:target="_blank"} |Fall 2025 Late Model Stocks |13 |1681 | |South Boston Speedway |Mon, October 20 07:00PM EDT |Tue, October 21 12:00AM BST |Tue, October 21 10:00AM AEDT |
+|[Quarter Clear Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10932){:target="_blank"} |KM Late Models |12 |2364 | | | | | |
 |[THURSDAY NIGHT THUNDER](https://members.iracing.com/membersite/member/LeagueView.do?league=4968){:target="_blank"} |LATE MODEL \- SEASON 3 |11 |1765 | | | | | |
 |[Super\-High Intensity Track Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9997){:target="_blank"} |Two\-Five Designs Grass Roots Series |11 |1997 |Fixed | | | | |
 
@@ -89,8 +89,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|---------------------|---------------------------|---------------------------|----------------------------|
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |Tuesdays Legends Season 1 |36 |1659 |Fixed | | | | |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|---------------------------------------|---------------------------|---------------------------|----------------------------|
 |[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Legends of the Fall |31 |1967 | | | | | |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 6 |28 |2277 |Fixed | | | | |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Legends Cup |22 |1496 |Both | | | | |
@@ -102,13 +101,14 @@
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Lizard Legendz |13 |1971 |Both | | | | |
 |[Sim Racing Syndicate by NCR](https://members.iracing.com/membersite/member/LeagueView.do?league=11356){:target="_blank"} |S3 \- Sim Racing Syndicate Legends Series 2025 |12 |2118 |Fixed | | | | |
 |[WTEC Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=7058){:target="_blank"} |S14 \- Legends |11 |1822 | |Brands Hatch Circuit |Thu, October 23 02:00PM EDT |Thu, October 23 07:00PM BST |Fri, October 24 05:00AM AEDT |
+|[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Legends Gang |10 |1892 | |World Wide Technology Raceway (Gateway) |Sun, October 26 06:24PM EDT |Sun, October 26 10:24PM GMT |Mon, October 27 09:24AM AEDT |
 
 ### Mini Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|----|-----|---------------------|---------------------------|---------------------------|----------------------------|
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |03 Mondays Mini Stocks Season 2 |46 |1791 |Fixed |Martinsville Speedway |Mon, October 20 07:00PM EDT |Tue, October 21 12:00AM BST |Tue, October 21 10:00AM AEDT |
 |[TK Nascar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6273){:target="_blank"} |TK Oval Challenge \- 25S3 |39 |2088 | | | | | |
 |[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} |Season 9 Ovals |38 |1481 | | | | | |
@@ -116,8 +116,8 @@
 |[Average Joes Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12575){:target="_blank"} |Mini Stock Mondays |27 |1617 |Fixed |The Bullring |Mon, October 20 07:15PM EDT |Tue, October 21 12:15AM BST |Tue, October 21 10:15AM AEDT |
 |[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Carolina Mini Stock Series |18 |1918 |Both | | | | |
 |[Kawczynski Rallycross League](https://members.iracing.com/membersite/member/LeagueView.do?league=12977){:target="_blank"} |Kawczynski iRacing \| Mini Stock S1 |15 |2273 |Fixed | | | | |
+|[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Mini\-Stock Experience \- Season\#01 |13 |2443 |Fixed |Lime Rock Park |Sun, October 26 01:30PM EDT |Sun, October 26 05:30PM GMT |Mon, October 27 04:30AM AEDT |
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Z\-Series 2025B |13 |1856 | | | | | |
-|[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Mini\-Stock Experience \- Season\#01 |11 |2493 |Fixed |USA International Speedway |Sun, October 19 12:30PM EDT |Sun, October 19 05:30PM BST |Mon, October 20 03:30AM AEDT |
 |[THURSDAY NIGHT THUNDER](https://members.iracing.com/membersite/member/LeagueView.do?league=4968){:target="_blank"} |MINI STOCK \- SEASON 3 |11 |1688 | | | | | |
 
 ### Silver Crown
@@ -151,7 +151,7 @@
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |TVR\-Esports/HHR Pole Setter Street Stock series 3 |40 |1496 |Fixed | | | | |
 |[H&H Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12307){:target="_blank"} |HHR Short Track Series Season 1 |39 |1881 |Both | | | | |
 |[Xcelerate Racing League Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=11472){:target="_blank"} |HAVOC Racing Syndicate Season 3 |37 |1811 | |Stafford Motor Speedway |Thu, October 23 07:30PM EDT |Fri, October 24 12:30AM BST |Fri, October 24 10:30AM AEDT |
-|[North South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5080){:target="_blank"} |Fall 2025 Street Stocks |35 |2766 | | | | | |
+|[North South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5080){:target="_blank"} |Fall 2025 Street Stocks |35 |2766 | |Hickory Motor Speedway |Mon, October 20 08:00PM EDT |Tue, October 21 01:00AM BST |Tue, October 21 11:00AM AEDT |
 |[H&H Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12307){:target="_blank"} |HHR Speedway Series Season 1 |33 |1840 |Both | | | | |
 |[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |SimAbility Street Stock Showdown |32 |1640 | | | | | |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Saturday Night Fever street stock series |28 |1313 |Both | | | | |
@@ -165,15 +165,15 @@
 |[United Racing Online Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11591){:target="_blank"} |Streeters Showdown S1 |20 |2602 | | | | | |
 |[Metal Heads Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12030){:target="_blank"} |street stock challenge |20 |1789 | | | | | |
 |[PRA Short Track League](https://members.iracing.com/membersite/member/LeagueView.do?league=12999){:target="_blank"} |Asphalt Assault Series \| Season 3 |19 |1940 | |Nashville Fairgrounds Speedway |Mon, October 20 09:00PM EDT |Tue, October 21 02:00AM BST |Tue, October 21 12:00PM AEDT |
+|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Factory Stocks Season 4 |19 |1398 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- Global Stock Car Challenge \(2025B\) |18 |1557 |Fixed | | | | |
 |[Friday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13036){:target="_blank"} |8\.22\.2025 1 |18 |1966 | | | | | |
 |[T\-Ray's Circle Track Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12860){:target="_blank"} |Street Stocks Season 1 |17 |1371 | | | | | |
 |[PRA Sunset Bend Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13295){:target="_blank"} |Sunset Bend Street Stock RC Challenge |16 |1568 | |Sandown International Motor Raceway |Thu, October 23 08:00PM EDT |Fri, October 24 01:00AM BST |Fri, October 24 11:00AM AEDT |
-|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Factory Stocks Season 4 |16 |1458 |Both | | | | |
 |[Friday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13036){:target="_blank"} |10\.10\.25 |16 |1787 | | | | | |
 |[Friday Night Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13036){:target="_blank"} |August 29th 2025 |15 |1998 | | | | | |
+|[Tube Frame Twisters, The League](https://members.iracing.com/membersite/member/LeagueView.do?league=12787){:target="_blank"} |Tube Frame Twister, The League Season 2 |15 |1932 |Open |Road Atlanta |Sun, October 26 08:00PM EDT |Mon, October 27 12:00AM GMT |Mon, October 27 11:00AM AEDT |
 |[CSC Racing League \- Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12846){:target="_blank"} |Short Track Season 1 |14 |1667 |Fixed | | | | |
-|[Tube Frame Twisters, The League](https://members.iracing.com/membersite/member/LeagueView.do?league=12787){:target="_blank"} |Tube Frame Twister, The League Season 2 |14 |1953 |Open |Summit Point Raceway |Sun, October 19 08:00PM EDT |Mon, October 20 01:00AM BST |Mon, October 20 11:00AM AEDT |
 |[SMOKE N TACOS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8349){:target="_blank"} |Street Stocks |13 |1416 |Both | | | | |
 |[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} |2025 S2 Street Stocks |12 |3005 |Fixed | | | | |
 

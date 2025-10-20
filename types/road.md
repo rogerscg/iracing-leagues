@@ -22,7 +22,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 2 |115 |3280 |Open | | | | |
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 1 |96 |4828 |Open | | | | |
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2025 Split 1 |96 |4771 |Open | | | | |
 
 ### SRX
 
@@ -48,6 +48,7 @@
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday Night Gen 3 Season 3 |37 |1492 | | | | | |
 |[WizardsMadmen Australian Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S17 2025 |26 |1605 |Both | | | | |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 17 |26 |3792 |Open | | | | |
+|[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |UES Off Season Slam |22 |2409 |Fixed |North Wilkesboro Speedway |Sun, October 26 04:45AM EDT |Sun, October 26 08:45AM GMT |Sun, October 26 07:45PM AEDT |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |Summer of 25/26 Special Events |20 |1486 |Fixed | | | | |
 |[OZZEE2](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |V8 Gen 3 Season 5 |17 |None |Both | | | | |
 |[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |SuperChairs Season 1 |12 |1577 | | | | | |
