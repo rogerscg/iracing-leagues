@@ -21,8 +21,9 @@
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025D Rally X Games |46 |2059 |Both |Brands Hatch Circuit |Tue, October 21 04:30AM EDT |Tue, October 21 09:30AM BST |Tue, October 21 07:30PM AEDT |
 |[RX Pro \(open\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2025 RX Pro |31 |6391 | | | | | |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25B |28 |4513 | | | | | |
-|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25B |20 |3186 | | | | | |
+|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25B |21 |2900 | | | | | |
 |[AusRX/AusTrux](https://members.iracing.com/membersite/member/LeagueView.do?league=6042){:target="_blank"} |AusRX Season 11 |19 |2596 | | | | | |
+|[ADAC SimRacing Rallycross Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12771){:target="_blank"} |ADAC SimRacing Rallycross Cup 2025 \- Winter |19 |3391 |Fixed | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- Supporting the WWP |17 |1497 |Fixed | | | | |
 |[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |15 |1494 | |Indianapolis Motor Speedway |Sun, October 26 03:05PM EDT |Sun, October 26 07:05PM GMT |Mon, October 27 06:05AM AEDT |
 
