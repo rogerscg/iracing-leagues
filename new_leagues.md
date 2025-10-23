@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Force Feedback Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13350){:target="_blank"} |[Discord](https://discord.gg/cD2rEfg3Wt){:target="_blank"} | |
-|[Magic City Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=13347){:target="_blank"} | | |
-|[Ohio Boyeez](https://members.iracing.com/membersite/member/LeagueView.do?league=13348){:target="_blank"} | |Oval Racing both Dirt and Asphalt\. |
-|[Red Light Racing Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13349){:target="_blank"} | |Thanksgiving Thunder |
 |[OFF THE TOP RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=13353){:target="_blank"} |[Discord](https://discord.gg/2Gn8f9Xj){:target="_blank"} | |
 |[SimHub Race Lounge\- Thursday Night F4](https://members.iracing.com/membersite/member/LeagueView.do?league=13351){:target="_blank"} | | |
 |[The GTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=13352){:target="_blank"} | |Good Times Cup Challenge |
@@ -56,4 +52,7 @@
 |[Money Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13395){:target="_blank"} | |A league built around the community for the community to have a good time while also having the opportunity to make some money\!\! |
 |[Prolog MPDM 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=13398){:target="_blank"} | | |
 |[The Wednesday Night Winter Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13396){:target="_blank"} | |This is a short 13 week series consisting of a jam packed schedule\. |
+|[OBAGRA](https://members.iracing.com/membersite/member/LeagueView.do?league=13402){:target="_blank"} | | |
+|[Off Season Mixers](https://members.iracing.com/membersite/member/LeagueView.do?league=13403){:target="_blank"} | | |
+|[SpeedZone eSports Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13401){:target="_blank"} | | |
 

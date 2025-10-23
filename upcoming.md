@@ -11,7 +11,7 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
-|[Virginia iRacing League/iFormula Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |ViRL SEASON 7: ARCA SERIES |Fixed |Oswego Speedway |Tue, October 28 07:00PM EDT |Tue, October 28 11:00PM GMT |Wed, October 29 10:00AM AEDT |
+|[Virginia iRacing League/iFormula Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7765){:target="_blank"} |ViRL SEASON 7: ARCA SERIES |Fixed |Dover Motor Speedway |Tue, October 28 07:00PM EDT |Tue, October 28 11:00PM GMT |Wed, October 29 10:00AM AEDT |
 |[VRX 2025 World Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13309){:target="_blank"} |VRX 2025 World Cup | |Michigan International Speedway |Thu, October 23 08:30PM EDT |Fri, October 24 01:30AM BST |Fri, October 24 11:30AM AEDT |
 
 ### Hosted All Cars Class
@@ -28,9 +28,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----|--------------------------|---------------------------|---------------------------|----------------------------|
 |[Racers Elite \- Thursday Next Gen Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9514){:target="_blank"} |Racers Elite \- Next Gen Fixed Series \(Season 9\) |Fixed |Charlotte Motor Speedway  |Thu, October 23 05:35PM EDT |Thu, October 23 10:35PM BST |Fri, October 24 08:35AM AEDT |
-|[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Cup Season 7 |Fixed |Daytona International Speedway |Wed, October 22 08:00PM EDT |Thu, October 23 01:00AM BST |Thu, October 23 11:00AM AEDT |
 |[Gripline Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13282){:target="_blank"} |🚦 Gripline Cup: The Proving Ground \(4\-Week Season\) |Fixed |USA International Speedway |Mon, October 27 07:30PM EDT |Mon, October 27 11:30PM GMT |Tue, October 28 10:30AM AEDT |
 
 ### NASCAR Legends 1987
@@ -48,8 +47,8 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[BTG Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10505){:target="_blank"} |BTG Cup Rerun | |EchoPark Speedway (Atlanta) |Sun, October 26 06:30PM EDT |Sun, October 26 10:30PM GMT |Mon, October 27 09:30AM AEDT |
 |[SFR Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12636){:target="_blank"} |SFR Racing Truck  Series  |Fixed |Daytona International Speedway |Sun, October 26 07:00PM EDT |Sun, October 26 11:00PM GMT |Mon, October 27 10:00AM AEDT |
+|[YRD NEP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4677){:target="_blank"} |NEP SUPERTRUCKS SEASON 7 | |Daytona International Speedway |Thu, October 30 07:30PM EDT |Thu, October 30 11:30PM GMT |Fri, October 31 10:30AM AEDT |
 |[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Truck Season 7 |Fixed |Daytona International Speedway |Tue, October 28 07:59PM EDT |Tue, October 28 11:59PM GMT |Wed, October 29 10:59AM AEDT |
 
 ### XFINITY Series
@@ -57,20 +56,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[Racers Elite \- Wednesday Xfinity Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9180){:target="_blank"} |Racers Elite \- Xfinity Fixed Series \(Season 8\) |Fixed |Auto Club Speedway |Wed, October 22 05:35PM EDT |Wed, October 22 10:35PM BST |Thu, October 23 08:35AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[802 Busch Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8305){:target="_blank"} |802 Busch Series Inaugural Season | |Daytona International Speedway |Fri, October 24 09:00PM EDT |Sat, October 25 02:00AM BST |Sat, October 25 12:00PM AEDT |
 |[NSRLA O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13337){:target="_blank"} |DTAS O'Reilly Season 1 | |Daytona International Speedway |Thu, October 23 07:29PM EDT |Fri, October 24 12:29AM BST |Fri, October 24 10:29AM AEDT |
-
-# Oval
-
-### Late Model Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
-|[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HRT2HEART MOTORSPORTS LATE MODEL STOCK |Fixed |Kevin Harvick's Kern Raceway |Wed, October 22 07:58PM EDT |Thu, October 23 12:58AM BST |Thu, October 23 10:58AM AEDT |
 
 # Open-wheel
 
@@ -81,6 +69,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|-----------------------------------|---------------------------|---------------------------|----------------------------|
 |[FIA F4 eSports Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11277){:target="_blank"} |2025 FIA F4 eSports Global Championship | |[Legacy] Silverstone Circuit - 2008 |Sat, October 25 02:40PM EDT |Sat, October 25 07:40PM BST |Sun, October 26 05:40AM AEDT |
+|[Formula Challenge by AntiGravity](https://members.iracing.com/membersite/member/LeagueView.do?league=13203){:target="_blank"} |Formula Challenge Season 1 |Fixed |Watkins Glen International |Thu, October 30 09:00PM EDT |Fri, October 31 01:00AM GMT |Fri, October 31 12:00PM AEDT |
 |[Power FM – Time Attack](https://members.iracing.com/membersite/member/LeagueView.do?league=12984){:target="_blank"} |Time Attack \- Formula |Both |WeatherTech Raceway at Laguna Seca |Mon, October 27 05:01PM EDT |Mon, October 27 09:01PM GMT |Tue, October 28 08:01AM AEDT |
 
 ### Mercedes-AMG W12 E Performance
