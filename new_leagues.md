@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[OFF THE TOP RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=13353){:target="_blank"} |[Discord](https://discord.gg/2Gn8f9Xj){:target="_blank"} | |
-|[SimHub Race Lounge\- Thursday Night F4](https://members.iracing.com/membersite/member/LeagueView.do?league=13351){:target="_blank"} | | |
-|[The GTCC](https://members.iracing.com/membersite/member/LeagueView.do?league=13352){:target="_blank"} | |Good Times Cup Challenge |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} | |Monday night W12 Fixed Series  12 race Season  75% F1 GP Race Length  Open Practice @ 8pm EST  Open Quali @ 8:40pm EST  Race @ 9pm EST |
 |[Liga de los Pedax](https://members.iracing.com/membersite/member/LeagueView.do?league=13361){:target="_blank"} | | |
 |[M&M Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13360){:target="_blank"} | |Mainly a ministock league although we may venture out from time to time\.  Find us on discord at M&M racing |
@@ -55,4 +52,9 @@
 |[OBAGRA](https://members.iracing.com/membersite/member/LeagueView.do?league=13402){:target="_blank"} | | |
 |[Off Season Mixers](https://members.iracing.com/membersite/member/LeagueView.do?league=13403){:target="_blank"} | | |
 |[SpeedZone eSports Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13401){:target="_blank"} | | |
+|[Full Send Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13404){:target="_blank"} | |Welcome |
+|[HRA](https://members.iracing.com/membersite/member/LeagueView.do?league=13408){:target="_blank"} | | |
+|[Legends Road Cup Showdown \- LRCS](https://members.iracing.com/membersite/member/LeagueView.do?league=13405){:target="_blank"} | | |
+|[LIDOS EAGLE CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=13406){:target="_blank"} | | |
+|[Dead Internet Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=13407){:target="_blank"} | | |
 
