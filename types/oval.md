@@ -60,7 +60,7 @@
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Late Model Season 53 |26 |2386 |Both |Kevin Harvick's Kern Raceway |Sun, October 26 07:30PM EDT |Sun, October 26 11:30PM GMT |Mon, October 27 10:30AM AEDT |
 |[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |Late Model Stock Series \(Season 1\) |25 |2152 |Fixed | | | | |
 |[FourWide MotorSports](https://members.iracing.com/membersite/member/LeagueView.do?league=8179){:target="_blank"} |FWM Late Models |25 |1440 | | | | | |
-|[eSports Championship Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10110){:target="_blank"} |Season 4 |25 |2988 |Open | | | | |
+|[eSports Championship Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10110){:target="_blank"} |Season 4 |25 |2988 |Open |North Wilkesboro Speedway |Thu, October 30 07:30PM EDT |Thu, October 30 11:30PM GMT |Fri, October 31 10:30AM AEDT |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2025 Late Model Stock Season 2 |24 |1390 | | | | | |
 |[FALCONGRAFIX Late Model Series powered by EFRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6409){:target="_blank"} |Falcon Grafix Late Model Series |23 |2203 | | | | | |
 |[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC Late Model Season 2 |23 |1744 |Fixed |Bristol Motor Speedway |Mon, October 13 10:30PM EDT |Tue, October 14 03:30AM BST |Tue, October 14 01:30PM AEDT |
@@ -69,7 +69,6 @@
 |[Gaslight Racing League LMSC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12961){:target="_blank"} |LMSC Season 1 2025 |22 |2614 | |Myrtle Beach Speedway |Wed, October 29 08:30PM EDT |Thu, October 30 12:30AM GMT |Thu, October 30 11:30AM AEDT |
 |[All\-Star Racing League \(LMSC's & SLM's\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |BRNZ Performance Late Model Stock Series |21 |1740 |Fixed | | | | |
 |[2026 RPES Winter Heat](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2025 RPES Pavement Ignition Series |20 |1706 |Fixed | | | | |
-|[Twisted Chassis Late Model Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10613){:target="_blank"} |Season 2 |19 |1678 | | | | | |
 |[Trans\-Am International Tribute Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5091){:target="_blank"} |TAInTS \- Season 1 |18 |1861 |Fixed |Mount Panorama Circuit |Sun, October 26 10:00AM EDT |Sun, October 26 02:00PM GMT |Mon, October 27 01:00AM AEDT |
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Wild Wednesday on Asphalt \- Season 2 |18 |1536 |Fixed |South Boston Speedway |Wed, October 29 08:00PM EDT |Thu, October 30 12:00AM GMT |Thu, October 30 11:00AM AEDT |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |NASCAR GP S1 |16 |1877 |Fixed | | | | |
@@ -90,7 +89,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|---------------------------------------|---------------------------|---------------------------|----------------------------|
-|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Legends of the Fall |31 |1967 | | | | | |
+|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Legends of the Fall |31 |1967 | |Nashville Fairgrounds Speedway |Sat, October 25 09:30AM EDT |Sat, October 25 02:30PM BST |Sun, October 26 12:30AM AEDT |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 6 |28 |2269 |Fixed | | | | |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |05 Mondays Legends Season 2 |23 |1798 |Fixed |North Wilkesboro Speedway |Mon, October 27 10:30PM EDT |Tue, October 28 02:30AM GMT |Tue, October 28 01:30PM AEDT |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Legends Cup |22 |1496 |Both | | | | |
@@ -193,4 +192,5 @@
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |6BDesigns Super Late Model Tour |15 |2140 |Both | | | | |
 |[All\-Star Racing League \(LMSC's & SLM's\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |DC Designs Super Late Model series |15 |1964 |Fixed | | | | |
 |[iPASS](https://members.iracing.com/membersite/member/LeagueView.do?league=12568){:target="_blank"} |iPASS Pro Late Model 2025\-2026 |13 |3470 |Both |Oxford Plains Speedway |Thu, October 16 07:30PM EDT |Fri, October 17 12:30AM BST |Fri, October 17 10:30AM AEDT |
+|[Short Track of America](https://members.iracing.com/membersite/member/LeagueView.do?league=13383){:target="_blank"} |season 1 |10 |1609 |Fixed | | | | |
 

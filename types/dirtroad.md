@@ -17,10 +17,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|-------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|------------------|---------------------------|---------------------------|----------------------------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2025 |31 |2791 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- TINYTRUCK \(2025B\) |18 |2757 |Fixed | | | | |
-|[Mud Slingers Off Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13139){:target="_blank"} |Mud Slinging Pro 2 lite season 1 |14 |1432 | |Limaland Motorsports Park |Fri, October 24 08:00PM EDT |Sat, October 25 01:00AM BST |Sat, October 25 11:00AM AEDT |
+|[Mud Slingers Off Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13139){:target="_blank"} |Mud Slinging Pro 2 lite season 1 |15 |1433 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |TINYTRUCK \- 2025\-10 |13 |2842 |Fixed |Irwindale Speedway |Thu, October 30 08:00PM EDT |Fri, October 31 12:00AM GMT |Fri, October 31 11:00AM AEDT |
 
 ### Pro 2 Truck

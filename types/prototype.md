@@ -29,8 +29,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
-|[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2025 \- HYPERCARS PASSIONSIM |47 |2306 |Fixed | | | | |
+|-------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
 |[GTChampions Road](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |GTC Prototype Showdown 2025 |21 |2341 |Both |Circuit de Spa-Francorchamps |Sat, October 25 11:00AM EDT |Sat, October 25 04:00PM BST |Sun, October 26 02:00AM AEDT |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Season 1 |12 |1119 | | | | | |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART Hybrid GTP Series |10 |1335 |Fixed | | | | |
@@ -65,7 +64,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-----------------------|---------------------------|---------------------------|----------------------------|
-|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |42 |3721 | |Circuit Zandvoort |Sun, October 26 03:00PM EDT |Sun, October 26 07:00PM GMT |Mon, October 27 06:00AM AEDT |
+|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2025 |42 |3721 | | | | | |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2025 |29 |2815 | | | | | |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} |Radical fun |12 |1298 | |Barber Motorsports Park |Mon, October 27 09:15PM EDT |Tue, October 28 01:15AM GMT |Tue, October 28 12:15PM AEDT |
 
@@ -74,14 +73,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------------------|---------------------------|---------------------------|----------------------------|
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |Radical by CLN |34 |1860 |Fixed | | | | |
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO Radical SR8 Cup |26 |1884 |Open | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 5 |21 |2921 | | | | | |
+|[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 3\.1 |14 |2292 |Fixed | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 3 |12 |1853 |Fixed | | | | |
-|[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 3\.1 |12 |2355 |Fixed |Circuit de Spa-Francorchamps |Fri, October 24 08:30PM EDT |Sat, October 25 01:30AM BST |Sat, October 25 11:30AM AEDT |
 |[Vanquist Radical Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12842){:target="_blank"} |Vanquist Challenge \- 25S2 |11 |2436 | | | | | |
-|[24 Hour Karty People](https://members.iracing.com/membersite/member/LeagueView.do?league=12875){:target="_blank"} |Season 2: Autumn League |11 |1852 | | | | | |
+|[24 Hour Karty People](https://members.iracing.com/membersite/member/LeagueView.do?league=12875){:target="_blank"} |Season 2: Autumn League |11 |1852 | |Charlotte Motor Speedway  |Wed, October 29 09:00PM EDT |Thu, October 30 01:00AM GMT |Thu, October 30 12:00PM AEDT |
 
 ### Riley Daytona Prototype
 
@@ -103,8 +102,8 @@
 |[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Pre\-Qualifying |102 |1642 | | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025 S3 SRF WW |78 |3231 |Open | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025S4 WW SRF 10yr Anniversary season |72 |2956 |Open |Autódromo José Carlos Pace |Sun, October 26 02:40PM EDT |Sun, October 26 06:40PM GMT |Mon, October 27 05:40AM AEDT |
-|[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Split 1 |46 |2334 | | | | | |
-|[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Split 2 |37 |1436 | | | | | |
+|[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Split 1 |46 |2334 | |Autódromo José Carlos Pace |Sat, October 25 10:00AM EDT |Sat, October 25 03:00PM BST |Sun, October 26 01:00AM AEDT |
+|[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Split 2 |37 |1436 | |Autódromo José Carlos Pace |Sat, October 25 10:01AM EDT |Sat, October 25 03:01PM BST |Sun, October 26 01:01AM AEDT |
 |[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Official Practice |31 |None | | | | | |
 |[Money Shift Lite](https://members.iracing.com/membersite/member/LeagueView.do?league=11008){:target="_blank"} |The Spec\-tacular Showdown |10 |1419 | |Summit Point Raceway |Mon, October 27 09:00PM EDT |Tue, October 28 01:00AM GMT |Tue, October 28 12:00PM AEDT |
 

@@ -2,14 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} | |Monday night W12 Fixed Series  12 race Season  75% F1 GP Race Length  Open Practice @ 8pm EST  Open Quali @ 8:40pm EST  Race @ 9pm EST |
-|[Liga de los Pedax](https://members.iracing.com/membersite/member/LeagueView.do?league=13361){:target="_blank"} | | |
-|[M&M Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13360){:target="_blank"} | |Mainly a ministock league although we may venture out from time to time\.  Find us on discord at M&M racing |
-|[Pizza Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13358){:target="_blank"} | | |
-|[Sim Science Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13357){:target="_blank"} | | |
-|[TCR Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=13354){:target="_blank"} | |A league for TCR racing enthusiasts |
-|[Byte500](https://members.iracing.com/membersite/member/LeagueView.do?league=13355){:target="_blank"} | | |
-|[Sabiá Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13359){:target="_blank"} | | |
 |[German GT3 Open \- Fair and Fun Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13362){:target="_blank"} | |Diese Liga ist für alle Simracer, die Spaß an fairem und sauberem Racing haben\.  Geritten wird auf den GT3 Boliden\.   Der Ansatz sollte nicht unbedingt sein, jedes Mal einen neuen Rundenrekord aufzustellen, sondern gemeinsam Spaß zu haben und besser zu werden :\-\) |
 |[OneGrid](https://members.iracing.com/membersite/member/LeagueView.do?league=13366){:target="_blank"} |[Discord](https://discord.gg/JEDDYwedQQ){:target="_blank"} |OneGrid is the Community Hub for like\-minded leagues to facilitate a positive & inclusive culture on and off the track\. Here you will find schedules & events for multiple pavement & dirt oval series\. This hub will also be the organizing body for joint\-series Specialty, Charity, Fun, & Test Race Events\! "200\+ Drivers, 5 Series, 1 Grid\." |
 |[WPR GR 86 CUP \- Playcon Edition 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=13364){:target="_blank"} | |WPR GR 86 CUP \- Playcon Edition 2025 |
@@ -57,4 +49,5 @@
 |[Legends Road Cup Showdown \- LRCS](https://members.iracing.com/membersite/member/LeagueView.do?league=13405){:target="_blank"} | | |
 |[LIDOS EAGLE CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=13406){:target="_blank"} | | |
 |[Dead Internet Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=13407){:target="_blank"} | | |
+|[SRV \- Events League](https://members.iracing.com/membersite/member/LeagueView.do?league=13409){:target="_blank"} | |SRV \- Events League |
 
