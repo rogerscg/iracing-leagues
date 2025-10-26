@@ -5,6 +5,14 @@
 
 # NASCAR
 
+### ARCA
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|-------------|-----|------------------|---------------------------|---------------------------|----------------------------|
+|[Bunch Of Peckaheads](https://members.iracing.com/membersite/member/LeagueView.do?league=11794){:target="_blank"} |ARCA Season 1 | |Auto Club Speedway |Thu, October 30 08:15PM EDT |Fri, October 31 12:15AM GMT |Fri, October 31 11:15AM AEDT |
+
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
@@ -44,6 +52,15 @@
 
 # Oval
 
+### Late Model Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
+|[Canadian NASCAR Diecast Collectors](https://members.iracing.com/membersite/member/LeagueView.do?league=13264){:target="_blank"} |CNDC Late Model Stock | |Langley Speedway |Thu, October 30 09:00PM EDT |Fri, October 31 01:00AM GMT |Fri, October 31 12:00PM AEDT |
+|[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=12340){:target="_blank"} |Late Models\- Season 3 | |Thompson Speedway Motorsports Park |Thu, October 30 08:29PM EDT |Fri, October 31 12:29AM GMT |Fri, October 31 11:29AM AEDT |
+
 ### Street Stocks
 
 [Back to Top](#)  
@@ -67,9 +84,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|----------------------------------|---------------------------|---------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|----------------------------------|---------------------------|---------------------------|-----------------------------|
 |[Team NRS](https://members.iracing.com/membersite/member/LeagueView.do?league=11439){:target="_blank"} |eF4 Japan | |Mobility Resort Motegi |Fri, October 31 01:39PM EDT |Fri, October 31 05:39PM GMT |Sat, November 01 04:39AM AEDT |
-|[FIA F4 eSports Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11277){:target="_blank"} |2025 FIA F4 eSports Global Championship | |Circuit Zandvoort |Sat, October 25 02:40PM EDT |Sat, October 25 07:40PM BST |Sun, October 26 05:40AM AEDT |
 |[Formula Challenge by AntiGravity](https://members.iracing.com/membersite/member/LeagueView.do?league=13203){:target="_blank"} |Formula Challenge Season 1 |Fixed |Watkins Glen International |Thu, October 30 09:00PM EDT |Fri, October 31 01:00AM GMT |Fri, October 31 12:00PM AEDT |
 |[Power FM – Time Attack](https://members.iracing.com/membersite/member/LeagueView.do?league=12984){:target="_blank"} |Time Attack \- Formula |Both |WeatherTech Raceway at Laguna Seca |Mon, October 27 05:01PM EDT |Mon, October 27 09:01PM GMT |Tue, October 28 08:01AM AEDT |
 
@@ -115,6 +131,22 @@
 |-------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
 |[Vested Ice Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13145){:target="_blank"} |Inaugural VISR Championship | |Circuito de Navarra |Sat, November 01 04:00PM EDT |Sat, November 01 08:00PM GMT |Sun, November 02 07:00AM AEDT |
 
+### Touring Car
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|----------------------------------------------------------------------------------------------------------------------------|------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
+|[LSR British Touring Car League](https://members.iracing.com/membersite/member/LeagueView.do?league=13371){:target="_blank"} |Winter 25/26 | |Oulton Park Circuit |Sun, November 02 01:30PM EST |Sun, November 02 06:30PM GMT |Mon, November 03 05:30AM AEDT |
+
+### Toyota GR86
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------|---------|-----|------------|----------------------------|----------------------------|-----------------------------|
+|[SCCS & MID DIV](https://members.iracing.com/membersite/member/LeagueView.do?league=13286){:target="_blank"} |Fall 2025 | |Road America |Sun, November 02 08:00PM EST |Mon, November 03 01:00AM GMT |Mon, November 03 12:00PM AEDT |
+
 # Prototype
 
 ### Radical SR10
@@ -126,6 +158,14 @@
 |[BiS Radical Cup Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |25/26 Radical Cup Canada |Fixed |Sebring International Raceway |Wed, October 29 07:00PM EDT |Wed, October 29 11:00PM GMT |Thu, October 30 10:00AM AEDT |
 
 # Dirt Oval
+
+### Dirt SprintCar - 360
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|----------------------|----------------------------|----------------------------|-----------------------------|
+|[Slide Job Syndicate 360's](https://members.iracing.com/membersite/member/LeagueView.do?league=12863){:target="_blank"} |Cushin Smasin' Soul Snatchin' Tour | |Bristol Motor Speedway |Sun, November 02 07:30PM EST |Mon, November 03 12:30AM GMT |Mon, November 03 11:30AM AEDT |
 
 ### Dirt UMP Modified
 
@@ -151,7 +191,6 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|----------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
-|[Valiant Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |Special Events |Fixed |Circuit de Spa-Francorchamps |Sat, October 25 07:00PM EDT |Sun, October 26 12:00AM BST |Sun, October 26 10:00AM AEDT |
+|-----------------------------------------------------------------------------------------------------|----------------|-----|---------------|---------------------------|---------------------------|----------------------------|
 |[The PITS](https://members.iracing.com/membersite/member/LeagueView.do?league=9513){:target="_blank"} |2025 \- Season 4 |Fixed |Tsukuba Circuit |Mon, October 27 08:00PM EDT |Tue, October 28 12:00AM GMT |Tue, October 28 11:00AM AEDT |
 
