@@ -2,7 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[LSR British Touring Car League](https://members.iracing.com/membersite/member/LeagueView.do?league=13371){:target="_blank"} |[Discord](https://discord.gg/DNQf4tTNA){:target="_blank"} |A fun touring car series designed for recreational racers to have some fun and have some short casual races predominantly on Sunday Afternoon's UK time\. This league will use British tracks but will add the occasional European track to mix it up   Meet formats are 3 x 12 minute or 12 lap races, whichever is shortest\. And race 3 will be a reverse grid\. Open setup applies\. |
 |[SLR](https://members.iracing.com/membersite/member/LeagueView.do?league=13372){:target="_blank"} | |SLR |
 |[ST league](https://members.iracing.com/membersite/member/LeagueView.do?league=13373){:target="_blank"} | |trucks |
 |[Absolute Motorsport Acelith](https://members.iracing.com/membersite/member/LeagueView.do?league=13379){:target="_blank"} | |\=\= LEGA ufficiale di reclutamento per entrare a far parte della squadra \=\= |
@@ -46,4 +45,9 @@
 |[Door to Door Racing League Winter Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13413){:target="_blank"} | | |
 |[Joeysdreams](https://members.iracing.com/membersite/member/LeagueView.do?league=13412){:target="_blank"} | | |
 |[Nexxus Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=13414){:target="_blank"} | | |
+|[American Short Track iTour](https://members.iracing.com/membersite/member/LeagueView.do?league=13418){:target="_blank"} | |Grassroots Short Track Racing\! |
+|[Budget Baller League](https://members.iracing.com/membersite/member/LeagueView.do?league=13416){:target="_blank"} | |A league consisting of mostly free cars and tracks for those of us with smaller wallets |
+|[Chooch Bros Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13419){:target="_blank"} | | |
+|[Toga Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13417){:target="_blank"} | | |
+|[Dead Slow Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13415){:target="_blank"} | |Just a bunch of friends racing who are very slow\. |
 
