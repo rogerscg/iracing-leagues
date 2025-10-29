@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[SLR](https://members.iracing.com/membersite/member/LeagueView.do?league=13372){:target="_blank"} | |SLR |
-|[ST league](https://members.iracing.com/membersite/member/LeagueView.do?league=13373){:target="_blank"} | |trucks |
 |[Absolute Motorsport Acelith](https://members.iracing.com/membersite/member/LeagueView.do?league=13379){:target="_blank"} | |\=\= LEGA ufficiale di reclutamento per entrare a far parte della squadra \=\= |
 |[SKR Sim Racing League Wave 2](https://members.iracing.com/membersite/member/LeagueView.do?league=13377){:target="_blank"} | | |
 |[Altura Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13375){:target="_blank"} | | |
@@ -50,4 +48,9 @@
 |[Chooch Bros Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13419){:target="_blank"} | | |
 |[Toga Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13417){:target="_blank"} | | |
 |[Dead Slow Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13415){:target="_blank"} | |Just a bunch of friends racing who are very slow\. |
+|[Brabulls Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13423){:target="_blank"} | | |
+|[Lunch Break Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=13420){:target="_blank"} | |Built for hardworking racers who squeeze every ounce of speed into the time between shifts, chores, and real life |
+|[TFG David vs\. Goliath Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13424){:target="_blank"} | |Official TFG League for The David vs\. Goliath Championship |
+|[TFG Sportsman Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13422){:target="_blank"} | |Two Fat Guys Sim Racing Promotions Official Sportsman Late Model Series League |
+|[Wednesday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=13421){:target="_blank"} | | |
 
