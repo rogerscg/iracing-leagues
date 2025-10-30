@@ -10,8 +10,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------|-----|------------------|---------------------------|---------------------------|----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Bunch Of Peckaheads](https://members.iracing.com/membersite/member/LeagueView.do?league=11794){:target="_blank"} |ARCA Season 1 | |Auto Club Speedway |Thu, October 30 08:15PM EDT |Fri, October 31 12:15AM GMT |Fri, October 31 11:15AM AEDT |
+|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |ARCA Season 2 |Both |Daytona International Speedway |Sun, November 02 06:00PM EST |Sun, November 02 11:00PM GMT |Mon, November 03 10:00AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -119,21 +120,21 @@
 |------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|--------------|---------------------------|---------------------------|----------------------------|
 |[Valiant Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |Thursday Cadillac CTS\-V League |Fixed |Lime Rock Park |Thu, October 30 07:00PM EDT |Thu, October 30 11:00PM GMT |Fri, October 31 10:00AM AEDT |
 
-### Hosted All Cars Class
+### Porsche 911 GT3 Cup (992)
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
-|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |GT4 Cup 2025 |Both |Circuit de Spa-Francorchamps |Wed, October 29 01:00PM EDT |Wed, October 29 05:00PM GMT |Thu, October 30 04:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
+|[PRCF Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=3156){:target="_blank"} |PRCF Esports 2025 | |Autodromo Internazionale del Mugello |Thu, November 06 11:00AM EST |Thu, November 06 04:00PM GMT |Fri, November 07 03:00AM AEDT |
 
-### Mazda MX-5 Cup 2016
+### Ruf RT 12R Track
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[Vested Ice Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13145){:target="_blank"} |Inaugural VISR Championship | |Circuito de Navarra |Sat, November 01 04:00PM EDT |Sat, November 01 08:00PM GMT |Sun, November 02 07:00AM AEDT |
+|-------------------------------------------------------------------------------------------------------|-----------------------|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
+|[RUF Ryders](https://members.iracing.com/membersite/member/LeagueView.do?league=8928){:target="_blank"} |Season 3 \(Rocky Road\) | |New Hampshire Motor Speedway |Tue, November 04 08:00PM EST |Wed, November 05 01:00AM GMT |Wed, November 05 12:00PM AEDT |
 
 ### Touring Car
 
@@ -181,6 +182,14 @@
 |-----------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|----------------------|----------------------------|----------------------------|-----------------------------|
 |[Slide Job Syndicate 360's](https://members.iracing.com/membersite/member/LeagueView.do?league=12863){:target="_blank"} |Cushin Smasin' Soul Snatchin' Tour | |Bristol Motor Speedway |Sun, November 02 07:30PM EST |Mon, November 03 12:30AM GMT |Mon, November 03 11:30AM AEDT |
 
+### Dirt Sprintcar - 410
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|------------------------------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
+|[Bad Batch Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=13304){:target="_blank"} |Bad Batch 410 Wild Winter Bash |Fixed |The Dirt Track at Charlotte |Thu, November 06 07:15PM EST |Fri, November 07 12:15AM GMT |Fri, November 07 11:15AM AEDT |
+
 ### Dirt UMP Modified
 
 [Back to Top](#)  
@@ -205,7 +214,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Sport Car Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=11818){:target="_blank"} |Season 2 |Fixed |Daytona International Speedway |Thu, November 06 08:00PM EST |Fri, November 07 01:00AM GMT |Fri, November 07 12:00PM AEDT |
+|[West Coast Sim Racing \- GT Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12728){:target="_blank"} |GT Challenge Season 3 | |Circuit de Spa-Francorchamps |Thu, November 06 09:30PM EST |Fri, November 07 02:30AM GMT |Fri, November 07 01:30PM AEDT |
 |[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |November Fowl Play\-offs | |Slinger Speedway |Mon, November 03 09:00PM EST |Tue, November 04 02:00AM GMT |Tue, November 04 01:00PM AEDT |
 |[Valiant Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |Falken Sports Car Challenge \- Season 1 |Fixed |Virginia International Raceway |Sat, November 01 07:00PM EDT |Sat, November 01 11:00PM GMT |Sun, November 02 10:00AM AEDT |
 

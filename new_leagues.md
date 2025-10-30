@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Absolute Motorsport Acelith](https://members.iracing.com/membersite/member/LeagueView.do?league=13379){:target="_blank"} | |\=\= LEGA ufficiale di reclutamento per entrare a far parte della squadra \=\= |
-|[SKR Sim Racing League Wave 2](https://members.iracing.com/membersite/member/LeagueView.do?league=13377){:target="_blank"} | | |
-|[Altura Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13375){:target="_blank"} | | |
-|[China Shop Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13380){:target="_blank"} | |WELCOME TO THE CHINA SHOP\!\!\! A new league focused on having fun and racing whatever crazy idea I have rumbling and tumbling around in my head\. So stop in, run a few races and have a blast, throw some elbows out and all that good stuff\. see you on track and much love |
-|[Hendrick Performance](https://members.iracing.com/membersite/member/LeagueView.do?league=13376){:target="_blank"} | | |
-|[TFG Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13374){:target="_blank"} | |Official Two Fat Guys Sim Racing Promotions Special Events Series |
-|[Xtreme Spec Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13378){:target="_blank"} | |iRacing League for XSR |
 |[Battle Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=13381){:target="_blank"} | | |
 |[Short Track of America](https://members.iracing.com/membersite/member/LeagueView.do?league=13383){:target="_blank"} |[Discord](https://discord.gg/mFsfkPQh){:target="_blank"} | |
 |[Take 2 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13382){:target="_blank"} | | |
@@ -44,7 +37,7 @@
 |[Joeysdreams](https://members.iracing.com/membersite/member/LeagueView.do?league=13412){:target="_blank"} | | |
 |[Nexxus Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=13414){:target="_blank"} | | |
 |[American Short Track iTour](https://members.iracing.com/membersite/member/LeagueView.do?league=13418){:target="_blank"} | |Grassroots Short Track Racing\! |
-|[Budget Baller League](https://members.iracing.com/membersite/member/LeagueView.do?league=13416){:target="_blank"} | |A league consisting of mostly free cars and tracks for those of us with smaller wallets |
+|[Budget Baller League](https://members.iracing.com/membersite/member/LeagueView.do?league=13416){:target="_blank"} |[Discord](https://discord.gg/vA9KKBqh){:target="_blank"} |A league consisting of mostly free cars and tracks for those of us with smaller wallets |
 |[Chooch Bros Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13419){:target="_blank"} | | |
 |[Toga Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13417){:target="_blank"} | | |
 |[Dead Slow Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13415){:target="_blank"} | |Just a bunch of friends racing who are very slow\. |
@@ -53,4 +46,8 @@
 |[TFG David vs\. Goliath Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13424){:target="_blank"} | |Official TFG League for The David vs\. Goliath Championship |
 |[TFG Sportsman Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13422){:target="_blank"} | |Two Fat Guys Sim Racing Promotions Official Sportsman Late Model Series League |
 |[Wednesday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=13421){:target="_blank"} | | |
+|[6 & 7 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13426){:target="_blank"} | |67? |
+|[Coles County Micro E\-Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13428){:target="_blank"} | |Coles County Micro Winter Series |
+|[Garden State Quarter Midget Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13427){:target="_blank"} | |A racing league for Garden State Quarter Club\. |
+|[Flying Arrow Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=13425){:target="_blank"} | |GT3 GT Sprint |
 
