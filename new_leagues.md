@@ -1,10 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|--------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Battle Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=13381){:target="_blank"} | | |
-|[Short Track of America](https://members.iracing.com/membersite/member/LeagueView.do?league=13383){:target="_blank"} |[Discord](https://discord.gg/mFsfkPQh){:target="_blank"} | |
-|[Take 2 Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13382){:target="_blank"} | | |
+|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[G2G Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13384){:target="_blank"} | |Official Team for G2G Sim Racing in Atlanta, GA |
 |[Super Lunes de carrera](https://members.iracing.com/membersite/member/LeagueView.do?league=13385){:target="_blank"} | |Super Lunes de carrera |
 |[Ellis And Ned's Career](https://members.iracing.com/membersite/member/LeagueView.do?league=13386){:target="_blank"} | | |
@@ -29,7 +26,7 @@
 |[HRA](https://members.iracing.com/membersite/member/LeagueView.do?league=13408){:target="_blank"} | | |
 |[Legends Road Cup Showdown \- LRCS](https://members.iracing.com/membersite/member/LeagueView.do?league=13405){:target="_blank"} | | |
 |[LIDOS EAGLE CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=13406){:target="_blank"} | | |
-|[Dead Internet Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=13407){:target="_blank"} | | |
+|[Dead Internet Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=13407){:target="_blank"} | |The internet might be dead\. But the racing is alive\! |
 |[SRV \- Events League](https://members.iracing.com/membersite/member/LeagueView.do?league=13409){:target="_blank"} | |SRV \- Events League |
 |[Showtime Racing Series \- Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=13411){:target="_blank"} | | |
 |[vpcr](https://members.iracing.com/membersite/member/LeagueView.do?league=13410){:target="_blank"} | |door Porsche Club Racing Nederland, voor leden en sympathisanten\. |
@@ -50,4 +47,12 @@
 |[Coles County Micro E\-Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13428){:target="_blank"} | |Coles County Micro Winter Series |
 |[Garden State Quarter Midget Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13427){:target="_blank"} | |A racing league for Garden State Quarter Club\. |
 |[Flying Arrow Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=13425){:target="_blank"} | |GT3 GT Sprint |
+|[GoRacing Sim League's FastTrack Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13433){:target="_blank"} | |Fixed truck league that races on Tuesday nights |
+|[Hoosier International Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13436){:target="_blank"} | | |
+|[Hoosier Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13435){:target="_blank"} | | |
+|[iCasual League](https://members.iracing.com/membersite/member/LeagueView.do?league=13430){:target="_blank"} | | |
+|[iRacing Indy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13432){:target="_blank"} |[Discord](https://discord.gg/MBAy9UgM){:target="_blank"} |Indycar \(IR\-18 and IL\-15\) racing series that runs on mostly on ovals\.  Join the Discord for all information\. |
+|[Ten10 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13434){:target="_blank"} | |Sim racing community of all skill levels focused on sports car and oval racing\. |
+|[Underground Racers Association](https://members.iracing.com/membersite/member/LeagueView.do?league=13431){:target="_blank"} | | |
+|[Louisville Motor Speedway Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=13429){:target="_blank"} | | |
 
