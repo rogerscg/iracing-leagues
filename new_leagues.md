@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[G2G Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13384){:target="_blank"} | |Official Team for G2G Sim Racing in Atlanta, GA |
-|[Super Lunes de carrera](https://members.iracing.com/membersite/member/LeagueView.do?league=13385){:target="_blank"} | |Super Lunes de carrera |
 |[Ellis And Ned's Career](https://members.iracing.com/membersite/member/LeagueView.do?league=13386){:target="_blank"} | | |
 |[Full Send Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13389){:target="_blank"} | |Next Gen Cup Cars \- Wed Night |
 |[kachow crew](https://members.iracing.com/membersite/member/LeagueView.do?league=13388){:target="_blank"} | |we go fast |
@@ -55,4 +53,5 @@
 |[Ten10 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13434){:target="_blank"} | |Sim racing community of all skill levels focused on sports car and oval racing\. |
 |[Underground Racers Association](https://members.iracing.com/membersite/member/LeagueView.do?league=13431){:target="_blank"} | | |
 |[Louisville Motor Speedway Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=13429){:target="_blank"} | | |
+|[24HLan](https://members.iracing.com/membersite/member/LeagueView.do?league=13437){:target="_blank"} | | |
 
