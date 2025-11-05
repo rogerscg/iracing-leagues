@@ -1,22 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Ellis And Ned's Career](https://members.iracing.com/membersite/member/LeagueView.do?league=13386){:target="_blank"} | | |
-|[Full Send Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13389){:target="_blank"} | |Next Gen Cup Cars \- Wed Night |
-|[kachow crew](https://members.iracing.com/membersite/member/LeagueView.do?league=13388){:target="_blank"} | |we go fast |
-|[Regiment Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13390){:target="_blank"} | |Regiment\. the Largest gaming network for Veteran is Proud to host an iRacing League for Veterans of our Armed Forces\. Please stand by for future updates |
-|[The Gearhead Dad](https://members.iracing.com/membersite/member/LeagueView.do?league=13387){:target="_blank"} | |The Gearhead Dadas Large is built for those who balance it all — the roaring engine, the 9\-to\-5 grind, and the late\-night baby shifts\. Designed for modern dads who still find time to chase the thrill of the track, this hat celebrates the art of juggling responsibilities while keeping the passion for racing alive\. With its bold, structured profile and durable craftsmanship, the Gearhead Dadas Large reflects the endurance and focus of someone who can shift gears from parenting to performance without missing a beat\. Its breathable materials and timeless racing\-inspired design make it the perfect companion for weekends at the track, quick pit stops between playdates, or those precious few hours when it’s finally “race time\.” Because real gearheads don’t just race cars — they race through life, family, and work, and still find the finish line with style\. |
-|[2025 inex nats](https://members.iracing.com/membersite/member/LeagueView.do?league=13391){:target="_blank"} | | |
-|[FastRepair Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13393){:target="_blank"} | |FastRepair Motorsport |
-|[GT3 Latam](https://members.iracing.com/membersite/member/LeagueView.do?league=13394){:target="_blank"} | |Liga Latinoamericana de Turismo |
-|[HPR GT3 Challenge Season 8](https://members.iracing.com/membersite/member/LeagueView.do?league=13392){:target="_blank"} | | |
-|[High Side Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13397){:target="_blank"} |[Discord](https://discord.gg/SeBp6m7USJ){:target="_blank"} |A league of racer that want clean and competitive racing |
-|[J&B Bandit Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13400){:target="_blank"} | |410 Sprint Cars Every Sunday @8pm EST |
-|[Midwest Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13399){:target="_blank"} | |Season 1 |
-|[Money Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13395){:target="_blank"} | |A league built around the community for the community to have a good time while also having the opportunity to make some money\!\! |
-|[Prolog MPDM 2025](https://members.iracing.com/membersite/member/LeagueView.do?league=13398){:target="_blank"} | | |
-|[The Wednesday Night Winter Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13396){:target="_blank"} | |This is a short 13 week series consisting of a jam packed schedule\. |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[OBAGRA](https://members.iracing.com/membersite/member/LeagueView.do?league=13402){:target="_blank"} | | |
 |[Off Season Mixers](https://members.iracing.com/membersite/member/LeagueView.do?league=13403){:target="_blank"} | | |
 |[SpeedZone eSports Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13401){:target="_blank"} | | |
@@ -24,7 +9,7 @@
 |[HRA](https://members.iracing.com/membersite/member/LeagueView.do?league=13408){:target="_blank"} | | |
 |[Legends Road Cup Showdown \- LRCS](https://members.iracing.com/membersite/member/LeagueView.do?league=13405){:target="_blank"} | | |
 |[LIDOS EAGLE CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=13406){:target="_blank"} | | |
-|[Dead Internet Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=13407){:target="_blank"} | |The internet might be dead\. But the racing is alive\! |
+|[Dead Internet Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=13407){:target="_blank"} |[Discord](https://discord.gg/xMNb6nzD){:target="_blank"} |The internet might be dead\. But the racing is alive\! |
 |[SRV \- Events League](https://members.iracing.com/membersite/member/LeagueView.do?league=13409){:target="_blank"} | |SRV \- Events League |
 |[Showtime Racing Series \- Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=13411){:target="_blank"} | | |
 |[vpcr](https://members.iracing.com/membersite/member/LeagueView.do?league=13410){:target="_blank"} | |door Porsche Club Racing Nederland, voor leden en sympathisanten\. |
@@ -44,7 +29,7 @@
 |[6 & 7 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13426){:target="_blank"} | |67? |
 |[Coles County Micro E\-Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13428){:target="_blank"} | |Coles County Micro Winter Series |
 |[Garden State Quarter Midget Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13427){:target="_blank"} | |A racing league for Garden State Quarter Club\. |
-|[Flying Arrow Trophy](https://members.iracing.com/membersite/member/LeagueView.do?league=13425){:target="_blank"} | |GT3 GT Sprint |
+|[GT Vision Xperience](https://members.iracing.com/membersite/member/LeagueView.do?league=13425){:target="_blank"} | |GT3 GT Sprint |
 |[GoRacing Sim League's FastTrack Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13433){:target="_blank"} | |Fixed truck league that races on Tuesday nights |
 |[Hoosier International Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13436){:target="_blank"} | | |
 |[Hoosier Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13435){:target="_blank"} | | |
@@ -54,4 +39,19 @@
 |[Underground Racers Association](https://members.iracing.com/membersite/member/LeagueView.do?league=13431){:target="_blank"} | | |
 |[Louisville Motor Speedway Boys](https://members.iracing.com/membersite/member/LeagueView.do?league=13429){:target="_blank"} | | |
 |[24HLan](https://members.iracing.com/membersite/member/LeagueView.do?league=13437){:target="_blank"} | | |
+|[Apex Avenger Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13441){:target="_blank"} | |A starter league for dirt and asphalt\. Just peaceful enjoyment nights of racing\. |
+|[carear mode](https://members.iracing.com/membersite/member/LeagueView.do?league=13444){:target="_blank"} | |race cool |
+|[CZECH SIMRACING SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13439){:target="_blank"} | |Autoklub ČR |
+|[G&R Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13452){:target="_blank"} |[Discord](https://discord.gg/yMNT9D8cPA){:target="_blank"} |Open to all levels of racers, come enjoy a fun and friendly competitive race series\! |
+|[Gladiator Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13443){:target="_blank"} |[Discord](https://discord.gg/V2FCJXx6q3){:target="_blank"} |A new league started on Nov 2nd, 2025 to create a friendly place for noob and veteran iRacers to have a place to hangout, race, learn, and develop\. We will run seasonal league races, and the ocasional fun run\. |
+|[Keegan Tabor Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=13440){:target="_blank"} | | |
+|[NASA Mid\-Atlantic Offseason Fun](https://members.iracing.com/membersite/member/LeagueView.do?league=13442){:target="_blank"} | |A fun league for all NASA Mid\-Atlantic drivers to get their racing fix with their buddies during the off season until March VIR\. All NASA region drivers welcome\. Races are held every Tuesday \(except Christmas/New Years week\) at 8:00pm\. 2 hour optional open practice sessions will be open from 4:00\-6:00pm every Sunday before each race\. |
+|[nascar\-liquid\-death\-series\-secondary\-series](https://members.iracing.com/membersite/member/LeagueView.do?league=13446){:target="_blank"} |[Discord](https://discord.gg/aRPCGvu7){:target="_blank"} |A secondary\-series the the Credit one cup league |
+|[Northeast LMS Winter Leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=13451){:target="_blank"} | | |
+|[Old School Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=13449){:target="_blank"} |[Discord](https://discord.gg/gv4T8qSPw6){:target="_blank"} | |
+|[Race Life](https://members.iracing.com/membersite/member/LeagueView.do?league=13448){:target="_blank"} | | |
+|[Simu Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=13445){:target="_blank"} | |iRacing/LMU/ACE EN/FR community\. Get ready for serious competition, clean racing, and pro\-level action\. Race\. Compete\. Repeat\. |
+|[SNS Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13438){:target="_blank"} | |Beginner friendly GT3 league, races are Thursdays 7:30pm CST lobby opens, 8:05pm CST Qualifying Begins, 8:20pm CST Race starts\. Looking for people between 900\-1400 IR\. First race is December 4th\. Will be adding disciplines over time\.   Looking for clean drivers, lets grow together as a group\. |
+|[chill league](https://members.iracing.com/membersite/member/LeagueView.do?league=13450){:target="_blank"} | | |
+|[Freed's Extreme Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13447){:target="_blank"} | | |
 
