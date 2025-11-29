@@ -1,0 +1,44 @@
+---
+---
+@import "{{ site.theme }}";
+
+.container-lg {
+  max-width: 1435px;
+}
+
+.page-header {
+  background: linear-gradient(120deg, #ec232c 0%, #ec232c 20%, white 20.1%, white 21.5%, #2d358e 21.6%, #2d358e);
+}
+
+h1 a {
+  color: white
+}
+
+h1 a:hover {
+  text-decoration: none
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #1e6bb8
+}
+
+@media screen and (min-width: 1300px) {
+  #markdown-toc {
+    position: absolute;
+    left: 0px;
+    top: 490px;
+    border-right: solid 1px #efefef;
+    padding-right: 20px;
+  }
+  .main-content:has(table) {
+    max-width: 90%;
+  }
+  .main-content:has(#markdown-toc) {  
+    margin-left: 350px;
+    max-width: 90%;
+  }
+  .page-header {
+    padding: 3rem 6rem;
+    background: linear-gradient(120deg, #ec232c 0%, #ec232c 10%, white 10.05%, white 11.5%, #2d358e 11.55%, #2d358e);
+  }
+}
