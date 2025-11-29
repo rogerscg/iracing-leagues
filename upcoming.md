@@ -84,14 +84,6 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Italian Job Simracing ASD \(ITJ\) \- IIC](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |The ALL STAR RACE CHAMPIONSHIP |Both |Charlotte Motor Speedway  |Tue, December 02 02:00PM EST |Tue, December 02 07:00PM GMT |Wed, December 03 06:00AM AEDT |
 
-### Super Late Model
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------|-------------|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[NHMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6669){:target="_blank"} |Snowball 2025 |Fixed |Five Flags Speedway |Wed, December 03 07:30PM EST |Thu, December 04 12:30AM GMT |Thu, December 04 11:30AM AEDT |
-
 # Sports Car
 
 ### GTE Class
