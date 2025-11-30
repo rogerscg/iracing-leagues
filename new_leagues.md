@@ -18,7 +18,6 @@
 |[GMB Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13546){:target="_blank"} | | |
 |[GT homesolutionsllc limit late models](https://members.iracing.com/membersite/member/LeagueView.do?league=13524){:target="_blank"} | |Limited late models fixed setup |
 |[GT3 World Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13525){:target="_blank"} | |a bunch of bozos |
-|[\=HARDCORE\=](https://members.iracing.com/membersite/member/LeagueView.do?league=13513){:target="_blank"} |[Discord](https://discord.gg/66zSKfT4up){:target="_blank"} |Welcome to \=HARDCORE ONLINE GAMING\=, or \=HOG\= for short, where the name of the game is "Serious Fun"\. Based out of Brisbane, Australia, we race in many different sims so check out our schedule on our DISCORD\. |
 |[IMA CHILI BOWL A MAIN SATURDAY](https://members.iracing.com/membersite/member/LeagueView.do?league=13559){:target="_blank"} | | |
 |[IMA CHILI BOWL PRELIM FRIDAY](https://members.iracing.com/membersite/member/LeagueView.do?league=13558){:target="_blank"} | | |
 |[IMA CHILI BOWL PRELIM MONDAY](https://members.iracing.com/membersite/member/LeagueView.do?league=13554){:target="_blank"} | | |
@@ -36,13 +35,10 @@
 |[Overdrive Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13520){:target="_blank"} | |This GT3 league brings competitive, clean, and structured sim racing to drivers across multiple time zones\. Featuring realistic circuits, standardized race formats, and consistent officiating, the league focuses on sportsmanship and driver development\. With weekly events, steward reviews, and a balance of endurance and sprint\-style racing, drivers of all skill levels can push themselves while racing fair\. |
 |[PACNWNASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=13526){:target="_blank"} | |Craftsman Trucks, Xfinity Cars and CARS TOUR \- PACIFIC TIME ZONE/WEEKEND IRACING LEAGUE \- DISCORD PACNWNASCAR |
 |[Premier Sim Racing's Winter Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13536){:target="_blank"} | |The Winter Series is ran and organized by Premier Sim Racing \(acting under Regan Bogue Motorsports, a registered Limited Liability Corporation \(LLC\), operating under the state laws of The Commonwealth of Massachusetts and the federal laws governed by The United States of America\)\. |
-|[R&P Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13509){:target="_blank"} |[Discord](https://discord.gg/vDqt3nxG){:target="_blank"} |R&P Racing is a privately funded organization, where we welcome all walks of life\. So we welcome you to join us\! Please visit our discord for more information\. |
 |[Racinghaus Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=13547){:target="_blank"} | | |
 |[Racinghaus Winter League \(2\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13553){:target="_blank"} | | |
-|[RAGE Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13508){:target="_blank"} |[Discord](https://discord.gg/XTjGQezARg){:target="_blank"} |The RAGE Truck Series is a structured, competitive iRacing league focused on clean racing, consistent driver standards, and an engaging weekly experience\. Races are held Monday nights at 9PM ET and feature pro broadcast coverage, a controlled 1250–3500 iRating entry range, and clear expectations for driver conduct\. The series delivers tight racing, organized operations, and a dependable schedule designed for drivers who want a serious but enjoyable environment\. If you’re looking for a well\-run truck series with personality and professionalism, the RAGE Truck Series is the place to race\. |
 |[RONIN GT3 MASTER CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=13539){:target="_blank"} | |GT3 by Ronin PT Esports |
 |[Saturday morning league](https://members.iracing.com/membersite/member/LeagueView.do?league=13560){:target="_blank"} | | |
-|[Sim Racing Gentleman's Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13511){:target="_blank"} | |SRGC |
 |[Sticky Keys](https://members.iracing.com/membersite/member/LeagueView.do?league=13537){:target="_blank"} | |IDK |
 |[test league](https://members.iracing.com/membersite/member/LeagueView.do?league=13550){:target="_blank"} | |test |
 |[Texas Outlaws Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13517){:target="_blank"} |[Discord](https://discord.gg/XtSjfZ227Z){:target="_blank"} |street stocks |
@@ -54,12 +50,14 @@
 |[ASCA CLD Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13521){:target="_blank"} |[Discord](https://discord.gg/asca){:target="_blank"} |Alliance Stock Car Association Premier Series, the ASCA CLD Cup Series |
 |[Connor's NASCAR Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=13538){:target="_blank"} | | |
 |[Infinite Stint Championship by ORA Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13528){:target="_blank"} | |Host of an annual, year\-long league table of special events\! |
-|[Joshimuz\.com iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13507){:target="_blank"} | |Joshimuz\.com |
-|[Members Only iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13512){:target="_blank"} | | |
 |[NANOOKS](https://members.iracing.com/membersite/member/LeagueView.do?league=13531){:target="_blank"} | |NO CLUE |
 |[NJMP League Online](https://members.iracing.com/membersite/member/LeagueView.do?league=13540){:target="_blank"} | |Let's race online while we wait to get back on track\!\! |
 |[Pool Pro Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13552){:target="_blank"} | |PoolTile Team League |
 |[Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=13535){:target="_blank"} | |Just a test |
 |[Bully Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13568){:target="_blank"} | |Saturday Night Short Track Racing, Semi serious laid back league\. Not looking for super high I rating guys\. |
 |[Thunder Valley Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13567){:target="_blank"} |[Discord](https://discord.gg/9HYWTkDpGZ){:target="_blank"} | |
+|[Dirt Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=13571){:target="_blank"} | | |
+|[GameOn iRacing Paraguay](https://members.iracing.com/membersite/member/LeagueView.do?league=13569){:target="_blank"} | |Liga de iRacing de Paraguay |
+|[SCCR Sim\-Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13572){:target="_blank"} | |Sports Car Club of Rockford Sim\-Cup Season 1 presented by Dad's Racing Services |
+|[Legends Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13570){:target="_blank"} |[Discord](https://discord.gg/QPXZfjP2cg){:target="_blank"} | |
 
