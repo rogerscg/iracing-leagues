@@ -15,7 +15,7 @@
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25B |29 |4350 | | | | | |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25B |25 |2898 | | | | | |
 |[ADAC SimRacing Rallycross Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12771){:target="_blank"} |ADAC SimRacing Rallycross Cup 2025 \- Winter |21 |3474 |Fixed |Daytona Rallycross and Dirt Road |Mon, December 01 01:00PM EST |Mon, December 01 06:00PM GMT |Tue, December 02 05:00AM AEDT |
-|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |16 |1500 | |Circuit Zandvoort |Sun, November 30 02:05PM EST |Sun, November 30 07:05PM GMT |Mon, December 01 06:05AM AEDT |
+|[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |17 |1482 | | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S4 '25 Cars |13 |1486 |Fixed |Lucas Oil Indianapolis Raceway Park |Fri, December 05 08:20PM EST |Sat, December 06 01:20AM GMT |Sat, December 06 12:20PM AEDT |
 
 ### VW Beetle Lite

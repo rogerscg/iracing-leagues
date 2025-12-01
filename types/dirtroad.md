@@ -37,4 +37,5 @@
 |[ORRL \- Tuesday Knight Dirt Invaders](https://members.iracing.com/membersite/member/LeagueView.do?league=7594){:target="_blank"} |TKDI Pro 4 shootout \#6 |14 |1399 | | | | | |
 |[Pit Road Speed Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12735){:target="_blank"} |Jumpy Trucks |13 |1326 |Fixed | | | | |
 |[iRacing Hacks](https://members.iracing.com/membersite/member/LeagueView.do?league=8955){:target="_blank"} |5 Star Pro\-4 Jumpy Truck Series |11 |1521 | | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |4x4 Rolling Thunder World Cup \- 2025\-11 |11 |2934 |Fixed | | | | |
 

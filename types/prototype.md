@@ -18,7 +18,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |LMP2 2025 |46 |1788 | | | | | |
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Road America |Sun, November 30 01:00PM EST |Sun, November 30 06:00PM GMT |Mon, December 01 05:00AM AEDT |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Road America |Mon, December 01 01:00PM EST |Mon, December 01 06:00PM GMT |Tue, December 02 05:00AM AEDT |
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |38 |2407 |Fixed | | | | |
 |[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2025 RED SOX RACING \- FALL LMP2 SERIES IV |23 |2084 | | | | | |
 
@@ -39,7 +39,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
 |[RaceFace\.Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=12788){:target="_blank"} |RaceFace\.Pro Prototype Multi\-Class Challenge |29 |2256 |Both | | | | |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 4 |23 |3082 |Open |Road Atlanta |Thu, December 04 02:15PM EST |Thu, December 04 07:15PM GMT |Fri, December 05 06:15AM AEDT |
-|[Billy Oirish Racing IMSA League](https://members.iracing.com/membersite/member/LeagueView.do?league=13218){:target="_blank"} |Billy Oirish Racing Sunday Night IMSA League |16 |1680 | |Road Atlanta |Sun, November 30 04:00PM EST |Sun, November 30 09:00PM GMT |Mon, December 01 08:00AM AEDT |
+|[Billy Oirish Racing IMSA League](https://members.iracing.com/membersite/member/LeagueView.do?league=13218){:target="_blank"} |Billy Oirish Racing Sunday Night IMSA League |17 |1702 | | | | | |
 |[Tachycardia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11017){:target="_blank"} |Season 16 Radical |12 |1173 | |Indianapolis Motor Speedway |Wed, December 03 08:30PM EST |Thu, December 04 01:30AM GMT |Thu, December 04 12:30PM AEDT |
 |[SRFD Central PA Division](https://members.iracing.com/membersite/member/LeagueView.do?league=10390){:target="_blank"} |Radical World of Racing |10 |1402 |Fixed |Circuit Gilles Villeneuve |Tue, October 21 09:00PM EDT |Wed, October 22 02:00AM BST |Wed, October 22 12:00PM AEDT |
 
@@ -92,8 +92,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025S4 WW SRF 10yr Anniversary season |85 |3030 |Open |Circuito de Jerez - Ángel Nieto |Sun, November 30 01:40PM EST |Sun, November 30 06:40PM GMT |Mon, December 01 05:40AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025S4 WW SRF 10yr Anniversary season |85 |3071 |Open |Circuit Gilles Villeneuve |Sun, December 07 01:40PM EST |Sun, December 07 06:40PM GMT |Mon, December 08 05:40AM AEDT |
 |[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Split 1 |49 |2501 | | | | | |
 |[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Split 2 |37 |1520 | | | | | |
 |[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Official Practice |31 |None | | | | | |
