@@ -36,7 +36,7 @@
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |Big Blocks S3 2025 |33 |3856 |Open |Williams Grove Speedway |Wed, December 10 09:30PM EST |Thu, December 11 02:30AM GMT |Thu, December 11 01:30PM AEDT |
 |[TRL Super League \(TRL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |Xtreme Big Blocks Super Series 2025 |32 |3667 | | | | | |
 |[Drinkin' Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=2671){:target="_blank"} |2025/2026 Winter Season |32 |1535 | | | | | |
-|[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2025\-26 Big Block |23 |2010 |Fixed | | | | |
+|[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2025\-26 Big Block |28 |2130 |Fixed | | | | |
 |[Afb Lounge Dirt Speedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=12924){:target="_blank"} |Afb Big Blocks Off Season Bash |22 |2483 | | | | | |
 |[BRL Big Block Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=764){:target="_blank"} |BBM S1 |17 |1891 |Fixed | | | | |
 |[SRL \- Dirt Big Block Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8763){:target="_blank"} |SRL Dirt Big Block Modifieds |15 |1985 | | | | | |
@@ -78,6 +78,7 @@
 |[Meca Motorsports Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13491){:target="_blank"} |Meca Motorsports Racing |15 |2234 |Open |Weedsport Speedway |Fri, December 05 07:30PM EST |Sat, December 06 12:30AM GMT |Sat, December 06 11:30AM AEDT |
 |[J&B Sim Racing Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} |J&B Late Model Tour Season 5 |14 |2128 |Fixed |Lanier National Speedway |Tue, December 09 07:30PM EST |Wed, December 10 12:30AM GMT |Wed, December 10 11:30AM AEDT |
 |[Wheel 2 Wheel Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12216){:target="_blank"} |Off Season Dirt League 2025 |14 |1818 | |USA International Speedway |Sun, December 07 07:00PM EST |Mon, December 08 12:00AM GMT |Mon, December 08 11:00AM AEDT |
+|[Glenn Dirt Tour \[GDT\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13485){:target="_blank"} |GDT |14 |2633 | | | | | |
 |[Instigator Winter Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11652){:target="_blank"} |Pro Late Model 2025 |12 |1700 | | | | | |
 |[Local Dig Racing Series\!\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=11688){:target="_blank"} |Local Dig Racing Series |11 |1615 | | | | | |
 |[Midwest Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13399){:target="_blank"} |Midwest Dirt Series Pro Late Models |10 |1951 |Open | | | | |
@@ -90,10 +91,11 @@
 |------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[SRA\-Southern Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |SRA Super Late Model Weekly Open Series\! Season 2 |117 |4317 |Both | | | | |
 |[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |s6 Super late models |55 |3805 | | | | | |
-|[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |2025 Hooked Up SuperLates Fall Series |29 |3078 |Both | | | | |
+|[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |2025 Hooked Up SuperLates Fall Series |29 |3101 |Both | | | | |
 |[Twisted Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=13117){:target="_blank"} |Super Late Model Season 1 |28 |4387 | | | | | |
 |[Official Spring Madness Money Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11312){:target="_blank"} |SLM Season 1 |17 |3998 | | | | | |
 |[Instigator Winter Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11652){:target="_blank"} |Super Late Model 2025 |15 |2962 | | | | | |
+|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |All Motor Racing Super Late Model S1 |13 |2163 |Fixed | | | | |
 |[Virtual Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11145){:target="_blank"} |Winter Heat SLM 2025 |12 |2087 | | | | | |
 
 ### Dirt Midget
@@ -180,12 +182,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
-|[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 410 Season 21 |102 |4199 |Open |Williams Grove Speedway |Thu, December 04 09:00PM EST |Fri, December 05 02:00AM GMT |Fri, December 05 01:00PM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|----------------|----------------------------|----------------------------|-----------------------------|
+|[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 410 Season 21 |105 |4219 |Open |Lincoln Speedway |Thu, December 11 09:00PM EST |Fri, December 12 02:00AM GMT |Fri, December 12 01:00PM AEDT |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2025 Lincoln Track Championship |60 |3570 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2025 Williams Grove Track Championship |59 |3528 |Open | | | | |
 |[AcesUp Sim Sports Pro Series Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9032){:target="_blank"} |AcesUp Pro Series Tune Up League 2025 |48 |6826 | |Lincoln Speedway |Sun, December 07 09:00PM EST |Mon, December 08 02:00AM GMT |Mon, December 08 01:00PM AEDT |
-|[2025 ODSE QUALIFER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=2595){:target="_blank"} |2025\-2026 Qualifying Series |41 |4353 | |Weedsport Speedway |Thu, December 04 05:00AM EST |Thu, December 04 10:00AM GMT |Thu, December 04 09:00PM AEDT |
+|[2025 ODSE QUALIFER SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=2595){:target="_blank"} |2025\-2026 Qualifying Series |43 |4525 | | | | | |
 |[Shaun Timmerman Memorial Race](https://members.iracing.com/membersite/member/LeagueView.do?league=10010){:target="_blank"} |Shaun Timmerman Memorial Race 2025 |25 |3378 | | | | | |
 |[Wheels Up Wednesday Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12227){:target="_blank"} |410 sprintcars |18 |2921 | | | | | |
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |keeping it on the porch 410"s |11 |2192 |Fixed | | | | |
@@ -199,7 +201,7 @@
 |[PS Enduros](https://members.iracing.com/membersite/member/LeagueView.do?league=7139){:target="_blank"} |Enduros Season 6 |53 |3104 |Fixed |Limaland Motorsports Park |Tue, December 09 08:30PM EST |Wed, December 10 01:30AM GMT |Wed, December 10 12:30PM AEDT |
 |[Dirt Warrior Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=2763){:target="_blank"} |WNSF SEASON 21 |48 |4176 |Open | | | | |
 |[Midwest Dirt Street Stock Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=10858){:target="_blank"} |Midwest Dirt Street Stock Showdown |41 |3212 |Fixed | | | | |
-|[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2025\-26 street stock |22 |2022 |Fixed | | | | |
+|[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2025\-26 street stock |25 |2155 |Fixed | | | | |
 |[OKSE Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=12082){:target="_blank"} |Dirt Series 2025\-2026 |20 |1340 | | | | | |
 |[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |LCDD Saison 3 \- Street Stock Dirt |20 |1664 |Fixed | | | | |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Winter 25\-26 Street Stocks |18 |2364 |Fixed | | | | |
@@ -236,25 +238,25 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- Limited LM |88 |2559 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |85 |2579 |Open |Cedar Lake Speedway |Thu, December 04 07:30PM EST |Fri, December 05 12:30AM GMT |Fri, December 05 11:30AM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |85 |2579 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |82 |2472 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |81 |2641 |Open |Cedar Lake Speedway |Thu, December 04 08:00PM EST |Fri, December 05 01:00AM GMT |Fri, December 05 12:00PM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |81 |2649 |Open | | | | |
 |[2025 ODSE Wide Open Clothing ASC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2025 ASC Series |60 |4831 | | | | | |
 |[DSRL Monday Night Thunder Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=101){:target="_blank"} |Season 26 |60 |4232 |Both |Volusia Speedway Park |Mon, December 08 09:00PM EST |Tue, December 09 02:00AM GMT |Tue, December 09 01:00PM AEDT |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- MIDGET |57 |2247 |Open | | | | |
 |[World of Outlaws Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11658){:target="_blank"} |2025\-26 Season |56 |7108 | |Lincoln Speedway |Mon, December 08 07:45PM EST |Tue, December 09 12:45AM GMT |Tue, December 09 11:45AM AEDT |
 |[2025 ODSE Wide Open Clothing ASC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2025 ASC SERIES PRACTICE |51 |None | | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |45 |1999 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |40 |2162 |Open |Cedar Lake Speedway |Thu, December 04 01:30PM EST |Thu, December 04 06:30PM GMT |Fri, December 05 05:30AM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |40 |2156 |Open | | | | |
 |[Corn Bar and Grill](https://members.iracing.com/membersite/member/LeagueView.do?league=10251){:target="_blank"} |2025 Winter Series |35 |3403 | |Weedsport Speedway |Sun, December 07 07:45PM EST |Mon, December 08 12:45AM GMT |Mon, December 08 11:45AM AEDT |
 |[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |Tuesday Night Dirt Series |23 |1733 |Fixed |Limaland Motorsports Park |Tue, December 09 08:00PM EST |Wed, December 10 01:00AM GMT |Wed, December 10 12:00PM AEDT |
 |[Tanner Pettit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10975){:target="_blank"} |Testing |19 |8456 | | | | | |
 |[TDSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=13453){:target="_blank"} |TDSRL season1 |18 |1813 | |Fairbury Speedway |Sun, December 07 08:00PM EST |Mon, December 08 01:00AM GMT |Mon, December 08 12:00PM AEDT |
 |[OTL Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2587){:target="_blank"} |Buckwalter Racing Winter Series |17 |1716 | | | | | |
-|[MO Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=4895){:target="_blank"} |2025\-2026 WINTER BLAST |15 |2150 | |Millbridge Speedway |Wed, December 10 09:00PM EST |Thu, December 11 02:00AM GMT |Thu, December 11 01:00PM AEDT |
+|[MO Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=4895){:target="_blank"} |2025\-2026 WINTER BLAST |15 |2150 | |Millbridge Speedway |Wed, December 10 08:45PM EST |Thu, December 11 01:45AM GMT |Thu, December 11 12:45PM AEDT |
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Wheel of Death |12 |1847 |Fixed | | | | |
 |[The Super Duper Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9836){:target="_blank"} |Micros of Mayhem |11 |1632 |Fixed | | | | |
-|[Semi\-pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9027){:target="_blank"} |Dirt 2025 |11 |1807 | | | | | |
+|[Semi\-pro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9027){:target="_blank"} |Dirt 2025 |11 |1796 | |Weedsport Speedway |Thu, December 11 08:00PM EST |Fri, December 12 01:00AM GMT |Fri, December 12 12:00PM AEDT |
 |[New England 358 Modified](https://members.iracing.com/membersite/member/LeagueView.do?league=11828){:target="_blank"} |24/25 season |10 |1377 | | | | | |
 |[TIer 1 Wednesday Night Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=10999){:target="_blank"} |Wednesday Night Showdown Season 2 |10 |2446 |Fixed | | | | |
 

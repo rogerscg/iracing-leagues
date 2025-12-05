@@ -11,7 +11,6 @@
 |[Copa La Chicana](https://members.iracing.com/membersite/member/LeagueView.do?league=13551){:target="_blank"} | | |
 |[Diyclay525](https://members.iracing.com/membersite/member/LeagueView.do?league=13566){:target="_blank"} | |diyclay525 youtube channel hosting the wildest races ever\! |
 |[DownSouth Sizzler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13542){:target="_blank"} |[Discord](https://discord.gg/CnKesASBqr){:target="_blank"} |$190 plus to win championship |
-|[FullSend Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13527){:target="_blank"} |[Discord](https://discord.gg/SYx4tvvK){:target="_blank"} |🏁 🔥 NOW RECRUITING: Late Model Stock iRacing League\! 🔥 🏁 Looking for clean, competitive, and FUN racing? Join our Late Model Stock League and race with a great group of respectful drivers every week\! ⸻ 🏎️ About the League ✔ Late Model Stock class \(iRacing\) ✔ Races every Monday at 7:00 PM EST ✔ Clean, respectful racing environment ✔ Beginner\-friendly but competitive ✔ Active admins & organized events ⸻ 💲 Entry Fee: Only $5 for the Season\! Your $5 helps support league hosting, prizes, and running smooth weekly events\. Once paid, you’ll be added to the official roster and given full access to race nights\. ⸻ 📋 What We Expect 	•	Clean, respectful driving 	•	No intentional wrecking or drama 	•	Follow iRacing sporting code 	•	Show up and have fun—this is what racing is all about\! ⸻ 🏆 Why Join Us? 🏁 Competitive fields 🏁 Consistent weekly racing 🏁 Great community 🏁 Fair rules & clean racing focus |
 |[GMB Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13546){:target="_blank"} | | |
 |[IMA CHILI BOWL A MAIN SATURDAY](https://members.iracing.com/membersite/member/LeagueView.do?league=13559){:target="_blank"} | | |
 |[IMA CHILI BOWL PRELIM FRIDAY](https://members.iracing.com/membersite/member/LeagueView.do?league=13558){:target="_blank"} | | |
@@ -26,7 +25,6 @@
 |[NATE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=13564){:target="_blank"} | | |
 |[Variety Pack Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13565){:target="_blank"} | |Variety Pack Racing Series is strictly a Superspeedway series that runs at tracks like Talladega, Daytona, Atlanta and many more\. We are also a big event planner as well and we do run money races each week\. Want to join just head on to our discord and join the family\. |
 |[OP Racing TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13530){:target="_blank"} | |OP Racing Thursday Night Thunder Series in the 87's |
-|[PACNWNASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=13526){:target="_blank"} | |Craftsman Trucks, Xfinity Cars and CARS TOUR \- PACIFIC TIME ZONE/WEEKEND IRACING LEAGUE \- DISCORD PACNWNASCAR |
 |[Premier Sim Racing's Winter Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13536){:target="_blank"} | |The Winter Series is ran and organized by Premier Sim Racing \(acting under Regan Bogue Motorsports, a registered Limited Liability Corporation \(LLC\), operating under the state laws of The Commonwealth of Massachusetts and the federal laws governed by The United States of America\)\. |
 |[Racinghaus Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=13547){:target="_blank"} | | |
 |[Racinghaus Winter League \(2\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13553){:target="_blank"} | | |
@@ -66,4 +64,6 @@
 |[Grid Finder Nostalgia Series; Presented by PRA](https://members.iracing.com/membersite/member/LeagueView.do?league=13588){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} | |
 |[P1 Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=13586){:target="_blank"} | | |
 |[Straightaway Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=13589){:target="_blank"} | |Multi Discipline Fun League |
+|[American Legion Gaming \(ALG\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13591){:target="_blank"} | | |
+|[Legends Cars UK E Series Championship Unofficial](https://members.iracing.com/membersite/member/LeagueView.do?league=13590){:target="_blank"} | |A championship closely run to the standards of The National UK championship\. All Welcome |
 

@@ -18,7 +18,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |LMP2 2025 |46 |1788 | | | | | |
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Road America |Thu, December 04 01:00PM EST |Thu, December 04 06:00PM GMT |Fri, December 05 05:00AM AEDT |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Road America |Fri, December 05 01:00PM EST |Fri, December 05 06:00PM GMT |Sat, December 06 05:00AM AEDT |
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |38 |2407 |Fixed |Road America |Thu, December 11 12:30PM EST |Thu, December 11 05:30PM GMT |Fri, December 12 04:30AM AEDT |
 |[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2025 RED SOX RACING \- FALL LMP2 SERIES IV |23 |2084 | | | | | |
 
@@ -27,9 +27,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[GTChampions Road](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |GTC Prototype Showdown 2025 |26 |2326 |Both | | | | |
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Season 1 |13 |1127 | |Road Atlanta |Thu, December 04 08:00PM EST |Fri, December 05 01:00AM GMT |Fri, December 05 12:00PM AEDT |
+|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Season 1 |13 |1120 | |Circuit des 24 Heures du Mans |Thu, December 11 08:00PM EST |Fri, December 12 01:00AM GMT |Fri, December 12 12:00PM AEDT |
 
 ### Hosted All Cars Class
 
@@ -38,7 +38,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
 |[RaceFace\.Pro](https://members.iracing.com/membersite/member/LeagueView.do?league=12788){:target="_blank"} |RaceFace\.Pro Prototype Multi\-Class Challenge |29 |2256 |Both | | | | |
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 4 |23 |3082 |Open |Road Atlanta |Thu, December 04 02:15PM EST |Thu, December 04 07:15PM GMT |Fri, December 05 06:15AM AEDT |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2025 Season 4 |26 |3096 |Open | | | | |
 |[Billy Oirish Racing IMSA League](https://members.iracing.com/membersite/member/LeagueView.do?league=13218){:target="_blank"} |Billy Oirish Racing Sunday Night IMSA League |17 |1702 | | | | | |
 |[Tachycardia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11017){:target="_blank"} |Season 16 Radical |13 |1210 | |Indianapolis Motor Speedway |Wed, December 10 08:30PM EST |Thu, December 11 01:30AM GMT |Thu, December 11 12:30PM AEDT |
 |[SRFD Central PA Division](https://members.iracing.com/membersite/member/LeagueView.do?league=10390){:target="_blank"} |Radical World of Racing |10 |1402 |Fixed |Circuit Gilles Villeneuve |Tue, October 21 09:00PM EDT |Wed, October 22 02:00AM BST |Wed, October 22 12:00PM AEDT |
@@ -87,7 +87,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Riley Prototype |17 |1456 | |Indianapolis Motor Speedway |Thu, December 04 09:00PM EST |Fri, December 05 02:00AM GMT |Fri, December 05 01:00PM AEDT |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Riley Prototype |19 |1433 | |Road America |Thu, December 11 09:00PM EST |Fri, December 12 02:00AM GMT |Fri, December 12 01:00PM AEDT |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Riley |12 |1438 |Both |Circuit des 24 Heures du Mans |Sat, December 06 09:00PM EST |Sun, December 07 02:00AM GMT |Sun, December 07 01:00PM AEDT |
 
 ### Spec Racer Ford
