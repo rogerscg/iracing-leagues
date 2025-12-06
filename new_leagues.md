@@ -4,20 +4,19 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Life Nascar Series \- Iracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13563){:target="_blank"} | |Life Nascar Series is a competitive sim racing league dedicated to faithfully recreating the real\-world NASCAR experience\. Our focus spans all major NASCAR series — ARCA Menards, Craftsman Truck, Xfinity, and the NASCAR Cup Series — with authentic race formats, rules, and progression\. We aim to deliver the closest possible simulation of real NASCAR competition, providing drivers with a true\-to\-life racing challenge at every level\. |
 |[ATS Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13562){:target="_blank"} | | |
-|[Battle Of The Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=13561){:target="_blank"} | | |
+|[Battle Of The Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=13561){:target="_blank"} | |Friendly race composed of the top drivers of several leagues\. Who will win?\! |
 |[Black Flag Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13544){:target="_blank"} | | |
 |[CB Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=13549){:target="_blank"} | |CB Motorsports LMSC League |
-|[CJP](https://members.iracing.com/membersite/member/LeagueView.do?league=13529){:target="_blank"} | |^&67 |
 |[Copa La Chicana](https://members.iracing.com/membersite/member/LeagueView.do?league=13551){:target="_blank"} | | |
 |[Diyclay525](https://members.iracing.com/membersite/member/LeagueView.do?league=13566){:target="_blank"} | |diyclay525 youtube channel hosting the wildest races ever\! |
 |[DownSouth Sizzler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13542){:target="_blank"} |[Discord](https://discord.gg/CnKesASBqr){:target="_blank"} |$190 plus to win championship |
 |[GMB Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13546){:target="_blank"} | | |
-|[IMA CHILI BOWL A MAIN SATURDAY](https://members.iracing.com/membersite/member/LeagueView.do?league=13559){:target="_blank"} | | |
-|[IMA CHILI BOWL PRELIM FRIDAY](https://members.iracing.com/membersite/member/LeagueView.do?league=13558){:target="_blank"} | | |
-|[IMA CHILI BOWL PRELIM MONDAY](https://members.iracing.com/membersite/member/LeagueView.do?league=13554){:target="_blank"} | | |
-|[IMA CHILI BOWL PRELIM THURSDAY](https://members.iracing.com/membersite/member/LeagueView.do?league=13557){:target="_blank"} | | |
-|[IMA CHILI BOWL PRELIM TUESDAY](https://members.iracing.com/membersite/member/LeagueView.do?league=13555){:target="_blank"} | | |
-|[IMA CHILI BOWL PRELIM WEDNESDAY](https://members.iracing.com/membersite/member/LeagueView.do?league=13556){:target="_blank"} | | |
+|[IMA CHILI BOWL I\-H MAINS](https://members.iracing.com/membersite/member/LeagueView.do?league=13559){:target="_blank"} | | |
+|[IMA CHILI BOWL G\-F MAINS](https://members.iracing.com/membersite/member/LeagueView.do?league=13558){:target="_blank"} | | |
+|[IMA CHILI BOWL E\-D MAINS](https://members.iracing.com/membersite/member/LeagueView.do?league=13554){:target="_blank"} | | |
+|[IMA CHILI BOWL C\-B \+ POLE SHUFFLE](https://members.iracing.com/membersite/member/LeagueView.do?league=13557){:target="_blank"} | | |
+|[Dane Culver backup league](https://members.iracing.com/membersite/member/LeagueView.do?league=13555){:target="_blank"} | | |
+|[Dane Culver backup league 2](https://members.iracing.com/membersite/member/LeagueView.do?league=13556){:target="_blank"} | | |
 |[Kaden rogers tour mod league](https://members.iracing.com/membersite/member/LeagueView.do?league=13534){:target="_blank"} | |100 lap tour mod races |
 |[Keystone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13532){:target="_blank"} | |New League that thrives on clean and tight racing\. We will start with the NG cars and who knows maybe down the road we can branch out to more series\! |
 |[Liga Veteranos](https://members.iracing.com/membersite/member/LeagueView.do?league=13543){:target="_blank"} | |A Liga Veteranos foi fundada em Março de 2018, por um grupo de pilotos que desde os anos 2000 participavam de competições de GTR2, Rfactor, Race 07, GSC, AC, Iracing, AMS, RF2 e ACC\. A Liga Veteranos resolveu se aventurar nesse mundo de geração e organização de eventos de automobilismo virtual para trazer a amizade e o respeito entre os pilotos dentro e fora das pistas, tornando suas competições mais acessíveis para os seus participantes\. A Liga Veteranos é um projeto comunitário, em que colocamos muita dedicação\. Esta em constante desenvolvimento e conta com a ajuda de voluntários para que isso aconteça\. Os custos operacionais , web e banco de dados, bem como outras despesas, como transmissões, são cobertos principalmente por doações, patrocinadores e inscrições em nossos eventos pagos, contamos com o apoio de nossa comunidade, pelas quais somos muito gratos\! A Liga Veteranos é uma das maiores organizadoras de competições de automobilismo virtual no Brasil, e a que mais cresce\. |
@@ -36,13 +35,12 @@
 |[USA Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13545){:target="_blank"} | |Xfinity series |
 |[XTRL](https://members.iracing.com/membersite/member/LeagueView.do?league=13541){:target="_blank"} | | |
 |[Connor's NASCAR Testing](https://members.iracing.com/membersite/member/LeagueView.do?league=13538){:target="_blank"} | | |
-|[Infinite Stint Championship by ORA Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13528){:target="_blank"} | |Host of an annual, year\-long league table of special events\! |
 |[NANOOKS](https://members.iracing.com/membersite/member/LeagueView.do?league=13531){:target="_blank"} | |NO CLUE |
 |[NJMP League Online](https://members.iracing.com/membersite/member/LeagueView.do?league=13540){:target="_blank"} | |Let's race online while we wait to get back on track\!\! |
-|[Pool Pro Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13552){:target="_blank"} | |PoolTile Team League |
+|[Pool Pro Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13552){:target="_blank"} | |Pool Pro Racing League |
 |[Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=13535){:target="_blank"} | |Just a test |
 |[Bully Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13568){:target="_blank"} | |Saturday Night Short Track Racing, Semi serious laid back league\. Not looking for super high I rating guys\. |
-|[Thunder Valley Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13567){:target="_blank"} |[Discord](https://discord.gg/9HYWTkDpGZ){:target="_blank"} | |
+|[Thunder Valley Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13567){:target="_blank"} |[Discord](https://discord.gg/9HYWTkDpGZ){:target="_blank"} |The Thunder Valley iRacing League is built on one simple idea: race hard, race clean, and have a damn good time doing it\. We’re a community that values respect on and off the track, competitive spirit, and the kind of racing where everyone can push their limits without losing sight of why we’re here in the first place — fun\.   We take racing seriously, but never so seriously that it stops being enjoyable\. Thunder Valley is the place where good sportsmanship, fair driving, and wheel\-to\-wheel action all come together to create the best racing experience possible\.   Our league is home to three distinct series, each offering its own flavor of competition:   "Cup Series"  The flagship division of the league, featuring Next\-Gen NASCAR stock cars\.  "Super\-Truck Series"  The closest, most aggressive, and most entertaining racing around\.  "Competition Series"  A development\-focused Xfinity series\. |
 |[Dirt Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=13571){:target="_blank"} | | |
 |[GameOn iRacing Paraguay](https://members.iracing.com/membersite/member/LeagueView.do?league=13569){:target="_blank"} | |Liga de iRacing de Paraguay |
 |[SCCR Sim\-Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13572){:target="_blank"} | |Sports Car Club of Rockford Sim\-Cup Season 1 presented by Dad's Racing Services |
@@ -50,7 +48,7 @@
 |[3 WIDE MOTORSPORTS \(LATE MODEL TOUR\) START DATE JAN 6TH](https://members.iracing.com/membersite/member/LeagueView.do?league=13573){:target="_blank"} |[Discord](https://discord.gg/5KQSt24DUF){:target="_blank"} |12 Week race series, Open Tune Late Models, Paid Championship 1st\-3rd, 2 Car Teams Paid Championship |
 |[DSTW DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=13574){:target="_blank"} | |its time fellas |
 |[Half Azz Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13576){:target="_blank"} |[Discord](https://discord.gg/EtBQZKxX){:target="_blank"} |Welcome To Half Azz Racing |
-|[multiclass short race \(MCSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13579){:target="_blank"} | |multiclass short race or MCSR is a multiclass duh race that tend to be shorter then most multiclass races 30 minutes to 1 hour |
+|[lotus short race \(LSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13579){:target="_blank"} | |lotus short race or LSR is a race that uses the lotus79/49 |
 |[Mybroga Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=13580){:target="_blank"} | |Spin\-off de la legendaria liga Mybroga de Grand Prix Legends |
 |[PRO LATEMODEL RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=13577){:target="_blank"} | |JUST FOR FUN |
 |[Swiss Cheese](https://members.iracing.com/membersite/member/LeagueView.do?league=13578){:target="_blank"} | |Private Co\-op |
@@ -66,4 +64,9 @@
 |[Straightaway Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=13589){:target="_blank"} | |Multi Discipline Fun League |
 |[American Legion Gaming \(ALG\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13591){:target="_blank"} | | |
 |[Legends Cars UK E Series Championship Unofficial](https://members.iracing.com/membersite/member/LeagueView.do?league=13590){:target="_blank"} | |A championship closely run to the standards of The National UK championship\. All Welcome |
+|[Birds Computers](https://members.iracing.com/membersite/member/LeagueView.do?league=13592){:target="_blank"} | |Friends and foes |
+|[JBB Hotlap Heroes](https://members.iracing.com/membersite/member/LeagueView.do?league=13594){:target="_blank"} |[Discord](https://discord.gg/hPSYMMbVNj){:target="_blank"} |Join Hot Lap Heroes G61 Team: https://garage61\.net/s/icYcHR |
+|[La Fiebre Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13593){:target="_blank"} |[Discord](https://discord.gg/MuCTURdQJ){:target="_blank"} |Equipo Latino de Endurance |
+|[National Street Stock Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13596){:target="_blank"} | |Street Stock League |
+|[Rebel Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13595){:target="_blank"} | | |
 
