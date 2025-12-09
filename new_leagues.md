@@ -9,7 +9,6 @@
 |[CB Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=13549){:target="_blank"} | |CB Motorsports LMSC League |
 |[Copa La Chicana](https://members.iracing.com/membersite/member/LeagueView.do?league=13551){:target="_blank"} | | |
 |[Diyclay525](https://members.iracing.com/membersite/member/LeagueView.do?league=13566){:target="_blank"} | |diyclay525 youtube channel hosting the wildest races ever\! |
-|[DownSouth Sizzler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13542){:target="_blank"} |[Discord](https://discord.gg/CnKesASBqr){:target="_blank"} |$190 plus to win championship |
 |[GMB Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13546){:target="_blank"} | | |
 |[IMA CHILI BOWL I\-H MAINS](https://members.iracing.com/membersite/member/LeagueView.do?league=13559){:target="_blank"} | | |
 |[IMA CHILI BOWL G\-F MAINS](https://members.iracing.com/membersite/member/LeagueView.do?league=13558){:target="_blank"} | | |
@@ -22,13 +21,10 @@
 |[Variety Pack Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13565){:target="_blank"} | |Variety Pack Racing Series is strictly a Superspeedway series that runs at tracks like Talladega, Daytona, Atlanta and many more\. We are also a big event planner as well and we do run money races each week\. Want to join just head on to our discord and join the family\. |
 |[Racinghaus Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=13547){:target="_blank"} | | |
 |[Racinghaus Winter League \(2\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13553){:target="_blank"} | | |
-|[RONIN GT3 MASTER CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=13539){:target="_blank"} | |GT3 by Ronin PT Esports |
 |[Saturday morning league](https://members.iracing.com/membersite/member/LeagueView.do?league=13560){:target="_blank"} | | |
 |[test league](https://members.iracing.com/membersite/member/LeagueView.do?league=13550){:target="_blank"} | |test |
 |[The 4\-Way Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13548){:target="_blank"} | |4 Classes, 1 Champion\. |
 |[USA Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13545){:target="_blank"} | |Xfinity series |
-|[XTRL](https://members.iracing.com/membersite/member/LeagueView.do?league=13541){:target="_blank"} | | |
-|[NJMP League Online](https://members.iracing.com/membersite/member/LeagueView.do?league=13540){:target="_blank"} | |Let's race online while we wait to get back on track\!\! |
 |[Pool Pro Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13552){:target="_blank"} | |Pool Pro Racing League |
 |[Bully Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13568){:target="_blank"} | |Saturday Night Short Track Racing, Semi serious laid back league\. Not looking for super high I rating guys\. |
 |[Thunder Valley Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13567){:target="_blank"} |[Discord](https://discord.gg/9HYWTkDpGZ){:target="_blank"} |The Thunder Valley iRacing League is built on one simple idea: race hard, race clean, and have a damn good time doing it\. We’re a community that values respect on and off the track, competitive spirit, and the kind of racing where everyone can push their limits without losing sight of why we’re here in the first place — fun\.   We take racing seriously, but never so seriously that it stops being enjoyable\. Thunder Valley is the place where good sportsmanship, fair driving, and wheel\-to\-wheel action all come together to create the best racing experience possible\.   Our league is home to three distinct series, each offering its own flavor of competition:   "Cup Series"  The flagship division of the league, featuring Next\-Gen NASCAR stock cars\.  "Super\-Truck Series"  The closest, most aggressive, and most entertaining racing around\.  "Competition Series"  A development\-focused Xfinity series\. |
@@ -40,7 +36,7 @@
 |[DSTW DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=13574){:target="_blank"} | |its time fellas |
 |[Half Azz Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13576){:target="_blank"} |[Discord](https://discord.gg/EtBQZKxX){:target="_blank"} |Welcome To Half Azz Racing |
 |[lotus short race \(LSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13579){:target="_blank"} | |lotus short race or LSR is a race that uses the lotus79/49 |
-|[Mybroga Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=13580){:target="_blank"} | |Spin\-off de la legendaria liga Mybroga de Grand Prix Legends |
+|[Mybroga Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=13580){:target="_blank"} | |Spin\-off de la legendaria liga MyBroGa de Grand Prix Legends\. |
 |[PRO LATEMODEL RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=13577){:target="_blank"} | |JUST FOR FUN |
 |[Swiss Cheese](https://members.iracing.com/membersite/member/LeagueView.do?league=13578){:target="_blank"} | |Private Co\-op |
 |[Test Drive Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13575){:target="_blank"} | |Open to all racers, but geared toward beginner/intermediate drivers looking to learn from one another and help each other improve through daily practice sessions and weekly/bi\-weekly races\. |
@@ -50,7 +46,7 @@
 |[iNASCAR\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=13583){:target="_blank"} | |European Oval League |
 |[Northwest Pawn and Gun](https://members.iracing.com/membersite/member/LeagueView.do?league=13585){:target="_blank"} | |practice league |
 |[DSR Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13587){:target="_blank"} | |DSR Championship |
-|[Grid Finder Nostalgia Series; Presented by PRA](https://members.iracing.com/membersite/member/LeagueView.do?league=13588){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} | |
+|[Grid Finder Nostalgia Series; Presented by PRA](https://members.iracing.com/membersite/member/LeagueView.do?league=13588){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} |Grid Finder Nostalgia Series is a new Gen4 NASCAR Series by Grid Finder and presented by PRA\.  Please join our Discord for all communication purposes\. It is mandatory\. http://discord\.gg/pra   Also sign up on Grid Finder for all scheduling purposes\. It is also mandatory\. http://gridfinder\.com/c/ProdigyRacingAssociation |
 |[P1 Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=13586){:target="_blank"} | | |
 |[Straightaway Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=13589){:target="_blank"} | |Multi Discipline Fun League |
 |[American Legion Gaming \(ALG\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13591){:target="_blank"} | | |
@@ -68,6 +64,16 @@
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} | | |
 |[Automobile Racing Hacks of America](https://members.iracing.com/membersite/member/LeagueView.do?league=13602){:target="_blank"} |[Discord](https://discord.gg/up6TB8CK){:target="_blank"} |SEASON 1 \- Q1 2026\! \|   The Automobile Racing Hacks of America \(ARHA\) is an iRacing\-based ARCA league built around one simple mission: race clean, race hard, and have a damn good time doing it\. |
 |[Buckeye Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13606){:target="_blank"} | |Buckeye Sim Series |
-|[France F4](https://members.iracing.com/membersite/member/LeagueView.do?league=13603){:target="_blank"} |[Discord](https://discord.gg/zfHD2MXH){:target="_blank"} |Ligue Francophone de monoplace |
+|[France F4](https://members.iracing.com/membersite/member/LeagueView.do?league=13603){:target="_blank"} |[Discord](https://discord.gg/zfHD2MXH){:target="_blank"} |Ligue Francophone de Formule 4 |
 |[PNW Cadet Karters](https://members.iracing.com/membersite/member/LeagueView.do?league=13604){:target="_blank"} | |League For PNW cadet karting weekly racing |
+|[Fort Boys Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13612){:target="_blank"} | | |
+|[Friday Night O'Reilly's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13616){:target="_blank"} |[Discord](https://discord.gg/9BwHG7eSQY){:target="_blank"} |B Class, Fixed racing |
+|[Hoosier 500 Support Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13615){:target="_blank"} | |League for participants in the Veterans 100 and Pit Stop Competition |
+|[Just Send It RL](https://members.iracing.com/membersite/member/LeagueView.do?league=13609){:target="_blank"} |[Discord](https://discord.gg/fuqhXxp4Tt){:target="_blank"} |Racing League for Just Send It eSports\. Feel free to join the discord\! |
+|[Purdue Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13611){:target="_blank"} |[Discord](https://discord.gg/RBBfdGCF7p){:target="_blank"} | |
+|[SIM Racers United](https://members.iracing.com/membersite/member/LeagueView.do?league=13610){:target="_blank"} | |Started as a group of like minded racers in Gran Turismo Sport as GT Cup CHallenge, many of us moved on to other rims and have added new members\. Mostly races for fun\. |
+|[The JordiFu iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13614){:target="_blank"} | |A league brought to you by the Fureman Auto Racing Team\. |
+|[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} | |Green Villain Motorsport is the home of the Carolina Automotive Club alumni racers |
+|[Race of champions](https://members.iracing.com/membersite/member/LeagueView.do?league=13608){:target="_blank"} | | |
+|[Virtual Motorsport Online \(VMO\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13607){:target="_blank"} | | |
 
