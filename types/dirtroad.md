@@ -8,8 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
-|[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Cross Car S1 |13 |1359 |Fixed | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|-------------|--------|------|------|
+|[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Cross Car S1 |16 |1387 |Fixed | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Exhibitions and Test Races \- 2026 |13 |2786 |Fixed | | | | |
 
 ### Hosted All Cars Class
 
@@ -35,7 +36,6 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025D Pro 2 Truck Series |55 |1876 |Both | | | | |
-|[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2025 Pro 2 National Series |45 |5781 |Open | | | | |
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Pro Trucks Season 3 |28 |3465 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- SLAMTRUCK \(2025B\) |23 |3457 |Fixed | | | | |
 |[AMX Turkey Bowl](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |Turkey Bowl Races |22 |2357 | | | | | |

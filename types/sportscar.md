@@ -41,7 +41,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025D GT4 Challenge \- Disruptive Labs |77 |2522 |Both | | | | |
 |[EMS Masters Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11516){:target="_blank"} |Tercera Division GT4 |76 |2256 |Both | | | | |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2025 Fall Season |62 |2407 |Both | | | | |
@@ -56,7 +56,7 @@
 |[Sim Racing Magazine Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7770){:target="_blank"} |SRM GT4 Challenge Season 7 |38 |2677 | |Red Bull Ring |Tue, January 06 02:00PM EST |Tue, January 06 07:00PM GMT |Wed, January 07 06:00AM AEDT |
 |[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} |2025S2 GT4 |33 |1547 |Fixed | | | | |
 |[CAS \- TSS \- GT4 Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=12634){:target="_blank"} |TSS \- GT4 Masters Season 2 |31 |2096 | | | | | |
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO GT4 Series 2025\-2026 |28 |1926 |Open | | | | |
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |SIMCO GT4 Series 2025\-2026 |28 |1926 |Open |Nürburgring Grand-Prix-Strecke |Mon, January 12 12:30PM EST |Mon, January 12 05:30PM GMT |Tue, January 13 04:30AM AEDT |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation \- GT4 Championship |27 |1769 |Both | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 36 \- Touring Car Challenge |26 |1836 |Fixed | | | | |
 |[Purple Sector Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |PSM GT4 Cup \- 2025 Season 4 |25 |1994 | | | | | |
@@ -83,7 +83,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|------------------------------------|---------------------------|---------------------------|----------------------------|
-|[PCA ENTRY](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class A/B Group eDE |228 |1370 | |Autódromo Hermanos Rodríguez |Sun, January 04 09:00PM EST |Mon, January 05 02:00AM GMT |Mon, January 05 01:00PM AEDT |
+|[PCA ENTRY](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class A/B Group eDE |231 |1371 | | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S8 MX5/GT4 Challenge |91 |2058 |Both | | | | |
 |[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |GT4 Cup 2025 |73 |2778 |Both | | | | |
 |[Latinoamerica SimRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2232){:target="_blank"} |Advanced Mazda Cup 2025 |58 |2182 |Fixed | | | | |
@@ -99,7 +99,7 @@
 |[PCA ENTRY](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |PCA S14 \- Entry |41 |1476 | | | | | |
 |[SCCR Sim\-Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13572){:target="_blank"} |Season 1 |39 |1549 |Open |Summit Point Raceway |Sat, January 10 08:30PM EST |Sun, January 11 01:30AM GMT |Sun, January 11 12:30PM AEDT |
 |[NXTGEN Mx5's](https://members.iracing.com/membersite/member/LeagueView.do?league=9610){:target="_blank"} |Mx5 League sessions |36 |2606 |Fixed | | | | |
-|[SCHERER eSPORT GT4 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10804){:target="_blank"} |SCHERER eSPORT GT4 Series Season V |35 |3232 |Fixed |Autodromo Internazionale del Mugello |Sun, January 04 01:00PM EST |Sun, January 04 06:00PM GMT |Mon, January 05 05:00AM AEDT |
+|[SCHERER eSPORT GT4 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10804){:target="_blank"} |SCHERER eSPORT GT4 Series Season V |35 |3232 |Fixed |Autodromo Internazionale del Mugello |Mon, January 05 01:00PM EST |Mon, January 05 06:00PM GMT |Tue, January 06 05:00AM AEDT |
 |[NXTGEN Mx5's](https://members.iracing.com/membersite/member/LeagueView.do?league=9610){:target="_blank"} |Mx5 Test Sessions |34 |2230 |Fixed | | | | |
 |[Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235){:target="_blank"} |ACiL Fall 2025 GT4 Challenge |32 |2023 | | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 4 GT4 |30 |2109 |Open | | | | |
@@ -113,12 +113,13 @@
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026 Season 1 Session 1 |18 |1824 | |Autódromo José Carlos Pace |Mon, January 05 07:00PM EST |Tue, January 06 12:00AM GMT |Tue, January 06 11:00AM AEDT |
 |[Fresno SCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11311){:target="_blank"} |2025 Championship Series |17 |1573 | | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |25S3 Miata Madness |17 |1825 |Open | | | | |
-|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Porsche Cup \(Int\) Season 2\.2 |17 |1259 |Fixed |Nürburgring Grand-Prix-Strecke |Sat, January 03 07:30PM EST |Sun, January 04 12:30AM GMT |Sun, January 04 11:30AM AEDT |
+|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Porsche Cup \(Int\) Season 2\.2 |17 |1278 |Fixed |Suzuka International Racing Course |Sat, January 10 07:30PM EST |Sun, January 11 12:30AM GMT |Sun, January 11 11:30AM AEDT |
 |[Thursday International Tin Top Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12351){:target="_blank"} |Season 3 \- The D Cup |15 |2383 |Open | | | | |
-|[iRacing for the Blind](https://members.iracing.com/membersite/member/LeagueView.do?league=6082){:target="_blank"} |Season 6\- Return of the blind |14 |1729 | |Sebring International Raceway |Sun, January 04 05:00PM EST |Sun, January 04 10:00PM GMT |Mon, January 05 09:00AM AEDT |
+|[iRacing for the Blind](https://members.iracing.com/membersite/member/LeagueView.do?league=6082){:target="_blank"} |Season 6\- Return of the blind |14 |1783 | | | | | |
 |[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |Midweek Porsche Cup Series \| Season 4 |14 |1840 |Both |Road Atlanta |Wed, January 07 08:29PM EST |Thu, January 08 01:29AM GMT |Thu, January 08 12:29PM AEDT |
 |[Kellymoss](https://members.iracing.com/membersite/member/LeagueView.do?league=1822){:target="_blank"} |2026 Winter Season |14 |None | |Road America |Tue, January 06 05:00PM EST |Tue, January 06 10:00PM GMT |Wed, January 07 09:00AM AEDT |
 |[CAS \- Porsche Community Cup Deutschland](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} |CAS Porsche Community Cup Deutschland Season 3 |13 |2373 | |Hockenheimring Baden-Württemberg |Thu, January 08 01:00PM EST |Thu, January 08 06:00PM GMT |Fri, January 09 05:00AM AEDT |
+|[FLR SCCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12723){:target="_blank"} |Too Cold to Cone 2026 |13 |1738 |Open |Adelaide Street Circuit |Fri, January 09 08:30PM EST |Sat, January 10 01:30AM GMT |Sat, January 10 12:30PM AEDT |
 
 ### Mazda MX-5 Cup
 
@@ -155,11 +156,11 @@
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |MX\-5 Sunday 2025\-S04 Fall |26 |1263 |Fixed | | | | |
 |[ASRNZ](https://members.iracing.com/membersite/member/LeagueView.do?league=13122){:target="_blank"} |2025 MX\-5 Cup |25 |1781 | | | | | |
 |[MSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12250){:target="_blank"} |MSC MX5 Championship Season 1 |25 |1568 |Fixed | | | | |
-|[Hotties Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12088){:target="_blank"} |HRL Mazda MX5 Cup |20 |1800 |Fixed |Virginia International Raceway |Sat, January 03 01:00PM EST |Sat, January 03 06:00PM GMT |Sun, January 04 05:00AM AEDT |
+|[Hotties Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12088){:target="_blank"} |HRL Mazda MX5 Cup |20 |1842 |Fixed | | | | |
 |[oNiD iRacing Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=11984){:target="_blank"} |oNiD Sim Hound Club Car Challenge |20 |1617 | | | | | |
 |[Motor City Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12105){:target="_blank"} |Late Night Runs Season 2 |20 |1679 |Open |Tsukuba Circuit |Wed, January 07 10:00PM EST |Thu, January 08 03:00AM GMT |Thu, January 08 02:00PM AEDT |
+|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |MX\-5 Sunday 2026\-S01 Winter |20 |1247 |Fixed |Lime Rock Park |Sun, January 11 11:00AM EST |Sun, January 11 04:00PM GMT |Mon, January 12 03:00AM AEDT |
 |[Virtual Circuit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13515){:target="_blank"} |VCR MX5 Cup |17 |1905 |Fixed |Snetterton Circuit |Wed, January 07 01:00PM EST |Wed, January 07 06:00PM GMT |Thu, January 08 05:00AM AEDT |
-|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |MX\-5 Sunday 2026\-S01 Winter |16 |1251 |Fixed |Rudskogen Motorsenter |Sun, January 04 11:00AM EST |Sun, January 04 04:00PM GMT |Mon, January 05 03:00AM AEDT |
 |[HTRacingS](https://members.iracing.com/membersite/member/LeagueView.do?league=13211){:target="_blank"} |HTRS \- Hardcore Sprint Cup \- Season 1 |12 |1467 |Open | | | | |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |Sunday Night Racing |11 |918 | | | | | |
 
@@ -177,12 +178,11 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
-|[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S15 Euro/Global Porsche Cup Challenge |67 |2557 |Both |Nürburgring Combined |Sun, January 04 02:00PM EST |Sun, January 04 07:00PM GMT |Mon, January 05 06:00AM AEDT |
+|[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S15 Euro/Global Porsche Cup Challenge |74 |2520 |Both |Autódromo José Carlos Pace |Sun, January 11 02:00PM EST |Sun, January 11 07:00PM GMT |Mon, January 12 06:00AM AEDT |
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 26S1 \- Porsche Cup |64 |2536 |Open |Autódromo José Carlos Pace |Mon, January 05 01:30PM EST |Mon, January 05 06:30PM GMT |Tue, January 06 05:30AM AEDT |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S15 The Americas Porsche Cup Challenge |40 |2126 |Both |Autódromo José Carlos Pace |Thu, January 08 08:00PM EST |Fri, January 09 01:00AM GMT |Fri, January 09 12:00PM AEDT |
 |[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR PCUP Challenge Season 1 |25 |1816 |Both | | | | |
 |[Race Place Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13330){:target="_blank"} |RP Porsche Cup |22 |1828 |Fixed | | | | |
-|[FLR SCCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12723){:target="_blank"} |Too Cold to Cone 2026 |13 |1738 |Open | | | | |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} |Porsche 911 Cup 992\.2 |13 |1293 | |Circuit of the Americas |Mon, January 05 09:15PM EST |Tue, January 06 02:15AM GMT |Tue, January 06 01:15PM AEDT |
 
 ### Porsche 911 GT3 Cup (992)
@@ -194,7 +194,6 @@
 |[GSRC\.inc PanTec Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2025D Porsche Cup \- PanTec Industries |87 |2248 | | | | | |
 |[PCA \- 2025 Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |2025 PCA A&D Supercup Series |79 |1712 | | | | | |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |Porsche Cup |65 |2475 | | | | | |
-|[NXTGPiRacing Powered by SRC \- Porsche Carrera Cup Benelux](https://members.iracing.com/membersite/member/LeagueView.do?league=12643){:target="_blank"} |NXTGP Porsche Super Cup |59 |2556 | | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S14 Americas Porsche Cup Challenge |59 |2235 |Both | | | | |
 |[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing Porsche Supercup 2025 |59 |1991 |Fixed | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S14 Euro/Global Porsche Cup Challenge |57 |2853 |Both | | | | |
@@ -206,7 +205,6 @@
 |[DCC \- Digitaler Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12479){:target="_blank"} |DCC \- Digitaler Carrera Cup \- 1\. Saison |43 |3890 | | | | | |
 |[ADAC SimRacing Cup \- Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=7760){:target="_blank"} |Saison 2025 |41 |3145 | | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S15 Porsche Cup |41 |2324 |Open | | | | |
-|[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 14 |39 |3154 | | | | | |
 |[Z PCA \- 2025 Sport \(GP\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6444){:target="_blank"} |PCA S14 \- Sport |38 |1284 | | | | | |
 |[Z PCA \- 2025 Challenge \(GP\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6446){:target="_blank"} |PCA S14 \- Challenge |32 |1095 | | | | | |
 |[F1BC 992 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |992 Cup 2025/4 |28 |2838 | | | | | |
@@ -244,18 +242,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[Limit of Adhesion \- Prime](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Sprint Season 2 \- TCR |57 |2399 |Both | | | | |
 |[SRL Friday Night TCR](https://members.iracing.com/membersite/member/LeagueView.do?league=13171){:target="_blank"} |SRL TCR SEASON 9 |57 |2933 | | | | | |
 |[Olivier iRacing League 🏁](https://members.iracing.com/membersite/member/LeagueView.do?league=10930){:target="_blank"} |Traction Cup 🏁 |54 |2125 | | | | | |
 |[SRL Friday Night Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5478){:target="_blank"} |TCR Pre\-Season |46 |2860 |Fixed | | | | |
 |[Backfire Simsport TV TCR Challenge Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12373){:target="_blank"} |Season 22 |40 |2808 | | | | | |
 |[TOURING CAR YOMEL / SIMRACER LEAGUE SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8011){:target="_blank"} |Touring Car Copa Yomel 2025 |36 |3486 |Fixed | | | | |
-|[Backfire Simsport TV TCR Challenge Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12373){:target="_blank"} |Season 23 |36 |2882 | | | | | |
+|[Backfire Simsport TV TCR Challenge Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12373){:target="_blank"} |Season 23 |36 |2882 | |Daytona International Speedway |Wed, January 07 01:30PM EST |Wed, January 07 06:30PM GMT |Thu, January 08 05:30AM AEDT |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 5B TCR |29 |2110 |Open | | | | |
 |[Simunation Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11242){:target="_blank"} |TCR Bajnokság |25 |2332 |Both | | | | |
 |[Alpha Touring Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=6243){:target="_blank"} |ATC16 |24 |2771 |Open |Road Atlanta |Mon, January 05 06:40PM EST |Mon, January 05 11:40PM GMT |Tue, January 06 10:40AM AEDT |
-|[LSR British Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13371){:target="_blank"} |British Touring Car Series Winter 25 |18 |2711 |Open |Silverstone Circuit |Sun, January 04 01:30PM EST |Sun, January 04 06:30PM GMT |Mon, January 05 05:30AM AEDT |
+|[LSR British Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13371){:target="_blank"} |British Touring Car Series Winter 25 |18 |2744 |Open |Donington Park Racing Circuit |Sun, January 11 01:30PM EST |Sun, January 11 06:30PM GMT |Mon, January 12 05:30AM AEDT |
 |[San Diego iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13096){:target="_blank"} |SDiRL Season 2 \- TCR Cup |11 |1310 | | | | | |
 |[PURE Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |TCR \- Season 1 |10 |1241 |Fixed | | | | |
 
@@ -266,8 +264,8 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|-----------------------------------|---------------------------|---------------------------|----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025D Toyota GR86 Challenge |95 |2676 |Both | | | | |
-|[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |ProLine Esports 86 Series S2 |49 |2119 | | | | | |
 |[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2025/4 |42 |2204 | | | | | |
+|[FOREFRONT GR86 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10654){:target="_blank"} |FOREFRONT GR86 |42 |1915 | |Rudskogen Motorsenter |Sun, January 11 03:00PM EST |Sun, January 11 08:00PM GMT |Mon, January 12 07:00AM AEDT |
 |[GFi Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13231){:target="_blank"} |GR86 |36 |1407 | | | | | |
 |[SRP \- SimRacing Portugal](https://members.iracing.com/membersite/member/LeagueView.do?league=996){:target="_blank"} |Spotter On S3 |33 |1751 | | | | | |
 |[SCCS & MID DIV](https://members.iracing.com/membersite/member/LeagueView.do?league=13286){:target="_blank"} |Fall 2025 |31 |1921 | | | | | |
@@ -279,8 +277,8 @@
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR GR86 Season 2 |19 |1677 |Open | | | | |
 |[RL77 Junior Regio Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=10474){:target="_blank"} |RL77 Junior Regio Masters Season 2 |18 |1538 | | | | | |
 |[V7 League](https://members.iracing.com/membersite/member/LeagueView.do?league=13181){:target="_blank"} |GR\-86 Cup 2025\-1 |16 |1470 |Fixed | | | | |
+|[Gladiator Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13443){:target="_blank"} |GR86 Season 1 |14 |1312 |Fixed |Okayama International Circuit |Sun, January 11 04:00PM EST |Sun, January 11 09:00PM GMT |Mon, January 12 08:00AM AEDT |
 |[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S3 |12 |1501 |Fixed | | | | |
-|[Gladiator Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13443){:target="_blank"} |GR86 Season 1 |10 |1361 |Fixed |Oulton Park Circuit |Sun, January 04 04:00PM EST |Sun, January 04 09:00PM GMT |Mon, January 05 08:00AM AEDT |
 
 ### VW Jetta TDI Cup
 
