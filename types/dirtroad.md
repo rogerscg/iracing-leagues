@@ -9,6 +9,8 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|-------------|--------|------|------|
+|[NASA Cross Car Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Futures 25A |31 |2228 |Both | | | | |
+|[NASA Cross Car Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Masters 25A |30 |4156 |Both | | | | |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Cross Car S1 |16 |1387 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Exhibitions and Test Races \- 2026 |13 |2786 |Fixed | | | | |
 
@@ -34,12 +36,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|----------------------------|---------------------------|---------------------------|----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025D Pro 2 Truck Series |55 |1876 |Both | | | | |
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Pro Trucks Season 3 |28 |3465 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- SLAMTRUCK \(2025B\) |23 |3457 |Fixed | | | | |
 |[AMX Turkey Bowl](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |Turkey Bowl Races |22 |2357 | | | | | |
 |[Down South Racing Rookie League](https://members.iracing.com/membersite/member/LeagueView.do?league=11910){:target="_blank"} |outlaw pro 2 \(pro2 BIGGGGGGGSSSSSS\) |17 |1962 | | | | | |
+|[Ryūjō Winter Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2825){:target="_blank"} |RWS ProTruck2 Asphalt Series |12 |2019 | |Autódromo Hermanos Rodríguez |Fri, January 09 02:00PM EST |Fri, January 09 07:00PM GMT |Sat, January 10 06:00AM AEDT |
 
 ### Pro 4 Truck
 
