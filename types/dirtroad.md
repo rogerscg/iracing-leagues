@@ -27,9 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Midwest Outlaw County Fair Pro2 Lite Trucks |16 |1370 |Fixed | | | | |
-|[Mud Slingers Off Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13139){:target="_blank"} |Mud Slinging Pro 2 lite season 1 |15 |1433 | |Charlotte Motor Speedway  |Fri, November 07 08:00PM EST |Sat, November 08 01:00AM GMT |Sat, November 08 12:00PM AEDT |
 
 ### Pro 2 Truck
 

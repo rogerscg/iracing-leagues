@@ -9,7 +9,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------|----|-----|---------------------------|---------------------------|---------------------------|----------------------------|
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Indianapolis Motor Speedway |Tue, January 06 01:00PM EST |Tue, January 06 06:00PM GMT |Wed, January 07 05:00AM AEDT |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Indianapolis Motor Speedway |Wed, January 07 01:00PM EST |Wed, January 07 06:00PM GMT |Thu, January 08 05:00AM AEDT |
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |38 |2407 |Fixed | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |2026 Worn Out Racers 2\.4 hours of Daytona \- January 4th |31 |1377 |Fixed | | | | |
 
@@ -42,8 +42,8 @@
 |-------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------|----|-----|-------------|--------|------|------|
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |LMP3 Trophy 2025\-2026 |26 |1928 |Open | | | | |
 |[DES Genesis](https://members.iracing.com/membersite/member/LeagueView.do?league=12704){:target="_blank"} |LMP3 DES Season 1 |21 |1670 |Both | | | | |
+|[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP3 Challenge Season 2 |21 |2186 |Both | | | | |
 |[IMSA Esports LMP3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10481){:target="_blank"} |2025 IMSA Esports LMP3 Challenge |17 |5241 | | | | | |
-|[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP3 Challenge Season 2 |17 |2161 |Both | | | | |
 
 ### Radical SR10
 
@@ -51,7 +51,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------|----|-----|-------------------------|---------------------------|---------------------------|----------------------------|
-|[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |71 |None |Fixed |Autodromo Nazionale Monza |Tue, January 06 07:00PM EST |Wed, January 07 12:00AM GMT |Wed, January 07 11:00AM AEDT |
+|[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |73 |None |Fixed | | | | |
 |[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |25/26 RCCWS |47 |2104 |Fixed |Autodromo Nazionale Monza |Wed, January 07 07:00PM EST |Thu, January 08 12:00AM GMT |Thu, January 08 11:00AM AEDT |
 
 ### Radical SR8
