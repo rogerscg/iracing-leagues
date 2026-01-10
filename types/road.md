@@ -8,8 +8,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|--------------|---------------------------|---------------------------|----------------------------|
-|[DMC \- Digitaler M2 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11971){:target="_blank"} |Digitaler M2 Cup \- 2\. Saison |31 |2565 | | | | | |
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------|-------|----|-----|--------------|---------------------------|---------------------------|----------------------------|
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026 Season 1 Wednesday |15 |1788 | |Sonoma Raceway |Wed, January 14 08:30PM EST |Thu, January 15 01:30AM GMT |Thu, January 15 12:30PM AEDT |
 
 ### Supercars Gen 3
