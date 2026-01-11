@@ -8,12 +8,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|-------------|--------|------|------|
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------|--------|------|------|
 |[NASA Cross Car Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Futures 25A |31 |2228 |Both | | | | |
 |[NASA Cross Car Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Masters 25A |30 |4156 |Both | | | | |
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Cross Cars Season 1 |21 |2659 | | | | | |
+|[Team I5G Community Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11885){:target="_blank"} |WORLD SUBATHON CHAMPIONSHIP |18 |2345 |Fixed | | | | |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Cross Car S1 |16 |1387 |Fixed | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Exhibitions and Test Races \- 2026 |13 |2786 |Fixed | | | | |
 
 ### Hosted All Cars Class
 
