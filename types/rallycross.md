@@ -17,7 +17,7 @@
 |[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Race Of Champions |19 |1826 |Both | | | | |
 |[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |18 |1480 | | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S4 '25 Cars |15 |1466 |Fixed | | | | |
-|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Cars |11 |1399 |Fixed |Daytona Rallycross and Dirt Road |Fri, January 16 09:10PM EST |Sat, January 17 02:10AM GMT |Sat, January 17 01:10PM AEDT |
+|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Cars |11 |1399 |Fixed |Daytona Rallycross and Dirt Road |Thu, January 15 09:10PM EST |Fri, January 16 02:10AM GMT |Fri, January 16 01:10PM AEDT |
 
 ### VW Beetle Lite
 
