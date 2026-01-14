@@ -42,7 +42,7 @@
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- SLAMTRUCK \(2025B\) |23 |3457 |Fixed | | | | |
 |[AMX Turkey Bowl](https://members.iracing.com/membersite/member/LeagueView.do?league=12329){:target="_blank"} |Turkey Bowl Races |22 |2357 | | | | | |
 |[Down South Racing Rookie League](https://members.iracing.com/membersite/member/LeagueView.do?league=11910){:target="_blank"} |outlaw pro 2 \(pro2 BIGGGGGGGSSSSSS\) |17 |2015 | | | | | |
-|[Ryūjō Winter Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2825){:target="_blank"} |RWS ProTruck2 Asphalt Series |13 |2095 | |Long Beach Street Circuit |Mon, January 12 02:00PM EST |Mon, January 12 07:00PM GMT |Tue, January 13 06:00AM AEDT |
+|[Ryūjō Winter Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2825){:target="_blank"} |RWS ProTruck2 Asphalt Series |14 |1902 | |Charlotte Motor Speedway  |Fri, January 16 02:00PM EST |Fri, January 16 07:00PM GMT |Sat, January 17 06:00AM AEDT |
 
 ### Pro 4 Truck
 
