@@ -16,7 +16,7 @@
 |[INDY Williams 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=13733){:target="_blank"} | | |
 |[Racing Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=13732){:target="_blank"} | |Een seizoen races met mens en AI |
 |[BT Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13735){:target="_blank"} | |This iRacing league is 100% circle track racing\. No road courses,No distractions\. Just fast laps, tight packs and door to door battles every race\. We're focused on competitive oval racing, clean driving, and creating an exciting environment for drivers who live for the thrill of the track\. |
-|[LANDOS](https://members.iracing.com/membersite/member/LeagueView.do?league=13742){:target="_blank"} | |Landons Allstar National Dirt Oval Showdown |
+|[LANDOS](https://members.iracing.com/membersite/member/LeagueView.do?league=13742){:target="_blank"} |[Discord](https://discord.gg/KXqSf5A9Ek){:target="_blank"} |Landons Allstar National Dirt Oval Showdown |
 |[Mazda MX\-5 Club NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=13739){:target="_blank"} | |MX\-5 Club NZ |
 |[SKR NASCAR Cup League](https://members.iracing.com/membersite/member/LeagueView.do?league=13741){:target="_blank"} | | |
 |[United Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13736){:target="_blank"} | |Monday Night Weekly Touring Series utilizing the Late Model Stock Car with Fixed Setups |
@@ -74,4 +74,12 @@
 |[TUHB League Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13788){:target="_blank"} |[Discord](https://discord.gg/88B52meRn5){:target="_blank"} |have fun and TUHB  10 dollars to join  3 dollars to win every feature |
 |[Who Wants a Soda?](https://members.iracing.com/membersite/member/LeagueView.do?league=13790){:target="_blank"} | | |
 |[MenzClub](https://members.iracing.com/membersite/member/LeagueView.do?league=13782){:target="_blank"} | |MenzClub: Wo Gentlemen zu Racern werden\. Hartes Racing, kühles Bier\. Racing with Attitude\. |
+|[Edwards Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13806){:target="_blank"} | |ERL |
+|[JS Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13803){:target="_blank"} | | |
+|[Kamil Crew](https://members.iracing.com/membersite/member/LeagueView.do?league=13804){:target="_blank"} | | |
+|[Masstuning Trackfest](https://members.iracing.com/membersite/member/LeagueView.do?league=13805){:target="_blank"} | |GR86 Masstuning Trackfest Iracing |
+|[Micro Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=13795){:target="_blank"} | |Small winged micro racing league for fun |
+|[Rockin33 Super Series \| Powered by RaceMRL\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=13802){:target="_blank"} | | |
+|[Ruff Neck Ironman Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13797){:target="_blank"} | |Welcome, to a league that challenges the skill and race craft of every driver, to the dirt scene at local tracks, to the high banks of superspeedways, to winding twists and turns of road courses, The Ironman Series will tests anyones driving ability all in chase of the ultimate prize, being the Ironman of motorsports\. |
+|[UIS \- Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13800){:target="_blank"} | | |
 
