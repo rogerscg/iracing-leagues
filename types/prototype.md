@@ -9,8 +9,8 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------|----|-----|--------------------------------|---------------------------|---------------------------|----------------------------|
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Hockenheimring Baden-Württemberg |Wed, January 21 01:00PM EST |Wed, January 21 06:00PM GMT |Thu, January 22 05:00AM AEDT |
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |38 |2395 |Fixed | | | | |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Hockenheimring Baden-Württemberg |Thu, January 22 01:00PM EST |Thu, January 22 06:00PM GMT |Fri, January 23 05:00AM AEDT |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |38 |2395 |Fixed |Hockenheimring Baden-Württemberg |Thu, January 29 12:30PM EST |Thu, January 29 05:30PM GMT |Fri, January 30 04:30AM AEDT |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |2026 Worn Out Racers 2\.4 hours of Daytona \- January 4th |31 |1377 |Fixed | | | | |
 
 ### GTP
@@ -18,9 +18,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|----------------|-------|----|-----|----------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------|----------------|-------|----|-----|-------------|---------------------------|---------------------------|----------------------------|
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Season 1 |13 |1120 | | | | | |
-|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |10 |2170 |Open |Phillip Island Circuit |Wed, January 21 08:30PM EST |Thu, January 22 01:30AM GMT |Thu, January 22 12:30PM AEDT |
+|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |11 |2103 |Open |Road Atlanta |Wed, January 28 08:30PM EST |Thu, January 29 01:30AM GMT |Thu, January 29 12:30PM AEDT |
 
 ### Hosted All Cars Class
 
@@ -48,9 +48,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------|----|-----|-------------|--------|------|------|
 |[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |76 |None |Fixed | | | | |
-|[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |25/26 RCCWS |51 |2044 |Fixed |Watkins Glen International |Wed, January 21 07:00PM EST |Thu, January 22 12:00AM GMT |Thu, January 22 11:00AM AEDT |
+|[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |25/26 RCCWS |55 |2038 |Fixed | | | | |
 
 ### Radical SR8
 
@@ -81,7 +81,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-----------------------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-----------------------------------|---------------------------|---------------------------|----------------------------|
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Pre\-Qualifying |132 |1757 | | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2025S4 WW SRF 10yr Anniversary season |89 |3085 |Open | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S1 WW SRF |63 |3060 |Open |MotorLand Aragón |Sun, January 25 01:40PM EST |Sun, January 25 06:40PM GMT |Mon, January 26 05:40AM AEDT |
@@ -93,4 +93,5 @@
 |[ARA League Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=13222){:target="_blank"} |Official Practice |31 |None | | | | | |
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 4 |24 |1294 | | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Short Track Thursday Nights |12 |1488 |Fixed |Lucas Oil Indianapolis Raceway Park |Thu, January 22 07:00PM EST |Fri, January 23 12:00AM GMT |Fri, January 23 11:00AM AEDT |
+|[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |Mini League 2025 |10 |1459 | |[Legacy] Phoenix Raceway - 2008 |Wed, January 28 08:00PM EST |Thu, January 29 01:00AM GMT |Thu, January 29 12:00PM AEDT |
 
