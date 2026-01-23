@@ -2,7 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Sukoi Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=13764){:target="_blank"} | |El Sukoi Masters Championship 2026 es la prueba definitiva para los apasionados del simracing\. A lo largo de 12 fechas repartidas durante el año, los pilotos se enfrentarán a un calendario único que combina carreras de alta intensidad, clasificaciones a vuelta rápida y un cierre especial en el mundo real\. |
 |[Bits Bounty Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13766){:target="_blank"} | |A Rookie League for Streamers Trying iRacing out |
 |[Sooner State Micro Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=13767){:target="_blank"} | |Winged & Non Wing Outlaw Micro Money Race League |
 |[Velora Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13765){:target="_blank"} | |Women's racing league |
@@ -79,4 +78,9 @@
 |[Rex Racing IMSA League](https://members.iracing.com/membersite/member/LeagueView.do?league=13845){:target="_blank"} | |The official Rex Racing IMSA league\. We will be hosting Multi class racing every Sunday including the following classes: GTP, LMP2 and GT3 |
 |[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=13846){:target="_blank"} | |Racing on multiple series every Thursday\. |
 |[British Sim Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13841){:target="_blank"} | | |
+|[Motorsport UK Cross Car Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13847){:target="_blank"} | | |
+|[Radical Academy Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13848){:target="_blank"} | |Radical Academy Esport is back for female racers ready to build confidence, sharpen race craft, and compete in a supportive, high\-performance environment\. |
+|[40\-0 cs2](https://members.iracing.com/membersite/member/LeagueView.do?league=13849){:target="_blank"} | | |
+|[5OhPookies](https://members.iracing.com/membersite/member/LeagueView.do?league=13852){:target="_blank"} | |Boys gaming for a good time, be square or be goon\. |
+|[Iron Lads Racing Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=13851){:target="_blank"} | | |
 
