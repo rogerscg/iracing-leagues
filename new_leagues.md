@@ -2,16 +2,12 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Bits Bounty Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13766){:target="_blank"} | |A Rookie League for Streamers Trying iRacing out |
-|[Sooner State Micro Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=13767){:target="_blank"} | |Winged & Non Wing Outlaw Micro Money Race League |
-|[Velora Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13765){:target="_blank"} | |Women's racing league |
 |[F\.D\.R\.L](https://members.iracing.com/membersite/member/LeagueView.do?league=13773){:target="_blank"} | |Fever Dream Racing League \- North American P Cup tour |
 |[Magic Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13775){:target="_blank"} | | |
 |[Magyar Sim Motorsport \(MSM\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13769){:target="_blank"} | |A Magyar Sim Motorsport \(MSM\) egy magyar iRacing liga, amely a tiszta, sportszerű és versenyképes futamokra épül\.   Célunk egy stabil magyar sim racing közösség kialakítása és szervezett bajnokságok indítása\. |
-|[Micro Sprint Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13771){:target="_blank"} | |Micro Sprint Hub League \- Winged Outlaw |
+|[Micro Sprint Hub \- Micro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13771){:target="_blank"} | |Micro Sprint Hub League \- Winged Outlaw \- Races every Tuesday night for 14 weeks\! Points Series, cash prize every week with $10 entry fee\. Winner minimum is $100 every week \{If 14 cars or more\} |
 |[Tasman Racing League: Indy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13772){:target="_blank"} |[Discord](https://discord.gg/KfWS4cZtRF){:target="_blank"} | |
 |[WHat I wANt](https://members.iracing.com/membersite/member/LeagueView.do?league=13774){:target="_blank"} | |jl;;;oikk |
-|[BBG Battle Royale](https://members.iracing.com/membersite/member/LeagueView.do?league=13768){:target="_blank"} | |Boost Brothers Garage& Friends |
 |[Lokk'd Up Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13770){:target="_blank"} | | |
 |[American Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=13779){:target="_blank"} | | |
 |[Cadillac Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13777){:target="_blank"} | | |
@@ -83,4 +79,7 @@
 |[40\-0 cs2](https://members.iracing.com/membersite/member/LeagueView.do?league=13849){:target="_blank"} | | |
 |[5OhPookies](https://members.iracing.com/membersite/member/LeagueView.do?league=13852){:target="_blank"} | |Boys gaming for a good time, be square or be goon\. |
 |[Iron Lads Racing Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=13851){:target="_blank"} | | |
+|[CB Designs iRacing Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13853){:target="_blank"} |[Discord](https://discord.gg/5CJEgmZY){:target="_blank"} |CB Designs iRacing Shootout Series is a hard, fun, clean racing series\. We are different then some we strive to give 100% effort from the green to the checkered flag\! |
+|[OVSS Asphalt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13855){:target="_blank"} | | |
+|[SKINCO LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=13854){:target="_blank"} | | |
 
