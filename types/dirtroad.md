@@ -13,7 +13,7 @@
 |[NASA Cross Car Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Futures 25A |32 |2262 |Both | | | | |
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Cross Cars Season 1 |25 |2770 | | | | | |
 |[Team I5G Community Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11885){:target="_blank"} |WORLD SUBATHON CHAMPIONSHIP |18 |2345 |Fixed | | | | |
-|[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Cross Car S1 |17 |1382 |Fixed | | | | |
+|[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Cross Car S1 |17 |1376 |Fixed | | | | |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |VRS \- FIA Cross Car Cup |12 |1375 | | | | | |
 
 ### Hosted All Cars Class
@@ -38,8 +38,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-------------|--------|------|------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2025D Pro 2 Truck Series |55 |1876 |Both | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Pro Trucks Season 3 |28 |3465 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- SLAMTRUCK \(2025B\) |23 |3457 |Fixed | | | | |
 |[Down South Racing Rookie League](https://members.iracing.com/membersite/member/LeagueView.do?league=11910){:target="_blank"} |outlaw pro 2 \(pro2 BIGGGGGGGSSSSSS\) |17 |2015 | | | | | |
@@ -55,6 +54,5 @@
 |[PDRL Off Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7070){:target="_blank"} |PDRL Offroad S2 |19 |2357 | | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S4 '25 Trucks |16 |1459 |Fixed | | | | |
 |[Xtreme Off\-Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13274){:target="_blank"} |Xtreme Off\-Road Racing Season 1 |13 |1544 |Fixed | | | | |
-|[iRacing Hacks](https://members.iracing.com/membersite/member/LeagueView.do?league=8955){:target="_blank"} |5 Star Pro\-4 Jumpy Truck Series |12 |1524 | | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Trucks |11 |1355 |Fixed |Wild West Motorsports Park |Thu, February 05 09:20PM EST |Fri, February 06 02:20AM GMT |Fri, February 06 01:20PM AEDT |
 

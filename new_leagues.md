@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[APEX ITALIA SIMRACING ⚪🔵🔴](https://members.iracing.com/membersite/member/LeagueView.do?league=13828){:target="_blank"} |[Discord](https://discord.gg/QQN9DxyVwb){:target="_blank"} |Apex Italia Simracing è una comunità nell'ambito del panorama simracing italiano che organizza campionati ed eventi singoli sui principali simulatori come iRacing e Le Mans Ultimate\. |
-|[Citimarine Motors League](https://members.iracing.com/membersite/member/LeagueView.do?league=13830){:target="_blank"} | |League to test Porsche 992 |
-|[MAZDA MADNESS](https://members.iracing.com/membersite/member/LeagueView.do?league=13826){:target="_blank"} | |MX5S EVERYWHERE |
-|[Rogue Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13829){:target="_blank"} | |We are an all\-ages league built around serious fun and great racing on both oval and road courses\. We value clean, hard competition and a positive attitude above all else\. If you're here to race fair, push your limits, and respect your fellow drivers, you'll feel right at home\. |
-|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} | |A league of racers and drivers of all levels competing in various cars on a variety of tracks |
 |[Alpha Sim Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=13834){:target="_blank"} | |Iracing special events |
 |[Formula Vee Endurance League](https://members.iracing.com/membersite/member/LeagueView.do?league=13831){:target="_blank"} | |We will run longer format Formula Vee Events |
 |[i2i recruitment series](https://members.iracing.com/membersite/member/LeagueView.do?league=13835){:target="_blank"} | |recruitment league for i2i |
@@ -69,4 +64,10 @@
 |[Simtec Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=13892){:target="_blank"} | | |
 |[the all canadian late model series](https://members.iracing.com/membersite/member/LeagueView.do?league=13894){:target="_blank"} | |late models a thrill the best action intense battles door to door racing bumper to bumper |
 |[Michelin Maniacs](https://members.iracing.com/membersite/member/LeagueView.do?league=13893){:target="_blank"} | |LMP2 Thursday Nights |
+|[Aboo Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13901){:target="_blank"} | |Season race fun fun |
+|[Blue Collar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13903){:target="_blank"} | | |
+|[F4 MTM Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13900){:target="_blank"} | |F4 Championship |
+|[Reaper Hunters GT 3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13905){:target="_blank"} | |GT 3 League for all levels and to learn with fun\. |
+|[The Gentleman Racer's Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13904){:target="_blank"} | |Mature Sportsman Championship |
+|[SROL \- GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=13902){:target="_blank"} | | |
 
