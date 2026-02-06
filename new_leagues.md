@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Motorsport UK Cross Car Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13847){:target="_blank"} | | |
-|[Radical Academy Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13848){:target="_blank"} | |Radical Academy Esport is back for female racers ready to build confidence, sharpen race craft, and compete in a supportive, high\-performance environment\. |
-|[40\-0 cs2](https://members.iracing.com/membersite/member/LeagueView.do?league=13849){:target="_blank"} | | |
-|[5OhPookies](https://members.iracing.com/membersite/member/LeagueView.do?league=13852){:target="_blank"} | |Boys gaming for a good time, be square or be goon\. |
-|[Iron Lads Racing Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=13851){:target="_blank"} | | |
 |[CB Designs iRacing Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13853){:target="_blank"} |[Discord](https://discord.gg/5CJEgmZY){:target="_blank"} |CB Designs iRacing Shootout Series is a hard, fun, clean racing series\. We are different then some we strive to give 100% effort from the green to the checkered flag\! |
 |[OVSS Asphalt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13855){:target="_blank"} | | |
 |[PANCAKES LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=13854){:target="_blank"} | | |
@@ -75,4 +70,12 @@
 |[VIMSA](https://members.iracing.com/membersite/member/LeagueView.do?league=13924){:target="_blank"} | |Virtual International Motorsports Sporting Association |
 |[Virtual Race Argentina](https://members.iracing.com/membersite/member/LeagueView.do?league=13923){:target="_blank"} | |Una de las mejores e históricas ligas de Argentina |
 |[Hot Fule Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13926){:target="_blank"} | |Weekly Short track/ Oval series |
+|[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |[Discord](https://discord.gg/VTeb3HeWZm){:target="_blank"} |Radical SR8 |
+|[Bongo Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13927){:target="_blank"} | |The home of Bongo Racing Championships and Special Events |
+|[Full Length IndyCar](https://members.iracing.com/membersite/member/LeagueView.do?league=13933){:target="_blank"} |[Discord](https://discord.gg/usjbzSyREe){:target="_blank"} |IndyCar Length Series |
+|[GT48c Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13930){:target="_blank"} | | |
+|[Metro Graphics iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13932){:target="_blank"} |[Discord](https://discord.gg/5WVQkbgwFc){:target="_blank"} |✅ Organized races  ✅ Fair and clean competition  ✅ Active community  ✅ Open to dedicated drivers of all experience levels   If you’re tired of random lobbies and want structured racing with people who care, we’d love to have you\. |
+|[Nexxus eSports \(NX\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13935){:target="_blank"} | |Practice Sessions / Testing / Mock Races / Setup Work / Messing Around |
+|[NM eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=13934){:target="_blank"} | |Liga de NM Racing |
+|[NY/NJ track rats](https://members.iracing.com/membersite/member/LeagueView.do?league=13931){:target="_blank"} | |local track guys who practice on sim off season |
 

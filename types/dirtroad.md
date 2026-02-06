@@ -11,7 +11,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------|--------|------|------|
 |[NASA Cross Car Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Masters 25A |36 |3758 |Both | | | | |
 |[NASA Cross Car Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Futures 25A |32 |2262 |Both | | | | |
-|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Cross Cars Season 1 |25 |2770 | | | | | |
+|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Cross Cars Season 1 |26 |2995 | | | | | |
 |[Team I5G Community Races](https://members.iracing.com/membersite/member/LeagueView.do?league=11885){:target="_blank"} |WORLD SUBATHON CHAMPIONSHIP |18 |2345 |Fixed | | | | |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Cross Car S1 |17 |1376 |Fixed | | | | |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |VRS \- FIA Cross Car Cup |12 |1379 | | | | | |
@@ -31,7 +31,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Midwest Outlaw County Fair Pro2 Lite Trucks |17 |1430 |Fixed | | | | |
-|[Montana iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7823){:target="_blank"} |2026 Off\-Road Season |15 |1521 |Fixed | | | | |
+|[Montana iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7823){:target="_blank"} |2026 Off\-Road Season |15 |1531 |Fixed | | | | |
 
 ### Pro 2 Truck
 
@@ -49,9 +49,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[Grit n' Glory Super Truck Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |23 |2492 |Fixed | | | | |
 |[PDRL Off Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7070){:target="_blank"} |PDRL Offroad S2 |19 |2357 | | | | | |
 |[Xtreme Off\-Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13274){:target="_blank"} |Xtreme Off\-Road Racing Season 1 |13 |1544 |Fixed | | | | |
-|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Trucks |11 |1355 |Fixed |Wild West Motorsports Park |Thu, February 05 09:20PM EST |Fri, February 06 02:20AM GMT |Fri, February 06 01:20PM AEDT |
+|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Trucks |11 |1351 |Fixed |Crandon International Raceway |Thu, February 12 08:25PM EST |Fri, February 13 01:25AM GMT |Fri, February 13 12:25PM AEDT |
 
