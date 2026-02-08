@@ -20,14 +20,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[SARA \- Sim Auto Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1080){:target="_blank"} |Contender Series \- 25/26 Season |123 |3995 |Open | | | | |
 |[SARA \- Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=363){:target="_blank"} |2025 National Tour |91 |4849 |Open | | | | |
 |[Northern Ohio Sim Racer Association](https://members.iracing.com/membersite/member/LeagueView.do?league=2797){:target="_blank"} |2025\-26 NOSRA Chargers |55 |1838 |Fixed | | | | |
 |[2025 5th Annual Elite Winter Derby](https://members.iracing.com/membersite/member/LeagueView.do?league=2326){:target="_blank"} |2025 Elite Winter Derby |46 |3176 |Fixed | | | | |
 |[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2025 Sunday Mini Stocks Winter Series |43 |1914 |Fixed | | | | |
 |[Midwest Winter Shootout Iracing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8151){:target="_blank"} |Midwest Winter Shootout |37 |1874 | | | | | |
-|[NHMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6669){:target="_blank"} |Snowball 2025 |36 |2108 |Fixed | | | | |
 |[Spec Mini Stock](https://members.iracing.com/membersite/member/LeagueView.do?league=11493){:target="_blank"} |Season 3 |33 |2636 |Fixed | | | | |
 |[Rolling Thunder Iracing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10476){:target="_blank"} |RTRL Season 2 |31 |2140 | | | | | |
 |[Northwest Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7783){:target="_blank"} |Season 5 |31 |1880 |Fixed | | | | |
@@ -40,6 +39,7 @@
 |[WCSTS world class short track series](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |WCSTS SEASON 2 |17 |1759 |Both | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |FTR Roller Derby |16 |1654 |Fixed |Bristol Motor Speedway |Tue, February 10 09:30PM EST |Wed, February 11 02:30AM GMT |Wed, February 11 01:30PM AEDT |
 |[WCSTS world class short track series](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |WCSTS SEASON 2\.0 |16 |1778 |Both | | | | |
+|[Golden Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13778){:target="_blank"} |Asphalt |15 |1629 |Open |USA International Speedway |Wed, February 11 08:00PM EST |Thu, February 12 01:00AM GMT |Thu, February 12 12:00PM AEDT |
 |[Fast Chair Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3064){:target="_blank"} |Mini Chair Series |14 |1600 | | | | | |
 
 ### Late Model Stock
@@ -47,10 +47,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------|----|-----|-----------------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Winter Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9161){:target="_blank"} |2025\-2026 Winter Challenge Series |70 |3458 | | | | | |
 |[MRL \- "The Icebreaker"](https://members.iracing.com/membersite/member/LeagueView.do?league=13734){:target="_blank"} |The Icebreaker |69 |2575 | | | | | |
-|[YESCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=11335){:target="_blank"} |Free2Fly Farm Hauling Late Model Stock Series Season 1 |58 |2121 |Fixed | | | | |
 |[Tater Chip Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7720){:target="_blank"} |Sweatts Concrete Late Model Stocks Season 4 |45 |1911 | | | | | |
 |[Xcelerate Racing League Monday](https://members.iracing.com/membersite/member/LeagueView.do?league=11467){:target="_blank"} |2025 Season 3 |44 |1673 | | | | | |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Season 11 Hometown Series Latemodels 9PM Est\. Andrew B Jones |43 |1623 |Both |Kevin Harvick's Kern Raceway |Wed, February 11 09:00PM EST |Thu, February 12 02:00AM GMT |Thu, February 12 01:00PM AEDT |
@@ -67,38 +66,37 @@
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |D3 \- DIVISION AMATEURS LMS PBSOFT\.CA |34 |1458 |Fixed |Okayama International Circuit |Wed, February 11 06:30PM EST |Wed, February 11 11:30PM GMT |Thu, February 12 10:30AM AEDT |
 |[Gosscars\.com iACT Winter Warm Up Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9462){:target="_blank"} |2026 iACT Series |34 |2691 | |Thompson Speedway Motorsports Park |Mon, February 09 07:00PM EST |Tue, February 10 12:00AM GMT |Tue, February 10 11:00AM AEDT |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Late Model Stock Winter Season 2025 |33 |1800 |Fixed | | | | |
+|[MRL \| Misfit Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11109){:target="_blank"} |Season 3 |33 |4228 |Open | | | | |
 |[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Monday Late Model Stock Season 4 |33 |1778 | |Five Flags Speedway |Mon, February 09 07:30PM EST |Tue, February 10 12:30AM GMT |Tue, February 10 11:30AM AEDT |
-|[MRL \| Misfit Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11109){:target="_blank"} |Season 3 |32 |4233 |Open |Bristol Motor Speedway |Sat, February 07 07:30PM EST |Sun, February 08 12:30AM GMT |Sun, February 08 11:30AM AEDT |
-|[2025 BSP/OSR Winter\-Meltdown Latemodel Stock Series\.](https://members.iracing.com/membersite/member/LeagueView.do?league=7873){:target="_blank"} |Winter Meltdown Series |31 |2351 | | | | | |
+|[2025 BSP/OSR Winter\-Meltdown Latemodel Stock Series\.](https://members.iracing.com/membersite/member/LeagueView.do?league=7873){:target="_blank"} |Winter Meltdown Series |32 |2333 | | | | | |
 |[Slingshot Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=5815){:target="_blank"} |2026 Late Model Tour |31 |2341 |Fixed |New Smyrna Speedway |Mon, February 09 08:00PM EST |Tue, February 10 01:00AM GMT |Tue, February 10 12:00PM AEDT |
 |[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S32 |30 |1970 |Fixed | | | | |
-|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 5 |30 |1859 |Fixed | | | | |
+|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 5 |30 |1859 |Fixed |Martinsville Speedway |Sun, February 15 07:45PM EST |Mon, February 16 12:45AM GMT |Mon, February 16 11:45AM AEDT |
 |[Pro American Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9011){:target="_blank"} |Season 7 |30 |2405 |Fixed | | | | |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Models S12 |29 |2330 |Fixed | | | | |
 |[FALCONGRAFIX Tuesday Night Lights Mini Stocks powered by EFRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6409){:target="_blank"} |Falcon Grafix Late Model Series |29 |2031 | | | | | |
 |[CB Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=13549){:target="_blank"} |CB LMSC Season 1 |29 |2017 | | | | | |
 |[Lead Foot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11831){:target="_blank"} |LFRL Late Model Stock Tour Season 5 National Division |28 |2620 |Fixed | | | | |
 |[SFR LMS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13663){:target="_blank"} |LMS |28 |2427 | |Hickory Motor Speedway |Tue, February 10 06:29PM EST |Tue, February 10 11:29PM GMT |Wed, February 11 10:29AM AEDT |
+|[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S33 |27 |1992 |Fixed | | | | |
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Wild Wednesday on Asphalt \- Season 3 |27 |1463 |Fixed | | | | |
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Racing Late Models Season 54 |26 |2256 |Both |Myrtle Beach Speedway |Sun, February 08 07:30PM EST |Mon, February 09 12:30AM GMT |Mon, February 09 11:30AM AEDT |
-|[Knottical Marine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11510){:target="_blank"} |LMSC Contender Series |26 |1973 | | | | | |
-|[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S33 |26 |2013 |Fixed |Myrtle Beach Speedway |Sat, February 07 08:35PM EST |Sun, February 08 01:35AM GMT |Sun, February 08 12:35PM AEDT |
+|[Knottical Marine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11510){:target="_blank"} |LMSC Contender Series |26 |1963 | | | | | |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Models S13 |26 |1826 |Fixed | | | | |
 |[Trans\-Am International Tribute Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5091){:target="_blank"} |TAInTS \- Season 1 |24 |2003 |Fixed | | | | |
 |[At The Checkered iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11789){:target="_blank"} |ATC Late Model Season 2 |23 |1744 |Fixed |Bristol Motor Speedway |Mon, October 13 10:30PM EDT |Tue, October 14 03:30AM BST |Tue, October 14 01:30PM AEDT |
 |[Lead Foot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11831){:target="_blank"} |LFRL Late Model Stock Tour Season 5 American Division |22 |2302 |Fixed | | | | |
 |[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HRT2HEART MOTORSPORTS LATE MODEL STOCK |18 |1697 |Fixed | | | | |
 |[Quarter Clear Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10932){:target="_blank"} |KM Late Models |18 |2105 | | | | | |
-|[The EBAA Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9626){:target="_blank"} |Fall 2025 Late Model Stocks |16 |1694 | | | | | |
 |[crash test dummies](https://members.iracing.com/membersite/member/LeagueView.do?league=13346){:target="_blank"} |lm stocks |16 |1168 |Fixed |Thompson Speedway Motorsports Park |Sun, January 04 06:00PM EST |Sun, January 04 11:00PM GMT |Mon, January 05 10:00AM AEDT |
 |[Northeast LMS Winter Leauge](https://members.iracing.com/membersite/member/LeagueView.do?league=13451){:target="_blank"} |Season 1 |15 |2042 | | | | | |
+|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |LMS SEASON 2 |15 |2272 |Both | | | | |
 |[CASH CLOWNS](https://members.iracing.com/membersite/member/LeagueView.do?league=7169){:target="_blank"} |SEASON 3 |14 |1793 | | | | | |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Exhibition Late Model Stock Car Series Season 1 |14 |1362 |Fixed | | | | |
 |[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=12340){:target="_blank"} |Late Models\- Season 3 |14 |1672 | | | | | |
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The  Gang Winter Late Model League |14 |1768 | |Lanier National Speedway |Sun, February 08 07:00PM EST |Mon, February 09 12:00AM GMT |Mon, February 09 11:00AM AEDT |
 |[Roarin' Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1674){:target="_blank"} |Calibra CPA Monday Night Thunder Season 11 |13 |1697 |Both |South Boston Speedway |Mon, February 09 08:00PM EST |Tue, February 10 01:00AM GMT |Tue, February 10 12:00PM AEDT |
 |[Bentaxle SIm Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11191){:target="_blank"} |Bentaxle Sim Racing League LMSC Season 1 |13 |1556 | |Stafford Motor Speedway |Thu, February 12 08:00PM EST |Fri, February 13 01:00AM GMT |Fri, February 13 12:00PM AEDT |
-|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |LMS SEASON 2 |13 |2454 |Both |Lucas Oil Indianapolis Raceway Park |Sat, February 07 08:00PM EST |Sun, February 08 01:00AM GMT |Sun, February 08 12:00PM AEDT |
 |[THURSDAY NIGHT THUNDER](https://members.iracing.com/membersite/member/LeagueView.do?league=4968){:target="_blank"} |LATE MODEL \- SEASON 3 |12 |1731 | | | | | |
 |[Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13441){:target="_blank"} |Arl Late Model Stock |12 |1623 |Fixed | | | | |
 |[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9598){:target="_blank"} |2026 LMSC series |11 |1592 |Fixed | | | | |
@@ -117,7 +115,7 @@
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A Supercar Supports \- O\-Z Legneds |38 |2585 |Both |Shell V-Power Motorsport Park at The Bend |Wed, February 11 02:35AM EST |Wed, February 11 07:35AM GMT |Wed, February 11 06:35PM AEDT |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 6 |29 |2275 |Fixed | | | | |
 |[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Friday Legends Season 1 |29 |1722 | |Bristol Motor Speedway |Fri, February 13 07:30PM EST |Sat, February 14 12:30AM GMT |Sat, February 14 11:30AM AEDT |
-|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |S17\-Fire and Ice |27 |1988 | |The Bullring |Sat, February 07 09:30AM EST |Sat, February 07 02:30PM GMT |Sun, February 08 01:30AM AEDT |
+|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |S17\-Fire and Ice |27 |1975 | | | | | |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 7 |25 |2216 |Fixed | | | | |
 |[Knottical Marine Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11510){:target="_blank"} |2026 Rookie Legend |23 |2102 | | | | | |
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Legends Gang |18 |1870 | | | | | |
@@ -137,7 +135,6 @@
 |[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Carolina Mini Stock Series |19 |1904 |Both | | | | |
 |[SBG Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5575){:target="_blank"} |Mini\-Stock Experience \- Season\#01 |17 |2395 |Fixed | | | | |
 |[Danger Zone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11066){:target="_blank"} |DZRL Short Oval Minis |17 |2133 |Fixed | | | | |
-|[Golden Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13778){:target="_blank"} |Asphalt |15 |1629 |Open | | | | |
 |[THURSDAY NIGHT THUNDER](https://members.iracing.com/membersite/member/LeagueView.do?league=4968){:target="_blank"} |MINI STOCK \- SEASON 3 |12 |1637 | | | | | |
 |[FALCONGRAFIX Tuesday Night Lights Mini Stocks powered by EFRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6409){:target="_blank"} |Season 8 Mini Stocks |11 |2184 | |Slinger Speedway |Tue, February 10 09:28PM EST |Wed, February 11 02:28AM GMT |Wed, February 11 01:28PM AEDT |
 
@@ -221,7 +218,6 @@
 |[OutCast Motorsports Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13233){:target="_blank"} |OutCast Super Late Series |31 |1962 | | | | | |
 |[All\-Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |DC Designs Super Late Model series |26 |2014 |Fixed | | | | |
 |[BRL SteelCraft Structures Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S26 |23 |2098 |Fixed | | | | |
-|[Slingshot Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8466){:target="_blank"} |SRL Short Track Championship Season 1 |19 |2622 | | | | | |
 |[Michiana Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7878){:target="_blank"} |MSSs1 |18 |2110 | | | | | |
 |[WHR Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13502){:target="_blank"} |Short Track Season 1 |18 |2588 | | | | | |
 |[SoBo Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=12356){:target="_blank"} |Season 4 |10 |1349 | | | | | |
