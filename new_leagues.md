@@ -8,7 +8,6 @@
 |[SimHub Race Lounge Porsche Cup Tuesday League](https://members.iracing.com/membersite/member/LeagueView.do?league=13874){:target="_blank"} | | |
 |[Weeknight Shinaigains](https://members.iracing.com/membersite/member/LeagueView.do?league=13878){:target="_blank"} | | |
 |[Wreckers or Checkers](https://members.iracing.com/membersite/member/LeagueView.do?league=13871){:target="_blank"} | | |
-|[YCD Short Track Super Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13866){:target="_blank"} |[Discord](https://discord.gg/KJ7rUTn){:target="_blank"} |YCD STSS is the stepping stone series to BRL and PGR |
 |[F1ying Circus](https://members.iracing.com/membersite/member/LeagueView.do?league=13869){:target="_blank"} | | |
 |[Fast Lane Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13868){:target="_blank"} |[Discord](https://discord.gg/CKgjbZQEF9){:target="_blank"} |50 & Up Seniors\-Short Track Racing\. Discord Link https://discord\.gg/CKgjbZQEF9 |
 |[Racing Team with a Drinking Problem](https://members.iracing.com/membersite/member/LeagueView.do?league=13876){:target="_blank"} | |Team Lemoktoberfest Practice League |
@@ -80,4 +79,8 @@
 |[ORL](https://members.iracing.com/membersite/member/LeagueView.do?league=13945){:target="_blank"} | |Online Race League |
 |[U\.S\.O\.R\.A United States Online Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=13948){:target="_blank"} | | |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13944){:target="_blank"} | | |
+|[LARL O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13951){:target="_blank"} |[Discord](https://discord.gg/PY5Vmn6Tmu){:target="_blank"} |Literally just a racing league\. A basic, barebones organization of hardcore racers that want to cut to the chase\. Join the discord\! https://discord\.gg/PY5Vmn6Tmu |
+|[MotorHeads](https://members.iracing.com/membersite/member/LeagueView.do?league=13952){:target="_blank"} | |Friends |
+|[GT3 / GTP Masters Series by STK Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13950){:target="_blank"} | |Racing with GT3 and GTP |
+|[Unsafe Rejoin](https://members.iracing.com/membersite/member/LeagueView.do?league=13953){:target="_blank"} | | |
 

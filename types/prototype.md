@@ -9,7 +9,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------|----|-----|-------------------|----------------------------|----------------------------|-----------------------------|
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Silverstone Circuit |Sun, February 08 01:00PM EST |Sun, February 08 06:00PM GMT |Mon, February 09 05:00AM AEDT |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Silverstone Circuit |Mon, February 09 01:00PM EST |Mon, February 09 06:00PM GMT |Tue, February 10 05:00AM AEDT |
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |38 |2378 |Fixed |Silverstone Circuit |Thu, February 12 12:30PM EST |Thu, February 12 05:30PM GMT |Fri, February 13 04:30AM AEDT |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |2026 Worn Out Racers 2\.4 hours of Daytona \- January 4th |31 |1377 |Fixed | | | | |
 
@@ -39,8 +39,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------|--------|------|------|
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |LMP3 Trophy 2025\-2026 |26 |2026 |Open | | | | |
+|-------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |LMP3 Trophy 2025\-2026 |26 |2026 |Open |Nürburgring Grand-Prix-Strecke |Mon, February 16 12:30PM EST |Mon, February 16 05:30PM GMT |Tue, February 17 04:30AM AEDT |
 |[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP3 Challenge Season 2 |22 |2095 |Both | | | | |
 
 ### Radical SR10
@@ -58,13 +58,14 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |28 |1986 | |Suzuka International Racing Course |Sun, February 08 12:30PM EST |Sun, February 08 05:30PM GMT |Mon, February 09 04:30AM AEDT |
+|[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |29 |1969 | | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 6 new |27 |2913 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |25 |2603 |Both |Adelaide Street Circuit |Tue, February 10 02:48AM EST |Tue, February 10 07:48AM GMT |Tue, February 10 06:48PM AEDT |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Racing Season 3\.1 |23 |2292 |Fixed | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |17 |2810 | |Willow Springs International Raceway |Mon, February 09 02:50PM EST |Mon, February 09 07:50PM GMT |Tue, February 10 06:50AM AEDT |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |13 |1952 | | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Wild Races |13 |None | | | | | |
+|[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |13 |None | |Okayama International Circuit |Sun, February 15 01:00PM EST |Sun, February 15 06:00PM GMT |Mon, February 16 05:00AM AEDT |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 4\.1 |10 |2338 |Fixed |Road Atlanta |Fri, February 13 08:30PM EST |Sat, February 14 01:30AM GMT |Sat, February 14 12:30PM AEDT |
 
 ### Riley Daytona Prototype
@@ -80,9 +81,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|---------------------|----------------------------|----------------------------|-----------------------------|
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Pre\-Qualifying |132 |1757 | | | | | |
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S1 WW SRF |66 |3106 |Open |Circuit de Barcelona Catalunya |Sun, February 08 01:40PM EST |Sun, February 08 06:40PM GMT |Mon, February 09 05:40AM AEDT |
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S1 WW SRF |69 |3172 |Open |Chicago Street Course |Sun, February 15 01:40PM EST |Sun, February 15 06:40PM GMT |Mon, February 16 05:40AM AEDT |
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 1 |43 |2893 | | | | | |
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 2 |38 |1905 | | | | | |
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 3 |34 |1605 | | | | | |
