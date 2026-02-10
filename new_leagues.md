@@ -2,14 +2,10 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Bowtiemotors](https://members.iracing.com/membersite/member/LeagueView.do?league=13870){:target="_blank"} | |Liga Argentina Oficial Bowtiemotors |
 |[Redline Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13875){:target="_blank"} |[Discord](https://discord.gg/5RvQAqDQqA){:target="_blank"} |🏁 League Philosophy  Fun first\. Respect always\. Competitive when it counts\.  The goal is to race hard, keep it clean, and make sure everyone wants to come back next week\. |
 |[Rhythm Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=13877){:target="_blank"} |[Discord](https://discord.gg/DQceB79Q49){:target="_blank"} |Nascar Xfinity league\. Here to have fun, learn, and be competittive |
 |[SimHub Race Lounge Porsche Cup Tuesday League](https://members.iracing.com/membersite/member/LeagueView.do?league=13874){:target="_blank"} | | |
 |[Weeknight Shinaigains](https://members.iracing.com/membersite/member/LeagueView.do?league=13878){:target="_blank"} | | |
-|[Wreckers or Checkers](https://members.iracing.com/membersite/member/LeagueView.do?league=13871){:target="_blank"} | | |
-|[F1ying Circus](https://members.iracing.com/membersite/member/LeagueView.do?league=13869){:target="_blank"} | | |
-|[Fast Lane Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13868){:target="_blank"} |[Discord](https://discord.gg/CKgjbZQEF9){:target="_blank"} |50 & Up Seniors\-Short Track Racing\. Discord Link https://discord\.gg/CKgjbZQEF9 |
 |[Racing Team with a Drinking Problem](https://members.iracing.com/membersite/member/LeagueView.do?league=13876){:target="_blank"} | |Team Lemoktoberfest Practice League |
 |[Virtual Formula Oval Series \[VFOS\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13873){:target="_blank"} | |Only Oval, Open on Friday 10:00 p\.m\. UTC\+9\. Details is our website, You must join our Discord if you participate This league\. |
 |[2026 Team America Talent Scouting events](https://members.iracing.com/membersite/member/LeagueView.do?league=13879){:target="_blank"} | |Get ready to rev your engines because the search for America’s next racing superstar kicks off right here\! In 2026, we’re taking talent and speed to exhilarating new heights with Team America Talent Scout Events across all forms of racing\. Whether you're behind the wheel or cheering from the sidelines, this is your golden opportunity to witness the emergence of the next generation of sim racing legends\! |
@@ -49,7 +45,7 @@
 |[USORL Grand National Lites Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13918){:target="_blank"} | | |
 |[Wright Time Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=13917){:target="_blank"} | |Wright Time Season 1 presented by T\. Elliot |
 |[MPI Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13915){:target="_blank"} | | |
-|[Burnout's Racing Garage League](https://members.iracing.com/membersite/member/LeagueView.do?league=13921){:target="_blank"} |[Discord](https://discord.gg/fN9HbV8297){:target="_blank"} |We are doing test season\. Recruiting new members\. |
+|[Burnout's Racing Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=13921){:target="_blank"} |[Discord](https://discord.gg/fN9HbV8297){:target="_blank"} |We are doing test season\. Recruiting new members\. Fixed setups, free tracks and cars only\. |
 |[Checkered Flag Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13925){:target="_blank"} |[Discord](https://discord.gg/MVP2MgsQCd){:target="_blank"} | |
 |[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} | |Official iRacing League for members of DriVR Motorsports Lethbridge\. |
 |[Elbows Out Racing IMSA Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=13920){:target="_blank"} |[Discord](https://discord.gg/elbowsoutracing){:target="_blank"} |Registration is required for invitation, limited space is available each season\! Join our discord below to sign up\! |
@@ -83,4 +79,5 @@
 |[MotorHeads](https://members.iracing.com/membersite/member/LeagueView.do?league=13952){:target="_blank"} | |Friends |
 |[GT3 / GTP Masters Series by STK Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13950){:target="_blank"} | |Racing with GT3 and GTP |
 |[Unsafe Rejoin](https://members.iracing.com/membersite/member/LeagueView.do?league=13953){:target="_blank"} | | |
+|[TMR \- VRL](https://members.iracing.com/membersite/member/LeagueView.do?league=13954){:target="_blank"} | | |
 
