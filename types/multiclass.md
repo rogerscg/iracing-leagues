@@ -15,7 +15,7 @@
 |[IFF ESPORT GT3 PRO LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=12780){:target="_blank"} |GT SPRINT SEASON |72 |2410 |Open |Virginia International Raceway |Mon, February 16 02:30PM EST |Mon, February 16 07:30PM GMT |Tue, February 17 06:30AM AEDT |
 |[CAS\-GT3 World Championship Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=9707){:target="_blank"} |GT3 World Championship Tour \(Season 11\) |69 |2151 |Open |Virginia International Raceway |Tue, February 17 12:00PM EST |Tue, February 17 05:00PM GMT |Wed, February 18 04:00AM AEDT |
 |[Magyarok \- Real Fast Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=12203){:target="_blank"} |GT3 Bajnokság |68 |2140 |Open | | | | |
-|[Compétitions GOFiR](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |CFS pre\-qualifications |66 |None |Open |Silverstone Circuit |Fri, February 13 12:00PM EST |Fri, February 13 05:00PM GMT |Sat, February 14 04:00AM AEDT |
+|[Compétitions GOFiR](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |CFS pre\-qualifications |66 |None |Open |Silverstone Circuit |Sat, February 14 12:00PM EST |Sat, February 14 05:00PM GMT |Sun, February 15 04:00AM AEDT |
 |[OGRL Sunday Coffee Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10244){:target="_blank"} |Coffee Cup Season 5 2025\-2026 |63 |1731 | |Mount Panorama Circuit |Sun, February 15 07:30AM EST |Sun, February 15 12:30PM GMT |Sun, February 15 11:30PM AEDT |
 |[SRi Thursday GT3 \- A\-Split \- Season 11](https://members.iracing.com/membersite/member/LeagueView.do?league=9806){:target="_blank"} |SRi Thursday GT3 \- Season 11 \- A Split |63 |2717 | |Mount Panorama Circuit |Thu, February 19 02:00PM EST |Thu, February 19 07:00PM GMT |Fri, February 20 06:00AM AEDT |
 |[GT3 Xperience by BavarianSimTec](https://members.iracing.com/membersite/member/LeagueView.do?league=13425){:target="_blank"} |Season I |62 |2654 |Open | | | | |
@@ -38,7 +38,7 @@
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2026/1 |47 |1733 | | | | | |
 |[Braking Bad: Push N\` Limits GT3\`s](https://members.iracing.com/membersite/member/LeagueView.do?league=13106){:target="_blank"} |Push N' Limits Season 1 |46 |1338 | | | | | |
 |[Degenerate Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=11156){:target="_blank"} |DRL GT3 Season 3 |46 |1952 |Open |Oran Park Raceway |Mon, February 16 09:00PM EST |Tue, February 17 02:00AM GMT |Tue, February 17 01:00PM AEDT |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 37 \- GT3 |46 |1599 |Fixed |WeatherTech Raceway at Laguna Seca |Fri, February 13 02:00PM EST |Fri, February 13 07:00PM GMT |Sat, February 14 06:00AM AEDT |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 37 \- GT3 |46 |1602 |Fixed |Miami International Autodrome |Fri, February 20 02:00PM EST |Fri, February 20 07:00PM GMT |Sat, February 21 06:00AM AEDT |
 |[GoFAST Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12501){:target="_blank"} |GT3 Sprint Shootout Season 2 |46 |1804 |Open |Virginia International Raceway |Mon, February 16 06:15PM EST |Mon, February 16 11:15PM GMT |Tue, February 17 10:15AM AEDT |
 |[TIME TO RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=12428){:target="_blank"} |TTR GT3 2025 |45 |2467 | | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |GT Series Season 14 |45 |1774 |Fixed |Autódromo José Carlos Pace |Thu, February 19 08:30PM EST |Fri, February 20 01:30AM GMT |Fri, February 20 12:30PM AEDT |
@@ -54,7 +54,6 @@
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |DHRL GTD Season 8 |40 |1833 |Both |Road America |Sun, February 15 07:30PM EST |Mon, February 16 12:30AM GMT |Mon, February 16 11:30AM AEDT |
 |[Dark Wing Racing Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12507){:target="_blank"} |DWREC Season 1 |40 |2400 |Open |Mount Panorama Circuit |Sun, February 15 11:30AM EST |Sun, February 15 04:30PM GMT |Mon, February 16 03:30AM AEDT |
 |[GSRC\.inc GT3 Am Split \- Waste Options](https://members.iracing.com/membersite/member/LeagueView.do?league=5306){:target="_blank"} |2026A GT3 Am Series \- Waste Options |40 |1539 | |Adelaide Street Circuit |Mon, February 16 03:55AM EST |Mon, February 16 08:55AM GMT |Mon, February 16 07:55PM AEDT |
-|[EGT Canada \- GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10487){:target="_blank"} |S12 GT3 Pratique officielle \(2025\) |39 |None | | | | | |
 |[GT3 for not so serious](https://members.iracing.com/membersite/member/LeagueView.do?league=3953){:target="_blank"} |2026 Season 1 |39 |1757 |Open |Virginia International Raceway |Sun, February 15 10:30AM EST |Sun, February 15 03:30PM GMT |Mon, February 16 02:30AM AEDT |
 |[Rookie Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11570){:target="_blank"} |Rookie Touring Masters \#1 \| 2025 |38 |1743 |Open | | | | |
 |[CSC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12596){:target="_blank"} |Season 4 |38 |1854 |Fixed |Circuit de Spa-Francorchamps |Sun, February 15 12:30PM EST |Sun, February 15 05:30PM GMT |Mon, February 16 04:30AM AEDT |
@@ -95,12 +94,13 @@
 |[Skid Mark Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10396){:target="_blank"} |Special Event Sparing |15 |1987 |Fixed | | | | |
 |[Gunfire Games Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4863){:target="_blank"} |2025 S4 FALL |13 |2089 | | | | | |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} |gt3 lets gooo\!\!\!\!\!\!\! |13 |1359 | | | | | |
-|[Academy Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4297){:target="_blank"} |2026 Academy Sim GT3 Winter Season |12 |1349 |Both |Road Atlanta |Fri, February 13 06:45PM EST |Fri, February 13 11:45PM GMT |Sat, February 14 10:45AM AEDT |
+|[Academy Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4297){:target="_blank"} |2026 Academy Sim GT3 Winter Season |13 |1366 |Both |Circuit des 24 Heures du Mans |Fri, February 20 06:45PM EST |Fri, February 20 11:45PM GMT |Sat, February 21 10:45AM AEDT |
+|[GHD Ü40 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=9049){:target="_blank"} |GHD Ü40 CUP SAISON 8 |13 |None |Open |Motorsport Arena Oschersleben |Mon, February 16 01:00PM EST |Mon, February 16 06:00PM GMT |Tue, February 17 05:00AM AEDT |
 |[Academy Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4297){:target="_blank"} |Academy Sim Friday 3 Week Season |11 |1628 |Both | | | | |
-|[ALPHA ONE RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11865){:target="_blank"} |NPX GT3 Series Season One |11 |1594 |Both |Autodromo Nazionale Monza |Fri, February 13 08:00PM EST |Sat, February 14 01:00AM GMT |Sat, February 14 12:00PM AEDT |
+|[ALPHA ONE RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11865){:target="_blank"} |NPX GT3 Series Season One |11 |1594 |Both |Road America |Fri, February 20 08:00PM EST |Sat, February 21 01:00AM GMT |Sat, February 21 12:00PM AEDT |
+|[24 Hour Karty People](https://members.iracing.com/membersite/member/LeagueView.do?league=12875){:target="_blank"} |Winter League 2026 |11 |1848 | |Virginia International Raceway |Sun, February 15 08:00PM EST |Mon, February 16 01:00AM GMT |Mon, February 16 12:00PM AEDT |
 |[\# ERL Sim Racing \#](https://members.iracing.com/membersite/member/LeagueView.do?league=3185){:target="_blank"} |Boxing Day 2025 |10 |1715 |Open | | | | |
 |[Sim Racing Chicago Community Event](https://members.iracing.com/membersite/member/LeagueView.do?league=12814){:target="_blank"} |South Barrington GT3 League Jan\.2026 |10 |1349 | | | | | |
-|[24 Hour Karty People](https://members.iracing.com/membersite/member/LeagueView.do?league=12875){:target="_blank"} |Winter League 2026 |10 |1848 | | | | | |
 
 ### Hosted All Cars Class
 
@@ -112,10 +112,9 @@
 |[V8 Veterans Season 26](https://members.iracing.com/membersite/member/LeagueView.do?league=6788){:target="_blank"} |Season 26 |203 |2014 | |Suzuka International Racing Course |Thu, February 19 03:31AM EST |Thu, February 19 08:31AM GMT |Thu, February 19 07:31PM AEDT |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |TRENINGI |118 |2501 |Both | | | | |
 |[Azz Tech Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11528){:target="_blank"} |ATRL ES S2 |113 |2912 |Both | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 358 DIRT MODS |110 |2493 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 358 DIRT MODS |110 |2493 |Open |USA International Speedway |Thu, February 19 06:30PM EST |Thu, February 19 11:30PM GMT |Fri, February 20 10:30AM AEDT |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |STONECOLD RACING POP\-UP EVENTS |105 |1415 | | | | | |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |Practice and Special Events |104 |2264 |Both | | | | |
-|[PRI Hoosier 500 Mile Race](https://members.iracing.com/membersite/member/LeagueView.do?league=3477){:target="_blank"} |2025 |101 |None | | | | | |
 |[NXTGEN NXTCC CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=5820){:target="_blank"} |Season 10 Test Lobby |96 |2703 |Fixed | | | | |
 |[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |Qualifying/Misc Races |94 |4215 |Open | | | | |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |Road 2026 |93 |2140 | | | | | |
@@ -126,31 +125,28 @@
 |[Elbows Out Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9914){:target="_blank"} |IMSA Series // 2026 Season 1 |80 |1983 |Open |Autodromo Internazionale Enzo e Dino Ferrari |Wed, February 18 08:00PM EST |Thu, February 19 01:00AM GMT |Thu, February 19 12:00PM AEDT |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |F4 off camber |80 |2216 | |Rudskogen Motorsenter |Wed, February 04 01:00PM EST |Wed, February 04 06:00PM GMT |Thu, February 05 05:00AM AEDT |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 37 \- Practice Sessions |79 |954 |Fixed |Fuji International Speedway |Sat, February 14 02:00PM EST |Sat, February 14 07:00PM GMT |Sun, February 15 06:00AM AEDT |
-|[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |V8 Supercars Gen 3     SEASON 6 |79 |1534 |Both | | | | |
 |[SRi GTE Championship Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |AGTC Season 1 |78 |2421 | | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S16 WCR Sports Car Extravaganza presented by Rdoks |78 |2388 |Open |Miami International Autodrome |Tue, January 27 09:00PM EST |Wed, January 28 02:00AM GMT |Wed, January 28 01:00PM AEDT |
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |Trucks Season 5 |77 |1632 |Fixed |Phoenix Raceway |Sat, February 14 06:00PM EST |Sat, February 14 11:00PM GMT |Sun, February 15 10:00AM AEDT |
 |[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |OBRL Exhibition Races |76 |1516 |Fixed |Daytona International Speedway |Sat, February 14 01:00PM EST |Sat, February 14 06:00PM GMT |Sun, February 15 05:00AM AEDT |
-|[PREMIER ENDURANCE LEAGUE \- GT3 LIMITED](https://members.iracing.com/membersite/member/LeagueView.do?league=10288){:target="_blank"} |DASH OFFROAD GT3 LIMITED ENDURANCE SERIES |75 |2015 |Open | | | | |
-|[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2025 ARCA Season |74 |1692 |Fixed | | | | |
 |[STARS & STRIPES Season 12](https://members.iracing.com/membersite/member/LeagueView.do?league=4804){:target="_blank"} |Stars & Stripes Racing League |73 |2619 | |Charlotte Motor Speedway  |Tue, February 17 08:30PM EST |Wed, February 18 01:30AM GMT |Wed, February 18 12:30PM AEDT |
-|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |irpas practice |73 |2041 |Both |Canadian Tire Motorsports Park |Fri, February 13 01:00PM EST |Fri, February 13 06:00PM GMT |Sat, February 14 05:00AM AEDT |
+|[International Racers Pro Am Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11829){:target="_blank"} |irpas practice |73 |2041 |Both |Canadian Tire Motorsports Park |Sat, February 14 10:00AM EST |Sat, February 14 03:00PM GMT |Sun, February 15 02:00AM AEDT |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |GT Cup Season 2 |70 |2544 |Both |Sebring International Raceway |Thu, February 19 02:00PM EST |Thu, February 19 07:00PM GMT |Fri, February 20 06:00AM AEDT |
-|[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Friday Fun Series Mixed |69 |2047 |Fixed | | | | |
+|[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Friday Fun Series Mixed |69 |2069 |Fixed | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |All Motor Racing Super Late Model S1 |69 |2381 |Fixed |Oswego Speedway |Wed, February 18 08:30PM EST |Thu, February 19 01:30AM GMT |Thu, February 19 12:30PM AEDT |
 |[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2026 Season 1 |69 |2170 |Open | | | | |
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |Special Events |68 |2173 |Fixed | | | | |
 |[PCA \- 2026 Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |PCA \- Arrive & Drive |68 |1761 | | | | | |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |Domains2U MCV8's \- Season 3 |68 |2702 |Fixed | | | | |
-|[Motor City Racing IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13533){:target="_blank"} |Season 5 |67 |2017 | |Road Atlanta |Fri, February 13 07:00PM EST |Sat, February 14 12:00AM GMT |Sat, February 14 11:00AM AEDT |
+|[Motor City Racing IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13533){:target="_blank"} |Season 5 |67 |2017 | |Road Atlanta |Sat, February 14 07:00PM EST |Sun, February 15 12:00AM GMT |Sun, February 15 11:00AM AEDT |
 |[Simunation Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11242){:target="_blank"} |Funrace |66 |1915 |Both | | | | |
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |Practice Races |66 |2095 | | | | | |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |Practice Races |66 |2101 | | | | | |
 |[Ultimate GT Championship 26'](https://members.iracing.com/membersite/member/LeagueView.do?league=13150){:target="_blank"} |Ultimate GT Championship S1 |66 |1702 |Both |Autódromo José Carlos Pace |Wed, February 18 07:30PM EST |Thu, February 19 12:30AM GMT |Thu, February 19 11:30AM AEDT |
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |DIVISION OPEN LÉGENDES MC PERFORMANCE |66 |1461 |Fixed |USA International Speedway |Wed, February 18 06:15PM EST |Wed, February 18 11:15PM GMT |Thu, February 19 10:15AM AEDT |
 |[PGR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=8087){:target="_blank"} |Sunday Funday |66 |2778 | | | | | |
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |DHRL \- Fun Races |65 |1976 |Both | | | | |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S16 WCRSA |65 |2372 |Open |Watkins Glen International |Wed, January 28 09:00PM EST |Thu, January 29 02:00AM GMT |Thu, January 29 01:00PM AEDT |
-|[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |GT3 Challenge \*\* Season 3 \*\* |65 |1978 |Both | | | | |
+|[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |GT3 Challenge \*\* Season 3 \*\* |65 |1978 |Both |Watkins Glen International |Tue, February 17 02:59AM EST |Tue, February 17 07:59AM GMT |Tue, February 17 06:59PM AEDT |
 |[CAS \- International Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9896){:target="_blank"} |International Endurance Championship \(Season 3\) |64 |2301 |Open |Autodromo Internazionale Enzo e Dino Ferrari |Sat, February 14 12:00PM EST |Sat, February 14 05:00PM GMT |Sun, February 15 04:00AM AEDT |
 |[GT Challenge S3 25'](https://members.iracing.com/membersite/member/LeagueView.do?league=12719){:target="_blank"} |GT Challenge Season 3 |64 |1755 |Fixed | | | | |
 |[NASA Texas & Scott Adams Driver Development](https://members.iracing.com/membersite/member/LeagueView.do?league=13023){:target="_blank"} |NASA TX \+ SADD 2026 |64 |1953 |Open |Road Atlanta |Mon, February 16 03:00PM EST |Mon, February 16 08:00PM GMT |Tue, February 17 07:00AM AEDT |
@@ -183,9 +179,10 @@
 |[ADAC SimRacing Cup \- Clubsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10120){:target="_blank"} |2025 |54 |1588 |Fixed | | | | |
 |[Dirt Track Junkies](https://members.iracing.com/membersite/member/LeagueView.do?league=13031){:target="_blank"} |Dirt Track Junkies Season 1 |54 |1775 |Fixed | | | | |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |GT3 Espresso Cup \(Coffee Cup Mirror\) |54 |1469 |Both | | | | |
-|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 7 |54 |2070 | |Suzuka International Racing Course |Fri, February 13 01:00AM EST |Fri, February 13 06:00AM GMT |Fri, February 13 05:00PM AEDT |
+|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 7 |54 |2070 | |Suzuka International Racing Course |Sat, February 14 01:00AM EST |Sat, February 14 06:00AM GMT |Sat, February 14 05:00PM AEDT |
 |[Track Limits Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10180){:target="_blank"} |2026 Season 1 Practice Lobbies |54 |None |Open | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Tuesday night season 26 |53 |1373 | | | | | |
+|[BPRL Momentum Sportscar Challenge \- Full Throttle Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |Season 1 \- Americas Tour |53 |1805 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- FUN RUN |52 |2058 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- GT3 |52 |1487 |Open |Oran Park Raceway |Sun, February 15 08:00PM EST |Mon, February 16 01:00AM GMT |Mon, February 16 12:00PM AEDT |
 |[Logitech G V8PRO Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8323){:target="_blank"} |2026 V8PRO \- QUALIFYING SERIES |52 |4486 | | | | | |
@@ -194,7 +191,6 @@
 |[NASA Texas & Scott Adams Driver Development](https://members.iracing.com/membersite/member/LeagueView.do?league=13023){:target="_blank"} |NASA TX \+ SADD 2025 |51 |1552 |Open | | | | |
 |[GRIDMATES \- Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7592){:target="_blank"} |Sprint Training |51 |None | | | | | |
 |[Magyarok \- Real Fast Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=12203){:target="_blank"} |Ötödik vegyes bajnokság |51 |2092 |Open |Lime Rock Park |Tue, February 17 10:30AM EST |Tue, February 17 03:30PM GMT |Wed, February 18 02:30AM AEDT |
-|[BPRL Momentum Sportscar Challenge \- Full Throttle Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=12233){:target="_blank"} |Season 1 \- Americas Tour |51 |1811 |Open |Indianapolis Motor Speedway |Fri, February 13 08:00PM EST |Sat, February 14 01:00AM GMT |Sat, February 14 12:00PM AEDT |
 |[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |V8 Supercars  \*\* Season 7 \*\* |51 |1847 |Both | | | | |
 |[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |RGR ARCA Eval |50 |2104 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Exhibitions and Test Races \- 2025 |50 |2181 |Fixed | | | | |
@@ -213,7 +209,7 @@
 |[Aspire Racing \- Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10173){:target="_blank"} |ISL ASPIRE RACING SPORTSCAR LEAGUE |47 |2437 |Open |Road America |Tue, February 17 01:00PM EST |Tue, February 17 06:00PM GMT |Wed, February 18 05:00AM AEDT |
 |[Wheel Challenge Series \- GT3/GTP](https://members.iracing.com/membersite/member/LeagueView.do?league=11691){:target="_blank"} |Saison automne 2025 |46 |2584 | | | | | |
 |[Dudarev Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12702){:target="_blank"} |DM Winter Cup |46 |2410 | | | | | |
-|[tracc\.eu Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=10622){:target="_blank"} |VTuber tracc\.eu Challenge \- S26\|1 |46 |1527 |Fixed | | | | |
+|[tracc\.eu Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=10622){:target="_blank"} |VTuber tracc\.eu Challenge \- S26\|1 |46 |1527 |Fixed |Motorsport Arena Oschersleben |Sat, February 14 01:10PM EST |Sat, February 14 06:10PM GMT |Sun, February 15 05:10AM AEDT |
 |[Great Lakes Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Special Events |45 |2572 |Fixed | | | | |
 |[Mid\-Atlantic 86 Club iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8721){:target="_blank"} |Practice Season 1 |45 |1733 |Open | | | | |
 |[F1BC IMSA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6939){:target="_blank"} |IMSA Series 2026/1 |45 |2759 | | | | | |
@@ -238,7 +234,6 @@
 |[Wheel Challenge Series \- GT3/GTP](https://members.iracing.com/membersite/member/LeagueView.do?league=11691){:target="_blank"} |Saison hiver 2026 |40 |2147 | | | | | |
 |[Monticello Motor Club Esports Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10574){:target="_blank"} |Monticello Motor Club Esports Challenge Season 3 |40 |1530 | |Oran Park Raceway |Tue, February 17 07:30PM EST |Wed, February 18 12:30AM GMT |Wed, February 18 11:30AM AEDT |
 |[GFi Drivers Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10821){:target="_blank"} |Nationwide Series Season 7 |39 |1908 |Fixed | | | | |
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |2025S4 7 \- Worn Out Racers Sunday With the S\.Tig |39 |1572 |Fixed | | | | |
 |[West Coast Sim Racing \- Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12728){:target="_blank"} |GT Challenge Season 3 |39 |2276 | | | | | |
 |[All\-Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |BRNZ Performance Late Model Stock Series |39 |1956 |Fixed | | | | |
 |[High Point Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |Snowy Sprints: IMSA Holiday Special |39 |1729 |Both | | | | |
@@ -248,19 +243,20 @@
 |[SRW GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8996){:target="_blank"} |2026 SEASON 1/2 |39 |2039 | |Mount Panorama Circuit |Sun, February 15 02:00AM EST |Sun, February 15 07:00AM GMT |Sun, February 15 06:00PM AEDT |
 |[CiL \- Collegiate Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=5685){:target="_blank"} |CiL CSC Spring 2026 \- Season 14 |39 |1942 | |Fuji International Speedway |Wed, February 18 08:00PM EST |Thu, February 19 01:00AM GMT |Thu, February 19 12:00PM AEDT |
 |[PWA Single Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9270){:target="_blank"} |Season 1 |38 |3531 |Open | | | | |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |5 \- IZZO Plumbing Legacy Friday |38 |1576 |Fixed |Pocono Raceway |Fri, February 20 08:20PM EST |Sat, February 21 01:20AM GMT |Sat, February 21 12:20PM AEDT |
 |[North American Sports Car Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13641){:target="_blank"} |Season 1 |38 |1699 |Open | | | | |
 |[PT Racerz iCup 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=13843){:target="_blank"} |Season 1 |38 |2417 |Open |Circuit de Barcelona Catalunya |Fri, February 20 04:00PM EST |Fri, February 20 09:00PM GMT |Sat, February 21 08:00AM AEDT |
 |[CHOPPIN IT UP NEXTGEN SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8663){:target="_blank"} |PRACTICE |37 |2222 | | | | | |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |Southeast Sexy Super Street Stock Spectacular Series Starring Somebody Special Superior Streetsweeping |37 |1873 | | | | | |
 |[F1\-Onlineliga Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13128){:target="_blank"} |F1\-Onlineliga Prototype Challenge |37 |2371 | | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |2 \- Worn Out Racers \- Rotation Motorsports \- Handicap Tuesday |37 |None |Fixed |Summit Point Raceway |Tue, February 17 08:00PM EST |Wed, February 18 01:00AM GMT |Wed, February 18 12:00PM AEDT |
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |5 \- IZZO Plumbing Legacy Friday |37 |1586 |Fixed |Bristol Motor Speedway |Fri, February 13 08:20PM EST |Sat, February 14 01:20AM GMT |Sat, February 14 12:20PM AEDT |
 |[Winter Pit Products NEP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4677){:target="_blank"} |NEP Practice |36 |2122 | | | | | |
 |[QuickSilver Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4388){:target="_blank"} |Championship Chase Cup Series Season 3 |36 |1656 |Fixed | | | | |
 |[BB1 RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=9246){:target="_blank"} |Championnat BB1 \- 2025\-S04 \- BB1 WORLD TOUR |36 |2263 |Both | | | | |
 |[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |BRC \| Winter Sleigh Ride Shootout |36 |1814 | | | | | |
 |[Matt Malone Patreon League](https://members.iracing.com/membersite/member/LeagueView.do?league=12430){:target="_blank"} |Season 3 |36 |2130 |Fixed |Autodromo Internazionale del Mugello |Sat, February 14 12:25PM EST |Sat, February 14 05:25PM GMT |Sun, February 15 04:25AM AEDT |
-|[Senior Sportsmanship League](https://members.iracing.com/membersite/member/LeagueView.do?league=3725){:target="_blank"} |Testing and Practice |35 |1540 |Fixed |Sebring International Raceway |Fri, February 13 02:45PM EST |Fri, February 13 07:45PM GMT |Sat, February 14 06:45AM AEDT |
+|[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |Sportscar Challenge Powered by Triple Stint |36 |1537 |Both |Watkins Glen International |Fri, February 20 08:15PM EST |Sat, February 21 01:15AM GMT |Sat, February 21 12:15PM AEDT |
+|[Senior Sportsmanship League](https://members.iracing.com/membersite/member/LeagueView.do?league=3725){:target="_blank"} |Testing and Practice |35 |1538 |Fixed |Hockenheimring Baden-Württemberg |Wed, February 18 02:45PM EST |Wed, February 18 07:45PM GMT |Thu, February 19 06:45AM AEDT |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |I'MSAved Fall 2025 GTP/GT3 Sunday Night Road Racing |35 |1336 | | | | | |
 |[TFG Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13374){:target="_blank"} |TFG Special Events Points Structure |35 |2324 |Fixed | | | | |
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Street Stocks Season 1 |35 |2379 | | | | | |
@@ -268,16 +264,14 @@
 |[Tidewater Sports Car Club Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=10569){:target="_blank"} |TSCC \- 2025 Season |34 |1554 | | | | | |
 |[Full Throttle Outlaws Racing\(FTOR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12073){:target="_blank"} |XFINITY SEASON 1 |34 |2693 |Fixed | | | | |
 |[Import Auto Care](https://members.iracing.com/membersite/member/LeagueView.do?league=4568){:target="_blank"} |Import Autocare  25\-26 |34 |1610 | | | | | |
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |SUNDAY HEAT SEASON 04 |34 |1461 | | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |GT3/GT4 Sunday 2026\-S01 Winter |34 |1364 |Fixed |Indianapolis Motor Speedway |Sat, February 14 11:00AM EST |Sat, February 14 04:00PM GMT |Sun, February 15 03:00AM AEDT |
-|[Envy SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11752){:target="_blank"} |Sportscar Challenge Powered by Triple Stint |34 |1604 |Both |Circuit of the Americas |Fri, February 13 08:15PM EST |Sat, February 14 01:15AM GMT |Sat, February 14 12:15PM AEDT |
 |[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2025\-26 mini stock |33 |2185 |Fixed | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |1 \- Worn Out Racers Winter Fun Series |33 |1558 |Fixed |Daytona International Speedway |Mon, February 16 08:00PM EST |Tue, February 17 01:00AM GMT |Tue, February 17 12:00PM AEDT |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Impromptu Session |32 |1240 |Both | | | | |
 |[La Broca Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11800){:target="_blank"} |La Broca X RSR Formula Ford Festival 2025 |32 |2145 | | | | | |
 |[Matchfit Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13325){:target="_blank"} |Phillip Island 500 |32 |2214 | | | | | |
 |[UniRacers iRacing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=7981){:target="_blank"} |3x3 Event |32 |2459 |Both | | | | |
-|[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |GT3 Championship \- Season III |31 |2203 |Open | | | | |
+|[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |GT3 Championship \- Season III |31 |2196 |Open | | | | |
 |[Mark's Wednesday Night iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4009){:target="_blank"} |2025 FALL Heat and INVERT Feature season |31 |1783 |Fixed | | | | |
 |[MOZA RACING League S2](https://members.iracing.com/membersite/member/LeagueView.do?league=12740){:target="_blank"} |MOZA RACING League S2 |31 |1403 | | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |3 \- Worn Out Racers GT3 Wednesday |31 |1439 |Fixed |Mount Panorama Circuit |Wed, February 18 08:00PM EST |Thu, February 19 01:00AM GMT |Thu, February 19 12:00PM AEDT |
@@ -287,9 +281,8 @@
 |[Autobahn Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=1263){:target="_blank"} |Season 15 Practices |30 |None |Open |Indianapolis Motor Speedway |Sun, February 15 05:00PM EST |Sun, February 15 10:00PM GMT |Mon, February 16 09:00AM AEDT |
 |[WinterFest](https://members.iracing.com/membersite/member/LeagueView.do?league=13281){:target="_blank"} |2026 WinterFest |30 |2081 | | | | | |
 |[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |Multiclass Cup |30 |1984 |Both | | | | |
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |6 \- Worn Out Racers \- Rotation Motorsports \- Handicap Saturday |30 |None |Fixed | | | | |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |6 \- Worn Out Racers \- Rotation Motorsports \- Handicap Saturday |30 |None |Fixed |Sonoma Raceway |Sat, February 14 08:00PM EST |Sun, February 15 01:00AM GMT |Sun, February 15 12:00PM AEDT |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |Fun Races |29 |1806 | | | | | |
-|[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Gabir Motors Cup Season 24 |29 |1723 |Both | | | | |
 |[NXTGPiRacing Powered by Simracing Centre \- Esports League](https://members.iracing.com/membersite/member/LeagueView.do?league=11981){:target="_blank"} |NXTGPiRacing by SRC \- Endurance |29 |2844 | | | | | |
 |[Premier Sim Racing's Winter Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13536){:target="_blank"} |2025/26 Winter Series |29 |1931 | | | | | |
 |[OTAe presented by HIP Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=5548){:target="_blank"} |OTAe Winter 2026 |29 |2110 |Fixed |Daytona International Speedway |Wed, February 18 07:00PM EST |Thu, February 19 12:00AM GMT |Thu, February 19 11:00AM AEDT |
@@ -334,19 +327,20 @@
 |[Half Decent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12215){:target="_blank"} |Random Chaos |23 |1341 |Fixed | | | | |
 |[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG FAST CHAMP 2025 |23 |1564 | | | | | |
 |[750 Motor Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13743){:target="_blank"} |750 Motor Club 25/26 Winter Championship |23 |2058 | | | | | |
-|[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |JBWC 9AM |22 |1312 |Both | | | | |
+|[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |SKF Nascar League |23 |1467 | | | | | |
+|[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |JBWC 9AM |22 |1312 |Both |Road Atlanta |Sat, February 14 09:10AM EST |Sat, February 14 02:10PM GMT |Sun, February 15 01:10AM AEDT |
 |[\(XSLR\) \- Cross Series League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5860){:target="_blank"} |Season 10 |22 |1630 |Open |Sebring International Raceway |Sun, February 15 07:30PM EST |Mon, February 16 12:30AM GMT |Mon, February 16 11:30AM AEDT |
 |[Downforce Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3111){:target="_blank"} |DRS Thursday Mixed Car Series |22 |1786 | | | | | |
 |[The Chaos League](https://members.iracing.com/membersite/member/LeagueView.do?league=10576){:target="_blank"} |Chaos On Roads \- Season 6 |22 |1283 |Open | | | | |
+|[Virtual Circuit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13515){:target="_blank"} |VCR MX5 Cup |22 |2099 |Fixed | | | | |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Gabir Motors Cup Season 25 |22 |1831 |Both |Mobility Resort Motegi |Thu, February 19 09:00PM EST |Fri, February 20 02:00AM GMT |Fri, February 20 01:00PM AEDT |
+|[Evolution Sim Racing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=5229){:target="_blank"} |Evo Sim Racing Season 1 2026 |22 |1994 |Both |Red Bull Ring |Fri, February 20 03:00PM EST |Fri, February 20 08:00PM GMT |Sat, February 21 07:00AM AEDT |
 |[LOL iRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7000){:target="_blank"} |Dirt season 6 |22 |1624 |Fixed |USA International Speedway |Sat, February 14 07:45PM EST |Sun, February 15 12:45AM GMT |Sun, February 15 11:45AM AEDT |
-|[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |SKF Nascar League |22 |1420 | | | | | |
 |[Latvia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13129){:target="_blank"} |Season 2 |22 |2078 |Both | | | | |
 |[Battle Scarred eMotorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10456){:target="_blank"} |2025 Monthly Series |21 |1215 | | | | | |
-|[4 Stooges Outrageous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12027){:target="_blank"} |4 Stooges Practice Session |21 |1124 | | | | | |
+|[4 Stooges Outrageous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12027){:target="_blank"} |4 Stooges Practice Session |21 |1123 | |Miami International Autodrome |Tue, February 17 07:00PM EST |Wed, February 18 12:00AM GMT |Wed, February 18 11:00AM AEDT |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2025 SEASON |21 |1425 |Fixed | | | | |
 |[IHRL](https://members.iracing.com/membersite/member/LeagueView.do?league=12087){:target="_blank"} |ihrl season 2 |21 |1475 | | | | | |
-|[Virtual Circuit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13515){:target="_blank"} |VCR MX5 Cup |21 |2094 |Fixed |Motorsport Arena Oschersleben |Fri, February 13 01:00PM EST |Fri, February 13 06:00PM GMT |Sat, February 14 05:00AM AEDT |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |1\-3 Wednesday King of Eldora by JXM/Timeless |21 |1673 |Fixed |Eldora Speedway |Wed, February 18 07:00PM EST |Thu, February 19 12:00AM GMT |Thu, February 19 11:00AM AEDT |
 |[FREIE LIGA GHD 2](https://members.iracing.com/membersite/member/LeagueView.do?league=9644){:target="_blank"} |2026 |21 |2409 | | | | | |
 |[Monday Variety Pack Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13561){:target="_blank"} |Monday Variety Pack Series |21 |1770 | |Bristol Motor Speedway |Mon, February 16 07:00PM EST |Tue, February 17 12:00AM GMT |Tue, February 17 11:00AM AEDT |
@@ -358,8 +352,8 @@
 |[NASA Rocky Mountain](https://members.iracing.com/membersite/member/LeagueView.do?league=3759){:target="_blank"} |2025 NASA RM Winter League |20 |1703 | |WeatherTech Raceway at Laguna Seca |Wed, February 18 08:30PM EST |Thu, February 19 01:30AM GMT |Thu, February 19 12:30PM AEDT |
 |[Reigel Promotions E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=10150){:target="_blank"} |2026 RPES Night in America |20 |2104 |Fixed | | | | |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |WTF Fridays |20 |1437 |Both | | | | |
+|[FLR SCCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12723){:target="_blank"} |Too Cold to Cone 2026 |20 |1522 |Open |Lanier National Speedway |Fri, February 20 08:30PM EST |Sat, February 21 01:30AM GMT |Sat, February 21 12:30PM AEDT |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |Premier Series Season 12 |20 |1510 |Fixed |Bristol Motor Speedway |Sun, February 15 08:45PM EST |Mon, February 16 01:45AM GMT |Mon, February 16 12:45PM AEDT |
-|[Evolution Sim Racing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=5229){:target="_blank"} |Evo Sim Racing Season 1 2026 |20 |2047 |Both |Daytona International Speedway |Fri, February 13 03:00PM EST |Fri, February 13 08:00PM GMT |Sat, February 14 07:00AM AEDT |
 |[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} |HeHawWithTheFuckAroundGang |20 |1428 |Fixed | | | | |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Championship Season 12 \- Pre\-Season |20 |1862 |Both | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |2024 Silly Season |19 |1745 |Open | | | | |
@@ -368,15 +362,14 @@
 |[FLR SCCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12723){:target="_blank"} |2025 Hoon for the Holidays |19 |1526 |Open | | | | |
 |[Campeonato Raccoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11906){:target="_blank"} |Weekly Ramdon Cambo |19 |1622 | | | | | |
 |[tracc\.eu Racing Community](https://members.iracing.com/membersite/member/LeagueView.do?league=10622){:target="_blank"} |Sunday Series Season 26\|1 \- The Roar Series |19 |1655 |Fixed | | | | |
-|[FLR SCCA](https://members.iracing.com/membersite/member/LeagueView.do?league=12723){:target="_blank"} |Too Cold to Cone 2026 |19 |1531 |Open |Tsukuba Circuit |Fri, February 13 08:30PM EST |Sat, February 14 01:30AM GMT |Sat, February 14 12:30PM AEDT |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Exhibitions and Test Races \- 2026 |19 |2143 |Fixed | | | | |
 |[Amateur eSports Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=5819){:target="_blank"} |2025\-2026 Premier Cup \(Season 3\) |18 |1455 | | | | | |
 |[Ultimate GT Championship 26'](https://members.iracing.com/membersite/member/LeagueView.do?league=13150){:target="_blank"} |Special Events |18 |1952 |Both | | | | |
 |[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2025 Figure 8 Season |18 |1809 |Fixed |Slinger Speedway |Tue, December 09 09:15PM EST |Wed, December 10 02:15AM GMT |Wed, December 10 01:15PM AEDT |
-|[Purple Sector Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |PSM \(r\)Oval Challenge |18 |1785 | |Homestead Miami Speedway |Fri, February 13 08:00PM EST |Sat, February 14 01:00AM GMT |Sat, February 14 12:00PM AEDT |
+|[Purple Sector Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=8001){:target="_blank"} |PSM \(r\)Oval Challenge |18 |1785 | |Autodromo Nazionale Monza |Fri, February 20 08:00PM EST |Sat, February 21 01:00AM GMT |Sat, February 21 12:00PM AEDT |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026 Season 1 Wednesday |18 |1789 | |Knockhill Racing Circuit |Wed, February 18 08:30PM EST |Thu, February 19 01:30AM GMT |Thu, February 19 12:30PM AEDT |
 |[Half Decent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12215){:target="_blank"} |Gen 4 |18 |1428 |Fixed | | | | |
-|[SOAGs Go Faster](https://members.iracing.com/membersite/member/LeagueView.do?league=13319){:target="_blank"} |Soag Go Faster season 2 |18 |1215 | |Circuit des 24 Heures du Mans |Fri, February 13 01:55PM EST |Fri, February 13 06:55PM GMT |Sat, February 14 05:55AM AEDT |
+|[SOAGs Go Faster](https://members.iracing.com/membersite/member/LeagueView.do?league=13319){:target="_blank"} |Soag Go Faster season 2 |18 |1215 | |Mount Panorama Circuit |Fri, February 20 01:55PM EST |Fri, February 20 06:55PM GMT |Sat, February 21 05:55AM AEDT |
 |[Monday Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=5627){:target="_blank"} |Season 3 |18 |2346 |Fixed |Michigan International Speedway |Mon, February 16 08:00PM EST |Tue, February 17 01:00AM GMT |Tue, February 17 12:00PM AEDT |
 |[Universal Motorsports Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13487){:target="_blank"} |24 Beers Of Daytona 2026 |18 |1735 | | | | | |
 |[Drift Simracing Club Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=10596){:target="_blank"} |DSC Fun Race |17 |1964 | | | | | |
@@ -407,8 +400,8 @@
 |[Little Guy League](https://members.iracing.com/membersite/member/LeagueView.do?league=10888){:target="_blank"} |Season 1 |15 |1969 | | | | | |
 |[Northwest Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=12138){:target="_blank"} |season 1 |15 |1705 | | | | | |
 |[ASML Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12188){:target="_blank"} |Season 4 2025 |15 |1316 | | | | | |
-|[TadPole Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13116){:target="_blank"} |Asphalt Season 2 |15 |1709 | |Bristol Motor Speedway |Mon, February 16 08:00PM EST |Tue, February 17 01:00AM GMT |Tue, February 17 12:00PM AEDT |
-|[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |Season 8 \- Bug Proto |15 |3978 | |Snetterton Circuit |Fri, February 13 02:30PM EST |Fri, February 13 07:30PM GMT |Sat, February 14 06:30AM AEDT |
+|[TadPole Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13116){:target="_blank"} |Asphalt Season 2 |15 |1709 | |Charlotte Motor Speedway  |Mon, February 16 08:00PM EST |Tue, February 17 01:00AM GMT |Tue, February 17 12:00PM AEDT |
+|[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |Season 8 \- Bug Proto |15 |3950 | |Summit Point Raceway |Fri, February 20 02:30PM EST |Fri, February 20 07:30PM GMT |Sat, February 21 06:30AM AEDT |
 |[MMC \*Unofficial\*](https://members.iracing.com/membersite/member/LeagueView.do?league=10485){:target="_blank"} |Fall 2025 |15 |1302 | | | | | |
 |[BTDY Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4333){:target="_blank"} |BTDY 2025 Off Season Challenge |15 |1486 |Fixed | | | | |
 |[Squirrel League Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9676){:target="_blank"} |2025\-2026 Winter \(Off\) Season |15 |1977 | | | | | |
@@ -416,7 +409,7 @@
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Dumpster Fire Derby Tour |15 |1263 |Both |Lime Rock Park |Wed, February 18 10:05PM EST |Thu, February 19 03:05AM GMT |Thu, February 19 02:05PM AEDT |
 |[Limit of Adhesion \- Prime](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Silly Season 6 |15 |2307 |Both | | | | |
 |[OVER THE HILL/NO BULL RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=9151){:target="_blank"} |OVER THE HILL/NO BULL RACING 2026 |15 |1096 |Open |Autodromo Nazionale Monza |Mon, February 16 08:00PM EST |Tue, February 17 01:00AM GMT |Tue, February 17 12:00PM AEDT |
-|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2026 |15 |1315 |Fixed | | | | |
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |2026 |15 |1306 |Fixed | | | | |
 |[Arctic Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11171){:target="_blank"} |iRacing Roulette\! |15 |3714 | | | | | |
 |[Lite Speed Racing League \- GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=9192){:target="_blank"} |2026 Winter GT3 |15 |1221 | |Daytona International Speedway |Mon, February 16 07:30PM EST |Tue, February 17 12:30AM GMT |Tue, February 17 11:30AM AEDT |
 |[4 Stooges Outrageous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12027){:target="_blank"} |4 Stooges 2026 |14 |1082 | | | | | |
@@ -451,17 +444,18 @@
 |[Kenaz SimSports \- racetheapex\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=12953){:target="_blank"} |2026 Winter Season |12 |1620 | | | | | |
 |[BearPope Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=897){:target="_blank"} |GBS 2026 |12 |2580 |Open | | | | |
 |[DSM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12220){:target="_blank"} |2026 Open Wheel \- Rotating Car |12 |1448 |Both | | | | |
-|[Sukoi Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=13764){:target="_blank"} |Season 1 |12 |None | | | | | |
+|[Sukoi Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=13764){:target="_blank"} |Season 1 |12 |None | |Watkins Glen International |Sat, February 21 03:00PM EST |Sat, February 21 08:00PM GMT |Sun, February 22 07:00AM AEDT |
 |[Dinner with Racers' Thursday Night Blunder](https://members.iracing.com/membersite/member/LeagueView.do?league=3320){:target="_blank"} |TNB 2026 |12 |1397 |Both |Auto Club Speedway |Thu, February 19 06:45PM EST |Thu, February 19 11:45PM GMT |Fri, February 20 10:45AM AEDT |
 |[SIGNATURE SUNDAY RACES](https://members.iracing.com/membersite/member/LeagueView.do?league=5083){:target="_blank"} |2026 Season |12 |1803 |Fixed | | | | |
+|[UK Sim Racers \- MX5 Tuesday Pro series](https://members.iracing.com/membersite/member/LeagueView.do?league=2378){:target="_blank"} |Sunday Challenge Series 2025 S1 |12 |2319 |Open | | | | |
 |[LiveWire Sim Sports GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8777){:target="_blank"} |Practice sessions |11 |1304 |Open | | | | |
-|[LiveWire Sim Sports GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8777){:target="_blank"} |LiveWire Sim Sports Endurance Challenge |11 |1362 |Open |Road America |Fri, February 13 08:00PM EST |Sat, February 14 01:00AM GMT |Sat, February 14 12:00PM AEDT |
+|[LiveWire Sim Sports GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8777){:target="_blank"} |LiveWire Sim Sports Endurance Challenge |11 |1372 |Open | | | | |
 |[Philly SCCA](https://members.iracing.com/membersite/member/LeagueView.do?league=2619){:target="_blank"} |Non Points Events |11 |2330 | | | | | |
 |[Money Shift Lite](https://members.iracing.com/membersite/member/LeagueView.do?league=11008){:target="_blank"} |The Jack of All Trades |11 |1438 | | | | | |
 |[Grip It Rip It Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13459){:target="_blank"} |Grip it Rip it Season |11 |1162 | | | | | |
 |[TadPole Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13116){:target="_blank"} |Powder Puff Season 1 |11 |1386 | | | | | |
 |[The Gang Fia Cross Car](https://members.iracing.com/membersite/member/LeagueView.do?league=13648){:target="_blank"} |Fia |11 |802 | |Lucas Oil Speedway |Mon, February 16 07:00PM EST |Tue, February 17 12:00AM GMT |Tue, February 17 11:00AM AEDT |
-|[ALPHA ONE RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11865){:target="_blank"} |The Late Night Show \[Dirty Money\] Series |11 |1328 |Both |Lernerville Speedway |Fri, February 13 10:00PM EST |Sat, February 14 03:00AM GMT |Sat, February 14 02:00PM AEDT |
+|[ALPHA ONE RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11865){:target="_blank"} |The Late Night Show \[Dirty Money\] Series |11 |1306 |Both |Sonoma Raceway |Fri, February 20 10:00PM EST |Sat, February 21 03:00AM GMT |Sat, February 21 02:00PM AEDT |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |VRS \- Shenanigans Dirt Winter 25/26 |11 |1390 | | | | | |
 |[NASTRACK MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=82){:target="_blank"} |2025\-2026 WINTER BREAK FUN RACES |11 |1478 | | | | | |
 |[Grip It Rip It Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13459){:target="_blank"} |Grip It Rip It season 2 |11 |1497 | |Darlington Raceway |Mon, February 16 08:15PM EST |Tue, February 17 01:15AM GMT |Tue, February 17 12:15PM AEDT |
@@ -472,7 +466,7 @@
 |[SHOWDOWN RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=11643){:target="_blank"} |Season 0\.5 |10 |1553 | | | | | |
 |[The 4\-Way Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13548){:target="_blank"} |The 4\-Way Championship |10 |1573 | | | | | |
 |[PURE Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |Thursday Thunderbolt |10 |1393 |Fixed | | | | |
-|[CSC Touring Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12686){:target="_blank"} |Season 2 |10 |1742 | | | | | |
+|[CSC Touring Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12686){:target="_blank"} |Season 2 |10 |1742 | |Watkins Glen International |Sat, February 21 08:59PM EST |Sun, February 22 01:59AM GMT |Sun, February 22 12:59PM AEDT |
 |[Pedal Stomping in Ohio](https://members.iracing.com/membersite/member/LeagueView.do?league=5402){:target="_blank"} |Winter 2025/6 |10 |1215 |Both | | | | |
 |[Green Text Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=13678){:target="_blank"} |Green Season |10 |1481 |Both | | | | |
 |[Mybroga Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=13580){:target="_blank"} |Funraces Season 1 |10 |1314 |Fixed | | | | |
@@ -498,6 +492,5 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|--------------------|-------|----|-----|-------------|--------|------|------|
-|[E\-Stock](https://members.iracing.com/membersite/member/LeagueView.do?league=3285){:target="_blank"} |Temporadas 2025 |40 |4522 | | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Brazilian wax series |13 |1772 |Fixed | | | | |
 
