@@ -58,7 +58,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |29 |1969 | | | | | |
+|[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |29 |1969 | |Sebring International Raceway |Sun, February 22 12:30PM EST |Sun, February 22 05:30PM GMT |Mon, February 23 04:30AM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 6 new |27 |2913 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |27 |2645 |Both |Brands Hatch Circuit |Tue, February 17 02:48AM EST |Tue, February 17 07:48AM GMT |Tue, February 17 06:48PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |18 |2762 | |Brands Hatch Circuit |Mon, February 16 02:50PM EST |Mon, February 16 07:50PM GMT |Tue, February 17 06:50AM AEDT |
@@ -83,11 +83,11 @@
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Pre\-Qualifying |132 |1757 | | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S1 WW SRF |69 |3172 |Open |Chicago Street Course |Sun, February 15 01:40PM EST |Sun, February 15 06:40PM GMT |Mon, February 16 05:40AM AEDT |
-|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 1 |43 |2893 | |Chicago Street Course |Sat, February 14 10:00AM EST |Sat, February 14 03:00PM GMT |Sun, February 15 02:00AM AEDT |
-|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 2 |38 |1905 | |Chicago Street Course |Sat, February 14 10:01AM EST |Sat, February 14 03:01PM GMT |Sun, February 15 02:01AM AEDT |
-|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 3 |34 |1605 | |Chicago Street Course |Sat, February 14 10:02AM EST |Sat, February 14 03:02PM GMT |Sun, February 15 02:02AM AEDT |
+|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 1 |43 |2902 | | | | | |
+|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 2 |38 |1893 | | | | | |
+|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 3 |34 |1601 | | | | | |
 |[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |2026 \- Season 1 \- VRG Spec Racer Ford Series |25 |1876 |Fixed |Okayama International Circuit |Tue, February 17 07:30PM EST |Wed, February 18 12:30AM GMT |Wed, February 18 11:30AM AEDT |
-|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 4 |24 |1333 | |Chicago Street Course |Sat, February 14 10:03AM EST |Sat, February 14 03:03PM GMT |Sun, February 15 02:03AM AEDT |
+|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 4 |24 |1343 | | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 1B SRF |18 |2177 |Open | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Short Track Thursday Nights |12 |1398 |Fixed |Langley Speedway |Thu, February 19 07:00PM EST |Fri, February 20 12:00AM GMT |Fri, February 20 11:00AM AEDT |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |Mini League 2025 |10 |1502 | | | | | |

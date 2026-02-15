@@ -2,14 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[1987 NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=13895){:target="_blank"} | |Have fun race clean or GET OUT\! |
-|[F1 2026 Season](https://members.iracing.com/membersite/member/LeagueView.do?league=13898){:target="_blank"} | |F1 Rosters and Cars |
-|[Online Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13896){:target="_blank"} | |Sim Racing for all |
-|[outlaw late model](https://members.iracing.com/membersite/member/LeagueView.do?league=13897){:target="_blank"} | |This is the offical outlaw late model league |
-|[Relentless Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13899){:target="_blank"} | |We do and have clean races we understand mistakes and things happen\. |
-|[Simtec Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=13892){:target="_blank"} | | |
-|[the all canadian late model series](https://members.iracing.com/membersite/member/LeagueView.do?league=13894){:target="_blank"} | |late models a thrill the best action intense battles door to door racing bumper to bumper |
-|[Michelin Maniacs](https://members.iracing.com/membersite/member/LeagueView.do?league=13893){:target="_blank"} | |LMP2 Thursday Nights |
 |[Aboo Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13901){:target="_blank"} | |Season race fun fun |
 |[Blue Collar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13903){:target="_blank"} |[Discord](https://discord.gg/kXPThnHy){:target="_blank"} | |
 |[F4 MTM Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13900){:target="_blank"} | |F4 Championship |
@@ -72,7 +64,7 @@
 |[Rocky Mountain iRacing Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13960){:target="_blank"} | | |
 |[Torque Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13963){:target="_blank"} | |New Racing League |
 |[A,N,A Motorsports Club RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=13969){:target="_blank"} | |I R L CLUB RACING OLD RACERS |
-|[Australian Oval Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13965){:target="_blank"} | |Upstart looking to launch in 2026\. Relaxed racing, with custom racing code\. |
+|[Australian Late Night Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=13965){:target="_blank"} |[Discord](https://discord.gg/4fM6fpeuRr){:target="_blank"} |Currently seeking expressions of interest to launch a late night \(AEST/AEDT\) league as described:  \- Intending to race Wednesdays and Fridays at 9:30pm AEDT, subject to consensus\.  \- Seeking to create a relaxed, welcoming league for those who race for the love of racing\.  \- Open to drivers of all rating and license levels\.  \- Intending to foster sessions that start sensible and end respectful\. |
 |[GEC Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=13968){:target="_blank"} | |Welcome to the GEC Special Events League — where the biggest stages, brightest lights, and most iconic moments in sim racing come to life\.   Featuring legendary, NASCAR\-inspired events, our league is built around crown\-jewel races, superspeedway thrillers, endurance showdowns, and high\-stakes special formats that test every driver’s skill, strategy, and composure\.   From 500\-mile classics to all\-star style exhibition battles, GEC Special Events delivers:  • Competitive, clean racing  • Professional race control  • Immersive event presentation  • High\-intensity, one\-of\-a\-kind experiences   Whether you're chasing glory under the lights or drafting for the win on the final lap, every event is designed to feel historic\.   This isn’t just another race\.  It’s a GEC Special Event\. 🏁 |
 |[GPR](https://members.iracing.com/membersite/member/LeagueView.do?league=13967){:target="_blank"} | |GermanPitbullz Racing |
 |[GW GT WROC Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13970){:target="_blank"} | | |
@@ -82,4 +74,10 @@
 |[Cobram League](https://members.iracing.com/membersite/member/LeagueView.do?league=13971){:target="_blank"} | |F4 Season 1 \- 2026 |
 |[RevLine Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13972){:target="_blank"} | | |
 |[TYS](https://members.iracing.com/membersite/member/LeagueView.do?league=13975){:target="_blank"} | |TYS FN |
+|[AERA \- American Esports Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=13979){:target="_blank"} | |A serious, fair, fun, and competitive NASCAR Next Gen Cup Series league\. Included a chase style playoff system, and running NiS length races with no fast repairs\. Owned and ran by Dawson Price\. |
+|[cuzzlerfriendsandfamily](https://members.iracing.com/membersite/member/LeagueView.do?league=13977){:target="_blank"} | |the biggest and baddest |
+|[DDIRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13978){:target="_blank"} | |Daily Drivers Inc ARCA Series\. Racing on Monday's at 8:30pm EST\. Chase playoff format\. 2600 iRating Cap |
+|[MMK Beer racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13980){:target="_blank"} | | |
+|[The SIM Empire](https://members.iracing.com/membersite/member/LeagueView.do?league=13976){:target="_blank"} | |EMPIRE CUP Championship |
+|[McColl Racing Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=13981){:target="_blank"} | | |
 
