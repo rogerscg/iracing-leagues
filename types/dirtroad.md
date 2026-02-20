@@ -23,8 +23,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks West \- 2026/Feb \(Thurs\) |10 |3257 |Fixed |Firebird Motorsports Park |Thu, February 19 07:00PM EST |Fri, February 20 12:00AM GMT |Fri, February 20 11:00AM AEDT |
+|-------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-------------|--------|------|------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks West \- 2026/Feb \(Thurs\) |13 |3699 |Fixed | | | | |
 
 ### Pro 2 Lite Truck
 
@@ -33,7 +33,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[Midwest Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8192){:target="_blank"} |Midwest Outlaw County Fair Pro2 Lite Trucks |17 |1430 |Fixed | | | | |
-|[Montana iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7823){:target="_blank"} |2026 Off\-Road Season |15 |1537 |Fixed | | | | |
+|[Montana iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7823){:target="_blank"} |2026 Off\-Road Season |15 |1544 |Fixed | | | | |
 
 ### Pro 2 Truck
 
@@ -42,7 +42,6 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Pro Trucks Season 3 |28 |3465 | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest \- SLAMTRUCK \(2025B\) |23 |3457 |Fixed | | | | |
 |[Down South Racing Rookie League](https://members.iracing.com/membersite/member/LeagueView.do?league=11910){:target="_blank"} |outlaw pro 2 \(pro2 BIGGGGGGGSSSSSS\) |17 |2015 | | | | | |
 |[RWS](https://members.iracing.com/membersite/member/LeagueView.do?league=2825){:target="_blank"} |RWS ProTruck2 Asphalt Series |15 |1877 | | | | | |
 
@@ -51,10 +50,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|------------------|----------------------------|----------------------------|-----------------------------|
 |[Grit n' Glory Pro 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |25 |2659 |Fixed | | | | |
 |[PDRL Off Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7070){:target="_blank"} |PDRL Offroad S2 |19 |2357 | | | | | |
 |[Xtreme Off\-Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13274){:target="_blank"} |Xtreme Off\-Road Racing Season 1 |13 |1544 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Y2M x LIF/4x4 Rolling Thunder \- 2026 \(Sat\) |13 |2030 |Fixed | | | | |
-|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Trucks |11 |1348 |Fixed |Bark River International Raceway |Thu, February 19 09:20PM EST |Fri, February 20 02:20AM GMT |Fri, February 20 01:20PM AEDT |
+|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Trucks |11 |1334 |Fixed |Lucas Oil Speedway |Thu, February 26 08:25PM EST |Fri, February 27 01:25AM GMT |Fri, February 27 12:25PM AEDT |
 

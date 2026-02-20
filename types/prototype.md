@@ -29,9 +29,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 1 |36 |2881 |Open |Circuit of the Americas |Thu, February 19 02:15PM EST |Thu, February 19 07:15PM GMT |Fri, February 20 06:15AM AEDT |
-|[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |17 |1710 | | | | | |
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------|----------------------------|----------------------------|-----------------------------|
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 1 |37 |2840 |Open |Mount Panorama Circuit |Thu, February 26 02:15PM EST |Thu, February 26 07:15PM GMT |Fri, February 27 06:15AM AEDT |
+|[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |17 |1637 | | | | | |
 
 ### Ligier JS P320
 
@@ -48,10 +48,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-------------|--------|------|------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
 |[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |77 |None |Fixed | | | | |
 |[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |25/26 RCCWS |55 |2078 |Fixed | | | | |
-|[Radical Academy Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13848){:target="_blank"} |Radical Academy Canada Season Two |13 |1260 | | | | | |
+|[Radical Academy Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13848){:target="_blank"} |Radical Academy Canada Season Two |13 |1260 | |Circuit Gilles Villeneuve |Tue, February 24 08:00PM EST |Wed, February 25 01:00AM GMT |Wed, February 25 12:00PM AEDT |
 
 ### Radical SR8
 
@@ -66,7 +66,8 @@
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |15 |1813 | | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Wild Races |14 |None | | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |13 |1952 | | | | | |
-|[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 4\.1 |12 |2316 |Fixed | | | | |
+|[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 4\.1 |12 |2316 |Fixed |Nürburgring Nordschleife |Fri, February 27 08:30PM EST |Sat, February 28 01:30AM GMT |Sat, February 28 12:30PM AEDT |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |SR8 |12 |1427 | |Autodromo Nazionale Monza |Thu, February 26 08:00PM EST |Fri, February 27 01:00AM GMT |Fri, February 27 12:00PM AEDT |
 |[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |Midweek Sprint Series \| Season 5 |10 |1872 |Both |Adelaide Street Circuit |Wed, February 25 08:29PM EST |Thu, February 26 01:29AM GMT |Thu, February 26 12:29PM AEDT |
 
 ### Riley Daytona Prototype
@@ -91,6 +92,6 @@
 |[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |2026 \- Season 1 \- VRG Spec Racer Ford Series |29 |1819 |Fixed |Daytona International Speedway |Tue, February 24 07:30PM EST |Wed, February 25 12:30AM GMT |Wed, February 25 11:30AM AEDT |
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 4 |24 |1343 | | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 1B SRF |18 |2177 |Open | | | | |
-|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Short Track Thursday Nights |12 |1398 |Fixed |Langley Speedway |Thu, February 19 07:00PM EST |Fri, February 20 12:00AM GMT |Fri, February 20 11:00AM AEDT |
+|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Short Track Thursday Nights |12 |1391 |Fixed |Hickory Motor Speedway |Thu, February 26 07:00PM EST |Fri, February 27 12:00AM GMT |Fri, February 27 11:00AM AEDT |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |Mini League 2025 |10 |1502 | | | | | |
 
