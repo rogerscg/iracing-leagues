@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[LARL O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13951){:target="_blank"} |[Discord](https://discord.gg/PY5Vmn6Tmu){:target="_blank"} |Literally just a racing league\. A basic, barebones organization of hardcore racers that want to cut to the chase\. Join the discord\! https://discord\.gg/PY5Vmn6Tmu |
-|[MotorHeads](https://members.iracing.com/membersite/member/LeagueView.do?league=13952){:target="_blank"} | |Friends |
-|[GT3 / GTP Masters Series by STK Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13950){:target="_blank"} | |Racing with GT3 and GTP |
-|[Unsafe Rejoin](https://members.iracing.com/membersite/member/LeagueView.do?league=13953){:target="_blank"} | | |
 |[TMR \- VRL](https://members.iracing.com/membersite/member/LeagueView.do?league=13954){:target="_blank"} | | |
 |[Frontier Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13959){:target="_blank"} | |Frontier Road Series is a stewarded 18\-driver GR86 championship focused on racecraft, consistency, and structured competition\.   Races are held Wednesdays at 8:10 PM EST\.  Official standings are released after steward review\.  Application through Discord is required for participation\. |
 |[NASCAR NEXTEL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13958){:target="_blank"} | |Sprint ahead\. |
@@ -51,8 +47,8 @@
 |[F7iR](https://members.iracing.com/membersite/member/LeagueView.do?league=14000){:target="_blank"} | |F7Racing Multi Class |
 |[Jerry's Money Shot](https://members.iracing.com/membersite/member/LeagueView.do?league=14001){:target="_blank"} | |Every Friday, 9pm EST, we will run a money race\! Points will be awarded\. Highest points at end of season wins grand prize\! SCCA Spec Racer Ford cars, with different tracks each week\! Let's have fun\! |
 |[S\.M\.A\.S\.H](https://members.iracing.com/membersite/member/LeagueView.do?league=13996){:target="_blank"} | |Sim Motorsports Association Series of Horsepower |
-|[Sim Center Tournament](https://members.iracing.com/membersite/member/LeagueView.do?league=14003){:target="_blank"} | | |
-|[SPRL Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14007){:target="_blank"} | |Wednesdays @9PM EST |
+|[SHOP VS SHOP](https://members.iracing.com/membersite/member/LeagueView.do?league=14003){:target="_blank"} | | |
+|[SPRL Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14007){:target="_blank"} |[Discord](https://discord.gg/tVQgR8yMU8){:target="_blank"} |Wednesdays @9PM EST |
 |[SPRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14008){:target="_blank"} |[Discord](https://discord.gg/tVQgR8yMU8){:target="_blank"} |Tuesdays @9PM EST |
 |[Super Grand Prix](https://members.iracing.com/membersite/member/LeagueView.do?league=14004){:target="_blank"} |[Discord](https://discord.gg/MSNsHqmtUr){:target="_blank"} |Super Formula World Championship, based loosely off the Formula One schedule with an influx of American circuits\. |
 |[Thriller Car Rcaing series](https://members.iracing.com/membersite/member/LeagueView.do?league=13997){:target="_blank"} | |CFM truck series is a open setup tuesday night leauge with clean racing and hard fought battels\! |
@@ -70,9 +66,15 @@
 |[The Turtle Endurance Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14020){:target="_blank"} |[Discord](https://discord.gg/E2rFuGMn){:target="_blank"} |A multiclass endurance cup |
 |[Bar Harbor Bank and Trust late models](https://members.iracing.com/membersite/member/LeagueView.do?league=14021){:target="_blank"} | | |
 |[FNF](https://members.iracing.com/membersite/member/LeagueView.do?league=14014){:target="_blank"} | |FNF Weekly |
-|[Ball To The Wall Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14028){:target="_blank"} | |Run clean and follow the rules |
+|[Balls To The Wall Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14028){:target="_blank"} | |Run clean and follow the rules |
 |[Continental Endurance Championship \- Division three](https://members.iracing.com/membersite/member/LeagueView.do?league=14025){:target="_blank"} |[Discord](https://discord.gg/Ebps2UR3ZH){:target="_blank"} | |
 |[Formula 4 U\.S\. iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14024){:target="_blank"} |[Discord](https://discord.gg/XXhfqPhaU){:target="_blank"} |The Formula 4 United States iRacing League is a competitive North American open\-wheel championship built to mirror the real\-world development ladder\. This league is designed for drivers serious about progression — from sim racing to real\-world Formula 4, Formula Regional, and beyond\. We focus on racecraft, discipline, driver development, and professional standards\. |
 |[NEXXTCAR O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14027){:target="_blank"} | |We are a NASCAR Racing League, that is in our 10th season here on iRacing\. We currently run the NASCAR Gen 4 Series on Sunday & O'Reilly Series on Monday\. Race Practice Sessions Go Live At 7:30 PM Eastern Green Flag Waves Around 8:30 PM Eastern If Interested, please get in contact with the League owner Ronald Naugle\. |
 |[Raise Hell and Praise Dale](https://members.iracing.com/membersite/member/LeagueView.do?league=14026){:target="_blank"} | |Nascar Cup Series |
+|[La French League](https://members.iracing.com/membersite/member/LeagueView.do?league=14031){:target="_blank"} | |ligue interne de la french esport racing team |
+|[Late night oval runners](https://members.iracing.com/membersite/member/LeagueView.do?league=14034){:target="_blank"} | |Clean and competitive runs\. Hosted between 9\-1145pm est\. |
+|[MX5練習会](https://members.iracing.com/membersite/member/LeagueView.do?league=14030){:target="_blank"} | | |
+|[Race Champ](https://members.iracing.com/membersite/member/LeagueView.do?league=14033){:target="_blank"} | | |
+|[GridChief Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=14029){:target="_blank"} | |A league for testing GridChief features |
+|[Sim Racers Group Family Show](https://members.iracing.com/membersite/member/LeagueView.do?league=14032){:target="_blank"} | |Learning racecraft |
 

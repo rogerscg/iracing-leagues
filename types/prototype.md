@@ -9,10 +9,10 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed | | | | |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Circuit de Spa-Francorchamps |Thu, February 26 01:00PM EST |Thu, February 26 06:00PM GMT |Fri, February 27 05:00AM AEDT |
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |38 |2380 |Fixed | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |2026 Worn Out Racers 2\.4 hours of Daytona \- January 4th |31 |1377 |Fixed | | | | |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Championship Season 12 |27 |2408 |Both |Hockenheimring Baden-Württemberg |Sun, February 22 08:00PM EST |Mon, February 23 01:00AM GMT |Mon, February 23 12:00PM AEDT |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Championship Season 12 |27 |2408 |Both |Hockenheimring Baden-Württemberg |Tue, February 24 08:00PM EST |Wed, February 25 01:00AM GMT |Wed, February 25 12:00PM AEDT |
 
 ### GTP
 
@@ -38,10 +38,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |LMP3 Trophy 2025\-2026 |26 |2002 |Open | | | | |
+|------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |LMP3 Trophy 2025\-2026 |26 |2002 |Open |Hungaroring |Mon, March 02 12:30PM EST |Mon, March 02 05:30PM GMT |Tue, March 03 04:30AM AEDT |
+|[Skid Mark Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10396){:target="_blank"} |2026 Organized Chaos Season 7 \- LMP3 |26 |1731 |Fixed |Circuit de Barcelona Catalunya |Sun, March 01 08:00PM EST |Mon, March 02 01:00AM GMT |Mon, March 02 12:00PM AEDT |
 |[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP3 Challenge Season 2 |23 |2104 |Both | | | | |
-|[Skid Mark Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10396){:target="_blank"} |2026 Organized Chaos Season 7 \- LMP3 |20 |1681 |Fixed |Nürburgring Grand-Prix-Strecke |Sun, February 22 08:00PM EST |Mon, February 23 01:00AM GMT |Mon, February 23 12:00PM AEDT |
 
 ### Radical SR10
 
@@ -58,12 +58,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
-|[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |29 |1969 | |Sebring International Raceway |Sun, February 22 12:30PM EST |Sun, February 22 05:30PM GMT |Mon, February 23 04:30AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
+|[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |29 |2025 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |28 |2621 |Both |Autódromo Hermanos Rodríguez |Tue, February 24 02:35AM EST |Tue, February 24 07:35AM GMT |Tue, February 24 06:35PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 6 new |27 |2913 | | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |19 |2803 | |Summit Point Raceway |Mon, February 23 02:50PM EST |Mon, February 23 07:50PM GMT |Tue, February 24 06:50AM AEDT |
-|[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |15 |1813 | | | | | |
+|[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |16 |1813 | |Rudskogen Motorsenter |Sun, March 01 01:00PM EST |Sun, March 01 06:00PM GMT |Mon, March 02 05:00AM AEDT |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Wild Races |14 |None | | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |13 |1953 | | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 4\.1 |12 |2316 |Fixed |Nürburgring Nordschleife |Fri, February 27 08:30PM EST |Sat, February 28 01:30AM GMT |Sat, February 28 12:30PM AEDT |
@@ -83,8 +83,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S1 WW SRF |71 |3198 |Open |Nürburgring Nordschleife |Sun, February 22 01:40PM EST |Sun, February 22 06:40PM GMT |Mon, February 23 05:40AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S1 WW SRF |73 |3226 |Open |Autodromo Internazionale Enzo e Dino Ferrari |Sun, March 01 01:40PM EST |Sun, March 01 06:40PM GMT |Mon, March 02 05:40AM AEDT |
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 1 |43 |2938 | | | | | |
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 2 |39 |1896 | | | | | |
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 3 |34 |1604 | | | | | |

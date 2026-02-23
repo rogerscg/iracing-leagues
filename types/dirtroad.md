@@ -49,8 +49,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|------------------|----------------------------|----------------------------|-----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
 |[Grit n' Glory Pro 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |25 |2719 |Fixed | | | | |
+|[RPES Off\-Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11711){:target="_blank"} |2026 RPES Metcalf Media Off\-Road Series |23 |2578 | |Firebird Motorsports Park |Sun, March 01 09:00PM EST |Mon, March 02 02:00AM GMT |Mon, March 02 01:00PM AEDT |
 |[PDRL Off Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7070){:target="_blank"} |PDRL Offroad S2 |19 |2357 | | | | | |
 |[Xtreme Off\-Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13274){:target="_blank"} |Xtreme Off\-Road Racing Season 1 |13 |1544 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Y2M x LIF/4x4 Rolling Thunder \- 2026 \(Sat\) |13 |2030 |Fixed | | | | |
