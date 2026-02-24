@@ -2,7 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[TMR \- VRL](https://members.iracing.com/membersite/member/LeagueView.do?league=13954){:target="_blank"} | | |
 |[Frontier Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13959){:target="_blank"} | |Frontier Road Series is a stewarded 18\-driver GR86 championship focused on racecraft, consistency, and structured competition\.   Races are held Wednesdays at 8:10 PM EST\.  Official standings are released after steward review\.  Application through Discord is required for participation\. |
 |[NASCAR NEXTEL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13958){:target="_blank"} | |Sprint ahead\. |
 |[Porsche Esport Carrera Cup North America](https://members.iracing.com/membersite/member/LeagueView.do?league=13956){:target="_blank"} |[Discord](https://discord.gg/FfCyuzme2R){:target="_blank"} |Official Porsche Esport Carrera Cup North America League |
@@ -51,11 +50,11 @@
 |[SPRL Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14007){:target="_blank"} |[Discord](https://discord.gg/tVQgR8yMU8){:target="_blank"} |Wednesdays @9PM EST |
 |[SPRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14008){:target="_blank"} |[Discord](https://discord.gg/tVQgR8yMU8){:target="_blank"} |Tuesdays @9PM EST |
 |[Super Grand Prix](https://members.iracing.com/membersite/member/LeagueView.do?league=14004){:target="_blank"} |[Discord](https://discord.gg/MSNsHqmtUr){:target="_blank"} |Super Formula World Championship, based loosely off the Formula One schedule with an influx of American circuits\. |
-|[Thriller Car Rcaing series](https://members.iracing.com/membersite/member/LeagueView.do?league=13997){:target="_blank"} | |CFM truck series is a open setup tuesday night leauge with clean racing and hard fought battels\! |
+|[Thriller Car Racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=13997){:target="_blank"} | |CFM truck series is a open setup tuesday night leauge with clean racing and hard fought battels\! |
 |[Ridge Runners Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14011){:target="_blank"} | |I created this league back in 2003\. It's been retired for a few years as running a league takes a ton of time but I'm looking for clean hard racing and it's not an easy thing to find\. It's here at Ridge Runners\. Come check us out\. |
 |[SRC GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14010){:target="_blank"} | | |
 |[top notch racing 25k](https://members.iracing.com/membersite/member/LeagueView.do?league=14013){:target="_blank"} | |lets get a dirt ss race going once week |
-|[SimRaceTR Toyota GR86 Turnuvası](https://members.iracing.com/membersite/member/LeagueView.do?league=14012){:target="_blank"} | |30 katılımcının bulunduğu SimRaceTR ilk turnuvamız\. |
+|[SimRaceTR Toyota GR86 Turnuvası](https://members.iracing.com/membersite/member/LeagueView.do?league=14012){:target="_blank"} | |SimRaceTR ilk turnuvamız\. |
 |[BUB Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=14015){:target="_blank"} | |Late model league for ai |
 |[Content House Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14018){:target="_blank"} |[Discord](https://discord.gg/contenthouse){:target="_blank"} |Content House \- A gaming community with a mission to unite content creators and gamers alike\. We strive to provide a welcoming community for all, providing creators with a platform to share their content and grow their brand\. If you’re a content creator or just an avid gamer \- join us today\! |
 |[Continental Endurance Championship \- Division two](https://members.iracing.com/membersite/member/LeagueView.do?league=14019){:target="_blank"} |[Discord](https://discord.gg/Ebps2UR3ZH){:target="_blank"} |https://discord\.gg/Ebps2UR3ZH |
@@ -77,4 +76,12 @@
 |[Race Champ](https://members.iracing.com/membersite/member/LeagueView.do?league=14033){:target="_blank"} | | |
 |[GridChief Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=14029){:target="_blank"} | |A league for testing GridChief features |
 |[Sim Racers Group Family Show](https://members.iracing.com/membersite/member/LeagueView.do?league=14032){:target="_blank"} | |Learning racecraft |
+|[American Appalachian E\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14042){:target="_blank"} | |Gen6 Trucks GT3 |
+|[Cushion Theory Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14039){:target="_blank"} | |Pro Dirt late model racing series |
+|[Racers United](https://members.iracing.com/membersite/member/LeagueView.do?league=14037){:target="_blank"} | |Fast and clean Nascar style racing |
+|[Snagnq's mini stocks league](https://members.iracing.com/membersite/member/LeagueView.do?league=14041){:target="_blank"} | |TT FREE mini stocks leaue |
+|[Atzen](https://members.iracing.com/membersite/member/LeagueView.do?league=14036){:target="_blank"} | | |
+|[Clean and Green Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14038){:target="_blank"} |[Discord](https://discord.gg/z8JHxaXk){:target="_blank"} |Please Join Our Discord Server\.  https://discord\.gg/z8JHxaXk |
+|[Garage 2 NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=14040){:target="_blank"} | | |
+|[Legoya Rennliga](https://members.iracing.com/membersite/member/LeagueView.do?league=14035){:target="_blank"} | | |
 

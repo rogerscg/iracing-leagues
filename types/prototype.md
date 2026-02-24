@@ -48,8 +48,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
-|[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |77 |None |Fixed | | | | |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |77 |None |Fixed |Canadian Tire Motorsports Park |Tue, March 03 07:00PM EST |Wed, March 04 12:00AM GMT |Wed, March 04 11:00AM AEDT |
 |[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |25/26 RCCWS |55 |2078 |Fixed | | | | |
 |[Radical Academy Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13848){:target="_blank"} |Radical Academy Canada Season Two |13 |1260 | |Circuit Gilles Villeneuve |Tue, February 24 08:00PM EST |Wed, February 25 01:00AM GMT |Wed, February 25 12:00PM AEDT |
 
@@ -62,7 +62,7 @@
 |[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |29 |2025 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |28 |2621 |Both |Autódromo Hermanos Rodríguez |Tue, February 24 02:35AM EST |Tue, February 24 07:35AM GMT |Tue, February 24 06:35PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 6 new |27 |2913 | | | | | |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |19 |2803 | |Summit Point Raceway |Mon, February 23 02:50PM EST |Mon, February 23 07:50PM GMT |Tue, February 24 06:50AM AEDT |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |19 |2804 | |Red Bull Ring |Mon, March 02 02:50PM EST |Mon, March 02 07:50PM GMT |Tue, March 03 06:50AM AEDT |
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |16 |1813 | |Rudskogen Motorsenter |Sun, March 01 01:00PM EST |Sun, March 01 06:00PM GMT |Mon, March 02 05:00AM AEDT |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Wild Races |14 |None | | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |13 |1953 | | | | | |
@@ -92,5 +92,6 @@
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 4 |24 |1363 | | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 1B SRF |18 |2177 |Open | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Short Track Thursday Nights |12 |1391 |Fixed |Hickory Motor Speedway |Thu, February 26 07:00PM EST |Fri, February 27 12:00AM GMT |Fri, February 27 11:00AM AEDT |
+|[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |Monday Practice VRG VRL 2026 Season 1 |11 |1442 |Fixed |Canadian Tire Motorsports Park |Mon, March 02 07:30PM EST |Tue, March 03 12:30AM GMT |Tue, March 03 11:30AM AEDT |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |Mini League 2025 |10 |1502 | | | | | |
 
