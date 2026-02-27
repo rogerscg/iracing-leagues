@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------|----|-----|--------------|----------------------------|----------------------------|-----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
 |[ADAC SimRacing Rallycross Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12771){:target="_blank"} |ADAC SimRacing Rallycross Cup 2025 \- Winter |21 |3448 |Fixed | | | | |
 |[Chaos Rallycross](https://members.iracing.com/membersite/member/LeagueView.do?league=12108){:target="_blank"} |Season 1 |18 |1480 | | | | | |
-|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Cars |12 |1347 |Fixed |Sonoma Raceway |Thu, February 26 09:20PM EST |Fri, February 27 02:20AM GMT |Fri, February 27 01:20PM AEDT |
+|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Cars |13 |1348 |Fixed |Winton Motor Raceway |Thu, March 05 08:25PM EST |Fri, March 06 01:25AM GMT |Fri, March 06 12:25PM AEDT |
 
 ### VW Beetle Lite
 
