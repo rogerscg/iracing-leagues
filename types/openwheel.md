@@ -34,7 +34,7 @@
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 37 \- Indy NXT |30 |1819 |Fixed |Silverstone Circuit |Wed, March 04 02:30PM EST |Wed, March 04 07:30PM GMT |Thu, March 05 06:30AM AEDT |
 |[GTChampions Formula](https://members.iracing.com/membersite/member/LeagueView.do?league=11826){:target="_blank"} |GTC NXT 2026 |28 |2550 | |Long Beach Street Circuit |Sat, February 28 11:10AM EST |Sat, February 28 04:10PM GMT |Sun, March 01 03:10AM AEDT |
 |[PURE Formula Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13471){:target="_blank"} |Special Events |21 |1605 |Fixed | | | | |
-|[Tasman Racing League: Indy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13772){:target="_blank"} |Season 1 |21 |1566 | | | | | |
+|[Tasman Racing League: Indy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13772){:target="_blank"} |Season 1 |21 |1566 | |Long Beach Street Circuit |Tue, March 03 02:30AM EST |Tue, March 03 07:30AM GMT |Tue, March 03 06:30PM AEDT |
 |[GLR Indy NXT](https://members.iracing.com/membersite/member/LeagueView.do?league=13724){:target="_blank"} |GLR Indy NXT Season 1 |20 |1786 | |Road Atlanta |Thu, March 05 08:00PM EST |Fri, March 06 01:00AM GMT |Fri, March 06 12:00PM AEDT |
 |[ITA Open Wheel Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=3915){:target="_blank"} |ITA Open Wheel Challenge Season 2 |19 |1772 |Open | | | | |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Indy NXT 2025 |14 |1344 |Both | | | | |
@@ -47,7 +47,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|--------------------------|
 |[Votive Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |VOTIVE PRACTICE |85 |2096 |Fixed | | | | |
 |[Votive Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |Votive INDY Oval Series \- Season 4 |56 |4106 |Fixed | | | | |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART IndyCar S4 |55 |2223 |Fixed |Auto Club Speedway |Thu, March 05 07:00PM EST |Fri, March 06 12:00AM GMT |Fri, March 06 11:00AM AEDT |
@@ -61,9 +61,9 @@
 |[INDYCAR Thrustmaster iRacing Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11225){:target="_blank"} |2025\-26 Season |33 |7475 | | | | | |
 |[Indy Euro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13756){:target="_blank"} |Indy Euro Series |33 |2528 |Fixed | | | | |
 |[Area 51 Indycar Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |2026 Season 1 Area 51 Indycar |32 |3066 |Fixed | | | | |
+|[GFi Drivers Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10821){:target="_blank"} |Indycar 2026 |32 |1256 |Fixed |Kansas Speedway |Fri, March 06 07:30PM EST |Sat, March 07 12:30AM GMT |Sat, March 07 11:30AM AEDT |
 |[GLR LINCOLN TECH INDY SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=11390){:target="_blank"} |Lincoln Tech Indy Series Season 2 |31 |2126 | |Pocono Raceway |Sat, February 28 07:00PM EST |Sun, March 01 12:00AM GMT |Sun, March 01 11:00AM AEDT |
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Indy Cars Season 2 |31 |1980 | | | | | |
-|[GFi Drivers Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10821){:target="_blank"} |Indycar 2026 |29 |1242 |Fixed |Texas Motor Speedway |Fri, February 27 07:30PM EST |Sat, February 28 12:30AM GMT |Sat, February 28 11:30AM AEDT |
 |[FMA](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} |FMA INDYCAR Series |27 |2036 |Fixed | | | | |
 |[CiL \- NAPA Longland Corp Formula College](https://members.iracing.com/membersite/member/LeagueView.do?league=8830){:target="_blank"} |Formula College Season 8 \-\- CiL Season 14 |27 |2023 |Fixed |Long Beach Street Circuit |Thu, March 05 07:50PM EST |Fri, March 06 12:50AM GMT |Fri, March 06 11:50AM AEDT |
 |[INDY VIRTUAL CHALLENGE PRO SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2026 |27 |2643 | | | | | |
@@ -71,8 +71,8 @@
 |[UIS \- Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13800){:target="_blank"} |Season 0 |26 |1652 | | | | | |
 |[IFF ESPORT Indy](https://members.iracing.com/membersite/member/LeagueView.do?league=13180){:target="_blank"} |IFF ESPORT Indy \- 1st Edition |25 |1792 | | | | | |
 |[Horizon Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11964){:target="_blank"} |practice |24 |None | | | | | |
+|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Friday Open Wheel IndyCar Series Season 2 |24 |1243 |Fixed | | | | |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026 Season 1 Session 2 |24 |1670 | |Indianapolis Motor Speedway |Mon, March 02 08:40PM EST |Tue, March 03 01:40AM GMT |Tue, March 03 12:40PM AEDT |
-|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Friday Open Wheel IndyCar Series Season 2 |22 |1250 |Fixed |Autódromo Hermanos Rodríguez |Fri, February 27 07:30PM EST |Sat, February 28 12:30AM GMT |Sat, February 28 11:30AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S1 SECTRONIC INDY GOLD |20 |3207 |Both |Michigan International Speedway |Sun, March 01 05:00PM EST |Sun, March 01 10:00PM GMT |Mon, March 02 09:00AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S1 SECTRONIC INDY SILVER |20 |2087 |Both |[Legacy] Texas Motor Speedway - 2009 |Thu, March 05 05:00PM EST |Thu, March 05 10:00PM GMT |Fri, March 06 09:00AM AEDT |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCar January 2026 Championship |17 |1612 | | | | | |
@@ -87,13 +87,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|--------------------------|
 |[IFF ESPORT FORMULA](https://members.iracing.com/membersite/member/LeagueView.do?league=12155){:target="_blank"} |F4 \- The Return |57 |1683 | | | | | |
 |[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRSCCA F4 \- FALL 2025 |51 |1777 |Both | | | | |
+|[Formula France](https://members.iracing.com/membersite/member/LeagueView.do?league=13746){:target="_blank"} |F4 Formula France |42 |1933 |Fixed |Adelaide Street Circuit |Fri, March 06 02:00PM EST |Fri, March 06 07:00PM GMT |Sat, March 07 06:00AM AEDT |
+|[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |BRC F4 Season 2 |42 |1616 | | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S8 F4 Challange |41 |1979 |Both |Autodromo Internazionale del Mugello |Mon, March 02 07:30PM EST |Tue, March 03 12:30AM GMT |Tue, March 03 11:30AM AEDT |
 |[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |F4 \- DRSCCA x SUPERLAP \- WINTER 2026 |40 |1682 |Both |Watkins Glen International |Mon, March 02 07:00PM EST |Tue, March 03 12:00AM GMT |Tue, March 03 11:00AM AEDT |
-|[Formula France](https://members.iracing.com/membersite/member/LeagueView.do?league=13746){:target="_blank"} |F4 Formula France |40 |1934 |Fixed |Circuit Zandvoort |Fri, February 27 02:00PM EST |Fri, February 27 07:00PM GMT |Sat, February 28 06:00AM AEDT |
-|[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |BRC F4 Season 2 |39 |1602 | |Miami International Autodrome |Fri, February 27 09:00PM EST |Sat, February 28 02:00AM GMT |Sat, February 28 01:00PM AEDT |
 |[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} |2026S1 F4 |37 |1445 |Both |Adelaide Street Circuit |Mon, March 02 08:30PM EST |Tue, March 03 01:30AM GMT |Tue, March 03 12:30PM AEDT |
 |[Sim Racers Group Tuesday Intermediate](https://members.iracing.com/membersite/member/LeagueView.do?league=11451){:target="_blank"} |2026 S1\- Euro Series |34 |1423 |Fixed |Circuit de Nevers Magny-Cours |Tue, March 03 08:58PM EST |Wed, March 04 01:58AM GMT |Wed, March 04 12:58PM AEDT |
 |[Latinoamerica SimRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2232){:target="_blank"} |NXT \| Formula 4 \| 2026 |32 |1566 |Fixed | | | | |
@@ -111,9 +111,9 @@
 |[Armenian Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13813){:target="_blank"} |ASR FAA FIA F4 Championship |20 |1912 | |Virginia International Raceway |Sun, March 01 07:00AM EST |Sun, March 01 12:00PM GMT |Sun, March 01 11:00PM AEDT |
 |[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |\#RaceAtHome FIA F4 2025 |17 |1516 | | | | | |
 |[GT Akademían](https://members.iracing.com/membersite/member/LeagueView.do?league=4302){:target="_blank"} |Íslmót 2026 |17 |1948 |Both | | | | |
-|[San Diego iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13096){:target="_blank"} |SDiRL Season 3 \- F4 |17 |1367 | |Mount Panorama Circuit |Fri, February 27 11:30PM EST |Sat, February 28 04:30AM GMT |Sat, February 28 03:30PM AEDT |
+|[San Diego iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13096){:target="_blank"} |SDiRL Season 3 \- F4 |17 |1383 | |WeatherTech Raceway at Laguna Seca |Fri, March 06 11:30PM EST |Sat, March 07 04:30AM GMT |Sat, March 07 03:30PM AEDT |
 |[TKC eSports Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8661){:target="_blank"} |Season 10 |16 |2241 |Fixed |Autodromo Nazionale Monza |Mon, March 02 07:30PM EST |Tue, March 03 12:30AM GMT |Tue, March 03 11:30AM AEDT |
-|[Formula\-C Divisional League](https://members.iracing.com/membersite/member/LeagueView.do?league=8188){:target="_blank"} |Formula\-C Divisional S1 |15 |1444 |Fixed | | | | |
+|[Formula\-C Divisional League](https://members.iracing.com/membersite/member/LeagueView.do?league=8188){:target="_blank"} |Formula\-C Divisional S1 |15 |1444 |Fixed |Virginia International Raceway |Sat, February 28 03:00PM EST |Sat, February 28 08:00PM GMT |Sun, March 01 07:00AM AEDT |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2026\-S1\-Tuesday F4 |14 |1952 |Both |Sonoma Raceway |Tue, March 03 07:00PM EST |Wed, March 04 12:00AM GMT |Wed, March 04 11:00AM AEDT |
 |[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Formula 4 2026 |10 |2211 |Both | | | | |
 |[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 1 |10 |1680 | |Snetterton Circuit |Tue, March 03 09:50PM EST |Wed, March 04 02:50AM GMT |Wed, March 04 01:50PM AEDT |
@@ -130,7 +130,7 @@
 |[TGR Nation Grand Vee](https://members.iracing.com/membersite/member/LeagueView.do?league=12473){:target="_blank"} |Season 4 |34 |3175 |Open |Oulton Park Circuit |Sat, February 28 11:00AM EST |Sat, February 28 04:00PM GMT |Sun, March 01 03:00AM AEDT |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 3A FV |32 |2113 |Open | | | | |
 |[Canadian F1200 eSports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11888){:target="_blank"} |2026 Canadian F1200 eSports Championship |26 |2016 | | | | | |
-|[NEFV Thirsty Thursday's](https://members.iracing.com/membersite/member/LeagueView.do?league=5744){:target="_blank"} |2026 Winter Season |22 |1376 |Both |Canadian Tire Motorsports Park |Thu, March 05 07:00PM EST |Fri, March 06 12:00AM GMT |Fri, March 06 11:00AM AEDT |
+|[NEFV Thirsty Thursday's](https://members.iracing.com/membersite/member/LeagueView.do?league=5744){:target="_blank"} |2026 Winter Season |22 |1376 |Both |Canadian Tire Motorsports Park |Thu, March 05 06:55PM EST |Thu, March 05 11:55PM GMT |Fri, March 06 10:55AM AEDT |
 |[Screen To Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=12238){:target="_blank"} |2026 Screen 2 Speed |11 |1727 | | | | | |
 
 ### Hosted All Cars Class
@@ -162,9 +162,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 14 \(Lotus 79\) |40 |1235 |Fixed |[Legacy] Pocono Raceway - 2009 |Fri, February 27 07:00PM EST |Sat, February 28 12:00AM GMT |Sat, February 28 11:00AM AEDT |
-|[BTRTV \- Historic F1 Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} |Historic F1 Masters \- 2026S1 |26 |2055 | | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
+|[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 14 \(Lotus 79\) |41 |1224 |Fixed |WeatherTech Raceway at Laguna Seca |Fri, March 06 07:00PM EST |Sat, March 07 12:00AM GMT |Sat, March 07 11:00AM AEDT |
+|[BTRTV \- Historic F1 Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} |Historic F1 Masters \- 2026S1 |26 |2055 | |Autódromo Hermanos Rodríguez |Sat, March 07 03:58PM EST |Sat, March 07 08:58PM GMT |Sun, March 08 07:58AM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A Retro F1 Championship \- Lotus 79 |24 |2550 |Both |Willow Springs International Raceway |Tue, March 03 03:55AM EST |Tue, March 03 08:55AM GMT |Tue, March 03 07:55PM AEDT |
 |[FMA](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} |Lotus 79 |17 |1518 |Fixed | | | | |
 
@@ -173,9 +173,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------|--------------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |W12 F1  \- Season 1  |41 |2235 |Fixed | | | | |
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Grand Prix Series Season 8 |24 |1204 | | | | | |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |W12 F1 \- Season 2 |11 |2108 |Fixed |Autodromo Internazionale del Mugello |Mon, March 02 08:00PM EST |Tue, March 03 01:00AM GMT |Tue, March 03 12:00PM AEDT |
 
 ### Ray FF1600
@@ -214,7 +213,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A WnS Super Formula Lights \- Waste Options |51 |2614 |Both |Algarve International Circuit |Mon, March 02 03:12AM EST |Mon, March 02 08:12AM GMT |Mon, March 02 07:12PM AEDT |
 |[FDL \- SFL Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11833){:target="_blank"} |FDL Season 5 \- SFL \- 2026 S1 |45 |3380 | |Autódromo José Carlos Pace |Tue, March 03 03:00AM EST |Tue, March 03 08:00AM GMT |Tue, March 03 07:00PM AEDT |
 |[FDL \- SFL Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11833){:target="_blank"} |Official Practice \- FDL Season 5 \- SFL \- 2026 S1 |41 |None | |Autódromo José Carlos Pace |Mon, March 02 02:30AM EST |Mon, March 02 07:30AM GMT |Mon, March 02 06:30PM AEDT |
@@ -224,7 +223,6 @@
 |[Thermal Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10694){:target="_blank"} |Thermal Racing Formula League Season 5 \(2026 S1\) |22 |1971 |Both |Watkins Glen International |Sun, March 01 07:40PM EST |Mon, March 02 12:40AM GMT |Mon, March 02 11:40AM AEDT |
 |[High Point Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10992){:target="_blank"} |HPR: Super Formula Lights |22 |1472 |Both |Silverstone Circuit |Tue, March 03 07:45PM EST |Wed, March 04 12:45AM GMT |Wed, March 04 11:45AM AEDT |
 |[Savage Sim Racing SFL League](https://members.iracing.com/membersite/member/LeagueView.do?league=12519){:target="_blank"} |SFL Season 2 |19 |1485 |Fixed |Circuit Gilles Villeneuve |Sat, February 07 03:00PM EST |Sat, February 07 08:00PM GMT |Sun, February 08 07:00AM AEDT |
-|[ALPHA ONE RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11865){:target="_blank"} |Alpha One Titan Series \[Super Formula Lights\] Season 4 |17 |1537 |Both | | | | |
 |[RECART\-SIM](https://members.iracing.com/membersite/member/LeagueView.do?league=10758){:target="_blank"} |RECART Super Formula Lights Cup |16 |1934 | |Hockenheimring Baden-Württemberg |Sat, February 28 01:30PM EST |Sat, February 28 06:30PM GMT |Sun, March 01 05:30AM AEDT |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} |Super Formula  lights |15 |1512 | |Long Beach Street Circuit |Mon, March 02 09:15PM EST |Tue, March 03 02:15AM GMT |Tue, March 03 01:15PM AEDT |
 
@@ -260,7 +258,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
-|[Classic Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1381){:target="_blank"} |2026 Season |35 |2124 |Open |Circuit Gilles Villeneuve |Fri, February 27 01:00PM EST |Fri, February 27 06:00PM GMT |Sat, February 28 05:00AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------|-----------|-------|----|-----|-------------------------|----------------------------|----------------------------|--------------------------|
+|[Classic Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1381){:target="_blank"} |2026 Season |35 |2124 |Open |Circuit Gilles Villeneuve |Sat, February 28 02:00PM EST |Sat, February 28 07:00PM GMT |Sun, March 01 06:00AM AEDT |
 |[Australian Sports Sedans Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |IRL S1 |14 |1408 |Both | | | | |
 

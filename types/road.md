@@ -9,8 +9,8 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |110 |None |Open |Circuit Gilles Villeneuve |Sat, February 28 02:00AM EST |Sat, February 28 07:00AM GMT |Sat, February 28 06:00PM AEDT |
 |[Logitech G V8PRO Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8323){:target="_blank"} |2026 V8PRO \- PRE QUALIFYING |104 |None | | | | | |
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |80 |None |Open |Circuit Gilles Villeneuve |Fri, February 27 03:00AM EST |Fri, February 27 08:00AM GMT |Fri, February 27 07:00PM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints V8 Supercars Gen3 season 26 |57 |1455 | | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026A V8SC Series \- Trophi\.AI |50 |2392 | |Circuit Gilles Villeneuve |Wed, March 04 03:40AM EST |Wed, March 04 08:40AM GMT |Wed, March 04 07:40PM AEDT |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |The UES OzOval Series 2026A |34 |2224 |Fixed |Indianapolis Motor Speedway |Sun, March 01 03:15AM EST |Sun, March 01 08:15AM GMT |Sun, March 01 07:15PM AEDT |

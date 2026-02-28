@@ -2,16 +2,10 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[2026 Idaho Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13973){:target="_blank"} | |Official League for the IEA HS iRacing League |
-|[Clio Community](https://members.iracing.com/membersite/member/LeagueView.do?league=13974){:target="_blank"} | |A league to gather and enjoy racing the Clio together\. Fun races initially, maybe something more serious in the future\. |
-|[Cobram League](https://members.iracing.com/membersite/member/LeagueView.do?league=13971){:target="_blank"} | |F4 Season 1 \- 2026 |
-|[RevLine Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13972){:target="_blank"} | | |
-|[TYS](https://members.iracing.com/membersite/member/LeagueView.do?league=13975){:target="_blank"} | |TYS FN |
 |[AERA \- American Esports Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=13979){:target="_blank"} | |A serious, fair, fun, and competitive NASCAR Next Gen Cup Series league\. Included a chase style playoff system, and running NiS length races with no fast repairs\. Owned and ran by Dawson Price\. |
 |[cuzzlerfriendsandfamily](https://members.iracing.com/membersite/member/LeagueView.do?league=13977){:target="_blank"} | |the biggest and baddest |
 |[DDIRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13978){:target="_blank"} | |Daily Drivers Inc ARCA Series\. Racing on Monday's at 8:30pm EST\. Chase playoff format\. 2600 iRating Cap |
 |[MMK Beer Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13980){:target="_blank"} | | |
-|[The SIM Empire](https://members.iracing.com/membersite/member/LeagueView.do?league=13976){:target="_blank"} | |EMPIRE CUP Championship |
 |[McColl Racing Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=13981){:target="_blank"} | | |
 |[Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=13984){:target="_blank"} | | |
 |[DJ AND GABE NASCAR CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13986){:target="_blank"} | | |
@@ -87,4 +81,9 @@
 |[Next\-Level Gaming ARCA League](https://members.iracing.com/membersite/member/LeagueView.do?league=14058){:target="_blank"} | | |
 |[Bootleg Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14060){:target="_blank"} | |VDOT Empolyee only league |
 |[ESSEF Spring 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14054){:target="_blank"} | |Official League of ESSEF \(Empire State Scholastic Esports Federation\) |
+|[DGTS \- DECS](https://members.iracing.com/membersite/member/LeagueView.do?league=14067){:target="_blank"} | | |
+|[E\-Sports SimRacing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=14064){:target="_blank"} | |𝗘𝗦𝗥 𝗘\-𝗦𝗽𝗼𝗿𝘁𝘀 𝗦𝗶𝗺𝗿𝗮𝗰𝗶𝗻𝗴 to polska liga simracingowa z wieloletnim doświadczeniem\. Organizujemy zawody w Gran Turismo 7 \(PS5\) Assetto Corsa & iRacing \(PC\)\. Realizm, rywalizacja i wysoki poziom sportowy\. Dołącz do społeczności ESR\. \#RaceWithESR \#TogetherWeAreFaster |
+|[FastFriends \- Championship 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14063){:target="_blank"} | |GT3 Cars \- Australian Tracks |
+|[No Sleep Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14065){:target="_blank"} |[Discord](https://discord.gg/k4A4AqkJvT){:target="_blank"} |Friday Night Extreme Length Oreilly's Series open setup races |
+|[Kaizen Autosport's SIM/RACERS](https://members.iracing.com/membersite/member/LeagueView.do?league=14066){:target="_blank"} | |Drivers compete for a real life racing school April 19\-20 Powered by Kaizen Autosport and hosted by pohlracing |
 
