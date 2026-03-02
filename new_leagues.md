@@ -2,16 +2,6 @@
 
 | League Name | Discord | About |
 |--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[AERA \- American Esports Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=13979){:target="_blank"} | |A serious, fair, fun, and competitive NASCAR Next Gen Cup Series league\. Included a chase style playoff system, and running NiS length races with no fast repairs\. Owned and ran by Dawson Price\. |
-|[cuzzlerfriendsandfamily](https://members.iracing.com/membersite/member/LeagueView.do?league=13977){:target="_blank"} | |the biggest and baddest |
-|[DDIRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13978){:target="_blank"} | |Daily Drivers Inc ARCA Series\. Racing on Monday's at 8:30pm EST\. Chase playoff format\. 2600 iRating Cap |
-|[MMK Beer Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13980){:target="_blank"} | | |
-|[McColl Racing Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=13981){:target="_blank"} | | |
-|[Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=13984){:target="_blank"} | | |
-|[DJ AND GABE NASCAR CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13986){:target="_blank"} | | |
-|[Piston CELO Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13983){:target="_blank"} | |Formula Racing Race |
-|[Third Coast Racing eSports \(Craftsman\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13982){:target="_blank"} |[Discord](https://discord.gg/w4PY2RpEJT){:target="_blank"} |Tuesday Night Craftsman Truck Series |
-|[WilliamsCup](https://members.iracing.com/membersite/member/LeagueView.do?league=13985){:target="_blank"} | |WilliamsCup2026 |
 |[ATRL WEC Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=13989){:target="_blank"} | | |
 |[DATONE 500](https://members.iracing.com/membersite/member/LeagueView.do?league=13987){:target="_blank"} | |WE WILL HAVE TWO PRATIS RACIS AND THEN THE 500 |
 |[Nik & Noah](https://members.iracing.com/membersite/member/LeagueView.do?league=13990){:target="_blank"} | |Nascar 2026 |
@@ -23,7 +13,7 @@
 |[Bredballe I\.F\. Esport](https://members.iracing.com/membersite/member/LeagueView.do?league=13998){:target="_blank"} | |BiF Simracing Mesterskabet |
 |[CRL Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13999){:target="_blank"} | |CRL Racing League is a league that started on Nascar Heat and Nascar 25 that is now brancing out to Iracing\. We are a fixed setup league that will be running the next gen cup series cars for our first season |
 |[District\_79](https://members.iracing.com/membersite/member/LeagueView.do?league=14009){:target="_blank"} |[Discord](https://discord.gg/BkcGnxfwdC){:target="_blank"} |Tired of people wrecking me on the normal iRacing races\. Setting up a league for Formula and GT3\. |
-|[F7iR](https://members.iracing.com/membersite/member/LeagueView.do?league=14000){:target="_blank"} | |F7Racing Multi Class |
+|[Race Director Official](https://members.iracing.com/membersite/member/LeagueView.do?league=14000){:target="_blank"} |[Discord](https://discord.ggVmySVzACUy){:target="_blank"} |RaceDirector Official mixed series events\.  Weekly Community Events |
 |[Jerry's Money Shot](https://members.iracing.com/membersite/member/LeagueView.do?league=14001){:target="_blank"} | |Every Friday, 9pm EST, we will run a money race\! Points will be awarded\. Highest points at end of season wins grand prize\! SCCA Spec Racer Ford cars, with different tracks each week\! Let's have fun\! |
 |[S\.M\.A\.S\.H](https://members.iracing.com/membersite/member/LeagueView.do?league=13996){:target="_blank"} | |S\.M\.A\.S\.H – Series of Horsepower   Built for drivers who punch a clock during the week and race on the weekend\.   S\.M\.A\.S\.H is an adult\-run iRacing league structured around real\-world work schedules\. Friday Trucks\. Saturday 1987 Legends\. Saturday Night Gen 6 Cup\.   Hard racing\. Clear rules\. Professional standards\.   We respect your time\.  We expect respect on track\.   Weekend racing done right |
 |[SHOP VS SHOP](https://members.iracing.com/membersite/member/LeagueView.do?league=14003){:target="_blank"} | | |
@@ -34,7 +24,7 @@
 |[Ridge Runners Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14011){:target="_blank"} | |I created this league back in 2003\. It's been retired for a few years as running a league takes a ton of time but I'm looking for clean hard racing and it's not an easy thing to find\. It's here at Ridge Runners\. Come check us out\. |
 |[SRC GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14010){:target="_blank"} | | |
 |[top notch racing 25k](https://members.iracing.com/membersite/member/LeagueView.do?league=14013){:target="_blank"} | |lets get a dirt ss race going once week |
-|[SimRaceTR Toyota GR86 Turnuvası](https://members.iracing.com/membersite/member/LeagueView.do?league=14012){:target="_blank"} | |SimRaceTR ilk turnuvamız\. |
+|[SimRaceTR Etkinlikleri](https://members.iracing.com/membersite/member/LeagueView.do?league=14012){:target="_blank"} | |SimRaceTR düzenlediğimiz turnuvalar ve etkinlikler burada\. Katılmak için sitemizi ziyaret edin\. |
 |[BUB Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=14015){:target="_blank"} | |Late model league for ai |
 |[Content House Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14018){:target="_blank"} |[Discord](https://discord.gg/contenthouse){:target="_blank"} |Content House \- A gaming community with a mission to unite content creators and gamers alike\. We strive to provide a welcoming community for all, providing creators with a platform to share their content and grow their brand\. If you’re a content creator or just an avid gamer \- join us today\! |
 |[Continental Endurance Championship \- Division two](https://members.iracing.com/membersite/member/LeagueView.do?league=14019){:target="_blank"} |[Discord](https://discord.gg/Ebps2UR3ZH){:target="_blank"} |https://discord\.gg/Ebps2UR3ZH |
@@ -86,4 +76,21 @@
 |[FastFriends \- Championship 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14063){:target="_blank"} | |GT3 Cars \- Australian Tracks |
 |[No Sleep Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14065){:target="_blank"} |[Discord](https://discord.gg/k4A4AqkJvT){:target="_blank"} |Friday Night Extreme Length Oreilly's Series open setup races |
 |[Kaizen Autosport's SIM/RACERS](https://members.iracing.com/membersite/member/LeagueView.do?league=14066){:target="_blank"} | |Drivers compete for a real life racing school April 19\-20 Powered by Kaizen Autosport and hosted by pohlracing |
+|[ARL \- All Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14077){:target="_blank"} | |La ligue de course virtuelle d'élite sur iRacing\. Rejoignez les meilleurs pilotes et suivez vos performances\. |
+|[Blackout Racing League Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14075){:target="_blank"} | | |
+|[Checkered](https://members.iracing.com/membersite/member/LeagueView.do?league=14069){:target="_blank"} | |Checkered |
+|[Dirt Demons](https://members.iracing.com/membersite/member/LeagueView.do?league=14076){:target="_blank"} | | |
+|[ENSHU HAMAMATSU MOTORS](https://members.iracing.com/membersite/member/LeagueView.do?league=14083){:target="_blank"} | | |
+|[EZrace Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=14080){:target="_blank"} | | |
+|[Free Time Racing Dirt SLM](https://members.iracing.com/membersite/member/LeagueView.do?league=14082){:target="_blank"} | |Dirt Super Late Model |
+|[Gassed Up Motorsports Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=14081){:target="_blank"} | |Practice league for Gassed Up Motorsports |
+|[Green Flag Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14073){:target="_blank"} | | |
+|[Kidbyers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14072){:target="_blank"} |[Discord](https://discord.gg/GZEVbwyf){:target="_blank"} |KRL was created in 2018, we have gone from PCARS 2 and ACC on the PS5, to iRacing in 2025, our commentator Trev \(AKA Kidbyers\) is one of the best in the business\! New drivers from AUS & NZ are welcome\! Join our discord today\! https://discord\.gg/GZEVbwyf |
+|[Marshmellow Physics](https://members.iracing.com/membersite/member/LeagueView.do?league=14070){:target="_blank"} | |We're racing just for fun, cause this game has Marshmellow Physics\!\!\! |
+|[Ray Esports vRunoffs](https://members.iracing.com/membersite/member/LeagueView.do?league=14079){:target="_blank"} | |League created to facilitate the Week 13 vRunoffs big grid races\. This allows some more options in set up, entry communications, and access\. |
+|[SimCoach Time Attack](https://members.iracing.com/membersite/member/LeagueView.do?league=14078){:target="_blank"} | |SimCoach Time Attack |
+|[SRW League](https://members.iracing.com/membersite/member/LeagueView.do?league=14068){:target="_blank"} | |The official league for team SRW Denmark |
+|[Vision Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=14084){:target="_blank"} |[Discord](https://discord.gg/FftCnq3H){:target="_blank"} |Vision motorsports Iracing GT3 league \| $2\.50 Entry \| Prize Pool |
+|[LOFT N BEER](https://members.iracing.com/membersite/member/LeagueView.do?league=14074){:target="_blank"} | |LOFT N BEER |
+|[RaceEPI\.com Race For The Seat](https://members.iracing.com/membersite/member/LeagueView.do?league=14071){:target="_blank"} | |10 Drivers 1 Seat on the EPI Track Team\. |
 
