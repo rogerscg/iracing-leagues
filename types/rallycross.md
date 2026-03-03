@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|--------------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[LSR British Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13371){:target="_blank"} |Rallycross Spring 26 |10 |1644 |Open |Brands Hatch Circuit |Sun, March 08 04:05PM EDT |Sun, March 08 08:05PM GMT |Mon, March 09 07:05AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------|-----------------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
+|[LSR British Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13371){:target="_blank"} |Spring 26 \- Rallycross |10 |1644 |Open |Brands Hatch Circuit |Sun, March 08 04:05PM EDT |Sun, March 08 08:05PM GMT |Mon, March 09 07:05AM AEDT |
 
 ### Rallycross
 

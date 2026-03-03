@@ -9,7 +9,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Circuit de Spa-Francorchamps |Mon, March 02 01:00PM EST |Mon, March 02 06:00PM GMT |Tue, March 03 05:00AM AEDT |
+|[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Circuit de Spa-Francorchamps |Tue, March 03 01:00PM EST |Tue, March 03 06:00PM GMT |Wed, March 04 05:00AM AEDT |
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |38 |2380 |Fixed | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |2026 Worn Out Racers 2\.4 hours of Daytona \- January 4th |31 |1377 |Fixed | | | | |
 |[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Championship Season 12 |28 |2407 |Both |Canadian Tire Motorsports Park |Tue, March 03 08:00PM EST |Wed, March 04 01:00AM GMT |Wed, March 04 12:00PM AEDT |
@@ -38,9 +38,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |LMP3 Trophy 2025\-2026 |26 |2002 |Open |Hungaroring |Mon, March 02 12:30PM EST |Mon, March 02 05:30PM GMT |Tue, March 03 04:30AM AEDT |
-|[Skid Mark Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10396){:target="_blank"} |2026 Organized Chaos Season 7 \- LMP3 |26 |1760 |Fixed | | | | |
+|------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |LMP3 Trophy 2025\-2026 |26 |1996 |Open | | | | |
+|[Skid Mark Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10396){:target="_blank"} |2026 Organized Chaos Season 7 \- LMP3 |26 |1760 |Fixed |Donington Park Racing Circuit |Sun, March 08 08:00PM EDT |Mon, March 09 12:00AM GMT |Mon, March 09 11:00AM AEDT |
 |[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR LMP3 Challenge Season 2 |23 |2096 |Both | | | | |
 
 ### Radical SR10
@@ -62,7 +62,7 @@
 |[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |29 |2025 | |Circuit de Barcelona Catalunya |Sun, March 08 01:30PM EDT |Sun, March 08 05:30PM GMT |Mon, March 09 04:30AM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |28 |2531 |Both |Oulton Park Circuit |Tue, March 03 02:48AM EST |Tue, March 03 07:48AM GMT |Tue, March 03 06:48PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Season 6 new |27 |2913 | | | | | |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |19 |2804 | |Red Bull Ring |Mon, March 02 02:50PM EST |Mon, March 02 07:50PM GMT |Tue, March 03 06:50AM AEDT |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |19 |2807 | |Detroit Grand Prix at Belle Isle |Mon, March 09 03:50PM EDT |Mon, March 09 07:50PM GMT |Tue, March 10 06:50AM AEDT |
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |17 |1824 | | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |14 |1964 | | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Wild Races |14 |None | |Suzuka International Racing Course |Fri, March 06 12:00PM EST |Fri, March 06 05:00PM GMT |Sat, March 07 04:00AM AEDT |
@@ -93,6 +93,6 @@
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 4 |25 |1375 | | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 1B SRF |18 |2177 |Open | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Short Track Thursday Nights |12 |1402 |Fixed |Myrtle Beach Speedway |Thu, March 05 07:00PM EST |Fri, March 06 12:00AM GMT |Fri, March 06 11:00AM AEDT |
-|[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |Monday Practice VRG VRL 2026 Season 1 |11 |1442 |Fixed |Canadian Tire Motorsports Park |Mon, March 02 07:30PM EST |Tue, March 03 12:30AM GMT |Tue, March 03 11:30AM AEDT |
+|[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |Monday Practice VRG VRL 2026 Season 1 |12 |1445 |Fixed |Virginia International Raceway |Mon, March 09 07:30PM EDT |Mon, March 09 11:30PM GMT |Tue, March 10 10:30AM AEDT |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |Mini League 2025 |10 |1502 | | | | | |
 
