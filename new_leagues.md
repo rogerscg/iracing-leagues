@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[La French League](https://members.iracing.com/membersite/member/LeagueView.do?league=14031){:target="_blank"} | |ligue interne de la french esport racing team |
-|[Late night oval runners](https://members.iracing.com/membersite/member/LeagueView.do?league=14034){:target="_blank"} | |Clean and competitive runs\. Hosted between 9\-1145pm est\. |
-|[MX5練習会](https://members.iracing.com/membersite/member/LeagueView.do?league=14030){:target="_blank"} | | |
-|[Race Champ](https://members.iracing.com/membersite/member/LeagueView.do?league=14033){:target="_blank"} | | |
-|[GridChief Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=14029){:target="_blank"} | |A league for testing GridChief features |
-|[Sim Racers Group Family Show](https://members.iracing.com/membersite/member/LeagueView.do?league=14032){:target="_blank"} | |Learning racecraft |
 |[American Appalachian E\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14042){:target="_blank"} | |Gen6 Trucks GT3 |
 |[Cushion Theory Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14039){:target="_blank"} | |Pro Dirt late model racing series |
 |[Racers United](https://members.iracing.com/membersite/member/LeagueView.do?league=14037){:target="_blank"} | |Fast and clean Nascar style racing |
@@ -80,7 +74,7 @@
 |[CDM Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=14120){:target="_blank"} | | |
 |[FNL](https://members.iracing.com/membersite/member/LeagueView.do?league=14122){:target="_blank"} |[Discord](https://discord.gg/uD3t7UzDXd){:target="_blank"} |Welcome to Friday Night Lights\! A NASCAR league perfect for anyone whether complete beginners or experienced drivers, FNL welcomes you with open arms\! |
 |[Global Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14119){:target="_blank"} |[Discord](https://discord.gg/btm3eANH){:target="_blank"} | |
-|[LeadFoot Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14112){:target="_blank"} | |Top Tier Racing League |
+|[LeadFoot Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14112){:target="_blank"} | |Top Tier Racing League |
 |[Pizza Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14107){:target="_blank"} | | |
 |[Racers Elite \- Monday SRX Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14109){:target="_blank"} |[Discord](https://discord.gg/AzrBBWmvRX){:target="_blank"} |Join our Discord for Additional Information\! https://discord\.gg/AzrBBWmvRX |
 |[Salem Speedway iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=14113){:target="_blank"} | |The official iRacing league of Salem Speedway |
@@ -98,4 +92,12 @@
 |[Racing Line League](https://members.iracing.com/membersite/member/LeagueView.do?league=14126){:target="_blank"} |[Discord](https://discord.gg/cRqugAMtNU){:target="_blank"} |Racing Line League |
 |[VARE](https://members.iracing.com/membersite/member/LeagueView.do?league=14123){:target="_blank"} | |VARE Has been a highly Successful NASCAR League operating on console for 6 Years Now coming to the Sim and hoping for many more successful years on the Iracing platform |
 |[Friday Funtimers](https://members.iracing.com/membersite/member/LeagueView.do?league=14127){:target="_blank"} | |Events will be on Friday starting at 5pm est  \*Fulltime I2I league drivers only\*  Strictly a fun league for the I2I league drivers |
+|[AUS/NZ Demolition Derby Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14130){:target="_blank"} | | |
+|[gpt racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14133){:target="_blank"} | |sports car racing we are a casual league |
+|[Infinite Garage Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14135){:target="_blank"} | |Slow cars for slow people |
+|[LeadFoot Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14138){:target="_blank"} | | |
+|[LeadFoot Nextgen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14136){:target="_blank"} | | |
+|[LeadFoot O'Reilly's Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14137){:target="_blank"} | | |
+|[UFO](https://members.iracing.com/membersite/member/LeagueView.do?league=14132){:target="_blank"} | | |
+|[American Stock Car Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14134){:target="_blank"} |[Discord](https://discord.gg/fWRzqs9263){:target="_blank"} |TEMP |
 

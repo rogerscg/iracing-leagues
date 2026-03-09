@@ -19,9 +19,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------|----------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |NextGen Season 4 |Fixed |Daytona International Speedway |Fri, March 13 07:00PM EDT |Fri, March 13 11:00PM GMT |Sat, March 14 10:00AM AEDT |
-|[SPRL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11646){:target="_blank"} |SPRL Season 2 |Fixed |Daytona International Speedway |Sun, March 08 08:00PM EDT |Mon, March 09 12:00AM GMT |Mon, March 09 11:00AM AEDT |
 
 ### NASCAR O'Reilly Series
 
@@ -49,8 +48,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------|----------------|-----|------------------|-------------------------|-------------------------|--------------------------|
-|[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Legends Gang | |The Milwaukee Mile |Sun, March 08 07:00PM EDT |Sun, March 08 11:00PM GMT |Mon, March 09 10:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------|------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|[After Hours Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12460){:target="_blank"} |SRL season 2 | |Charlotte Motor Speedway |Sun, March 15 05:58PM EDT |Sun, March 15 09:58PM GMT |Mon, March 16 08:58AM AEDT |
 
 # Open-wheel
 
@@ -67,9 +66,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|-------------------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------|----------------------------------|-----|-------------------------------------|-------------------------|-------------------------|--------------------------|
 |[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing F4 European Series 2026 |Fixed |Misano World Circuit Marco Simoncelli |Mon, March 09 09:00PM EDT |Tue, March 10 01:00AM GMT |Tue, March 10 12:00PM AEDT |
-|[Sim Racers Group Sunday Funday](https://members.iracing.com/membersite/member/LeagueView.do?league=11412){:target="_blank"} |2026 | |Phillip Island Circuit |Sun, March 08 03:29PM EDT |Sun, March 08 07:29PM GMT |Mon, March 09 06:29AM AEDT |
 
 # Sports Car
 
@@ -87,9 +85,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|--------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------|--------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
 |[PitSkill\.io](https://members.iracing.com/membersite/member/LeagueView.do?league=6359){:target="_blank"} |Cup Car Dash |Both |Autodromo Nazionale Monza |Thu, March 12 02:59PM EDT |Thu, March 12 06:59PM GMT |Fri, March 13 05:59AM AEDT |
-|[Harakiri Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14055){:target="_blank"} |Harakiri Porsche Cup | |Virginia International Raceway |Sun, March 08 02:30PM EDT |Sun, March 08 06:30PM GMT |Mon, March 09 05:30AM AEDT |
+|[F1BC 992 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |992 Cup 2026/2 | |Hockenheimring Baden-Württemberg |Mon, March 16 07:00PM EDT |Mon, March 16 11:00PM GMT |Tue, March 17 10:00AM AEDT |
 
 ### Renault Clio
 
@@ -99,15 +97,15 @@
 |------------------------------------------------------------------------------------------------------------|------------------|-----|-----------------|-------------------------|-------------------------|--------------------------|
 |[Clio Community](https://members.iracing.com/membersite/member/LeagueView.do?league=13974){:target="_blank"} |2026 Week 13 Races |Both |Oran Park Raceway |Wed, March 11 03:00PM EDT |Wed, March 11 07:00PM GMT |Thu, March 12 06:00AM AEDT |
 
-# Dirt Oval
-
-### Dirt Late Model - Super
+### Toyota GR86
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|----------------|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[Free Time Racing Dirt SLM](https://members.iracing.com/membersite/member/LeagueView.do?league=14082){:target="_blank"} |Super Late Model | |Lernerville Speedway |Sun, March 08 08:30PM EDT |Mon, March 09 12:30AM GMT |Mon, March 09 11:30AM AEDT |
+|--------------------------------------------------------------------------------------------------------|-------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[F1BC GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9338){:target="_blank"} |GR Cup 2026/2 | |Watkins Glen International |Mon, March 16 05:25PM EDT |Mon, March 16 09:25PM GMT |Tue, March 17 08:25AM AEDT |
+
+# Dirt Oval
 
 ### Dirt Sprintcar - 410
 
@@ -140,4 +138,12 @@
 |[RaceEPI\.com Race For The Seat](https://members.iracing.com/membersite/member/LeagueView.do?league=14071){:target="_blank"} |RaceEPI\.com 1st Annual Race For The Seat | |Thompson Speedway Motorsports Park |Mon, March 09 07:00PM EDT |Mon, March 09 11:00PM GMT |Tue, March 10 10:00AM AEDT |
 |[PitSkill\.io](https://members.iracing.com/membersite/member/LeagueView.do?league=6359){:target="_blank"} |Offseason 01/2026 |Both |Lime Rock Park |Sun, March 15 01:59PM EDT |Sun, March 15 05:59PM GMT |Mon, March 16 04:59AM AEDT |
 |[League of Extraordinarily Average Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=7272){:target="_blank"} |9\-Winter 2026 | |Fairbury Speedway |Tue, March 10 09:00PM EDT |Wed, March 11 01:00AM GMT |Wed, March 11 12:00PM AEDT |
+
+### IMSA23
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[Pony Express Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6544){:target="_blank"} |GT3 Challenge 2026 S2 |Fixed |Daytona International Speedway |Mon, March 16 07:30PM EDT |Mon, March 16 11:30PM GMT |Tue, March 17 10:30AM AEDT |
 
