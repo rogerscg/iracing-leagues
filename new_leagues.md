@@ -2,15 +2,7 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[American Appalachian E\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14042){:target="_blank"} | |Gen6 Trucks GT3 |
-|[Cushion Theory Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14039){:target="_blank"} | |Pro Dirt late model racing series |
-|[Racers United](https://members.iracing.com/membersite/member/LeagueView.do?league=14037){:target="_blank"} | |Fast and clean Nascar style racing |
-|[Snagnq's mini stocks league](https://members.iracing.com/membersite/member/LeagueView.do?league=14041){:target="_blank"} | |TT FREE mini stocks leaue |
-|[Atzen](https://members.iracing.com/membersite/member/LeagueView.do?league=14036){:target="_blank"} | | |
-|[Clean and Green Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14038){:target="_blank"} | |CGSR league is a invitation\-only series\. |
-|[Garage 2 NASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=14040){:target="_blank"} | | |
-|[Legoya Rennliga](https://members.iracing.com/membersite/member/LeagueView.do?league=14035){:target="_blank"} | | |
-|[CBA / MAX \- 6h de Spa\-Francorchamps](https://members.iracing.com/membersite/member/LeagueView.do?league=14045){:target="_blank"} | |Evento oficial da CBA \- Confederação Brasileira de Automobilismo |
+|[CBA / MAX \- Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=14045){:target="_blank"} | |Evento oficial da CBA \- Confederação Brasileira de Automobilismo |
 |[CRS SimRacing Championship 2026 \(Race Sessions\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14047){:target="_blank"} | | |
 |[Midgets/Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=14046){:target="_blank"} | | |
 |[Mono Competition](https://members.iracing.com/membersite/member/LeagueView.do?league=14044){:target="_blank"} | |Practice Sessions of Mono Competition |
@@ -91,8 +83,8 @@
 |[Pending Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14128){:target="_blank"} | | |
 |[Racing Line League](https://members.iracing.com/membersite/member/LeagueView.do?league=14126){:target="_blank"} |[Discord](https://discord.gg/cRqugAMtNU){:target="_blank"} |Racing Line League |
 |[VARE](https://members.iracing.com/membersite/member/LeagueView.do?league=14123){:target="_blank"} | |VARE Has been a highly Successful NASCAR League operating on console for 6 Years Now coming to the Sim and hoping for many more successful years on the Iracing platform |
-|[Friday Funtimers](https://members.iracing.com/membersite/member/LeagueView.do?league=14127){:target="_blank"} | |Events will be on Friday starting at 5pm est  \*Fulltime I2I league drivers only\*  Strictly a fun league for the I2I league drivers |
-|[AUS/NZ Demolition Derby Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14130){:target="_blank"} | | |
+|[Friday Funtimers](https://members.iracing.com/membersite/member/LeagueView.do?league=14127){:target="_blank"} | |Events will be held on TBD starting at 5pm est  \*Fulltime I2I league drivers only\*  Strictly a fun league for the I2I league drivers |
+|[403 Sim Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=14130){:target="_blank"} | | |
 |[gpt racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14133){:target="_blank"} | |sports car racing we are a casual league |
 |[Infinite Garage Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14135){:target="_blank"} | |Slow cars for slow people |
 |[LeadFoot Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14138){:target="_blank"} | | |
@@ -100,4 +92,9 @@
 |[LeadFoot O'Reilly's Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14137){:target="_blank"} | | |
 |[UFO](https://members.iracing.com/membersite/member/LeagueView.do?league=14132){:target="_blank"} | | |
 |[American Stock Car Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14134){:target="_blank"} |[Discord](https://discord.gg/fWRzqs9263){:target="_blank"} |TEMP |
+|[Billy Oirish Racing GR86 League 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14142){:target="_blank"} | |BillyOirish Racing promotes and runs the GR86 League\. It will comprise of 12 rounds, and the points accumulated from each round will count towards the given championship unless otherwise stated\. Please see the link below for the general rules\. Register at www\.BillyOirish\.com/GR86 |
+|[Billy Oirish Racing Porsche Cup 2026 Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=14143){:target="_blank"} | |BillyOirish Racing promotes and runs the Porsche Cup League\. It will comprise of 12 rounds, and the points accumulated from each round will count towards the given championship unless otherwise stated\. Please see the link below for the general rules\. Register at www\.BillyOirish\.com/PCUP |
+|[F1 just for fun](https://members.iracing.com/membersite/member/LeagueView.do?league=14140){:target="_blank"} | |just for fun |
+|[HRL \| Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14139){:target="_blank"} |[Discord](https://discord.gg/2xsmQvMGaG){:target="_blank"} |20\-race Cup Series using O'Reilly cars\. |
+|[FCL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14141){:target="_blank"} | |League racing for FC's |
 
