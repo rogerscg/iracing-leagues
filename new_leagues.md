@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[CBA / MAX \- Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=14045){:target="_blank"} | |Evento oficial da CBA \- Confederação Brasileira de Automobilismo |
-|[CRS SimRacing Championship 2026 \(Race Sessions\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14047){:target="_blank"} | | |
-|[Midgets/Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=14046){:target="_blank"} | | |
-|[Mono Competition](https://members.iracing.com/membersite/member/LeagueView.do?league=14044){:target="_blank"} | |Practice Sessions of Mono Competition |
-|[NitroZone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14043){:target="_blank"} |[Discord](https://discord.gg/9YDNPMDPEu){:target="_blank"} |iRacing Truck League driven on Performance |
 |[Great Lakes Sim](https://members.iracing.com/membersite/member/LeagueView.do?league=14049){:target="_blank"} | | |
 |[Great Lakes Sim "Club Members"](https://members.iracing.com/membersite/member/LeagueView.do?league=14048){:target="_blank"} | | |
 |[Sunnyvale Trailer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14052){:target="_blank"} | |Greasy |
@@ -97,4 +92,7 @@
 |[F1 just for fun](https://members.iracing.com/membersite/member/LeagueView.do?league=14140){:target="_blank"} | |just for fun |
 |[HRL \| Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14139){:target="_blank"} |[Discord](https://discord.gg/2xsmQvMGaG){:target="_blank"} |20\-race Cup Series using O'Reilly cars\. |
 |[FCL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14141){:target="_blank"} | |League racing for FC's |
+|[Neon Simsports World Touring Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14145){:target="_blank"} | | |
+|[The Kitchen Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=14144){:target="_blank"} | |Where members of the kitchen come to do battle |
+|[WEC 2K](https://members.iracing.com/membersite/member/LeagueView.do?league=14146){:target="_blank"} | |Join the thrill of LMP1, LMP2, and GTE from the 2010's NOW IN IRACING\. |
 
