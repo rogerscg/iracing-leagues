@@ -2,15 +2,11 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Great Lakes Sim](https://members.iracing.com/membersite/member/LeagueView.do?league=14049){:target="_blank"} | | |
-|[Great Lakes Sim "Club Members"](https://members.iracing.com/membersite/member/LeagueView.do?league=14048){:target="_blank"} | | |
-|[Sunnyvale Trailer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14052){:target="_blank"} | |Greasy |
 |[AMS \- SimGamingExpo \- FR500S](https://members.iracing.com/membersite/member/LeagueView.do?league=14062){:target="_blank"} | |FR500S Live RACE |
 |[AMS \- SIMRACING EXPO CHARLOTTE](https://members.iracing.com/membersite/member/LeagueView.do?league=14061){:target="_blank"} | |FR500S Invitational event |
 |[Harakiri Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14055){:target="_blank"} | | |
 |[\(JOB\) Jacksons Outback Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14057){:target="_blank"} | |Fun Happy Racing |
 |[Lanier Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14059){:target="_blank"} | |10 week Pro late model Series |
-|[Moonlight Racing League MRL Thursday Night Thriller](https://members.iracing.com/membersite/member/LeagueView.do?league=14053){:target="_blank"} | |O'Reilly Series Car |
 |[Next\-Level Gaming ARCA League](https://members.iracing.com/membersite/member/LeagueView.do?league=14058){:target="_blank"} | | |
 |[Bootleg Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14060){:target="_blank"} | |VDOT Empolyee only league |
 |[ESSEF Spring 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14054){:target="_blank"} | |Official League of ESSEF \(Empire State Scholastic Esports Federation\) |
@@ -94,5 +90,9 @@
 |[FCL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14141){:target="_blank"} | |League racing for FC's |
 |[Neon Simsports World Touring Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14145){:target="_blank"} | | |
 |[The Kitchen Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=14144){:target="_blank"} | |Where members of the kitchen come to do battle |
-|[WEC 2K](https://members.iracing.com/membersite/member/LeagueView.do?league=14146){:target="_blank"} | |Join the thrill of LMP1, LMP2, and GTE from the 2010's NOW IN IRACING\. |
+|[WEC 2K](https://members.iracing.com/membersite/member/LeagueView.do?league=14146){:target="_blank"} |[Discord](https://discord.gg/qj5eH4azd6){:target="_blank"} |Join the thrill of LMP1, LMP2, and GTE from the 2010's NOW IN IRACING\. |
+|[BlackSteel\-Qualifying](https://members.iracing.com/membersite/member/LeagueView.do?league=14148){:target="_blank"} | |Best Lap Times |
+|[Mafia Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14147){:target="_blank"} |[Discord](https://discord.gg/TCCJg5NNyk){:target="_blank"} |Mafia Motorsport League for GTP and GT3 10 weeks of competition\. |
+|[MDRA Midwest Dirt Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14150){:target="_blank"} | |MDRA was created as a way for a group of people to come together and have some home roots racing\. We provide everything from dirt car racing, mini stock and street stocks, NASCAR, and fun events\! \(Yes we do Figure 8 racing sometimes\.\) If you want a relaxed place to race come check us out\! |
+|[SUPERLAP Rookie Racer](https://members.iracing.com/membersite/member/LeagueView.do?league=14149){:target="_blank"} | | |
 
