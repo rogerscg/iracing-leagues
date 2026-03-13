@@ -2,17 +2,8 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[AMS \- SimGamingExpo \- FR500S](https://members.iracing.com/membersite/member/LeagueView.do?league=14062){:target="_blank"} | |FR500S Live RACE |
-|[AMS \- SIMRACING EXPO CHARLOTTE](https://members.iracing.com/membersite/member/LeagueView.do?league=14061){:target="_blank"} | |FR500S Invitational event |
-|[Harakiri Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14055){:target="_blank"} | | |
-|[\(JOB\) Jacksons Outback Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14057){:target="_blank"} | |Fun Happy Racing |
-|[Lanier Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14059){:target="_blank"} | |10 week Pro late model Series |
-|[Next\-Level Gaming ARCA League](https://members.iracing.com/membersite/member/LeagueView.do?league=14058){:target="_blank"} | | |
-|[Bootleg Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14060){:target="_blank"} | |VDOT Empolyee only league |
-|[ESSEF Spring 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14054){:target="_blank"} | |Official League of ESSEF \(Empire State Scholastic Esports Federation\) |
 |[DGTS \- DECS](https://members.iracing.com/membersite/member/LeagueView.do?league=14067){:target="_blank"} | | |
 |[E\-Sports SimRacing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=14064){:target="_blank"} | |𝗘𝗦𝗥 𝗘\-𝗦𝗽𝗼𝗿𝘁𝘀 𝗦𝗶𝗺𝗿𝗮𝗰𝗶𝗻𝗴 to polska liga simracingowa z wieloletnim doświadczeniem\. Organizujemy zawody w Gran Turismo 7 \(PS5\) Assetto Corsa & iRacing \(PC\)\. Realizm, rywalizacja i wysoki poziom sportowy\. Dołącz do społeczności ESR\. \#RaceWithESR \#TogetherWeAreFaster |
-|[FastFriends \- Championship 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14063){:target="_blank"} | |GT3 Cars \- Australian Tracks |
 |[No Sleep Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14065){:target="_blank"} |[Discord](https://discord.gg/k4A4AqkJvT){:target="_blank"} |Friday Night Extreme Length Oreilly's Series open setup races |
 |[Kaizen Autosport's SIM/RACERS](https://members.iracing.com/membersite/member/LeagueView.do?league=14066){:target="_blank"} | |Drivers compete for a real life racing school April 19\-20 Powered by Kaizen Autosport and hosted by pohlracing |
 |[ARL \- All Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14077){:target="_blank"} | |La ligue de course virtuelle d'élite sur iRacing\. Rejoignez les meilleurs pilotes et suivez vos performances\. |
@@ -77,7 +68,7 @@
 |[Friday Funtimers](https://members.iracing.com/membersite/member/LeagueView.do?league=14127){:target="_blank"} | |Events will be held on TBD starting at 5pm est  \*Fulltime I2I league drivers only\*  Strictly a fun league for the I2I league drivers |
 |[403 Sim Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=14130){:target="_blank"} | | |
 |[gpt racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14133){:target="_blank"} | |sports car racing we are a casual league |
-|[Infinite Garage Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14135){:target="_blank"} | |Slow cars for slow people |
+|[Vapor Trail Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14135){:target="_blank"} | |Slow cars for slow people |
 |[LeadFoot Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14138){:target="_blank"} | | |
 |[LeadFoot Nextgen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14136){:target="_blank"} | | |
 |[LeadFoot O'Reilly's Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14137){:target="_blank"} | | |
@@ -95,4 +86,10 @@
 |[Mafia Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14147){:target="_blank"} |[Discord](https://discord.gg/TCCJg5NNyk){:target="_blank"} |Mafia Motorsport League for GTP and GT3 10 weeks of competition\. |
 |[MDRA Midwest Dirt Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14150){:target="_blank"} | |MDRA was created as a way for a group of people to come together and have some home roots racing\. We provide everything from dirt car racing, mini stock and street stocks, NASCAR, and fun events\! \(Yes we do Figure 8 racing sometimes\.\) If you want a relaxed place to race come check us out\! |
 |[SUPERLAP Rookie Racer](https://members.iracing.com/membersite/member/LeagueView.do?league=14149){:target="_blank"} | | |
+|[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} | | |
+|[Full Throttle Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14157){:target="_blank"} |[Discord](https://discord.gg/JhJUsEXw){:target="_blank"} |Super Dirt/Asphalt Late Models |
+|[HBT Nascar racing leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14152){:target="_blank"} | | |
+|[LostBoys](https://members.iracing.com/membersite/member/LeagueView.do?league=14156){:target="_blank"} | |mods\(northeast\), latemodels & sprints |
+|[MannClann](https://members.iracing.com/membersite/member/LeagueView.do?league=14155){:target="_blank"} | | |
+|[Gallo Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14154){:target="_blank"} | | |
 
