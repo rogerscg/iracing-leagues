@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed | | | | |
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |38 |2386 |Fixed | | | | |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Championship Season 12 |28 |2383 |Both | | | | |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Championship Season 12 |28 |2383 |Both |Autódromo Hermanos Rodríguez |Sun, March 15 08:00PM EDT |Mon, March 16 12:00AM GMT |Mon, March 16 11:00AM AEDT |
 |[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |SKF LMP2 SPRINT |26 |2118 | |Road America |Tue, March 17 01:00PM EDT |Tue, March 17 05:00PM GMT |Wed, March 18 04:00AM AEDT |
 
 ### GTP
@@ -30,7 +30,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 1 |38 |2822 |Open | | | | |
-|[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |23 |1604 | |Sonoma Raceway |Fri, March 13 02:30AM EDT |Fri, March 13 06:30AM GMT |Fri, March 13 05:30PM AEDT |
+|[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |24 |1590 | | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |2009 |Open |Sebring International Raceway |Wed, March 18 08:30PM EDT |Thu, March 19 12:30AM GMT |Thu, March 19 11:30AM AEDT |
 
 ### Ligier JS P320
@@ -59,15 +59,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |34 |2083 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |33 |2502 |Both |Sachsenring |Tue, March 17 03:48AM EDT |Tue, March 17 07:48AM GMT |Tue, March 17 06:48PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |19 |2806 | |Canadian Tire Motorsports Park |Mon, March 16 03:50PM EDT |Mon, March 16 07:50PM GMT |Tue, March 17 06:50AM AEDT |
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |17 |1824 | |Summit Point Raceway |Sun, March 15 02:00PM EDT |Sun, March 15 06:00PM GMT |Mon, March 16 05:00AM AEDT |
-|[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 4\.1 |15 |2240 |Fixed |Nürburgring Grand-Prix-Strecke |Fri, March 13 08:30PM EDT |Sat, March 14 12:30AM GMT |Sat, March 14 11:30AM AEDT |
-|[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |14 |1964 | |Suzuka International Racing Course |Fri, March 13 01:15PM EDT |Fri, March 13 05:15PM GMT |Sat, March 14 04:15AM AEDT |
+|[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 4\.1 |15 |2257 |Fixed |Autódromo José Carlos Pace |Fri, March 20 08:30PM EDT |Sat, March 21 12:30AM GMT |Sat, March 21 11:30AM AEDT |
+|[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |14 |1949 | | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Wild Races |14 |None | | | | | |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |SR8 |13 |1363 | |Circuit de Spa-Francorchamps |Thu, March 19 08:00PM EDT |Fri, March 20 12:00AM GMT |Fri, March 20 11:00AM AEDT |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |SR8 |13 |1363 | | | | | |
 |[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |Midweek Sprint Series \| Season 5 |10 |1804 |Both | | | | |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |10 |1886 |Fixed |Virginia International Raceway |Sat, March 14 04:00PM EDT |Sat, March 14 08:00PM GMT |Sun, March 15 07:00AM AEDT |
 |[Rental Kart Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=12081){:target="_blank"} |Radical SR8 Lime Rock Park Championship \- WED 730 |10 |1560 |Both |Lime Rock Park |Wed, March 18 07:31PM EDT |Wed, March 18 11:31PM GMT |Thu, March 19 10:31AM AEDT |

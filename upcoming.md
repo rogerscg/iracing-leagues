@@ -20,8 +20,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |NextGen Season 4 |Fixed |Daytona International Speedway |Fri, March 13 07:00PM EDT |Fri, March 13 11:00PM GMT |Sat, March 14 10:00AM AEDT |
+|------------------------------------------------------------------------------------------------------------------------------|---------------|-----|---------------------------|-------------------------|-------------------------|--------------------------|
 |[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |Season2\(2026\) |Fixed |EchoPark Speedway (Atlanta) |Fri, March 20 08:30AM EDT |Fri, March 20 12:30PM GMT |Fri, March 20 11:30PM AEDT |
 
 ### NASCAR O'Reilly Series
@@ -38,12 +37,21 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[DES Pr League](https://members.iracing.com/membersite/member/LeagueView.do?league=11600){:target="_blank"} |Trucks Premier Season 3 | |Daytona International Speedway |Sat, March 14 08:30PM EDT |Sun, March 15 12:30AM GMT |Sun, March 15 11:30AM AEDT |
 |[Venom Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6861){:target="_blank"} |Venom Truck Series Season 11 |Fixed |Daytona International Speedway |Tue, March 17 07:30PM EDT |Tue, March 17 11:30PM GMT |Wed, March 18 10:30AM AEDT |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 38 \- Trucks |Fixed |Rockingham Speedway |Tue, March 17 01:00PM EDT |Tue, March 17 05:00PM GMT |Wed, March 18 04:00AM AEDT |
+|[HBT Nascar racing leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14152){:target="_blank"} |Nascar trucks season 1 | |Daytona International Speedway |Sat, March 21 05:00PM EDT |Sat, March 21 09:00PM GMT |Sun, March 22 08:00AM AEDT |
 
 # Oval
+
+### Late Model Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
+|[Bushwacker Race Team](https://members.iracing.com/membersite/member/LeagueView.do?league=9770){:target="_blank"} |Bushwacker Late Model Season 1 | |Southern National Motorsports Park |Sun, March 15 07:00PM EDT |Sun, March 15 11:00PM GMT |Mon, March 16 10:00AM AEDT |
 
 ### Legends
 
@@ -128,6 +136,14 @@
 
 # Dirt Oval
 
+### Dirt Late Model - Super
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------|------------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|[CDM Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=14120){:target="_blank"} |CDM Super Season 1 | |Bristol Motor Speedway |Sat, March 21 09:00PM EDT |Sun, March 22 01:00AM GMT |Sun, March 22 12:00PM AEDT |
+
 ### Dirt Sprintcar - 410
 
 [Back to Top](#)  
@@ -143,20 +159,21 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[NEP Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6393){:target="_blank"} |NEP Endurance 2026 | |Sebring International Raceway |Tue, March 17 07:30PM EDT |Tue, March 17 11:30PM GMT |Wed, March 18 10:30AM AEDT |
 |[British Sim Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13841){:target="_blank"} |2026 | |Donington Park Racing Circuit |Tue, March 17 02:30PM EDT |Tue, March 17 06:30PM GMT |Wed, March 18 05:30AM AEDT |
 |[Northwest Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2381){:target="_blank"} |NWGT \- Season 1 | |Oran Park Raceway |Tue, March 17 10:15PM EDT |Wed, March 18 02:15AM GMT |Wed, March 18 01:15PM AEDT |
 |[FMA](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} |Marrs Hardwood GT3 Season 3 |Fixed |Miami International Autodrome |Mon, March 16 08:15PM EDT |Tue, March 17 12:15AM GMT |Tue, March 17 11:15AM AEDT |
 |[Copa Martillo](https://members.iracing.com/membersite/member/LeagueView.do?league=13946){:target="_blank"} |Copa Martillo GT3 |Fixed |Circuit des 24 Heures du Mans |Fri, March 20 04:45PM EDT |Fri, March 20 08:45PM GMT |Sat, March 21 07:45AM AEDT |
+|[Clark St\. James GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=11737){:target="_blank"} |Clark St\. James GT3 Season 11 | |Donington Park Racing Circuit |Mon, March 16 03:00PM EDT |Mon, March 16 07:00PM GMT |Tue, March 17 06:00AM AEDT |
+|[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2026/2 | |Circuit des 24 Heures du Mans |Thu, March 19 05:10PM EDT |Thu, March 19 09:10PM GMT |Fri, March 20 08:10AM AEDT |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[G&R Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13452){:target="_blank"} |Season 2: Proto\-GT Sprint Series |Fixed |Autódromo José Carlos Pace |Fri, March 13 05:00PM EDT |Fri, March 13 09:00PM GMT |Sat, March 14 08:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[XMS Racing Ricmotech Touring Car Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4438){:target="_blank"} |Ricmotech TCC Season 26 |Open |Watkins Glen International |Wed, March 18 07:00PM EDT |Wed, March 18 11:00PM GMT |Thu, March 19 10:00AM AEDT |
 |[PitSkill\.io](https://members.iracing.com/membersite/member/LeagueView.do?league=6359){:target="_blank"} |Offseason 1/26 |Both |Lime Rock Park |Sun, March 15 02:59PM EDT |Sun, March 15 06:59PM GMT |Mon, March 16 05:59AM AEDT |
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |Season 9 \- Chaos Season | |Fuji International Speedway |Fri, March 20 03:30PM EDT |Fri, March 20 07:30PM GMT |Sat, March 21 06:30AM AEDT |

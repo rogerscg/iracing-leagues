@@ -42,16 +42,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|---------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
 |[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |Pro late models |71 |3439 | | | | | |
 |[RPES 360 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11709){:target="_blank"} |2026 RPES Winter Heat by Metcalf Media |50 |2922 | | | | | |
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Pro Late Models Season 2 |48 |2632 |Both | | | | |
 |[Montana iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7823){:target="_blank"} |2026 Late Models |28 |1898 |Fixed | | | | |
+|[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2026 Dirt Pro Late Models |28 |1962 |Fixed |Knoxville Raceway |Fri, March 20 09:15PM EDT |Sat, March 21 01:15AM GMT |Sat, March 21 12:15PM AEDT |
 |[J&B Sim Racing Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} |J&B Late Model Tour Season 5 |26 |2520 |Fixed | | | | |
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Monday Masters of Dirt \- Season 3 |25 |1502 |Fixed |Eldora Speedway |Mon, March 16 08:00PM EDT |Tue, March 17 12:00AM GMT |Tue, March 17 11:00AM AEDT |
-|[Bone Head Racing: Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=4204){:target="_blank"} |BHR Dirt Tour: Season 2 |25 |2885 |Fixed | | | | |
+|[Bone Head Racing: Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=4204){:target="_blank"} |BHR Dirt Tour: Season 2 |25 |2885 |Fixed |Oswego Speedway |Wed, March 18 08:00PM EDT |Thu, March 19 12:00AM GMT |Thu, March 19 11:00AM AEDT |
 |[Friday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=7798){:target="_blank"} |DTB/FNL Pro Latemodel 2025 |24 |3240 |Fixed | | | | |
-|[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2026 Dirt Pro Late Models |24 |1918 |Fixed |The Dirt Track at Charlotte |Fri, March 13 09:15PM EDT |Sat, March 14 01:15AM GMT |Sat, March 14 12:15PM AEDT |
 |[Pro Late Model Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4122){:target="_blank"} |PRO LATE MODEL DIRT SERIES \- 2026 |23 |2578 |Fixed |USA International Speedway |Tue, March 17 09:00PM EDT |Wed, March 18 01:00AM GMT |Wed, March 18 12:00PM AEDT |
 |[ECC pro late](https://members.iracing.com/membersite/member/LeagueView.do?league=13490){:target="_blank"} |pro late season 1 |23 |2889 |Open | | | | |
 |[Wheel 2 Wheel Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12216){:target="_blank"} |Off Season Dirt League 2025 |22 |1878 | | | | | |
@@ -97,6 +97,7 @@
 |[UKMR \- UK Midget Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13745){:target="_blank"} |UKMR \- UK Midget Racing |27 |2502 |Open | | | | |
 |[B\-Main Bandits Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7114){:target="_blank"} |Spring Midget Series |23 |2782 |Fixed |Weedsport Speedway |Tue, March 17 09:00PM EDT |Wed, March 18 01:00AM GMT |Wed, March 18 12:00PM AEDT |
 |[BRL National Sprint Car Trail](https://members.iracing.com/membersite/member/LeagueView.do?league=8516){:target="_blank"} |NSCT S2 \- Midget |22 |1734 |Fixed | | | | |
+|[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} |NZMR Midgets |14 |1276 | | | | | |
 |[DND Dirt Midgets](https://members.iracing.com/membersite/member/LeagueView.do?league=13656){:target="_blank"} |dnd dirt midgets |13 |2246 |Fixed |Lernerville Speedway |Sun, March 15 09:00PM EDT |Mon, March 16 01:00AM GMT |Mon, March 16 12:00PM AEDT |
 |[Dirt Thunder Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8819){:target="_blank"} |Clash on the Clay 2026 |12 |2013 | |Bristol Motor Speedway |Tue, March 17 08:30AM EDT |Tue, March 17 12:30PM GMT |Tue, March 17 11:30PM AEDT |
 |[CJP](https://members.iracing.com/membersite/member/LeagueView.do?league=13529){:target="_blank"} |CJP midgets |10 |1996 | | | | | |
@@ -107,7 +108,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |2026 RHS Unlimited LLC Dirt Micro Outlaw series |21 |1262 |Fixed |Lernerville Speedway |Sat, March 14 07:00PM EDT |Sat, March 14 11:00PM GMT |Sun, March 15 10:00AM AEDT |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |2026 RHS Unlimited LLC Dirt Micro Outlaw series |21 |1262 |Fixed |Lernerville Speedway |Sat, March 14 09:30PM EDT |Sun, March 15 01:30AM GMT |Sun, March 15 12:30PM AEDT |
 |[FALCONGRAPHIX Tuesday Night Lights Micro Sprint Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8578){:target="_blank"} |Season 8: Dirt Winged Micro Sprints |15 |1923 | | | | | |
 |[Hangover Crew Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4393){:target="_blank"} |World Series of Short Track Racing |11 |1949 |Fixed | | | | |
 
@@ -176,12 +177,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|------------------|-------------------------|-------------------------|--------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
 |[PS Enduros](https://members.iracing.com/membersite/member/LeagueView.do?league=7139){:target="_blank"} |Enduros Season 6 |59 |3564 |Fixed | | | | |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Winter 25\-26 Street Stocks |35 |2447 |Fixed | | | | |
 |[Midwest Dirt Street Stock Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=10858){:target="_blank"} |Midwest Dirt Street Stock Showdown Season 2 |34 |3735 |Fixed | | | | |
 |[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2025\-26 street stock |30 |2408 |Fixed | | | | |
-|[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Street Stocks Super Winter Series 2026 |26 |2828 | |Lucas Oil Speedway |Fri, March 13 06:00AM EDT |Fri, March 13 10:00AM GMT |Fri, March 13 09:00PM AEDT |
+|[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Street Stocks Super Winter Series 2026 |26 |2823 | |Federated Auto Parts Raceway at I-55 |Fri, March 20 06:00AM EDT |Fri, March 20 10:00AM GMT |Fri, March 20 09:00PM AEDT |
 |[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |NWRA Dirt Street Stocks Season 10 |23 |3890 |Both | | | | |
 |[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |LCDD Saison 3 \- Street Stock Dirt |21 |1623 |Fixed | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS STREET STOCK SERIES |20 |2398 | | | | | |
@@ -235,7 +236,6 @@
 |[MO Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=4895){:target="_blank"} |2025\-2026 WINTER BLAST |22 |2187 | | | | | |
 |[Ozark Mountain Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13791){:target="_blank"} |Ozark Mountain Dirt Series |21 |1628 | | | | | |
 |[Glenn Dirt Tour \[GDT\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13485){:target="_blank"} |GDT |20 |2501 | | | | | |
-|[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} |NZMR Midgets |14 |1276 | | | | | |
+|[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} |NZMR Sprint Cars |14 |1594 | | | | | |
 |[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} |Dirt Tour |14 |1200 |Fixed |Kokomo Speedway |Tue, March 17 08:30PM EDT |Wed, March 18 12:30AM GMT |Wed, March 18 11:30AM AEDT |
-|[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} |NZMR Sprint Cars |13 |1577 | | | | | |
 

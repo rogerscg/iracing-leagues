@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[DGTS \- DECS](https://members.iracing.com/membersite/member/LeagueView.do?league=14067){:target="_blank"} | | |
-|[E\-Sports SimRacing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=14064){:target="_blank"} | |𝗘𝗦𝗥 𝗘\-𝗦𝗽𝗼𝗿𝘁𝘀 𝗦𝗶𝗺𝗿𝗮𝗰𝗶𝗻𝗴 to polska liga simracingowa z wieloletnim doświadczeniem\. Organizujemy zawody w Gran Turismo 7 \(PS5\) Assetto Corsa & iRacing \(PC\)\. Realizm, rywalizacja i wysoki poziom sportowy\. Dołącz do społeczności ESR\. \#RaceWithESR \#TogetherWeAreFaster |
-|[No Sleep Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14065){:target="_blank"} |[Discord](https://discord.gg/k4A4AqkJvT){:target="_blank"} |Friday Night Extreme Length Oreilly's Series open setup races |
-|[Kaizen Autosport's SIM/RACERS](https://members.iracing.com/membersite/member/LeagueView.do?league=14066){:target="_blank"} | |Drivers compete for a real life racing school April 19\-20 Powered by Kaizen Autosport and hosted by pohlracing |
 |[ARL \- All Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14077){:target="_blank"} | |La ligue de course virtuelle d'élite sur iRacing\. Rejoignez les meilleurs pilotes et suivez vos performances\. |
 |[Blackout Racing League Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14075){:target="_blank"} | | |
 |[Checkered](https://members.iracing.com/membersite/member/LeagueView.do?league=14069){:target="_blank"} | |Checkered |
@@ -85,11 +81,16 @@
 |[BlackSteel\-Qualifying](https://members.iracing.com/membersite/member/LeagueView.do?league=14148){:target="_blank"} | |Best Lap Times |
 |[Mafia Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14147){:target="_blank"} |[Discord](https://discord.gg/TCCJg5NNyk){:target="_blank"} |Mafia Motorsport League for GTP and GT3 10 weeks of competition\. |
 |[MDRA Midwest Dirt Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14150){:target="_blank"} | |MDRA was created as a way for a group of people to come together and have some home roots racing\. We provide everything from dirt car racing, mini stock and street stocks, NASCAR, and fun events\! \(Yes we do Figure 8 racing sometimes\.\) If you want a relaxed place to race come check us out\! |
-|[SUPERLAP Rookie Racer](https://members.iracing.com/membersite/member/LeagueView.do?league=14149){:target="_blank"} | | |
+|[SUPERLAP Rookie Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=14149){:target="_blank"} | | |
 |[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} | | |
 |[Full Throttle Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14157){:target="_blank"} |[Discord](https://discord.gg/JhJUsEXw){:target="_blank"} |Super Dirt/Asphalt Late Models |
-|[HBT Nascar racing leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14152){:target="_blank"} | | |
-|[LostBoys](https://members.iracing.com/membersite/member/LeagueView.do?league=14156){:target="_blank"} | |mods\(northeast\), latemodels & sprints |
+|[HBT Nascar racing leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14152){:target="_blank"} |[Discord](https://discord.gg/g3qP6EyPf){:target="_blank"} |https://discord\.gg/g3qP6EyPf please join discord |
+|[LostBoys](https://members.iracing.com/membersite/member/LeagueView.do?league=14156){:target="_blank"} |[Discord](https://discord.gg/y5zxeFCm){:target="_blank"} |mods\(northeast\), latemodels & sprints |
 |[MannClann](https://members.iracing.com/membersite/member/LeagueView.do?league=14155){:target="_blank"} | | |
 |[Gallo Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14154){:target="_blank"} | | |
+|[Exual Tension](https://members.iracing.com/membersite/member/LeagueView.do?league=14162){:target="_blank"} | | |
+|[GTUK \- Powered By Sector1 Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=14161){:target="_blank"} |[Discord](https://discord.gg/J3pE5A5h9B){:target="_blank"} |GT3 and GT4 Racing League, Replicating British GT\. |
+|[Millertime\_Gaming League Nights\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14158){:target="_blank"} |[Discord](https://discord.gg/9B5bfu3w5C){:target="_blank"} |Multiple Series Leagues \(Nascar Oval, Indy Oval, Sportscar Road Races, & Formula Road Races\) |
+|[USORL iBeProfen Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14159){:target="_blank"} | |The most fun you can have for $2\.95 |
+|[f1 \#1](https://members.iracing.com/membersite/member/LeagueView.do?league=14160){:target="_blank"} | |1 |
 

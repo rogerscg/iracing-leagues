@@ -29,8 +29,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------------------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
-|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 11 \- Pro 2 Lites |20 |3118 | |Firebird Motorsports Park |Fri, March 13 08:30PM EDT |Sat, March 14 12:30AM GMT |Sat, March 14 11:30AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------|------------------------|-------|----|-----|-------------|--------|------|------|
+|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 11 \- Pro 2 Lites |28 |3144 | | | | | |
 |[Montana iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7823){:target="_blank"} |2026 Off\-Road Season |15 |1580 |Fixed | | | | |
 
 ### Pro 2 Truck
