@@ -3,6 +3,14 @@
 
 # Rallycross
 
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|-------------|--------|------|------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Open 4WD \- 2026 \(Sat\) |13 |2431 |Fixed | | | | |
+
 ### Rallycross
 
 [Back to Top](#)  

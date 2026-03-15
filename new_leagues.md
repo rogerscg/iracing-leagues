@@ -3,22 +3,14 @@
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[ARL \- All Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14077){:target="_blank"} | |La ligue de course virtuelle d'élite sur iRacing\. Rejoignez les meilleurs pilotes et suivez vos performances\. |
-|[Blackout Racing League Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14075){:target="_blank"} | | |
-|[Checkered](https://members.iracing.com/membersite/member/LeagueView.do?league=14069){:target="_blank"} | |Checkered |
 |[Dirt Demons](https://members.iracing.com/membersite/member/LeagueView.do?league=14076){:target="_blank"} | | |
 |[ENSHU HAMAMATSU MOTORS](https://members.iracing.com/membersite/member/LeagueView.do?league=14083){:target="_blank"} | | |
 |[EZrace Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=14080){:target="_blank"} | | |
 |[Free Time Racing Dirt SLM](https://members.iracing.com/membersite/member/LeagueView.do?league=14082){:target="_blank"} | |Dirt Super Late Model |
 |[Gassed Up Motorsports Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=14081){:target="_blank"} | |Practice league for Gassed Up Motorsports |
-|[Green Flag Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14073){:target="_blank"} | | |
-|[Kidbyers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14072){:target="_blank"} |[Discord](https://discord.gg/GZEVbwyf){:target="_blank"} |KRL was created in 2018, we have gone from PCARS 2 and ACC on the PS5, to iRacing in 2025, our commentator Trev \(AKA Kidbyers\) is one of the best in the business\! New drivers from AUS & NZ are welcome\! Join our discord today\! https://discord\.gg/GZEVbwyf |
-|[Marshmellow Physics](https://members.iracing.com/membersite/member/LeagueView.do?league=14070){:target="_blank"} | |We're racing just for fun, cause this game has Marshmellow Physics\!\!\! |
 |[Ray Esports vRunoffs](https://members.iracing.com/membersite/member/LeagueView.do?league=14079){:target="_blank"} | |League created to facilitate the Week 13 vRunoffs big grid races\. This allows some more options in set up, entry communications, and access\. |
 |[SimCoach Time Attack](https://members.iracing.com/membersite/member/LeagueView.do?league=14078){:target="_blank"} | |SimCoach Time Attack |
-|[SRW League](https://members.iracing.com/membersite/member/LeagueView.do?league=14068){:target="_blank"} | |The official league for team SRW Denmark |
 |[Vision Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=14084){:target="_blank"} |[Discord](https://discord.gg/FftCnq3H){:target="_blank"} |Vision motorsports IRacing GT3 league \- Please join the discord for registration\. |
-|[LOFT N BEER](https://members.iracing.com/membersite/member/LeagueView.do?league=14074){:target="_blank"} | |LOFT N BEER |
-|[RaceEPI\.com Race For The Seat](https://members.iracing.com/membersite/member/LeagueView.do?league=14071){:target="_blank"} | |10 Drivers 1 Seat on the EPI Track Team\. |
 |[C2C \- Powder Puff](https://members.iracing.com/membersite/member/LeagueView.do?league=14091){:target="_blank"} | |Ladies night in C2C |
 |[Elite Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14087){:target="_blank"} | |EDRL is a dirt oval league that prides its self on bringing the best dirt oval racers on the sim to its weekly ranks\. |
 |[G2C Series \- Monday Craftsman Trucks \(Fixed Setup\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14088){:target="_blank"} |[Discord](https://discord.gg/AGsuHYn2Cw){:target="_blank"} |APPLY NOW\! JOIN OUR DISCORD FOR ALL RULES AND INFO\! discord\.gg/AGsuHYn2Cw   NASCAR Craftsman Trucks\.  iRacing Fixed Setups\. |
@@ -93,4 +85,10 @@
 |[Millertime\_Gaming League Nights\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14158){:target="_blank"} |[Discord](https://discord.gg/9B5bfu3w5C){:target="_blank"} |Multiple Series Leagues \(Nascar Oval, Indy Oval, Sportscar Road Races, & Formula Road Races\) |
 |[USORL iBeProfen Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14159){:target="_blank"} | |The most fun you can have for $2\.95 |
 |[f1 \#1](https://members.iracing.com/membersite/member/LeagueView.do?league=14160){:target="_blank"} | |1 |
+|[Dubby Racing Series Chase For The Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14167){:target="_blank"} |[Discord](https://discord.gg/2kq4vSwgPv){:target="_blank"} |Your admins here at Chase for the Cup thrive for our drivers to have a good and fun time\. We are a semi serious league that does endurance, oval, and dirt\. We hope you have fun chasing for the cup\! |
+|[MSA Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=14164){:target="_blank"} | | |
+|[MudSkipping Fan Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=14166){:target="_blank"} |[Discord](https://discord.gg/juVaZwqCBj){:target="_blank"} |Join for year\-round MudSkipping action\! |
+|[Race Mode](https://members.iracing.com/membersite/member/LeagueView.do?league=14168){:target="_blank"} | |Race Mode series |
+|[Duijn/Hopman GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=14163){:target="_blank"} | | |
+|[McTreb](https://members.iracing.com/membersite/member/LeagueView.do?league=14165){:target="_blank"} | |Cup Series |
 
