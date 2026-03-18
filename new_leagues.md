@@ -2,14 +2,9 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[All American Racing Network \- Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14097){:target="_blank"} | |Truck Series |
-|[Atlantic Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14100){:target="_blank"} | |Late Model Stock Car Series |
 |[Black Onyx Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14106){:target="_blank"} |[Discord](https://discord.gg/E7BXSu4qG7){:target="_blank"} |All Types of Formula Racing |
-|[DRC \- Daron Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14098){:target="_blank"} | |La ligue des darons |
 |[gen3 supercars v8](https://members.iracing.com/membersite/member/LeagueView.do?league=14102){:target="_blank"} | |racing gen3 supercars following the 2026 season |
 |[Road Sixty\-Six](https://members.iracing.com/membersite/member/LeagueView.do?league=14103){:target="_blank"} | |Road Sixty‑Six is a Friday‑night road racing league focused on clean, respectful driving and full race‑night events\. Sessions include practice, open qualifying, and a one‑hour race using a single car class each season\. The league uses track‑specific iRacing preset setups, simple rules, and a participation‑first culture with no drama or social requirements\. Drivers of all skill levels are welcome as long as they race clean and finish what they start\. |
-|[shyatest](https://members.iracing.com/membersite/member/LeagueView.do?league=14099){:target="_blank"} | |bleh |
-|[SPRL ARCA Bandit GFX Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14094){:target="_blank"} | | |
 |[The B Main Boyz](https://members.iracing.com/membersite/member/LeagueView.do?league=14104){:target="_blank"} | |We do dirt\. We don't do it well\. |
 |[iRacing NL](https://members.iracing.com/membersite/member/LeagueView.do?league=14101){:target="_blank"} | |Home of the iRacing NL Championship |
 |[Team JAMB](https://members.iracing.com/membersite/member/LeagueView.do?league=14105){:target="_blank"} | |Practice sessions for Team JAMB\. |
@@ -59,7 +54,7 @@
 |[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} | | |
 |[Full Throttle Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14157){:target="_blank"} |[Discord](https://discord.gg/JhJUsEXw){:target="_blank"} |Super Dirt/Asphalt Late Models |
 |[HBT Nascar racing leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14152){:target="_blank"} |[Discord](https://discord.gg/g3qP6EyPf){:target="_blank"} |https://discord\.gg/g3qP6EyPf please join discord |
-|[LostBoyz](https://members.iracing.com/membersite/member/LeagueView.do?league=14156){:target="_blank"} |[Discord](https://discord.gg/y5zxeFCm){:target="_blank"} |mods\(northeast\), latemodels & sprints |
+|[LostBoyz](https://members.iracing.com/membersite/member/LeagueView.do?league=14156){:target="_blank"} |[Discord](https://discord.gg/y5zxeFCm){:target="_blank"} |mods\(northeast\), latemodels |
 |[MannClann](https://members.iracing.com/membersite/member/LeagueView.do?league=14155){:target="_blank"} | | |
 |[Gallo Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14154){:target="_blank"} | | |
 |[Exual Tension](https://members.iracing.com/membersite/member/LeagueView.do?league=14162){:target="_blank"} | | |
@@ -83,4 +78,10 @@
 |[MMS Donator Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14182){:target="_blank"} | |Money/Points Racing |
 |[Stint24](https://members.iracing.com/membersite/member/LeagueView.do?league=14181){:target="_blank"} | |Stint24 is a multiclass iRacing endurance league focused on properly run long\-distance racing, with live stewarding, class\-based championships, and optional per\-race bonus prizes\. |
 |[YESCAR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14184){:target="_blank"} | |League for YESCAR truck series drivers |
+|[Formula ARCS](https://members.iracing.com/membersite/member/LeagueView.do?league=14187){:target="_blank"} | |F1 league that runs under the ARCS banner |
+|[nto](https://members.iracing.com/membersite/member/LeagueView.do?league=14189){:target="_blank"} | | |
+|[OWPL](https://members.iracing.com/membersite/member/LeagueView.do?league=14188){:target="_blank"} | |The Open\-Wheel Premier League \(OWPL\) is a serious, professional\-style IR\-18 league on iRacing\. We run an 18\-race season with a balanced mix of high\-speed ovals, technical road courses, and street circuits using the real IndyCar points system \(including double points at Indy 500, Michigan, Auto Club, and Pocono\)\. Our focus is simple: race hard, race clean, and build a long\-term community with zero tolerance for intentional contact or toxicity\. Full stewards and incident reports\. Currently in our inaugural mock season to grow the grid before moving to official league format\. If you want competitive, respectful racing with good people — this is the league for you\. |
+|[GSR League Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=14191){:target="_blank"} | | |
+|[Rollin Thunder Racing \- Asphalt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14190){:target="_blank"} | |Orielly's 13 weeks, Alternating Tracks |
+|[Rollin Thunder Racing \- Dirt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14192){:target="_blank"} | |Pro Late Model 13 weeks, Alternating Tracks |
 
