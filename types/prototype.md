@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|-------------|-------------------------|-------------------------|--------------------------|
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed | | | | |
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |38 |2386 |Fixed | | | | |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Championship Season 12 |28 |2383 |Both |Autódromo Hermanos Rodríguez |Wed, March 18 05:00PM EDT |Wed, March 18 09:00PM GMT |Thu, March 19 08:00AM AEDT |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Championship Season 12 |28 |2380 |Both | | | | |
 |[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |SKF LMP2 SPRINT |27 |2125 | |Road Atlanta |Tue, March 24 01:00PM EDT |Tue, March 24 05:00PM GMT |Wed, March 25 04:00AM AEDT |
 
 ### GTP
@@ -28,10 +28,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 1 |38 |2822 |Open | | | | |
 |[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |24 |1590 | | | | | |
-|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |2009 |Open |Sebring International Raceway |Wed, March 18 08:30PM EDT |Thu, March 19 12:30AM GMT |Thu, March 19 11:30AM AEDT |
+|[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |2007 |Open |Circuit de Spa-Francorchamps |Wed, March 25 08:30PM EDT |Thu, March 26 12:30AM GMT |Thu, March 26 11:30AM AEDT |
 
 ### Ligier JS P320
 
@@ -69,7 +69,7 @@
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |SR8 |13 |1363 | | | | | |
 |[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |Midweek Sprint Series \| Season 5 |10 |1804 |Both | | | | |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |10 |1854 |Fixed |Long Beach Street Circuit |Sat, March 21 03:00PM EDT |Sat, March 21 07:00PM GMT |Sun, March 22 06:00AM AEDT |
-|[Rental Kart Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=12081){:target="_blank"} |Radical SR8 Lime Rock Park Championship \- WED 730 |10 |1560 |Both |Lime Rock Park |Wed, March 18 07:31PM EDT |Wed, March 18 11:31PM GMT |Thu, March 19 10:31AM AEDT |
+|[Rental Kart Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=12081){:target="_blank"} |Radical SR8 Lime Rock Park Championship \- WED 730 |10 |1565 |Both |Lime Rock Park |Wed, March 25 07:31PM EDT |Wed, March 25 11:31PM GMT |Thu, March 26 10:31AM AEDT |
 
 ### Riley Daytona Prototype
 

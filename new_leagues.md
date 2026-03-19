@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Black Onyx Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14106){:target="_blank"} |[Discord](https://discord.gg/E7BXSu4qG7){:target="_blank"} |All Types of Formula Racing |
-|[gen3 supercars v8](https://members.iracing.com/membersite/member/LeagueView.do?league=14102){:target="_blank"} | |racing gen3 supercars following the 2026 season |
-|[Road Sixty\-Six](https://members.iracing.com/membersite/member/LeagueView.do?league=14103){:target="_blank"} | |Road Sixty‑Six is a Friday‑night road racing league focused on clean, respectful driving and full race‑night events\. Sessions include practice, open qualifying, and a one‑hour race using a single car class each season\. The league uses track‑specific iRacing preset setups, simple rules, and a participation‑first culture with no drama or social requirements\. Drivers of all skill levels are welcome as long as they race clean and finish what they start\. |
-|[The B Main Boyz](https://members.iracing.com/membersite/member/LeagueView.do?league=14104){:target="_blank"} | |We do dirt\. We don't do it well\. |
-|[iRacing NL](https://members.iracing.com/membersite/member/LeagueView.do?league=14101){:target="_blank"} | |Home of the iRacing NL Championship |
-|[Team JAMB](https://members.iracing.com/membersite/member/LeagueView.do?league=14105){:target="_blank"} | |Practice sessions for Team JAMB\. |
 |[Asphalt Outlaws Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14117){:target="_blank"} | | |
 |[British University Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14108){:target="_blank"} | | |
 |[CDM Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=14120){:target="_blank"} | | |
@@ -84,4 +78,10 @@
 |[GSR League Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=14191){:target="_blank"} | | |
 |[Rollin Thunder Racing \- Asphalt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14190){:target="_blank"} | |Orielly's 13 weeks, Alternating Tracks |
 |[Rollin Thunder Racing \- Dirt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14192){:target="_blank"} | |Pro Late Model 13 weeks, Alternating Tracks |
+|[252 Racing Figure 8 Chaos](https://members.iracing.com/membersite/member/LeagueView.do?league=14193){:target="_blank"} | | |
+|[Contractors cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14197){:target="_blank"} | |For fun |
+|[Cyclone Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14195){:target="_blank"} | | |
+|[GSRA](https://members.iracing.com/membersite/member/LeagueView.do?league=14196){:target="_blank"} | | |
+|[PROGRID \| GT3 CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=14198){:target="_blank"} | |A liga que mais cresce no AV\! |
+|[AVGP](https://members.iracing.com/membersite/member/LeagueView.do?league=14194){:target="_blank"} | |Astronaut Van Grand Prix |
 

@@ -54,9 +54,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|----------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[HBT Nascar racing leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14152){:target="_blank"} |Nascar trucks season 1 | |Daytona International Speedway |Sat, March 21 05:00PM EDT |Sat, March 21 09:00PM GMT |Sun, March 22 08:00AM AEDT |
-|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |ARS Trucks AI Challenge Series Season 1 |Fixed |Daytona International Speedway |Wed, March 18 07:30PM EDT |Wed, March 18 11:30PM GMT |Thu, March 19 10:30AM AEDT |
 
 ### Whelen Modified
 
@@ -69,17 +68,23 @@
 
 # Oval
 
+### Dirt Mini Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.9 K\.A\.T\. Racing Dirt Mini Stocks |Fixed |Volusia Speedway Park |Thu, March 26 09:00PM EDT |Fri, March 27 01:00AM GMT |Fri, March 27 12:00PM AEDT |
+
 ### Late Model Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.2 Helping Hands Contractors Late Model Stock Series |Fixed |USA International Speedway |Mon, March 23 09:15PM EDT |Tue, March 24 01:15AM GMT |Tue, March 24 12:15PM AEDT |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |04 \- Worn Out Racers Sayre Bear Challenge |Fixed |Daytona International Speedway |Thu, March 19 07:55PM EDT |Thu, March 19 11:55PM GMT |Fri, March 20 10:55AM AEDT |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |ACTION Racing Series Pro Series S2 \- Late Model Stock Cars |Fixed |South Boston Speedway |Mon, March 23 07:30PM EDT |Mon, March 23 11:30PM GMT |Tue, March 24 10:30AM AEDT |
-|[\(NSR\) Nortex Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=499){:target="_blank"} |Mixed Season 8 |Fixed |Dover Motor Speedway |Wed, March 18 09:00PM EDT |Thu, March 19 01:00AM GMT |Thu, March 19 12:00PM AEDT |
-|[Track Masters Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11853){:target="_blank"} |Track Masters Sim Series Season 5 | |Lanier National Speedway |Wed, March 18 08:00PM EDT |Thu, March 19 12:00AM GMT |Thu, March 19 11:00AM AEDT |
 
 ### Legends
 
@@ -105,9 +110,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|---------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------|---------|-----|---------------------|-------------------------|-------------------------|--------------------------|
 |[PURE Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |Friday F3 |Both |Rudskogen Motorsenter |Fri, March 20 08:00PM EDT |Sat, March 21 12:00AM GMT |Sat, March 21 11:00AM AEDT |
-|[Sim Racers Group\- Wednesday Advanced F\-3](https://members.iracing.com/membersite/member/LeagueView.do?league=12445){:target="_blank"} |2026 S2 | |Sebring International Raceway |Wed, March 18 08:59PM EDT |Thu, March 19 12:59AM GMT |Thu, March 19 11:59AM AEDT |
 
 ### Dallara IR18
 
@@ -131,8 +135,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|------------------------|-----|--------------|-------------------------|-------------------------|--------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|-------------------|-------------------------|-------------------------|--------------------------|
 |[Burnouts Racing Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=13921){:target="_blank"} |Formula Vee \- 2nd Qtr\. | |Lime Rock Park |Sun, March 22 08:55PM EDT |Mon, March 23 12:55AM GMT |Mon, March 23 11:55AM AEDT |
+|[Formula Vee Trophy by TGR NATION](https://members.iracing.com/membersite/member/LeagueView.do?league=13632){:target="_blank"} |Formula Vee Trophy S2 |Fixed |Oulton Park Circuit |Sun, March 22 06:59PM EDT |Sun, March 22 10:59PM GMT |Mon, March 23 09:59AM AEDT |
 
 ### Indy Pro 2000 PM-18
 
@@ -175,10 +180,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------|-------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
 |[AFvRC](https://members.iracing.com/membersite/member/LeagueView.do?league=8081){:target="_blank"} |AFVRC 2026 |Fixed |Donington Park Racing Circuit |Sun, March 22 03:00PM EDT |Sun, March 22 07:00PM GMT |Mon, March 23 06:00AM AEDT |
-|[Porsche Esport Carrera Cup North America](https://members.iracing.com/membersite/member/LeagueView.do?league=13956){:target="_blank"} |Season 26 | |Sebring International Raceway |Wed, March 18 07:40PM EDT |Wed, March 18 11:40PM GMT |Thu, March 19 10:40AM AEDT |
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |PORSCHE CUP 2026 SAISON 2 | |Autodromo Internazionale Enzo e Dino Ferrari |Wed, March 25 06:15PM EDT |Wed, March 25 10:15PM GMT |Thu, March 26 09:15AM AEDT |
+|[CSC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12596){:target="_blank"} |Season 5 |Fixed |Silverstone Circuit |Sun, March 22 01:00PM EDT |Sun, March 22 05:00PM GMT |Mon, March 23 04:00AM AEDT |
 
 # Prototype
 
@@ -187,8 +192,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
 |[FMA](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} |FMA Prototype Challenge |Fixed |Daytona International Speedway |Thu, March 19 08:00PM EDT |Fri, March 20 12:00AM GMT |Fri, March 20 11:00AM AEDT |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |Open |Autodromo Internazionale del Mugello |Thu, March 19 03:15PM EDT |Thu, March 19 07:15PM GMT |Fri, March 20 06:15AM AEDT |
 
 ### Radical SR10
 
@@ -200,13 +206,13 @@
 
 # Dirt Oval
 
-### Dirt Big Block Modified
+### Dirt Late Model - Limited
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB Big Blocks Season 8 |Open |Volusia Speedway Park |Wed, March 18 09:00PM EDT |Thu, March 19 01:00AM GMT |Thu, March 19 12:00PM AEDT |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.10 NO MANS LAND Limited Late Models |Fixed |Volusia Speedway Park |Thu, March 26 09:15PM EDT |Fri, March 27 01:15AM GMT |Fri, March 27 12:15PM AEDT |
 
 ### Dirt Late Model - Super
 
@@ -215,6 +221,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------|------------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
 |[CDM Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=14120){:target="_blank"} |CDM Super Season 1 | |Bristol Motor Speedway |Sun, March 22 09:00PM EDT |Mon, March 23 01:00AM GMT |Mon, March 23 12:00PM AEDT |
+
+### Dirt Outlaw Micro Sprint Car - Winged
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.8 K\.A\.T\. Racing Outlaw Micro Winged Sprints |Fixed |Volusia Speedway Park |Thu, March 26 08:15PM EDT |Fri, March 27 12:15AM GMT |Fri, March 27 11:15AM AEDT |
 
 ### Dirt Sprintcar - 410
 
@@ -234,15 +248,12 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Red Sox Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=160){:target="_blank"} |2026 RED SOX RACING \- SPRING GT3 SERIES II | |Virginia International Raceway |Thu, March 19 07:15PM EDT |Thu, March 19 11:15PM GMT |Fri, March 20 10:15AM AEDT |
-|[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} |2026S2 GT3 |Both |St. Petersburg Grand Prix |Wed, March 18 08:40PM EDT |Thu, March 19 12:40AM GMT |Thu, March 19 11:40AM AEDT |
 |[Copa Martillo](https://members.iracing.com/membersite/member/LeagueView.do?league=13946){:target="_blank"} |Copa Martillo GT3 |Fixed |Circuit des 24 Heures du Mans |Fri, March 20 04:45PM EDT |Fri, March 20 08:45PM GMT |Sat, March 21 07:45AM AEDT |
 |[F1BC GT3 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=9336){:target="_blank"} |GT3 Master 2026/2 | |Circuit des 24 Heures du Mans |Thu, March 19 05:10PM EDT |Thu, March 19 09:10PM GMT |Fri, March 20 08:10AM AEDT |
 |[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |GT3 iRacers\.com\.br Cup 2026/02 | |St. Petersburg Grand Prix |Sat, March 21 01:50PM EDT |Sat, March 21 05:50PM GMT |Sun, March 22 04:50AM AEDT |
 |[F1BC GT3 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=10107){:target="_blank"} |GT3 Sport 2026/2 | |Circuit des 24 Heures du Mans |Thu, March 19 07:10PM EDT |Thu, March 19 11:10PM GMT |Fri, March 20 10:10AM AEDT |
-|[Latinoamerica SimRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2232){:target="_blank"} |NXT \| GT3LAT 2026 |Fixed |Daytona International Speedway |Wed, March 18 08:00PM EDT |Thu, March 19 12:00AM GMT |Thu, March 19 11:00AM AEDT |
-|[Latinoamerica SimRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2232){:target="_blank"} |ROOKIE \| GT3LAT 2026 |Fixed |Daytona International Speedway |Wed, March 18 08:00PM EDT |Thu, March 19 12:00AM GMT |Thu, March 19 11:00AM AEDT |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |Season 8: Gt3 The Gt3\-ening |Both |Sebring International Raceway |Wed, March 18 08:30PM EDT |Thu, March 19 12:30AM GMT |Thu, March 19 11:30AM AEDT |
 |[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Spring '26 Season |Open |Silverstone Circuit |Sun, March 22 02:00PM EDT |Sun, March 22 06:00PM GMT |Mon, March 23 05:00AM AEDT |
+|[TFRL GT3 Fixed Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11756){:target="_blank"} |26S2 | |St. Petersburg Grand Prix |Mon, March 23 07:00PM EDT |Mon, March 23 11:00PM GMT |Tue, March 24 10:00AM AEDT |
 
 ### GT3 Class
 
@@ -257,31 +268,21 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[XMS Racing Ricmotech Touring Car Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4438){:target="_blank"} |Ricmotech TCC Season 26 |Open |Watkins Glen International |Wed, March 18 07:00PM EDT |Wed, March 18 11:00PM GMT |Thu, March 19 10:00AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[PWE Friday League](https://members.iracing.com/membersite/member/LeagueView.do?league=10470){:target="_blank"} |Season 9 \- Chaos Season | |Fuji International Speedway |Fri, March 20 03:30PM EDT |Fri, March 20 07:30PM GMT |Sat, March 21 06:30AM AEDT |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.6 JXM/Timeless King Of Volusia |Fixed |Volusia Speedway Park |Wed, March 25 09:15PM EDT |Thu, March 26 01:15AM GMT |Thu, March 26 12:15PM AEDT |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.7 JXM/Timeless King of Five Flags |Fixed |Five Flags Speedway |Wed, March 25 10:15PM EDT |Thu, March 26 02:15AM GMT |Thu, March 26 01:15PM AEDT |
-|[Kidbyers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14072){:target="_blank"} |KRL Season 1\- Kidbyers Porsche Cup |Fixed |Adelaide Street Circuit |Wed, March 18 04:45AM EDT |Wed, March 18 08:45AM GMT |Wed, March 18 07:45PM AEDT |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Overall Skills Challenge 2 |Both |Charlotte Motor Speedway  |Wed, March 18 10:05PM EDT |Thu, March 19 02:05AM GMT |Thu, March 19 01:05PM AEDT |
 |[DGTS \- DECS](https://members.iracing.com/membersite/member/LeagueView.do?league=14067){:target="_blank"} |DECS S1 | |Daytona International Speedway |Thu, March 19 12:45PM EDT |Thu, March 19 04:45PM GMT |Fri, March 20 03:45AM AEDT |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Thursday Night Road Racing |Fixed |Virginia International Raceway |Thu, March 19 07:00PM EDT |Thu, March 19 11:00PM GMT |Fri, March 20 10:00AM AEDT |
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026 Season 2 Wednesday | |Fuji International Speedway |Wed, March 18 08:30PM EDT |Thu, March 19 12:30AM GMT |Thu, March 19 11:30AM AEDT |
 |[Elbows Out Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=9914){:target="_blank"} |GTTC Cup Series // 2026 Season 2 |Open |Charlotte Motor Speedway  |Fri, March 20 07:45PM EDT |Fri, March 20 11:45PM GMT |Sat, March 21 10:45AM AEDT |
-
-### IMSA23
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|--------------------------------|-----|-------------------------|-------------------------|-------------------------|--------------------------|
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |03 \- Worn Out Racers GT3 Series |Fixed |St. Petersburg Grand Prix |Wed, March 18 08:00PM EDT |Thu, March 19 12:00AM GMT |Thu, March 19 11:00AM AEDT |
+|[SPR Community](https://members.iracing.com/membersite/member/LeagueView.do?league=13344){:target="_blank"} |SPR Community Rennen |Open |Daytona International Speedway |Thu, March 26 02:00PM EDT |Thu, March 26 06:00PM GMT |Fri, March 27 05:00AM AEDT |
 
 ### Touring Car
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[Virtual Circuit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13515){:target="_blank"} |TCR \- Virtual Circuit Racing |Fixed |Okayama International Circuit |Wed, March 18 03:00PM EDT |Wed, March 18 07:00PM GMT |Thu, March 19 06:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------|------------------------|-----|-------------------------|-------------------------|-------------------------|--------------------------|
+|[SAUSAGE DODGERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11908){:target="_blank"} |SDR \- TCR Championship |Open |Oulton Park Circuit |Thu, March 26 02:58PM EDT |Thu, March 26 06:58PM GMT |Fri, March 27 05:58AM AEDT |
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 26S2 \- TCR & MX5 |Open |Charlotte Motor Speedway  |Thu, March 19 02:30PM EDT |Thu, March 19 06:30PM GMT |Fri, March 20 05:30AM AEDT |
 
