@@ -23,14 +23,25 @@
 |[Motor City Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12105){:target="_blank"} |Prototype Challenge |34 |2138 |Open | | | | |
 |[Haleycar iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5980){:target="_blank"} |Grand Touring Series |17 |1296 | | | | | |
 
+### HPD ARX-01c
+
+[Back to Top](#)  
+
+| League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------|--------|------|------|
+|[Maxx Bantz Open](https://members.iracing.com/membersite/member/LeagueView.do?league=2706){:target="_blank"} |Maxx Bantz \| Remuneration |26 |2350 |Fixed | | | | |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |55 |4166 | |Sebring International Raceway |Wed, March 25 02:00PM EDT |Wed, March 25 06:00PM GMT |Thu, March 26 05:00AM AEDT |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 1 |38 |2822 |Open | | | | |
 |[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |24 |1590 | | | | | |
+|[FMA](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} |FMA Prototype Challenge |22 |1545 |Fixed |Autódromo José Carlos Pace |Thu, March 26 08:00PM EDT |Fri, March 27 12:00AM GMT |Fri, March 27 11:00AM AEDT |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |18 |2923 |Open |Suzuka International Racing Course |Thu, March 26 03:15PM EDT |Thu, March 26 07:15PM GMT |Fri, March 27 06:15AM AEDT |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |2007 |Open |Circuit de Spa-Francorchamps |Wed, March 25 08:30PM EDT |Thu, March 26 12:30AM GMT |Thu, March 26 11:30AM AEDT |
 
 ### Ligier JS P320
@@ -62,7 +73,7 @@
 |[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |34 |2083 | |Oulton Park Circuit |Sun, March 22 01:30PM EDT |Sun, March 22 05:30PM GMT |Mon, March 23 04:30AM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |34 |2459 |Both |Mount Panorama Circuit |Tue, March 24 03:35AM EDT |Tue, March 24 07:35AM GMT |Tue, March 24 06:35PM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |19 |2831 | |Autodromo Internazionale del Mugello |Mon, March 23 03:50PM EDT |Mon, March 23 07:50PM GMT |Tue, March 24 06:50AM AEDT |
-|[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |17 |1750 | | | | | |
+|[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |17 |1750 | |Tsukuba Circuit |Sun, March 22 03:00PM EDT |Sun, March 22 07:00PM GMT |Mon, March 23 06:00AM AEDT |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 4\.1 |15 |2257 |Fixed |Autódromo José Carlos Pace |Fri, March 20 08:30PM EDT |Sat, March 21 12:30AM GMT |Sat, March 21 11:30AM AEDT |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |14 |1949 | | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Wild Races |14 |None | | | | | |

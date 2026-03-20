@@ -2,22 +2,11 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Asphalt Outlaws Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14117){:target="_blank"} | | |
-|[British University Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14108){:target="_blank"} | | |
 |[CDM Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=14120){:target="_blank"} | | |
 |[FNL](https://members.iracing.com/membersite/member/LeagueView.do?league=14122){:target="_blank"} |[Discord](https://discord.gg/uD3t7UzDXd){:target="_blank"} |Welcome to Friday Night Lights\! A NASCAR league perfect for anyone whether complete beginners or experienced drivers, FNL welcomes you with open arms\! |
 |[Global Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14119){:target="_blank"} |[Discord](https://discord.gg/btm3eANH){:target="_blank"} | |
-|[LeadFoot Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14112){:target="_blank"} | |Top Tier Racing League |
-|[Pizza Pepper Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14107){:target="_blank"} | | |
-|[Racers Elite \- Monday SRX Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14109){:target="_blank"} |[Discord](https://discord.gg/AzrBBWmvRX){:target="_blank"} |Join our Discord for Additional Information\! https://discord\.gg/AzrBBWmvRX |
-|[Salem Speedway iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=14113){:target="_blank"} | |The official iRacing league of Salem Speedway |
 |[SKADS Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14118){:target="_blank"} | |V8 Supercars |
-|[Smaug Racing Xperience](https://members.iracing.com/membersite/member/LeagueView.do?league=14116){:target="_blank"} | |Racing the greatest ovaldirtovalroadcourse car on iracing |
-|[Steering Wheel Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=14111){:target="_blank"} | | |
 |[TYS Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=14121){:target="_blank"} |[Discord](https://discord.gg/c22SS5GT){:target="_blank"} |Superspeedway league |
-|[V7 League \- GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14115){:target="_blank"} | |GT3 Series |
-|[Valued Alliance Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14114){:target="_blank"} | |We are VAR, where the drivers are valued no matter your status or skill level\. We are here for GOOD, FUN racing and building a bond between everyone involved\. We are a NO NONSENSE league, and any bullying or underhandedness will NOT be tolerated\. |
-|[Daddy's Kittens](https://members.iracing.com/membersite/member/LeagueView.do?league=14110){:target="_blank"} | | |
 |[Apex Prime Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14125){:target="_blank"} | | |
 |[DR Performance & Development](https://members.iracing.com/membersite/member/LeagueView.do?league=14129){:target="_blank"} | |Setup building/tuning, and development of drivers to make them better at there craft\. |
 |[MSUK Open day](https://members.iracing.com/membersite/member/LeagueView.do?league=14124){:target="_blank"} | | |
@@ -84,4 +73,9 @@
 |[GSRA](https://members.iracing.com/membersite/member/LeagueView.do?league=14196){:target="_blank"} | | |
 |[PROGRID \| GT3 CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=14198){:target="_blank"} | |A liga que mais cresce no AV\! |
 |[AVGP](https://members.iracing.com/membersite/member/LeagueView.do?league=14194){:target="_blank"} | |Astronaut Van Grand Prix |
+|[AGR Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14202){:target="_blank"} | | |
+|[NESCC](https://members.iracing.com/membersite/member/LeagueView.do?league=14200){:target="_blank"} | | |
+|[PROGRID \| GT3 ELITE](https://members.iracing.com/membersite/member/LeagueView.do?league=14199){:target="_blank"} | |A liga que mais cresce no AV\! |
+|[RFRL Elite Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=14203){:target="_blank"} | |Late Model Series |
+|[TestLeague](https://members.iracing.com/membersite/member/LeagueView.do?league=14201){:target="_blank"} | |Test |
 
