@@ -35,7 +35,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |128 |None |Open |Canadian Tire Motorsports Park |Fri, March 20 04:00AM EDT |Fri, March 20 08:00AM GMT |Fri, March 20 07:00PM AEDT |
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |131 |None |Open |Canadian Tire Motorsports Park |Sat, March 21 03:00AM EDT |Sat, March 21 07:00AM GMT |Sat, March 21 06:00PM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints V8 Supercars Gen3 season 26 |58 |1420 | | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026A V8SC Series \- Trophi\.AI |56 |2386 | |Adelaide Street Circuit |Wed, March 25 05:00AM EDT |Wed, March 25 09:00AM GMT |Wed, March 25 08:00PM AEDT |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |The UES OzOval Series 2026A |39 |2217 |Fixed |Las Vegas Motor Speedway |Sun, March 22 04:15AM EDT |Sun, March 22 08:15AM GMT |Sun, March 22 07:15PM AEDT |

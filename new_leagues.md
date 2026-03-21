@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[CDM Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=14120){:target="_blank"} | | |
-|[FNL](https://members.iracing.com/membersite/member/LeagueView.do?league=14122){:target="_blank"} |[Discord](https://discord.gg/uD3t7UzDXd){:target="_blank"} |Welcome to Friday Night Lights\! A NASCAR league perfect for anyone whether complete beginners or experienced drivers, FNL welcomes you with open arms\! |
-|[Global Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14119){:target="_blank"} |[Discord](https://discord.gg/btm3eANH){:target="_blank"} | |
-|[SKADS Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14118){:target="_blank"} | |V8 Supercars |
-|[TYS Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=14121){:target="_blank"} |[Discord](https://discord.gg/c22SS5GT){:target="_blank"} |Superspeedway league |
 |[Apex Prime Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14125){:target="_blank"} | | |
 |[DR Performance & Development](https://members.iracing.com/membersite/member/LeagueView.do?league=14129){:target="_blank"} | |Setup building/tuning, and development of drivers to make them better at there craft\. |
 |[MSUK Open day](https://members.iracing.com/membersite/member/LeagueView.do?league=14124){:target="_blank"} | | |
@@ -78,4 +73,5 @@
 |[PROGRID \| GT3 ELITE](https://members.iracing.com/membersite/member/LeagueView.do?league=14199){:target="_blank"} | |A liga que mais cresce no AV\! |
 |[RFRL Elite Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=14203){:target="_blank"} | |Late Model Series |
 |[TestLeague](https://members.iracing.com/membersite/member/LeagueView.do?league=14201){:target="_blank"} | |Test |
+|[Wreckers or Checkers Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14204){:target="_blank"} | | |
 
