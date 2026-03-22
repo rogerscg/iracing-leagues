@@ -18,10 +18,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.5 Treadwell Trucks Progression Series |Fixed |Daytona International Speedway |Tue, March 24 09:10PM EDT |Wed, March 25 01:10AM GMT |Wed, March 25 12:10PM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[T\-Ray's Circle Track Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12860){:target="_blank"} |Superspeedway Season 2 |Fixed |Daytona International Speedway |Tue, March 24 07:30PM EDT |Tue, March 24 11:30PM GMT |Wed, March 25 10:30AM AEDT |
-|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Saturday Draft Series 2 | |Talladega Superspeedway |Sat, March 21 07:30PM EDT |Sat, March 21 11:30PM GMT |Sun, March 22 10:30AM AEDT |
 
 ### NASCAR 2022 NextGen
 
@@ -46,8 +44,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|----------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
-|[HBT Nascar racing leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14152){:target="_blank"} |Nascar trucks season 1 | |Daytona International Speedway |Sat, March 21 05:00PM EDT |Sat, March 21 09:00PM GMT |Sun, March 22 08:00AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.5 Treadwell Trucks Progression Series |Fixed |Daytona International Speedway |Tue, March 24 09:10PM EDT |Wed, March 25 01:10AM GMT |Wed, March 25 12:10PM AEDT |
 
 ### Whelen Modified
 
@@ -111,6 +109,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|-------------------------|-------------------------|-------------------------|--------------------------|
 |[MRL \- KAYTEE INDYCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12350){:target="_blank"} |2026 NTT INDYCAR Series | |Long Beach Street Circuit |Tue, March 24 08:25PM EDT |Wed, March 25 12:25AM GMT |Wed, March 25 11:25AM AEDT |
+|[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |INDYCARS 2026 |Fixed |Barber Motorsports Park |Sun, March 29 06:15PM EDT |Sun, March 29 11:15PM BST |Mon, March 30 09:15AM AEDT |
 |[NASRA \(1\) \- DSR Electric Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8605){:target="_blank"} |\(7\) \- Season Seven |Fixed |Kansas Speedway |Mon, March 23 07:00PM EDT |Mon, March 23 11:00PM GMT |Tue, March 24 10:00AM AEDT |
 
 ### Formula Vee
@@ -121,15 +120,6 @@
 |------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|-------------------|-------------------------|-------------------------|--------------------------|
 |[Burnouts Racing Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=13921){:target="_blank"} |Formula Vee \- 2nd Qtr\. | |Lime Rock Park |Sun, March 22 08:55PM EDT |Mon, March 23 12:55AM GMT |Mon, March 23 11:55AM AEDT |
 |[Formula Vee Trophy by TGR NATION](https://members.iracing.com/membersite/member/LeagueView.do?league=13632){:target="_blank"} |Formula Vee Trophy S2 |Fixed |Oulton Park Circuit |Sun, March 22 06:59PM EDT |Sun, March 22 10:59PM GMT |Mon, March 23 09:59AM AEDT |
-|[FV Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=6956){:target="_blank"} |WW FV 2026 S2 |Open |Lime Rock Park |Sat, March 21 02:30PM EDT |Sat, March 21 06:30PM GMT |Sun, March 22 05:30AM AEDT |
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|-------------------------|-------------------------|-------------------------|--------------------------|
-|[MudSkipping Fan Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=14166){:target="_blank"} |2026 Spring Testing Championship |Open |Limaland Motorsports Park |Sat, March 21 05:00PM EDT |Sat, March 21 09:00PM GMT |Sun, March 22 08:00AM AEDT |
 
 ### Indy Pro 2000 PM-18
 
@@ -144,8 +134,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|----------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[PURE Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |Saturday Super Formula |Both |Okayama International Circuit |Sat, March 21 08:00PM EDT |Sun, March 22 12:00AM GMT |Sun, March 22 11:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------|------------------------------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[SKR Formula League](https://members.iracing.com/membersite/member/LeagueView.do?league=13740){:target="_blank"} |SKR Formula League Season 2 \(2026\) | |Watkins Glen International |Sun, March 22 05:30PM EDT |Sun, March 22 09:30PM GMT |Mon, March 23 08:30AM AEDT |
 
 # Sports Car
 
@@ -162,18 +152,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-------------------------|-------------------------|-------------------------|--------------------------|
 |[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12301){:target="_blank"} |Mazda Monday Madness \| 2026 Season 1\-2 | |St. Petersburg Grand Prix |Mon, March 23 08:00PM EDT |Tue, March 24 12:00AM GMT |Tue, March 24 11:00AM AEDT |
-|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |MX5 iRacers\.com\.br Cup | |Motorsport Arena Oschersleben |Sat, March 21 12:30PM EDT |Sat, March 21 04:30PM GMT |Sun, March 22 03:30AM AEDT |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Advanced MX\-5 |Fixed |St. Petersburg Grand Prix |Sun, March 22 08:00PM EDT |Mon, March 23 12:00AM GMT |Mon, March 23 11:00AM AEDT |
+|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |MX\-5 Sunday 2026\-S02 Spring |Fixed |Tsukuba Circuit |Sun, March 22 11:00AM EDT |Sun, March 22 03:00PM GMT |Mon, March 23 02:00AM AEDT |
 
 ### Porsche 911 Cup (992.2)
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
 |[AFvRC](https://members.iracing.com/membersite/member/LeagueView.do?league=8081){:target="_blank"} |AFVRC 2026 |Fixed |Donington Park Racing Circuit |Sun, March 22 03:00PM EDT |Sun, March 22 07:00PM GMT |Mon, March 23 06:00AM AEDT |
+|[Americas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13481){:target="_blank"} |ARL Porsche Cup S2 2026 British Invasion |Open |Silverstone Circuit |Mon, March 23 08:00PM EDT |Tue, March 24 12:00AM GMT |Tue, March 24 11:00AM AEDT |
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |PORSCHE CUP 2026 SAISON 2 | |Autodromo Internazionale Enzo e Dino Ferrari |Wed, March 25 06:15PM EDT |Wed, March 25 10:15PM GMT |Thu, March 26 09:15AM AEDT |
 |[CSC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12596){:target="_blank"} |Season 5 |Fixed |Silverstone Circuit |Sun, March 22 01:00PM EDT |Sun, March 22 05:00PM GMT |Mon, March 23 04:00AM AEDT |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S16 Euro/Global Porsche Cup Challenge |Both |Sebring International Raceway |Sun, March 22 03:00PM EDT |Sun, March 22 07:00PM GMT |Mon, March 23 06:00AM AEDT |
@@ -187,6 +178,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2026 | |Autodromo Internazionale del Mugello |Sun, March 22 08:30PM EDT |Mon, March 23 12:30AM GMT |Mon, March 23 11:30AM AEDT |
+
+### Radical SR8
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|--------------------|-----|-------------------------|-------------------------|-------------------------|--------------------------|
+|[Zenith Sunday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14174){:target="_blank"} |Zenith Sunday Series | |Charlotte Motor Speedway  |Sun, March 29 06:30AM EDT |Sun, March 29 11:30AM BST |Sun, March 29 09:30PM AEDT |
 
 ### Riley Daytona Prototype
 
@@ -203,16 +202,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|-------------|-----|------------------|-------------------------|-------------------------|--------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S2 WW SRF |Open |Snetterton Circuit |Sun, March 22 01:40PM EDT |Sun, March 22 05:40PM GMT |Mon, March 23 04:40AM AEDT |
-
-# Road
-
-### Supercars Gen 3
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------|-----|----------------------|-------------------------|-------------------------|--------------------------|
-|[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 18 |Open |Mount Panorama Circuit |Sat, March 21 02:00PM EDT |Sat, March 21 06:00PM GMT |Sun, March 22 05:00AM AEDT |
 
 # Dirt Oval
 
@@ -274,30 +263,37 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |GT3 iRacers\.com\.br Cup 2026/02 | |St. Petersburg Grand Prix |Sat, March 21 01:50PM EDT |Sat, March 21 05:50PM GMT |Sun, March 22 04:50AM AEDT |
+|[GT3 Xperience by BavarianSimTec](https://members.iracing.com/membersite/member/LeagueView.do?league=13425){:target="_blank"} |Season 2 |Open |St. Petersburg Grand Prix |Tue, March 24 12:45PM EDT |Tue, March 24 04:45PM GMT |Wed, March 25 03:45AM AEDT |
 |[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Spring '26 Season |Open |Silverstone Circuit |Sun, March 22 02:00PM EDT |Sun, March 22 06:00PM GMT |Mon, March 23 05:00AM AEDT |
 |[TFRL GT3 Fixed Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11756){:target="_blank"} |26S2 | |St. Petersburg Grand Prix |Mon, March 23 07:00PM EDT |Mon, March 23 11:00PM GMT |Tue, March 24 10:00AM AEDT |
-|[DMSB SimRacing Championship Sprint Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |21/03/2026 \#13 | |Sebring International Raceway |Sat, March 21 05:00AM EDT |Sat, March 21 09:00AM GMT |Sat, March 21 08:00PM AEDT |
-|[DMSB SimRacing Championship Sprint Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |21/03/2026 \#14 | |Sebring International Raceway |Sat, March 21 09:00AM EDT |Sat, March 21 01:00PM GMT |Sun, March 22 12:00AM AEDT |
-|[DMSB SimRacing Championship Sprint Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |21/03/2026 \#15 | |Sebring International Raceway |Sat, March 21 01:00PM EDT |Sat, March 21 05:00PM GMT |Sun, March 22 04:00AM AEDT |
-|[DMSB SimRacing Championship Sprint Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |21/03/2026 \#16 | |Sebring International Raceway |Sat, March 21 03:00PM EDT |Sat, March 21 07:00PM GMT |Sun, March 22 06:00AM AEDT |
-|[DMSB SimRacing Championship Sprint Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |21/03/2026 \#17 | |Sebring International Raceway |Sat, March 21 05:00PM EDT |Sat, March 21 09:00PM GMT |Sun, March 22 08:00AM AEDT |
 |[DMSB SimRacing Championship Sprint Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |22/03/2026 \#18 | |Sebring International Raceway |Sun, March 22 05:00AM EDT |Sun, March 22 09:00AM GMT |Sun, March 22 08:00PM AEDT |
 |[DMSB SimRacing Championship Sprint Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |22/03/2026 \#19 | |Sebring International Raceway |Sun, March 22 09:00AM EDT |Sun, March 22 01:00PM GMT |Mon, March 23 12:00AM AEDT |
 |[DMSB SimRacing Championship Sprint Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |22/03/2026 \#20 | |Sebring International Raceway |Sun, March 22 01:00PM EDT |Sun, March 22 05:00PM GMT |Mon, March 23 04:00AM AEDT |
 |[DMSB SimRacing Championship Sprint Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |22/03/2026 \#21 | |Sebring International Raceway |Sun, March 22 03:00PM EDT |Sun, March 22 07:00PM GMT |Mon, March 23 06:00AM AEDT |
 |[DMSB SimRacing Championship Sprint Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |22/03/2026 \#22 | |Sebring International Raceway |Sun, March 22 05:00PM EDT |Sun, March 22 09:00PM GMT |Mon, March 23 08:00AM AEDT |
 |[CAS \- GT3 World Championship Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=9707){:target="_blank"} |GT3 World Championship Tour \(Season 12\) |Open |St. Petersburg Grand Prix |Tue, March 24 01:00PM EDT |Tue, March 24 05:00PM GMT |Wed, March 25 04:00AM AEDT |
+|[Americas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13481){:target="_blank"} |ARL GT3 Thursdays 2026, Season 2 |Open |Summit Point Raceway |Thu, March 26 08:00PM EDT |Fri, March 27 12:00AM GMT |Fri, March 27 11:00AM AEDT |
+
+### GT3 Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|--------------------|-------------------------|-------------------------|--------------------------|
+|[Rocket City Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14172){:target="_blank"} |Rocket City Racing League 2026 Season 1 | |Summit Point Raceway |Sun, March 29 03:30PM EDT |Sun, March 29 08:30PM BST |Mon, March 30 06:30AM AEDT |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.6 JXM/Timeless King Of Volusia |Fixed |Volusia Speedway Park |Wed, March 25 09:15PM EDT |Thu, March 26 01:15AM GMT |Thu, March 26 12:15PM AEDT |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.7 JXM/Timeless King of Five Flags |Fixed |Five Flags Speedway |Wed, March 25 10:15PM EDT |Thu, March 26 02:15AM GMT |Thu, March 26 01:15PM AEDT |
+|[Kidbyers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14072){:target="_blank"} |KRL Season 1\- Kidbyers Porsche Cup |Fixed |Adelaide Street Circuit |Thu, March 26 04:55AM EDT |Thu, March 26 08:55AM GMT |Thu, March 26 07:55PM AEDT |
 |[SPR Community](https://members.iracing.com/membersite/member/LeagueView.do?league=13344){:target="_blank"} |SPR Community Rennen |Open |Daytona International Speedway |Thu, March 26 02:00PM EDT |Thu, March 26 06:00PM GMT |Fri, March 27 05:00AM AEDT |
+|[Cyclone Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14195){:target="_blank"} |Arca/Truck/Legends/ Series | |Indianapolis Motor Speedway |Thu, March 26 07:30PM EDT |Thu, March 26 11:30PM GMT |Fri, March 27 10:30AM AEDT |
+|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |GT3/GT4 Sunday 2026\-S02 Spring |Fixed |Summit Point Raceway |Sun, March 22 01:00PM EDT |Sun, March 22 05:00PM GMT |Mon, March 23 04:00AM AEDT |
 
 ### Touring Car
 

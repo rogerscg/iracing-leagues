@@ -1,15 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Apex Prime Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14125){:target="_blank"} | | |
-|[DR Performance & Development](https://members.iracing.com/membersite/member/LeagueView.do?league=14129){:target="_blank"} | |Setup building/tuning, and development of drivers to make them better at there craft\. |
-|[MSUK Open day](https://members.iracing.com/membersite/member/LeagueView.do?league=14124){:target="_blank"} | | |
-|[Pending Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14128){:target="_blank"} | | |
-|[Racing Line League](https://members.iracing.com/membersite/member/LeagueView.do?league=14126){:target="_blank"} |[Discord](https://discord.gg/cRqugAMtNU){:target="_blank"} |Racing Line League |
-|[VARE](https://members.iracing.com/membersite/member/LeagueView.do?league=14123){:target="_blank"} | |VARE Has been a highly Successful NASCAR League operating on console for 6 Years Now coming to the Sim and hoping for many more successful years on the Iracing platform |
-|[Friday Funtimers](https://members.iracing.com/membersite/member/LeagueView.do?league=14127){:target="_blank"} | |Events will be held on TBD starting at 5pm est  \*Fulltime I2I league drivers only\*  Strictly a fun league for the I2I league drivers |
-|[403 Sim Productions](https://members.iracing.com/membersite/member/LeagueView.do?league=14130){:target="_blank"} | | |
+|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[gpt racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14133){:target="_blank"} | |sports car racing we are a casual league |
 |[Vapor Trail Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14135){:target="_blank"} | |Slow cars for slow people |
 |[LeadFoot Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14138){:target="_blank"} | | |
@@ -74,4 +66,10 @@
 |[RFRL Elite Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=14203){:target="_blank"} | |Late Model Series |
 |[TestLeague](https://members.iracing.com/membersite/member/LeagueView.do?league=14201){:target="_blank"} | |Test |
 |[Wreckers or Checkers Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14204){:target="_blank"} | | |
+|[All American Racing Network \- O'Reilly's Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14206){:target="_blank"} | | |
+|[FDRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14208){:target="_blank"} | | |
+|[LeeOnTrack](https://members.iracing.com/membersite/member/LeagueView.do?league=14205){:target="_blank"} | |Clean fun racing |
+|[murflow/hpgs racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14210){:target="_blank"} | | |
+|[Saturday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=14209){:target="_blank"} | |Dirt Oval, Street Stocks, UMP Modified, Limited Late Models |
+|[Team Mamba Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=14207){:target="_blank"} | |Team mamba training sessions to prepare for Iracing races to get out of rookie |
 

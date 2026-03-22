@@ -78,8 +78,8 @@
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |14 |1949 | | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Wild Races |14 |None | | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |SR8 |13 |1363 | | | | | |
+|[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |12 |1902 |Fixed |Rudskogen Motorsenter |Sat, March 28 04:00PM EDT |Sat, March 28 08:00PM GMT |Sun, March 29 07:00AM AEDT |
 |[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |Midweek Sprint Series \| Season 5 |10 |1804 |Both | | | | |
-|[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |10 |1854 |Fixed |Long Beach Street Circuit |Sat, March 21 03:00PM EDT |Sat, March 21 07:00PM GMT |Sun, March 22 06:00AM AEDT |
 |[Rental Kart Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=12081){:target="_blank"} |Radical SR8 Lime Rock Park Championship \- WED 730 |10 |1565 |Both |Lime Rock Park |Wed, March 25 07:31PM EDT |Wed, March 25 11:31PM GMT |Thu, March 26 10:31AM AEDT |
 
 ### Riley Daytona Prototype
