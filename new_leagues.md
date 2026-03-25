@@ -2,21 +2,13 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Billy Oirish Racing GR86 League 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14142){:target="_blank"} | |BillyOirish Racing promotes and runs the GR86 League\. It will comprise of 12 rounds, and the points accumulated from each round will count towards the given championship unless otherwise stated\. Please see the link below for the general rules\. Register at www\.BillyOirish\.com/GR86 |
-|[Billy Oirish Racing Porsche Cup 2026 Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=14143){:target="_blank"} | |BillyOirish Racing promotes and runs the Porsche Cup League\. It will comprise of 12 rounds, and the points accumulated from each round will count towards the given championship unless otherwise stated\. Please see the link below for the general rules\. Register at www\.BillyOirish\.com/PCUP |
-|[F1 just for fun](https://members.iracing.com/membersite/member/LeagueView.do?league=14140){:target="_blank"} | |just for fun |
-|[HRL \| Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14139){:target="_blank"} |[Discord](https://discord.gg/2xsmQvMGaG){:target="_blank"} |20\-race Cup Series using O'Reilly cars\. |
-|[FCL Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14141){:target="_blank"} | |League racing for FC's |
-|[Neon Simsports World Touring Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14145){:target="_blank"} | | |
-|[The Kitchen Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=14144){:target="_blank"} | |Where members of the kitchen come to do battle |
-|[WEC 2K](https://members.iracing.com/membersite/member/LeagueView.do?league=14146){:target="_blank"} |[Discord](https://discord.gg/qj5eH4azd6){:target="_blank"} |Join the thrill of LMP1, LMP2, and GTE from the 2010's NOW IN IRACING\. |
 |[BlackSteel\-Qualifying](https://members.iracing.com/membersite/member/LeagueView.do?league=14148){:target="_blank"} | |Best Lap Times |
 |[Mafia Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14147){:target="_blank"} |[Discord](https://discord.gg/TCCJg5NNyk){:target="_blank"} |Mafia Motorsport League for GTP and GT3 10 weeks of competition\. |
 |[MDRA Midwest Dirt Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14150){:target="_blank"} | |MDRA was created as a way for a group of people to come together and have some home roots racing\. We provide everything from dirt car racing, mini stock and street stocks, NASCAR, and fun events\! \(Yes we do Figure 8 racing sometimes\.\) If you want a relaxed place to race come check us out\! |
 |[SUPERLAP Rookie Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=14149){:target="_blank"} | | |
 |[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} | | |
 |[Full Throttle Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14157){:target="_blank"} |[Discord](https://discord.gg/JhJUsEXw){:target="_blank"} |Super Dirt/Asphalt Late Models |
-|[HBT Nascar racing leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14152){:target="_blank"} |[Discord](https://discord.gg/g3qP6EyPf){:target="_blank"} |https://discord\.gg/g3qP6EyPf please join discord |
+|[HBT racing leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14152){:target="_blank"} |[Discord](https://discord.gg/g3qP6EyPf){:target="_blank"} |https://discord\.gg/g3qP6EyPf please join discord |
 |[LostBoyz](https://members.iracing.com/membersite/member/LeagueView.do?league=14156){:target="_blank"} |[Discord](https://discord.gg/y5zxeFCm){:target="_blank"} |mods\(northeast\), latemodels |
 |[MannClann](https://members.iracing.com/membersite/member/LeagueView.do?league=14155){:target="_blank"} | | |
 |[Gallo Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14154){:target="_blank"} | | |
@@ -46,7 +38,7 @@
 |[OWPL](https://members.iracing.com/membersite/member/LeagueView.do?league=14188){:target="_blank"} | |The Open\-Wheel Premier League \(OWPL\) is a serious, professional\-style IR\-18 league on iRacing\. We run an 18\-race season with a balanced mix of high\-speed ovals, technical road courses, and street circuits using the real IndyCar points system \(including double points at Indy 500, Michigan, Auto Club, and Pocono\)\. Our focus is simple: race hard, race clean, and build a long\-term community with zero tolerance for intentional contact or toxicity\. Full stewards and incident reports\. Currently in our inaugural mock season to grow the grid before moving to official league format\. If you want competitive, respectful racing with good people — this is the league for you\. |
 |[GSR League Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=14191){:target="_blank"} | | |
 |[Rollin Thunder Racing \- Asphalt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14190){:target="_blank"} | |Orielly's 13 weeks, Alternating Tracks |
-|[Rollin Thunder Racing \- Dirt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14192){:target="_blank"} | |Pro Late Model 13 weeks, Alternating Tracks |
+|[Rollin Thunder Racing \- Dirt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14192){:target="_blank"} | |Limited Late Model 13 weeks, Alternating Tracks |
 |[252 Racing Figure 8 Chaos](https://members.iracing.com/membersite/member/LeagueView.do?league=14193){:target="_blank"} | | |
 |[Contractors cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14197){:target="_blank"} | |For fun |
 |[Cyclone Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14195){:target="_blank"} | | |
@@ -75,4 +67,12 @@
 |[Almeida Racing Academy Saturday F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=14215){:target="_blank"} | |11 Race Saturday Afternoon EDT F4 |
 |[B2SIM \- Sezon 3](https://members.iracing.com/membersite/member/LeagueView.do?league=14216){:target="_blank"} | | |
 |[JT Racing Dev and Test](https://members.iracing.com/membersite/member/LeagueView.do?league=14217){:target="_blank"} | |Dev & Test League for JT Racing |
+|[Car Of Yesterday](https://members.iracing.com/membersite/member/LeagueView.do?league=14222){:target="_blank"} | | |
+|[Dood2Door Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=14227){:target="_blank"} | |Mid week dirt racing for the boys |
+|[League GT](https://members.iracing.com/membersite/member/LeagueView.do?league=14229){:target="_blank"} | |Oval, Points, Reviews, Endurance |
+|[PT Racerz Challenge 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14225){:target="_blank"} |[Discord](https://discord.gg/Jpwx5ZJwZH){:target="_blank"} |Fun league for anyone with pace, fairplay and willing to have tons of fun\!\! |
+|[weekly racing madness](https://members.iracing.com/membersite/member/LeagueView.do?league=14226){:target="_blank"} | |host weekly races |
+|[BlackFlagSociety](https://members.iracing.com/membersite/member/LeagueView.do?league=14221){:target="_blank"} | |BFS |
+|[JLG JHD](https://members.iracing.com/membersite/member/LeagueView.do?league=14224){:target="_blank"} | |NASCER |
+|[Race For a Cause 24](https://members.iracing.com/membersite/member/LeagueView.do?league=14223){:target="_blank"} | | |
 
