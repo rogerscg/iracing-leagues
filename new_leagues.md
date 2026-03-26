@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[BlackSteel\-Qualifying](https://members.iracing.com/membersite/member/LeagueView.do?league=14148){:target="_blank"} | |Best Lap Times |
-|[Mafia Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14147){:target="_blank"} |[Discord](https://discord.gg/TCCJg5NNyk){:target="_blank"} |Mafia Motorsport League for GTP and GT3 10 weeks of competition\. |
-|[MDRA Midwest Dirt Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14150){:target="_blank"} | |MDRA was created as a way for a group of people to come together and have some home roots racing\. We provide everything from dirt car racing, mini stock and street stocks, NASCAR, and fun events\! \(Yes we do Figure 8 racing sometimes\.\) If you want a relaxed place to race come check us out\! |
-|[SUPERLAP Rookie Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=14149){:target="_blank"} | | |
 |[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} | | |
 |[Full Throttle Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14157){:target="_blank"} |[Discord](https://discord.gg/JhJUsEXw){:target="_blank"} |Super Dirt/Asphalt Late Models |
 |[HBT racing leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14152){:target="_blank"} |[Discord](https://discord.gg/g3qP6EyPf){:target="_blank"} |https://discord\.gg/g3qP6EyPf please join discord |
@@ -75,4 +71,6 @@
 |[BlackFlagSociety](https://members.iracing.com/membersite/member/LeagueView.do?league=14221){:target="_blank"} | |BFS |
 |[JLG JHD](https://members.iracing.com/membersite/member/LeagueView.do?league=14224){:target="_blank"} | |NASCER |
 |[Race For a Cause 24](https://members.iracing.com/membersite/member/LeagueView.do?league=14223){:target="_blank"} | | |
+|[Init Team](https://members.iracing.com/membersite/member/LeagueView.do?league=14231){:target="_blank"} | | |
+|[carlos el topo que gira](https://members.iracing.com/membersite/member/LeagueView.do?league=14230){:target="_blank"} | |Primo Octavio |
 

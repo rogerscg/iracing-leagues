@@ -19,10 +19,10 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25B |34 |4305 | | | | | |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25B |26 |2814 | | | | | |
+|[Majors International](https://members.iracing.com/membersite/member/LeagueView.do?league=12019){:target="_blank"} |26R4 \- Dirt Derby Phoenix |25 |None | |[Legacy] Phoenix Raceway - 2008 |Thu, March 26 03:00AM EDT |Thu, March 26 07:00AM GMT |Thu, March 26 06:00PM AEDT |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |26A Supercars |18 |4186 | | | | | |
-|[Majors International](https://members.iracing.com/membersite/member/LeagueView.do?league=12019){:target="_blank"} |26R4 \- Dirt Derby Phoenix |18 |None | |[Legacy] Phoenix Raceway - 2008 |Wed, March 25 05:00AM EDT |Wed, March 25 09:00AM GMT |Wed, March 25 08:00PM AEDT |
+|[Majors European](https://members.iracing.com/membersite/member/LeagueView.do?league=12018){:target="_blank"} |26R4 \- Dirt Derby Daytona |15 |None | |Daytona Rallycross and Dirt Road |Thu, March 26 05:00AM EDT |Thu, March 26 09:00AM GMT |Thu, March 26 08:00PM AEDT |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Cars |13 |1345 |Fixed | | | | |
-|[Majors European](https://members.iracing.com/membersite/member/LeagueView.do?league=12018){:target="_blank"} |26R4 \- Dirt Derby Daytona |11 |None | |Daytona Rallycross and Dirt Road |Wed, March 25 11:00AM EDT |Wed, March 25 03:00PM GMT |Thu, March 26 02:00AM AEDT |
 
 ### VW Beetle Lite
 
