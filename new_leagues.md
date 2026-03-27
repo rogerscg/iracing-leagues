@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} | | |
-|[Full Throttle Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14157){:target="_blank"} |[Discord](https://discord.gg/JhJUsEXw){:target="_blank"} |Super Dirt/Asphalt Late Models |
-|[HBT racing leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14152){:target="_blank"} |[Discord](https://discord.gg/g3qP6EyPf){:target="_blank"} |https://discord\.gg/g3qP6EyPf please join discord |
-|[LostBoyz](https://members.iracing.com/membersite/member/LeagueView.do?league=14156){:target="_blank"} |[Discord](https://discord.gg/y5zxeFCm){:target="_blank"} |mods\(northeast\), latemodels |
-|[MannClann](https://members.iracing.com/membersite/member/LeagueView.do?league=14155){:target="_blank"} | | |
-|[Gallo Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14154){:target="_blank"} | | |
 |[Exual Tension](https://members.iracing.com/membersite/member/LeagueView.do?league=14162){:target="_blank"} | | |
 |[GTUK \- Powered By Sector1 Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=14161){:target="_blank"} |[Discord](https://discord.gg/J3pE5A5h9B){:target="_blank"} |GT3 and GT4 Racing League, Replicating British GT\. |
 |[Millertime\_Gaming League Nights\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14158){:target="_blank"} |[Discord](https://discord.gg/9B5bfu3w5C){:target="_blank"} |Multiple Series Leagues \(Nascar Oval, Indy Oval, Sportscar Road Races, & Formula Road Races\) |
@@ -73,4 +67,9 @@
 |[Race For a Cause 24](https://members.iracing.com/membersite/member/LeagueView.do?league=14223){:target="_blank"} | | |
 |[Init Team](https://members.iracing.com/membersite/member/LeagueView.do?league=14231){:target="_blank"} | | |
 |[carlos el topo que gira](https://members.iracing.com/membersite/member/LeagueView.do?league=14230){:target="_blank"} | |Primo Octavio |
+|[Braes league](https://members.iracing.com/membersite/member/LeagueView.do?league=14233){:target="_blank"} | |midget |
+|[CPG Dynamics Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14235){:target="_blank"} | |CPG Dynamics Sim Racing iRacing league\. |
+|[D&D](https://members.iracing.com/membersite/member/LeagueView.do?league=14232){:target="_blank"} |[Discord](https://discord.gg/GUBW3YDg8c){:target="_blank"} |We do not condone drinking while driving\.  However\.\. |
+|[Iracing All Star Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14236){:target="_blank"} | |Iracing All Star Tour is one of Iracings top midget leagues with 40\+ entires every night\. If you want to race against some of the top midget and non wing drivers on the sim this is the place\. |
+|[TANSO GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=14234){:target="_blank"} | | |
 

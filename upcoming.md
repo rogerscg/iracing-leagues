@@ -5,6 +5,14 @@
 
 # NASCAR
 
+### ARCA
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[BRB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10308){:target="_blank"} |Season 6 | |Daytona International Speedway |Tue, March 31 08:00PM EDT |Wed, April 01 01:00AM BST |Wed, April 01 11:00AM AEDT |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -26,26 +34,20 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|-------------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[FRC Joeguy's Collectibles Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13864){:target="_blank"} |Season 14 \- FRC Joeguy's Collectibles Cup Series |Fixed |Charlotte Motor Speedway  |Fri, March 27 05:30PM EDT |Fri, March 27 09:30PM GMT |Sat, March 28 08:30AM AEDT |
+|[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |Dubby NASCAR Cup Series | |Daytona International Speedway |Fri, April 03 08:30PM EDT |Sat, April 04 01:30AM BST |Sat, April 04 11:30AM AEDT |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-----------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-------------------------|-------------------------|-------------------------|--------------------------|
+|[P2RL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11116){:target="_blank"} |Trucks S1 |Fixed |Autodromo Nazionale Monza |Fri, April 03 10:15PM EDT |Sat, April 04 03:15AM BST |Sat, April 04 01:15PM AEDT |
 |[FTR\= Four Season Auto Wash Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13169){:target="_blank"} |Four Seasons Auto Wash Truck Series |Fixed |Talladega Superspeedway |Mon, March 30 08:15PM EDT |Tue, March 31 01:15AM BST |Tue, March 31 11:15AM AEDT |
 
 # Oval
-
-### Dirt Mini Stock
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.42 DTP Rookie Dirt Mini Stocks by Fuster Cluck |Fixed |Volusia Speedway Park |Thu, March 26 09:00PM EDT |Fri, March 27 01:00AM GMT |Fri, March 27 12:00PM AEDT |
 
 ### Late Model Stock
 
@@ -105,8 +107,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-----------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
 |[Race Place Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13330){:target="_blank"} |Time Attack |Fixed |WeatherTech Raceway at Laguna Seca |Mon, March 30 03:25PM EDT |Mon, March 30 08:25PM BST |Tue, March 31 06:25AM AEDT |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |Trrriple Caution Multi\-Season Championship \(S03\) | |Lime Rock Park |Fri, April 03 03:28PM EDT |Fri, April 03 08:28PM BST |Sat, April 04 06:28AM AEDT |
 
 # Prototype
 
@@ -123,8 +126,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[USORL iBeProfen Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14159){:target="_blank"} |USORL iBeProfen Prototype Challenge Season 1 \- Riley DP |Fixed |Sebring International Raceway |Fri, March 27 08:00PM EDT |Sat, March 28 12:00AM GMT |Sat, March 28 11:00AM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[USORL iBeProfen Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14159){:target="_blank"} |USORL iBeProfen Prototype Challenge Season 1 \- Riley DP |Fixed |Daytona International Speedway |Fri, March 27 08:30PM EDT |Sat, March 28 12:30AM GMT |Sat, March 28 11:30AM AEDT |
 
 # Road
 
@@ -136,31 +139,15 @@
 |--------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|------------|-------------------------|-------------------------|--------------------------|
 |[SCNZ ALLPORTS V8 CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |SIM LAB DIVISION 2 AUTUMN CUP 2026 | |Road America |Tue, March 31 02:00AM EDT |Tue, March 31 07:00AM BST |Tue, March 31 05:00PM AEDT |
 
-# Dirt Oval
+# Rallycross
 
-### Dirt Late Model - Limited
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.43 DTP Striker Limited Late Models by No Mans Land |Fixed |Volusia Speedway Park |Thu, March 26 09:15PM EDT |Fri, March 27 01:15AM GMT |Fri, March 27 12:15PM AEDT |
-
-### Dirt Outlaw Micro Sprint Car - Winged
+### VW Beetle Lite
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.41 DTP Striker Outlaw Micro Winged Sprints by KAT |Fixed |Volusia Speedway Park |Thu, March 26 08:15PM EDT |Fri, March 27 12:15AM GMT |Fri, March 27 11:15AM AEDT |
-
-### Dirt Sprintcar - 410
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------|-----|-------------------|-------------------------|-------------------------|--------------------------|
-|[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2026 Port Royal Speedway |Open |Port Royal Speedway |Thu, March 26 07:30PM EDT |Thu, March 26 11:30PM GMT |Fri, March 27 10:30AM AEDT |
+|------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |04\. Friday Night Lites \(April 2026 Season\) | |Circuit de Barcelona Catalunya |Fri, April 03 08:45PM EDT |Sat, April 04 01:45AM BST |Sat, April 04 11:45AM AEDT |
 
 # Dirt Road
 
@@ -188,8 +175,8 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
+|[E&A Hygge Endurance](https://members.iracing.com/membersite/member/LeagueView.do?league=13908){:target="_blank"} |EA Hygge Endurance \| Season 1 | |Circuit de Spa-Francorchamps |Fri, April 03 12:00PM EDT |Fri, April 03 05:00PM BST |Sat, April 04 03:00AM AEDT |
 |[MSA Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=14164){:target="_blank"} |MSA GT3 National Championship |Fixed |Autodromo Internazionale Enzo e Dino Ferrari |Mon, March 30 01:25PM EDT |Mon, March 30 06:25PM BST |Tue, March 31 04:25AM AEDT |
-|[Americas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13481){:target="_blank"} |ARL GT3 Thursdays 2026, Season 2 |Open |Summit Point Raceway |Thu, March 26 08:00PM EDT |Fri, March 27 12:00AM GMT |Fri, March 27 11:00AM AEDT |
 |[GoFAST Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12501){:target="_blank"} |GT3 Sprint Shootout Season 3 |Open |Sebring International Raceway |Mon, March 30 06:15PM EDT |Mon, March 30 11:15PM BST |Tue, March 31 09:15AM AEDT |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |GT Series Season 15 |Fixed |Hockenheimring Baden-Württemberg |Mon, March 30 08:30PM EDT |Tue, March 31 01:30AM BST |Tue, March 31 11:30AM AEDT |
 |[DSR Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13587){:target="_blank"} |DSR Championships Season 1 |Fixed |Sebring International Raceway |Sun, March 29 01:00PM EDT |Sun, March 29 06:00PM BST |Mon, March 30 04:00AM AEDT |
@@ -209,18 +196,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
-|[Kidbyers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14072){:target="_blank"} |KRL Season 1\- Kidbyers Porsche Cup |Fixed |Adelaide Street Circuit |Thu, March 26 04:55AM EDT |Thu, March 26 08:55AM GMT |Thu, March 26 07:55PM AEDT |
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
 |[Elbows Out Racing IMSA Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=13920){:target="_blank"} |IMSA Invitational // 2026 Season 2 |Open |Hockenheimring Baden-Württemberg |Wed, April 01 08:00PM EDT |Thu, April 02 01:00AM BST |Thu, April 02 11:00AM AEDT |
-|[SPR Community](https://members.iracing.com/membersite/member/LeagueView.do?league=13344){:target="_blank"} |SPR Community Rennen |Open |Daytona International Speedway |Thu, March 26 02:00PM EDT |Thu, March 26 06:00PM GMT |Fri, March 27 05:00AM AEDT |
 |[SCNZ ALLPORTS V8 CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=6569){:target="_blank"} |ALLPORT AUTUMN CHAMPIONSHIP 2026 | |Road America |Tue, March 31 02:00AM EDT |Tue, March 31 07:00AM BST |Tue, March 31 05:00PM AEDT |
-|[TRACKILICIOUS](https://members.iracing.com/membersite/member/LeagueView.do?league=10794){:target="_blank"} |iRacing Multi\-Class \- 2026 Season 2 | |Sebring International Raceway |Thu, March 26 06:50PM EDT |Thu, March 26 10:50PM GMT |Fri, March 27 09:50AM AEDT |
 
 ### Touring Car
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-----------------------|-----|-------------------|-------------------------|-------------------------|--------------------------|
-|[SAUSAGE DODGERS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11908){:target="_blank"} |SDR \- TCR Championship |Open |Oulton Park Circuit |Thu, March 26 02:58PM EDT |Thu, March 26 06:58PM GMT |Fri, March 27 05:58AM AEDT |
+|------------------------------------------------------------------------------------------------------------------------|----------------------|-----|----------------------------|-------------------------|-------------------------|--------------------------|
+|[RaceStack TCR Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14170){:target="_blank"} |RaceStack TCR Season 1 | |Circuit de Spa-Francorchamps |Fri, April 03 12:00PM EDT |Fri, April 03 05:00PM BST |Sat, April 04 03:00AM AEDT |
 
