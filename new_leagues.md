@@ -3,10 +3,8 @@
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Dubby Racing Series Chase For The Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14167){:target="_blank"} |[Discord](https://discord.gg/2kq4vSwgPv){:target="_blank"} |Your admins here at Chase for the Cup thrive for our drivers to have a good and fun time\. We are a semi serious league that does endurance, oval, and dirt\. We hope you have fun chasing for the cup\! |
-|[MSA Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=14164){:target="_blank"} | | |
 |[MudSkipping Fan Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=14166){:target="_blank"} |[Discord](https://discord.gg/juVaZwqCBj){:target="_blank"} |Join for year\-round MudSkipping action\! |
 |[Race Mode](https://members.iracing.com/membersite/member/LeagueView.do?league=14168){:target="_blank"} | |Race Mode series |
-|[Duijn/Hopman GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=14163){:target="_blank"} | | |
 |[Nascar Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14165){:target="_blank"} | |Cup Series |
 |[Challenge JPN Sim Practice](https://members.iracing.com/membersite/member/LeagueView.do?league=14173){:target="_blank"} | | |
 |[Global Multiclass](https://members.iracing.com/membersite/member/LeagueView.do?league=14171){:target="_blank"} | |Global Multiclass |
@@ -74,4 +72,6 @@
 |[Thursday Night Sprints](https://members.iracing.com/membersite/member/LeagueView.do?league=14245){:target="_blank"} | |Dirt Oval Sprint Car Races |
 |[Kanjoniliiga](https://members.iracing.com/membersite/member/LeagueView.do?league=14246){:target="_blank"} | | |
 |[STF1900](https://members.iracing.com/membersite/member/LeagueView.do?league=14240){:target="_blank"} | |Training STF |
+|[Checkered](https://members.iracing.com/membersite/member/LeagueView.do?league=14250){:target="_blank"} | | |
+|[SimRacingPT](https://members.iracing.com/membersite/member/LeagueView.do?league=14249){:target="_blank"} | |Comunidade Portuguesa Simracing |
 

@@ -11,7 +11,7 @@
 |---------------------------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |Challenger Training |40 |None |Fixed |Sebring International Raceway |Thu, April 02 01:00PM EDT |Thu, April 02 06:00PM BST |Fri, April 03 04:00AM AEDT |
 |[GRIDMATES \- Challenger Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8760){:target="_blank"} |2025\-2026 |38 |2386 |Fixed | | | | |
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Championship Season 12 |29 |2369 |Both |Circuit de Nevers Magny-Cours |Sun, March 29 08:00PM EDT |Mon, March 30 01:00AM BST |Mon, March 30 11:00AM AEDT |
+|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Championship Season 12 |31 |2369 |Both |Circuit de Nevers Magny-Cours |Sun, March 29 08:00PM EDT |Mon, March 30 01:00AM BST |Mon, March 30 11:00AM AEDT |
 |[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |SKF LMP2 SPRINT |28 |2102 | |Circuit de Spa-Francorchamps |Tue, March 31 12:00PM EDT |Tue, March 31 05:00PM BST |Wed, April 01 03:00AM AEDT |
 
 ### GTP

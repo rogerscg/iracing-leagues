@@ -33,11 +33,11 @@
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing V8 Champions Challenge |40 |1445 | | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |The UES OzOval Series 2026A |39 |2179 |Fixed |Michigan International Speedway |Sun, March 29 04:15AM EDT |Sun, March 29 09:15AM BST |Sun, March 29 07:15PM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday aus sprint season 27 |32 |1463 | | | | | |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints season 27 |29 |1318 | | | | | |
 |[VRL Supercars Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12913){:target="_blank"} |VRL Supercars Championship Season 1 |26 |1885 |Open | | | | |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 18 |26 |3404 |Open |Road Atlanta |Sat, April 04 01:00PM EDT |Sat, April 04 06:00PM BST |Sun, April 05 03:00AM AEST |
 |[V8 Veterans Season 27](https://members.iracing.com/membersite/member/LeagueView.do?league=6455){:target="_blank"} |Season 27 |19 |1292 |Fixed | | | | |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints season 27 |17 |1293 | | | | | |
-|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 8 |16 |1876 | |Road America |Sat, March 28 09:00PM EDT |Sun, March 29 02:00AM BST |Sun, March 29 12:00PM AEDT |
+|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 8 |18 |1876 | |Road America |Sat, March 28 09:00PM EDT |Sun, March 29 02:00AM BST |Sun, March 29 12:00PM AEDT |
 |[Alliance Enduro simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12237){:target="_blank"} |ASR Enduro Season 2 |15 |None | | | | | |
 |[NxtLvl Racing\.](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} |2026 V8 Supercar |14 |1294 | | | | | |
 
