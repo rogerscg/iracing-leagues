@@ -18,10 +18,10 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25B |34 |4305 | | | | | |
-|[Majors International](https://members.iracing.com/membersite/member/LeagueView.do?league=12019){:target="_blank"} |26R4 \- Dirt Derby Phoenix |29 |None | |[Legacy] Phoenix Raceway - 2008 |Fri, March 27 02:00AM EDT |Fri, March 27 06:00AM GMT |Fri, March 27 05:00PM AEDT |
+|[Majors International](https://members.iracing.com/membersite/member/LeagueView.do?league=12019){:target="_blank"} |26R4 \- Dirt Derby Phoenix |31 |None | |[Legacy] Phoenix Raceway - 2008 |Sat, March 28 11:00PM EDT |Sun, March 29 04:00AM BST |Sun, March 29 02:00PM AEDT |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25B |26 |2814 | | | | | |
+|[Majors European](https://members.iracing.com/membersite/member/LeagueView.do?league=12018){:target="_blank"} |26R4 \- Dirt Derby Daytona |22 |None | |Daytona Rallycross and Dirt Road |Sun, March 29 10:00AM EDT |Sun, March 29 03:00PM BST |Mon, March 30 01:00AM AEDT |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |26A Supercars |18 |4186 | | | | | |
-|[Majors European](https://members.iracing.com/membersite/member/LeagueView.do?league=12018){:target="_blank"} |26R4 \- Dirt Derby Daytona |18 |None | |Daytona Rallycross and Dirt Road |Fri, March 27 04:00AM EDT |Fri, March 27 08:00AM GMT |Fri, March 27 07:00PM AEDT |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Cars |13 |1345 |Fixed | | | | |
 
 ### VW Beetle Lite
@@ -30,6 +30,6 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
-|[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |03 Friday Night Lites \(March 2026 Season\) |22 |3335 | |Iowa Speedway |Fri, March 27 08:45PM EDT |Sat, March 28 12:45AM GMT |Sat, March 28 11:45AM AEDT |
+|[NASA Rallycross Lites](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |03 Friday Night Lites \(March 2026 Season\) |23 |3366 | | | | | |
 |[LSR British Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13371){:target="_blank"} |Spring 26 \- Rallycross |11 |1771 |Open |Charlotte Motor Speedway  |Sun, March 29 03:05PM EDT |Sun, March 29 08:05PM BST |Mon, March 30 06:05AM AEDT |
 

@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Exual Tension](https://members.iracing.com/membersite/member/LeagueView.do?league=14162){:target="_blank"} | | |
-|[GTUK \- Powered By Sector1 Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=14161){:target="_blank"} |[Discord](https://discord.gg/J3pE5A5h9B){:target="_blank"} |GT3 and GT4 Racing League, Replicating British GT\. |
-|[Millertime\_Gaming League Nights\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14158){:target="_blank"} |[Discord](https://discord.gg/9B5bfu3w5C){:target="_blank"} |Multiple Series Leagues \(Nascar Oval, Indy Oval, Sportscar Road Races, & Formula Road Races\) |
-|[USORL iBeProfen Prototype Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14159){:target="_blank"} | |The most fun you can have for $2\.95 |
-|[f1 \#1](https://members.iracing.com/membersite/member/LeagueView.do?league=14160){:target="_blank"} | |1 |
 |[Dubby Racing Series Chase For The Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14167){:target="_blank"} |[Discord](https://discord.gg/2kq4vSwgPv){:target="_blank"} |Your admins here at Chase for the Cup thrive for our drivers to have a good and fun time\. We are a semi serious league that does endurance, oval, and dirt\. We hope you have fun chasing for the cup\! |
 |[MSA Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=14164){:target="_blank"} | | |
 |[MudSkipping Fan Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=14166){:target="_blank"} |[Discord](https://discord.gg/juVaZwqCBj){:target="_blank"} |Join for year\-round MudSkipping action\! |
@@ -72,4 +67,11 @@
 |[D&D](https://members.iracing.com/membersite/member/LeagueView.do?league=14232){:target="_blank"} |[Discord](https://discord.gg/GUBW3YDg8c){:target="_blank"} |We do not condone drinking while driving\.  However\.\. |
 |[Iracing All Star Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14236){:target="_blank"} | |Iracing All Star Tour is one of Iracings top midget leagues with 40\+ entires every night\. If you want to race against some of the top midget and non wing drivers on the sim this is the place\. |
 |[TANSO GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=14234){:target="_blank"} | | |
+|[LMV Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14247){:target="_blank"} | | |
+|[Phoenix Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14248){:target="_blank"} | | |
+|[PRA Special Event](https://members.iracing.com/membersite/member/LeagueView.do?league=14237){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} |PRA Special Event League |
+|[Rennsimulator\.ch](https://members.iracing.com/membersite/member/LeagueView.do?league=14238){:target="_blank"} | | |
+|[Thursday Night Sprints](https://members.iracing.com/membersite/member/LeagueView.do?league=14245){:target="_blank"} | |Dirt Oval Sprint Car Races |
+|[Kanjoniliiga](https://members.iracing.com/membersite/member/LeagueView.do?league=14246){:target="_blank"} | | |
+|[STF1900](https://members.iracing.com/membersite/member/LeagueView.do?league=14240){:target="_blank"} | |Training STF |
 
