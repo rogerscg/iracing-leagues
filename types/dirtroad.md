@@ -15,7 +15,6 @@
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Cross Cars S2 |12 |1480 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Cross Car \- 2026 \(Sat\) |11 |2503 |Fixed | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |FIA Cross Car |10 |1259 | | | | | |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/Cross Car \- 2026 |10 |2674 |Fixed | | | | |
 
 ### Hosted All Cars Class
 
@@ -49,9 +48,8 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2026 Pro 4 National Series |40 |5998 |Open | | | | |
-|[Grit n' Glory Pro 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |31 |2665 |Fixed | | | | |
+|[Grit n' Glory Pro 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |31 |2693 |Fixed | | | | |
 |[RPES Off\-Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11711){:target="_blank"} |2026 RPES Metcalf Media Off\-Road Series |27 |3086 | |Crandon International Raceway |Sun, March 29 09:00PM EDT |Mon, March 30 02:00AM BST |Mon, March 30 12:00PM AEDT |
-|[PDRL Off Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7070){:target="_blank"} |PDRL Offroad S2 |19 |2357 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Y2M x LIF/4x4 Rolling Thunder \- 2026 \(Sat\) |18 |2026 |Fixed | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Trucks |11 |1329 |Fixed | | | | |
 

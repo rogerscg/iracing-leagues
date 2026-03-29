@@ -72,7 +72,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
-|[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |34 |2181 | | | | | |
+|[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |34 |2181 | |Charlotte Motor Speedway  |Sun, April 05 12:30PM EDT |Sun, April 05 05:30PM BST |Mon, April 06 02:30AM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |34 |2448 |Both | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |20 |2831 | |Hockenheimring Baden-Württemberg |Mon, March 30 02:50PM EDT |Mon, March 30 07:50PM BST |Tue, March 31 05:50AM AEDT |
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |17 |1750 | |Tsukuba Circuit |Sun, March 29 02:00PM EDT |Sun, March 29 07:00PM BST |Mon, March 30 05:00AM AEDT |
@@ -80,7 +80,7 @@
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |14 |1938 | | | | | |
 |[Rental Kart Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=12081){:target="_blank"} |Radical SR8 Lime Rock Park Championship \- WED 730 |14 |1584 |Both | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |SR8 |13 |1363 | |Motorsport Arena Oschersleben |Thu, April 02 08:00PM EDT |Fri, April 03 01:00AM BST |Fri, April 03 11:00AM AEDT |
-|[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |12 |1902 |Fixed |Rudskogen Motorsenter |Sat, March 28 04:00PM EDT |Sat, March 28 08:00PM GMT |Sun, March 29 07:00AM AEDT |
+|[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |12 |1868 |Fixed |Mid-Ohio Sports Car Course |Sat, April 04 03:00PM EDT |Sat, April 04 08:00PM BST |Sun, April 05 05:00AM AEST |
 |[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |Midweek Sprint Series \| Season 5 |10 |1804 |Both | | | | |
 
 ### Riley Daytona Prototype

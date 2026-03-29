@@ -37,7 +37,7 @@
 |[VRL Supercars Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12913){:target="_blank"} |VRL Supercars Championship Season 1 |26 |1885 |Open | | | | |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 18 |26 |3404 |Open |Road Atlanta |Sat, April 04 01:00PM EDT |Sat, April 04 06:00PM BST |Sun, April 05 03:00AM AEST |
 |[V8 Veterans Season 27](https://members.iracing.com/membersite/member/LeagueView.do?league=6455){:target="_blank"} |Season 27 |19 |1292 |Fixed | | | | |
-|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 8 |18 |1876 | |Road America |Sat, March 28 09:00PM EDT |Sun, March 29 02:00AM BST |Sun, March 29 12:00PM AEDT |
+|[ASR \- Alliance Sim Racing Australia](https://members.iracing.com/membersite/member/LeagueView.do?league=11104){:target="_blank"} |Season 8 |18 |1876 | | | | | |
 |[Alliance Enduro simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12237){:target="_blank"} |ASR Enduro Season 2 |15 |None | | | | | |
 |[NxtLvl Racing\.](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} |2026 V8 Supercar |14 |1294 | | | | | |
 
