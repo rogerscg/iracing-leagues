@@ -8,13 +8,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|---------------------------|-------------------------|-------------------------|--------------------------|
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 358 Dirt Mods OPEN |99 |2576 |Open | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|---------------------------|-------------------------|-------------------------|--------------------------|
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 358 Dirt Mods OPEN |99 |2576 |Open |Eldora Speedway |Mon, March 30 06:30PM EDT |Mon, March 30 11:30PM BST |Tue, March 31 09:30AM AEDT |
 |[802 G Stone Motors 358 Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5978){:target="_blank"} |Season 4 |46 |2416 | | | | | |
 |[CAN\-AM DIRT RACING SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13167){:target="_blank"} |WINTER 2025 |44 |2319 | | | | | |
-|[Friday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=7798){:target="_blank"} |DTB/FNL 2025 Open Set 358 Mods |29 |3300 |Fixed | | | | |
 |[NLR Mayhem Tour by P1 SimSports](https://members.iracing.com/membersite/member/LeagueView.do?league=11702){:target="_blank"} |NLR Mayhem Tour |25 |2841 | |The Dirt Track at Charlotte |Tue, March 31 08:00PM EDT |Wed, April 01 01:00AM BST |Wed, April 01 11:00AM AEDT |
-|[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |LCDDS4 \- Dirt Modified 358 |11 |1620 |Fixed | | | | |
+|[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |LCDDS4 \- Dirt Modified 358 |16 |1605 |Fixed | | | | |
 
 ### Dirt Big Block Modified
 
@@ -24,7 +23,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|-----------------|-------------------------|-------------------------|--------------------------|
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |Narc Fixed BBM 2026\.1 |55 |3192 |Open | | | | |
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB Big Blocks Season 8 |45 |3106 |Open |Huset's Speedway |Wed, April 01 09:00PM EDT |Thu, April 02 02:00AM BST |Thu, April 02 12:00PM AEDT |
-|[Drinkin' Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=2671){:target="_blank"} |2025/2026 Winter Season |42 |1480 | | | | | |
+|[Drinkin' Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=2671){:target="_blank"} |2025/2026 Winter Season |42 |1467 | | | | | |
 |[Southern Tier Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13454){:target="_blank"} |STES Season 1 |35 |2757 |Fixed | | | | |
 |[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2025\-26 Big Block |32 |2285 |Fixed | | | | |
 |[Instigator Winter Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11652){:target="_blank"} |Big Block Modified 2025 |14 |1784 | | | | | |
@@ -44,8 +43,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
-|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Pro Late Models Season 2 |50 |2653 |Both | | | | |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Pro Late Models Season 2 |50 |2549 |Both | | | | |
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |DIRTWEEK 2026 |48 |2780 |Fixed | | | | |
 |[Montana iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7823){:target="_blank"} |2026 Late Models |28 |1898 |Fixed | | | | |
 |[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2026 Dirt Pro Late Models |28 |1962 |Fixed | | | | |
@@ -53,15 +52,14 @@
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Monday Masters of Dirt \- Season 3 |26 |1501 |Fixed | | | | |
 |[Bone Head Racing: Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=4204){:target="_blank"} |BHR Dirt Tour: Season 2 |26 |2893 |Fixed | | | | |
 |[ECC pro late](https://members.iracing.com/membersite/member/LeagueView.do?league=13490){:target="_blank"} |pro late season 1 |25 |2987 |Open | | | | |
-|[Friday Night Lights](https://members.iracing.com/membersite/member/LeagueView.do?league=7798){:target="_blank"} |DTB/FNL Pro Latemodel 2025 |24 |3240 |Fixed | | | | |
 |[Pro Late Model Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4122){:target="_blank"} |PRO LATE MODEL DIRT SERIES \- 2026 |23 |2556 |Fixed | | | | |
 |[Wheel 2 Wheel Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12216){:target="_blank"} |Off Season Dirt League 2025 |22 |1878 | | | | | |
 |[Oak House Racing Network](https://members.iracing.com/membersite/member/LeagueView.do?league=13279){:target="_blank"} |Oak House Racing Pro Late Model Series S1 |22 |2572 |Fixed | | | | |
+|[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |SBRL Fixed Pro Late 26S1 |21 |2381 |Both |Kokomo Speedway |Sun, April 05 08:55PM EDT |Mon, April 06 01:55AM BST |Mon, April 06 10:55AM AEST |
 |[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |NWRA Pro Late Models Season 10 |19 |3631 |Both | | | | |
 |[Northwest Sharks](https://members.iracing.com/membersite/member/LeagueView.do?league=13721){:target="_blank"} |North West Late Models |19 |2158 |Open | | | | |
 |[Freedom Motorsport Alliance Dirt Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13173){:target="_blank"} |Pro Late Model Season 1 |19 |1590 |Fixed |Lernerville Speedway |Tue, March 31 08:00PM EDT |Wed, April 01 01:00AM BST |Wed, April 01 11:00AM AEDT |
-|[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |SBRL Fixed Pro Late 26S1 |19 |2388 |Both |Kevin Harvick's Kern Raceway |Sun, March 29 08:55PM EDT |Mon, March 30 01:55AM BST |Mon, March 30 11:55AM AEDT |
-|[OVSS 358 Mayhem Tour/ Pro Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |2026 Pro Late Models |16 |1629 |Fixed | | | | |
+|[OVSS 358 Mayhem Tour/ Pro Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |2026 Pro Late Models |17 |1574 |Fixed | | | | |
 |[Old Money Racing PROLM](https://members.iracing.com/membersite/member/LeagueView.do?league=10035){:target="_blank"} |Old Money Racing 2026 Winter |15 |2370 |Fixed | | | | |
 |[OVSS 358 Mayhem Tour/ Pro Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |OVSS Pro Late Model Rookie |15 |1371 |Fixed | | | | |
 |[DIRTKARS PRO LATES MODEL SERIES powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7932){:target="_blank"} |Season 11 Pro Late Models |15 |1836 | | | | | |
@@ -75,17 +73,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|---------------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-----------------------|-------------------------|-------------------------|--------------------------|
 |[No Limit Crown Jewel Tour presented by P1 Simsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11603){:target="_blank"} |No Limit Crown Jewel |63 |4772 | |Lincoln Speedway |Mon, March 30 08:00PM EDT |Tue, March 31 01:00AM BST |Tue, March 31 11:00AM AEDT |
-|[SRA\-Southern Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |SRA SLM 2026 Season 1 |52 |4432 |Both |Volusia Speedway Park |Sun, March 29 08:00PM EDT |Mon, March 30 01:00AM BST |Mon, March 30 11:00AM AEDT |
+|[SRA\-Southern Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |SRA SLM 2026 Season 1 |61 |3458 |Both |Williams Grove Speedway |Sun, April 05 08:00PM EDT |Mon, April 06 01:00AM BST |Mon, April 06 10:00AM AEST |
 |[B&B Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13461){:target="_blank"} |B&B season 2 |33 |2760 | | | | | |
 |[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |SDS Hooked Up Super Lates 2026 Spring |29 |3894 |Both | | | | |
 |[Virtual Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11145){:target="_blank"} |Winter Heat SLM 2025 |22 |2478 | | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS SUPER LATE MODEL DIRT SERIES |17 |2260 | | | | | |
 |[Instigator Winter Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11652){:target="_blank"} |Super Late Model 2025 |16 |3012 | | | | | |
 |[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |SDS ST Superlates 2026 Spring |14 |3577 |Both | | | | |
+|[CDM Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=14120){:target="_blank"} |CDM Super Season 1 |13 |2442 | |Lincoln Speedway |Sun, April 05 09:00PM EDT |Mon, April 06 02:00AM BST |Mon, April 06 11:00AM AEST |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS DIRT SUPER LATE MODELS SEASON 2 |12 |2568 | |Knoxville Raceway |Mon, March 30 08:00PM EDT |Tue, March 31 01:00AM BST |Tue, March 31 11:00AM AEDT |
-|[CDM Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=14120){:target="_blank"} |CDM Super Season 1 |12 |2546 | |Eldora Speedway |Sun, March 29 09:00PM EDT |Mon, March 30 02:00AM BST |Mon, March 30 12:00PM AEDT |
 
 ### Dirt Midget
 
@@ -105,7 +103,7 @@
 |[B\-Main Bandits Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7114){:target="_blank"} |Spring Midget Series |26 |2702 |Fixed |Lanier National Speedway |Tue, March 31 09:00PM EDT |Wed, April 01 02:00AM BST |Wed, April 01 12:00PM AEDT |
 |[BRL National Sprint Car Trail](https://members.iracing.com/membersite/member/LeagueView.do?league=8516){:target="_blank"} |NSCT S2 \- Midget |22 |1740 |Fixed | | | | |
 |[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} |NZMR Midgets |17 |1353 | | | | | |
-|[DND Dirt Midgets](https://members.iracing.com/membersite/member/LeagueView.do?league=13656){:target="_blank"} |dnd dirt midgets |14 |2261 |Fixed |Port Royal Speedway |Sun, March 29 09:00PM EDT |Mon, March 30 02:00AM BST |Mon, March 30 12:00PM AEDT |
+|[DND Dirt Midgets](https://members.iracing.com/membersite/member/LeagueView.do?league=13656){:target="_blank"} |dnd dirt midgets |14 |2227 |Fixed |Eldora Speedway |Sun, April 05 09:00PM EDT |Mon, April 06 02:00AM BST |Mon, April 06 11:00AM AEST |
 |[Dirt Thunder Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8819){:target="_blank"} |Clash on the Clay 2026 |12 |1860 | | | | | |
 
 ### Dirt Outlaw Micro Sprint Car - Winged
@@ -132,15 +130,15 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|---------------------------|-------------------------|-------------------------|--------------------------|
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |116 |2291 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |74 |2734 |Open | | | | |
-|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |Auswide 360 Sprintcar Series |73 |3869 | |The Dirt Track at Charlotte |Sun, March 29 03:30AM EDT |Sun, March 29 08:30AM BST |Sun, March 29 06:30PM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |116 |2291 |Open |Eldora Speedway |Mon, March 30 07:30PM EDT |Tue, March 31 12:30AM BST |Tue, March 31 10:30AM AEDT |
+|[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |Auswide 360 Sprintcar Series |78 |3884 | | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |74 |2734 |Open |Eldora Speedway |Mon, March 30 08:00PM EDT |Tue, March 31 01:00AM BST |Tue, March 31 11:00AM AEDT |
 |[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL 360 Sprintcar Championship 2026 |63 |3616 | |Weedsport Speedway |Mon, March 30 06:00AM EDT |Mon, March 30 11:00AM BST |Mon, March 30 09:00PM AEDT |
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 360 Sprints Season 22 |60 |4801 |Open |The Dirt Track at Charlotte |Tue, March 31 09:00PM EDT |Wed, April 01 02:00AM BST |Wed, April 01 12:00PM AEDT |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |Sunday Night Fixed 360 2026\.1 |58 |2802 |Open | | | | |
 |[RPES 360 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11709){:target="_blank"} |2026 RPES Hinkle Plasma Cutting 360 Sprint Car Series |54 |4064 | |The Dirt Track at Charlotte |Wed, April 01 08:30PM EDT |Thu, April 02 01:30AM BST |Thu, April 02 11:30AM AEDT |
 |[AcesUp Winter Freeze 360 Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10746){:target="_blank"} |AcesUp Winter Freeze 360 Sprints 2025\-26 |50 |3572 | | | | | |
-|[Slide Job Syndicate 360's](https://members.iracing.com/membersite/member/LeagueView.do?league=12863){:target="_blank"} |2026 Season 1 The Rise of the Syndicate |47 |3338 | |Limaland Motorsports Park |Sun, March 29 07:30PM EDT |Mon, March 30 12:30AM BST |Mon, March 30 10:30AM AEDT |
+|[Slide Job Syndicate 360's](https://members.iracing.com/membersite/member/LeagueView.do?league=12863){:target="_blank"} |2026 Season 1 The Rise of the Syndicate |48 |3344 | |USA International Speedway |Sun, April 05 07:30PM EDT |Mon, April 06 12:30AM BST |Mon, April 06 09:30AM AEST |
 |[DOB 360 & 410 Weekly Race Server](https://members.iracing.com/membersite/member/LeagueView.do?league=3835){:target="_blank"} |DOB 360 Season 22 |47 |4761 | | | | | |
 |[VapourTrail Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |25/26 Sprintcar Summer series |27 |2213 | | | | | |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Dirt Nation \- Season 1 \(360 Sprint\) |25 |1669 |Fixed |The Dirt Track at Charlotte |Thu, April 02 07:45PM EDT |Fri, April 03 12:45AM BST |Fri, April 03 10:45AM AEDT |
@@ -160,9 +158,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|-----------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[Hoosier Open Wheel Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13435){:target="_blank"} |26' S7 Hoosier 410nw |38 |3764 | | | | | |
-|[Hoosier International Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13436){:target="_blank"} |Hoosier International 410 Series Season 7 2026 |26 |3878 | |Fairbury Speedway |Sun, March 29 01:00PM EDT |Sun, March 29 06:00PM BST |Mon, March 30 04:00AM AEDT |
+|[Hoosier International Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13436){:target="_blank"} |Hoosier International 410 Series Season 7 2026 |27 |3925 | | | | | |
 
 ### Dirt Sprintcar - 410
 
@@ -188,33 +186,33 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
 |[PS Enduros](https://members.iracing.com/membersite/member/LeagueView.do?league=7139){:target="_blank"} |Enduros Season 6 |59 |3564 |Fixed | | | | |
 |[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Street Stocks Super Winter Series 2026 |38 |2867 | |Lernerville Speedway |Fri, April 03 06:00AM EDT |Fri, April 03 11:00AM BST |Fri, April 03 09:00PM AEDT |
-|[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Winter 25\-26 Street Stocks |35 |2421 |Fixed |Federated Auto Parts Raceway at I-55 |Sun, March 29 07:45PM EDT |Mon, March 30 12:45AM BST |Mon, March 30 10:45AM AEDT |
+|[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Winter 25\-26 Street Stocks |35 |2418 |Fixed | | | | |
 |[Midwest Dirt Street Stock Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=10858){:target="_blank"} |Midwest Dirt Street Stock Showdown Season 2 |34 |3735 |Fixed | | | | |
 |[battle of the borders](https://members.iracing.com/membersite/member/LeagueView.do?league=3821){:target="_blank"} |2025\-26 street stock |30 |2408 |Fixed | | | | |
 |[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |NWRA Dirt Street Stocks Season 10 |23 |3890 |Both | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS STREET STOCK SERIES |20 |2398 | | | | | |
+|[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |LCDDS4 \- Dirt Street Stock |14 |1592 |Fixed | | | | |
 |[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |SDS ST Street Stocks |12 |3807 |Both | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS DIRT STREET STOCKS SEASON 2 |11 |2686 | |Knoxville Raceway |Mon, March 30 11:00PM EDT |Tue, March 31 04:00AM BST |Tue, March 31 02:00PM AEDT |
-|[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |LCDDS4 \- Dirt Street Stock |10 |1618 |Fixed | | | | |
 
 ### Dirt UMP Modified
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|----------------------------|-------------------------|-------------------------|--------------------------|
-|[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Winter 25\-26 UMP Modifieds |34 |2420 |Fixed |The Dirt Track at Charlotte |Sun, March 29 08:55PM EDT |Mon, March 30 01:55AM BST |Mon, March 30 11:55AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Winter 25\-26 UMP Modifieds |34 |2430 |Fixed | | | | |
 |[Montana iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7823){:target="_blank"} |2026 UMP Modifieds |30 |1940 |Fixed | | | | |
 |[Hometown Hero Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4701){:target="_blank"} |Bmod Fun Run series |22 |2783 |Fixed | | | | |
 |[Virtual Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11145){:target="_blank"} |Winter Heat UMP 2025 |22 |2456 | | | | | |
 |[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |SDS Open Wheel Modified |22 |3686 |Both | | | | |
 |[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |NWRA UMP Modifieds Season 8 |20 |3817 |Both | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS UMP MODIFIED SERIES |20 |2492 | | | | | |
-|[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |SBRL Fixed UMP 26S1 |20 |2506 |Both |Kevin Harvick's Kern Raceway |Sun, March 29 07:55PM EDT |Mon, March 30 12:55AM BST |Mon, March 30 10:55AM AEDT |
-|[Ohio Valley Sim Sports UMP and Winged 360's](https://members.iracing.com/membersite/member/LeagueView.do?league=11663){:target="_blank"} |OVSS 2026 UMP's |15 |1584 |Fixed | | | | |
+|[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |SBRL Fixed UMP 26S1 |20 |2470 |Both |Kokomo Speedway |Sun, April 05 07:55PM EDT |Mon, April 06 12:55AM BST |Mon, April 06 09:55AM AEST |
+|[Ohio Valley Sim Sports UMP and Winged 360's](https://members.iracing.com/membersite/member/LeagueView.do?league=11663){:target="_blank"} |OVSS 2026 UMP's |16 |1600 |Fixed | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS UMP MODIFIEDS SEASON 2 |13 |2638 | |USA International Speedway |Tue, March 31 11:00PM EDT |Wed, April 01 04:00AM BST |Wed, April 01 02:00PM AEDT |
 |[Ohio Valley Sim Sports UMP and Winged 360's](https://members.iracing.com/membersite/member/LeagueView.do?league=11663){:target="_blank"} |OVSS Rookie class UMP |12 |1308 |Fixed | | | | |
 
@@ -226,19 +224,19 @@
 |------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|------------------------------------|-------------------------|-------------------------|--------------------------|
 |[World of Outlaws Pro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11658){:target="_blank"} |2025\-26 Season |116 |7337 | | | | | |
 |[DIRTcar eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2026 DIRTcar eSports |114 |4301 |Fixed | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- Limited LM |100 |2489 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |97 |2568 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |95 |2466 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |92 |2614 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- Limited LM |100 |2489 |Open |Cedar Lake Speedway |Wed, April 01 07:30PM EDT |Thu, April 02 12:30AM BST |Thu, April 02 10:30AM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |97 |2568 |Open |Limaland Motorsports Park |Thu, April 02 07:30PM EDT |Fri, April 03 12:30AM BST |Fri, April 03 10:30AM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |95 |2466 |Open |Cedar Lake Speedway |Wed, April 01 06:30PM EDT |Wed, April 01 11:30PM BST |Thu, April 02 09:30AM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |92 |2614 |Open |Limaland Motorsports Park |Thu, April 02 08:00PM EDT |Fri, April 03 01:00AM BST |Fri, April 03 11:00AM AEDT |
 |[AcesUp Sim Sports Pro Series Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=9032){:target="_blank"} |AcesUp Pro Series Tune Up League 2025 |86 |6904 | | | | | |
 |[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |SAISON HIVERNAL 2025\-2026 |67 |2240 | | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |Winter Sprint Car Series \(2025\-2026\) |67 |3427 |Open | | | | |
-|[2026 Sprintcar Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2025 ASC SERIES PRACTICE |66 |None | | | | | |
+|[2026 Sprintcar Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2026 PRACTICES |66 |None | | | | | |
 |[Dirt Sprint Car Championship Series \(DSCCS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2547){:target="_blank"} |2026 DSCCS 410 Tour |64 |4923 |Open |Federated Auto Parts Raceway at I-55 |Wed, April 01 09:00PM EDT |Thu, April 02 02:00AM BST |Thu, April 02 12:00PM AEDT |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- MIDGET |62 |2263 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |55 |2103 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- MIDGET |62 |2263 |Open |Federated Auto Parts Raceway at I-55 |Wed, April 01 08:00PM EDT |Thu, April 02 01:00AM BST |Thu, April 02 11:00AM AEDT |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |55 |2103 |Open |Limaland Motorsports Park |Thu, April 02 01:30PM EDT |Thu, April 02 06:30PM BST |Fri, April 03 04:30AM AEDT |
 |[Dirt Track Junkies](https://members.iracing.com/membersite/member/LeagueView.do?league=13031){:target="_blank"} |Dirt Track Junkies Season 2 \(2026\) |55 |1653 |Fixed | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |51 |2039 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |51 |2039 |Open |Eldora Speedway |Mon, March 30 01:30PM EDT |Mon, March 30 06:30PM BST |Tue, March 31 04:30AM AEDT |
 |[Micro Sprint Hub \- Micro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13771){:target="_blank"} |2026 Season \- Inaugural Season  |38 |1882 | | | | | |
 |[OTL Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2587){:target="_blank"} |Buckwalter Racing Winter Series |37 |1897 | | | | | |
 |[GLR Thursday Thunder Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11992){:target="_blank"} |GLR  Dirt Series Season 1 |32 |1573 | | | | | |
@@ -247,7 +245,7 @@
 |[TFG David vs\. Goliath Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13424){:target="_blank"} |The David vs\. Goliath Championship |25 |2002 | | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS PRO LATE MODEL SERIES |24 |2318 | | | | | |
 |[MO Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=4895){:target="_blank"} |2025\-2026 WINTER BLAST |22 |2187 | | | | | |
-|[Ozark Mountain Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13791){:target="_blank"} |Ozark Mountain Dirt Series |21 |1607 | | | | | |
+|[Ozark Mountain Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13791){:target="_blank"} |Ozark Mountain Dirt Series |22 |1611 | | | | | |
 |[Glenn Dirt Tour \[GDT\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13485){:target="_blank"} |GDT |20 |2501 | | | | | |
 |[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} |NZMR Sprint Cars |19 |1645 | | | | | |
 |[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} |Dirt Tour |19 |1311 |Fixed |Volusia Speedway Park |Tue, March 31 08:30PM EDT |Wed, April 01 01:30AM BST |Wed, April 01 11:30AM AEDT |
