@@ -49,7 +49,7 @@
 |------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[iRacing Short Course Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3946){:target="_blank"} |2026 Pro 4 National Series |40 |5998 |Open | | | | |
 |[Grit n' Glory Pro 4 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |31 |2693 |Fixed | | | | |
-|[RPES Off\-Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11711){:target="_blank"} |2026 RPES Metcalf Media Off\-Road Series |28 |3219 | | | | | |
+|[RPES Better Half Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=11711){:target="_blank"} |2026 RPES Metcalf Media Off\-Road Series |28 |3219 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Y2M x LIF/4x4 Rolling Thunder \- 2026 \(Sat\) |18 |2026 |Fixed | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S1 '26 Trucks |11 |1329 |Fixed | | | | |
 

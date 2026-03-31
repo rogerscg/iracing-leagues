@@ -71,15 +71,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|--------------------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
 |[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |34 |2181 | |Charlotte Motor Speedway  |Sun, April 05 12:30PM EDT |Sun, April 05 05:30PM BST |Mon, April 06 02:30AM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |34 |2448 |Both | | | | |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |20 |2831 | |Hockenheimring Baden-Württemberg |Mon, March 30 02:50PM EDT |Mon, March 30 07:50PM BST |Tue, March 31 05:50AM AEDT |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |20 |2830 | |Autodromo Nazionale Monza |Mon, April 06 02:50PM EDT |Mon, April 06 07:50PM BST |Tue, April 07 04:50AM AEST |
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |17 |1744 | |Oulton Park Circuit |Sun, April 05 03:00PM EDT |Sun, April 05 08:00PM BST |Mon, April 06 05:00AM AEST |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 4\.1 |15 |2258 |Fixed | | | | |
-|[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |14 |1938 | | | | | |
+|[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |14 |1938 | |Circuito de Navarra |Fri, April 03 12:15PM EDT |Fri, April 03 05:15PM BST |Sat, April 04 03:15AM AEDT |
 |[Rental Kart Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=12081){:target="_blank"} |Radical SR8 Lime Rock Park Championship \- WED 730 |14 |1584 |Both | | | | |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |SR8 |13 |1363 | |Motorsport Arena Oschersleben |Thu, April 02 08:00PM EDT |Fri, April 03 01:00AM BST |Fri, April 03 11:00AM AEDT |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |SR8 |13 |1363 | | | | | |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |12 |1868 |Fixed |Mid-Ohio Sports Car Course |Sat, April 04 03:00PM EDT |Sat, April 04 08:00PM BST |Sun, April 05 05:00AM AEST |
 |[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |Midweek Sprint Series \| Season 5 |10 |1804 |Both | | | | |
 
@@ -106,7 +106,7 @@
 |[Ray Esports vRunoffs](https://members.iracing.com/membersite/member/LeagueView.do?league=14079){:target="_blank"} |2026 S1Wk13 SRF Group |28 |3129 | | | | | |
 |[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 4 |25 |1382 | | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 1B SRF |22 |2121 |Open | | | | |
+|[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |Monday Practice VRG VRL 2026 Season 1 |14 |1456 |Fixed | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Short Track Thursday Nights |13 |1426 |Fixed | | | | |
-|[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |Monday Practice VRG VRL 2026 Season 1 |13 |1476 |Fixed |Sebring International Raceway |Mon, March 30 07:30PM EDT |Tue, March 31 12:30AM BST |Tue, March 31 10:30AM AEDT |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |Mini League 2025 |10 |1502 | | | | | |
 

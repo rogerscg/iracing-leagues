@@ -17,8 +17,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|-------------------------|-------------------------|-------------------------|--------------------------|
-|[Racers Elite \- Monday SRX Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14109){:target="_blank"} |Racers Elite \- SRX Fixed Series \(Season 1\) |20 |1783 | |Limaland Motorsports Park |Mon, March 30 05:35PM EDT |Mon, March 30 10:35PM BST |Tue, March 31 08:35AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|-----------------------|-------------------------|-------------------------|--------------------------|
+|[Racers Elite \- Monday SRX Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14109){:target="_blank"} |Racers Elite \- SRX Fixed Series \(Season 1\) |21 |1796 | |Stafford Motor Speedway |Mon, April 06 05:35PM EDT |Mon, April 06 10:35PM BST |Tue, April 07 07:35AM AEST |
 |[Smaug Racing Xperience](https://members.iracing.com/membersite/member/LeagueView.do?league=14116){:target="_blank"} |Season 1 |19 |1893 |Fixed | | | | |
 
 ### Supercars Gen 3
