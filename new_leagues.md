@@ -2,12 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Formula ARCS](https://members.iracing.com/membersite/member/LeagueView.do?league=14187){:target="_blank"} | |F1 league that runs under the ARCS banner |
-|[nto](https://members.iracing.com/membersite/member/LeagueView.do?league=14189){:target="_blank"} | | |
-|[OWPL](https://members.iracing.com/membersite/member/LeagueView.do?league=14188){:target="_blank"} | |The Open\-Wheel Premier League \(OWPL\) is a serious, professional\-style IR\-18 league on iRacing\. We run an 18\-race season with a balanced mix of high\-speed ovals, technical road courses, and street circuits using the real IndyCar points system \(including double points at Indy 500, Michigan, Auto Club, and Pocono\)\. Our focus is simple: race hard, race clean, and build a long\-term community with zero tolerance for intentional contact or toxicity\. Full stewards and incident reports\. Currently in our inaugural mock season to grow the grid before moving to official league format\. If you want competitive, respectful racing with good people — this is the league for you\. |
-|[GSR League Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=14191){:target="_blank"} | | |
-|[Rollin Thunder Racing \- Asphalt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14190){:target="_blank"} | |Orielly's 13 weeks, Alternating Tracks |
-|[Rollin Thunder Racing \- Dirt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14192){:target="_blank"} | |Limited Late Model 13 weeks, Alternating Tracks |
 |[252 Racing Figure 8 Chaos](https://members.iracing.com/membersite/member/LeagueView.do?league=14193){:target="_blank"} | | |
 |[Contractors cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14197){:target="_blank"} | |For fun |
 |[Cyclone Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14195){:target="_blank"} | | |
@@ -73,4 +67,9 @@
 |[Braunschweig eSports Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14261){:target="_blank"} | |Die offizielle GT3\-Meisterschaft von Braunschweig eSports e\. V\. – 6 Runden, freie Fahrzeugwahl, gestreamt auf Twitch\. Presented by Rischmüller & Seide\. |
 |[\[GRT\] Ascher Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14262){:target="_blank"} | |This league is sponsored by AscherRacing China and organized by GeckoRacing\. 该联赛由AscherRacing中国区赞助，由GeckoRacing承办 |
 |[VFRA \- F4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14263){:target="_blank"} | |This is the Virtual Formula Racing Association's F4 Series |
+|[Ducktona Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=14268){:target="_blank"} | | |
+|[Mainely Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14270){:target="_blank"} | | |
+|[FoMoCo Crash Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14269){:target="_blank"} | |Team SQRLY |
+|[RWFWSAI](https://members.iracing.com/membersite/member/LeagueView.do?league=14266){:target="_blank"} | |Racing with Friends who \*\*\* at Iracing |
+|[Spacer Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14267){:target="_blank"} | |Our iRacing Space league |
 
