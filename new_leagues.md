@@ -2,15 +2,8 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[252 Racing Figure 8 Chaos](https://members.iracing.com/membersite/member/LeagueView.do?league=14193){:target="_blank"} | | |
-|[Contractors cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14197){:target="_blank"} | |For fun |
-|[Cyclone Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14195){:target="_blank"} | | |
-|[GSRA](https://members.iracing.com/membersite/member/LeagueView.do?league=14196){:target="_blank"} | | |
-|[PROGRID \| GT3 CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=14198){:target="_blank"} | |A liga que mais cresce no AV\! |
-|[AVGP](https://members.iracing.com/membersite/member/LeagueView.do?league=14194){:target="_blank"} | |Astronaut Van Grand Prix |
 |[AGR Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14202){:target="_blank"} | | |
 |[NESCC](https://members.iracing.com/membersite/member/LeagueView.do?league=14200){:target="_blank"} | | |
-|[PROGRID \| GT3 ELITE](https://members.iracing.com/membersite/member/LeagueView.do?league=14199){:target="_blank"} | |A liga que mais cresce no AV\! |
 |[RFRL Elite Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=14203){:target="_blank"} | |Late Model Series |
 |[TestLeague](https://members.iracing.com/membersite/member/LeagueView.do?league=14201){:target="_blank"} | |Test |
 |[Wreckers or Checkers Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14204){:target="_blank"} | | |
@@ -72,4 +65,11 @@
 |[FoMoCo Crash Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14269){:target="_blank"} | |Team SQRLY |
 |[RWFWSAI](https://members.iracing.com/membersite/member/LeagueView.do?league=14266){:target="_blank"} | |Racing with Friends who \*\*\* at Iracing |
 |[Spacer Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14267){:target="_blank"} | |Our iRacing Space league |
+|[Just a Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=14271){:target="_blank"} | | |
+|[NoBull Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=14277){:target="_blank"} | |Superspeedway league |
+|[Southern Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14272){:target="_blank"} | |Late Models and Street Stocks mostly |
+|[Tobacco Road Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14273){:target="_blank"} | | |
+|[Trak Fiends X Mid\-Pack Mafia](https://members.iracing.com/membersite/member/LeagueView.do?league=14276){:target="_blank"} | | |
+|[Formula 1\.5](https://members.iracing.com/membersite/member/LeagueView.do?league=14275){:target="_blank"} | | |
+|[League Racing1487](https://members.iracing.com/membersite/member/LeagueView.do?league=14274){:target="_blank"} | |Racing League |
 
