@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[AGR Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14202){:target="_blank"} | | |
-|[NESCC](https://members.iracing.com/membersite/member/LeagueView.do?league=14200){:target="_blank"} | | |
-|[RFRL Elite Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=14203){:target="_blank"} | |Late Model Series |
-|[TestLeague](https://members.iracing.com/membersite/member/LeagueView.do?league=14201){:target="_blank"} | |Test |
 |[Wreckers or Checkers Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14204){:target="_blank"} | | |
 |[All American Racing Network \- O'Reilly's Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14206){:target="_blank"} | | |
 |[FDRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14208){:target="_blank"} | | |
@@ -71,5 +67,9 @@
 |[Tobacco Road Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14273){:target="_blank"} | | |
 |[Trak Fiends X Mid\-Pack Mafia](https://members.iracing.com/membersite/member/LeagueView.do?league=14276){:target="_blank"} | | |
 |[Formula 1\.5](https://members.iracing.com/membersite/member/LeagueView.do?league=14275){:target="_blank"} | | |
-|[League Racing1487](https://members.iracing.com/membersite/member/LeagueView.do?league=14274){:target="_blank"} | |Racing League |
+|[Racing Season 18564](https://members.iracing.com/membersite/member/LeagueView.do?league=14274){:target="_blank"} | |Racing League |
+|[Apex Sim Cup: Del simulador a la pista](https://members.iracing.com/membersite/member/LeagueView.do?league=14280){:target="_blank"} | |De aquí saldrán los 10 mejores que se enfrentarán contra los demás finalistas, pero solo 1 se llevará el premio mayor: correr la Endurance 24 en diciembre\. |
+|[Rookie Cup 2026 by RC Carshop eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=14279){:target="_blank"} | |RC Carshop eSports Rookie Cup für Einsteiger und Beginner in iRacing\!  \- bis 2K IR  \- Live Reko  \- Livestream \+ Kommentar  \- Practice \+ 10min Lone Quali \+ 2x 20min Rennen |
+|[Slightly Dangerous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14278){:target="_blank"} | | |
+|[The Old Glory 500](https://members.iracing.com/membersite/member/LeagueView.do?league=14281){:target="_blank"} | |The Old Glory 500 presented by Sim Racing Media |
 
