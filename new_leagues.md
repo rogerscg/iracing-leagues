@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Dood2Door Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=14227){:target="_blank"} | |Mid week dirt racing for the boys |
-|[League GT](https://members.iracing.com/membersite/member/LeagueView.do?league=14229){:target="_blank"} | |Oval, Points, Reviews, Endurance |
-|[PT Racerz Challenge 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14225){:target="_blank"} |[Discord](https://discord.gg/Jpwx5ZJwZH){:target="_blank"} |Fun league for anyone with pace, fairplay and willing to have tons of fun\!\! |
-|[weekly racing madness](https://members.iracing.com/membersite/member/LeagueView.do?league=14226){:target="_blank"} | |host weekly races |
 |[Init Team](https://members.iracing.com/membersite/member/LeagueView.do?league=14231){:target="_blank"} | | |
 |[carlos el topo que gira](https://members.iracing.com/membersite/member/LeagueView.do?league=14230){:target="_blank"} | |Primo Octavio |
 |[Braes league](https://members.iracing.com/membersite/member/LeagueView.do?league=14233){:target="_blank"} | |midget |
@@ -44,9 +40,9 @@
 |[NoBull Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=14277){:target="_blank"} | |Superspeedway league |
 |[Southern Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14272){:target="_blank"} | |Late Models and Street Stocks mostly |
 |[Tobacco Road Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14273){:target="_blank"} | | |
-|[Trak Fiends X Mid\-Pack Mafia](https://members.iracing.com/membersite/member/LeagueView.do?league=14276){:target="_blank"} | | |
+|[TrakFiends X Mid\-Pack Mafia](https://members.iracing.com/membersite/member/LeagueView.do?league=14276){:target="_blank"} | | |
 |[Formula 1\.5](https://members.iracing.com/membersite/member/LeagueView.do?league=14275){:target="_blank"} | | |
-|[Night Of Features Street Stock Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=14274){:target="_blank"} | |🏁 Street Stock Shootout 🏁  Get ready for the ultimate showcase of grit, muscle, and door\-to\-door short\-track action\! The Street Stock Shootout brings together the toughest drivers and the heaviest hitters for a high\-stakes battle where "rubbing is racing" isn't just a saying—it's a requirement\.   These aren't your refined late models\. We’re taking it back to the roots of stock car racing with high\-horsepower, heavy\-bodied machines that demand every ounce of driver skill to keep on the track\. With limited aero and maximum attitude, every lap is a fight for position and a test of tire management\.   What to Expect:   Close Quarters: Expect intense, side\-by\-side racing on the tightest bullrings\.   Pure Muscle: No high\-tech aids—just raw power and mechanical grip\.   Winner\-Take\-All Energy: A high\-intensity format designed to crown the best of the best in the "People's Class\."   Who will survive the chaos and take the checkered flag? |
+|[Night Of Features Street Stock Shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=14274){:target="_blank"} | |https://discord\.gg/mYH4ySUG |
 |[Apex Sim Cup: Del simulador a la pista](https://members.iracing.com/membersite/member/LeagueView.do?league=14280){:target="_blank"} | |De aquí saldrán los 10 mejores que se enfrentarán contra los demás finalistas, pero solo 1 se llevará el premio mayor: correr la Endurance 24 en diciembre\. |
 |[Rookie Cup 2026 by RC Carshop eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=14279){:target="_blank"} | |RC Carshop eSports Rookie Cup für Einsteiger und Beginner in iRacing\!  \- bis 2K IR  \- Live Reko  \- Livestream \+ Kommentar  \- Practice \+ 10min Lone Quali \+ 2x 20min Rennen |
 |[Slightly Dangerous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14278){:target="_blank"} | | |
@@ -77,4 +73,12 @@
 |[The Speed House Society Shakedown](https://members.iracing.com/membersite/member/LeagueView.do?league=14305){:target="_blank"} |[Discord](https://discord.gg/PAjDub29){:target="_blank"} |FUN Community series |
 |[WE ARE LEFT RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=14304){:target="_blank"} | |O'REILLY FIXED SERIES |
 |[NJMP World Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14306){:target="_blank"} | |Race TCR and GT cars around the world\! |
+|[802 Elite Nextgen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14311){:target="_blank"} | |NextGen No IR Cap, No Pro Licens |
+|[ECRL \- Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=14309){:target="_blank"} |[Discord](https://discord.gg/SHrxSNwM3){:target="_blank"} |305 Sprint Car |
+|[Freedom Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14316){:target="_blank"} | | |
+|[Friday Night Under The Lights\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14315){:target="_blank"} | |Fun First\! Clean Fun Racing\! |
+|[Manco Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14312){:target="_blank"} | |Un grupo de mancos en una liga\! |
+|[MAXBITE SpeedShop](https://members.iracing.com/membersite/member/LeagueView.do?league=14314){:target="_blank"} | |Maxbite Speedshop is Built by champions, for champions\. This is a dedicated testing session for each week\. |
+|[Nurburgring Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14313){:target="_blank"} | |NEC related races and track days |
+|[PWRC IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14310){:target="_blank"} |[Discord](https://discord.gg/8khyA65gXt){:target="_blank"} |Gen 4 Arca League, we always welcome new drivers, so dont be afraid to join using our url\! |
 
