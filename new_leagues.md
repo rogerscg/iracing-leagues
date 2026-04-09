@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Init Team](https://members.iracing.com/membersite/member/LeagueView.do?league=14231){:target="_blank"} | | |
-|[carlos el topo que gira](https://members.iracing.com/membersite/member/LeagueView.do?league=14230){:target="_blank"} | |Primo Octavio |
 |[Braes league](https://members.iracing.com/membersite/member/LeagueView.do?league=14233){:target="_blank"} | |midget |
 |[CPG Dynamics Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14235){:target="_blank"} | |CPG Dynamics Sim Racing iRacing league\. |
 |[D&D](https://members.iracing.com/membersite/member/LeagueView.do?league=14232){:target="_blank"} |[Discord](https://discord.gg/GUBW3YDg8c){:target="_blank"} |We do not condone drinking while driving\.  However\.\. |
@@ -79,6 +77,8 @@
 |[Friday Night Under The Lights\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14315){:target="_blank"} | |Fun First\! Clean Fun Racing\! |
 |[Manco Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14312){:target="_blank"} | |Un grupo de mancos en una liga\! |
 |[MAXBITE SpeedShop](https://members.iracing.com/membersite/member/LeagueView.do?league=14314){:target="_blank"} | |Maxbite Speedshop is Built by champions, for champions\. This is a dedicated testing session for each week\. |
-|[Nurburgring Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14313){:target="_blank"} | |NEC related races and track days |
+|[RingRunners](https://members.iracing.com/membersite/member/LeagueView.do?league=14313){:target="_blank"} | |NEC related races and track days |
 |[PWRC IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14310){:target="_blank"} |[Discord](https://discord.gg/8khyA65gXt){:target="_blank"} |Gen 4 Arca League, we always welcome new drivers, so dont be afraid to join using our url\! |
+|[From The Back Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14318){:target="_blank"} | |We Take Racing & Do It From The Back\!\!\! |
+|[STEC \- Scandinavian Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14317){:target="_blank"} | |STEC \- Scandinavian Endurance Championship\. 2\-4\-6 hours\. |
 
