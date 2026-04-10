@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Braes league](https://members.iracing.com/membersite/member/LeagueView.do?league=14233){:target="_blank"} | |midget |
-|[CPG Dynamics Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14235){:target="_blank"} | |CPG Dynamics Sim Racing iRacing league\. |
-|[D&D](https://members.iracing.com/membersite/member/LeagueView.do?league=14232){:target="_blank"} |[Discord](https://discord.gg/GUBW3YDg8c){:target="_blank"} |We do not condone drinking while driving\.  However\.\. |
-|[Iracing All Star Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14236){:target="_blank"} | |Iracing All Star Tour is one of Iracings top midget leagues with 40\+ entires every night\. If you want to race against some of the top midget and non wing drivers on the sim this is the place\. |
-|[GR86 INTERNATIONAL CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=14234){:target="_blank"} | | |
 |[LMV Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14247){:target="_blank"} | | |
 |[Phoenix Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14248){:target="_blank"} | | |
 |[PRA Special Event](https://members.iracing.com/membersite/member/LeagueView.do?league=14237){:target="_blank"} |[Discord](https://discord.gg/pra){:target="_blank"} |PRA Special Event League |
@@ -31,7 +26,7 @@
 |[VFRA \- F4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14263){:target="_blank"} | |This is the Virtual Formula Racing Association's F4 Series |
 |[Ducktona Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=14268){:target="_blank"} | | |
 |[Mainely Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14270){:target="_blank"} | | |
-|[FoMoCo Crash Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14269){:target="_blank"} | |Team SQRLY |
+|[SQRLY Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14269){:target="_blank"} | |Team SQRLY |
 |[RWFWSAI](https://members.iracing.com/membersite/member/LeagueView.do?league=14266){:target="_blank"} | |Racing with Friends who \*\*\* at Iracing |
 |[Spacer Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14267){:target="_blank"} | |Our iRacing Space league |
 |[Just a Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=14271){:target="_blank"} | | |
@@ -77,8 +72,14 @@
 |[Friday Night Under The Lights\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14315){:target="_blank"} | |Fun First\! Clean Fun Racing\! |
 |[Manco Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14312){:target="_blank"} | |Un grupo de mancos en una liga\! |
 |[MAXBITE SpeedShop](https://members.iracing.com/membersite/member/LeagueView.do?league=14314){:target="_blank"} | |Maxbite Speedshop is Built by champions, for champions\. This is a dedicated testing session for each week\. |
-|[RingRunners](https://members.iracing.com/membersite/member/LeagueView.do?league=14313){:target="_blank"} | |NEC related races and track days |
+|[RingRunners](https://members.iracing.com/membersite/member/LeagueView.do?league=14313){:target="_blank"} | |For those who love the green hell |
 |[PWRC IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14310){:target="_blank"} |[Discord](https://discord.gg/8khyA65gXt){:target="_blank"} |Gen 4 Arca League, we always welcome new drivers, so dont be afraid to join using our url\! |
 |[From The Back Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14318){:target="_blank"} | |We Take Racing & Do It From The Back\!\!\! |
 |[STEC \- Scandinavian Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14317){:target="_blank"} | |STEC \- Scandinavian Endurance Championship\. 2\-4\-6 hours\. |
+|[GT4 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14327){:target="_blank"} | | |
+|[National Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14328){:target="_blank"} |[Discord](https://discord.gg/yjBpW3TA){:target="_blank"} |This is the National Racing League\! We will be running the O'Reilly Series Fixed \(B car\) for this season\. Drivers must be D class or better to join\. A $10 Entry fee is required per driver which will go towards the purse for the season\! Races will be Tuesdays @ 9:00pm EST with the lobby opening around 8:30 for practice\. Race lengths will be 50% with some races having more laps depending on the track\. Each race will be broadcasted\! We currently have 10 drivers who are signing up and are looking to get as many as we can\! Start date looking to be April 21st |
+|[U\.S\.O\.R\.A Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=14329){:target="_blank"} | | |
+|[Verge Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14326){:target="_blank"} | |VRL is a community\-driven sim racing league focused on clean, respectful and fair racing for drivers of all levels\. |
+|[ZED RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=14320){:target="_blank"} | | |
+|[Zh Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14321){:target="_blank"} | | |
 
