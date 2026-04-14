@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Area 51 Thursday Night Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14264){:target="_blank"} |[Discord](https://discord.gg/hGqcQMUZwj){:target="_blank"} |https://discord\.gg/hGqcQMUZwj |
-|[Braunschweig eSports Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14261){:target="_blank"} | |Die offizielle GT3\-Meisterschaft von Braunschweig eSports e\. V\. – 6 Runden, freie Fahrzeugwahl, gestreamt auf Twitch\. Presented by Rischmüller & Seide\. |
-|[\[GRT\] Ascher Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14262){:target="_blank"} | |This league is sponsored by AscherRacing China and organized by GeckoRacing\. 该联赛由AscherRacing中国区赞助，由GeckoRacing承办 |
-|[VFRA \- F4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14263){:target="_blank"} | |This is the Virtual Formula Racing Association's F4 Series |
 |[Ducktona Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=14268){:target="_blank"} | | |
 |[Mainely Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14270){:target="_blank"} | | |
 |[SQRLY Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14269){:target="_blank"} | |Team SQRLY |
@@ -22,7 +18,7 @@
 |[Rookie Cup 2026 by RC Carshop eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=14279){:target="_blank"} | |RC Carshop eSports Rookie Cup für Einsteiger und Beginner in iRacing\!  \- bis 2K IR  \- Live Reko  \- Livestream \+ Kommentar  \- Practice \+ 10min Lone Quali \+ 2x 20min Rennen |
 |[Slightly Dangerous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14278){:target="_blank"} | | |
 |[The Old Glory 500](https://members.iracing.com/membersite/member/LeagueView.do?league=14281){:target="_blank"} | |The Old Glory 500 presented by Sim Racing Media |
-|[AXRL iRacing Supercars](https://members.iracing.com/membersite/member/LeagueView.do?league=14282){:target="_blank"} |[Discord](https://discord.gg/j43ngSma){:target="_blank"} |AXRL iRacing Supercars \- Tuesday nights 7pm AEST |
+|[AXRL iRacing Supercars](https://members.iracing.com/membersite/member/LeagueView.do?league=14282){:target="_blank"} |[Discord](https://discord.gg/j43ngSma){:target="_blank"} |AXRL iRacing Supercars \- Tuesday nights 7pm AEDT |
 |[Funky Bunch Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=14288){:target="_blank"} | |FunkyTbone's special events |
 |[Global Racing Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14286){:target="_blank"} | | |
 |[InterRacingTraining](https://members.iracing.com/membersite/member/LeagueView.do?league=14283){:target="_blank"} | | |
@@ -75,11 +71,14 @@
 |[Fury of the Vee's International Racers League](https://members.iracing.com/membersite/member/LeagueView.do?league=14340){:target="_blank"} |[Discord](https://discord.gg/PXSz4skk){:target="_blank"} |Formula VEE/1600 International Racing League Hosted & Sponsored by : Thompson Racing   https://discord\.gg/PXSz4skk |
 |[RaceSupply Co](https://members.iracing.com/membersite/member/LeagueView.do?league=14341){:target="_blank"} |[Discord](https://discord.gg/n6kupS9D){:target="_blank"} |RaceSupply Co is a racing league that comes from a free discord full of active iracing drivers and racing enthusiest ran by a wholesale race parts company and lifestyle brand |
 |[Pacific Esports Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14338){:target="_blank"} | |Where Pelicans come to Race |
-|[Pitbits Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=14339){:target="_blank"} | |A league for subscribers and members of Pitbits Youtube Channel |
+|[Pitbits Community League](https://members.iracing.com/membersite/member/LeagueView.do?league=14339){:target="_blank"} |[Discord](https://discord.gg/yac29mC5Bz){:target="_blank"} |A league for subscribers and members of Pitbits Youtube Channel |
 |[ATLCRS Secondary series](https://members.iracing.com/membersite/member/LeagueView.do?league=14342){:target="_blank"} | |A series for the All Terrain Legend Car Racing Series secondary series\. We will have an asphalt oval, dirt oval, and formula car series |
 |[Elite Iracing GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14346){:target="_blank"} | | |
 |[FIA Fist In Azz](https://members.iracing.com/membersite/member/LeagueView.do?league=14343){:target="_blank"} | | |
 |[Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14345){:target="_blank"} | |Test League |
 |[Trinity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14344){:target="_blank"} |[Discord](https://discord.gg/rswRfRPa7C){:target="_blank"} |Brand New Fixed GT4 League \- Check out the discord and join for free now\! |
 |[Zero Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14319){:target="_blank"} | |Next Gen |
+|[Mosport Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=14349){:target="_blank"} | |Weekly Sprints |
+|[pitoyupollas](https://members.iracing.com/membersite/member/LeagueView.do?league=14347){:target="_blank"} | | |
+|[Battle of the Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14350){:target="_blank"} | | |
 

@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------|-----------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |BMW M2 Racing Cup |16 |2072 |Open |Suzuka International Racing Course |Mon, April 13 12:00PM EDT |Mon, April 13 05:00PM BST |Tue, April 14 02:00AM AEST |
+|---------------------------------------------------------------------------------------------------|-----------------|-------|----|-----|-------------|--------|------|------|
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |BMW M2 Racing Cup |16 |2014 |Open | | | | |
 
 ### Hosted All Cars Class
 
@@ -25,8 +25,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
-|[Racers Elite \- Monday SRX Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14109){:target="_blank"} |Racers Elite \- SRX Fixed Series \(Season 1\) |22 |1815 | |Thompson Speedway Motorsports Park |Mon, April 13 05:35PM EDT |Mon, April 13 10:35PM BST |Tue, April 14 07:35AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|---------------------|-------------------------|-------------------------|--------------------------|
+|[Racers Elite \- Monday SRX Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14109){:target="_blank"} |Racers Elite \- SRX Fixed Series \(Season 1\) |24 |1819 | |Myrtle Beach Speedway |Mon, April 20 05:35PM EDT |Mon, April 20 10:35PM BST |Tue, April 21 07:35AM AEST |
 |[Smaug Racing Xperience](https://members.iracing.com/membersite/member/LeagueView.do?league=14116){:target="_blank"} |Season 1 |20 |1940 |Fixed | | | | |
 
 ### Supercars Gen 3
