@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Ducktona Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=14268){:target="_blank"} | | |
-|[Mainely Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14270){:target="_blank"} | | |
-|[SQRLY Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14269){:target="_blank"} | |Team SQRLY |
-|[RWFWSAI](https://members.iracing.com/membersite/member/LeagueView.do?league=14266){:target="_blank"} | |Racing with Friends who \*\*\* at Iracing |
-|[Spacer Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14267){:target="_blank"} | |Our iRacing Space league |
 |[Just a Test League](https://members.iracing.com/membersite/member/LeagueView.do?league=14271){:target="_blank"} | | |
 |[NoBull Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=14277){:target="_blank"} | |Superspeedway league |
 |[Southern Roots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14272){:target="_blank"} | |Late Models and Street Stocks mostly |
@@ -44,7 +39,7 @@
 |[The Speed House Society Shakedown](https://members.iracing.com/membersite/member/LeagueView.do?league=14305){:target="_blank"} |[Discord](https://discord.gg/PAjDub29){:target="_blank"} |FUN Community series |
 |[WE ARE LEFT RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=14304){:target="_blank"} | |O'REILLY FIXED SERIES |
 |[NJMP World Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14306){:target="_blank"} | |Race TCR and GT cars around the world\! |
-|[802 Elite Nextgen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14311){:target="_blank"} | |NextGen No IR Cap, No Pro Licens |
+|[802 Elite NextGen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14311){:target="_blank"} | |NextGen No IR Cap, No Pro Licens |
 |[ECRL \- Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=14309){:target="_blank"} |[Discord](https://discord.gg/SHrxSNwM3){:target="_blank"} |305 Sprint Car |
 |[Freedom Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14316){:target="_blank"} | | |
 |[Friday Night Under The Lights\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14315){:target="_blank"} | |Fun First\! Clean Fun Racing\! |
@@ -81,4 +76,6 @@
 |[Mosport Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=14349){:target="_blank"} | |Weekly Sprints |
 |[pitoyupollas](https://members.iracing.com/membersite/member/LeagueView.do?league=14347){:target="_blank"} | | |
 |[Battle of the Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14350){:target="_blank"} | | |
+|[Oval 4 Rookies](https://members.iracing.com/membersite/member/LeagueView.do?league=14352){:target="_blank"} | |New 2 IRACING |
+|[X7R RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=14351){:target="_blank"} |[Discord](https://discord.gg/2cpxFbcHj7){:target="_blank"} |Bienvenido a la liga oficial de X7R Simracing 🏁   Este es el punto de encuentro para todos los pilotos que buscan competir, mejorar y formar parte de una comunidad apasionada por el simracing\. En X7R organizamos eventos pensados para todos los niveles, desde carreras casuales hasta competencias más exigentes, siempre con el objetivo de ofrecer experiencias limpias, competitivas y bien estructuradas\.   Aquí vas a encontrar información sobre nuestros campeonatos, eventos especiales y todo lo necesario para unirte a la pista con nosotros\. Más allá de correr, buscamos construir una comunidad donde el respeto, el aprendizaje y la constancia sean parte del ADN de cada piloto\.   Si querés estar al tanto de todo, coordinar carreras y conectar con otros miembros, unite a nuestro Discord:  👉 https://discord\.gg/2cpxFbcHj7   Nos vemos en pista\. Keep pushin’\. 🚀 |
 
