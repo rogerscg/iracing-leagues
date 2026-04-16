@@ -5,6 +5,14 @@
 
 # NASCAR
 
+### ARCA
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------|---------|-----|-----------------------|-------------------------|-------------------------|--------------------------|
+|[Rolling Thunder Gaming](https://members.iracing.com/membersite/member/LeagueView.do?league=14290){:target="_blank"} |Test ARCA | |Talladega Superspeedway |Tue, April 21 07:00PM EDT |Wed, April 22 12:00AM BST |Wed, April 22 09:00AM AEST |
+
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
@@ -34,22 +42,22 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|-------------------------|-------------------------|--------------------------|
+|[WSL Pro\-Am Development Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} |WSL Pro\-Am | |Chicagoland Speedway |Sun, April 19 08:30PM EDT |Mon, April 20 01:30AM BST |Mon, April 20 10:30AM AEST |
 |[LeadFoot Trucks Powered By AMP Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14112){:target="_blank"} |SEASON 1 | |Daytona International Speedway |Wed, April 22 07:30PM EDT |Thu, April 23 12:30AM BST |Thu, April 23 09:30AM AEST |
-|[OCS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8538){:target="_blank"} |OCS SEASON 1 TRUCKS 2026 | |Daytona International Speedway |Wed, April 15 08:00PM EDT |Thu, April 16 01:00AM BST |Thu, April 16 10:00AM AEST |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S2 PEMAP TRUCK by SGA |Both |Kansas Speedway |Wed, April 15 06:00PM EDT |Wed, April 15 11:00PM BST |Thu, April 16 08:00AM AEST |
 |[Victory Lane eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=2464){:target="_blank"} |VLe Truck Series 2026 | |Daytona International Speedway |Thu, April 16 07:00PM EDT |Fri, April 17 12:00AM BST |Fri, April 17 09:00AM AEST |
 |[Wednesday Night Dash on StadiumScene\.TV](https://members.iracing.com/membersite/member/LeagueView.do?league=8100){:target="_blank"} |2026 Truck Series |Fixed |EchoPark Speedway (Atlanta) |Wed, April 22 09:30PM EDT |Thu, April 23 02:30AM BST |Thu, April 23 11:30AM AEST |
 |[OTSS Select Series: Presented by EmpowerED Research Institute](https://members.iracing.com/membersite/member/LeagueView.do?league=9095){:target="_blank"} |2026 S2 |Fixed |Daytona International Speedway |Tue, April 21 08:30PM EDT |Wed, April 22 01:30AM BST |Wed, April 22 10:30AM AEST |
 |[Road N' Plate Palm Rat Golf Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} |Season 9 |Fixed |Silverstone Circuit |Thu, April 16 08:00PM EDT |Fri, April 17 01:00AM BST |Fri, April 17 10:00AM AEST |
+|[Mid South Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11070){:target="_blank"} |Spring Trucks 26 |Fixed |Daytona International Speedway |Thu, April 16 09:00PM EDT |Fri, April 17 02:00AM BST |Fri, April 17 11:00AM AEST |
 
 ### Silverado
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|---------------|-----|----------------------|-------------------------|-------------------------|--------------------------|
-|[Grand National Mafia](https://members.iracing.com/membersite/member/LeagueView.do?league=9362){:target="_blank"} |2008 Free Truck | |Bristol Motor Speedway |Wed, April 15 08:00PM EDT |Thu, April 16 01:00AM BST |Thu, April 16 10:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|---------------|-----|--------------------|-------------------------|-------------------------|--------------------------|
+|[Grand National Mafia](https://members.iracing.com/membersite/member/LeagueView.do?league=9362){:target="_blank"} |2008 Free Truck | |Texas Motor Speedway |Wed, April 22 08:00PM EDT |Thu, April 23 01:00AM BST |Thu, April 23 10:00AM AEST |
 
 # Oval
 
@@ -58,8 +66,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Wild Wednesday on Asphalt \- Season 4 |Fixed |Martinsville Speedway |Wed, April 15 08:00PM EDT |Thu, April 16 01:00AM BST |Thu, April 16 10:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----|--------------------------|-------------------------|-------------------------|--------------------------|
+|[American Automobile Racing Corporation](https://members.iracing.com/membersite/member/LeagueView.do?league=13814){:target="_blank"} |Late Model Series |Fixed |USA International Speedway |Sun, April 19 08:00PM EDT |Mon, April 20 01:00AM BST |Mon, April 20 10:00AM AEST |
+
+### Street Stocks
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------|-------------------------|-------------------------|--------------------------|
+|[Slingshot Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11959){:target="_blank"} |SlingShot Streeter Season 1 | |Las Vegas Motor Speedway |Sun, April 19 08:00PM EDT |Mon, April 20 01:00AM BST |Mon, April 20 10:00AM AEST |
 
 # Open-wheel
 
@@ -78,14 +94,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|---------------|-----|---------------------------|-------------------------|-------------------------|--------------------------|
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART IndyCar S5 |Fixed |Indianapolis Motor Speedway |Thu, April 16 07:00PM EDT |Fri, April 17 12:00AM BST |Fri, April 17 09:00AM AEST |
-
-### FIA F4
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|----------------------|-----|---------------|-------------------------|-------------------------|--------------------------|
-|[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |FIA Formula 4 Season 1 | |Tsukuba Circuit |Wed, April 15 05:30AM EDT |Wed, April 15 10:30AM BST |Wed, April 15 07:30PM AEST |
 
 ### Formula Vee
 
@@ -119,17 +127,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|----------------------------|-------------------------|-------------------------|--------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
+|[PCA \- 2026 Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |2026 PCA ZGC Championship | |Barber Motorsports Park |Fri, April 17 08:45PM EDT |Sat, April 18 01:45AM BST |Sat, April 18 10:45AM AEST |
+|[Academy Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4297){:target="_blank"} |Academy Porsche Cup Championship |Both |Sebring International Raceway |Thu, April 23 07:00PM EDT |Fri, April 24 12:00AM BST |Fri, April 24 09:00AM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026B Porsche Open Cup |Both |Autódromo Hermanos Rodríguez |Thu, April 16 05:25AM EDT |Thu, April 16 10:25AM BST |Thu, April 16 07:25PM AEST |
 |[GSRC\.inc Porsche Elite Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2026B Porsche Elite Cup | |Autódromo Hermanos Rodríguez |Thu, April 16 05:25AM EDT |Thu, April 16 10:25AM BST |Thu, April 16 07:25PM AEST |
-
-### Toyota GR86
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026B Supercar Supports \- Toyota GR86 |Both |Chicago Street Course |Wed, April 15 04:07AM EDT |Wed, April 15 09:07AM BST |Wed, April 15 06:07PM AEST |
 
 # Road
 
@@ -138,9 +140,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----|---------------------|-------------------------|-------------------------|--------------------------|
+|----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----|-----------------|-------------------------|-------------------------|--------------------------|
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation \- Supercars Championship \(2026\) |Both |Oran Park Raceway |Mon, April 20 06:00AM EDT |Mon, April 20 11:00AM BST |Mon, April 20 08:00PM AEST |
-|[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026B V8SC Series \- Trophi\.AI | |Chicago Street Course |Wed, April 15 05:10AM EDT |Wed, April 15 10:10AM BST |Wed, April 15 07:10PM AEST |
 
 # Multi-class/Unclassified
 
@@ -154,6 +155,7 @@
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |GT3 Sprint Championship S18 |Both |Autodromo Internazionale del Mugello |Sun, April 19 07:30PM EDT |Mon, April 20 12:30AM BST |Mon, April 20 09:30AM AEST |
 |[Gladiator Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13443){:target="_blank"} |Season 3 GT3 |Fixed |Sebring International Raceway |Sun, April 19 04:00PM EDT |Sun, April 19 09:00PM BST |Mon, April 20 06:00AM AEST |
 |[Full Throttle Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=13150){:target="_blank"} |Ultimate GT Championship S2 |Both |Autodromo Nazionale Monza |Wed, April 22 08:15PM EDT |Thu, April 23 01:15AM BST |Thu, April 23 10:15AM AEST |
+|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GT3 Series Season 4 | |Circuit de Spa-Francorchamps |Thu, April 23 08:00PM EDT |Fri, April 24 01:00AM BST |Fri, April 24 10:00AM AEST |
 |[Velocity Motorsports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11219){:target="_blank"} |GT3 Championship \- Season IV |Open |Autodromo Internazionale del Mugello |Sun, April 19 01:00PM EDT |Sun, April 19 06:00PM BST |Mon, April 20 03:00AM AEST |
 |[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |GT3 Championship Season 4 | |Shell V-Power Motorsport Park at The Bend |Sun, April 19 05:30AM EDT |Sun, April 19 10:30AM BST |Sun, April 19 07:30PM AEST |
 
@@ -163,20 +165,12 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
-|[2026 European SportsCar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11154){:target="_blank"} |2026 European SportsCar Championship |Open |Circuit de Barcelona Catalunya |Sun, April 19 08:00AM EDT |Sun, April 19 01:00PM BST |Sun, April 19 10:00PM AEST |
+|[Automobile Club Virtuel](https://members.iracing.com/membersite/member/LeagueView.do?league=11154){:target="_blank"} |2026 European SportsCar Championship |Open |Circuit de Barcelona Catalunya |Sun, April 19 08:00AM EDT |Sun, April 19 01:00PM BST |Sun, April 19 10:00PM AEST |
 |[San Diego iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13096){:target="_blank"} |SDiRL Season 4 \- GT3 | |Suzuka International Racing Course |Fri, April 17 11:30PM EDT |Sat, April 18 04:30AM BST |Sat, April 18 01:30PM AEST |
 |[TORA \(The Online Racing Association\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5254){:target="_blank"} |TORA European Sportscar Championship |Open |Autodromo Internazionale Enzo e Dino Ferrari |Sun, April 19 12:20PM EDT |Sun, April 19 05:20PM BST |Mon, April 20 02:20AM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026B Gentlemens Endurance Championship \- Disruptive Labs |Both |Autodromo Internazionale Enzo e Dino Ferrari |Fri, April 17 05:42AM EDT |Fri, April 17 10:42AM BST |Fri, April 17 07:42PM AEST |
-|[GTChampions Road](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |IGTS |Both |Circuit des 24 Heures du Mans |Thu, April 16 08:10PM EDT |Fri, April 17 01:10AM BST |Fri, April 17 10:10AM AEST |
+|[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |GT3 Series | |Charlotte Motor Speedway  |Fri, April 17 12:25PM EDT |Fri, April 17 05:25PM BST |Sat, April 18 02:25AM AEST |
 |[TrakFiends X Mid\-Pack Mafia](https://members.iracing.com/membersite/member/LeagueView.do?league=14276){:target="_blank"} |Season 1 | |Long Beach Street Circuit |Wed, April 22 08:00PM EDT |Thu, April 23 01:00AM BST |Thu, April 23 10:00AM AEST |
 |[Funky Bunch Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=14288){:target="_blank"} |Funky Le Mans Series | |Circuit de Barcelona Catalunya |Sat, April 18 01:00PM EDT |Sat, April 18 06:00PM BST |Sun, April 19 03:00AM AEST |
 |[TFH Hire Legend Cars E\-Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11509){:target="_blank"} |TFH Hire Legend Car E\-Series Season 4 |Fixed |Oulton Park Circuit |Fri, April 17 05:59AM EDT |Fri, April 17 10:59AM BST |Fri, April 17 07:59PM AEST |
-
-### Touring Car
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|------------|-----|-----------------------------|-------------------------|-------------------------|--------------------------|
-|[ARL Touring Car](https://members.iracing.com/membersite/member/LeagueView.do?league=3628){:target="_blank"} |Britain 2026 | |Donington Park Racing Circuit |Wed, April 15 01:00PM EDT |Wed, April 15 06:00PM BST |Thu, April 16 03:00AM AEST |
 
