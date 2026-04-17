@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Apex Sim Cup: Del simulador a la pista](https://members.iracing.com/membersite/member/LeagueView.do?league=14280){:target="_blank"} | |De aquí saldrán los 10 mejores que se enfrentarán contra los demás finalistas, pero solo 1 se llevará el premio mayor: correr la Endurance 24 en diciembre\. |
-|[Rookie Cup 2026 by RC Carshop eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=14279){:target="_blank"} | |RC Carshop eSports Rookie Cup für Einsteiger und Beginner in iRacing\!  \- bis 2K IR  \- Live Reko  \- Livestream \+ Kommentar  \- Practice \+ 10min Lone Quali \+ 2x 20min Rennen |
-|[Slightly Dangerous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14278){:target="_blank"} | | |
-|[The Old Glory 500](https://members.iracing.com/membersite/member/LeagueView.do?league=14281){:target="_blank"} | |The Old Glory 500 presented by Sim Racing Media |
 |[AXRL iRacing Supercars](https://members.iracing.com/membersite/member/LeagueView.do?league=14282){:target="_blank"} |[Discord](https://discord.gg/j43ngSma){:target="_blank"} |AXRL iRacing Supercars \- Tuesday nights 7pm AEDT |
 |[Funky Bunch Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=14288){:target="_blank"} | |FunkyTbone's special events |
 |[Global Racing Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14286){:target="_blank"} |[Discord](https://discord.gg/ZzMtXqHXwK){:target="_blank"} |League Discord: https://discord\.gg/ZzMtXqHXwK |
@@ -74,4 +70,11 @@
 |[Flip or Win](https://members.iracing.com/membersite/member/LeagueView.do?league=14355){:target="_blank"} | | |
 |[JAC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14354){:target="_blank"} | |Currently for JAC Racing special events |
 |[Tasman Racing League: Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14353){:target="_blank"} |[Discord](https://discord.gg/Nnefc8aDGs){:target="_blank"} | |
+|[Echoes of 1987](https://members.iracing.com/membersite/member/LeagueView.do?league=14362){:target="_blank"} | |Ask your dad\. |
+|[PESC \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=14359){:target="_blank"} | | |
+|[PESC \- Asia\-Pacific](https://members.iracing.com/membersite/member/LeagueView.do?league=14360){:target="_blank"} | | |
+|[PESC \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=14358){:target="_blank"} | | |
+|[PESC \- Middle East & Africa](https://members.iracing.com/membersite/member/LeagueView.do?league=14361){:target="_blank"} | | |
+|[Probably a waste of $10](https://members.iracing.com/membersite/member/LeagueView.do?league=14357){:target="_blank"} | | |
+|[Velocity League GG](https://members.iracing.com/membersite/member/LeagueView.do?league=14356){:target="_blank"} | | |
 
