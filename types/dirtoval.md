@@ -33,8 +33,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
-|[Rollin Thunder Racing \- Dirt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14192){:target="_blank"} |Rollin Thunder Racing Dirt |17 |1150 |Fixed |USA International Speedway |Sat, April 18 04:00PM EDT |Sat, April 18 09:00PM BST |Sun, April 19 06:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|----------------------|-------------------------|-------------------------|--------------------------|
+|[Rollin Thunder Racing \- Dirt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14192){:target="_blank"} |Rollin Thunder Racing Dirt |21 |1163 |Fixed |Eldora Speedway |Sat, April 25 04:00PM EDT |Sat, April 25 09:00PM BST |Sun, April 26 06:00AM AEST |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.43 DTP Striker Limited Late Models by No Mans Land |14 |1928 |Fixed |Bristol Motor Speedway |Thu, April 23 09:15PM EDT |Fri, April 24 02:15AM BST |Fri, April 24 11:15AM AEST |
 
 ### Dirt Late Model - Pro
@@ -91,9 +91,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-----------------|-------------------------|-------------------------|--------------------------|
+|-------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|------------------------|-------------------------|-------------------------|--------------------------|
 |[Majors Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=12020){:target="_blank"} |26R4 \- Dirt Derby Limaland |65 |1682 | | | | | |
-|[The Gang 34 Ford Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=13648){:target="_blank"} |34 Fords |13 |1232 | |Knoxville Raceway |Sat, April 18 07:00PM EDT |Sun, April 19 12:00AM BST |Sun, April 19 09:00AM AEST |
+|[The Gang 34 Ford Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=13648){:target="_blank"} |34 Fords |13 |1235 | |Lanier National Speedway |Sat, April 25 07:00PM EDT |Sun, April 26 12:00AM BST |Sun, April 26 09:00AM AEST |
 
 ### Dirt Midget
 
@@ -200,7 +200,7 @@
 |[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Street Stocks Super Winter Series 2026 |41 |2939 | | | | | |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Winter 25\-26 Street Stocks |35 |2418 |Fixed | | | | |
 |[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |NWRA Dirt Street Stocks Season 10 |23 |3890 |Both | | | | |
-|[VapourTrail Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |Sunday Street Stock Series |18 |2385 | | | | | |
+|[VapourTrail Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |Sunday Street Stock Series |18 |2385 | |Fairbury Speedway |Sun, April 19 06:30AM EDT |Sun, April 19 11:30AM BST |Sun, April 19 08:30PM AEST |
 |[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |LCDDS4 \- Dirt Street Stock |16 |1585 |Fixed | | | | |
 |[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |SDS ST Street Stocks |13 |4064 |Both | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS DIRT STREET STOCKS SEASON 2 |12 |2687 | |Limaland Motorsports Park |Mon, April 20 11:00PM EDT |Tue, April 21 04:00AM BST |Tue, April 21 01:00PM AEST |
@@ -248,7 +248,6 @@
 |[TFG David vs\. Goliath Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13424){:target="_blank"} |The David vs\. Goliath Championship |25 |2002 | | | | | |
 |[Ozark Mountain Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13791){:target="_blank"} |Ozark Mountain Dirt Series |23 |1618 | | | | | |
 |[MO Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=4895){:target="_blank"} |2025\-2026 WINTER BLAST |22 |2187 | | | | | |
-|[Glenn Dirt Tour \[GDT\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13485){:target="_blank"} |GDT |20 |2501 | | | | | |
 |[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} |Dirt Tour |20 |1360 |Fixed |Limaland Motorsports Park |Tue, April 21 08:30PM EDT |Wed, April 22 01:30AM BST |Wed, April 22 10:30AM AEST |
 |[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} |NZMR Sprint Cars |19 |1659 | | | | | |
 |[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |LCDDS4 \- Dirt Late Model Pro |12 |1428 |Fixed | | | | |

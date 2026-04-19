@@ -61,7 +61,7 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|------------------------------|-------------------------|-------------------------|--------------------------|
 |[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |77 |None |Fixed | | | | |
 |[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |25/26 RCCWS |56 |2071 |Fixed | | | | |
-|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2026 |31 |3890 | | | | | |
+|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2026 |31 |3890 | |Brands Hatch Circuit |Sun, April 26 02:00PM EDT |Sun, April 26 07:00PM BST |Mon, April 27 04:00AM AEST |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2026 |20 |2374 | |Virginia International Raceway |Sun, April 19 07:30PM EDT |Mon, April 20 12:30AM BST |Mon, April 20 09:30AM AEST |
 |[Radical Academy Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13848){:target="_blank"} |Radical Academy Canada Season Two |14 |1260 | | | | | |
 
@@ -80,7 +80,7 @@
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |14 |1961 | | | | | |
 |[Rental Kart Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=12081){:target="_blank"} |Radical SR8 Lime Rock Park Championship \- WED 730 |14 |1584 |Both | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |SR8 |13 |1363 | | | | | |
-|[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |12 |1763 |Both |Adelaide Street Circuit |Sat, April 18 03:00PM EDT |Sat, April 18 08:00PM BST |Sun, April 19 05:00AM AEST |
+|[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |12 |1738 |Both |Snetterton Circuit |Sat, April 25 03:00PM EDT |Sat, April 25 08:00PM BST |Sun, April 26 05:00AM AEST |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |SCR Season \#4 |12 |1090 |Both |Lime Rock Park |Wed, April 22 06:00PM EDT |Wed, April 22 11:00PM BST |Thu, April 23 08:00AM AEST |
 |[Velocity International Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10675){:target="_blank"} |Midweek Sprint Series \| Season 5 |10 |1804 |Both | | | | |
 
