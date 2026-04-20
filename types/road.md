@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------|-----------------|-------|----|-----|-------------|--------|------|------|
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |BMW M2 Racing Cup |16 |2014 |Open | | | | |
+|---------------------------------------------------------------------------------------------------|-----------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |BMW M2 Racing Cup |16 |2014 |Open |Summit Point Raceway |Mon, April 27 12:00PM EDT |Mon, April 27 05:00PM BST |Tue, April 28 02:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -41,8 +41,8 @@
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday aus sprint season 27 |52 |1596 | | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing V8 Champions Challenge |48 |1451 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints season 27 |48 |1387 | | | | | |
-|[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |The UES OzOval Series 2026A |42 |2177 |Fixed |Darlington Raceway |Sun, April 19 04:45AM EDT |Sun, April 19 09:45AM BST |Sun, April 19 06:45PM AEST |
-|[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |V8 Supercars Gen\-3 Season 8 |38 |1688 |Both |Miami International Autodrome |Sun, April 19 03:59AM EDT |Sun, April 19 08:59AM BST |Sun, April 19 05:59PM AEST |
+|[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |V8 Supercars Gen\-3 Season 8 |44 |1678 |Both | | | | |
+|[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |The UES OzOval Series 2026A |43 |2178 |Fixed |Texas Motor Speedway |Sun, April 26 04:45AM EDT |Sun, April 26 09:45AM BST |Sun, April 26 06:45PM AEST |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 18 |33 |3586 |Open | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026B V8SC Series \- Trophi\.AI |31 |2559 | |Virginia International Raceway |Wed, April 22 05:25AM EDT |Wed, April 22 10:25AM BST |Wed, April 22 07:25PM AEST |
 |[Alliance Enduro simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12237){:target="_blank"} |ASR Enduro Season 2 |15 |None | | | | | |

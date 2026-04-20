@@ -31,8 +31,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|---------------------------|-------------------------|-------------------------|--------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|--------------------|-------------------------|-------------------------|--------------------------|
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |03 Friday Night Lites \(March 2026 Season\) |23 |3366 | | | | | |
-|[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |04\. Sunday Night Lites \(April 2026 Season\) |14 |3232 | |EchoPark Speedway (Atlanta) |Sun, April 19 08:45PM EDT |Mon, April 20 01:45AM BST |Mon, April 20 10:45AM AEST |
-|[LSR British Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13371){:target="_blank"} |Spring 26 \- Rallycross |11 |1930 |Open |Brands Hatch Circuit |Sun, April 19 03:05PM EDT |Sun, April 19 08:05PM BST |Mon, April 20 05:05AM AEST |
+|[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |04\. Sunday Night Lites \(April 2026 Season\) |20 |3439 | |Winton Motor Raceway |Sun, April 26 08:45PM EDT |Mon, April 27 01:45AM BST |Mon, April 27 10:45AM AEST |
+|[LSR British Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13371){:target="_blank"} |Spring 26 \- Rallycross |11 |1930 |Open | | | | |
 

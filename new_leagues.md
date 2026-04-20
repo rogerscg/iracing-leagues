@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Coastal Jammers Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14298){:target="_blank"} | |For the biggest beauties and Roze |
-|[Grassroots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14300){:target="_blank"} |[Discord](https://discord.gg/jd7mS6Q3aN){:target="_blank"} |Beginner oval racing, mainly arca car maybe street stocks but laid back good clean racing focused on a heathy community and good times no ones going pro here but youll feel like you did after the season ends\! growing together is our goal join today |
-|[Plainguy Sucks](https://members.iracing.com/membersite/member/LeagueView.do?league=14301){:target="_blank"} | |Mediocre Racing |
-|[RS Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14299){:target="_blank"} | | |
 |[Cutting Edge Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14308){:target="_blank"} | | |
 |[iRacers\.hu](https://members.iracing.com/membersite/member/LeagueView.do?league=14302){:target="_blank"} | | |
 |[Jobe's Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14307){:target="_blank"} |[Discord](https://discord.gg/FHS7W3Fe){:target="_blank"} |Jobe’s Motorsports is a competitive iRacing community built around two flagship series: GT3 and NextGen Cup\. We’re centered on clean racecraft, structured seasons, and a long‑term league ecosystem where every race matters\. Our format keeps the competition fair, consistent, and transparent—so drivers can focus on performance and progression\.   We run a true league economy powered by \*\*JM Credits\*\*, tying together driver profiles, contracts, team ownership, and season results\. To get started: read the rules, register in the Hub with your iRacing customer ID, sign up for a series, complete your contract, and join the league in iRacing\. From there, race clean, build your legacy, and climb the standings\. |
@@ -55,7 +51,7 @@
 |[Flip or Win](https://members.iracing.com/membersite/member/LeagueView.do?league=14355){:target="_blank"} | | |
 |[JAC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14354){:target="_blank"} | |Currently for JAC Racing special events |
 |[Tasman Racing League: Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14353){:target="_blank"} |[Discord](https://discord.gg/Nnefc8aDGs){:target="_blank"} | |
-|[Echoes of 1987](https://members.iracing.com/membersite/member/LeagueView.do?league=14362){:target="_blank"} | |Ask your dad\. |
+|[Crown Jewels 1987](https://members.iracing.com/membersite/member/LeagueView.do?league=14362){:target="_blank"} | |Ask your dad\. |
 |[PESC \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=14359){:target="_blank"} | | |
 |[PESC \- Asia\-Pacific](https://members.iracing.com/membersite/member/LeagueView.do?league=14360){:target="_blank"} | | |
 |[PESC \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=14358){:target="_blank"} | | |
@@ -68,4 +64,9 @@
 |[AINO IMAGE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14367){:target="_blank"} | |Continuous Push for Improvement |
 |[GSG Outlaws League](https://members.iracing.com/membersite/member/LeagueView.do?league=14369){:target="_blank"} |[Discord](https://discord.gg/REPQSdkGC){:target="_blank"} |GSG Racings Dirt League |
 |[Os Corta Relvas](https://members.iracing.com/membersite/member/LeagueView.do?league=14366){:target="_blank"} | |Se nao tem relva, a gente nao gosta |
+|[CleanLine Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14374){:target="_blank"} | | |
+|[COPA TOYOTA GR86](https://members.iracing.com/membersite/member/LeagueView.do?league=14372){:target="_blank"} | | |
+|[DSA Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14373){:target="_blank"} | |Superspeedway racing on Sunday nights at 8pm EST\. Series is part of the DSA Race Group\. |
+|[NOF Steel & Stone](https://members.iracing.com/membersite/member/LeagueView.do?league=14370){:target="_blank"} | |STEEL & STONE $100 TOURNAMENT\! Our new 4v4 lap\-based demo derby at Kokomo Speedway\. The Goal: Be the first "Runner" to hit 5 laps\. The Catch: No Track Limits, T\-bones, side\-swipes, and full\-contact are 100% legal and encouraged\. Unlimited fast repairs are ON\. Come help us create the carnage and see if you have what it takes\! |
+|[Team NIX Driver Development League](https://members.iracing.com/membersite/member/LeagueView.do?league=14371){:target="_blank"} | |A place for all Team NIX Development drivers to compete in a competitive setting and prove themselves\. |
 
