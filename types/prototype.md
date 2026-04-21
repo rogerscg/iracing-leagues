@@ -42,7 +42,7 @@
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |30 |2951 |Open |Brands Hatch Circuit |Thu, April 23 02:15PM EDT |Thu, April 23 07:15PM BST |Fri, April 24 04:15AM AEST |
 |[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |28 |1584 | | | | | |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |1994 |Open | | | | |
-|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |11 |1141 |Fixed |Virginia International Raceway |Mon, April 20 07:15PM EDT |Tue, April 21 12:15AM BST |Tue, April 21 09:15AM AEST |
+|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |11 |1141 |Fixed |Virginia International Raceway |Thu, April 23 07:15PM EDT |Fri, April 24 12:15AM BST |Fri, April 24 09:15AM AEST |
 
 ### Ligier JS P320
 
