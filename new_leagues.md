@@ -2,13 +2,10 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[From The Back Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14318){:target="_blank"} | |We Take Racing & Do It From The Back\!\!\! |
-|[STEC \- Scandinavian Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14317){:target="_blank"} | |STEC \- Scandinavian Endurance Championship\. 2\-4\-6 hours\. |
 |[GT4 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14327){:target="_blank"} | | |
 |[National Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14328){:target="_blank"} |[Discord](https://discord.gg/dPWmV7fx){:target="_blank"} |This is the National Racing League\! We will be running the O'Reilly Series Fixed \(B car\) for this season\. Drivers must be D class or better to join\. A $10 Entry fee is required per driver which will go towards the purse for the season\! Races will be Tuesdays @ 9:00pm EST with the lobby opening around 8:30 for practice\. Race lengths will be 50% with some races having more laps depending on the track\. Each race will be broadcasted\! We currently have 10 drivers who are signing up and are looking to get as many as we can\! Start date looking to be April 21st |
 |[U\.S\.O\.R\.A Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=14329){:target="_blank"} | | |
 |[Verge Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14326){:target="_blank"} | |VRL is a community\-driven sim racing league focused on clean, respectful and fair racing for drivers of all levels\. |
-|[ZED RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=14320){:target="_blank"} | | |
 |[Zh Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14321){:target="_blank"} | | |
 |[Atlantic Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14335){:target="_blank"} |[Discord](https://discord.com/invite/7rqwjRKNhr){:target="_blank"} |Atlantic Canada's Home for Sim Racing |
 |[gene racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14334){:target="_blank"} | |Welcome to the party |
@@ -27,7 +24,6 @@
 |[FIA Fist In Azz](https://members.iracing.com/membersite/member/LeagueView.do?league=14343){:target="_blank"} | | |
 |[Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14345){:target="_blank"} | |Test League |
 |[Trinity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14344){:target="_blank"} |[Discord](https://discord.gg/rswRfRPa7C){:target="_blank"} |Brand New Fixed GT4 League \- Check out the discord and join for free now\! |
-|[Zero Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14319){:target="_blank"} | |Next Gen |
 |[Mosport Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=14349){:target="_blank"} | |Weekly Sprints |
 |[pitoyupollas](https://members.iracing.com/membersite/member/LeagueView.do?league=14347){:target="_blank"} | | |
 |[Battle of the Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14350){:target="_blank"} | | |
@@ -60,4 +56,7 @@
 |[Precision Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=14378){:target="_blank"} |[Discord](https://discord.gg/2GzbVBxdhS){:target="_blank"} |Multi class IMSA style endurance series\. bi\-weekly on Friday nights\. https://discord\.gg/2GzbVBxdhS |
 |[Pryme Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14377){:target="_blank"} | |League for clean racing and friendly competition |
 |[GODLEAGUE SRP](https://members.iracing.com/membersite/member/LeagueView.do?league=14380){:target="_blank"} | |GOD LEAGUE es el campeonato de simracing en español más ambicioso de 2026, caracterizado por un formato híbrido entre competición de alto nivel y entretenimiento con producción broadcast profesional en cada carrera\. Compuesto por 10 equipos dirigidos por los principales streamers y creadores de contenido hispanohablantes, se emite gratis en Twitch y Youtube destacando por sus 9 Grandes Premios épicos, 3 divisiones de competición y una comunidad hispanohablante apasionada por el simracing\. Greatness on Drive\. |
+|[CAF Esports Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14383){:target="_blank"} | | |
+|[mayhem racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=14382){:target="_blank"} | | |
+|[Osama Been Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14381){:target="_blank"} |[Discord](https://discord.gg/VtmQCqw68){:target="_blank"} | |
 
