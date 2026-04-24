@@ -36,13 +36,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|--------------------------------------------|-------------------------|-------------------------|--------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |58 |4437 | |Autodromo Internazionale Enzo e Dino Ferrari |Thu, April 23 01:00PM EDT |Thu, April 23 06:00PM BST |Fri, April 24 03:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|--------------------------|
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |58 |4408 | |WeatherTech Raceway at Laguna Seca |Wed, April 29 01:00PM EDT |Wed, April 29 06:00PM BST |Thu, April 30 03:00AM AEST |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 1 |38 |2822 |Open | | | | |
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |30 |2951 |Open |Brands Hatch Circuit |Thu, April 23 02:15PM EDT |Thu, April 23 07:15PM BST |Fri, April 24 04:15AM AEST |
-|[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |28 |1584 | | | | | |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |31 |2925 |Open |Hungaroring |Thu, April 30 02:15PM EDT |Thu, April 30 07:15PM BST |Fri, May 01 04:15AM AEST |
+|[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |28 |1584 | |Mount Panorama Circuit |Fri, May 01 03:30AM EDT |Fri, May 01 08:30AM BST |Fri, May 01 05:30PM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |1994 |Open | | | | |
-|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |11 |1141 |Fixed |Virginia International Raceway |Thu, April 23 07:15PM EDT |Fri, April 24 12:15AM BST |Fri, April 24 09:15AM AEST |
+|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1156 |Fixed |Lime Rock Park |Mon, April 27 07:15PM EDT |Tue, April 28 12:15AM BST |Tue, April 28 09:15AM AEST |
 
 ### Ligier JS P320
 
