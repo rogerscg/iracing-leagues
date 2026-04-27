@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[ATLCRS Secondary series](https://members.iracing.com/membersite/member/LeagueView.do?league=14342){:target="_blank"} | |A series for the All Terrain Legend Car Racing Series secondary series\. We will have an asphalt oval, dirt oval, and formula car series |
-|[Elite Iracing GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14346){:target="_blank"} | | |
-|[FIA Fist In Azz](https://members.iracing.com/membersite/member/LeagueView.do?league=14343){:target="_blank"} | | |
-|[Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14345){:target="_blank"} | |Test League |
-|[Trinity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14344){:target="_blank"} |[Discord](https://discord.gg/rswRfRPa7C){:target="_blank"} |Brand New Fixed GT4 League \- Check out the discord and join for free now\! |
 |[Mosport Legends](https://members.iracing.com/membersite/member/LeagueView.do?league=14349){:target="_blank"} | |Weekly Sprints |
 |[pitoyupollas](https://members.iracing.com/membersite/member/LeagueView.do?league=14347){:target="_blank"} | | |
 |[Battle of the Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14350){:target="_blank"} | | |
@@ -47,7 +42,7 @@
 |[S\.M\.A\.S\.H \- CHALLENGER TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=14385){:target="_blank"} | |The S\.M\.A\.S\.H Challenger Series kicks off Friday night before the main event, giving new drivers a place to enter the league and prove themselves\. ​ With the same tracks, same race dates, and fixed setups as the Main East Coast Truck Series, the Challenger Series is built to prepare drivers for the next level while keeping the focus on driver skill, racecraft, and consistency\. ​ This is a shortened 6\-race season with shorter race lengths, designed as a proving ground for incoming drivers looking to learn the league standard, gain experience under race conditions, and earn their shot at moving up into the Main East Coast Truck Series\. ​ Expect competitive racing, valuable seat time, and a strong opportunity for new drivers to show they belong in S\.M\.A\.S\.H\. |
 |[GT Endurance Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14386){:target="_blank"} | | |
 |[2Slo Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14393){:target="_blank"} | | |
-|[DSA Talladega Event Race](https://members.iracing.com/membersite/member/LeagueView.do?league=14392){:target="_blank"} | |DSA Race Group Event Race |
+|[DSA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14392){:target="_blank"} | |DSA Race Group Event Race |
 |[DTM iRacingCR](https://members.iracing.com/membersite/member/LeagueView.do?league=14391){:target="_blank"} | |🏁 DTM Costa Rica – iRacing |
 |[Game Street](https://members.iracing.com/membersite/member/LeagueView.do?league=14394){:target="_blank"} | | |
 |[Half Right Face Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14396){:target="_blank"} | | |
@@ -55,7 +50,9 @@
 |[Liga Multitap](https://members.iracing.com/membersite/member/LeagueView.do?league=14395){:target="_blank"} | | |
 |[Lillas Sim Coaching](https://members.iracing.com/membersite/member/LeagueView.do?league=14405){:target="_blank"} |[Discord](https://discord.gg/TaJwmmavj){:target="_blank"} |Hosted sessions for Lillas Sim Coaching |
 |[Norda Race](https://members.iracing.com/membersite/member/LeagueView.do?league=14388){:target="_blank"} | | |
-|[Player Avento Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14389){:target="_blank"} |[Discord](https://discord.gg/SZnJHXCPMw){:target="_blank"} | |
+|[Avento Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14389){:target="_blank"} |[Discord](https://discord.gg/SZnJHXCPMw){:target="_blank"} | |
 |[West Coast Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14390){:target="_blank"} |[Discord](https://discord.gg/kXnFq5APvs){:target="_blank"} |From Beginner to Pro, we want you all |
 |[ZiENIT racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14368){:target="_blank"} | | |
+|[Big Red Custom Diecast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14407){:target="_blank"} | |Big Red Custom Diecast |
+|[Kings Of Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=14406){:target="_blank"} | |friendly and fast |
 
