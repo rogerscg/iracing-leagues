@@ -42,7 +42,7 @@
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |31 |2925 |Open |Hungaroring |Thu, April 30 02:15PM EDT |Thu, April 30 07:15PM BST |Fri, May 01 04:15AM AEST |
 |[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |28 |1584 | |Mount Panorama Circuit |Fri, May 01 03:30AM EDT |Fri, May 01 08:30AM BST |Fri, May 01 05:30PM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |1994 |Open | | | | |
-|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1156 |Fixed |Lime Rock Park |Mon, April 27 07:15PM EDT |Tue, April 28 12:15AM BST |Tue, April 28 09:15AM AEST |
+|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1156 |Fixed |Lime Rock Park |Thu, April 30 07:15PM EDT |Fri, May 01 12:15AM BST |Fri, May 01 09:15AM AEST |
 
 ### Ligier JS P320
 
@@ -73,7 +73,7 @@
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|--------------------------|-------------------------|-------------------------|--------------------------|
 |[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |35 |2282 | |Road America |Sun, May 03 12:30PM EDT |Sun, May 03 05:30PM BST |Mon, May 04 02:30AM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |34 |2448 |Both | | | | |
-|[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Llama League Season 2 \- Radical SR8 |21 |2745 | |Oulton Park Circuit |Wed, April 29 03:00PM EDT |Wed, April 29 08:00PM BST |Thu, April 30 05:00AM AEST |
+|[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 2 \- SR8 |21 |2745 | |Oulton Park Circuit |Wed, April 29 03:00PM EDT |Wed, April 29 08:00PM BST |Thu, April 30 05:00AM AEST |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season7 |20 |2828 | |Silverstone Circuit |Mon, May 04 02:50PM EDT |Mon, May 04 07:50PM BST |Tue, May 05 04:50AM AEST |
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |17 |1739 | | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 4\.1 |15 |2258 |Fixed | | | | |
