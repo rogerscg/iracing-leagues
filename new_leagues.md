@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Flip or Win](https://members.iracing.com/membersite/member/LeagueView.do?league=14355){:target="_blank"} | | |
-|[JAC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14354){:target="_blank"} | |Currently for JAC Racing special events |
-|[Tasman Racing League: Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14353){:target="_blank"} |[Discord](https://discord.gg/Nnefc8aDGs){:target="_blank"} | |
 |[Crown Jewels 1987](https://members.iracing.com/membersite/member/LeagueView.do?league=14362){:target="_blank"} | |Ask your dad\. |
 |[PESC \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=14359){:target="_blank"} | | |
 |[PESC \- Asia\-Pacific](https://members.iracing.com/membersite/member/LeagueView.do?league=14360){:target="_blank"} | | |
@@ -68,4 +65,5 @@
 |[Arca Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14422){:target="_blank"} | |Arca Stock Car Road Series |
 |[BSR Practice and Coaching](https://members.iracing.com/membersite/member/LeagueView.do?league=14430){:target="_blank"} | |BSR Practices and Coaching session will be hosted under this league\. |
 |[DESAFÍO 7 CUMBRES](https://members.iracing.com/membersite/member/LeagueView.do?league=14431){:target="_blank"} | |Categoría TCR |
+|[JWB British Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14433){:target="_blank"} | | |
 
