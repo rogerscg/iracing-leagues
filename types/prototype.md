@@ -36,13 +36,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------------------|-------------------------|-------------------------|------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |58 |4412 | |WeatherTech Raceway at Laguna Seca |Thu, April 30 01:00PM EDT |Thu, April 30 06:00PM BST |Fri, May 01 03:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |58 |4425 | | | | | |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 1 |38 |2822 |Open | | | | |
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |31 |2925 |Open |Hungaroring |Thu, April 30 02:15PM EDT |Thu, April 30 07:15PM BST |Fri, May 01 04:15AM AEST |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |31 |2948 |Open |WeatherTech Raceway at Laguna Seca |Thu, May 07 02:15PM EDT |Thu, May 07 07:15PM BST |Fri, May 08 04:15AM AEST |
 |[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |28 |1584 | |Mount Panorama Circuit |Fri, May 01 03:30AM EDT |Fri, May 01 08:30AM BST |Fri, May 01 05:30PM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |1994 |Open | | | | |
-|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1156 |Fixed |Lime Rock Park |Thu, April 30 07:15PM EDT |Fri, May 01 12:15AM BST |Fri, May 01 09:15AM AEST |
+|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1151 |Fixed |Road Atlanta |Mon, May 04 07:15PM EDT |Tue, May 05 12:15AM BST |Tue, May 05 09:15AM AEST |
 
 ### Ligier JS P320
 

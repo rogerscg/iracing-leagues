@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Crown Jewels 1987](https://members.iracing.com/membersite/member/LeagueView.do?league=14362){:target="_blank"} | |Ask your dad\. |
-|[PESC \- Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=14359){:target="_blank"} | | |
-|[PESC \- Asia\-Pacific](https://members.iracing.com/membersite/member/LeagueView.do?league=14360){:target="_blank"} | | |
-|[PESC \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=14358){:target="_blank"} | | |
-|[PESC \- Middle East & Africa](https://members.iracing.com/membersite/member/LeagueView.do?league=14361){:target="_blank"} | | |
-|[Probably Wasted $10](https://members.iracing.com/membersite/member/LeagueView.do?league=14357){:target="_blank"} | | |
-|[Velocity League GG](https://members.iracing.com/membersite/member/LeagueView.do?league=14356){:target="_blank"} | | |
 |[Appalachian Armada](https://members.iracing.com/membersite/member/LeagueView.do?league=14365){:target="_blank"} | |A Local/Regional League Organization that is primary racing to dirt tracks across the state of Pennsylvania\. |
 |[Aussie Touring Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=14363){:target="_blank"} |[Discord](https://discord.gg/a6sxv7Fhw6){:target="_blank"} | |
 |[eNASCAR College iRacing Series – Exhibition Events](https://members.iracing.com/membersite/member/LeagueView.do?league=14364){:target="_blank"} | | |
@@ -66,4 +59,7 @@
 |[BSR Practice and Coaching](https://members.iracing.com/membersite/member/LeagueView.do?league=14430){:target="_blank"} | |BSR Practices and Coaching session will be hosted under this league\. |
 |[DESAFÍO 7 CUMBRES](https://members.iracing.com/membersite/member/LeagueView.do?league=14431){:target="_blank"} | |Categoría TCR |
 |[JWB British Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14433){:target="_blank"} | | |
+|[HVRL Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14436){:target="_blank"} | |GT3 pro/am road series |
+|[OVERTIME RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=14438){:target="_blank"} | |NASCAR RACING |
+|[Wednesday Night Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=14437){:target="_blank"} |[Discord](https://discord.gg/teyqrQQp){:target="_blank"} | |
 
