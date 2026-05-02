@@ -30,9 +30,8 @@
 |[LTP Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11626){:target="_blank"} |LTP SUPER SERIES S2 |40 |3812 | | | | | |
 |[Trans\-Am International Tribute Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5091){:target="_blank"} |TAInTS Season 2 |37 |1906 |Fixed |Circuito de Navarra |Sun, May 03 10:00AM EDT |Sun, May 03 03:00PM BST |Mon, May 04 12:00AM AEST |
 |[iCar Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11103){:target="_blank"} |iCar Late Model Tour |35 |3021 |Fixed | | | | |
-|[TopSpeedGraphics Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13817){:target="_blank"} |SEASON 1 |32 |2779 | |Five Flags Speedway |Fri, May 01 07:30PM EDT |Sat, May 02 12:30AM BST |Sat, May 02 09:30AM AEST |
+|[TopSpeedGraphics Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13817){:target="_blank"} |SEASON 1 |32 |2830 | | | | | |
 |[WCSTS world class short track series](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |WCSTS SEASON 2\.0 |29 |1784 |Both | | | | |
-|[LDMS IRACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=13321){:target="_blank"} |LDMS LATE MODELS |25 |2297 | | | | | |
 |[PRA Short Track League](https://members.iracing.com/membersite/member/LeagueView.do?league=12999){:target="_blank"} |Crown Jewel Late Model Series |23 |1786 |Both | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |FTR Roller Derby |23 |1618 |Fixed | | | | |
 |[RFRL Elite Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=14203){:target="_blank"} |RFRL Elite Late Model Season \#1 |21 |1789 |Fixed |Langley Speedway |Sat, May 02 07:00PM EDT |Sun, May 03 12:00AM BST |Sun, May 03 09:00AM AEST |
@@ -58,8 +57,6 @@
 |[MRL \- Hudson Autoworks Late Model Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12349){:target="_blank"} |2026 Hudson Autoworks Late Model Stock Tour  |39 |2090 | |Concord Speedway |Mon, May 04 05:30PM EDT |Mon, May 04 10:30PM BST |Tue, May 05 07:30AM AEST |
 |[MRL \| Misfit Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11109){:target="_blank"} |Season 3 |38 |4196 |Open | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |FTR Late Model |37 |1548 |Fixed | | | | |
-|[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |D3 \- DIVISION AMATEURS LMS PBSOFT\.CA |36 |1455 |Fixed | | | | |
-|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 5 |35 |1908 |Fixed | | | | |
 |[Slingshot Gen 6 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5815){:target="_blank"} |2026 Late Model Tour |34 |2526 |Fixed | | | | |
 |[2025 BSP/OSR Winter\-Meltdown Latemodel Stock Series\.](https://members.iracing.com/membersite/member/LeagueView.do?league=7873){:target="_blank"} |Winter Meltdown Series |32 |2350 | | | | | |
 |[Lead Foot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11831){:target="_blank"} |LFRL Late Model Stock Tour Season 5 National Division |32 |2816 |Fixed | | | | |
@@ -90,10 +87,9 @@
 |[Racers Anonymous League](https://members.iracing.com/membersite/member/LeagueView.do?league=5889){:target="_blank"} |RaX Late Models |17 |1683 |Fixed | | | | |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Exhibition Late Model Stock Car Series Season 1 |16 |1424 |Fixed | | | | |
 |[Roarin' Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1674){:target="_blank"} |Calibra CPA Monday Night Thunder Season 11 |15 |1673 |Both | | | | |
-|[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The  Gang Winter Late Model League |14 |1732 | | | | | |
 |[TDFW Late Model Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=6850){:target="_blank"} |TDFW Late Model Stocks 2 |14 |2443 |Fixed | | | | |
 |[American Automobile Racing Corporation](https://members.iracing.com/membersite/member/LeagueView.do?league=13814){:target="_blank"} |Late Model Series |14 |1842 |Fixed |Lanier National Speedway |Sun, May 03 08:00PM EDT |Mon, May 04 01:00AM BST |Mon, May 04 10:00AM AEST |
-|[CSC Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12846){:target="_blank"} |Season 2 |13 |1801 |Fixed | | | | |
+|[CSC Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12846){:target="_blank"} |Season 2 |13 |1793 |Fixed | | | | |
 |[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |ABP Short Track Series |13 |1398 | |Irwindale Speedway |Mon, May 04 09:00PM EDT |Tue, May 05 02:00AM BST |Tue, May 05 11:00AM AEST |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |Nationwide Children's Hospital Pro Series S2 \- Late Model Stock Cars |13 |1620 |Fixed |Thompson Speedway Motorsports Park |Mon, May 04 07:30PM EDT |Tue, May 05 12:30AM BST |Tue, May 05 09:30AM AEST |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Trans Am Series |13 |1776 |Fixed |Lime Rock Park |Thu, May 07 05:30AM EDT |Thu, May 07 10:30AM BST |Thu, May 07 07:30PM AEST |
@@ -108,7 +104,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|----|-----|-------------------------------------|-----------------------|-----------------------|------------------------|
-|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Friday Legends Season 1 |60 |1805 | |Lanier National Speedway |Fri, May 01 07:30PM EDT |Sat, May 02 12:30AM BST |Sat, May 02 09:30AM AEST |
+|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Friday Legends Season 1 |60 |1831 | |Oswego Speedway |Fri, May 08 07:30PM EDT |Sat, May 09 12:30AM BST |Sat, May 09 09:30AM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A Supercar Supports \- O\-Z Legneds |56 |2559 |Both | | | | |
 |[Saturday Night Lights at The Apollo](https://members.iracing.com/membersite/member/LeagueView.do?league=13091){:target="_blank"} |Saturday Night Lights @ The Apollo Inaugural Season |43 |2254 | | | | | |
 |[The Italian Job Simracing ASD \(ITJ\) \- IIC](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |The Legend Championship 4th edition |33 |1941 |Both |Misano World Circuit Marco Simoncelli |Thu, May 07 02:30PM EDT |Thu, May 07 07:30PM BST |Fri, May 08 04:30AM AEST |
@@ -117,7 +113,7 @@
 |[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Sunday night Legends Gang BIG Track League |18 |1749 | |[Legacy] Phoenix Raceway - 2008 |Sun, May 03 07:00PM EDT |Mon, May 04 12:00AM BST |Mon, May 04 09:00AM AEST |
 |[YesterYear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10518){:target="_blank"} |2026 YesterYear Racing '34 Legends Series |17 |2066 |Fixed | | | | |
 |[After Hours Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12460){:target="_blank"} |SRL season 2 |16 |2203 | | | | | |
-|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Season 18\-High Noon |16 |1904 | | | | | |
+|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Season 18\-High Noon |16 |1904 | |Thompson Speedway Motorsports Park |Sat, May 02 09:30AM EDT |Sat, May 02 02:30PM BST |Sat, May 02 11:30PM AEST |
 
 ### Mini Stock
 
@@ -182,7 +178,7 @@
 |[PINNED](https://members.iracing.com/membersite/member/LeagueView.do?league=12518){:target="_blank"} |UNPINNED \- Season 1 |43 |2678 |Open |Nashville Fairgrounds Speedway |Mon, May 04 07:00PM EDT |Tue, May 05 12:00AM BST |Tue, May 05 09:00AM AEST |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |2026 Street Stock season 4 |38 |1507 |Fixed | | | | |
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Factory Stock Season 5 |38 |1554 |Both | | | | |
-|[Checkered Flag Motorsports Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13925){:target="_blank"} |CFM Street Stock Series Season 1 |37 |1929 |Fixed |Lime Rock Park |Fri, May 01 08:00PM EDT |Sat, May 02 01:00AM BST |Sat, May 02 10:00AM AEST |
+|[Checkered Flag Motorsports Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13925){:target="_blank"} |CFM Street Stock Series Season 1 |38 |1891 |Fixed |Five Flags Speedway |Fri, May 08 08:00PM EDT |Sat, May 09 01:00AM BST |Sat, May 09 10:00AM AEST |
 |[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |ERC Oval Development League 2026 \| Season 1 \| Street Stocks |35 |1606 |Both | | | | |
 |[Palmetto Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12640){:target="_blank"} |2026 CRA StreetStock Series |28 |1551 | | | | | |
 |[PRA Sunset Bend Street Stock Road Course Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13295){:target="_blank"} |Sunset Bend Street Stock RC Challenge Season 2 |28 |1715 | | | | | |
@@ -205,11 +201,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------|----|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------|----|-----|----------------------|-----------------------|-----------------------|------------------------|
 |[All Pro Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=97){:target="_blank"} |All Pro Sim Racing League 2026 Season |56 |2888 | | | | | |
 |[American Sim Racing Club \(Super Late Models\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11734){:target="_blank"} |2026 Postma Flooring Super Late Models \(Spring\) |44 |3194 |Fixed | | | | |
-|[Valued Alliance Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14114){:target="_blank"} |VAR Super Late Models |30 |2335 | | | | | |
-|[BRL Bushtalk Radio Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S27 |26 |2059 |Fixed |Nashville Fairgrounds Speedway |Fri, May 01 09:00PM EDT |Sat, May 02 02:00AM BST |Sat, May 02 11:00AM AEST |
+|[Valued Alliance Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14114){:target="_blank"} |VAR Super Late Models |30 |2335 | |Hickory Motor Speedway |Thu, May 07 06:00PM EDT |Thu, May 07 11:00PM BST |Fri, May 08 08:00AM AEST |
+|[BRL Bushtalk Radio Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S27 |27 |2072 |Fixed | | | | |
 |[BRL Bushtalk Radio Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S26 |25 |2038 |Fixed | | | | |
 |[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |Super Late Models \(Season 1\) |15 |2317 |Fixed | | | | |
 

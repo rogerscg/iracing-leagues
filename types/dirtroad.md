@@ -19,8 +19,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|------------------|-----------------------|-----------------------|------------------------|
-|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 12 \- Pro 2 Lites |54 |2873 | |Irwindale Speedway |Fri, May 01 08:30PM EDT |Sat, May 02 01:30AM BST |Sat, May 02 10:30AM AEST |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------|--------|------|------|
+|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 12 \- Pro 2 Lites |54 |2921 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/TINYTRUCK \- 2026 |17 |3658 |Fixed | | | | |
 |[Montana iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7823){:target="_blank"} |2026 Off\-Road Season |15 |1580 |Fixed | | | | |
 

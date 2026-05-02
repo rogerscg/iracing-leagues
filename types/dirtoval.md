@@ -45,7 +45,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|--------------------------|-----------------------|-----------------------|------------------------|
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |Pro Late Models Season 2 |52 |2549 |Both | | | | |
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |DIRTWEEK 2026 |48 |2780 |Fixed | | | | |
-|[Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13441){:target="_blank"} |Pro Late Models |35 |2321 |Fixed |Eldora Speedway |Tue, May 05 09:15PM EDT |Wed, May 06 02:15AM BST |Wed, May 06 11:15AM AEST |
+|[Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13441){:target="_blank"} |Pro Late Models |35 |2321 |Fixed |Eldora Speedway |Tue, May 05 08:00PM EDT |Wed, May 06 01:00AM BST |Wed, May 06 10:00AM AEST |
 |[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |Pro late season 8 |35 |3997 | | | | | |
 |[American Appalachian E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=14042){:target="_blank"} |Mud Crickets Pro Late Models |32 |1839 | | | | | |
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |SBRL Fixed Pro Late 26S1 |29 |2579 |Both |Oswego Speedway |Sun, May 03 08:55PM EDT |Mon, May 04 01:55AM BST |Mon, May 04 10:55AM AEST |
@@ -59,7 +59,6 @@
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |Pro Late Models 2026 |22 |1135 |Fixed |USA International Speedway |Thu, May 07 10:30PM EDT |Fri, May 08 03:30AM BST |Fri, May 08 12:30PM AEST |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS PRO LATE MODELS SEASON 2 |21 |2842 | |Lanier National Speedway |Tue, May 05 08:00PM EDT |Wed, May 06 01:00AM BST |Wed, May 06 10:00AM AEST |
 |[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |NWRA Pro Late Models Season 10 |19 |3631 |Both | | | | |
-|[Northwest Sharks](https://members.iracing.com/membersite/member/LeagueView.do?league=13721){:target="_blank"} |North West Late Models |19 |2158 |Open | | | | |
 |[DIRTKARS PRO LATES MODEL SERIES powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7932){:target="_blank"} |Season 11 Pro Late Models |19 |1863 | | | | | |
 |[OVSS 358 Mayhem Tour/ Pro Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11947){:target="_blank"} |2026 Pro Late Models |17 |1563 |Fixed | | | | |
 |[J&B Sim Racing Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=10674){:target="_blank"} |2026 Spring Mini\-Season |16 |2427 |Fixed | | | | |
@@ -77,8 +76,7 @@
 |[SRA\-Southern Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=1758){:target="_blank"} |SRA SLM 2026 Season 1 |99 |4146 |Both |Fairbury Speedway |Sun, May 03 08:00PM EDT |Mon, May 04 01:00AM BST |Mon, May 04 10:00AM AEST |
 |[No Limit Crown Jewel Tour presented by P1 Simsports](https://members.iracing.com/membersite/member/LeagueView.do?league=11603){:target="_blank"} |No Limit Crown Jewel |63 |4684 | |Williams Grove Speedway |Mon, May 04 08:00PM EDT |Tue, May 05 01:00AM BST |Tue, May 05 10:00AM AEST |
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB Super Late Models Season 2 |53 |3516 |Open | | | | |
-|[B&B Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13461){:target="_blank"} |B&B season 2 |33 |2760 | | | | | |
-|[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |SDS Hooked Up Super Lates 2026 Spring |33 |3929 |Both | | | | |
+|[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |SDS Hooked Up Super Lates 2026 Spring |34 |3930 |Both | | | | |
 |[Virtual Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11145){:target="_blank"} |Winter Heat SLM 2025 |26 |2598 | | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS DIRT SUPER LATE MODELS SEASON 2 |17 |2581 | |Huset's Speedway |Mon, May 04 08:00PM EDT |Tue, May 05 01:00AM BST |Tue, May 05 10:00AM AEST |
 |[Instigator Winter Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11652){:target="_blank"} |Super Late Model 2025 |16 |3012 | | | | | |
@@ -124,7 +122,7 @@
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |2026 RHS Unlimited LLC Dirt Micro Outlaw series |24 |1310 |Fixed | | | | |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.41 DTP Striker Outlaw Micro Winged Sprints by KAT |21 |2003 |Fixed |Federated Auto Parts Raceway at I-55 |Thu, May 07 08:15PM EDT |Fri, May 08 01:15AM BST |Fri, May 08 10:15AM AEST |
 |[FALCONGRAPHIX Tuesday Night Lights Micro Sprint Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8578){:target="_blank"} |Season 8: Dirt Winged Micro Sprints |20 |1952 | |Chili Bowl |Tue, May 05 07:58PM EDT |Wed, May 06 12:58AM BST |Wed, May 06 09:58AM AEST |
-|[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Micro Sprints Super Series 2026 |12 |2772 | |Limaland Motorsports Park |Fri, May 01 07:00AM EDT |Fri, May 01 12:00PM BST |Fri, May 01 09:00PM AEST |
+|[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Micro Sprints Super Series 2026 |19 |2619 | |Fairbury Speedway |Fri, May 08 07:00AM EDT |Fri, May 08 12:00PM BST |Fri, May 08 09:00PM AEST |
 |[Elite Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14087){:target="_blank"} |EDRL Outlaw Micro Sprints |10 |2759 | | | | | |
 
 ### Dirt SprintCar - 305
@@ -140,7 +138,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|-----------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|-----------------------|-----------------------|-----------------------|------------------------|
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB 360 Sprints Season 22 |122 |4792 |Open |Cedar Lake Speedway |Tue, May 05 09:00PM EDT |Wed, May 06 02:00AM BST |Wed, May 06 11:00AM AEST |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Rebels "B" Division |118 |2291 |Open | | | | |
 |[JSI racing simsports team](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |Auswide 360 Sprintcar Series |88 |3781 | | | | | |
@@ -153,8 +151,8 @@
 |[VapourTrail Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |25/26 Sprintcar Summer series |27 |2213 | | | | | |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Dirt Nation \- Season 1 \(360 Sprint\) |25 |1691 |Fixed | | | | |
 |[Slide Job Syndicate 360's](https://members.iracing.com/membersite/member/LeagueView.do?league=12863){:target="_blank"} |2026 Season 2  \(Outlaw Series\) Summer of Chaos |23 |3633 | |Knoxville Raceway |Sun, May 03 08:30PM EDT |Mon, May 04 01:30AM BST |Mon, May 04 10:30AM AEST |
+|[Tasman Racing League \- Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14353){:target="_blank"} |2026 Tasman Racing League: Dirt Series |22 |1948 | | | | | |
 |[unused](https://members.iracing.com/membersite/member/LeagueView.do?league=8854){:target="_blank"} |NLSCS Season 1 |21 |2832 | | | | | |
-|[Tasman Racing League: Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14353){:target="_blank"} |2026 Tasman Racing League: Dirt Series |13 |1891 | |Knoxville Raceway |Fri, May 01 04:30AM EDT |Fri, May 01 09:30AM BST |Fri, May 01 06:30PM AEST |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |VRS \- 360 Sprints \- Fixed |11 |1537 | | | | | |
 
 ### Dirt SprintCar - 360wingless
@@ -217,8 +215,8 @@
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Winter 25\-26 UMP Modifieds |34 |2430 |Fixed | | | | |
 |[Virtual Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=11145){:target="_blank"} |Winter Heat UMP 2025 |28 |2608 | | | | | |
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |SBRL Fixed UMP 26S1 |27 |2667 |Both |Oswego Speedway |Sun, May 03 07:55PM EDT |Mon, May 04 12:55AM BST |Mon, May 04 09:55AM AEST |
+|[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |SDS Open Wheel Modified |25 |3780 |Both | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS UMP MODIFIEDS SEASON 2 |24 |2715 | |Lanier National Speedway |Tue, May 05 11:00PM EDT |Wed, May 06 04:00AM BST |Wed, May 06 01:00PM AEST |
-|[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |SDS Open Wheel Modified |23 |3801 |Both | | | | |
 |[North West Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=9147){:target="_blank"} |NWRA UMP Modifieds Season 8 |20 |3817 |Both | | | | |
 |[Ohio Valley Sim Sports UMP and Winged 360's](https://members.iracing.com/membersite/member/LeagueView.do?league=11663){:target="_blank"} |OVSS 2026 UMP's |17 |1576 |Fixed | | | | |
 |[Ohio Valley Sim Sports UMP and Winged 360's](https://members.iracing.com/membersite/member/LeagueView.do?league=11663){:target="_blank"} |OVSS Rookie class UMP |12 |1308 |Fixed | | | | |

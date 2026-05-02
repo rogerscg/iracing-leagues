@@ -67,6 +67,7 @@
 |[MSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12250){:target="_blank"} |MSC GT4 Invictus Championship |18 |1677 |Fixed | | | | |
 |[Gladiator Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13443){:target="_blank"} |Season 2 GT4 |17 |1418 |Fixed | | | | |
 |[SOWEGA Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12948){:target="_blank"} |SOWEGA GT4 World Tour |15 |1599 |Fixed |Circuit de Spa-Francorchamps |Tue, May 05 08:30PM EDT |Wed, May 06 01:30AM BST |Wed, May 06 10:30AM AEST |
+|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} |gt4 slow shit |13 |1378 | |Barber Motorsports Park |Mon, May 04 09:15PM EDT |Tue, May 05 02:15AM BST |Tue, May 05 11:15AM AEST |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |CAC Season 2 \- 2026 |12 |1442 | | | | | |
 
 ### GTE Class
@@ -77,7 +78,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|--------------------------------------------|-----------------------|-----------------------|------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A GTE Challenge \- Disruptive Labs |93 |2492 |Both | | | | |
 |[SRi GTE Championship Season 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |SRi GTE Championship Season 1 |66 |2788 | | | | | |
-|[SRi GTE Championship Season 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |SRi GTE Season 2 |60 |2698 | |Circuit de Spa-Francorchamps |Fri, May 01 02:00PM EDT |Fri, May 01 07:00PM BST |Sat, May 02 04:00AM AEST |
+|[SRi GTE Championship Season 2](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |SRi GTE Season 2 |60 |2683 | |Watkins Glen International |Fri, May 08 02:00PM EDT |Fri, May 08 07:00PM BST |Sat, May 09 04:00AM AEST |
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |MoP GTE League |22 |2576 | |Autodromo Internazionale Enzo e Dino Ferrari |Wed, May 06 09:00PM EDT |Thu, May 07 02:00AM BST |Thu, May 07 11:00AM AEST |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S2 Session 2 |22 |1910 | |Autódromo José Carlos Pace |Mon, May 04 08:30PM EDT |Tue, May 05 01:30AM BST |Tue, May 05 10:30AM AEST |
 |[Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235){:target="_blank"} |ACiL Spring 2026 GTE |15 |2077 | |Autódromo José Carlos Pace |Tue, May 05 07:28PM EDT |Wed, May 06 12:28AM BST |Wed, May 06 09:28AM AEST |
@@ -121,15 +122,14 @@
 |[Audi GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=13109){:target="_blank"} |R8 Digital Cup |21 |1896 |Fixed | | | | |
 |[X7R RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=14351){:target="_blank"} |TORNEO INTERNO X7R |20 |1368 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Open 2WD \- 2026 \(Sat\) |19 |2486 |Fixed | | | | |
-|[GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=11069){:target="_blank"} |GT Endurance Masters Season 2 |19 |2245 |Open | | | | |
+|[GT Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=11069){:target="_blank"} |GT Endurance Masters Season 2 |19 |2245 |Open |Circuit des 24 Heures du Mans |Sat, May 09 04:00AM EDT |Sat, May 09 09:00AM BST |Sat, May 09 06:00PM AEST |
 |[SRFD Central PA Division](https://members.iracing.com/membersite/member/LeagueView.do?league=10390){:target="_blank"} |992\.2 Points of Emotional Damage |19 |1468 |Fixed | | | | |
 |[Motor City Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12105){:target="_blank"} |Late Night Runs Season 3 |18 |1514 |Open | | | | |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup 26 |17 |1383 |Both | | | | |
 |[ORNL\.nl Mazda Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5652){:target="_blank"} |ORNL\.NL MX5 Double Trouble |17 |2188 |Fixed |Summit Point Raceway |Wed, April 15 02:00PM EDT |Wed, April 15 07:00PM BST |Thu, April 16 04:00AM AEST |
-|[iRacing for the Blind](https://members.iracing.com/membersite/member/LeagueView.do?league=6082){:target="_blank"} |Season 6\- Return of the blind |16 |1994 | | | | | |
 |[NASA Rocky Mountain](https://members.iracing.com/membersite/member/LeagueView.do?league=3759){:target="_blank"} |2026 NASA RM Spring Season |16 |1482 | |Motorsport Arena Oschersleben |Wed, May 06 08:30PM EDT |Thu, May 07 01:30AM BST |Thu, May 07 10:30AM AEST |
 |[B2SIM \- Sezon 3](https://members.iracing.com/membersite/member/LeagueView.do?league=14216){:target="_blank"} |Sezon 3 |16 |1437 | | | | | |
-|[Apex Sim Cup: Del simulador a la pista](https://members.iracing.com/membersite/member/LeagueView.do?league=14280){:target="_blank"} |Apex Sim Cup: Del Simulador a la pista Temporada 1 2026 |16 |1628 | | | | | |
+|[Apex Sim Cup: Del simulador a la pista](https://members.iracing.com/membersite/member/LeagueView.do?league=14280){:target="_blank"} |Apex Sim Cup: Del Simulador a la pista Temporada 1 2026 |16 |1628 | |Circuit de Spa-Francorchamps |Sat, May 09 09:00PM EDT |Sun, May 10 02:00AM BST |Sun, May 10 11:00AM AEST |
 |[CSiRL \| Championship Sportscar iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11685){:target="_blank"} |GT4 Throwdown |14 |1330 |Both | | | | |
 |[PRCF Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=3156){:target="_blank"} |PRCF Esports 2025 |13 |2484 | | | | | |
 |[UK Sim Racers \- MX5 Tuesday Pro series](https://members.iracing.com/membersite/member/LeagueView.do?league=2378){:target="_blank"} |UKSR MX5 Winter series 25/26 |13 |2166 |Open | | | | |
@@ -175,22 +175,22 @@
 |[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 14 |53 |2284 |Fixed | | | | |
 |[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |MX5 \-DRSCCAxSUPERLAP \- WINTER 2026 |51 |1730 |Both | | | | |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Mazda Speed Season 5 \(Rookie\-ish\) |50 |1436 |Both | | | | |
-|[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} |Split 1 |49 |2900 | | | | | |
+|[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} |Split 1 |49 |2900 | |Willow Springs International Raceway |Sat, May 02 11:00AM EDT |Sat, May 02 04:00PM BST |Sun, May 03 01:00AM AEST |
 |[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |Sunday Drivers Cup 2026 |46 |1951 |Fixed | | | | |
 |[L\.A\. Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11004){:target="_blank"} |Copa Mazda \- Season III |46 |1524 |Both | | | | |
 |[Apex MX\-5 Season 2](https://members.iracing.com/membersite/member/LeagueView.do?league=13483){:target="_blank"} |Apex Season 2 |44 |1934 | | | | | |
-|[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} |Split 2 |43 |2041 | | | | | |
+|[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} |Split 2 |43 |2041 | |Willow Springs International Raceway |Sat, May 02 11:01AM EDT |Sat, May 02 04:01PM BST |Sun, May 03 01:01AM AEST |
 |[BRSCC Winter eSports Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9071){:target="_blank"} |BRSCC Winter Esports 2026 |41 |2436 | | | | | |
 |[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} |Official Practice |41 |None | | | | | |
 |[Magyarok \- Real Fast Kitchen](https://members.iracing.com/membersite/member/LeagueView.do?league=12203){:target="_blank"} |Mazda MX\-5 |40 |2443 |Open |Oulton Park Circuit |Wed, May 06 10:30AM EDT |Wed, May 06 03:30PM BST |Thu, May 07 12:30AM AEST |
 |[Beta Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10457){:target="_blank"} |BRC MX\-5 Season 1 |38 |2100 | |Summit Point Raceway |Tue, May 05 08:58PM EDT |Wed, May 06 01:58AM BST |Wed, May 06 10:58AM AEST |
 |[SRN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12912){:target="_blank"} |SRN MX\-5 Challenge Season 2 |37 |2626 | | | | | |
 |[F1BC MX5 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Sport 2026/2 |37 |1570 | |Oulton Park Circuit |Mon, May 04 07:25PM EDT |Tue, May 05 12:25AM BST |Tue, May 05 09:25AM AEST |
-|[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} |Split 4 |37 |1281 | | | | | |
-|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Advanced MX\-5 |36 |1856 |Fixed | | | | |
+|[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} |Split 4 |37 |1281 | |Willow Springs International Raceway |Sat, May 02 11:03AM EDT |Sat, May 02 04:03PM BST |Sun, May 03 01:03AM AEST |
+|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Advanced MX\-5 |36 |1856 |Fixed |Willow Springs International Raceway |Sun, May 03 08:15PM EDT |Mon, May 04 01:15AM BST |Mon, May 04 10:15AM AEST |
 |[EGT Canada \- MX5 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11322){:target="_blank"} |S13 MX5 Series \(2026\) |34 |1825 | |Okayama International Circuit |Sun, May 03 08:00PM EDT |Mon, May 04 01:00AM BST |Mon, May 04 10:00AM AEST |
 |[GLR MX\-5](https://members.iracing.com/membersite/member/LeagueView.do?league=13162){:target="_blank"} |GLR MX\-5 Series Season 1 |34 |1134 | |Daytona International Speedway |Wed, May 06 07:00PM EDT |Thu, May 07 12:00AM BST |Thu, May 07 09:00AM AEST |
-|[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} |Split 3 |34 |1648 | | | | | |
+|[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} |Split 3 |34 |1648 | |Willow Springs International Raceway |Sat, May 02 11:02AM EDT |Sat, May 02 04:02PM BST |Sun, May 03 01:02AM AEST |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 1A SMX |33 |2070 |Open | | | | |
 |[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG \- T1/2026 \- GLOBAL MAZDA MX\-5 |33 |1709 | | | | | |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Mazda Speed Season 6 |33 |1467 |Both |Okayama International Circuit |Mon, May 04 08:00PM EDT |Tue, May 05 01:00AM BST |Tue, May 05 10:00AM AEST |
@@ -198,7 +198,7 @@
 |[F1BC MX5 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=8629){:target="_blank"} |MX5 Master 2026/2 |28 |3419 | |Oulton Park Circuit |Mon, May 04 05:25PM EDT |Mon, May 04 10:25PM BST |Tue, May 05 07:25AM AEST |
 |[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |MX5 \- SUMMER 2026 |28 |1892 |Both | | | | |
 |[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |SKF iRacing Ignition League 2026 S2 |28 |1329 | |Oulton Park Circuit |Tue, May 05 12:00PM EDT |Tue, May 05 05:00PM BST |Wed, May 06 02:00AM AEST |
-|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |MX5 iRacers\.com\.br Cup |27 |1942 | | | | | |
+|[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |MX5 iRacers\.com\.br Cup |27 |1942 | |Oulton Park Circuit |Sat, May 09 12:25PM EDT |Sat, May 09 05:25PM BST |Sun, May 10 02:25AM AEST |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |MX\-5 Sunday 2026\-S01 Winter |26 |1285 |Fixed | | | | |
 |[MX5 WORLD SIM SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=3259){:target="_blank"} |The 2100 club |25 |1981 |Fixed |Virginia International Raceway |Sun, May 03 03:00PM EDT |Sun, May 03 08:00PM BST |Mon, May 04 05:00AM AEST |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |MX\-5 Sunday 2026\-S02 Spring |25 |1336 |Fixed |Circuito de Navarra |Sun, May 03 11:00AM EDT |Sun, May 03 04:00PM BST |Mon, May 04 01:00AM AEST |
@@ -305,10 +305,10 @@
 |[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |Porsche Sprint Cup |24 |1527 |Open | | | | |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S2 Session 1 |23 |1887 | |Donington Park Racing Circuit |Mon, May 04 07:00PM EDT |Tue, May 05 12:00AM BST |Tue, May 05 09:00AM AEST |
 |[Academy Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4297){:target="_blank"} |Academy Porsche Cup Championship |23 |1730 |Both |Circuit de Spa-Francorchamps |Thu, May 07 07:00PM EDT |Fri, May 08 12:00AM BST |Fri, May 08 09:00AM AEST |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |Trrriple Caution Multi\-Season Championship \(S03\) |23 |2073 | | | | | |
 |[PROGNIS PCup Monday](https://members.iracing.com/membersite/member/LeagueView.do?league=9047){:target="_blank"} |2026s1 |22 |3529 | | | | | |
 |[EMS Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=11516){:target="_blank"} |Masters Cup 3ª Div |22 |2000 |Both | | | | |
 |[Billy Oirish Racing Porsche Cup 2026 Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=14143){:target="_blank"} |Billy Oirish Racing Porsche Cup 2026 Season 1 |22 |1906 | |Willow Springs International Raceway |Sun, May 03 04:00PM EDT |Sun, May 03 09:00PM BST |Mon, May 04 06:00AM AEST |
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |Trrriple Caution Multi\-Season Championship \(S03\) |22 |2034 | |Nürburgring Nordschleife |Fri, May 01 03:30PM EDT |Fri, May 01 08:30PM BST |Sat, May 02 05:30AM AEST |
 |[RES AUTOMOBILISMO VIRTUAL](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |T1/2026 \- YELLOW RISK \- PORSCHE CUP 992\.2 |21 |1903 | | | | | |
 |[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2026\-1 |20 |1536 |Fixed |Miami International Autodrome |Mon, May 04 07:50PM EDT |Tue, May 05 12:50AM BST |Tue, May 05 09:50AM AEST |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |2026 S1  \- PORCSHE CUP  |20 |1770 | | | | | |
@@ -316,6 +316,7 @@
 |[Americas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13481){:target="_blank"} |ARL Porsche Cup S2 2026 British Invasion |19 |1775 |Open | | | | |
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |P\-CUP OPEN |18 |1253 |Fixed |Hockenheimring Baden-Württemberg |Sat, May 02 07:30PM EDT |Sun, May 03 12:30AM BST |Sun, May 03 09:30AM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S1 SGA PORSCHE 992\.2 |17 |2953 |Both | | | | |
+|[X PCA \- Club](https://members.iracing.com/membersite/member/LeagueView.do?league=5374){:target="_blank"} |PCA \- 2026 ZGC \- Club |17 |1704 | |Barber Motorsports Park |Wed, May 06 08:45PM EDT |Thu, May 07 01:45AM BST |Thu, May 07 10:45AM AEST |
 |[CAS \- Porsche Community Cup Deutschland](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} |CAS Porsche Community Cup Deutschland Season 4 |15 |1772 | |Circuit de Barcelona Catalunya |Thu, May 07 01:00PM EDT |Thu, May 07 06:00PM BST |Fri, May 08 03:00AM AEST |
 |[CSC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12596){:target="_blank"} |Season 5 |15 |2438 |Fixed | | | | |
 |[KSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=13751){:target="_blank"} |KSRL 2026S2 \- Pee Cup Challenge |14 |1678 | | | | | |
@@ -417,6 +418,6 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|-------------------------------|-------|----|-----|--------------------------------|-----------------------|-----------------------|------------------------|
-|[GHD Zetti CUP SAISON 1](https://members.iracing.com/membersite/member/LeagueView.do?league=9644){:target="_blank"} |GHD ZETTI CUP SAISON 1 |45 |2354 | |Hockenheimring Baden-Württemberg |Fri, May 01 02:00PM EDT |Fri, May 01 07:00PM BST |Sat, May 02 04:00AM AEST |
+|[GHD Zetti CUP SAISON 1](https://members.iracing.com/membersite/member/LeagueView.do?league=9644){:target="_blank"} |GHD ZETTI CUP SAISON 1 |45 |2354 | |Hockenheimring Baden-Württemberg |Mon, May 04 02:00PM EDT |Mon, May 04 07:00PM BST |Tue, May 05 04:00AM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Season 10 Road Heads Series |39 |1508 |Fixed | | | | |
 
