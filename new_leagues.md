@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[AINO IMAGE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14367){:target="_blank"} | |Continuous Push for Improvement |
-|[GSG Outlaws League](https://members.iracing.com/membersite/member/LeagueView.do?league=14369){:target="_blank"} |[Discord](https://discord.gg/REPQSdkGC){:target="_blank"} |GSG Racings Dirt League |
-|[Os Corta Relvas](https://members.iracing.com/membersite/member/LeagueView.do?league=14366){:target="_blank"} | |Se nao tem relva, a gente nao gosta |
 |[E&M Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14374){:target="_blank"} | | |
 |[COPA TOYOTA GR86 FADU](https://members.iracing.com/membersite/member/LeagueView.do?league=14372){:target="_blank"} | | |
 |[DSA Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14373){:target="_blank"} | |Superspeedway racing on Sunday nights at 8pm EST\. Series is part of the DSA Race Group\. |
@@ -28,13 +25,12 @@
 |[DTM iRacingCR](https://members.iracing.com/membersite/member/LeagueView.do?league=14391){:target="_blank"} | |🏁 DTM Costa Rica – iRacing |
 |[Game Street](https://members.iracing.com/membersite/member/LeagueView.do?league=14394){:target="_blank"} | | |
 |[Half Right Face Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14396){:target="_blank"} | | |
-|[LFRL Kickback Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14397){:target="_blank"} | |A casual invitational series under the LFRL banner\! |
+|[LFRL \(Backup\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14397){:target="_blank"} | |A casual invitational series under the LFRL banner\! |
 |[Liga Multitap](https://members.iracing.com/membersite/member/LeagueView.do?league=14395){:target="_blank"} | | |
 |[Lillas Sim Coaching](https://members.iracing.com/membersite/member/LeagueView.do?league=14405){:target="_blank"} |[Discord](https://discord.gg/TaJwmmavj){:target="_blank"} |Hosted sessions for Lillas Sim Coaching |
 |[Norda Race](https://members.iracing.com/membersite/member/LeagueView.do?league=14388){:target="_blank"} | | |
 |[Avento Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14389){:target="_blank"} |[Discord](https://discord.gg/SZnJHXCPMw){:target="_blank"} | |
 |[West Coast Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14390){:target="_blank"} |[Discord](https://discord.gg/kXnFq5APvs){:target="_blank"} |From Beginner to Pro, we want you all |
-|[ZiENIT racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14368){:target="_blank"} | | |
 |[Big Red Custom Diecast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14407){:target="_blank"} | |Big Red Custom Diecast |
 |[Kings Of Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=14406){:target="_blank"} | |friendly and fast |
 |[American Appalachian E\-Sports ARCA Rookie Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14420){:target="_blank"} | | |
@@ -62,4 +58,12 @@
 |[Pretenders](https://members.iracing.com/membersite/member/LeagueView.do?league=14443){:target="_blank"} | |pretend racecar drivers |
 |[PRSLR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14446){:target="_blank"} | |Pit Road Speed Limit Racing Challange Races\. |
 |[Racing Heart Universe](https://members.iracing.com/membersite/member/LeagueView.do?league=14445){:target="_blank"} | | |
+|[AMR Porsche Carrera Cup Serbia 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14452){:target="_blank"} | |Welcome to all Porsche 911 Cup drivers\! |
+|[Formula Online](https://members.iracing.com/membersite/member/LeagueView.do?league=14451){:target="_blank"} | |Formula Online, hosted by Peters, is a racing league running the Mercedes W12 around some of the greatest tracks in the world\. |
+|[Frontline Racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=14454){:target="_blank"} | |Weekly Racing and Monthly special events |
+|[Lucia Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=14453){:target="_blank"} | | |
+|[NLMT Asphalt Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=14450){:target="_blank"} | |National Late Model Tour \(NLMT\) The NLMT is an iRacing league dedicated to Late Model Stock racing, focused on delivering clean, competitive racing and building a strong, active community\. We run on a variety of real\-world short tracks, creating a challenging and realistic racing environment each week\. Our goal is to provide a league where drivers can compete hard, race respectfully, and continue improving their skills\. We’re looking for drivers who: Value clean, respectful racing Enjoy competitive fields Want to be part of a growing league All skill levels are welcome — whether you’re experienced or just getting started\. |
+|[On The Rocks Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14449){:target="_blank"} | |We're definitely not huffing the fuel\.\.\. |
+|[PARC](https://members.iracing.com/membersite/member/LeagueView.do?league=14455){:target="_blank"} | |iRacing division of our Playstation Auto Racing Club \(not affiliated with Sony\), est\. 2020 |
+|[Red Hills iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14456){:target="_blank"} |[Discord](https://discord.gg/A9pvrBfs){:target="_blank"} |Competitive, clean, fun Championship NASCAR racing that focuses on respectable family friendly competition\. Rookie to A License\. We will run an inaugural 12 week Craftsman Truck Fixed season with points champion crowned after last race\. Season starts 08/02/26 at 8 pm EST\. |
 
