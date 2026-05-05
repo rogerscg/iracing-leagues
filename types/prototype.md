@@ -42,7 +42,7 @@
 |[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |36 |1596 | | | | | |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |31 |2948 |Open |WeatherTech Raceway at Laguna Seca |Thu, May 07 02:15PM EDT |Thu, May 07 07:15PM BST |Fri, May 08 04:15AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |1994 |Open | | | | |
-|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1151 |Fixed |Road Atlanta |Mon, May 04 07:15PM EDT |Tue, May 05 12:15AM BST |Tue, May 05 09:15AM AEST |
+|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1151 |Fixed |Road Atlanta |Thu, May 07 07:15PM EDT |Fri, May 08 12:15AM BST |Fri, May 08 09:15AM AEST |
 
 ### Ligier JS P320
 
@@ -57,8 +57,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
-|[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |25/26 RCCWS |56 |2071 |Fixed | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2026 |31 |3887 | |WeatherTech Raceway at Laguna Seca |Sun, May 10 02:00PM EDT |Sun, May 10 07:00PM BST |Mon, May 11 04:00AM AEST |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2026 |22 |2393 | |WeatherTech Raceway at Laguna Seca |Sun, May 10 07:30PM EDT |Mon, May 11 12:30AM BST |Mon, May 11 09:30AM AEST |
 
@@ -70,8 +69,8 @@
 |---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |35 |2305 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |34 |2448 |Both | | | | |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season 8 |29 |2839 | |Road America |Mon, May 11 02:50PM EDT |Mon, May 11 07:50PM BST |Tue, May 12 04:50AM AEST |
 |[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 2 \- SR8 |22 |2781 | |Long Beach Street Circuit |Wed, May 06 03:00PM EDT |Wed, May 06 08:00PM BST |Thu, May 07 05:00AM AEST |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season 8 |20 |2828 | |Silverstone Circuit |Mon, May 04 02:50PM EDT |Mon, May 04 07:50PM BST |Tue, May 05 04:50AM AEST |
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |17 |1739 | | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 4\.1 |15 |2258 |Fixed | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |14 |1961 | | | | | |
