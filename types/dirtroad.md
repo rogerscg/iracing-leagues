@@ -20,8 +20,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------|--------|------|------|
-|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 12 \- Pro 2 Lites |54 |2921 | | | | | |
+|-------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
+|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 12 \- Pro 2 Lites |54 |2921 | |Long Beach Street Circuit |Fri, May 08 08:30PM EDT |Sat, May 09 01:30AM BST |Sat, May 09 10:30AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/TINYTRUCK \- 2026 |24 |3413 |Fixed | | | | |
 
 ### Pro 4 Truck
@@ -34,6 +34,6 @@
 |[CORE \- Championship Off\-Road Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |32 |2749 |Fixed | | | | |
 |[RPES Better Half Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=11711){:target="_blank"} |2026 RPES Metcalf Media Off\-Road Series |28 |3219 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Y2M x LIF/4x4 Rolling Thunder \- 2026 \(Sat\) |24 |2030 |Fixed | | | | |
-|[TDFW Lucas Oil Pro4 Off\-Road at Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10157){:target="_blank"} |TDFW Lucas Oil Off\-Road Pro4 |13 |1341 | |Chicago Street Course |Wed, May 06 08:00PM EDT |Thu, May 07 01:00AM BST |Thu, May 07 10:00AM AEST |
+|[TDFW Lucas Oil Pro4 Off\-Road at Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10157){:target="_blank"} |TDFW Lucas Oil Off\-Road Pro4 |14 |1339 | | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S2 '26 Trucks |12 |1383 |Fixed |Wild West Motorsports Park |Thu, May 07 09:30PM EDT |Fri, May 08 02:30AM BST |Fri, May 08 11:30AM AEST |
 
