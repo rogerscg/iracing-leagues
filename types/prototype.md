@@ -36,12 +36,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|------------------------------------|-----------------------|-----------------------|------------------------|
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |58 |4425 | |Road Atlanta |Wed, May 13 01:00PM EDT |Wed, May 13 06:00PM BST |Thu, May 14 03:00AM AEST |
 |[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |36 |1596 | | | | | |
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |31 |2948 |Open |WeatherTech Raceway at Laguna Seca |Thu, May 07 02:15PM EDT |Thu, May 07 07:15PM BST |Fri, May 08 04:15AM AEST |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |32 |2970 |Open |Silverstone Circuit |Thu, May 14 02:15PM EDT |Thu, May 14 07:15PM BST |Fri, May 15 04:15AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |1994 |Open | | | | |
-|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1151 |Fixed |Road Atlanta |Thu, May 07 07:15PM EDT |Fri, May 08 12:15AM BST |Fri, May 08 09:15AM AEST |
+|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1158 |Fixed |Willow Springs International Raceway |Mon, May 11 07:15PM EDT |Tue, May 12 12:15AM BST |Tue, May 12 09:15AM AEST |
 
 ### Ligier JS P320
 
@@ -79,6 +79,7 @@
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |Season 5 |13 |2088 |Fixed |Suzuka International Racing Course |Sun, May 10 08:00PM EDT |Mon, May 11 01:00AM BST |Mon, May 11 10:00AM AEST |
 |[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 2 |13 |1776 | |Virginia International Raceway |Tue, May 12 09:50PM EDT |Wed, May 13 02:50AM BST |Wed, May 13 11:50AM AEST |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |SCR Season \#4 |12 |1092 |Both | | | | |
+|[Compétitions GOFiR](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |RAC |10 |2077 |Open | | | | |
 
 ### Riley Daytona Prototype
 
@@ -96,13 +97,9 @@
 |----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|---------------------------|-----------------------|-----------------------|------------------------|
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S1 WW SRF |74 |3248 |Open | | | | |
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S2 WW SRF |52 |3164 |Open |Indianapolis Motor Speedway |Sun, May 10 02:40PM EDT |Sun, May 10 07:40PM BST |Mon, May 11 04:40AM AEST |
-|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 1 |44 |2979 | | | | | |
-|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 2 |39 |1903 | | | | | |
-|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 3 |35 |1617 | | | | | |
 |[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |2026 \- Season 1 \- VRG Spec Racer Ford Series |35 |1619 |Fixed | | | | |
 |[Ray Esports vRunoffs](https://members.iracing.com/membersite/member/LeagueView.do?league=14079){:target="_blank"} |2026 S1Wk13 SRF Group |28 |3129 | | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 1B SRF |26 |2157 |Open | | | | |
-|[ARA League \- Season 6](https://members.iracing.com/membersite/member/LeagueView.do?league=13605){:target="_blank"} |Split 4 |25 |1382 | | | | | |
 |[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |Monday Practice VRG VRL 2026 Season 1 |14 |1456 |Fixed | | | | |
 |[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Short Track Thursday Nights |13 |1426 |Fixed | | | | |
 
