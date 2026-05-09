@@ -1,18 +1,13 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[2Slo Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14393){:target="_blank"} | |2Slo Racing is new to PC but has been very active in the console community\. Finally starting to spread our wings into Iracing\. |
-|[DSA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14392){:target="_blank"} | |DSA Race Group Event Race |
-|[DTM iRacingCR](https://members.iracing.com/membersite/member/LeagueView.do?league=14391){:target="_blank"} | |🏁 DTM Costa Rica – iRacing |
 |[Game Street](https://members.iracing.com/membersite/member/LeagueView.do?league=14394){:target="_blank"} | | |
 |[Half Right Face Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14396){:target="_blank"} | | |
 |[LFRL \(Backup\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14397){:target="_blank"} | |A casual invitational series under the LFRL banner\! |
 |[Liga Multitap](https://members.iracing.com/membersite/member/LeagueView.do?league=14395){:target="_blank"} | | |
 |[Lillas Sim Coaching](https://members.iracing.com/membersite/member/LeagueView.do?league=14405){:target="_blank"} |[Discord](https://discord.gg/TaJwmmavj){:target="_blank"} |Hosted sessions for Lillas Sim Coaching |
-|[Norda Race](https://members.iracing.com/membersite/member/LeagueView.do?league=14388){:target="_blank"} | | |
-|[Avento Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14389){:target="_blank"} |[Discord](https://discord.gg/SZnJHXCPMw){:target="_blank"} | |
-|[West Coast Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14390){:target="_blank"} |[Discord](https://discord.gg/kXnFq5APvs){:target="_blank"} |From Beginner to Pro, we want you all |
 |[Big Red Custom Diecast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14407){:target="_blank"} | |Big Red Custom Diecast |
 |[Kings Of Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=14406){:target="_blank"} | |friendly and fast |
 |[American Appalachian E\-Sports ARCA Rookie Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14420){:target="_blank"} | | |
@@ -65,15 +60,19 @@
 |[DRL \- Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=14473){:target="_blank"} | |Degenerate Race League: 10 Race GT3 Season starts May 25th, 2026 |
 |[NW Sim Racing Shop Vs Shop](https://members.iracing.com/membersite/member/LeagueView.do?league=14476){:target="_blank"} | | |
 |[UK iRacing Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=14472){:target="_blank"} |[Discord](https://discord.gg/DRxn4HY7D){:target="_blank"} |oval racing league racing Nascar Trucks Mondays and O'Reilleys Wednesdays green flag 8pm BST |
-|[HeXagon Nation GT League](https://members.iracing.com/membersite/member/LeagueView.do?league=14475){:target="_blank"} | |Welcome to HeXagon Nation GT League |
+|[HeXagon Nation GT League](https://members.iracing.com/membersite/member/LeagueView.do?league=14475){:target="_blank"} | |Welcome to HeXagon Nation GT League\. This is our own league with invites only\.  We race GT cars\. |
 |[KSSS](https://members.iracing.com/membersite/member/LeagueView.do?league=14480){:target="_blank"} | | |
 |[Luna Labs Casting Couch](https://members.iracing.com/membersite/member/LeagueView.do?league=14479){:target="_blank"} | |Bunch of idiots in racecars trying to avoid Ian |
 |[PRESTONPIXX X LUXE PERFORMANCE](https://members.iracing.com/membersite/member/LeagueView.do?league=14478){:target="_blank"} |[Discord](https://discord.gg/CQBuPMKr){:target="_blank"} |a perth sim racing league friday night racing |
 |[CRFS Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14487){:target="_blank"} | | |
 |[Kips Crew](https://members.iracing.com/membersite/member/LeagueView.do?league=14485){:target="_blank"} | |The Ugly Nasty Boys Racing League |
-|[LeadFoot ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14486){:target="_blank"} | | |
+|[LeadFoot ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14486){:target="_blank"} |[Discord](https://discord.gg/leadfoot){:target="_blank"} |Welcome to LeadFoot Motorsports, a competitive and professionally organized iRacing league featuring the Arca Menards Series\. If you’re seeking a balance of high\-level competition and an enjoyable racing environment, you’ve come to the right place\. Races are held every Thursday evening, with practice sessions running from 7:00 PM to 8:00 PM Eastern Time\. Qualifying begins promptly at 8:00 PM, followed immediately by the race\. If you’re interested in joining or would like more information, please connect with us on Discord: discord\.gg/leadfoot |
 |[Pukekohe Car Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14481){:target="_blank"} | | |
 |[Raceline League](https://members.iracing.com/membersite/member/LeagueView.do?league=14482){:target="_blank"} | |road races |
 |[Revenant Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14484){:target="_blank"} |[Discord](https://discord.gg/theoldgodzilla){:target="_blank"} | |
 |[Titan Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14483){:target="_blank"} |[Discord](https://discord.gg/CKupFPGR5s){:target="_blank"} |GR86 Cup Car and way more to come |
+|[Motionless Mulisha](https://members.iracing.com/membersite/member/LeagueView.do?league=14488){:target="_blank"} |[Discord](https://discord.gg/6P4EEeD6JV){:target="_blank"} |New league starting up with some fun races and everything, come hang and join the party |
+|[OMSSA](https://members.iracing.com/membersite/member/LeagueView.do?league=14490){:target="_blank"} | |Online Motor Sport South Australia |
+|[Sports Car Association \| Production Car Endurance Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14489){:target="_blank"} |[Discord](https://discord.gg/rgCJjeyNv5){:target="_blank"} |Production car enduro from SCA |
+|[Sunset Bend Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14492){:target="_blank"} |[Discord](https://discord.gg/TaKUtEu8QS){:target="_blank"} |A Sim Racing Team/ that may host session or races |
 

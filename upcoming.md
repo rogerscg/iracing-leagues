@@ -5,6 +5,14 @@
 
 # NASCAR
 
+### ARCA
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|-------------------------|-----|------------------------|-----------------------|-----------------------|------------------------|
+|[Victory Lane Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=13173){:target="_blank"} |Legacy Gen 6 Cup Season 1 |Fixed |Homestead Miami Speedway |Sat, May 09 09:25PM EDT |Sun, May 10 02:25AM BST |Sun, May 10 11:25AM AEST |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
@@ -32,15 +40,6 @@
 |[802 Elite NextGen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14311){:target="_blank"} |Season 1 | |Dover Motor Speedway |Thu, May 14 07:30PM EDT |Fri, May 15 12:30AM BST |Fri, May 15 09:30AM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Season 11 NicholsOilPros\.com Cup Series |Fixed |Texas Motor Speedway |Sun, May 10 08:15PM EDT |Mon, May 11 01:15AM BST |Mon, May 11 10:15AM AEST |
 
-### NASCAR O'Reilly Series
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Racing Pro Cup Series Season 55 |Both |Talladega Superspeedway |Fri, May 08 08:00PM EDT |Sat, May 09 01:00AM BST |Sat, May 09 10:00AM AEST |
-|[Oval Cup Series 25/26 by pwa\-simracing\.de](https://members.iracing.com/membersite/member/LeagueView.do?league=8914){:target="_blank"} |PWA Summer Oval Series 26 |Fixed |EchoPark Speedway (Atlanta) |Fri, May 08 12:00PM EDT |Fri, May 08 05:00PM BST |Sat, May 09 02:00AM AEST |
-
 ### NASCAR Truck Series
 
 [Back to Top](#)  
@@ -49,8 +48,8 @@
 |---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Racing Trucks Season 55 |Both |Daytona International Speedway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
 |[NGS Truck Series Chase For The Sprint Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14167){:target="_blank"} |NGS Truck Series Chase for The Sprint Cup |Fixed |Iowa Speedway |Sat, May 09 07:00PM EDT |Sun, May 10 12:00AM BST |Sun, May 10 09:00AM AEST |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |OFSR 2026 Trucks Open Setup Season 2 | |Phoenix Raceway |Sat, May 16 07:00PM EDT |Sun, May 17 12:00AM BST |Sun, May 17 09:00AM AEST |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Truck Speedway Series 2 | |Daytona International Speedway |Fri, May 15 07:00PM EDT |Sat, May 16 12:00AM BST |Sat, May 16 09:00AM AEST |
-|[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |SKF Thunder Truck Series Season 2 | |Watkins Glen International |Fri, May 08 12:00PM EDT |Fri, May 08 05:00PM BST |Sat, May 09 02:00AM AEST |
 |[OP Racing Unlimited Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2811){:target="_blank"} |Season 19 |Fixed |Daytona International Speedway |Sat, May 09 08:00PM EDT |Sun, May 10 01:00AM BST |Sun, May 10 10:00AM AEST |
 
 ### Whelen Modified
@@ -161,11 +160,28 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|----------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|[Blackout Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11326){:target="_blank"} |GR Cup Champship | |Okayama International Circuit |Sat, May 16 03:00PM EDT |Sat, May 16 08:00PM BST |Sun, May 17 05:00AM AEST |
 |[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S5 |Fixed |Virginia International Raceway |Fri, May 15 07:30PM EDT |Sat, May 16 12:30AM BST |Sat, May 16 09:30AM AEST |
 |[L\.A\. Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11004){:target="_blank"} |Copa GR |Both |Oran Park Raceway |Mon, May 11 08:15PM EDT |Tue, May 12 01:15AM BST |Tue, May 12 10:15AM AEST |
 
 # Dirt Oval
+
+### Dirt 358 Modified
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|------------|-----|------------------------|-----------------------|-----------------------|------------------------|
+|[West Coast Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14390){:target="_blank"} |358 Season 1 |Fixed |Lanier National Speedway |Tue, May 12 11:00PM EDT |Wed, May 13 04:00AM BST |Wed, May 13 01:00PM AEST |
+
+### Dirt Late Model - Pro
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|------------|-----|------------------------|-----------------------|-----------------------|------------------------|
+|[West Coast Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14390){:target="_blank"} |PLM Season 1 |Fixed |Lanier National Speedway |Tue, May 12 09:55PM EDT |Wed, May 13 02:55AM BST |Wed, May 13 11:55AM AEST |
 
 ### Dirt Midget
 
@@ -203,22 +219,15 @@
 |-------------------------------------------------------------------------------------------------------------|--------------|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[GT3 Euro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14458){:target="_blank"} |PreSeason test | |Autodromo Nazionale Monza |Tue, May 12 02:30PM EDT |Tue, May 12 07:30PM BST |Wed, May 13 04:30AM AEST |
 
-### GT3 Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
-|[Braunschweig eSports Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14261){:target="_blank"} |Season \#1 presented by Rischmüller & Seide |Both |Motorsport Arena Oschersleben |Fri, May 08 01:50PM EDT |Fri, May 08 06:50PM BST |Sat, May 09 03:50AM AEST |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-----------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|------------------------------------------------------------------------------------------------------------------------|------------------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
 |[WEC 2K](https://members.iracing.com/membersite/member/LeagueView.do?league=14146){:target="_blank"} |2026a |Open |Silverstone Circuit |Sat, May 09 03:00PM EDT |Sat, May 09 08:00PM BST |Sun, May 10 05:00AM AEST |
-|[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP season 11 ddq |Fixed |Lanier National Speedway |Fri, May 08 07:30PM EDT |Sat, May 09 12:30AM BST |Sat, May 09 09:30AM AEST |
+|[Campeonato Raccoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11906){:target="_blank"} |Eventos Especiales | |Suzuka International Racing Course |Sat, May 16 11:00AM EDT |Sat, May 16 04:00PM BST |Sun, May 17 01:00AM AEST |
 |[SOAGs Go Learning](https://members.iracing.com/membersite/member/LeagueView.do?league=13000){:target="_blank"} |Season 4 | |Virginia International Raceway |Tue, May 12 01:55PM EDT |Tue, May 12 06:55PM BST |Wed, May 13 03:55AM AEST |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |FSROC Season \#19 |Both |Summit Point Raceway |Wed, May 13 06:00PM EDT |Wed, May 13 11:00PM BST |Thu, May 14 08:00AM AEST |
+|[SOAGs Go Faster](https://members.iracing.com/membersite/member/LeagueView.do?league=13319){:target="_blank"} |Season 3 | |Silverstone Circuit |Fri, May 15 01:55PM EDT |Fri, May 15 06:55PM BST |Sat, May 16 03:55AM AEST |
 

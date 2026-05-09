@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------|-----------------|-------|----|-----|-----------------------|-----------------------|-----------------------|------------------------|
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |BMW M2 Racing Cup |16 |2014 |Open |Adelaide Street Circuit |Mon, May 11 12:00PM EDT |Mon, May 11 05:00PM BST |Tue, May 12 02:00AM AEST |
+|---------------------------------------------------------------------------------------------------|-----------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |BMW M2 Racing Cup |16 |2014 |Open |Circuit de Spa-Francorchamps |Mon, May 11 12:00PM EDT |Mon, May 11 05:00PM BST |Tue, May 12 02:00AM AEST |
 
 ### Hosted All Cars Class
 
