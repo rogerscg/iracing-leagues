@@ -30,10 +30,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|--------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|--------------------|-----------------------|-----------------------|------------------------|
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |03 Friday Night Lites \(March 2026 Season\) |23 |3366 | | | | | |
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |04\. Sunday Night Lites \(April 2026 Season\) |23 |3501 | | | | | |
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |05\. Sunday Night Lites \(May 2026 Season\) |14 |3969 | |Lånkebanen (Hell RX) |Sun, May 10 08:45PM EDT |Mon, May 11 01:45AM BST |Mon, May 11 10:45AM AEST |
-|[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |RallyCross Championship of Ukraine 2026 |13 |1573 |Both |Wild West Motorsports Park |Sat, May 09 02:00PM EDT |Sat, May 09 07:00PM BST |Sun, May 10 04:00AM AEST |
+|[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |RallyCross Championship of Ukraine 2026 |14 |1564 |Both | | | | |
 |[LSR British Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13371){:target="_blank"} |Spring 26 \- Rallycross |11 |1930 |Open | | | | |
 
