@@ -8,12 +8,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-------------|--------|------|------|
+|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[Motorsport UK Cross Car Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13847){:target="_blank"} |2026 |21 |2778 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Cross Car \- 2026 \(Sat\) |15 |2470 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/Cross Car \- 2026 |14 |2742 |Fixed | | | | |
+|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |CMSC Esports Syren RCX Crosscar Cup |14 |None | |Winton Motor Raceway |Fri, May 15 02:30AM EDT |Fri, May 15 07:30AM BST |Fri, May 15 04:30PM AEST |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Cross Cars S2 |12 |1479 |Fixed | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |FIA Cross Car |10 |1259 | | | | | |
+|[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |ABP Rallycross the Troops |10 |1167 | |[Legacy] Phoenix Raceway - 2008 |Mon, May 18 09:00PM EDT |Tue, May 19 02:00AM BST |Tue, May 19 11:00AM AEST |
 
 ### Pro 2 Lite Truck
 
@@ -35,6 +37,6 @@
 |[CORE \- Championship Off\-Road Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |32 |2749 |Fixed | | | | |
 |[RPES Grand Prix Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11711){:target="_blank"} |2026 RPES Metcalf Media Off\-Road Series |28 |3219 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Y2M x LIF/4x4 Rolling Thunder \- 2026 \(Sat\) |24 |2030 |Fixed | | | | |
-|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S2 '26 Trucks |14 |1417 |Fixed |Firebird Motorsports Park |Thu, May 14 09:30PM EDT |Fri, May 15 02:30AM BST |Fri, May 15 11:30AM AEST |
+|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S2 '26 Trucks |14 |1417 |Fixed |Firebird Motorsports Park |Thu, May 14 09:15PM EDT |Fri, May 15 02:15AM BST |Fri, May 15 11:15AM AEST |
 |[TDFW Lucas Oil Pro4 Off\-Road at Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10157){:target="_blank"} |TDFW Lucas Oil Off\-Road Pro4 |14 |1339 | | | | | |
 
