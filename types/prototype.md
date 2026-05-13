@@ -71,15 +71,15 @@
 |[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 2 \- SR8 |24 |2753 | |Suzuka International Racing Course |Wed, May 13 03:00PM EDT |Wed, May 13 08:00PM BST |Thu, May 14 05:00AM AEST |
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |EGT Canada \- AllStars Race |19 |1798 | | | | | |
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |17 |1739 | | | | | |
+|[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 2 |17 |1720 | |Watkins Glen International |Tue, May 19 09:50PM EDT |Wed, May 20 02:50AM BST |Wed, May 20 11:50AM AEST |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |RadARCl Season 4\.1 |15 |2258 |Fixed | | | | |
 |[ΩMEGA WOLVES SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13184){:target="_blank"} |Radical Series |14 |1961 | | | | | |
 |[Rental Kart Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=12081){:target="_blank"} |Radical SR8 Lime Rock Park Championship \- WED 730 |14 |1584 |Both | | | | |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |13 |1638 |Both | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |SR8 |13 |1363 | | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |Season 5 |13 |2096 |Fixed |Canadian Tire Motorsports Park |Sun, May 17 08:00PM EDT |Mon, May 18 01:00AM BST |Mon, May 18 10:00AM AEST |
-|[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 2 |13 |1776 | |Virginia International Raceway |Tue, May 12 09:50PM EDT |Wed, May 13 02:50AM BST |Wed, May 13 11:50AM AEST |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |SCR Season \#4 |12 |1092 |Both | | | | |
-|[Compétitions GOFiR](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |RAC |10 |2077 |Open | | | | |
+|[Compétitions GOFiR](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |RAC |10 |2077 |Open |Motorsport Arena Oschersleben |Wed, May 20 02:30PM EDT |Wed, May 20 07:30PM BST |Thu, May 21 04:30AM AEST |
 
 ### Spec Racer Ford
 
@@ -92,5 +92,4 @@
 |[Ray Esports vRunoffs](https://members.iracing.com/membersite/member/LeagueView.do?league=14079){:target="_blank"} |2026 S1Wk13 SRF Group |28 |3129 | | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 1B SRF |26 |2157 |Open | | | | |
 |[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |Monday Practice VRG VRL 2026 Season 1 |14 |1456 |Fixed | | | | |
-|[Roc Wyler Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=1546){:target="_blank"} |Short Track Thursday Nights |13 |1426 |Fixed | | | | |
 

@@ -14,7 +14,6 @@
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/Cross Car \- 2026 |14 |2742 |Fixed | | | | |
 |[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |CMSC Esports Syren RCX Crosscar Cup |14 |None | |Winton Motor Raceway |Fri, May 15 02:30AM EDT |Fri, May 15 07:30AM BST |Fri, May 15 04:30PM AEST |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Cross Cars S2 |12 |1479 |Fixed | | | | |
-|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |FIA Cross Car |10 |1259 | | | | | |
 |[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |ABP Rallycross the Troops |10 |1167 | |[Legacy] Phoenix Raceway - 2008 |Mon, May 18 09:00PM EDT |Tue, May 19 02:00AM BST |Tue, May 19 11:00AM AEST |
 
 ### Pro 2 Lite Truck
