@@ -36,7 +36,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|------------------------------------|-----------------------|-----------------------|------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |58 |4425 | |Road Atlanta |Wed, May 13 01:00PM EDT |Wed, May 13 06:00PM BST |Thu, May 14 03:00AM AEST |
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |58 |4487 | |Road Atlanta |Thu, May 14 01:00PM EDT |Thu, May 14 06:00PM BST |Fri, May 15 03:00AM AEST |
 |[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |36 |1596 | | | | | |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |32 |2970 |Open |Silverstone Circuit |Thu, May 14 02:15PM EDT |Thu, May 14 07:15PM BST |Fri, May 15 04:15AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |1994 |Open | | | | |
@@ -64,11 +64,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|----------------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[La Liga Soy Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13208){:target="_blank"} |2 \- Radical |35 |2305 | |Mount Panorama Circuit |Sun, May 17 12:30PM EDT |Sun, May 17 05:30PM BST |Mon, May 18 02:30AM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A DFL \- Radical SR8 |34 |2448 |Both | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season 8 |30 |2842 | |Autódromo José Carlos Pace |Mon, May 18 02:50PM EDT |Mon, May 18 07:50PM BST |Tue, May 19 04:50AM AEST |
-|[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 2 \- SR8 |24 |2753 | |Suzuka International Racing Course |Wed, May 13 03:00PM EDT |Wed, May 13 08:00PM BST |Thu, May 14 05:00AM AEST |
+|[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 2 \- SR8 |25 |2760 | |Motorsport Arena Oschersleben |Wed, May 20 03:00PM EDT |Wed, May 20 08:00PM BST |Thu, May 21 05:00AM AEST |
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |EGT Canada \- AllStars Race |19 |1798 | | | | | |
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |17 |1739 | | | | | |
 |[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 2 |17 |1720 | |Watkins Glen International |Tue, May 19 09:50PM EDT |Wed, May 20 02:50AM BST |Wed, May 20 11:50AM AEST |
@@ -90,6 +90,6 @@
 |[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S2 WW SRF |53 |3201 |Open |Barber Motorsports Park |Sun, May 17 02:40PM EDT |Sun, May 17 07:40PM BST |Mon, May 18 04:40AM AEST |
 |[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |2026 \- Season 1 \- VRG Spec Racer Ford Series |35 |1619 |Fixed | | | | |
 |[Ray Esports vRunoffs](https://members.iracing.com/membersite/member/LeagueView.do?league=14079){:target="_blank"} |2026 S1Wk13 SRF Group |28 |3129 | | | | | |
-|[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 1B SRF |26 |2157 |Open | | | | |
+|[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 1B SRF |27 |2236 |Open | | | | |
 |[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |Monday Practice VRG VRL 2026 Season 1 |14 |1456 |Fixed | | | | |
 

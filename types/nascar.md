@@ -12,21 +12,21 @@
 |[GLR Alexander PCs ARCA SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9310){:target="_blank"} |Alexander PCs Arca East S5 |99 |1815 | | | | | |
 |[GLR Alexander PCs ARCA SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9310){:target="_blank"} |Arca Playoffs S5 |93 |1871 | | | | | |
 |[HRL \| ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12088){:target="_blank"} |HRL ARCA Season 3 |93 |2201 |Fixed | | | | |
-|[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |ARCA Season 7 |88 |1837 |Both |Lanier National Speedway |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
+|[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |ARCA Season 7 |89 |1850 |Both |Talladega Superspeedway |Wed, May 20 07:30PM EDT |Thu, May 21 12:30AM BST |Thu, May 21 09:30AM AEST |
 |[Superstar ARCA East](https://members.iracing.com/membersite/member/LeagueView.do?league=11840){:target="_blank"} |Season 2 |84 |1563 | | | | | |
-|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL\-SAWR ARCA SEASON 3 |83 |1837 | |Pocono Raceway |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
+|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL\-SAWR ARCA SEASON 3 |83 |1835 | |Talladega Superspeedway |Wed, May 20 07:30PM EDT |Thu, May 21 12:30AM BST |Thu, May 21 09:30AM AEST |
 |[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Arca Season 7 |76 |1981 |Fixed | | | | |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Season 10 ARCA |75 |1894 |Fixed | | | | |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.22 NPS Rookie ARCA by Budman |74 |1959 |Fixed |Lucas Oil Indianapolis Raceway Park |Tue, May 19 09:00PM EDT |Wed, May 20 02:00AM BST |Wed, May 20 11:00AM AEST |
+|[WRIGHT Time ARCA series](https://members.iracing.com/membersite/member/LeagueView.do?league=13193){:target="_blank"} |T\. Elliot Arca season 2  |72 |1525 | |Texas Motor Speedway |Wed, May 20 08:00PM EDT |Thu, May 21 01:00AM BST |Thu, May 21 10:00AM AEST |
 |[FourWide MotorSports \(Friday Night League\)](https://members.iracing.com/membersite/member/LeagueView.do?league=8179){:target="_blank"} |FWM Arca Series |71 |1600 | | | | | |
-|[WRIGHT Time ARCA series](https://members.iracing.com/membersite/member/LeagueView.do?league=13193){:target="_blank"} |T\. Elliot Arca season 2  |71 |1518 | |Talladega Superspeedway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
+|[\#0 Clean Racing League Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12364){:target="_blank"} |CRL Arca Series Season 3 |62 |2178 |Fixed | | | | |
 |[Infinity Graphic Designs Dev Series \(ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3675){:target="_blank"} |2026A Infinity Graphic Designs Dev Series presented by PRL |61 |2183 |Fixed | | | | |
 |[HVRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12167){:target="_blank"} |Season 2 |60 |1312 | | | | | |
-|[\#0 Clean Racing League Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12364){:target="_blank"} |CRL Arca Series Season 3 |60 |2176 |Fixed |Kansas Speedway |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
 |[GEC League DEV](https://members.iracing.com/membersite/member/LeagueView.do?league=9501){:target="_blank"} |GEC Development Series Season 8 |60 |1975 |Fixed | | | | |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |ARCA Winter 2026 |59 |1657 |Both | | | | |
 |[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2026 OBRL ARCA \- Season 1 |59 |1921 |Fixed | | | | |
-|[Untitled Friend League](https://members.iracing.com/membersite/member/LeagueView.do?league=6068){:target="_blank"} |Season 11 |58 |3692 | |Kansas Speedway |Wed, May 13 07:15PM EDT |Thu, May 14 12:15AM BST |Thu, May 14 09:15AM AEST |
+|[Untitled Friend League](https://members.iracing.com/membersite/member/LeagueView.do?league=6068){:target="_blank"} |Season 11 |58 |3702 | | | | | |
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |ARCA Season 2 |58 |1649 |Fixed | | | | |
 |[iCar Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11103){:target="_blank"} |iCar Pro Series |55 |2976 |Fixed | | | | |
 |[Weeknight Warriors Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13284){:target="_blank"} |WWSS \- Season 1 |53 |1791 |Fixed | | | | |
@@ -39,24 +39,24 @@
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Friday Night Clash \- S1 |48 |2078 |Fixed |Chicagoland Speedway |Fri, May 15 08:00PM EDT |Sat, May 16 01:00AM BST |Sat, May 16 10:00AM AEST |
 |[ARCA Menards Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13793){:target="_blank"} |2026 ARCA Menards Series |48 |1482 | |Five Flags Speedway |Tue, May 19 05:30PM EDT |Tue, May 19 10:30PM BST |Wed, May 20 07:30AM AEST |
 |[VARC National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3842){:target="_blank"} |National Series VII |48 |2351 | | | | | |
-|[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |East Coast Web Printers 2026 ARCA Series 1 |47 |2248 |Fixed |Nashville Fairgrounds Speedway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
+|[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |East Coast Web Printers 2026 ARCA Series 1 |47 |2248 |Fixed |Nashville Fairgrounds Speedway |Thu, May 14 07:30PM EDT |Fri, May 15 12:30AM BST |Fri, May 15 09:30AM AEST |
+|[NASRA \(2\) \- Pultz Poppers ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8949){:target="_blank"} |ARCA Season One |47 |2209 | | | | | |
+|[Golden Racing Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=13778){:target="_blank"} |Asphalt 2 |47 |1574 |Open | | | | |
 |[SCSRA The Glade Spring Co\. ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5876){:target="_blank"} |SCSRA Glade Spring Co ARCA Series Season \#12 |46 |2018 | | | | | |
 |[SuperStar ARCA Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11475){:target="_blank"} |Season 3 |45 |2202 |Fixed | | | | |
-|[NASRA \(2\) \- Pultz Poppers ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8949){:target="_blank"} |ARCA Season One |45 |2218 | |Iowa Speedway |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
 |[Bolt Racing League: Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9408){:target="_blank"} |Grand National Series Season \#1 \(Arca\) |44 |1590 |Fixed | | | | |
 |[Valued Alliance Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14114){:target="_blank"} |VAR ARCA |44 |1778 | |Mobility Resort Motegi |Tue, May 19 07:30PM EDT |Wed, May 20 12:30AM BST |Wed, May 20 09:30AM AEST |
 |[Northwest Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2381){:target="_blank"} |2026 NWAS \- Spring Fixed |43 |2198 | | | | | |
-|[Golden Racing Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=13778){:target="_blank"} |Asphalt 2 |43 |1603 |Open |Langley Speedway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
 |[Premium Stock Car Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9385){:target="_blank"} |Season 7 |42 |1977 | |Dover Motor Speedway |Sat, May 16 08:00PM EDT |Sun, May 17 01:00AM BST |Sun, May 17 10:00AM AEST |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Arca Series Season 1 |42 |2180 | | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |ARCA 2026 Season 1 |40 |1484 | | | | | |
-|[Solstice Racing League \- Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |Solstice Cup Series Season 4 |40 |2566 |Fixed | | | | |
+|[Solstice Racing League \- Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3730){:target="_blank"} |Solstice Cup Series Season 4 |40 |2592 |Fixed | | | | |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |01 \- Monday Night Spring Series |40 |1640 |Fixed |Phoenix Raceway |Mon, May 18 08:00PM EDT |Tue, May 19 01:00AM BST |Tue, May 19 10:00AM AEST |
+|[American Appalachian E\-Sports ARCA Rookie Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14420){:target="_blank"} |AAES ARCA Rookie Series |40 |1289 | | | | | |
 |[Twisted Chassis GOAT Racing Diecast SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8421){:target="_blank"} |Season 6 \- ARCA |39 |1879 | |Pocono Raceway |Sun, May 17 07:25PM EDT |Mon, May 18 12:25AM BST |Mon, May 18 09:25AM AEST |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |FTR ARCA Presented by: BC Gaming14 |39 |1590 |Fixed | | | | |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |ARCA Spring 2026 |38 |1728 |Both |Pocono Raceway |Tue, May 19 09:00PM EDT |Wed, May 20 02:00AM BST |Wed, May 20 11:00AM AEST |
 |[Leave The Pack iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5801){:target="_blank"} |LTP Grand National Series |36 |3691 | | | | | |
-|[American Appalachian E\-Sports ARCA Rookie Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14420){:target="_blank"} |AAES ARCA Rookie Series |36 |1288 | |Phoenix Raceway |Wed, May 13 06:00PM EDT |Wed, May 13 11:00PM BST |Thu, May 14 08:00AM AEST |
 |[Rookie Class Racing Arca](https://members.iracing.com/membersite/member/LeagueView.do?league=13079){:target="_blank"} |Season 4 Arca |35 |1768 | |Indianapolis Motor Speedway |Fri, May 15 07:00PM EDT |Sat, May 16 12:00AM BST |Sat, May 16 09:00AM AEST |
 |[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |BJU Saturday ARCA Series |33 |1630 |Fixed | | | | |
 |[VRL \| Vanquish Series \| ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=9042){:target="_blank"} |VVS S4 Official Races \(6FEB26\-1MAY26\) |33 |1884 | | | | | |
@@ -65,17 +65,17 @@
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |West Coast Swing ARCA No Snow Series |32 |1193 |Both |The Milwaukee Mile |Sat, May 16 04:00PM EDT |Sat, May 16 09:00PM BST |Sun, May 17 06:00AM AEST |
 |[Balls To The Wall Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14028){:target="_blank"} |BTTWR Season 1 |32 |1187 |Fixed |Kansas Speedway |Sun, May 17 08:00PM EDT |Mon, May 18 01:00AM BST |Mon, May 18 10:00AM AEST |
 |[SimStock Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12662){:target="_blank"} |SSRL Season 2 |31 |1912 |Fixed |Kansas Speedway |Tue, May 19 08:00PM EDT |Wed, May 20 01:00AM BST |Wed, May 20 10:00AM AEST |
+|[Pretend Racing Online: Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3858){:target="_blank"} |Showdown 2026A |31 |2236 |Fixed | | | | |
 |[2026A OSCA EZ Motorsports Lites Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7006){:target="_blank"} |2026A OSCA EZ Motorsports Lites |31 |2940 |Fixed | | | | |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Arca Series Season 2 |31 |2160 | |Michigan International Speedway |Tue, May 19 07:00PM EDT |Wed, May 20 12:00AM BST |Wed, May 20 09:00AM AEST |
 |[Automobile Racing Hacks of America](https://members.iracing.com/membersite/member/LeagueView.do?league=13602){:target="_blank"} |S1 \- ARCA League |30 |2043 |Fixed |Langley Speedway |Thu, May 14 07:30PM EDT |Fri, May 15 12:30AM BST |Fri, May 15 09:30AM AEST |
-|[Pretend Racing Online: Showdown Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3858){:target="_blank"} |Showdown 2026A |30 |2222 |Fixed |Myrtle Beach Speedway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
 |[DDIRL ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13978){:target="_blank"} |ARCA 2026 SPRING |30 |1929 | |The Milwaukee Mile |Mon, May 18 07:00PM EDT |Tue, May 19 12:00AM BST |Tue, May 19 09:00AM AEST |
 |[Freedom Racing ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7643){:target="_blank"} |Freedom Racing Arca Season 7 |30 |1765 | | | | | |
 |[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} |ARCA Season 1 |30 |1673 |Fixed |[Legacy] Kentucky Speedway - 2011 |Mon, May 18 08:30PM EDT |Tue, May 19 01:30AM BST |Tue, May 19 10:30AM AEST |
 |[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |ARCA Season 1 |30 |1896 |Both |Pocono Raceway |Thu, May 14 08:30PM EDT |Fri, May 15 01:30AM BST |Fri, May 15 10:30AM AEST |
 |[Sunday Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=13730){:target="_blank"} |Season 1 |29 |1958 | |Watkins Glen International |Sun, May 17 09:00AM EDT |Sun, May 17 02:00PM BST |Sun, May 17 11:00PM AEST |
 |[NOMA ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=10267){:target="_blank"} |2026 season 1 |29 |1799 | |EchoPark Speedway (Atlanta) |Thu, May 14 09:00PM EDT |Fri, May 15 02:00AM BST |Fri, May 15 11:00AM AEST |
-|[DES Evolution](https://members.iracing.com/membersite/member/LeagueView.do?league=12965){:target="_blank"} |ARCA Season 3 |29 |1594 | |Texas Motor Speedway |Wed, May 13 06:40PM EDT |Wed, May 13 11:40PM BST |Thu, May 14 08:40AM AEST |
+|[DES Evolution](https://members.iracing.com/membersite/member/LeagueView.do?league=12965){:target="_blank"} |ARCA Season 3 |29 |1577 | |North Wilkesboro Speedway |Wed, May 20 06:40PM EDT |Wed, May 20 11:40PM BST |Thu, May 21 08:40AM AEST |
 |[Chopp'n It Up \- Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9752){:target="_blank"} |VBR ARCA SEASON 1 |28 |2217 | | | | | |
 |[Association for Simulated Stock Car Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6106){:target="_blank"} |ASSCAR 2026 Season 14 \- ARCA |28 |2484 |Fixed | | | | |
 |[VRL \| Vanquish Series \| ARCA](https://members.iracing.com/membersite/member/LeagueView.do?league=9042){:target="_blank"} |VVS S5 Official Races \(8MAY26\-31JUL26\) |27 |1805 | | | | | |
@@ -121,7 +121,7 @@
 |[NORA Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11573){:target="_blank"} |Weekly Qualifying |90 |2947 | | | | | |
 |[NASCVR Masters of the Draft](https://members.iracing.com/membersite/member/LeagueView.do?league=3163){:target="_blank"} |MOTD Season 2 |84 |2165 |Fixed | | | | |
 |[NR NIGHT IN AMERICA](https://members.iracing.com/membersite/member/LeagueView.do?league=9427){:target="_blank"} |JULY SUPERSPEEDWAY TOURNAMENT |82 |3145 | | | | | |
-|[i\-FRN](https://members.iracing.com/membersite/member/LeagueView.do?league=2658){:target="_blank"} |Cup Series |81 |3246 | |Watkins Glen International |Wed, May 13 01:30PM EDT |Wed, May 13 06:30PM BST |Thu, May 14 03:30AM AEST |
+|[i\-FRN](https://members.iracing.com/membersite/member/LeagueView.do?league=2658){:target="_blank"} |Cup Series |81 |3248 | | | | | |
 |[Great Lakes Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Qualifying Sessions |73 |None |Fixed | | | | |
 |[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Saturday Draft Series 2 |73 |1759 | |EchoPark Speedway (Atlanta) |Sat, May 16 07:30PM EDT |Sun, May 17 12:30AM BST |Sun, May 17 09:30AM AEST |
 |[PGR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=8087){:target="_blank"} |PGR Lite Series Season 4 |73 |2663 |Fixed | | | | |
@@ -129,18 +129,18 @@
 |[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Saturday Winter Draft Series |66 |1708 | | | | | |
 |[NASRA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6013){:target="_blank"} |2025 |65 |2420 | | | | | |
 |[HTL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7577){:target="_blank"} |Season 7 |64 |2648 | | | | | |
-|[JOHNCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12378){:target="_blank"} |ARCA Season 1 |64 |2685 |Fixed |Charlotte Motor Speedway  |Wed, May 20 08:30PM EDT |Thu, May 21 01:30AM BST |Thu, May 21 10:30AM AEST |
+|[JOHNCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12378){:target="_blank"} |ARCA Season 1 |64 |2685 |Fixed |Charlotte Motor Speedway  |Wed, May 20 08:00PM EDT |Thu, May 21 01:00AM BST |Thu, May 21 10:00AM AEST |
+|[NASCAR Downtown Auto Sales Truck Series pres\. by Pest Busters](https://members.iracing.com/membersite/member/LeagueView.do?league=11884){:target="_blank"} |2026 NASCAR Downtown Auto Sales Truck Series presented by Pest Busters |61 |2127 |Fixed |Five Flags Speedway |Wed, May 20 07:00PM EDT |Thu, May 21 12:00AM BST |Thu, May 21 09:00AM AEST |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL Trucks Season X |61 |1686 |Both | | | | |
-|[NASCAR Downtown Auto Sales Truck Series pres\. by Pest Busters](https://members.iracing.com/membersite/member/LeagueView.do?league=11884){:target="_blank"} |2026 NASCAR Downtown Auto Sales Truck Series presented by Pest Busters |60 |2110 |Fixed |Irwindale Speedway |Wed, May 13 07:40PM EDT |Thu, May 14 12:40AM BST |Thu, May 14 09:40AM AEST |
 |[OP Racing Grand National Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3421){:target="_blank"} |Season 16 |54 |2197 | | | | | |
 |[KCERacing](https://members.iracing.com/membersite/member/LeagueView.do?league=7607){:target="_blank"} |KCERacing Xfinity Series \- Season 8A |54 |2079 |Fixed |Dover Motor Speedway |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
 |[RGR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9913){:target="_blank"} |Alive Church O'Reilly Series 2026 Season 1 |52 |2292 |Fixed |Dover Motor Speedway |Sat, May 16 08:00PM EDT |Sun, May 17 01:00AM BST |Sun, May 17 10:00AM AEST |
 |[American Stock Car Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11819){:target="_blank"} |ASCRL SS Season 1 |52 |1740 | | | | | |
 |[OP Racing Unlimited Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2811){:target="_blank"} |Season 19 |51 |1990 |Fixed | | | | |
-|[GEARS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9223){:target="_blank"} |2026 GEARS Cup Series |50 |2472 |Fixed | | | | |
+|[GEARS Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9223){:target="_blank"} |2026 GEARS Cup Series |50 |2472 |Fixed |Charlotte Motor Speedway  |Mon, May 18 07:00PM EDT |Tue, May 19 12:00AM BST |Tue, May 19 09:00AM AEST |
 |[AREA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7386){:target="_blank"} |Cup Series Season 8 |50 |5069 | | | | | |
 |[CFM Speedway Monkeys Presented by The Ricky Bobby Foundation](https://members.iracing.com/membersite/member/LeagueView.do?league=11400){:target="_blank"} |CFM Speedway Monkeys Spring Shootout |47 |2138 |Fixed | | | | |
-|[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |2026 Road To Cup |46 |2054 |Fixed | | | | |
+|[F\.U\.N RACING \(Friendly Unwind Nights\)](https://members.iracing.com/membersite/member/LeagueView.do?league=6892){:target="_blank"} |2026 Road To Cup |46 |2054 |Fixed |Charlotte Motor Speedway  |Thu, May 21 07:30PM EDT |Fri, May 22 12:30AM BST |Fri, May 22 09:30AM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Season 10 Gen 4 Series |44 |1932 |Fixed | | | | |
 |[Super Speedway Specialists](https://members.iracing.com/membersite/member/LeagueView.do?league=13496){:target="_blank"} |Super speedway specialists Season 1 2026 |42 |2082 |Fixed |Daytona International Speedway |Sun, May 17 05:00AM EDT |Sun, May 17 10:00AM BST |Sun, May 17 07:00PM AEST |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026 ANUAL PEMAP NASCAR |42 |2942 |Both |Bristol Motor Speedway |Wed, May 20 06:00PM EDT |Wed, May 20 11:00PM BST |Thu, May 21 08:00AM AEST |
@@ -148,15 +148,16 @@
 |[BRB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10308){:target="_blank"} |Season 6 |41 |2394 | | | | | |
 |[Pit Road Speed Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12735){:target="_blank"} |Next Gen |38 |1414 |Fixed | | | | |
 |[///OGRL Thunder Trucks \(Invite Only\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12136){:target="_blank"} |Thunder Trucks Season X |38 |1934 | | | | | |
-|[Red Light Racing Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3776){:target="_blank"} |Season 15 |36 |2280 |Fixed |Oxford Plains Speedway |Wed, May 13 06:00PM EDT |Wed, May 13 11:00PM BST |Thu, May 14 08:00AM AEST |
+|[Red Light Racing Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3776){:target="_blank"} |Season 15 |36 |2280 |Fixed |Oxford Plains Speedway |Thu, May 14 07:00PM EDT |Fri, May 15 12:00AM BST |Fri, May 15 09:00AM AEST |
 |[NORA Retro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11573){:target="_blank"} |All\-Star Races |35 |2925 | | | | | |
 |[ProSim Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=11114){:target="_blank"} |Open Arca Season 3 |35 |2331 | | | | | |
+|[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=7692){:target="_blank"} |Season 12 |35 |2414 | |Talladega Superspeedway |Thu, May 14 07:30PM EDT |Fri, May 15 12:30AM BST |Fri, May 15 09:30AM AEST |
 |[DSA Next Gen Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12813){:target="_blank"} |Shootout Season 1 |33 |1353 |Fixed | | | | |
+|[Freedom Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14316){:target="_blank"} |Freedom Truck Series Season 1 |33 |1429 | | | | | |
 |[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |ARCA 2026 Season 1 |32 |1814 |Both | | | | |
 |[Draft Bastards](https://members.iracing.com/membersite/member/LeagueView.do?league=13673){:target="_blank"} |Draft Bastards \- Season 1 |31 |1722 |Fixed | | | | |
 |[Freedom Racing Gen 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9859){:target="_blank"} |Freedom Racing Cup Series Season 1 |31 |1982 |Fixed | | | | |
 |[Underdog Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=4715){:target="_blank"} |O'Reilly Full Length Season 2026 |29 |2127 |Fixed | | | | |
-|[Freedom Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14316){:target="_blank"} |Freedom Truck Series Season 1 |29 |1432 | | | | | |
 |[Apex O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13464){:target="_blank"} |Apex iRacing Truck League \- Season 1 |28 |1460 |Fixed | | | | |
 |[NASCAR LATAM](https://members.iracing.com/membersite/member/LeagueView.do?league=1112){:target="_blank"} |ARCA Menards y NASCAR Cup Series |28 |2625 |Fixed | | | | |
 |[Red Light Racing Scrambler Series](https://members.iracing.com/membersite/member/LeagueView.do?league=985){:target="_blank"} |Season 21 |27 |2603 |Fixed | | | | |
@@ -186,7 +187,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[Diet Dr Pepper Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9823){:target="_blank"} |DDPS Season 3 \- Gen 4 |82 |3040 | |[Legacy] Phoenix Raceway - 2008 |Fri, May 15 08:58PM EDT |Sat, May 16 01:58AM BST |Sat, May 16 10:58AM AEST |
-|[OSRL Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6789){:target="_blank"} |Season 11 \(Spring\-Summer 2026\) |72 |3287 |Fixed | | | | |
+|[OSRL Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6789){:target="_blank"} |Season 11 \(Spring\-Summer 2026\) |72 |3287 |Fixed |Darlington Raceway |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
 |[Bat Flip Podcast 2003 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3719){:target="_blank"} |Three Wide TV 2003 Cup Series |68 |3043 | | | | | |
 |[All\-American Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6911){:target="_blank"} |Season 11 \(2026A\) |68 |3397 |Fixed |EchoPark Speedway (Atlanta) |Thu, May 14 07:30PM EDT |Fri, May 15 12:30AM BST |Fri, May 15 09:30AM AEST |
 |[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2026 OBRL Gen4 Cup \- Season 1 |66 |1987 |Fixed | | | | |
@@ -198,16 +199,16 @@
 |[Grid Finder Nostalgia Series; Presented by PRA](https://members.iracing.com/membersite/member/LeagueView.do?league=13588){:target="_blank"} |Grid Finder Nostalgia Series Season 2 |42 |2134 | |[Legacy] Phoenix Raceway - 2008 |Mon, May 18 08:00PM EDT |Tue, May 19 01:00AM BST |Tue, May 19 10:00AM AEST |
 |[Affinity Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8601){:target="_blank"} |Season Seven |38 |2383 |Fixed | | | | |
 |[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} |Wyo Outlaw Custom Diecast Season 3 |37 |1728 |Fixed |Charlotte Motor Speedway  |Wed, May 20 08:30PM EDT |Thu, May 21 01:30AM BST |Thu, May 21 10:30AM AEST |
-|[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=7692){:target="_blank"} |Season 12 |35 |2414 | |Talladega Superspeedway |Thu, May 14 07:30PM EDT |Fri, May 15 12:30AM BST |Fri, May 15 09:30AM AEST |
 |[Racers Elite \- Thursday Gen 4 Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9514){:target="_blank"} |Racers Elite \- Gen 4 Fixed Series \(Season 1\) |34 |1836 |Fixed |Texas Motor Speedway |Thu, May 14 05:35PM EDT |Thu, May 14 10:35PM BST |Fri, May 15 07:35AM AEST |
 |[Racers Elite \- Single Events \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10780){:target="_blank"} |Alabama 250 \(April 5th, 2026\) |34 |2005 | | | | | |
 |[KCERacing](https://members.iracing.com/membersite/member/LeagueView.do?league=7607){:target="_blank"} |KCERacing Gen4 Series \- Season 8A |33 |2045 |Fixed |Pocono Raceway |Tue, May 19 08:00PM EDT |Wed, May 20 01:00AM BST |Wed, May 20 10:00AM AEST |
 |[NEXXTCAR Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8985){:target="_blank"} |NEXXTCAR Gen 4 Cup Series |32 |2519 | | | | | |
 |[GLR Gen 4 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13726){:target="_blank"} |GLR Gen 4 Season 1 |31 |1846 | | | | | |
-|[CORT \#Yes2Motorsport Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2365){:target="_blank"} |2026A CORT \#Yes2Motorsport Oval Masters Series |31 |2918 | | | | | |
+|[CORT \#Yes2Motorsport Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2365){:target="_blank"} |2026A CORT \#Yes2Motorsport Oval Masters Series |31 |2950 | | | | | |
 |[Bat Flip Podcast 2003 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3719){:target="_blank"} |2026 Season |31 |2934 | | | | | |
 |[GSG Gen 4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=8429){:target="_blank"} |GSG Racing Gen 4 Season 1 |30 |1366 | | | | | |
 |[NASCAR NEXTEL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13958){:target="_blank"} |2005 NASCAR Nextel Cup Series |27 |3549 | | | | | |
+|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Gen 4 Series Season 1 |22 |2368 | |Charlotte Motor Speedway  |Wed, May 20 07:00PM EDT |Thu, May 21 12:00AM BST |Thu, May 21 09:00AM AEST |
 |[VRX Mulcahy 99](https://members.iracing.com/membersite/member/LeagueView.do?league=9892){:target="_blank"} |Tribute Race |20 |1521 |Fixed | | | | |
 
 ### NASCAR 2022 NextGen
@@ -218,15 +219,15 @@
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-------|----|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Season 10 Cup Series |86 |2072 |Fixed | | | | |
 |[802 Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5979){:target="_blank"} |802 Winston Cup Series Season 6 |81 |2246 | | | | | |
-|[Slim Chickens NASCAR Cup Series powered by Tier1 Setup Shop](https://members.iracing.com/membersite/member/LeagueView.do?league=13495){:target="_blank"} |2026 Slim Chickens NASCAR Cup Series powered by Tier1SetupShop\.com |77 |2279 | |Sonoma Raceway |Fri, May 15 05:30PM EDT |Fri, May 15 10:30PM BST |Sat, May 16 07:30AM AEST |
-|[CTC Wanted Goons Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6525){:target="_blank"} |Cup Season 11 \(2026a\) |73 |3096 |Fixed |Dover Motor Speedway |Wed, May 13 07:50PM EDT |Thu, May 14 12:50AM BST |Thu, May 14 09:50AM AEST |
-|[iSNF: NextGen Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5875){:target="_blank"} |CUP SEASON 11 |71 |2056 |Fixed | | | | |
+|[Slim Chickens NASCAR Cup Series powered by Tier1 Setup Shop](https://members.iracing.com/membersite/member/LeagueView.do?league=13495){:target="_blank"} |2026 Slim Chickens NASCAR Cup Series powered by Tier1SetupShop\.com |77 |2279 | |Sonoma Raceway |Fri, May 15 07:10PM EDT |Sat, May 16 12:10AM BST |Sat, May 16 09:10AM AEST |
+|[CTC Wanted Goons Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6525){:target="_blank"} |Cup Season 11 \(2026a\) |73 |3106 |Fixed | | | | |
+|[iSNF: NextGen Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5875){:target="_blank"} |CUP SEASON 11 |71 |2056 |Fixed |Dover Motor Speedway |Sat, May 16 04:30PM EDT |Sat, May 16 09:30PM BST |Sun, May 17 06:30AM AEST |
 |[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL DEPgraphics Next Gen Season 4 |70 |1807 | |Indianapolis Motor Speedway |Sun, May 17 07:30PM EDT |Mon, May 18 12:30AM BST |Mon, May 18 09:30AM AEST |
 |[SSRL Masters Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6894){:target="_blank"} |2026 Masters Series |69 |3021 |Open |Dover Motor Speedway |Sun, May 17 07:00PM EDT |Mon, May 18 12:00AM BST |Mon, May 18 09:00AM AEST |
 |[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |2026 Qualifying |69 |4540 |Open | | | | |
 |[Full Length Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=10952){:target="_blank"} |2026 Full Length Cup Challenge |68 |4517 |Open | | | | |
 |[\#4 Wide Racing League \- JOIN THE DISCORD IN DESCRIPTION](https://members.iracing.com/membersite/member/LeagueView.do?league=4187){:target="_blank"} |TJ's Team Grand National Series Season 8 |67 |3385 |Fixed | | | | |
-|[Belly Up Sports Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3344){:target="_blank"} |2026A Belly Up Sports Cup Series |67 |3421 |Fixed |Kansas Speedway |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
+|[Belly Up Sports Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3344){:target="_blank"} |2026A Belly Up Sports Cup Series |67 |3418 |Fixed | | | | |
 |[HVRL Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11637){:target="_blank"} |HVRL Cup Series Season 2 |66 |2371 | | | | | |
 |[Grass Roots Racing \- Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12838){:target="_blank"} |2026 Regular Season |66 |2140 | | | | | |
 |[DV8 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12804){:target="_blank"} |DV8 Season 2 |66 |2537 | | | | | |
@@ -238,12 +239,12 @@
 |[HMS TV Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9389){:target="_blank"} |HMSTV Cup Season 1 |59 |2394 |Fixed |Charlotte Motor Speedway  |Fri, May 15 07:00PM EDT |Sat, May 16 12:00AM BST |Sat, May 16 09:00AM AEST |
 |[UMA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10759){:target="_blank"} |2026 |59 |2687 | |Dover Motor Speedway |Fri, May 15 07:00PM EDT |Sat, May 16 12:00AM BST |Sat, May 16 09:00AM AEST |
 |[iNASCAR\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=13583){:target="_blank"} |2026 Cup Series |58 |2721 |Fixed |Dover Motor Speedway |Tue, May 19 02:30PM EDT |Tue, May 19 07:30PM BST |Wed, May 20 04:30AM AEST |
-|[iRacing Warriors Motorsportz Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8223){:target="_blank"} |IWM Cup Series Season 7 |56 |3334 | |Texas Motor Speedway |Wed, May 13 08:30PM EDT |Thu, May 14 01:30AM BST |Thu, May 14 10:30AM AEST |
+|[iRacing Warriors Motorsportz Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8223){:target="_blank"} |IWM Cup Series Season 7 |56 |3329 | | | | | |
 |[\=SIM500\= GELU\-KC LIMITED CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=2379){:target="_blank"} |RSAW LIMITED CUP SERIES |56 |1932 | |Charlotte Motor Speedway  |Sun, May 17 08:00PM EDT |Mon, May 18 01:00AM BST |Mon, May 18 10:00AM AEST |
 |[Wheel 2 Wheel Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12216){:target="_blank"} |W2W Cup Series Season 2 |55 |2515 | |Rockingham Speedway |Sun, May 17 07:00PM EDT |Mon, May 18 12:00AM BST |Mon, May 18 09:00AM AEST |
 |[SPEED](https://members.iracing.com/membersite/member/LeagueView.do?league=8999){:target="_blank"} |2026A |55 |2330 | | | | | |
 |[iiS \- international iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11236){:target="_blank"} |iiS \- 2026 |54 |3277 |Both | | | | |
-|[CHOPPIN IT UP NEXTGEN SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8663){:target="_blank"} |Chopp’n It Up Cup Series – Season 6 |53 |2262 | | | | | |
+|[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Cup Season 7 |53 |2332 |Fixed | | | | |
 |[Prestige Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12865){:target="_blank"} |Season 1 Cup |53 |2663 |Fixed |Martinsville Speedway |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
 |[SAAC Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9612){:target="_blank"} |Season 5 |53 |3597 |Fixed |Las Vegas Motor Speedway |Thu, May 14 08:15PM EDT |Fri, May 15 01:15AM BST |Fri, May 15 10:15AM AEST |
 |[NSRLA Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12408){:target="_blank"} |2026 SoarDogg Cup Series |53 |2148 | |Charlotte Motor Speedway  |Tue, May 19 07:00PM EDT |Wed, May 20 12:00AM BST |Wed, May 20 09:00AM AEST |
@@ -254,27 +255,26 @@
 |[ICON Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9783){:target="_blank"} |2026 ICON Cup Series |51 |2858 |Fixed |EchoPark Speedway (Atlanta) |Sun, May 17 06:30PM EDT |Sun, May 17 11:30PM BST |Mon, May 18 08:30AM AEST |
 |[CHOPPIN IT UP NEXTGEN SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8663){:target="_blank"} |Chopp’n It Up Cup Series – Season 7 |50 |2401 | |Nashville Superspeedway |Fri, May 15 07:30PM EDT |Sat, May 16 12:30AM BST |Sat, May 16 09:30AM AEST |
 |[UIS \- PSS Cup series](https://members.iracing.com/membersite/member/LeagueView.do?league=10781){:target="_blank"} |Precision Setups Cup Series S7 |50 |2788 |Fixed | | | | |
-|[O\.B\. Builders Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12500){:target="_blank"} |Season 2 |49 |4006 | | | | | |
-|[Sim Motorsport New Zealand](https://members.iracing.com/membersite/member/LeagueView.do?league=7651){:target="_blank"} |ENSCAR Cup Series 2026 |49 |2127 | |Watkins Glen International |Wed, May 13 03:15AM EDT |Wed, May 13 08:15AM BST |Wed, May 13 05:15PM AEST |
+|[O\.B\. Builders Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12500){:target="_blank"} |Season 2 |49 |4006 | |Charlotte Motor Speedway  |Thu, May 21 08:00PM EDT |Fri, May 22 01:00AM BST |Fri, May 22 10:00AM AEST |
+|[Sim Motorsport New Zealand](https://members.iracing.com/membersite/member/LeagueView.do?league=7651){:target="_blank"} |ENSCAR Cup Series 2026 |49 |2130 | | | | | |
 |[Smoky Mtn Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10796){:target="_blank"} |2026 Cup Series |48 |2747 | |Darlington Raceway |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
 |[Door to Door Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11746){:target="_blank"} |2026 Cup Series |48 |2407 | | | | | |
-|[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Cup Season 7 |48 |2335 |Fixed | | | | |
-|[Race Wrap Guy Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7609){:target="_blank"} |EOL 2026A |48 |2260 | | | | | |
+|[Race Wrap Guy Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7609){:target="_blank"} |EOL 2026A |48 |2253 | | | | | |
 |[RFRL Elite/Pro NextGen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11397){:target="_blank"} |Elite NextGen Season 3 |48 |1764 |Fixed |Charlotte Motor Speedway  |Thu, May 14 08:30PM EDT |Fri, May 15 01:30AM BST |Fri, May 15 10:30AM AEST |
 |[Full Send Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13389){:target="_blank"} |Full Send Season 1 |47 |2296 | | | | | |
+|[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2026 OBRL Gen7 Series \- Season 1 |47 |2106 |Fixed | | | | |
 |[FastTrack Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5859){:target="_blank"} |2026 Cup Season |47 |3140 |Open | | | | |
 |[Integrity Racing League \(OCTANE Series\)](https://members.iracing.com/membersite/member/LeagueView.do?league=140){:target="_blank"} |Integrity Next Gen 2026 |47 |3101 |Fixed | | | | |
-|[Five Star Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12511){:target="_blank"} |Five star 2026 |47 |4194 | | | | | |
-|[Full Throttle Performance Sim Racing League \- New Era](https://members.iracing.com/membersite/member/LeagueView.do?league=8695){:target="_blank"} |2026 Season |46 |2260 |Open |Watkins Glen International |Wed, May 13 07:00PM EDT |Thu, May 14 12:00AM BST |Thu, May 14 09:00AM AEST |
-|[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2026 OBRL Gen7 Series \- Season 1 |46 |2103 |Fixed |Las Vegas Motor Speedway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
+|[Five Star Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12511){:target="_blank"} |Five star 2026 |47 |4191 | | | | | |
+|[Full Throttle Performance Sim Racing League \- New Era](https://members.iracing.com/membersite/member/LeagueView.do?league=8695){:target="_blank"} |2026 Season |46 |2265 |Open |Dover Motor Speedway |Wed, May 20 07:00PM EDT |Thu, May 21 12:00AM BST |Thu, May 21 09:00AM AEST |
 |[First Gear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10663){:target="_blank"} |Thursday Night Thunder \- S2 |45 |1947 |Fixed |Auto Club Speedway |Thu, May 14 07:30PM EDT |Fri, May 15 12:30AM BST |Fri, May 15 09:30AM AEST |
-|[Moonshiners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5681){:target="_blank"} |2026 CUP SERIES |45 |3590 |Both |Watkins Glen International |Wed, May 13 07:00PM EDT |Thu, May 14 12:00AM BST |Thu, May 14 09:00AM AEST |
+|[Moonshiners Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5681){:target="_blank"} |2026 CUP SERIES |45 |3598 |Both |Charlotte Motor Speedway  |Wed, May 20 07:00PM EDT |Thu, May 21 12:00AM BST |Thu, May 21 09:00AM AEST |
 |[iNRS Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8467){:target="_blank"} |2026 iNRS Cup Series |45 |2929 |Fixed |Dover Motor Speedway |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
 |[FMA](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} |FMA FFTV Next Gen Series |45 |1692 |Fixed |Chicago Street Course |Sun, May 17 08:00PM EDT |Mon, May 18 01:00AM BST |Mon, May 18 10:00AM AEST |
-|[X\-Factor Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12532){:target="_blank"} |Zero Torque Racing League Season 2\!\!\! |44 |1777 | | | | | |
 |[FTSR Victory Fuel Cup Series \(Mondays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2485){:target="_blank"} |2026\-A |44 |2975 |Open |Dover Motor Speedway |Mon, May 18 08:00PM EDT |Tue, May 19 01:00AM BST |Tue, May 19 10:00AM AEST |
 |[GLR CRUISIN CLASSICS/NASTY'S SPORTS BAR NEXT GEN SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=6838){:target="_blank"} |Cruisin Classic Next Gen Season 9 |43 |2406 | | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |26 Cup Season |43 |1713 | |Dover Motor Speedway |Tue, May 19 08:00PM EDT |Wed, May 20 01:00AM BST |Wed, May 20 10:00AM AEST |
+|[SCSRA Dev's Sports Cards Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5598){:target="_blank"} |SCSRA Next Gen Season \#12 |43 |2033 | | | | | |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Season 11 NicholsOilPros\.com Cup Series |43 |2100 |Fixed |Dover Motor Speedway |Sun, May 17 08:15PM EDT |Mon, May 18 01:15AM BST |Mon, May 18 10:15AM AEST |
 |[DLBTV Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12168){:target="_blank"} |DLBTV Racing Racing League 2025\-2026 Season |42 |2041 |Fixed | | | | |
 |[FRC Joeguy's Collectibles Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13864){:target="_blank"} |Season 14 \- FRC Joeguy's Collectibles Cup Series |42 |2166 |Fixed |Nashville Superspeedway |Fri, May 15 07:00PM EDT |Sat, May 16 12:00AM BST |Sat, May 16 09:00AM AEST |
@@ -282,20 +282,19 @@
 |[ZeroX Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11680){:target="_blank"} |Season 3 |42 |2186 | |Martinsville Speedway |Tue, May 19 07:45PM EDT |Wed, May 20 12:45AM BST |Wed, May 20 09:45AM AEST |
 |[Racers Elite \- Sunday Premier Next Gen Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13239){:target="_blank"} |Racers Elite \- Premier Fixed Next Gen Series \(Season 1\) |41 |1913 | |Charlotte Motor Speedway  |Sun, May 17 08:50AM EDT |Sun, May 17 01:50PM BST |Sun, May 17 10:50PM AEST |
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Racing Pro Cup Series Season 54 |41 |2217 |Both | | | | |
+|[North Star Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9031){:target="_blank"} |Cup 2026 |41 |2296 |Open | | | | |
 |[Sim Racing Unleashed Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10592){:target="_blank"} |Dave Bush Cup Series Season 18 |41 |1990 | |Rockingham Speedway |Sun, May 17 07:30PM EDT |Mon, May 18 12:30AM BST |Mon, May 18 09:30AM AEST |
 |[Bonfire Racing League \- BPC](https://members.iracing.com/membersite/member/LeagueView.do?league=4960){:target="_blank"} |Season 15 |41 |2024 |Fixed |Dover Motor Speedway |Sun, May 17 09:00AM EDT |Sun, May 17 02:00PM BST |Sun, May 17 11:00PM AEST |
 |[SPRL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11646){:target="_blank"} |SPRL Season 2 |41 |2325 |Fixed | | | | |
-|[SCSRA Dev's Sports Cards Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5598){:target="_blank"} |SCSRA Next Gen Season \#12 |41 |2020 | |Talladega Superspeedway |Wed, May 13 08:30PM EDT |Thu, May 14 01:30AM BST |Thu, May 14 10:30AM AEST |
 |[OMSRL](https://members.iracing.com/membersite/member/LeagueView.do?league=6978){:target="_blank"} |2026 CUP Series |40 |2734 |Fixed | | | | |
-|[North Star Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9031){:target="_blank"} |Cup 2026 |40 |2255 |Open |Watkins Glen International |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
 |[Magic Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13775){:target="_blank"} |MRL Season 1 |40 |4527 | | | | | |
 |[VC Cup Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=2982){:target="_blank"} |2026 |40 |3396 | | | | | |
 |[North Star Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9031){:target="_blank"} |2026 |40 |2270 |Open | | | | |
 |[SnB iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8028){:target="_blank"} |Season 6 Cup Series |40 |2870 | |Charlotte Motor Speedway  |Mon, May 18 07:30PM EDT |Tue, May 19 12:30AM BST |Tue, May 19 09:30AM AEST |
-|[Turn4 Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11587){:target="_blank"} |2026 Cup |40 |2030 | |Watkins Glen International |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
+|[Turn4 Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11587){:target="_blank"} |2026 Cup |40 |2066 | |Dover Motor Speedway |Wed, May 20 07:30PM EDT |Thu, May 21 12:30AM BST |Thu, May 21 09:30AM AEST |
 |[Hypershift Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10055){:target="_blank"} |IMB Racewear Cup Series Broadcast by Peacemaker Gaming |39 |2564 |Fixed |Sonoma Raceway |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
 |[Quick Finishers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9598){:target="_blank"} |2026 QFRL Cup Series |38 |1978 |Fixed | | | | |
-|[Tobacco Road Next Gen Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6118){:target="_blank"} |Season 2 |38 |2085 | | | | | |
+|[Tobacco Road Next Gen Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6118){:target="_blank"} |Season 2 |38 |2086 | |Indianapolis Motor Speedway |Wed, May 20 07:00PM EDT |Thu, May 21 12:00AM BST |Thu, May 21 09:00AM AEST |
 |[Bump And Run Cup Setup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7545){:target="_blank"} |Season 8 |38 |2252 | |Dover Motor Speedway |Tue, May 19 07:00PM EDT |Wed, May 20 12:00AM BST |Wed, May 20 09:00AM AEST |
 |[Racing Revolution](https://members.iracing.com/membersite/member/LeagueView.do?league=8409){:target="_blank"} |Chapman Environmental Services Cup Series Season 6 \(2026\) |38 |2831 |Fixed | | | | |
 |[CB Designs iRacing Shootout Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13853){:target="_blank"} |CB Designs Shootout Series S1 \(CUP\) |38 |2550 |Fixed | | | | |
@@ -304,7 +303,7 @@
 |[ZeroX Next Gen Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11680){:target="_blank"} |ZeroX Strategy Series |37 |2267 | | | | | |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Cup Series Season 10 |37 |1387 | | | | | |
 |[GEC Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9504){:target="_blank"} |GEC Season 8 |37 |2430 |Fixed | | | | |
-|[Side Draft Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12722){:target="_blank"} |Side Draft Racing League Season 2 |37 |2202 | | | | | |
+|[Side Draft Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12722){:target="_blank"} |Side Draft Racing League Season 2 |37 |2202 | |Daytona International Speedway |Mon, May 18 08:00PM EDT |Tue, May 19 01:00AM BST |Tue, May 19 10:00AM AEST |
 |[BTDY Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4333){:target="_blank"} |C \- BTDY Racing Series S6 |37 |2538 |Fixed | | | | |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Next Gen Series Season 1 |37 |2180 | | | | | |
 |[Oval Cup Series 25/26 by pwa\-simracing\.de](https://members.iracing.com/membersite/member/LeagueView.do?league=8914){:target="_blank"} |PWA Oval Series 25/26 |36 |2769 |Fixed | | | | |
@@ -319,7 +318,7 @@
 |[All American Racing Network](https://members.iracing.com/membersite/member/LeagueView.do?league=13662){:target="_blank"} |2026 AARN Cup Series |33 |1605 |Fixed |Charlotte Motor Speedway  |Sun, May 17 09:00AM EDT |Sun, May 17 02:00PM BST |Sun, May 17 11:00PM AEST |
 |[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |Tuesday Gary Ridgeway  Series 2026 |33 |1936 |Fixed |Dover Motor Speedway |Tue, May 19 08:45PM EDT |Wed, May 20 01:45AM BST |Wed, May 20 10:45AM AEST |
 |[Universal Motorsports Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13487){:target="_blank"} |UMT DAYTONA 500 |33 |2265 | | | | | |
-|[Flemdogs Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13237){:target="_blank"} |Wise Owl Wash Cup series  |32 |2186 | | | | | |
+|[Flemdogs Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13237){:target="_blank"} |Wise Owl Wash Cup series  |32 |2186 | |Daytona International Speedway |Mon, May 18 07:30PM EDT |Tue, May 19 12:30AM BST |Tue, May 19 09:30AM AEST |
 |[GFi Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13230){:target="_blank"} |Cup series 2026 |31 |2572 | |Dover Motor Speedway |Mon, May 18 07:30PM EDT |Tue, May 19 12:30AM BST |Tue, May 19 09:30AM AEST |
 |[Quantum Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12284){:target="_blank"} |QCS Season 3 |31 |1680 |Fixed |Texas Motor Speedway |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
 |[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} |Redline Radio Next Gen Season 2 |30 |1565 |Fixed | | | | |
@@ -329,12 +328,12 @@
 |[The E\-Motorsports Network NASCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9491){:target="_blank"} |2026 EMSN NASCAR Series Presented By Valvoline Instant Oil Change |29 |2598 |Fixed | | | | |
 |[Doghouse Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9994){:target="_blank"} |2026 Season 1 |28 |2379 |Open |Talladega Superspeedway |Thu, May 14 07:00PM EDT |Fri, May 15 12:00AM BST |Fri, May 15 09:00AM AEST |
 |[Challenger Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7117){:target="_blank"} |2026 Challenger Cup Series |28 |2226 |Both | | | | |
-|[Tasman Racing League \- Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12933){:target="_blank"} |Season 3 |28 |1374 | | | | | |
+|[Tasman Racing League \- Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12933){:target="_blank"} |Season 3 |28 |1388 | | | | | |
 |[Knapp Daddy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13084){:target="_blank"} |Season 2 |27 |2108 |Fixed | | | | |
 |[Wednesday Night Dash on StadiumScene\.TV](https://members.iracing.com/membersite/member/LeagueView.do?league=8100){:target="_blank"} |2026 Cup Series |27 |1672 |Fixed | | | | |
+|[Friggy Diggy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9758){:target="_blank"} |FDRL Cup Season 3 |26 |1850 |Fixed | | | | |
 |[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |Dubby NASCAR Cup Series |26 |1977 |Both |Indianapolis Motor Speedway |Fri, May 15 08:30PM EDT |Sat, May 16 01:30AM BST |Sat, May 16 10:30AM AEST |
 |[GT Meister Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10095){:target="_blank"} |GTMR NASCAR Cup Series Season 1 |26 |1699 |Both |Watkins Glen International |Mon, May 18 08:00PM EDT |Tue, May 19 01:00AM BST |Tue, May 19 10:00AM AEST |
-|[Friggy Diggy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9758){:target="_blank"} |FDRL Cup Season 3 |24 |1856 |Fixed |Watkins Glen International |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
 |[NASCAR iRacing Japan Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12160){:target="_blank"} |Season2\(2026\) |22 |3044 |Fixed | | | | |
 |[ECRL Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13488){:target="_blank"} |ECRL Advanced Technical Solutions Cup Series Season 1 |22 |1659 | |Daytona International Speedway |Sun, May 17 03:00PM EDT |Sun, May 17 08:00PM BST |Mon, May 18 05:00AM AEST |
 |[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |NASCAR Cup Series \- TEST |22 |1805 |Both | | | | |
@@ -357,9 +356,9 @@
 |[NARAS Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10093){:target="_blank"} |NARAS Season 3 |49 |2179 | |Talladega Superspeedway |Sat, May 16 07:00PM EDT |Sun, May 17 12:00AM BST |Sun, May 17 09:00AM AEST |
 |[STS Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12487){:target="_blank"} |STS Gen 6 |48 |1923 |Fixed | | | | |
 |[Full Throttle Beards Gen6 Series powered by EFRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7933){:target="_blank"} |Full Throttle Beards Gen 6 Series |45 |2348 | |Dover Motor Speedway |Mon, May 18 08:00PM EDT |Tue, May 19 01:00AM BST |Tue, May 19 10:00AM AEST |
-|[Average Joes Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12575){:target="_blank"} |Season 3 \- Gen 6 Nascar |44 |1929 |Fixed | | | | |
+|[Average Joes Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12575){:target="_blank"} |Season 3 \- Gen 6 Nascar |44 |1929 |Fixed |Chicagoland Speedway |Thu, May 21 07:00PM EDT |Fri, May 22 12:00AM BST |Fri, May 22 09:00AM AEST |
 |[High Side Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13397){:target="_blank"} |Season 1 Gen 6 |43 |1820 |Fixed |EchoPark Speedway (Atlanta) |Sun, February 22 07:00PM EST |Mon, February 23 12:00AM GMT |Mon, February 23 11:00AM AEDT |
-|[OutCast Motorsports Gen6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12714){:target="_blank"} |OutCast Gen6 Season |43 |1833 |Fixed |[Legacy] Kentucky Speedway - 2011 |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
+|[OutCast Motorsports Gen6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12714){:target="_blank"} |OutCast Gen6 Season |43 |1833 |Fixed |[Legacy] Kentucky Speedway - 2011 |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
 |[Downforce Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3111){:target="_blank"} |DRS Tuesday Cup Season 19 |42 |1960 | | | | | |
 |[LSR Nascar iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4288){:target="_blank"} |Gen 6 Series |40 |1898 |Fixed |Texas Motor Speedway |Mon, May 18 08:30PM EDT |Tue, May 19 01:30AM BST |Tue, May 19 10:30AM AEST |
 |[American Appalachian E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=14042){:target="_blank"} |J&K Lift Service Gen6 |40 |1680 | | | | | |
@@ -369,11 +368,11 @@
 |[191 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10786){:target="_blank"} |Season 4 Gen 6 |37 |1630 | | | | | |
 |[Full Throttle Beards Gen6 Series powered by EFRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7933){:target="_blank"} |Gen6 Practices |36 |2024 | | | | | |
 |[2026A OSCA Rio Grande Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3258){:target="_blank"} |2026A OSCA Rio Grande Cup Series |36 |2654 |Fixed | | | | |
+|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Cup Series Season 11 |36 |1620 | |Chicagoland Speedway |Wed, May 20 07:30PM EDT |Thu, May 21 12:30AM BST |Thu, May 21 09:30AM AEST |
 |[191 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=10786){:target="_blank"} |Gen6 Season 5 |34 |1579 | | | | | |
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Cup Series Season 11 |33 |1589 | |Daytona International Speedway |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
 |[High Side Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13397){:target="_blank"} |Season 2 Gen 6 |32 |1823 |Fixed |Pocono Raceway |Sun, May 17 07:00PM EDT |Mon, May 18 12:00AM BST |Mon, May 18 09:00AM AEST |
 |[Area 51 Sunday SS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5044){:target="_blank"} |Area 51 2026 Season One |27 |2437 | | | | | |
-|[JPs Pissin Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13090){:target="_blank"} |Jp Winston Cup Season 1 |25 |1961 | | | | | |
+|[JPs Pissin Cup Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=13090){:target="_blank"} |Jp Winston Cup Season 1 |25 |1967 | | | | | |
 |[High Side Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13397){:target="_blank"} |Clash season 2 |25 |1785 |Fixed | | | | |
 |[Monday Mayhem](https://members.iracing.com/membersite/member/LeagueView.do?league=5627){:target="_blank"} |Season 4 \-  Gen 6 |13 |2400 |Fixed | | | | |
 |[Half Decent Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12215){:target="_blank"} |Gen 6 |11 |1648 |Fixed | | | | |
@@ -383,11 +382,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|-----------------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-------|----|-----|---------------------|-----------------------|-----------------------|------------------------|
 |[Danger Zone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11066){:target="_blank"} |DZRL 87 CUP CARS SEASON 3 |52 |1775 |Fixed | | | | |
 |[OP Racing TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13530){:target="_blank"} |OP Racing TnT Series \(87s\) Season 1 |46 |2648 |Fixed | | | | |
 |[OP Racing TNT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13530){:target="_blank"} |OP Racing TnT Series \(87s\) Season 2 |45 |2142 |Fixed | | | | |
-|[C12 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6758){:target="_blank"} |C12 1987 Cup Series |43 |2213 | |Talladega Superspeedway |Wed, May 13 08:30PM EDT |Thu, May 14 01:30AM BST |Thu, May 14 10:30AM AEST |
+|[C12 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=6758){:target="_blank"} |C12 1987 Cup Series |44 |2208 | | | | | |
 |[Road N' Plate Palm Rat Golf Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} |Season 8 |36 |2064 |Fixed | | | | |
 |[GSG 87 League](https://members.iracing.com/membersite/member/LeagueView.do?league=13888){:target="_blank"} |Nascar Winston Legends Series |25 |1588 | |Darlington Raceway |Sun, May 17 07:00PM EDT |Mon, May 18 12:00AM BST |Mon, May 18 09:00AM AEST |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |FTR 87 Legends |10 |1490 |Fixed |Martinsville Speedway |Tue, May 19 08:15PM EDT |Wed, May 20 01:15AM BST |Wed, May 20 10:15AM AEST |
@@ -401,9 +400,9 @@
 |[i\-FRN](https://members.iracing.com/membersite/member/LeagueView.do?league=2658){:target="_blank"} |Access Series |117 |2413 | | | | | |
 |[OP Racing Unlimited Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2811){:target="_blank"} |Season 18 |94 |2108 |Fixed | | | | |
 |[Australian NASCAR \- X Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9968){:target="_blank"} |Season 1 2026 |94 |3272 |Open |Dover Motor Speedway |Tue, May 19 04:00AM EDT |Tue, May 19 09:00AM BST |Tue, May 19 06:00PM AEST |
-|[Friday Night O'Reilly's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13616){:target="_blank"} |Season 1 |88 |2144 |Fixed | | | | |
+|[Friday Night O'Reilly's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13616){:target="_blank"} |Season 1 |88 |2144 |Fixed |Dover Motor Speedway |Fri, May 15 09:30PM EDT |Sat, May 16 02:30AM BST |Sat, May 16 11:30AM AEST |
 |[ASCA CLD Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13521){:target="_blank"} |ASCA CLD Cup Series S9 |84 |3640 |Fixed |Martinsville Speedway |Mon, May 18 08:00PM EDT |Tue, May 19 01:00AM BST |Tue, May 19 10:00AM AEST |
-|[NASCAR iRacing FedEx Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10597){:target="_blank"} |NASCAR iRacing FedEx Grand National Series Season 5 |84 |2800 |Fixed |Iowa Speedway - Oval - 2011 |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
+|[NASCAR iRacing FedEx Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10597){:target="_blank"} |NASCAR iRacing FedEx Grand National Series Season 5 |84 |2833 |Fixed | | | | |
 |[3 WIDE MOTORSPORTS OPEN SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13475){:target="_blank"} |Xfinity Season 1 |84 |1677 | |Chicagoland Speedway |Sun, May 17 08:00PM EDT |Mon, May 18 01:00AM BST |Mon, May 18 10:00AM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Season 10 O'Reilly Auto Parts Series |84 |1964 |Fixed | | | | |
 |[Nitro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5604){:target="_blank"} |Season 9 |77 |3838 | |Kansas Speedway |Sat, May 16 08:00PM EDT |Sun, May 17 01:00AM BST |Sun, May 17 10:00AM AEST |
@@ -415,19 +414,19 @@
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2026 X\-Series |68 |2076 |Fixed | | | | |
 |[NASCAR Caswell Glass Company Series powered by Tier1 Setup Shop](https://members.iracing.com/membersite/member/LeagueView.do?league=13493){:target="_blank"} |2026 NASCAR Caswell Glass Company Series powered by Tier1SetupShop\.com |67 |2392 | |Irwindale Speedway |Thu, May 14 07:10PM EDT |Fri, May 15 12:10AM BST |Fri, May 15 09:10AM AEST |
 |[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2026 Xfinity Season |65 |2399 |Fixed |Michigan International Speedway |Sun, May 17 09:15PM EDT |Mon, May 18 02:15AM BST |Mon, May 18 11:15AM AEST |
-|[Slide Jawb Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2894){:target="_blank"} |Season 16 |65 |3002 |Fixed | | | | |
+|[Slide Jawb Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2894){:target="_blank"} |Season 16 |65 |3002 |Fixed |Charlotte Motor Speedway  |Tue, May 19 08:00PM EDT |Wed, May 20 01:00AM BST |Wed, May 20 10:00AM AEST |
 |[Trinity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12796){:target="_blank"} |Xfinity |64 |3508 |Fixed | | | | |
 |[NASCAR O'Reilly Auto Parts Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7174){:target="_blank"} |2026 NASCAR O'Reilly Auto Parts Series |64 |2835 |Open |Dover Motor Speedway |Mon, May 18 07:45PM EDT |Tue, May 19 12:45AM BST |Tue, May 19 09:45AM AEST |
 |[Racecraft Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3562){:target="_blank"} |2026A Season |62 |3152 | | | | | |
-|[AMA Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9485){:target="_blank"} |2026 Season 3 Outland Custom Arms Grand National Series |62 |2065 | | | | | |
+|[AMA Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9485){:target="_blank"} |2026 Season 3 Outland Custom Arms Grand National Series |62 |2065 | |Dover Motor Speedway |Thu, May 14 07:30PM EDT |Fri, May 15 12:30AM BST |Fri, May 15 09:30AM AEST |
 |[HVRL Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12676){:target="_blank"} |HVRL Xfinity Series Season 1 |61 |2058 | | | | | |
 |[Saturday Night Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7102){:target="_blank"} |2026 SNT Season 6 |59 |3449 |Fixed | | | | |
 |[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |O'Reilly Series Season 8 |58 |1924 |Fixed |Dover Motor Speedway |Tue, May 19 08:30PM EDT |Wed, May 20 01:30AM BST |Wed, May 20 10:30AM AEST |
 |[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Xfinity Season 7 |57 |2545 |Fixed | | | | |
 |[Rise Through the Ranks Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11802){:target="_blank"} |Rise Through the Ranks Season 3 |57 |1981 | |Kansas Speedway |Sat, May 16 07:30PM EDT |Sun, May 17 12:30AM BST |Sun, May 17 09:30AM AEST |
 |[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2026 OBRL O'Reilly Series \- Season 1 |57 |2025 |Fixed |Charlotte Motor Speedway  |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
-|[iSNF: O'Reilly Auto Parts Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5113){:target="_blank"} |O'REILLY SERIES Season 11 |55 |1862 |Open | | | | |
-|[\=SIM500\= 2026 Transervice GN Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2195){:target="_blank"} |Transervice Logistics GN Series |55 |3228 |Fixed |Kansas Speedway |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
+|[\=SIM500\= 2026 Transervice GN Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2195){:target="_blank"} |Transervice Logistics GN Series |56 |3233 |Fixed |Talladega Superspeedway |Wed, May 20 07:30PM EDT |Thu, May 21 12:30AM BST |Thu, May 21 09:30AM AEST |
+|[iSNF: O'Reilly Auto Parts Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5113){:target="_blank"} |O'REILLY SERIES Season 11 |55 |1862 |Open |Dover Motor Speedway |Mon, May 18 12:30AM EDT |Mon, May 18 05:30AM BST |Mon, May 18 02:30PM AEST |
 |[DES iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10599){:target="_blank"} |Xfinity Season 5 |55 |1839 |Fixed |Pocono Raceway |Sun, May 17 05:30PM EDT |Sun, May 17 10:30PM BST |Mon, May 18 07:30AM AEST |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |2026 Midwest O'Buschfinitywide series |54 |1684 |Both | | | | |
 |[Great Lakes Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Premier Series \- Season 12 |53 |2922 |Fixed |Auto Club Speedway |Tue, May 19 07:00PM EDT |Wed, May 20 12:00AM BST |Wed, May 20 09:00AM AEST |
@@ -445,21 +444,21 @@
 |[American Sim Racer™️](https://members.iracing.com/membersite/member/LeagueView.do?league=13279){:target="_blank"} |Oak House Racing Xfinity Series S1 |45 |1569 |Fixed | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |2026 TVR\-Esports Xfinity Championship Chase 2 |44 |1414 |Fixed | | | | |
 |[Speedzone eSports Busch Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4926){:target="_blank"} |2026 Season 1 |44 |2390 |Fixed | | | | |
-|[SRL \- Wildhorse Busch Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5497){:target="_blank"} |Season 12 |43 |2796 |Fixed | | | | |
+|[SRL \- Wildhorse Busch Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5497){:target="_blank"} |Season 12 |43 |2796 |Fixed |EchoPark Speedway (Atlanta) |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR O'Reilly Series Season 1 |43 |1466 | |Daytona International Speedway |Mon, May 18 07:30PM EDT |Tue, May 19 12:30AM BST |Tue, May 19 09:30AM AEST |
 |[NSRLA National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13337){:target="_blank"} |2026 National Series |42 |2070 | | | | | |
 |[Top Tier Racing O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12002){:target="_blank"} |Season 5 |42 |1924 | |Dover Motor Speedway |Tue, May 19 08:00PM EDT |Wed, May 20 01:00AM BST |Wed, May 20 10:00AM AEST |
 |[PGR eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=8087){:target="_blank"} |PGR eSports Fund Events |42 |3055 |Fixed | | | | |
 |[Slingshot Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6346){:target="_blank"} |2026 Grand National |41 |2578 | | | | | |
 |[Rhythm Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=13877){:target="_blank"} |Season 1 |41 |1869 | | | | | |
+|[RFRL Elite O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13135){:target="_blank"} |RFRL Elite O'Reilly Season 3 |40 |1966 |Fixed |Charlotte Motor Speedway  |Wed, May 20 08:30PM EDT |Thu, May 21 01:30AM BST |Thu, May 21 10:30AM AEST |
 |[HRL \| Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14139){:target="_blank"} |HRL Cup Series Season 2 |40 |2853 |Fixed | | | | |
 |[Dutch's Dirty Dozen](https://members.iracing.com/membersite/member/LeagueView.do?league=13268){:target="_blank"} |DDD Feeder Series S1 |39 |1766 | | | | | |
 |[SPRL Grand National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14007){:target="_blank"} |SPRL Grand National Series Season 1 |39 |2486 |Fixed | | | | |
 |[Downforce Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3111){:target="_blank"} |DRS Thursday Xfinity Series Season 1 |38 |1909 | | | | | |
-|[RFRL Elite O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13135){:target="_blank"} |RFRL Elite O'Reilly Season 3 |38 |1960 |Fixed |Dover Motor Speedway |Wed, May 13 08:30PM EDT |Thu, May 14 01:30AM BST |Thu, May 14 10:30AM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Season 11 OAPNS |38 |1885 |Fixed |Rockingham Speedway |Thu, May 14 08:14PM EDT |Fri, May 15 01:14AM BST |Fri, May 15 10:14AM AEST |
+|[Racers Elite \- Wednesday Xfinity Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9180){:target="_blank"} |Racers Elite \- Xfinity Fixed Series \(Season 9\) |37 |1868 |Fixed | | | | |
 |[ARC NASCAR Premier Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8792){:target="_blank"} |2026 ARC NASCAR Premier Series |37 |2771 |Fixed |Martinsville Speedway |Wed, May 20 07:30PM EDT |Thu, May 21 12:30AM BST |Thu, May 21 09:30AM AEST |
-|[Racers Elite \- Wednesday Xfinity Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9180){:target="_blank"} |Racers Elite \- Xfinity Fixed Series \(Season 9\) |36 |1862 |Fixed |Michigan International Speedway |Wed, May 13 05:35PM EDT |Wed, May 13 10:35PM BST |Thu, May 14 07:35AM AEST |
 |[LARL O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13951){:target="_blank"} |LARL O'Reilly Season 1 |36 |2569 |Fixed |Charlotte Motor Speedway  |Mon, May 18 08:15PM EDT |Tue, May 19 01:15AM BST |Tue, May 19 10:15AM AEST |
 |[TDFW Lucas Oil Pro4 Off\-Road at Asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=10157){:target="_blank"} |SS Season 7 |35 |2140 | | | | | |
 |[Independence Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12801){:target="_blank"} |2026 ISRL Spring/Summer Shootout |35 |2550 | |Auto Club Speedway |Tue, May 19 07:00PM EDT |Wed, May 20 12:00AM BST |Wed, May 20 09:00AM AEST |
@@ -483,11 +482,11 @@
 |[Redemption iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12458){:target="_blank"} |Season 2 \(Xfinity\) |27 |2708 |Fixed |Portland International Raceway |Sat, May 16 08:00PM EDT |Sun, May 17 01:00AM BST |Sun, May 17 10:00AM AEST |
 |[Tasman Racing League \- Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12933){:target="_blank"} |Season 2 |26 |1367 | | | | | |
 |[ARCS AA Reloaded Xfinity Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11108){:target="_blank"} |AA Reloaded Xfinity Series 2026 |26 |2342 |Fixed | | | | |
+|[RPES Pavement Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11710){:target="_blank"} |2026 RPES Gaming Pavement Elite Series |26 |1799 | |Charlotte Motor Speedway  |Wed, May 20 08:00PM EDT |Thu, May 21 01:00AM BST |Thu, May 21 10:00AM AEST |
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Racing O'Reilly Season 55 |26 |2134 |Both |Dover Motor Speedway |Mon, May 18 08:00PM EDT |Tue, May 19 01:00AM BST |Tue, May 19 10:00AM AEST |
 |[Apex O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13464){:target="_blank"} |recruitment |26 |1630 |Fixed | | | | |
-|[RPES Pavement Elite Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11710){:target="_blank"} |2026 RPES Gaming Pavement Elite Series |25 |1779 | |Chicagoland Speedway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
+|[iNRS O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11675){:target="_blank"} |2026 iNRS O'Reilly Series |25 |2906 |Fixed | | | | |
 |[Knapp Daddy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13084){:target="_blank"} |KDRL Season 3 |25 |2399 |Fixed |Nashville Superspeedway |Mon, May 18 07:30PM EDT |Tue, May 19 12:30AM BST |Tue, May 19 09:30AM AEST |
-|[iNRS O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11675){:target="_blank"} |2026 iNRS O'Reilly Series |24 |2953 |Fixed |Dover Motor Speedway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |Brookwood Homes/RBC 2026 Championship season 5 |23 |1254 |Fixed |Bristol Motor Speedway |Fri, May 15 08:00PM EDT |Sat, May 16 01:00AM BST |Sat, May 16 10:00AM AEST |
 |[DSRL Pavement Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2614){:target="_blank"} |True Southern Florida Living Stock Car Series S28 |22 |2728 |Open |The Milwaukee Mile |Tue, May 19 08:00PM EDT |Wed, May 20 01:00AM BST |Wed, May 20 10:00AM AEST |
 |[Mid South Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11070){:target="_blank"} |WINTER 2026 XFINITY |21 |1395 |Fixed | | | | |
@@ -499,9 +498,9 @@
 |[NEXXTCAR O'Reilly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14027){:target="_blank"} |O'Reilly Series \- Season 10 |19 |2082 | | | | | |
 |[American Auto Racing Championship \(AARC\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} |Sportsman Series Season 5 |19 |2318 |Fixed | | | | |
 |[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |Saturday O'Reilly series |19 |1726 |Fixed |Kentucky Speedway |Sat, May 16 08:00PM EDT |Sun, May 17 01:00AM BST |Sun, May 17 10:00AM AEST |
-|[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |O'Reilly Auto Parts Series |19 |1934 |Both | | | | |
+|[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |O'Reilly Auto Parts Series |19 |1934 |Both |Kansas Speedway |Sat, May 16 09:30PM EDT |Sun, May 17 02:30AM BST |Sun, May 17 11:30AM AEST |
 |[Raubcar](https://members.iracing.com/membersite/member/LeagueView.do?league=11209){:target="_blank"} |Season 3 |16 |2856 | | | | | |
-|[ThrottleNation](https://members.iracing.com/membersite/member/LeagueView.do?league=14331){:target="_blank"} |ThrottleNation Season 1 |16 |1689 | |Rockingham Speedway |Wed, May 13 06:30PM EDT |Wed, May 13 11:30PM BST |Thu, May 14 08:30AM AEST |
+|[ThrottleNation](https://members.iracing.com/membersite/member/LeagueView.do?league=14331){:target="_blank"} |ThrottleNation Season 1 |16 |1717 | | | | | |
 |[Blue Collar Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13903){:target="_blank"} |BCR Preseaon |16 |1956 |Fixed | | | | |
 |[PitSkill\.io](https://members.iracing.com/membersite/member/LeagueView.do?league=6359){:target="_blank"} |NASCAR Tour Season 2/16 |14 |2232 |Both | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S2 NASCAR B SERIES |14 |2728 |Both |Dover Motor Speedway |Tue, May 19 06:00PM EDT |Tue, May 19 11:00PM BST |Wed, May 20 08:00AM AEST |
@@ -533,12 +532,12 @@
 |[SPEEDY TROPHIES TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9086){:target="_blank"} |SPEEDY TROPHIES SEASON 6 |67 |2383 | |Rockingham Speedway |Tue, May 19 07:30PM EDT |Wed, May 20 12:30AM BST |Wed, May 20 09:30AM AEST |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Fowler Time Designs Truck Series S4 |66 |1959 |Fixed | | | | |
 |[Bonfire Racing League \- BTT](https://members.iracing.com/membersite/member/LeagueView.do?league=6718){:target="_blank"} |Bonfire Racing League: Dennis Puckett BTT Series \- Season 13 |66 |1808 |Fixed | | | | |
-|[Affinity Racing NEXTUP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9675){:target="_blank"} |ARS NEXTUP Season 7 |66 |2272 | |Chicagoland Speedway |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
+|[Affinity Racing NEXTUP Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9675){:target="_blank"} |ARS NEXTUP Season 7 |66 |2304 | | | | | |
 |[AMA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8898){:target="_blank"} |2026 Season 4 AMA Archway Truck Series |65 |2138 |Fixed | | | | |
 |[Rookie Class Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12987){:target="_blank"} |Rookie Class Trucks |64 |1835 |Fixed |Auto Club Speedway |Sat, May 16 07:00PM EDT |Sun, May 17 12:00AM BST |Sun, May 17 09:00AM AEST |
 |[CTC Modern Vet Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12786){:target="_blank"} |Season 2 Trucks \(2026a\) |62 |2999 | |Charlotte Motor Speedway  |Mon, May 18 08:30PM EDT |Tue, May 19 01:30AM BST |Tue, May 19 10:30AM AEST |
 |[HVRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10954){:target="_blank"} |HVRL Truck Series Season 4 |61 |1643 |Fixed | | | | |
-|[Midnight Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12042){:target="_blank"} |Midnight Racing League Contender Series Season 4 |61 |2520 |Fixed | | | | |
+|[Midnight Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12042){:target="_blank"} |Midnight Racing League Contender Series Season 4 |61 |2520 |Fixed |Bristol Motor Speedway |Fri, May 15 11:00PM EDT |Sat, May 16 04:00AM BST |Sat, May 16 01:00PM AEST |
 |[NASRA \(4\) \- C\.O\.P\.S\. Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5302){:target="_blank"} |\(8\) Season Eleven |60 |2474 |Fixed | | | | |
 |[NSRLA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12960){:target="_blank"} |2026 NSRLA Truck Series \(Spring\) |60 |1906 | | | | | |
 |[Redemption iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12458){:target="_blank"} |Season 1 \(Trucks\) |59 |2468 |Fixed | | | | |
@@ -550,7 +549,7 @@
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |Battle Haulers Craftsman truck series |58 |1618 |Both |Richmond Raceway |Fri, May 15 08:00PM EDT |Sat, May 16 01:00AM BST |Sat, May 16 10:00AM AEST |
 |[FTR\= Four Season Auto Wash Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13169){:target="_blank"} |Four Seasons Auto Wash Truck Series |58 |1693 |Fixed | | | | |
 |[NASRA \(1\) \- DSR Electric Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8605){:target="_blank"} |\(6\) \- Season Six |57 |2219 |Fixed | | | | |
-|[FTSR SimRacingPoints\.com Truck Series \(Wednesdays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2486){:target="_blank"} |2026\-A |57 |2673 |Open |Dover Motor Speedway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
+|[FTSR SimRacingPoints\.com Truck Series \(Wednesdays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2486){:target="_blank"} |2026\-A |57 |2677 |Open | | | | |
 |[Blazing Pedals Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2531){:target="_blank"} |Blazing Pedals Season 11 |56 |2602 | |Rockingham Speedway |Sun, May 17 06:30PM EDT |Sun, May 17 11:30PM BST |Mon, May 18 08:30AM AEST |
 |[Frontier Truck Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12600){:target="_blank"} |Frontier Truck Tour Season 3 |56 |2510 | | | | | |
 |[S\.M\.A\.S\.H \- EAST COAST TRUCKS SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=13996){:target="_blank"} |East Coast: Truck Series |55 |2004 |Fixed |Kansas Speedway |Fri, May 15 08:00PM EDT |Sat, May 16 01:00AM BST |Sat, May 16 10:00AM AEST |
@@ -563,10 +562,10 @@
 |[Charity Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13478){:target="_blank"} |Season 1 \- 2026 |52 |1982 | | | | | |
 |[Wright Time Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=13917){:target="_blank"} |season 1 |52 |1664 | |Talladega Superspeedway |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
 |[\#0 Clean Racing League Monday Truck Fix Setup](https://members.iracing.com/membersite/member/LeagueView.do?league=4861){:target="_blank"} |CRL Truck Series Season 25 |51 |2527 |Fixed | | | | |
+|[LeadFoot Trucks Powered By AMP Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14112){:target="_blank"} |SEASON 1 |51 |1640 | | | | | |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |OGRL Trucks Season 11 |51 |1754 |Both |Daytona International Speedway |Thu, May 14 07:15PM EDT |Fri, May 15 12:15AM BST |Fri, May 15 09:15AM AEST |
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |7b \- Toy Wrap's Sunday's with the S\.tig \- NASCAR Points |50 |1600 |Fixed | | | | |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |7b \- Toy Wrap's Sunday's with the S\.tig \- NASCAR Points |50 |1600 |Fixed |Dover Motor Speedway |Sun, May 17 07:55PM EDT |Mon, May 18 12:55AM BST |Mon, May 18 09:55AM AEST |
 |[Raging Idiot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11176){:target="_blank"} |RIRL Tru\-Axe Truck Series |50 |2037 |Fixed |Darlington Raceway |Fri, May 15 08:00PM EDT |Sat, May 16 01:00AM BST |Sat, May 16 10:00AM AEST |
-|[LeadFoot Trucks Powered By AMP Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14112){:target="_blank"} |SEASON 1 |50 |1614 | |Charlotte Motor Speedway  |Wed, May 13 07:00PM EDT |Thu, May 14 12:00AM BST |Thu, May 14 09:00AM AEST |
 |[RFRL Elite Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13124){:target="_blank"} |RFRL Elite Truck Season 3 |50 |1942 |Fixed |Las Vegas Motor Speedway |Tue, May 19 08:30PM EDT |Wed, May 20 01:30AM BST |Wed, May 20 10:30AM AEST |
 |[Ohio Sim Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8013){:target="_blank"} |2026 Truck Series |49 |1942 |Fixed | | | | |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Truck Intermediate Series Season 1 |49 |2043 | | | | | |
@@ -577,37 +576,37 @@
 |[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} |Raiders Wasteland Truck Series Season 2 |48 |1701 |Fixed |Watkins Glen International |Sun, May 17 08:15PM EDT |Mon, May 18 01:15AM BST |Mon, May 18 10:15AM AEST |
 |[WSL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9800){:target="_blank"} |WSL Truck Series Season 4 \{2025\-2026\} |47 |1753 |Fixed |Talladega Superspeedway |Mon, May 18 07:00PM EDT |Tue, May 19 12:00AM BST |Tue, May 19 09:00AM AEST |
 |[iSNF: TRUCK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6603){:target="_blank"} |TRUCK SEASON 13 |47 |1924 |Fixed | | | | |
-|[American Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=18){:target="_blank"} |2026 Tweedcast Truck Series |46 |2389 |Fixed | | | | |
+|[American Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=18){:target="_blank"} |2026 Tweedcast Truck Series |46 |2389 |Fixed |Nashville Superspeedway |Tue, May 19 08:30PM EDT |Wed, May 20 01:30AM BST |Wed, May 20 10:30AM AEST |
 |[Outlap Motorsports Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12362){:target="_blank"} |Outlap Motorsports Truck Series 2026 Season 1 |46 |2550 |Fixed | | | | |
 |[Thriller Car Racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=13997){:target="_blank"} |WMI TRUCK SERIES 1 |46 |1881 | | | | | |
 |[AREA Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7388){:target="_blank"} |Season 8 |46 |3779 | | | | | |
 |[Northwest Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2381){:target="_blank"} |2026 NWTS \- Spring Fixed |46 |2234 | | | | | |
 |[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |Truck Season 7 |45 |2057 |Fixed | | | | |
 |[Venom Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6861){:target="_blank"} |Venom Truck Series Season 11 |45 |2311 |Fixed |World Wide Technology Raceway (Gateway) |Tue, May 19 07:30PM EDT |Wed, May 20 12:30AM BST |Wed, May 20 09:30AM AEST |
-|[FRC Advance of WCH Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12950){:target="_blank"} |FRC Advance of WCH Truck Series Season 3 |45 |2262 |Fixed |Charlotte Motor Speedway  |Wed, May 13 06:59PM EDT |Wed, May 13 11:59PM BST |Thu, May 14 08:59AM AEST |
+|[FRC Advance of WCH Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12950){:target="_blank"} |FRC Advance of WCH Truck Series Season 3 |45 |2275 |Fixed |Nashville Superspeedway |Wed, May 20 06:59PM EDT |Wed, May 20 11:59PM BST |Thu, May 21 08:59AM AEST |
 |[High Tide Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7724){:target="_blank"} |Season 6 Trucks |45 |2673 | |Dover Motor Speedway |Mon, May 18 08:00PM EDT |Tue, May 19 01:00AM BST |Tue, May 19 10:00AM AEST |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR Truck Series Winter 2026 |44 |1730 |Fixed | | | | |
 |[Virtual Racing Aotearoa 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |2026 NASCAR Truck Series Presented by System Decal |44 |2206 | | | | | |
 |[Wednesday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=13421){:target="_blank"} |WNT Season 1 |44 |2108 |Fixed | | | | |
-|[TI Racing Superspeedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=9867){:target="_blank"} |Season 2 TA3 Designs SS League |44 |2018 | | | | | |
+|[American Thunder Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9867){:target="_blank"} |Season 2 TA3 Designs SS League |44 |2018 | | | | | |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2025 OFSR Truck Open Setup season 4 |43 |2059 | | | | | |
 |[Midwest Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11078){:target="_blank"} |Midwest Truck Series Season 6 |43 |1910 | | | | | |
 |[National Outlaw Racing Association \| \(NORA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12407){:target="_blank"} |Truck Series \(S1\) |43 |2000 |Fixed |Rockingham Speedway |Mon, May 18 07:00PM EDT |Tue, May 19 12:00AM BST |Tue, May 19 09:00AM AEST |
 |[The Race Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8289){:target="_blank"} |Window Gang Truck Series |42 |1801 | | | | | |
 |[GLR AM Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13725){:target="_blank"} |GLR AM Trucks Season 1 |42 |1533 | | | | | |
-|[Vspeed NEPA Towing Contender Series Powered by NITRO](https://members.iracing.com/membersite/member/LeagueView.do?league=3520){:target="_blank"} |Vspeed NEPA Towing Contender Series Season15 |42 |2898 |Open |Dover Motor Speedway |Wed, May 13 08:30PM EDT |Thu, May 14 01:30AM BST |Thu, May 14 10:30AM AEST |
-|[GLSR Mr\.Radiator Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5180){:target="_blank"} |GLSR Mr\.Radiator Truck Series \- Season 2 |41 |3039 |Fixed |Phoenix Raceway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
+|[Vspeed NEPA Towing Contender Series Powered by NITRO](https://members.iracing.com/membersite/member/LeagueView.do?league=3520){:target="_blank"} |Vspeed NEPA Towing Contender Series Season15 |42 |2923 |Open |Charlotte Motor Speedway  |Wed, May 20 08:30PM EDT |Thu, May 21 01:30AM BST |Thu, May 21 10:30AM AEST |
+|[GLSR Mr\.Radiator Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5180){:target="_blank"} |GLSR Mr\.Radiator Truck Series \- Season 2 |41 |3063 |Fixed |Homestead Miami Speedway |Wed, May 20 08:00PM EDT |Thu, May 21 01:00AM BST |Thu, May 21 10:00AM AEST |
 |[NitroZone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14043){:target="_blank"} |NitroZone Truck Series \(SEASON 1\) |41 |2248 |Fixed | | | | |
+|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Truck Series \- Season 6 |41 |1863 |Fixed |Pocono Raceway |Wed, May 20 07:45PM EDT |Thu, May 21 12:45AM BST |Thu, May 21 09:45AM AEST |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |2026 TVR\-Esports NASCAR Truck season 1 |40 |1472 |Fixed | | | | |
 |[GEC Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9502){:target="_blank"} |GEC Season 8 |40 |1735 |Fixed | | | | |
 |[BNR Truck Setup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7543){:target="_blank"} |Season 8 |40 |2293 |Open |Watkins Glen International |Thu, May 14 07:00PM EDT |Fri, May 15 12:00AM BST |Fri, May 15 09:00AM AEST |
-|[VRL \| Premiere Series \| Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=7270){:target="_blank"} |VRL S14 Official Races \(18FEB26 \- 1JUL26\) |40 |2012 |Fixed |Watkins Glen International |Wed, May 13 08:15PM EDT |Thu, May 14 01:15AM BST |Thu, May 14 10:15AM AEST |
+|[VRL \| Premiere Series \| Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=7270){:target="_blank"} |VRL S14 Official Races \(18FEB26 \- 1JUL26\) |40 |2017 |Fixed | | | | |
 |[North Star Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9996){:target="_blank"} |Trucks 2026 |40 |2483 | | | | | |
 |[Victory Lane eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=2464){:target="_blank"} |VLe Truck Series 2026 |40 |3286 | |Phoenix Raceway |Thu, May 14 07:00PM EDT |Fri, May 15 12:00AM BST |Fri, May 15 09:00AM AEST |
 |[Slingshot Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6346){:target="_blank"} |2026 Trucks |40 |2535 | |Dover Motor Speedway |Wed, May 20 07:30PM EDT |Thu, May 21 12:30AM BST |Thu, May 21 09:30AM AEST |
 |[Racers Elite \- Tuesday Truck Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9801){:target="_blank"} |Racers Elite \- Truck Fixed Series \(Season 10\) |39 |1776 |Fixed | | | | |
 |[Danger Zone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11066){:target="_blank"} |Kent Connolly Trohpy Truck Series Season 2 |39 |1905 |Fixed | | | | |
-|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Truck Series \- Season 6 |39 |1863 |Fixed |North Wilkesboro Speedway |Wed, May 13 07:45PM EDT |Thu, May 14 12:45AM BST |Thu, May 14 09:45AM AEST |
 |[Grassroots E\-Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9532){:target="_blank"} |NASCAR Trucks \| 2026 Season 1 \(Fixed\) |38 |2058 |Fixed | | | | |
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Racing OFF SEASON Trucks Season 54 |38 |1744 |Both | | | | |
 |[802 BG Graphix Limited Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12050){:target="_blank"} |Season 1 |38 |1769 | |Chicagoland Speedway |Tue, May 19 08:00PM EDT |Wed, May 20 01:00AM BST |Wed, May 20 10:00AM AEST |
@@ -621,25 +620,26 @@
 |[American Appalachian E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=14042){:target="_blank"} |Biddys Premium Coating Truck Series |35 |1568 | | | | | |
 |[Hold Your Brakes Academy](https://members.iracing.com/membersite/member/LeagueView.do?league=11170){:target="_blank"} |HYBA Season 5 |35 |1362 | |Nashville Superspeedway |Mon, May 18 07:00PM EDT |Tue, May 19 12:00AM BST |Tue, May 19 09:00AM AEST |
 |[SPRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14008){:target="_blank"} |SPRL Truck Series Season 1 |35 |1947 |Fixed | | | | |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |2026 NASCAR Trucks Brookwood Homes/RBC Trophy Championship chase |35 |1561 |Fixed | | | | |
 |[RevLine Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13972){:target="_blank"} |RevLine Truck Series Season 1 |34 |1612 | | | | | |
 |[VRX\-Mama T and Papa G \- NASCAR Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=12192){:target="_blank"} |VRX Length Doesn't Matter CUP |34 |1552 |Fixed |Watkins Glen International |Sat, May 16 09:30PM EDT |Sun, May 17 02:30AM BST |Sun, May 17 11:30AM AEST |
+|[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Racing Trucks Season 55 |34 |2028 |Both |Rockingham Speedway |Wed, May 20 08:00PM EDT |Thu, May 21 01:00AM BST |Thu, May 21 10:00AM AEST |
 |[MER Stamm Studio Network Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13685){:target="_blank"} |Spring 26 Series |33 |1936 | |Richmond Raceway |Sat, May 16 08:00PM EDT |Sun, May 17 01:00AM BST |Sun, May 17 10:00AM AEST |
 |[ITRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3169){:target="_blank"} |Season VIII \- 2026 |33 |2725 |Fixed | | | | |
 |[NARAS Fisher Studios Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13856){:target="_blank"} |NARAS Fisher Studios Truck Series |33 |2016 | |Talladega Superspeedway |Fri, May 15 07:00PM EDT |Sat, May 16 12:00AM BST |Sat, May 16 09:00AM AEST |
 |[YESCAR Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14184){:target="_blank"} |YESCAR Truck Series Season 3 |33 |2054 | | | | | |
 |[Full Throttle Outlaws Racing\(FTOR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12073){:target="_blank"} |TRUCKS SEASON 2 |33 |2339 |Fixed |Michigan International Speedway |Fri, May 15 08:30PM EDT |Sat, May 16 01:30AM BST |Sat, May 16 10:30AM AEST |
 |[///OGRL Thunder Trucks \(Invite Only\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12136){:target="_blank"} |Thunder Trucks S11 |33 |1786 | |Daytona International Speedway |Thu, May 14 09:00PM EDT |Fri, May 15 02:00AM BST |Fri, May 15 11:00AM AEST |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |2026 NASCAR Trucks Brookwood Homes/RBC Trophy Championship chase |33 |1592 |Fixed |Bristol Motor Speedway |Wed, May 13 09:00PM EDT |Thu, May 14 02:00AM BST |Thu, May 14 11:00AM AEST |
 |[Road N' Plate Palm Rat Golf Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} |Season 9 |33 |1926 |Fixed |Sonoma Raceway |Thu, May 14 08:00PM EDT |Fri, May 15 01:00AM BST |Fri, May 15 10:00AM AEST |
 |[Victory Lane Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=13173){:target="_blank"} |Craftsman Truck Season 1 |33 |1701 |Fixed |Chicagoland Speedway |Mon, May 18 09:25PM EDT |Tue, May 19 02:25AM BST |Tue, May 19 11:25AM AEST |
+|[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |Beef Jerky Unlimited Truck Series |32 |1588 |Fixed |Charlotte Motor Speedway  |Wed, May 20 08:00PM EDT |Thu, May 21 01:00AM BST |Thu, May 21 10:00AM AEST |
 |[NASR \- National Association of Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=9578){:target="_blank"} |Season 2 Trucks |32 |2337 | | | | | |
 |[NASCAR iRacing FedEx Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10218){:target="_blank"} |NASCAR iRacing FedEx Truck Series Season 5 Six Race Challenge |32 |3168 |Fixed | | | | |
+|[Wind Tunnel Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7865){:target="_blank"} |Wind Tunnel Racing Truck Series |32 |3398 | |Charlotte Motor Speedway  |Wed, May 20 07:58PM EDT |Thu, May 21 12:58AM BST |Thu, May 21 09:58AM AEST |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |NASCAR Truck Series Spring 2026 |32 |1781 |Fixed |Nashville Superspeedway |Tue, May 19 07:30PM EDT |Wed, May 20 12:30AM BST |Wed, May 20 09:30AM AEST |
-|[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |Beef Jerky Unlimited Truck Series |31 |1586 |Fixed |Las Vegas Motor Speedway |Wed, May 13 07:59PM EDT |Thu, May 14 12:59AM BST |Thu, May 14 09:59AM AEST |
 |[Latinoamerica SimRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2232){:target="_blank"} |NASCAR Truck Series |31 |1934 |Fixed | | | | |
 |[GoRacing Sim League's FastTrack Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13433){:target="_blank"} |2026 FastTrack Truck Series |31 |1322 | |Charlotte Motor Speedway  |Tue, May 19 08:00PM EDT |Wed, May 20 01:00AM BST |Wed, May 20 10:00AM AEST |
 |[Nationwide Truck Series \(NTS\) Presented by Tint World](https://members.iracing.com/membersite/member/LeagueView.do?league=13097){:target="_blank"} |Season 2 |31 |1944 |Fixed |Phoenix Raceway |Sat, May 16 07:00PM EDT |Sun, May 17 12:00AM BST |Sun, May 17 09:00AM AEST |
-|[Wind Tunnel Racing Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7865){:target="_blank"} |Wind Tunnel Racing Truck Series |31 |3398 | |Dover Motor Speedway |Wed, May 13 07:58PM EDT |Thu, May 14 12:58AM BST |Thu, May 14 09:58AM AEST |
 |[FNL](https://members.iracing.com/membersite/member/LeagueView.do?league=14122){:target="_blank"} |Friday Night Lights Season 2 |31 |2156 |Fixed | | | | |
 |[The EBAA Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9626){:target="_blank"} |2026 S1 Trucks |30 |1975 | | | | | |
 |[HRT2HEART MOTORSPORTS](https://members.iracing.com/membersite/member/LeagueView.do?league=10671){:target="_blank"} |HRT2HEART\- Craftsman Trucks Season\- 5 |30 |1616 |Fixed | | | | |
@@ -651,7 +651,7 @@
 |[DES Pr League](https://members.iracing.com/membersite/member/LeagueView.do?league=11600){:target="_blank"} |Trucks Premier Season 3 |29 |1969 | |Michigan International Speedway |Sat, May 16 08:30PM EDT |Sun, May 17 01:30AM BST |Sun, May 17 10:30AM AEST |
 |[OTSS Select Series: Presented by EmpowerED Research Institute](https://members.iracing.com/membersite/member/LeagueView.do?league=9095){:target="_blank"} |2026 S2 |29 |2438 |Fixed |Darlington Raceway |Tue, May 19 08:00PM EDT |Wed, May 20 01:00AM BST |Wed, May 20 10:00AM AEST |
 |[PACNWNASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=13526){:target="_blank"} |PAC NW NASCAR 26/1 2\.0 |28 |2425 |Open | | | | |
-|[Wednesday Night Dash on StadiumScene\.TV](https://members.iracing.com/membersite/member/LeagueView.do?league=8100){:target="_blank"} |2026 Truck Series |28 |1744 |Fixed |Daytona International Speedway |Wed, May 13 09:30PM EDT |Thu, May 14 02:30AM BST |Thu, May 14 11:30AM AEST |
+|[Wednesday Night Dash on StadiumScene\.TV](https://members.iracing.com/membersite/member/LeagueView.do?league=8100){:target="_blank"} |2026 Truck Series |28 |1751 |Fixed | | | | |
 |[PACNWNASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=13526){:target="_blank"} |PAC NW NASCAR 26/1 3\.0 |28 |2456 |Open | | | | |
 |[Loose Nutz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14333){:target="_blank"} |Season 1 |28 |1660 |Fixed | | | | |
 |[Mid Pack Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=6109){:target="_blank"} |2026 Season 1 \- NASCAR Trucks |28 |1683 |Fixed |Dover Motor Speedway |Mon, May 18 05:30AM EDT |Mon, May 18 10:30AM BST |Mon, May 18 07:30PM AEST |
@@ -667,23 +667,23 @@
 |[SpeedZone eSports Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13401){:target="_blank"} |2026 Season 1 |24 |2652 | | | | | |
 |[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |SKF Thunder Truck Series |24 |1764 | | | | | |
 |[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |Craftsman Truck Series |23 |2036 |Both |Bristol Motor Speedway |Mon, May 18 08:30PM EDT |Tue, May 19 01:30AM BST |Tue, May 19 10:30AM AEST |
-|[iSNF: TRUCK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6603){:target="_blank"} |TRUCK SEASON 14 \(Current\) |23 |2084 |Fixed | | | | |
+|[iSNF: TRUCK Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6603){:target="_blank"} |TRUCK SEASON 14 \(Current\) |23 |2084 |Fixed |Dover Motor Speedway |Sun, May 17 06:00PM EDT |Sun, May 17 11:00PM BST |Mon, May 18 08:00AM AEST |
+|[Prestige Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12865){:target="_blank"} |Truck Season 0 |23 |2789 |Fixed | | | | |
 |[Squirrel League Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9676){:target="_blank"} |2026 \| Season 1 |22 |2222 | | | | | |
 |[IRACING MEDIA RACING LEAGUE \(IRM\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11518){:target="_blank"} |IRM SEASON 2 |22 |2187 | | | | | |
-|[Prestige Racing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12865){:target="_blank"} |Truck Season 0 |22 |2717 |Fixed |Rockingham Speedway |Wed, May 13 08:30PM EDT |Thu, May 14 01:30AM BST |Thu, May 14 10:30AM AEST |
+|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |ARS Trucks AI Challenge Series Season 1 |22 |1400 |Fixed |Kentucky Speedway |Wed, May 20 07:30PM EDT |Thu, May 21 12:30AM BST |Thu, May 21 09:30AM AEST |
 |[Black Flag Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13544){:target="_blank"} |Truck Series |21 |1320 |Fixed | | | | |
 |[WSL Pro\-Am Development Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} |WSL Pro\-Am 5 Race Dash Season 1 |21 |1429 | |Talladega Superspeedway |Sun, May 17 07:30PM EDT |Mon, May 18 12:30AM BST |Mon, May 18 09:30AM AEST |
-|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |ARS Trucks AI Challenge Series Season 1 |21 |1401 |Fixed |Texas Motor Speedway |Wed, May 13 07:30PM EDT |Thu, May 14 12:30AM BST |Thu, May 14 09:30AM AEST |
 |[American Auto Racing Championship \(AARC\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10628){:target="_blank"} |Truck Series Season 5 |21 |2390 |Fixed | | | | |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S2 PEMAP TRUCK by SGA |20 |2890 |Both |Watkins Glen International |Wed, May 13 06:00PM EDT |Wed, May 13 11:00PM BST |Thu, May 14 08:00AM AEST |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S2 PEMAP TRUCK by SGA |20 |2922 |Both | | | | |
 |[Moonlight Racing League Tuesday Throw\-Down](https://members.iracing.com/membersite/member/LeagueView.do?league=14332){:target="_blank"} |Pre\-Season |20 |2047 | | | | | |
 |[DSRL Pavement Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2614){:target="_blank"} |Kings Roadhouse Truck Series S28 |20 |2062 |Open |[Legacy] Texas Motor Speedway - 2009 |Mon, May 18 08:00PM EDT |Tue, May 19 01:00AM BST |Tue, May 19 10:00AM AEST |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 38 \- Trucks |19 |1384 |Fixed |Mobility Resort Motegi |Tue, May 19 01:00PM EDT |Tue, May 19 06:00PM BST |Wed, May 20 03:00AM AEST |
+|[OCS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8538){:target="_blank"} |OCS SEASON 1 TRUCKS 2026 |19 |2044 | | | | | |
 |[Metal Heads](https://members.iracing.com/membersite/member/LeagueView.do?league=11053){:target="_blank"} |Metal Heads Season 3 |19 |2542 |Fixed | | | | |
 |[TOP TIER RACING SUPER SPEEDWAY SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9984){:target="_blank"} |Mini Series 2 Craftsman Trucks |19 |1682 |Fixed | | | | |
 |[S\.M\.A\.S\.H \- CHALLENGER TRUCK SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=14385){:target="_blank"} |CHALLENGER TRUCK SERIES \- SEASON 1 |19 |1498 | |Kansas Speedway |Fri, May 15 06:30PM EDT |Fri, May 15 11:30PM BST |Sat, May 16 08:30AM AEST |
 |[American Sim Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4610){:target="_blank"} |Season 13 |18 |2097 |Fixed |Homestead Miami Speedway |Mon, May 18 08:30PM EDT |Tue, May 19 01:30AM BST |Tue, May 19 10:30AM AEST |
-|[OCS RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=8538){:target="_blank"} |OCS SEASON 1 TRUCKS 2026 |18 |1960 | | | | | |
 |[Sampsoid Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=5691){:target="_blank"} |Sampsoid Thursday Night Thunder Season 21 |18 |2084 |Fixed |EchoPark Speedway (Atlanta) |Thu, May 14 08:15PM EDT |Fri, May 15 01:15AM BST |Fri, May 15 10:15AM AEST |
 |[Boomshine Syndicate](https://members.iracing.com/membersite/member/LeagueView.do?league=13007){:target="_blank"} |Asphalt\- NASCAR Trucks Regular Season |17 |1181 | | | | | |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.23 NPS Striker Trucks by Treadwell |17 |2096 |Fixed |Watkins Glen International |Tue, May 19 09:15PM EDT |Wed, May 20 02:15AM BST |Wed, May 20 11:15AM AEST |
@@ -713,7 +713,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-------------|--------|------|------|
-|[Stafford Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14469){:target="_blank"} |Stafford Weekly Series Season 1 |25 |3130 | | | | | |
+|[Stafford Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14469){:target="_blank"} |Stafford Weekly Series Season 1 |32 |3210 | | | | | |
 |[American Sim Racer™️](https://members.iracing.com/membersite/member/LeagueView.do?league=13279){:target="_blank"} |Oak House Racing SK Mod Series S1 |19 |1398 |Fixed | | | | |
 |[OVSS Asphalt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13855){:target="_blank"} |OVSS SK Mod Tour |17 |1323 | | | | | |
 
@@ -736,8 +736,8 @@
 |[YesterYear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10518){:target="_blank"} |YesterYear Racing 2009 Modifieds |32 |2148 |Fixed | | | | |
 |[I\-85 Asphalt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13238){:target="_blank"} |WHELEN MODIFIED's SEASON 3 |22 |1703 | | | | | |
 |[All\-Star Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9145){:target="_blank"} |DC Designs Tour Mod Series \(Season 1\) |21 |2355 |Fixed | | | | |
-|[FastLine Modified Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12552){:target="_blank"} |Season 3 |16 |1828 |Open |Oswego Speedway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
-|[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Short Track T\-Mods Season 12 8pm est |13 |1790 |Both |Irwindale Speedway |Wed, May 13 08:00PM EDT |Thu, May 14 01:00AM BST |Thu, May 14 10:00AM AEST |
+|[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Short Track T\-Mods Season 12 8pm est |19 |1778 |Both |Irwindale Speedway |Wed, May 20 08:00PM EDT |Thu, May 21 01:00AM BST |Thu, May 21 10:00AM AEST |
+|[FastLine Modified Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12552){:target="_blank"} |Season 3 |16 |1807 |Open | | | | |
 |[MER Adminboxx Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12795){:target="_blank"} |Fun Run Whelen Modified Series |12 |1792 |Fixed | | | | |
 
 ### [Legacy] ARCA Series
@@ -747,7 +747,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|-------------------------------|-----------------------|-----------------------|------------------------|
 |[Diet Dr Pepper Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9823){:target="_blank"} |DDPGNS Season 1 \- Legacy ARCA |63 |3034 | |[Legacy] Phoenix Raceway - 2008 |Thu, May 14 08:58PM EDT |Fri, May 15 01:58AM BST |Fri, May 15 10:58AM AEST |
-|[PWRC IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14310){:target="_blank"} |Season 1 |15 |1820 | |Las Vegas Motor Speedway |Wed, May 13 05:30PM EDT |Wed, May 13 10:30PM BST |Thu, May 14 07:30AM AEST |
+|[PWRC IRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14310){:target="_blank"} |Season 1 |20 |1790 | | | | | |
 
 ### [Legacy] Gen 4 Cup
 
@@ -755,13 +755,13 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------|---------|-------|----|-----|-------------|--------|------|------|
-|[OP Racing Grand National Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3421){:target="_blank"} |Season 17 |51 |2062 | | | | | |
+|[OP Racing Grand National Superspeedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3421){:target="_blank"} |Season 17 |58 |2082 | | | | | |
 
 ### [Legacy] Xfinity Series
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------|----|-----|-------------|--------|------|------|
-|[Burnt Rubber Racing Association Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11279){:target="_blank"} |Legacy Xfinity Season 1 |10 |1708 |Fixed | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------|----|-----|------------------------------------|-----------------------|-----------------------|------------------------|
+|[Burnt Rubber Racing Association Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11279){:target="_blank"} |Legacy Xfinity Season 1 |10 |1708 |Fixed |[Legacy] Texas Motor Speedway - 2009 |Sat, May 16 08:00PM EDT |Sun, May 17 01:00AM BST |Sun, May 17 10:00AM AEST |
 

@@ -2,7 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[JWB British Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14433){:target="_blank"} | | |
 |[HVRL Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14436){:target="_blank"} | |GT3 pro/am road series |
 |[OVERTIME RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=14438){:target="_blank"} | |NASCAR RACING |
 |[Wednesday Night Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=14437){:target="_blank"} |[Discord](https://discord.gg/teyqrQQp){:target="_blank"} | |
@@ -65,4 +64,5 @@
 |[LEGGER HIGH GRIP RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=14507){:target="_blank"} | |Legger High Grip Racing \(LHGR\) is a competitive sim racing league focused on clean, intense, and professional racing\. Built for drivers who value skill, consistency, and respect on track, LHGR delivers organized championships, exciting battles, and a strong racing community\.   Our goal is to create an environment where drivers of different experience levels can compete fairly, improve their racecraft, and enjoy high\-quality motorsport action across a variety of circuits and racing categories\.   Whether you’re fighting for podiums, championships, or simply looking for great racing every week, LHGR is built for passionate drivers who race hard and race fair\. |
 |[SDR GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=14509){:target="_blank"} | |GT3 |
 |[Tronsø](https://members.iracing.com/membersite/member/LeagueView.do?league=14504){:target="_blank"} | | |
+|[Vesta Sport ASD](https://members.iracing.com/membersite/member/LeagueView.do?league=14512){:target="_blank"} | | |
 
