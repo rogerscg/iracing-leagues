@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[HVRL Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14436){:target="_blank"} | |GT3 pro/am road series |
-|[OVERTIME RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=14438){:target="_blank"} | |NASCAR RACING |
-|[Wednesday Night Showdown](https://members.iracing.com/membersite/member/LeagueView.do?league=14437){:target="_blank"} |[Discord](https://discord.gg/teyqrQQp){:target="_blank"} | |
 |[Pretenders](https://members.iracing.com/membersite/member/LeagueView.do?league=14443){:target="_blank"} | |pretend racecar drivers |
 |[PRSLR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14446){:target="_blank"} | |Pit Road Speed Limit Racing Challange Races\. |
 |[Racing Heart Universe](https://members.iracing.com/membersite/member/LeagueView.do?league=14445){:target="_blank"} | | |
@@ -17,7 +14,7 @@
 |[PARC](https://members.iracing.com/membersite/member/LeagueView.do?league=14455){:target="_blank"} | |iRacing division of our Playstation Auto Racing Club \(not affiliated with Sony\), est\. 2020 |
 |[Red Hills Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14456){:target="_blank"} |[Discord](https://discord.gg/A9pvrBfs){:target="_blank"} |Competitive, clean, fun Championship NASCAR racing that focuses on respectable family friendly competition\. Rookie to A License\. We will run an inaugural 12 week Craftsman Truck Fixed season with points champion crowned after last race\. Season starts 08/02/26 at 8 pm EST\. |
 |[Atlantic Coast Arca](https://members.iracing.com/membersite/member/LeagueView.do?league=14461){:target="_blank"} | |New to oval racing or just looking for a more relaxed environment? Our ARCA Series is built for you\. We focus on helping drivers master the fundamentals of tire saving and race management without the stress of official iRating drops\. Safe Entry: Ideal for drivers in the 1k–3k iRating range\. We offer 1 fast repairs per race to keep you in the action\. No entry fees\. Come find your racing home and grow with us on the track\! |
-|[GT3 Euro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14458){:target="_blank"} | |the GT3 Euro Series is a European time zone\-friendly GT3 cars championship, with free entry and Prize Pool \(300\+ $\) |
+|[GT3 Euro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14458){:target="_blank"} | |the GT3 Euro Series is a European time zone\-friendly GT3 cars championship, with free entry and Prize Pool \(400\+ $\) |
 |[Late Night Temptation](https://members.iracing.com/membersite/member/LeagueView.do?league=14460){:target="_blank"} | | |
 |[OMDAI F4 by iRacing Mexico Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14463){:target="_blank"} | |Liga para los Eventos de OMDA Mexico |
 |[Position ONE](https://members.iracing.com/membersite/member/LeagueView.do?league=14462){:target="_blank"} | | |
@@ -65,4 +62,8 @@
 |[SDR GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=14509){:target="_blank"} | |GT3 |
 |[Tronsø](https://members.iracing.com/membersite/member/LeagueView.do?league=14504){:target="_blank"} | | |
 |[Vesta Sport ASD](https://members.iracing.com/membersite/member/LeagueView.do?league=14512){:target="_blank"} | | |
+|[CHOP SHOP NATIONALS](https://members.iracing.com/membersite/member/LeagueView.do?league=14517){:target="_blank"} | | |
+|[Freebie Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=14514){:target="_blank"} | |Free Content Thursday |
+|[Full Send Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14516){:target="_blank"} | | |
+|[Oceanic Stock Car Association \(OSCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14513){:target="_blank"} | | |
 

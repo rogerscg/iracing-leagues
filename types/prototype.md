@@ -22,25 +22,17 @@
 |-----------------------------------------------------------------------------------------------------------------|----------------|-------|----|-----|-------------|--------|------|------|
 |[RPE Sunset @ Sebring](https://members.iracing.com/membersite/member/LeagueView.do?league=5064){:target="_blank"} |Sunset @ Sebring |29 |2010 | | | | | |
 
-### HPD ARX-01c
-
-[Back to Top](#)  
-
-| League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------|--------|------|------|
-|[Maxx Bantz Open](https://members.iracing.com/membersite/member/LeagueView.do?league=2706){:target="_blank"} |Maxx Bantz \| Remuneration |26 |2350 |Fixed | | | | |
-
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|------------------------------------|-----------------------|-----------------------|------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |58 |4487 | |Road Atlanta |Thu, May 14 01:00PM EDT |Thu, May 14 06:00PM BST |Fri, May 15 03:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|--------------------------|-----------------------|-----------------------|------------------------|
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |58 |4476 | | | | | |
 |[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |36 |1596 | | | | | |
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |32 |2970 |Open |Silverstone Circuit |Thu, May 14 02:15PM EDT |Thu, May 14 07:15PM BST |Fri, May 15 04:15AM AEST |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |34 |2901 |Open |Circuit Gilles Villeneuve |Thu, May 21 02:15PM EDT |Thu, May 21 07:15PM BST |Fri, May 22 04:15AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |1994 |Open | | | | |
-|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1158 |Fixed |Willow Springs International Raceway |Thu, May 14 07:15PM EDT |Fri, May 15 12:15AM BST |Fri, May 15 09:15AM AEST |
+|[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1143 |Fixed |Watkins Glen International |Mon, May 18 07:15PM EDT |Tue, May 19 12:15AM BST |Tue, May 19 09:15AM AEST |
 
 ### Ligier JS P320
 
