@@ -35,7 +35,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-------|----|-----|-----------------------------------------|-----------------------|-----------------------|------------------------|
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |148 |None |Open |Detroit Grand Prix at Belle Isle |Fri, May 15 02:00AM EDT |Fri, May 15 07:00AM BST |Fri, May 15 04:00PM AEST |
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |148 |None |Open |Detroit Grand Prix at Belle Isle |Sat, May 16 04:00AM EDT |Sat, May 16 09:00AM BST |Sat, May 16 06:00PM AEST |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026A V8SC Series \- Trophi\.AI |61 |2417 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday aus sprint season 27 |57 |1571 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints season 27 |55 |1454 | | | | | |
@@ -45,7 +45,7 @@
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation \- Supercars Championship \(2026\) |35 |1876 |Both |Winton Motor Raceway |Mon, May 18 06:00AM EDT |Mon, May 18 11:00AM BST |Mon, May 18 08:00PM AEST |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 18 |34 |3648 |Open |Brands Hatch Circuit |Sat, May 16 01:00PM EDT |Sat, May 16 06:00PM BST |Sun, May 17 03:00AM AEST |
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2026 \- V8 SUPERCARS SPÉCIAL OVALES |27 |1426 |Fixed |USA International Speedway |Sun, May 17 06:15PM EDT |Sun, May 17 11:15PM BST |Mon, May 18 08:15AM AEST |
-|[2Slo Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14393){:target="_blank"} |Send It Saturday V8 Supercar Series |23 |1379 |Open |Shell V-Power Motorsport Park at The Bend |Sat, May 16 05:30PM EDT |Sat, May 16 10:30PM BST |Sun, May 17 07:30AM AEST |
+|[2Slo Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14393){:target="_blank"} |Send It Saturday V8 Supercar Series |23 |1420 |Open |Shell V-Power Motorsport Park at The Bend |Sat, May 16 05:30PM EDT |Sat, May 16 10:30PM BST |Sun, May 17 07:30AM AEST |
 |[Alliance Enduro simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=12237){:target="_blank"} |ASR Enduro Season 2 |15 |None | | | | | |
 |[SKADS Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14118){:target="_blank"} |Season 1 SKADS Supercars \(Gen3\)  |10 |1210 | | | | | |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026 Season 2 Supercars |10 |1850 | | | | | |

@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Pretenders](https://members.iracing.com/membersite/member/LeagueView.do?league=14443){:target="_blank"} | |pretend racecar drivers |
-|[PRSLR Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14446){:target="_blank"} | |Pit Road Speed Limit Racing Challange Races\. |
-|[Racing Heart Universe](https://members.iracing.com/membersite/member/LeagueView.do?league=14445){:target="_blank"} | | |
 |[AMR iRacing Serbia 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14452){:target="_blank"} | |Welcome to all\! |
 |[Formula Online](https://members.iracing.com/membersite/member/LeagueView.do?league=14451){:target="_blank"} |[Discord](https://discord.com/invite/C6n7NgJC4E){:target="_blank"} |Formula Online, hosted by Peters, is a racing league running the Mercedes W12 around some of the greatest tracks in the world\. |
 |[Frontline Racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=14454){:target="_blank"} | |Weekly Racing and Monthly special events |
@@ -66,4 +63,9 @@
 |[Freebie Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=14514){:target="_blank"} | |Free Content Thursday |
 |[Full Send Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14516){:target="_blank"} | | |
 |[Oceanic Stock Car Association \(OSCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14513){:target="_blank"} | | |
+|[BMW North America](https://members.iracing.com/membersite/member/LeagueView.do?league=14522){:target="_blank"} | |This league is intended for all BMW and MINI Service Personal |
+|[RBNL](https://members.iracing.com/membersite/member/LeagueView.do?league=14518){:target="_blank"} | |Dutch Racing League |
+|[Rough Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14520){:target="_blank"} | |Mini Stock League for newer and novice level drivers\. |
+|[Slideways Summer Invitationals](https://members.iracing.com/membersite/member/LeagueView.do?league=14519){:target="_blank"} |[Discord](https://discord.gg/GSBVq48A){:target="_blank"} |10 weeks of unhinged, multi\-surface double\-headers with zero points, zero tracking software, and zero filters—show up, drive it loose, and talk your trash\. |
+|[SUPERLAP Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14521){:target="_blank"} | | |
 
