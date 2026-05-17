@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Open 4WD \- 2026 \(Sat\) |18 |2480 |Fixed |Charlotte Motor Speedway  |Sat, May 16 09:34PM EDT |Sun, May 17 02:34AM BST |Sun, May 17 11:34AM AEST |
+|-------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|-------------|--------|------|------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Open 4WD \- 2026 \(Sat\) |20 |2517 |Fixed | | | | |
 
 ### Rallycross
 
@@ -17,9 +17,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
-|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Supercars 25B |34 |4305 | | | | | |
 |[Majors International](https://members.iracing.com/membersite/member/LeagueView.do?league=12019){:target="_blank"} |26R4 \- Dirt Derby Phoenix |34 |1712 | | | | | |
-|[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 25B |26 |2814 | | | | | |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |26A Supercars |24 |4168 | | | | | |
 |[Majors European](https://members.iracing.com/membersite/member/LeagueView.do?league=12018){:target="_blank"} |26R4 \- Dirt Derby Daytona |23 |1572 | | | | | |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 26A |12 |2317 | | | | | |

@@ -33,10 +33,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|--------------------------|-----------------------|-----------------------|------------------------|
-|[Rollin Thunder Racing \- Dirt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14192){:target="_blank"} |Rollin Thunder Racing Dirt |27 |1143 |Fixed |USA International Speedway |Sat, May 16 04:00PM EDT |Sat, May 16 09:00PM BST |Sun, May 17 06:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|-----------------|-----------------------|-----------------------|------------------------|
+|[Rollin Thunder Racing \- Dirt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14192){:target="_blank"} |Rollin Thunder Racing Dirt |27 |1136 |Fixed |Eldora Speedway |Sat, May 23 04:00PM EDT |Sat, May 23 09:00PM BST |Sun, May 24 06:00AM AEST |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |2\.43 DTP Striker Limited Late Models by No Mans Land |16 |2012 |Fixed |Knoxville Raceway |Thu, May 21 09:15PM EDT |Fri, May 22 02:15AM BST |Fri, May 22 11:15AM AEST |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |RHS Unlimited / RBC Late model Pro Dirt Championship |12 |1319 |Fixed |Lernerville Speedway |Sat, May 16 09:30PM EDT |Sun, May 17 02:30AM BST |Sun, May 17 11:30AM AEST |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |RHS Unlimited / RBC Late model Pro Dirt Championship |14 |1320 |Fixed | | | | |
 
 ### Dirt Late Model - Pro
 
@@ -54,7 +54,6 @@
 |[Bone Head Racing: Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=4204){:target="_blank"} |BHR Dirt Tour: Season 2 |29 |3074 |Fixed | | | | |
 |[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2026 Dirt Pro Late Models |28 |1962 |Fixed | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS PRO LATE MODELS SEASON 2 |27 |2785 | | | | | |
-|[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Monday Masters of Dirt \- Season 3 |26 |1501 |Fixed | | | | |
 |[ECC pro late](https://members.iracing.com/membersite/member/LeagueView.do?league=13490){:target="_blank"} |pro late season 1 |25 |3011 |Open | | | | |
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |Pro Late Models 2026 |25 |1116 |Fixed |Fairbury Speedway |Thu, May 21 10:30PM EDT |Fri, May 22 03:30AM BST |Fri, May 22 12:30PM AEST |
 |[Pro Late Model Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4122){:target="_blank"} |PRO LATE MODEL DIRT SERIES \- 2026 |24 |2689 |Fixed |Limaland Motorsports Park |Tue, May 19 08:45PM EDT |Wed, May 20 01:45AM BST |Wed, May 20 10:45AM AEST |
@@ -89,9 +88,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|---------------|-----------------------|-----------------------|------------------------|
 |[Majors Americas](https://members.iracing.com/membersite/member/LeagueView.do?league=12020){:target="_blank"} |26R4 \- Dirt Derby Limaland |65 |1682 | | | | | |
-|[The Gang 34 Ford Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=13648){:target="_blank"} |34 Fords |13 |1258 | |Limaland Motorsports Park |Sat, May 16 07:00PM EDT |Sun, May 17 12:00AM BST |Sun, May 17 09:00AM AEST |
+|[The Gang 34 Ford Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=13648){:target="_blank"} |34 Fords |13 |1265 | |Oswego Speedway |Sat, May 23 07:00PM EDT |Sun, May 24 12:00AM BST |Sun, May 24 09:00AM AEST |
 
 ### Dirt Midget
 
@@ -100,10 +99,10 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|------------------------|-----------------------|-----------------------|------------------------|
 |[iRacing Midget Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11786){:target="_blank"} |iRacing Midget Association 2026 NATIONAL TOUR |177 |4669 | | | | | |
+|[Australian Midget Title](https://members.iracing.com/membersite/member/LeagueView.do?league=13189){:target="_blank"} |2026/2027 Australian Midget Title |75 |3565 | |Cedar Lake Speedway |Sun, May 17 05:00AM EDT |Sun, May 17 10:00AM BST |Sun, May 17 07:00PM AEST |
 |[Dirt Midget League](https://members.iracing.com/membersite/member/LeagueView.do?league=12784){:target="_blank"} |DML \- Dirt Midget League S4 |64 |3598 |Fixed | | | | |
 |[Rubber Down Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12319){:target="_blank"} |RDR Midget Series Season 2 |62 |4005 | | | | | |
 |[Rubber Down Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12319){:target="_blank"} |Season 1 |55 |2289 | | | | | |
-|[Australian Midget Title](https://members.iracing.com/membersite/member/LeagueView.do?league=13189){:target="_blank"} |2026/2027 Australian Midget Title |55 |3835 | |Cedar Lake Speedway |Sat, May 16 04:00AM EDT |Sat, May 16 09:00AM BST |Sat, May 16 06:00PM AEST |
 |[SRPI: Speedcar Racing Promotion of Indiana](https://members.iracing.com/membersite/member/LeagueView.do?league=12221){:target="_blank"} |SRPI Midgets Season 2 |50 |3314 | | | | | |
 |[Virtual Racing Aotearoa 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |2026 National Midget Series Presented by SimBlacks |47 |2723 | | | | | |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |TNT NARC Midgets |43 |3277 |Open | | | | |
@@ -194,10 +193,11 @@
 |[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Street Stocks Super Winter Series 2026 |41 |2939 | | | | | |
 |[Henderson Amusement Dirt Street Stock Tour presents by NLR](https://members.iracing.com/membersite/member/LeagueView.do?league=11702){:target="_blank"} |Henderson Amusement Dirt Street Stock Tour |38 |3421 | |Lucas Oil Speedway |Thu, May 21 08:00PM EDT |Fri, May 22 01:00AM BST |Fri, May 22 10:00AM AEST |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Winter 25\-26 Street Stocks |35 |2418 |Fixed | | | | |
-|[VapourTrail Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |Sunday Street Stock Series |23 |2374 | | | | | |
+|[VapourTrail Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |Sunday Street Stock Series |23 |2374 | |Lucas Oil Speedway |Sun, May 17 06:30AM EDT |Sun, May 17 11:30AM BST |Sun, May 17 08:30PM AEST |
 |[Côte\-Nord iRacing \- Terre Battue](https://members.iracing.com/membersite/member/LeagueView.do?league=11766){:target="_blank"} |LCDDS4 \- Dirt Street Stock |16 |1585 |Fixed | | | | |
 |[FMS racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=8411){:target="_blank"} |FMS DIRT STREET STOCKS SEASON 2 |16 |2608 | | | | | |
 |[Slinging Dirt Series by Star Race Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=10567){:target="_blank"} |SDS ST Street Stocks |15 |4116 |Both | | | | |
+|[PS Enduros](https://members.iracing.com/membersite/member/LeagueView.do?league=7139){:target="_blank"} |DSS Season 7 |14 |4199 |Fixed |Knoxville Raceway |Tue, May 19 08:30PM EDT |Wed, May 20 01:30AM BST |Wed, May 20 10:30AM AEST |
 
 ### Dirt UMP Modified
 

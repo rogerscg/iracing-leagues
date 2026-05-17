@@ -29,7 +29,7 @@
 |[Trans\-Am International Tribute Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5091){:target="_blank"} |TAInTS Season 2 |37 |1850 |Fixed |Suzuka International Racing Course |Sun, May 17 10:00AM EDT |Sun, May 17 03:00PM BST |Mon, May 18 12:00AM AEST |
 |[TopSpeedGraphics Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13817){:target="_blank"} |SEASON 1 |32 |2830 | | | | | |
 |[WCSTS world class short track series](https://members.iracing.com/membersite/member/LeagueView.do?league=7210){:target="_blank"} |WCSTS SEASON 2\.0 |29 |1784 |Both | | | | |
-|[RFRL Elite Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=14203){:target="_blank"} |RFRL Elite Late Model Season \#1 |25 |1837 |Fixed |South Boston Speedway |Sat, May 16 07:00PM EDT |Sun, May 17 12:00AM BST |Sun, May 17 09:00AM AEST |
+|[RFRL Elite Late Model](https://members.iracing.com/membersite/member/LeagueView.do?league=14203){:target="_blank"} |RFRL Elite Late Model Season \#1 |26 |1837 |Fixed |Five Flags Speedway |Sat, May 23 07:00PM EDT |Sun, May 24 12:00AM BST |Sun, May 24 09:00AM AEST |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |FTR Roller Derby |23 |1618 |Fixed | | | | |
 |[B\-Main Bandits Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7114){:target="_blank"} |Spring Mini Stocks |14 |1322 |Fixed | | | | |
 |[NASTS\- North American Short Track Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5281){:target="_blank"} |NASTS STOCK CAR CLASSIC TOUR |10 |1173 |Fixed | | | | |
@@ -51,7 +51,6 @@
 |[FourWide MotorSports \(Friday Night League\)](https://members.iracing.com/membersite/member/LeagueView.do?league=8179){:target="_blank"} |FWM Late Models |40 |1563 | | | | | |
 |[FSB Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=613){:target="_blank"} |FSB Racing Late Models Season 54 |40 |2227 |Both | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |FTR Late Model |37 |1548 |Fixed | | | | |
-|[Slingshot Gen 6 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5815){:target="_blank"} |2026 Late Model Tour |34 |2526 |Fixed | | | | |
 |[Victory Lane Outlaws](https://members.iracing.com/membersite/member/LeagueView.do?league=13173){:target="_blank"} |TOUR Cars Late Model Stock Season 1 |34 |1759 |Fixed |New Smyrna Speedway |Thu, May 21 09:25PM EDT |Fri, May 22 02:25AM BST |Fri, May 22 11:25AM AEST |
 |[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |04 \- Worn Out Racers Sayre Bear Challenge |33 |1461 |Fixed |Watkins Glen International |Thu, May 21 07:55PM EDT |Fri, May 22 12:55AM BST |Fri, May 22 09:55AM AEST |
 |[2025 BSP/OSR Winter\-Meltdown Latemodel Stock Series\.](https://members.iracing.com/membersite/member/LeagueView.do?league=7873){:target="_blank"} |Winter Meltdown Series |32 |2350 | | | | | |
@@ -63,8 +62,8 @@
 |[North South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5080){:target="_blank"} |LMSC Spring 2026 |29 |2818 | | | | | |
 |[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S33 |28 |1954 |Fixed | | | | |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Late Models S13 |28 |1925 |Fixed | | | | |
+|[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S34 |28 |1917 |Fixed | | | | |
 |[Wright Time Late mods](https://members.iracing.com/membersite/member/LeagueView.do?league=9620){:target="_blank"} |Wright time season 1 |27 |1410 | | | | | |
-|[BRL Late Model Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3762){:target="_blank"} |LM S34 |27 |1920 |Fixed |South Boston Speedway |Sat, May 16 08:35PM EDT |Sun, May 17 01:35AM BST |Sun, May 17 10:35AM AEST |
 |[Senex Short Track Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=12744){:target="_blank"} |Wild Wednesday on Asphalt \- Season 4 |27 |1465 |Fixed |New Smyrna Speedway |Wed, May 20 08:00PM EDT |Thu, May 21 01:00AM BST |Thu, May 21 10:00AM AEST |
 |[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |Eberlestock Late Model Tour |26 |2038 |Both | | | | |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Late Model Series \- Season 6 |23 |1922 |Fixed |Hickory Motor Speedway |Sun, May 17 07:45PM EDT |Mon, May 18 12:45AM BST |Mon, May 18 09:45AM AEST |
@@ -97,15 +96,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|----|-----|----------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Friday Legends Season 1 |61 |1848 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026A Supercar Supports \- O\-Z Legneds |56 |2559 |Both | | | | |
 |[Saturday Night Lights at The Apollo](https://members.iracing.com/membersite/member/LeagueView.do?league=13091){:target="_blank"} |Saturday Night Lights @ The Apollo Inaugural Season |43 |2254 | | | | | |
 |[The Italian Job Simracing ASD \(ITJ\) \- IIC](https://members.iracing.com/membersite/member/LeagueView.do?league=9944){:target="_blank"} |The Legend Championship 4th edition |33 |1962 |Both | | | | |
 |[Apollo Advanced Legends League](https://members.iracing.com/membersite/member/LeagueView.do?league=10650){:target="_blank"} |Apollo Advanced Legends Season 7 |27 |2173 |Fixed | | | | |
-|[Legend Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Sunday night Legends Gang BIG Track League |20 |1783 | | | | | |
+|[Legend/Street Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Sunday night Legends Gang BIG Track League |20 |1783 | | | | | |
 |[SimAbility Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1754){:target="_blank"} |No Limits Just Legends Car |20 |1701 | |North Wilkesboro Speedway |Wed, May 20 07:00PM EDT |Thu, May 21 12:00AM BST |Thu, May 21 09:00AM AEST |
-|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Season 18\-High Noon |18 |1863 | |Kevin Harvick's Kern Raceway |Sat, May 16 09:30AM EDT |Sat, May 16 02:30PM BST |Sat, May 16 11:30PM AEST |
+|[TDR League of Legends\-Sponsored by The Johnson iRacing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=5883){:target="_blank"} |Season 18\-High Noon |19 |1851 | | | | | |
 |[YesterYear Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10518){:target="_blank"} |2026 YesterYear Racing '34 Legends Series |17 |2066 |Fixed | | | | |
 |[After Hours Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12460){:target="_blank"} |SRL season 2 |16 |2203 | | | | | |
 
@@ -119,7 +118,7 @@
 |[Madhouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10353){:target="_blank"} |Mini Stock Tour Powered by Velocita |42 |2314 | | | | | |
 |[Danger Zone Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11066){:target="_blank"} |DZRL Short Oval Minis |26 |2287 |Fixed | | | | |
 |[Jaxson's Lawn Care Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6409){:target="_blank"} |Season 8 Mini Stocks |25 |1977 | | | | | |
-|[BRL Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6172){:target="_blank"} |Mini Stock S1 |23 |1936 |Fixed |South Boston Speedway |Sat, May 16 07:45PM EDT |Sun, May 17 12:45AM BST |Sun, May 17 09:45AM AEST |
+|[BRL Mini Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6172){:target="_blank"} |Mini Stock S1 |23 |1938 |Fixed | | | | |
 |[Slow & Sweaty Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12249){:target="_blank"} |SZN 7 \- HALF THE SIZE, DOUBLE THE FUN |13 |1962 | | | | | |
 |[All Wheel Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11435){:target="_blank"} |Left Turn Legends |12 |1522 |Both |Thompson Speedway Motorsports Park |Thu, May 21 08:00PM EDT |Fri, May 22 01:00AM BST |Fri, May 22 10:00AM AEST |
 

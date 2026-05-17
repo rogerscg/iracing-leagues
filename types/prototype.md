@@ -34,22 +34,14 @@
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |1994 |Open | | | | |
 |[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1143 |Fixed |Watkins Glen International |Mon, May 18 07:15PM EDT |Tue, May 19 12:15AM BST |Tue, May 19 09:15AM AEST |
 
-### Ligier JS P320
-
-[Back to Top](#)  
-
-| League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|-------------|--------|------|------|
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |LMP3 Trophy 2025\-2026 |26 |1995 |Open | | | | |
-
 ### Radical SR10
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------|--------|------|------|
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2026 |32 |3911 | | | | | |
-|[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2026 |22 |2409 | | | | | |
+|[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2026 |22 |2409 | |Circuit Gilles Villeneuve |Sun, May 24 07:30PM EDT |Mon, May 25 12:30AM BST |Mon, May 25 09:30AM AEST |
 
 ### Radical SR8
 
