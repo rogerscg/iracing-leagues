@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Arabia Endurance Championship \(AEC\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14471){:target="_blank"} | |AEC simulates a full 24\-hour endurance race within a single session\. Through a 2h40m race with an accelerated time cycle, drivers experience day\-to\-night transitions, evolving track conditions, and continuous strategic demands\. Competing solo in GT3 & GT4 multiclass racing, every driver is responsible for performance, consistency, and decision\-making\. No driver swaps\. No margin for error\. Endurance, redefined\. |
-|[DRL \- Season 5](https://members.iracing.com/membersite/member/LeagueView.do?league=14473){:target="_blank"} | |Degenerate Race League: 10 Race GT3 Season starts May 25th, 2026 |
-|[NW Sim Racing Shop Vs Shop](https://members.iracing.com/membersite/member/LeagueView.do?league=14476){:target="_blank"} | | |
-|[UK iRacing Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=14472){:target="_blank"} |[Discord](https://discord.gg/DRxn4HY7D){:target="_blank"} |oval racing league racing Nascar Trucks Mondays and O'Reilleys Wednesdays green flag 8pm BST |
-|[HeXagon Nation GT League](https://members.iracing.com/membersite/member/LeagueView.do?league=14475){:target="_blank"} | |Welcome to HeXagon Nation GT League\. This is our own league with invites only\.  We do races in different GT class cars\. |
 |[KSSS](https://members.iracing.com/membersite/member/LeagueView.do?league=14480){:target="_blank"} | | |
 |[Luna Labs Casting Couch](https://members.iracing.com/membersite/member/LeagueView.do?league=14479){:target="_blank"} | |Bunch of idiots in racecars trying to avoid Ian |
 |[PRESTONPIXX X LUXE PERFORMANCE](https://members.iracing.com/membersite/member/LeagueView.do?league=14478){:target="_blank"} |[Discord](https://discord.gg/CQBuPMKr){:target="_blank"} |a perth sim racing league friday night racing |
@@ -61,4 +56,8 @@
 |[GT 3 CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=14533){:target="_blank"} | | |
 |[Random Wheel Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14534){:target="_blank"} | | |
 |[SPECTRUM NIGHT IN AMERICA FINALE](https://members.iracing.com/membersite/member/LeagueView.do?league=14536){:target="_blank"} | |spectrum |
+|[Die Fertigen](https://members.iracing.com/membersite/member/LeagueView.do?league=14539){:target="_blank"} | |GT 3 Test Liga |
+|[Mom3ntum Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14543){:target="_blank"} | |Mom3ntum Racing |
+|[NESRC2\.0](https://members.iracing.com/membersite/member/LeagueView.do?league=14537){:target="_blank"} | | |
+|[RC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14538){:target="_blank"} |[Discord](https://discord.gg/eHhkTqb2){:target="_blank"} |Sports car racing for lower to mid\-tier drivers looking for clean, competitive races and a stepping stone towards the bigger leagues\. |
 
