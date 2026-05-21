@@ -15,31 +15,38 @@
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |ARCA Series \- Season 4 |Fixed |Daytona International Speedway |Thu, May 21 07:45PM EDT |Fri, May 22 12:45AM BST |Fri, May 22 09:45AM AEST |
 |[ONRL \(ORANGEFIN NATIONAL RACING LEAGUE\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14498){:target="_blank"} |MCV DESIGNS CUP SERIES \| SEASON 1 |Fixed |Daytona International Speedway |Sat, May 23 07:25PM EDT |Sun, May 24 12:25AM BST |Sun, May 24 09:25AM AEST |
 
+### NASCAR 2003 Gen 4
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|--------------|-----------------------|-----------------------|------------------------|
+|[Racers Elite \- Thursday Gen 4 Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9514){:target="_blank"} |Racers Elite \- Gen 4 Fixed Series \(Season 2\) |Fixed |Pocono Raceway |Thu, May 28 05:35PM EDT |Thu, May 28 10:35PM BST |Fri, May 29 07:35AM AEST |
+
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|-----------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[Pit Road Speed Limit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12735){:target="_blank"} |Next Gen S3 |Fixed |Daytona International Speedway |Wed, May 27 08:00PM EDT |Thu, May 28 01:00AM BST |Thu, May 28 10:00AM AEST |
-|[Full Send Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13389){:target="_blank"} |Full Send Season 2 | |Daytona International Speedway |Wed, May 20 08:30PM EDT |Thu, May 21 01:30AM BST |Thu, May 21 10:30AM AEST |
 
 ### NASCAR Cup
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[Wednesday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=13421){:target="_blank"} |WNT Season 2 |Fixed |Daytona International Speedway |Wed, May 20 08:30PM EDT |Thu, May 21 01:30AM BST |Thu, May 21 10:30AM AEST |
+|-------------------------------------------------------------------------------------------------------------------|---------------|-----|------------------|-----------------------|-----------------------|------------------------|
+|[Doghouse Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7031){:target="_blank"} |Preseason Event |Both |Auto Club Speedway |Tue, May 26 07:00PM EDT |Wed, May 27 12:00AM BST |Wed, May 27 09:00AM AEST |
 
 ### NASCAR O'Reilly Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[American Sim Racer™️](https://members.iracing.com/membersite/member/LeagueView.do?league=13279){:target="_blank"} |ASR O'Reilly's Series |Fixed |Daytona International Speedway |Thu, May 21 07:25PM EDT |Fri, May 22 12:25AM BST |Fri, May 22 09:25AM AEST |
-|[UK iRacing Oval League](https://members.iracing.com/membersite/member/LeagueView.do?league=14472){:target="_blank"} |SEASON 0\.5 O'REILEYS AUTOPARTS |Fixed |Dover Motor Speedway |Wed, May 20 02:00PM EDT |Wed, May 20 07:00PM BST |Thu, May 21 04:00AM AEST |
+|[FTSR Vanlily's Stickers Series \(Tuesdays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2607){:target="_blank"} |2026\-B |Open |Nashville Superspeedway |Tue, May 26 08:00PM EDT |Wed, May 27 01:00AM BST |Wed, May 27 10:00AM AEST |
 |[Oceanic Stock Car Association \(OSCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14513){:target="_blank"} |2026 OSCA Qualifying Series | |Charlotte Motor Speedway  |Mon, May 25 05:10AM EDT |Mon, May 25 10:10AM BST |Mon, May 25 07:10PM AEST |
 
 ### NASCAR Truck Series
@@ -47,10 +54,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
 |[Racers Elite \- Tuesday Truck Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9801){:target="_blank"} |Racers Elite \- Truck Fixed Series \(Season 11\) |Fixed |Indianapolis Motor Speedway |Tue, May 26 05:35PM EDT |Tue, May 26 10:35PM BST |Wed, May 27 07:35AM AEST |
-|[AOLL Racing's Sportsman Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5052){:target="_blank"} |2026 AOLL Truck Series |Fixed |Daytona International Speedway |Wed, May 20 07:00PM EDT |Thu, May 21 12:00AM BST |Thu, May 21 09:00AM AEST |
-|[FTSR SimRacingPoints\.com Truck Series \(Wednesdays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2486){:target="_blank"} |2026\-B |Open |Charlotte Motor Speedway  |Wed, May 20 08:00PM EDT |Thu, May 21 01:00AM BST |Thu, May 21 10:00AM AEST |
+|[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |Thursday Super Trucks Summer 2026 |Fixed |Nashville Superspeedway |Thu, May 28 08:45PM EDT |Fri, May 29 01:45AM BST |Fri, May 29 10:45AM AEST |
+
+### SK Modified
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|--------------|-----|-------------------|-----------------------|-----------------------|------------------------|
+|[AOW Modified Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14535){:target="_blank"} |AOWMT Season 1 | |New Smyrna Speedway |Wed, May 27 08:30PM EDT |Thu, May 28 01:30AM BST |Thu, May 28 10:30AM AEST |
 
 # Oval
 
@@ -115,12 +129,21 @@
 |---------------------------------------------------------------------------------------------------------------|----------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
 |[Motor City Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12105){:target="_blank"} |GTE Series |Open |Sebring International Raceway |Sun, May 24 08:00PM EDT |Mon, May 25 01:00AM BST |Mon, May 25 10:00AM AEST |
 
+### Porsche 911 Cup (992.2)
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------|-------------------------------------|-----|--------------|-----------------------|-----------------------|------------------------|
+|[TRACKILICIOUS](https://members.iracing.com/membersite/member/LeagueView.do?league=10794){:target="_blank"} |TRACKILICIOUS 992\.2 Mini Season 2026 | |Circuit Zolder |Thu, May 28 07:00PM EDT |Fri, May 29 12:00AM BST |Fri, May 29 09:00AM AEST |
+
 ### Toyota GR86
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------|------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-----------------------------|-----------------------|-----------------------|------------------------|
+|[AINO IMAGE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14367){:target="_blank"} |AINO IMAGE Racing iR Cup 2026 |Fixed |Tsukuba Circuit |Sun, May 24 03:15PM EDT |Sun, May 24 08:15PM BST |Mon, May 25 05:15AM AEST |
 |[Titan Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14483){:target="_blank"} |GR86CC |Fixed |Motorsport Arena Oschersleben |Sat, May 23 02:00PM EDT |Sat, May 23 07:00PM BST |Sun, May 24 04:00AM AEST |
 
 # Prototype
@@ -134,14 +157,6 @@
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 2 |Both |WeatherTech Raceway at Laguna Seca |Sat, May 23 06:30PM EDT |Sat, May 23 11:30PM BST |Sun, May 24 08:30AM AEST |
 
 # Dirt Oval
-
-### Dirt 358 Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------|-----|-----------------------|-----------------------|-----------------------|------------------------|
-|[U\.S\.O\.R\.A Dirt League](https://members.iracing.com/membersite/member/LeagueView.do?league=14329){:target="_blank"} |Usora Dirt Season 1 | |Williams Grove Speedway |Wed, May 20 07:30PM EDT |Thu, May 21 12:30AM BST |Thu, May 21 09:30AM AEST |
 
 ### Dirt Late Model - Pro
 
@@ -164,8 +179,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------|-----------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
 |[RWFWSAI](https://members.iracing.com/membersite/member/LeagueView.do?league=14266){:target="_blank"} |Summer Dirt Series 2026 | |The Dirt Track at Charlotte |Thu, May 21 09:00PM EDT |Fri, May 22 02:00AM BST |Fri, May 22 11:00AM AEST |
+|[Afb Lounge Dirt Speedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=12924){:target="_blank"} |AFB 360 2026 | |Lucas Oil Speedway |Fri, May 22 05:00AM EDT |Fri, May 22 10:00AM BST |Fri, May 22 07:00PM AEST |
 
 ### Dirt Sprintcar - 410
 
@@ -175,23 +191,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----|---------------------------|-----------------------|-----------------------|------------------------|
 |[Simulated International Motor Car Auto Racing \(Invitational\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9235){:target="_blank"} |410 Sprints |Fixed |The Dirt Track at Charlotte |Sun, May 24 11:00PM EDT |Mon, May 25 04:00AM BST |Mon, May 25 01:00PM AEST |
 
-### Dirt UMP Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|---------------------|-----------------------|-----------------------|------------------------|
-|[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |UMP Modifieds 2026\.2 |Open |Volusia Speedway Park |Wed, May 20 08:00PM EDT |Thu, May 21 01:00AM BST |Thu, May 21 10:00AM AEST |
-
 # Multi-class/Unclassified
-
-### GT3 2025
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------|-----------------------------------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
-|[ATRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=12412){:target="_blank"} |Temporada 8 \- DTM \- Cistal Water Piscinas Cup |Both |Circuit de Spa-Francorchamps |Wed, May 20 08:15PM EDT |Thu, May 21 01:15AM BST |Thu, May 21 10:15AM AEST |
 
 ### Hosted All Cars Class
 

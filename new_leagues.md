@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[KSSS](https://members.iracing.com/membersite/member/LeagueView.do?league=14480){:target="_blank"} | | |
-|[Luna Labs Casting Couch](https://members.iracing.com/membersite/member/LeagueView.do?league=14479){:target="_blank"} | |Bunch of idiots in racecars trying to avoid Ian |
-|[PRESTONPIXX X LUXE PERFORMANCE](https://members.iracing.com/membersite/member/LeagueView.do?league=14478){:target="_blank"} |[Discord](https://discord.gg/CQBuPMKr){:target="_blank"} |a perth sim racing league friday night racing |
 |[CRFS Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14487){:target="_blank"} | | |
 |[Kips Crew](https://members.iracing.com/membersite/member/LeagueView.do?league=14485){:target="_blank"} | |The Ugly Nasty Boys Racing League |
 |[LeadFoot ARCA Series Powered By Trackside Graphics](https://members.iracing.com/membersite/member/LeagueView.do?league=14486){:target="_blank"} |[Discord](https://discord.gg/leadfoot){:target="_blank"} |Welcome to LeadFoot Motorsports, a competitive and professionally organized iRacing league featuring the Arca Menards Series\. If you’re seeking a balance of high\-level competition and an enjoyable racing environment, you’ve come to the right place\. Races are held every Thursday evening, with practice sessions running from 7:00 PM to 8:00 PM Eastern Time\. Qualifying begins promptly at 8:00 PM, followed immediately by the race\. If you’re interested in joining or would like more information, please connect with us on Discord: discord\.gg/leadfoot |
@@ -28,7 +25,7 @@
 |[kelley racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14502){:target="_blank"} | | |
 |[Odyssey Motorsport Charity League](https://members.iracing.com/membersite/member/LeagueView.do?league=14503){:target="_blank"} | |A league for OMTV Charity races |
 |[CLUBE DA VELOCIDADE](https://members.iracing.com/membersite/member/LeagueView.do?league=14506){:target="_blank"} | |Clube destinado a organizar eventos de campeonatos de automobilismo Real e Virtual\. |
-|[Draft4Cash](https://members.iracing.com/membersite/member/LeagueView.do?league=14511){:target="_blank"} | |Draft4Cash 200 @ Talladega \- May 17 2026 |
+|[Draft4Cash](https://members.iracing.com/membersite/member/LeagueView.do?league=14511){:target="_blank"} | |Draft4Cash 200 @ Talladega \- May 29, 2026 5 pm ET / 10 pm GMT\+1 |
 |[LEGGER HIGH GRIP RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=14507){:target="_blank"} | |Legger High Grip Racing \(LHGR\) is a competitive sim racing league focused on clean, intense, and professional racing\. Built for drivers who value skill, consistency, and respect on track, LHGR delivers organized championships, exciting battles, and a strong racing community\.   Our goal is to create an environment where drivers of different experience levels can compete fairly, improve their racecraft, and enjoy high\-quality motorsport action across a variety of circuits and racing categories\.   Whether you’re fighting for podiums, championships, or simply looking for great racing every week, LHGR is built for passionate drivers who race hard and race fair\. |
 |[SDR GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=14509){:target="_blank"} | |GT3 |
 |[Tronsø](https://members.iracing.com/membersite/member/LeagueView.do?league=14504){:target="_blank"} | | |
@@ -38,7 +35,7 @@
 |[Full Send Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14516){:target="_blank"} | | |
 |[Oceanic Stock Car Association \(OSCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14513){:target="_blank"} | | |
 |[BMW North America](https://members.iracing.com/membersite/member/LeagueView.do?league=14522){:target="_blank"} | |This league is intended for all BMW and MINI Service Personal |
-|[RBNL](https://members.iracing.com/membersite/member/LeagueView.do?league=14518){:target="_blank"} | |Dutch Racing League |
+|[RBNL Doe vooral mee](https://members.iracing.com/membersite/member/LeagueView.do?league=14518){:target="_blank"} | |Dutch Racing League |
 |[Rough Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14520){:target="_blank"} | |Mini Stock League for newer and novice level drivers\. |
 |[Slideways Summer Invitationals](https://members.iracing.com/membersite/member/LeagueView.do?league=14519){:target="_blank"} |[Discord](https://discord.gg/GSBVq48A){:target="_blank"} |10 weeks of unhinged, multi\-surface double\-headers with zero points, zero tracking software, and zero filters—show up, drive it loose, and talk your trash\. |
 |[SUPERLAP Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14521){:target="_blank"} | | |
@@ -60,4 +57,8 @@
 |[Mom3ntum Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14543){:target="_blank"} | |Mom3ntum Racing |
 |[NESRC2\.0](https://members.iracing.com/membersite/member/LeagueView.do?league=14537){:target="_blank"} | | |
 |[RC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14538){:target="_blank"} |[Discord](https://discord.gg/eHhkTqb2){:target="_blank"} |Sports car racing for lower to mid\-tier drivers looking for clean, competitive races and a stepping stone towards the bigger leagues\. |
+|[Couchmaster iRacing Saison 1](https://members.iracing.com/membersite/member/LeagueView.do?league=14544){:target="_blank"} | | |
+|[ESSRA F4 championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14545){:target="_blank"} | |ESSRA proudly presents F4 championship |
+|[GSG Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=14546){:target="_blank"} | |asphalt late models |
+|[Indycar](https://members.iracing.com/membersite/member/LeagueView.do?league=14547){:target="_blank"} | | |
 
