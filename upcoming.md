@@ -12,7 +12,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[DOB Pavement Division](https://members.iracing.com/membersite/member/LeagueView.do?league=3678){:target="_blank"} |ARCA Season 1 |Fixed |Kentucky Speedway |Tue, May 26 08:45PM EDT |Wed, May 27 01:45AM BST |Wed, May 27 10:45AM AEST |
-|[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |ARCA Series \- Season 4 |Fixed |Daytona International Speedway |Thu, May 21 07:45PM EDT |Fri, May 22 12:45AM BST |Fri, May 22 09:45AM AEST |
 |[ONRL \(ORANGEFIN NATIONAL RACING LEAGUE\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14498){:target="_blank"} |MCV DESIGNS CUP SERIES \| SEASON 1 |Fixed |Daytona International Speedway |Sat, May 23 07:25PM EDT |Sun, May 24 12:25AM BST |Sun, May 24 09:25AM AEST |
 
 ### NASCAR 2003 Gen 4
@@ -44,8 +43,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
-|[American Sim Racer™️](https://members.iracing.com/membersite/member/LeagueView.do?league=13279){:target="_blank"} |ASR O'Reilly's Series |Fixed |Daytona International Speedway |Thu, May 21 07:25PM EDT |Fri, May 22 12:25AM BST |Fri, May 22 09:25AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|-----|-------------------------|-----------------------|-----------------------|------------------------|
 |[FTSR Vanlily's Stickers Series \(Tuesdays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2607){:target="_blank"} |2026\-B |Open |Nashville Superspeedway |Tue, May 26 08:00PM EDT |Wed, May 27 01:00AM BST |Wed, May 27 10:00AM AEST |
 |[Oceanic Stock Car Association \(OSCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14513){:target="_blank"} |2026 OSCA Qualifying Series | |Charlotte Motor Speedway  |Mon, May 25 05:10AM EDT |Mon, May 25 10:10AM BST |Mon, May 25 07:10PM AEST |
 
@@ -94,21 +92,12 @@
 
 # Open-wheel
 
-### Dallara IR18
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------------|-----------------------|-----------------------|------------------------|
-|[Morning Wood Camping\.](https://members.iracing.com/membersite/member/LeagueView.do?league=11095){:target="_blank"} |Summer 2026 Indy cars | |Texas Motor Speedway |Thu, May 21 07:00PM EDT |Fri, May 22 12:00AM BST |Fri, May 22 09:00AM AEST |
-
 ### FIA F4
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------------------------|-----|----------------------------------|-----------------------|-----------------------|------------------------|
-|[Aðalbón Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12488){:target="_blank"} |F4 2026 by Aðalbón |Open |Suzuka International Racing Course |Thu, May 21 03:00PM EDT |Thu, May 21 08:00PM BST |Fri, May 22 05:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------|------------------------|-----|----------------------------|-----------------------|-----------------------|------------------------|
 |[CLUBE DA VELOCIDADE](https://members.iracing.com/membersite/member/LeagueView.do?league=14506){:target="_blank"} |CDV \- T1/2026 \- FIA F4 | |Circuit de Spa-Francorchamps |Tue, May 26 07:00PM EDT |Wed, May 27 12:00AM BST |Wed, May 27 09:00AM AEST |
 
 ### Ray FF1600
@@ -120,6 +109,14 @@
 |[JWB British Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14433){:target="_blank"} |BFFS Season 1 | |Silverstone Circuit |Sun, May 24 12:30PM EDT |Sun, May 24 05:30PM BST |Mon, May 25 02:30AM AEST |
 
 # Sports Car
+
+### Ford Mustang GT4
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------|--------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Mustang Cup S1 |Fixed |Virginia International Raceway |Fri, May 29 07:30PM EDT |Sat, May 30 12:30AM BST |Sat, May 30 09:30AM AEST |
 
 ### GTE Class
 
@@ -179,8 +176,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
-|[RWFWSAI](https://members.iracing.com/membersite/member/LeagueView.do?league=14266){:target="_blank"} |Summer Dirt Series 2026 | |The Dirt Track at Charlotte |Thu, May 21 09:00PM EDT |Fri, May 22 02:00AM BST |Fri, May 22 11:00AM AEST |
+|-----------------------------------------------------------------------------------------------------------------------------|------------|-----|------------------|-----------------------|-----------------------|------------------------|
 |[Afb Lounge Dirt Speedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=12924){:target="_blank"} |AFB 360 2026 | |Lucas Oil Speedway |Fri, May 22 05:00AM EDT |Fri, May 22 10:00AM BST |Fri, May 22 07:00PM AEST |
 
 ### Dirt Sprintcar - 410
@@ -198,16 +194,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|---------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-----|------------------------------|-----------------------|-----------------------|------------------------|
 |[First Gear Racing Memorial Weekend Double](https://members.iracing.com/membersite/member/LeagueView.do?league=12012){:target="_blank"} |FGR Memorial Weekend Double \- 2026 |Fixed |Indianapolis Motor Speedway |Sat, May 23 11:00AM EDT |Sat, May 23 04:00PM BST |Sun, May 24 01:00AM AEST |
-|[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |Bragging Rights 2026\.2 |Open |Williams Grove Speedway |Thu, May 21 08:00PM EDT |Fri, May 22 01:00AM BST |Fri, May 22 10:00AM AEST |
 |[Slideways Summer Invitationals](https://members.iracing.com/membersite/member/LeagueView.do?league=14519){:target="_blank"} |Season 1 |Fixed |LA Coliseum Raceway |Tue, May 26 10:00PM EDT |Wed, May 27 03:00AM BST |Wed, May 27 12:00PM AEST |
+|[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |I'MSAved GT3/GT4 Sunday Night Road Series 2026 Season 2 | |Virginia International Raceway |Sun, May 24 07:00PM EDT |Mon, May 25 12:00AM BST |Mon, May 25 09:00AM AEST |
 
 ### Touring Car
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|------------|-----|------------------|-----------------------|-----------------------|------------------------|
+|----------------------------------------------------------------------------------------------------------------------|----------------|-----|------------------|-----------------------|-----------------------|------------------------|
+|[Virtual Circuit Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13515){:target="_blank"} |VCR TCR Season 2 |Fixed |Thruxton Circuit |Fri, May 29 01:00PM EDT |Fri, May 29 06:00PM BST |Sat, May 30 03:00AM AEST |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |CAC Season 3 | |Snetterton Circuit |Tue, May 26 08:00PM EDT |Wed, May 27 01:00AM BST |Wed, May 27 10:00AM AEST |
 
