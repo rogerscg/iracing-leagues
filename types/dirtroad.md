@@ -22,7 +22,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|------------------------------------|-----------------------|-----------------------|------------------------|
-|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 12 \- Pro 2 Lites |58 |3051 | |Wild West Motorsports Park |Fri, May 22 08:30PM EDT |Sat, May 23 01:30AM BST |Sat, May 23 10:30AM AEST |
+|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 12 \- Pro 2 Lites |61 |3096 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/TINYTRUCK \- 2026 |26 |3374 |Fixed | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO2 20/20 fights |16 |1423 |Fixed |Federated Auto Parts Raceway at I-55 |Sun, May 24 04:00PM EDT |Sun, May 24 09:00PM BST |Mon, May 25 06:00AM AEST |
 
