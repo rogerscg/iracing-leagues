@@ -9,7 +9,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-----------------------------------|-----------------------|-----------------------|------------------------|
-|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |CMSC Esports Syren RCX Crosscar Cup |24 |1373 | |Daytona Rallycross and Dirt Road |Sun, May 24 02:00AM EDT |Sun, May 24 07:00AM BST |Sun, May 24 04:00PM AEST |
+|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |CMSC Esports Syren RCX Crosscar Cup |24 |1384 | | | | | |
 |[Motorsport UK Cross Car Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=13847){:target="_blank"} |2026 |21 |2778 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Cross Car \- 2026 \(Sat\) |16 |2420 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/Cross Car \- 2026 |14 |2742 |Fixed | | | | |
@@ -21,10 +21,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|------------------------------------|-----------------------|-----------------------|------------------------|
+|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|----------------|-----------------------|-----------------------|-------------------------|
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 12 \- Pro 2 Lites |61 |3096 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/TINYTRUCK \- 2026 |26 |3374 |Fixed | | | | |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO2 20/20 fights |16 |1423 |Fixed |Federated Auto Parts Raceway at I-55 |Sun, May 24 04:00PM EDT |Sun, May 24 09:00PM BST |Mon, May 25 06:00AM AEST |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO2 20/20 fights |17 |1374 |Fixed |Huset's Speedway |Sun, May 31 04:00PM EDT |Sun, May 31 09:00PM BST |Mon, June 01 06:00AM AEST |
 
 ### Pro 4 Truck
 

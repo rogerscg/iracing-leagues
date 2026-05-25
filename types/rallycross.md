@@ -30,10 +30,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|------------------------------|-----------------------|-----------------------|------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|-------------|-----------------------|------------------------|-------------------------|
+|[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |05\. Sunday Night Lites \(May 2026 Season\) |25 |3522 | |Iowa Speedway |Sun, May 31 08:45PM EDT |Mon, June 01 01:45AM BST |Mon, June 01 10:45AM AEST |
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |03 Friday Night Lites \(March 2026 Season\) |23 |3366 | | | | | |
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |04\. Sunday Night Lites \(April 2026 Season\) |23 |3501 | | | | | |
-|[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |05\. Sunday Night Lites \(May 2026 Season\) |22 |3671 | |Circuit de Barcelona Catalunya |Sun, May 24 08:45PM EDT |Mon, May 25 01:45AM BST |Mon, May 25 10:45AM AEST |
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |RallyCross Championship of Ukraine 2026 |14 |1577 |Both | | | | |
 |[LSR British Club Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13371){:target="_blank"} |Spring 26 \- Rallycross |11 |1930 |Open | | | | |
 
