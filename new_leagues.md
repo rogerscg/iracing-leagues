@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[kelley racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14502){:target="_blank"} | | |
-|[Odyssey Motorsport Charity League](https://members.iracing.com/membersite/member/LeagueView.do?league=14503){:target="_blank"} | |A league for OMTV Charity races |
 |[CLUBE DA VELOCIDADE](https://members.iracing.com/membersite/member/LeagueView.do?league=14506){:target="_blank"} | |Clube destinado a organizar eventos de campeonatos de automobilismo Real e Virtual\. |
 |[Draft4Cash](https://members.iracing.com/membersite/member/LeagueView.do?league=14511){:target="_blank"} | |Draft4Cash 200 @ Talladega \- May 29, 2026 5 pm ET / 10 pm GMT\+1 |
 |[LEGGER HIGH GRIP RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=14507){:target="_blank"} | |Legger High Grip Racing \(LHGR\) is a competitive sim racing league focused on clean, intense, and professional racing\. Built for drivers who value skill, consistency, and respect on track, LHGR delivers organized championships, exciting battles, and a strong racing community\.   Our goal is to create an environment where drivers of different experience levels can compete fairly, improve their racecraft, and enjoy high\-quality motorsport action across a variety of circuits and racing categories\.   Whether you’re fighting for podiums, championships, or simply looking for great racing every week, LHGR is built for passionate drivers who race hard and race fair\. |
@@ -45,7 +43,7 @@
 |[Energy Motorsport Performance Endurance ligue](https://members.iracing.com/membersite/member/LeagueView.do?league=14551){:target="_blank"} |[Discord](https://discord.gg/6BnEmqfZB4){:target="_blank"} |Saison 1 ligue endurance |
 |[Ignition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14550){:target="_blank"} |[Discord](https://discord.gg/jkepzzZx){:target="_blank"} |Ignition Series Truck League |
 |[OrangeLine Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14553){:target="_blank"} | | |
-|[Ozzie Thunder F4 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14554){:target="_blank"} | |Weekly regular , Heat and Enduro Racing |
+|[Ozzie Thunder F4 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14554){:target="_blank"} |[Discord](https://discord.gg/P5NfFh3n){:target="_blank"} |Weekly regular , Heat and Enduro Racing |
 |[Southern Plains NASCAR League](https://members.iracing.com/membersite/member/LeagueView.do?league=14552){:target="_blank"} |[Discord](https://discord.gg/rFMXW4ugqN){:target="_blank"} |Go fast and have fun\! |
 |[Wild & Wingless Motorsport Media](https://members.iracing.com/membersite/member/LeagueView.do?league=14548){:target="_blank"} | |Non\-Winged Dirt Sprint Car, Fixed Set Up |
 |[Brinz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14558){:target="_blank"} | |Brinz racing League \(BRL\) is a new league wanting to build into a multi series league with big special events\. |
@@ -59,4 +57,6 @@
 |[Shake n Bake](https://members.iracing.com/membersite/member/LeagueView.do?league=14563){:target="_blank"} | |Just for fun |
 |[GPR \- practice sessions](https://members.iracing.com/membersite/member/LeagueView.do?league=14564){:target="_blank"} | |GPR \- practice sessions |
 |[Mustang Challenge Enduro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14565){:target="_blank"} |[Discord](https://discord.gg/BJ8d5Aq32Z){:target="_blank"} |Endurance Series presented by the Mustang Challenge Community |
+|[Ghost Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14566){:target="_blank"} | | |
+|[JAZ Coin League](https://members.iracing.com/membersite/member/LeagueView.do?league=14567){:target="_blank"} | | |
 
