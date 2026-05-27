@@ -1,12 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[CLUBE DA VELOCIDADE](https://members.iracing.com/membersite/member/LeagueView.do?league=14506){:target="_blank"} | |Clube destinado a organizar eventos de campeonatos de automobilismo Real e Virtual\. |
-|[Draft4Cash](https://members.iracing.com/membersite/member/LeagueView.do?league=14511){:target="_blank"} | |Draft4Cash 200 @ Talladega \- May 29, 2026 5 pm ET / 10 pm GMT\+1 |
-|[LEGGER HIGH GRIP RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=14507){:target="_blank"} | |Legger High Grip Racing \(LHGR\) is a competitive sim racing league focused on clean, intense, and professional racing\. Built for drivers who value skill, consistency, and respect on track, LHGR delivers organized championships, exciting battles, and a strong racing community\.   Our goal is to create an environment where drivers of different experience levels can compete fairly, improve their racecraft, and enjoy high\-quality motorsport action across a variety of circuits and racing categories\.   Whether you’re fighting for podiums, championships, or simply looking for great racing every week, LHGR is built for passionate drivers who race hard and race fair\. |
-|[SDR GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=14509){:target="_blank"} | |GT3 |
-|[Tronsø](https://members.iracing.com/membersite/member/LeagueView.do?league=14504){:target="_blank"} | | |
+|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Vesta Sport ASD](https://members.iracing.com/membersite/member/LeagueView.do?league=14512){:target="_blank"} | | |
 |[CHOP SHOP NATIONALS](https://members.iracing.com/membersite/member/LeagueView.do?league=14517){:target="_blank"} | | |
 |[Freebie Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=14514){:target="_blank"} | |Free Content Thursday |
@@ -59,4 +54,5 @@
 |[Mustang Challenge Enduro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14565){:target="_blank"} |[Discord](https://discord.gg/BJ8d5Aq32Z){:target="_blank"} |Endurance Series presented by the Mustang Challenge Community |
 |[Ghost Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14566){:target="_blank"} | | |
 |[JAZ Coin League](https://members.iracing.com/membersite/member/LeagueView.do?league=14567){:target="_blank"} | | |
+|[Copper League](https://members.iracing.com/membersite/member/LeagueView.do?league=14568){:target="_blank"} | | |
 
