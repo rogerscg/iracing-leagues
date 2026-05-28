@@ -2,13 +2,12 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Vesta Sport ASD](https://members.iracing.com/membersite/member/LeagueView.do?league=14512){:target="_blank"} | | |
 |[CHOP SHOP NATIONALS](https://members.iracing.com/membersite/member/LeagueView.do?league=14517){:target="_blank"} | | |
 |[Freebie Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=14514){:target="_blank"} | |Free Content Thursday |
 |[Full Send Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14516){:target="_blank"} | | |
 |[Oceanic Stock Car Association \(OSCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14513){:target="_blank"} | | |
 |[BMW North America](https://members.iracing.com/membersite/member/LeagueView.do?league=14522){:target="_blank"} | |This league is intended for all BMW and MINI Service Personal |
-|[RBNL Doe vooral mee](https://members.iracing.com/membersite/member/LeagueView.do?league=14518){:target="_blank"} | |Dutch Racing League |
+|[RBNL Doe vooral mee](https://members.iracing.com/membersite/member/LeagueView.do?league=14518){:target="_blank"} | |Dutch Racing League RaceBrothersNL |
 |[Rough Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14520){:target="_blank"} | |Mini Stock League for newer and novice level drivers\. |
 |[Slideways Summer Invitationals](https://members.iracing.com/membersite/member/LeagueView.do?league=14519){:target="_blank"} |[Discord](https://discord.gg/GSBVq48A){:target="_blank"} |10 weeks of unhinged, multi\-surface double\-headers with zero points, zero tracking software, and zero filters—show up, drive it loose, and talk your trash\. |
 |[SUPERLAP Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14521){:target="_blank"} | | |
@@ -55,4 +54,11 @@
 |[Ghost Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14566){:target="_blank"} | | |
 |[JAZ Coin League](https://members.iracing.com/membersite/member/LeagueView.do?league=14567){:target="_blank"} | | |
 |[Copper League](https://members.iracing.com/membersite/member/LeagueView.do?league=14568){:target="_blank"} | | |
+|[Digital Dirt Outlaw Racing League \(DDORL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14576){:target="_blank"} |[Discord](https://discord.gg/7s24DBf8S){:target="_blank"} |Have fun, Race clean |
+|[Draft House](https://members.iracing.com/membersite/member/LeagueView.do?league=14573){:target="_blank"} | |https://whop\.com/joined/draft\-house\-racing/ |
+|[RAA SimSport](https://members.iracing.com/membersite/member/LeagueView.do?league=14570){:target="_blank"} | | |
+|[Rocket Dirt Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14572){:target="_blank"} | |beginner friendly, no minimum rating required and no max rating cap\. we run fixed setups\. Rough Driving will not be tolerated\. |
+|[The Green Hell Legacy League](https://members.iracing.com/membersite/member/LeagueView.do?league=14571){:target="_blank"} | | |
+|[VISRA Florida Academy Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14574){:target="_blank"} | | |
+|[Four Tire Fire](https://members.iracing.com/membersite/member/LeagueView.do?league=14575){:target="_blank"} | | |
 
