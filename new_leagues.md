@@ -1,16 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[CHOP SHOP NATIONALS](https://members.iracing.com/membersite/member/LeagueView.do?league=14517){:target="_blank"} | | |
-|[Freebie Thursday](https://members.iracing.com/membersite/member/LeagueView.do?league=14514){:target="_blank"} | |Free Content Thursday |
-|[Full Send Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14516){:target="_blank"} | | |
-|[Oceanic Stock Car Association \(OSCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14513){:target="_blank"} | | |
-|[BMW North America](https://members.iracing.com/membersite/member/LeagueView.do?league=14522){:target="_blank"} | |This league is intended for all BMW and MINI Service Personal |
-|[RBNL Doe vooral mee](https://members.iracing.com/membersite/member/LeagueView.do?league=14518){:target="_blank"} | |Dutch Racing League RaceBrothersNL |
-|[Rough Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14520){:target="_blank"} | |Mini Stock League for newer and novice level drivers\. |
-|[Slideways Summer Invitationals](https://members.iracing.com/membersite/member/LeagueView.do?league=14519){:target="_blank"} |[Discord](https://discord.gg/GSBVq48A){:target="_blank"} |10 weeks of unhinged, multi\-surface double\-headers with zero points, zero tracking software, and zero filters—show up, drive it loose, and talk your trash\. |
-|[SUPERLAP Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14521){:target="_blank"} | | |
+|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[ARES \- Americas Racing Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14524){:target="_blank"} | |GT Global Endurance Challenge |
 |[Flashpoint Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14525){:target="_blank"} | | |
 |[iRacing Carnival in宴](https://members.iracing.com/membersite/member/LeagueView.do?league=14523){:target="_blank"} | | |
@@ -40,7 +31,7 @@
 |[Ozzie Thunder F4 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14554){:target="_blank"} |[Discord](https://discord.gg/P5NfFh3n){:target="_blank"} |Weekly regular , Heat and Enduro Racing |
 |[Southern Plains NASCAR League](https://members.iracing.com/membersite/member/LeagueView.do?league=14552){:target="_blank"} |[Discord](https://discord.gg/rFMXW4ugqN){:target="_blank"} |Go fast and have fun\! |
 |[Wild & Wingless Motorsport Media](https://members.iracing.com/membersite/member/LeagueView.do?league=14548){:target="_blank"} | |Non\-Winged Dirt Sprint Car, Fixed Set Up |
-|[Brinz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14558){:target="_blank"} | |Brinz racing League \(BRL\) is a new league wanting to build into a multi series league with big special events\. |
+|[Brinz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14558){:target="_blank"} | |Brinz racing League \(BRL\) is a new league wanting to build into a multi series league with big special events meant for people of all skill levels\. |
 |[Elite Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14556){:target="_blank"} | | |
 |[Freedom Racing Late Model Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14559){:target="_blank"} | |120% LMSC \(110% Power 90% Weight\) at big tracks |
 |[MX\-5 Proving Grounds](https://members.iracing.com/membersite/member/LeagueView.do?league=14557){:target="_blank"} | |MX\-5 Proving Grounds is an independent Season 1 iRacing MX\-5 championship built around structured qualifying, qualifying\-based split racing, one unified points championship, race control, and broadcast\-focused Thursday night events\. Drivers register once, join the official roster, and race placement is determined by official qualifying\. Race nights: Thursdays at 7:00 PM ET\. |
@@ -61,4 +52,16 @@
 |[The Green Hell Legacy League](https://members.iracing.com/membersite/member/LeagueView.do?league=14571){:target="_blank"} | | |
 |[VISRA Florida Academy Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14574){:target="_blank"} | | |
 |[Four Tire Fire](https://members.iracing.com/membersite/member/LeagueView.do?league=14575){:target="_blank"} | | |
+|[Checkers or Wreckers](https://members.iracing.com/membersite/member/LeagueView.do?league=14585){:target="_blank"} |[Discord](https://discord.gg/vxn7EFj5){:target="_blank"} |NASCAR CARS, NASCAR TRACKS\. Friday night clean, competitive, fun racing\. Come out and leave a mark |
+|[Front Of House](https://members.iracing.com/membersite/member/LeagueView.do?league=14580){:target="_blank"} | |Gratuity Grinders |
+|[Gamers Helping Sick Kids](https://members.iracing.com/membersite/member/LeagueView.do?league=14577){:target="_blank"} | | |
+|[High Side Motorsports Rookie Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14582){:target="_blank"} | |Entry level series for high side motorsports |
+|[iRacing Talents](https://members.iracing.com/membersite/member/LeagueView.do?league=14579){:target="_blank"} | |we are the greatest talents of all time |
+|[KRBR \- Kart Racing Brasil \(Endurance\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14591){:target="_blank"} | |KRBR é uma LIGA que organiza eventos de campeonatos SIM, combinando a paixão de ambos os mundos para criar uma comunidade SIM competitiva para todos os níveis de habilidade\. Com as intensas batalhas por centésimos na frente, esta série se desenvolveu em nossa série mais competitiva\. Pedimos que todos os inscritos tenham confiança em sua competência na pista\. A qualidade da liga será reforçada com supervisão para manter os incidentes na pista ao mínimo\! |
+|[MWRT IRACING ASSOCIATION](https://members.iracing.com/membersite/member/LeagueView.do?league=14578){:target="_blank"} | | |
+|[SACK Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14581){:target="_blank"} | | |
+|[SDS Race Night In America Hooked Super Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=14589){:target="_blank"} | |Super Lates |
+|[SMX CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=14590){:target="_blank"} | |FULL THROTLE SIM RACING LEAGUE, WE RACE ALL CATEGORIES, LOOKING TO BUILD THE BEST BROTHERHOOD IN IRACING\. WE RACE EVERY TUESDAY PRACTICE STARTS AT 7PM PST TIME |
+|[Trench Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14583){:target="_blank"} |[Discord](https://discord.gg/Eq4q6fnGHh){:target="_blank"} |A league made for those who want to have hard clean racing\! |
+|[young racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14584){:target="_blank"} | |fam |
 

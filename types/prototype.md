@@ -19,10 +19,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|--------------------------------|-----------------------|-----------------------|------------------------|
-|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |58 |4543 | |Detroit Grand Prix at Belle Isle |Thu, May 28 01:00PM EDT |Thu, May 28 06:00PM BST |Fri, May 29 03:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-----------------------|------------------------|------------------------|-------------------------|
+|[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |59 |4534 | |Road America |Wed, June 03 01:00PM EDT |Wed, June 03 06:00PM BST |Thu, June 04 03:00AM AEST |
 |[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Manawatu Car CLub E Summer Series |36 |1596 | | | | | |
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |35 |2882 |Open |Nürburgring Nordschleife |Thu, May 28 02:15PM EDT |Thu, May 28 07:15PM BST |Fri, May 29 04:15AM AEST |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |36 |2882 |Open |Adelaide Street Circuit |Thu, June 04 02:15PM EDT |Thu, June 04 07:15PM BST |Fri, June 05 04:15AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |DOMforce Masters |12 |1994 |Open | | | | |
 |[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1146 |Fixed | | | | |
 
