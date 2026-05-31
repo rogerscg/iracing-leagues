@@ -16,10 +16,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|---------------------------|------------------------|------------------------|-------------------------|
-|[RX Pro \(open\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2026 RX Pro |27 |5506 | | | | | |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
+|[RX Pro \(open\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9511){:target="_blank"} |2026 RX Pro |27 |5506 | |Daytona Rallycross and Dirt Road |Sun, May 31 03:30PM EDT |Sun, May 31 08:30PM BST |Mon, June 01 05:30AM AEST |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |26A Supercars |24 |4168 | | | | | |
-|[RX Am \(fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10282){:target="_blank"} |2026 RX Am |23 |3024 | | | | | |
+|[RX Am \(fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=10282){:target="_blank"} |2026 RX Am |23 |3024 | |Daytona Rallycross and Dirt Road |Sun, May 31 02:50PM EDT |Sun, May 31 07:50PM BST |Mon, June 01 04:50AM AEST |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S2 '26 Cars |13 |1580 |Fixed |EchoPark Speedway (Atlanta) |Thu, June 04 08:20PM EDT |Fri, June 05 01:20AM BST |Fri, June 05 10:20AM AEST |
 |[NASA Rallycross World Championship & Contenders](https://members.iracing.com/membersite/member/LeagueView.do?league=331){:target="_blank"} |Contenders 26A |12 |2317 | | | | | |
 
