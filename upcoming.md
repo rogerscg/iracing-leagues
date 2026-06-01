@@ -10,11 +10,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |HMS 2026 ARCA Menards Fast Series |Fixed |Daytona International Speedway |Thu, June 04 07:00PM EDT |Fri, June 05 12:00AM BST |Fri, June 05 09:00AM AEST |
 |[Relentless Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9238){:target="_blank"} |ARCA Season 8 |Fixed |Daytona International Speedway |Thu, June 04 08:00PM EDT |Fri, June 05 01:00AM BST |Fri, June 05 10:00AM AEST |
 |[Bolt Racing League: Bump N Buddies series](https://members.iracing.com/membersite/member/LeagueView.do?league=10175){:target="_blank"} |Bump N Buddies Season 9 |Fixed |Daytona International Speedway |Thu, June 04 07:30PM EDT |Fri, June 05 12:30AM BST |Fri, June 05 09:30AM AEST |
-|[Grassroots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14300){:target="_blank"} |GrassRoots Racing Season 2 |Fixed |Talladega Superspeedway |Fri, June 05 08:30PM EDT |Sat, June 06 01:30AM BST |Sat, June 06 10:30AM AEST |
+|[Grassroots Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14300){:target="_blank"} |GrassRoots Racing Season 2 |Fixed |Talladega Superspeedway |Fri, June 05 08:00PM EDT |Sat, June 06 01:00AM BST |Sat, June 06 10:00AM AEST |
+|[GLR Alexander PCs ARCA SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9310){:target="_blank"} |Alexander PCs Arca Summer Series Season 3 | |Daytona International Speedway |Mon, June 01 07:00PM EDT |Tue, June 02 12:00AM BST |Tue, June 02 09:00AM AEST |
+|[Infinity Graphic Designs Dev Series \(ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=3675){:target="_blank"} |2026B Infinity Graphic Designs Dev Series \(ARCA\) |Fixed |Concord Speedway |Sun, June 07 06:30PM EDT |Sun, June 07 11:30PM BST |Mon, June 08 08:30AM AEST |
 
 ### Hosted All Cars Class
 
@@ -57,11 +59,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[WSL Pro\-Am Development Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10607){:target="_blank"} |WSL Pro\-Am 5 Race Dash Season 2 | |Nashville Superspeedway |Sun, May 31 08:00PM EDT |Mon, June 01 01:00AM BST |Mon, June 01 10:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[HVRL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10954){:target="_blank"} |HVRL Truck Series Season 5 |Fixed |Daytona International Speedway |Sun, June 07 07:30PM EDT |Mon, June 08 12:30AM BST |Mon, June 08 09:30AM AEST |
+|[STS Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12487){:target="_blank"} |STS Truck Series S1 |Fixed |Daytona International Speedway |Mon, June 08 06:30PM EDT |Mon, June 08 11:30PM BST |Tue, June 09 08:30AM AEST |
 |[Sim Racing Unleashed Gomez Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6084){:target="_blank"} |gomez summer 2026 |Fixed |Daytona International Speedway |Fri, June 05 07:00PM EDT |Sat, June 06 12:00AM BST |Sat, June 06 09:00AM AEST |
-|[Elite Sim Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=12521){:target="_blank"} |Fast Lube of Dunn Truck Series |Both |Iowa Speedway - Oval - 2011 |Sun, May 31 07:00PM EDT |Mon, June 01 12:00AM BST |Mon, June 01 09:00AM AEST |
 |[Foxtrot \- Foxtrucks](https://members.iracing.com/membersite/member/LeagueView.do?league=14376){:target="_blank"} |Foxtrucks \- Season 1 | |EchoPark Speedway (Atlanta) |Wed, June 03 08:00PM EDT |Thu, June 04 01:00AM BST |Thu, June 04 10:00AM AEST |
 |[Association for Simulated Stock Car Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6106){:target="_blank"} |ASSCAR 2026 Season 15 \- Trucks |Fixed |Auto Club Speedway |Tue, June 02 08:15PM EDT |Wed, June 03 01:15AM BST |Wed, June 03 10:15AM AEST |
 |[AGR Craftsman Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14202){:target="_blank"} |Season 2 | |Daytona International Speedway |Sun, June 07 09:30PM EDT |Mon, June 08 02:30AM BST |Mon, June 08 11:30AM AEST |
@@ -99,7 +100,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-----|-------------------------|------------------------|------------------------|-------------------------|
 |[yourBIGplans\.com 500 Sprint Car Tour Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11626){:target="_blank"} |2026 yourBIGplans\.com 500 Sprint Car Tour Sim Series | |North Wilkesboro Speedway |Mon, June 01 08:30PM EDT |Tue, June 02 01:30AM BST |Tue, June 02 10:30AM AEST |
-|[DOB Little 500](https://members.iracing.com/membersite/member/LeagueView.do?league=3835){:target="_blank"} |2026 Little 500 | |Slinger Speedway |Sun, May 31 07:00PM EDT |Mon, June 01 12:00AM BST |Mon, June 01 09:00AM AEST |
 
 # Open-wheel
 
@@ -116,8 +116,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[Square Motorsports Challenge league](https://members.iracing.com/membersite/member/LeagueView.do?league=10391){:target="_blank"} |Square Challenge 5 | |WeatherTech Raceway at Laguna Seca |Mon, June 01 02:29PM EDT |Mon, June 01 07:29PM BST |Tue, June 02 04:29AM AEST |
+|[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG \- T2/2026 \- RAY FF1600 | |Circuit de Lédenon |Mon, June 01 07:00PM EDT |Tue, June 02 12:00AM BST |Tue, June 02 09:00AM AEST |
+
+### Williams FW31
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|-------------------|-----|----------------------------|------------------------|------------------------|-------------------------|
+|[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |F1 FW31 \- Season 1 |Both |Circuit de Spa-Francorchamps |Mon, June 01 08:00PM EDT |Tue, June 02 01:00AM BST |Tue, June 02 10:00AM AEST |
 
 # Sports Car
 
@@ -145,7 +154,17 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
 |[Square Motorsports Challenge league](https://members.iracing.com/membersite/member/LeagueView.do?league=10391){:target="_blank"} |Square Challenge 4 | |Okayama International Circuit |Mon, June 01 01:18PM EDT |Mon, June 01 06:18PM BST |Tue, June 02 03:18AM AEST |
+|[OMSSA](https://members.iracing.com/membersite/member/LeagueView.do?league=14490){:target="_blank"} |OMSSA MX5 Cup | |Lime Rock Park |Wed, June 03 06:30AM EDT |Wed, June 03 11:30AM BST |Wed, June 03 08:30PM AEST |
 |[GLR MX\-5](https://members.iracing.com/membersite/member/LeagueView.do?league=13162){:target="_blank"} |GLR MX\-5 Summer Season 1 | |Lime Rock Park |Tue, June 02 07:00PM EDT |Wed, June 03 12:00AM BST |Wed, June 03 09:00AM AEST |
+|[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2026 Summer Season |Both |Summit Point Raceway |Mon, June 01 07:00PM EDT |Tue, June 02 12:00AM BST |Tue, June 02 09:00AM AEST |
+
+### Porsche 911 Cup (992.2)
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------|------|-----|--------------|------------------------|------------------------|-------------------------|
+|[SPR Community](https://members.iracing.com/membersite/member/LeagueView.do?league=13344){:target="_blank"} |Events |Open |Circuit Zolder |Mon, June 08 01:00PM EDT |Mon, June 08 06:00PM BST |Tue, June 09 03:00AM AEST |
 
 ### Porsche 911 GT3 Cup (992)
 
@@ -173,14 +192,6 @@
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-----------------|------------------------|------------------------|-------------------------|
 |[Rocket Dirt Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14572){:target="_blank"} |RDRA Late Models Season 1 | |Knoxville Raceway |Wed, June 03 09:00PM EDT |Thu, June 04 02:00AM BST |Thu, June 04 11:00AM AEST |
 
-### Dirt Late Model - Super
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|-----|---------------|-----------------------|------------------------|-------------------------|
-|[Simulated International Motor Car Auto Racing \(Invitational\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9235){:target="_blank"} |Super Late Models |Fixed |Eldora Speedway |Sun, May 31 09:00PM EDT |Mon, June 01 02:00AM BST |Mon, June 01 11:00AM AEST |
-
 ### Dirt Midget
 
 [Back to Top](#)  
@@ -196,14 +207,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------------|------------------------|------------------------|-------------------------|
 |[RPES 305 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=11709){:target="_blank"} |2026 RPES 305 Nationals | |Federated Auto Parts Raceway at I-55 |Mon, June 01 08:30PM EDT |Tue, June 02 01:30AM BST |Tue, June 02 10:30AM AEST |
-
-### Dirt Sprintcar - 410
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-----|---------------|-----------------------|------------------------|-------------------------|
-|[Simulated International Motor Car Auto Racing \(Invitational\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9235){:target="_blank"} |410 Sprints |Fixed |Eldora Speedway |Sun, May 31 11:00PM EDT |Mon, June 01 04:00AM BST |Mon, June 01 01:00PM AEST |
 
 # Rallycross
 
@@ -222,9 +225,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|----------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------|----------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[SHOP VS SHOP](https://members.iracing.com/membersite/member/LeagueView.do?league=14003){:target="_blank"} |Shop VS Shop 2 | |Watkins Glen International |Tue, June 02 07:30PM EDT |Wed, June 03 12:30AM BST |Wed, June 03 09:30AM AEST |
-|[ERL Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=14384){:target="_blank"} |ERL League Seizoen 1 | |Road America |Sun, May 31 01:00PM EDT |Sun, May 31 06:00PM BST |Mon, June 01 03:00AM AEST |
 |[GT3 Euro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14458){:target="_blank"} |Season 1 \- Summer Cup | |Autodromo Nazionale Monza |Tue, June 02 02:30PM EDT |Tue, June 02 07:30PM BST |Wed, June 03 04:30AM AEST |
 |[NEXT](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |DTM |Both |Virginia International Raceway |Mon, June 01 09:00PM EDT |Tue, June 02 02:00AM BST |Tue, June 02 11:00AM AEST |
 
