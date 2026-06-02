@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[AOW Modified Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14535){:target="_blank"} | |American Open Wheel's SK Modified Touring Series |
-|[GT 3 CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=14533){:target="_blank"} | | |
-|[Random Wheel Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14534){:target="_blank"} | | |
-|[SPECTRUM NIGHT IN AMERICA FINALE](https://members.iracing.com/membersite/member/LeagueView.do?league=14536){:target="_blank"} | |spectrum |
 |[Die Fertigen](https://members.iracing.com/membersite/member/LeagueView.do?league=14539){:target="_blank"} | |GT 3 Test Liga |
 |[Mom3ntum Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14543){:target="_blank"} | |Mom3ntum Racing |
 |[NESRC2\.0](https://members.iracing.com/membersite/member/LeagueView.do?league=14537){:target="_blank"} | | |
@@ -60,8 +56,10 @@
 |[3 Wide Motorsports LMS](https://members.iracing.com/membersite/member/LeagueView.do?league=14598){:target="_blank"} | |Fixed Late Model |
 |[Fire For Effect Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14601){:target="_blank"} |[Discord](https://discord.com/invite/TzUJdEaSM8){:target="_blank"} |Veteran owned and operated 501c3\. This league helps support Veterans who are struggling in various areas of life\. |
 |[Motor Vault Kentucky](https://members.iracing.com/membersite/member/LeagueView.do?league=14596){:target="_blank"} | |Private league for members of the Motor Vault Kentucky Tuesday Night League |
-|[Russian Legends iSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=14600){:target="_blank"} | | |
+|[Russian Legends iSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=14600){:target="_blank"} |[Discord](https://discord.gg/weYZu9Gy9){:target="_blank"} | |
 |[Simu Nation MASTERS](https://members.iracing.com/membersite/member/LeagueView.do?league=14595){:target="_blank"} | |iRacing/LMU/ACE community\. Get ready for serious competition, clean racing, and pro\-level action\. Race\. Compete\. Repeat\. |
 |[BP Racing Presents Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=14599){:target="_blank"} | | |
 |[Heracles Performance](https://members.iracing.com/membersite/member/LeagueView.do?league=14597){:target="_blank"} | | |
+|[Poleman SimRacing ARG](https://members.iracing.com/membersite/member/LeagueView.do?league=14603){:target="_blank"} | |Liga Virtual argentina de SimRacing |
+|[schure built suspension racing all gas](https://members.iracing.com/membersite/member/LeagueView.do?league=14602){:target="_blank"} | |wednesday and thursday |
 
