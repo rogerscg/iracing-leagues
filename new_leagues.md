@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Ghost Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14566){:target="_blank"} | | |
-|[JAZ Coin League](https://members.iracing.com/membersite/member/LeagueView.do?league=14567){:target="_blank"} | | |
 |[Copper League](https://members.iracing.com/membersite/member/LeagueView.do?league=14568){:target="_blank"} | | |
 |[Digital Dirt Outlaw Racing League \(DDORL\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14576){:target="_blank"} |[Discord](https://discord.gg/7s24DBf8S){:target="_blank"} |Have fun, Race clean |
 |[Draft House](https://members.iracing.com/membersite/member/LeagueView.do?league=14573){:target="_blank"} | |https://whop\.com/joined/draft\-house\-racing/ |
@@ -15,7 +13,7 @@
 |[Checkers or Wreckers](https://members.iracing.com/membersite/member/LeagueView.do?league=14585){:target="_blank"} |[Discord](https://discord.gg/vxn7EFj5){:target="_blank"} |NASCAR CARS, NASCAR TRACKS\. Friday night clean, competitive, fun racing\. Come out and leave a mark |
 |[Front Of House](https://members.iracing.com/membersite/member/LeagueView.do?league=14580){:target="_blank"} | |Gratuity Grinders |
 |[Gamers Helping Sick Kids](https://members.iracing.com/membersite/member/LeagueView.do?league=14577){:target="_blank"} | | |
-|[High Side Motorsports Rookie Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14582){:target="_blank"} | |Entry level series for high side motorsports |
+|[High Side Motorsports Rookie Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14582){:target="_blank"} | |Introducing the entry level ARCA series for High Side Motorsports\! 15 weeks of NASCAR ARCA series action from the full throttle high banking turns of Daytona, to under the short track lights at Myrtle Beach\. |
 |[iRacing Talents](https://members.iracing.com/membersite/member/LeagueView.do?league=14579){:target="_blank"} | |we are the greatest talents of all time |
 |[KRBR \- Kart Racing Brasil \(Endurance\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14591){:target="_blank"} | |KRBR é uma LIGA que organiza eventos de campeonatos SIM, combinando a paixão de ambos os mundos para criar uma comunidade SIM competitiva para todos os níveis de habilidade\. Com as intensas batalhas por centésimos na frente, esta série se desenvolveu em nossa série mais competitiva\. Pedimos que todos os inscritos tenham confiança em sua competência na pista\. A qualidade da liga será reforçada com supervisão para manter os incidentes na pista ao mínimo\! |
 |[MWRT IRACING ASSOCIATION](https://members.iracing.com/membersite/member/LeagueView.do?league=14578){:target="_blank"} | | |
@@ -29,7 +27,7 @@
 |[Poot It GT3 & Oval Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14593){:target="_blank"} | |GT3 and Oval Racing vs\. AI\. |
 |[3 Wide Motorsports LMS](https://members.iracing.com/membersite/member/LeagueView.do?league=14598){:target="_blank"} | |Fixed Late Model |
 |[Fire For Effect Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14601){:target="_blank"} |[Discord](https://discord.com/invite/TzUJdEaSM8){:target="_blank"} |Veteran owned and operated 501c3\. This league helps support Veterans who are struggling in various areas of life\. |
-|[Motor Vault Kentucky](https://members.iracing.com/membersite/member/LeagueView.do?league=14596){:target="_blank"} | |Private league for members of the Motor Vault Kentucky Tuesday Night League |
+|[Motor Vault Kentucky](https://members.iracing.com/membersite/member/LeagueView.do?league=14596){:target="_blank"} | |Private league for members of the Motor Vault Kentucky members |
 |[Russian Legends iSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=14600){:target="_blank"} |[Discord](https://discord.gg/weYZu9Gy9){:target="_blank"} | |
 |[Simu Nation MASTERS](https://members.iracing.com/membersite/member/LeagueView.do?league=14595){:target="_blank"} | |iRacing/LMU/ACE community\. Get ready for serious competition, clean racing, and pro\-level action\. Race\. Compete\. Repeat\. |
 |[BP Racing Presents Mini Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=14599){:target="_blank"} | | |
@@ -66,4 +64,8 @@
 |[Ozzy Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14616){:target="_blank"} | |Ozzy Racing Leagues is a competitive but welcoming sim racing league built around clean, hard racing every Sunday night\. Run by the Ozzy Racing community, the league uses exclusively base iRacing content so there's no extra cost to enter just show up, qualify, and race\. |
 |[Revenant Racing Nascar League](https://members.iracing.com/membersite/member/LeagueView.do?league=14639){:target="_blank"} | | |
 |[Ronin PT](https://members.iracing.com/membersite/member/LeagueView.do?league=14607){:target="_blank"} | |Ronin PT League |
+|[Rookie Racing League \(RSF\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14641){:target="_blank"} | | |
+|[S&T League](https://members.iracing.com/membersite/member/LeagueView.do?league=14643){:target="_blank"} | | |
+|[Zenith Sunday Series V8s](https://members.iracing.com/membersite/member/LeagueView.do?league=14640){:target="_blank"} | |Fun League Slightly competitive |
+|[Backmarker Motor Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14642){:target="_blank"} | | |
 
