@@ -27,8 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[Kansas City Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9275){:target="_blank"} |Dad's Racing Services LMP3 Challenge |59 |2095 |Both |WeatherTech Raceway at Laguna Seca |Tue, June 09 08:00PM EDT |Wed, June 10 01:00AM BST |Wed, June 10 10:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
+|[Kansas City Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9275){:target="_blank"} |Dad's Racing Services LMP3 Challenge |60 |2102 |Both |Road America |Tue, June 16 08:00PM EDT |Wed, June 17 01:00AM BST |Wed, June 17 10:00AM AEST |
 |[Kansas City Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9275){:target="_blank"} |Qualifying |30 |None |Both | | | | |
 
 ### Radical SR10
@@ -51,7 +51,7 @@
 |[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 2 \- SR8 |25 |2754 | | | | | |
 |[EGT Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=9583){:target="_blank"} |EGT Canada \- AllStars Race |19 |1798 | | | | | |
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR Radical SR8 |17 |1739 | | | | | |
-|[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 2 |17 |1840 | |Adelaide Street Circuit |Tue, June 09 09:50PM EDT |Wed, June 10 02:50AM BST |Wed, June 10 11:50AM AEST |
+|[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 2 |17 |1819 | | | | | |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |13 |1638 |Both | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |SR8 |13 |1363 | | | | | |
 |[Compétitions GOFiR](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |RAC |13 |2096 |Open |Oulton Park Circuit |Wed, June 10 02:30PM EDT |Wed, June 10 07:30PM BST |Thu, June 11 04:30AM AEST |
