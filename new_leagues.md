@@ -14,15 +14,11 @@
 |[Sleepy Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=14633){:target="_blank"} |[Discord](https://discord.gg/ywkVAdQBBu){:target="_blank"} |Racing for everyone, but very beginner friendly\. Sports car league\. |
 |[so9 Championship racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14631){:target="_blank"} | |Shadows of Nine organization racing league |
 |[Southern Plains NASCAR League \- Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14621){:target="_blank"} | |Have fun, go fast\! |
-|[Synergy Elite Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14617){:target="_blank"} | |Nascar Style League |
 |[Top Notch League Racing \(TNLR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14620){:target="_blank"} |[Discord](https://discord.gg/FFKd7gTMw){:target="_blank"} |Fun, Friendly, Fair, Fast\.   Focusing on the core principals listed we are dedicated to oval racing particularly NASCAR\. League is open to every clean racer no matter the age or skill level\.  Races run Fridays 8:30 EST \- 30 minute practice, 2 laps qualifying, 45\-60 minute races\.  Join our discord for more details\! |
-|[Vulcan Exhibition League](https://members.iracing.com/membersite/member/LeagueView.do?league=14618){:target="_blank"} | |Hosted by UAB's Blazer Racing Club, our goal is to build relationships with friendly simracing communities through one\-off events in competitive, but healthy races\! |
 |[Downeast Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14637){:target="_blank"} | | |
-|[Drivers Lab](https://members.iracing.com/membersite/member/LeagueView.do?league=14615){:target="_blank"} | |Manufacturers Cup |
 |[Liberty Stock Car Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14623){:target="_blank"} | |AI |
 |[Local Short Trackers](https://members.iracing.com/membersite/member/LeagueView.do?league=14622){:target="_blank"} |[Discord](https://discord.gg/PA8FnWJP8c){:target="_blank"} |Late model racing the same track each week just like a guy going to his local track\. Track will change each season\. Weather will change each week\. Open set just like real life, work on it throughout the season and change with the conditions\. New idea just curious if it would work or not\. More cars may be added in the future\. |
 |[Noname racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14629){:target="_blank"} | | |
-|[Ozzy Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14616){:target="_blank"} | |Ozzy Racing Leagues is a competitive but welcoming sim racing league built around clean, hard racing every Sunday night\. Run by the Ozzy Racing community, the league uses exclusively base iRacing content so there's no extra cost to enter just show up, qualify, and race\. |
 |[Revenant Racing Nascar League](https://members.iracing.com/membersite/member/LeagueView.do?league=14639){:target="_blank"} | | |
 |[Rookie Racing League \(RSF\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14641){:target="_blank"} | | |
 |[S&T League](https://members.iracing.com/membersite/member/LeagueView.do?league=14643){:target="_blank"} | | |
@@ -88,4 +84,8 @@
 |[Braking Bad](https://members.iracing.com/membersite/member/LeagueView.do?league=14702){:target="_blank"} | |\.\.\. |
 |[IWATE UMACCO RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=14710){:target="_blank"} | | |
 |[Racing Unleashed Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14698){:target="_blank"} |[Discord](https://discord.gg/qYxDgNGqvS){:target="_blank"} |Racing Unleashed has launched the RU Community Cup \- a community\-focused online racing series featuring mini championships, special events and more\!Join us every Thursday night for exciting race, open to driers of all abilities\. |
+|[Checkered Flag Motorsports ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14713){:target="_blank"} | |14 week ARCA Schedule all types of tracks\. Must be under 3,000 IR to join\. |
+|[eRacingGP 12H Edition \- Spa](https://members.iracing.com/membersite/member/LeagueView.do?league=14711){:target="_blank"} | |12 Hours Endurance |
+|[Mini Stock Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=14714){:target="_blank"} | | |
+|[Spire Motorsports Technical Center](https://members.iracing.com/membersite/member/LeagueView.do?league=14712){:target="_blank"} | | |
 
