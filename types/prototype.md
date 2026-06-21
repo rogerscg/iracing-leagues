@@ -39,8 +39,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
-|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2026 |32 |3963 | | | | | |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2026 |32 |3963 | |Nürburgring Grand-Prix-Strecke |Sun, June 28 02:00PM EDT |Sun, June 28 07:00PM BST |Mon, June 29 04:00AM AEST |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2026 |23 |2374 | |Road America |Sun, June 21 07:30PM EDT |Mon, June 22 12:30AM BST |Mon, June 22 09:30AM AEST |
 
 ### Radical SR8
