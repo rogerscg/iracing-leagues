@@ -19,10 +19,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|---------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|------------------------|------------------------|------------------------|-------------------------|
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 12 \- Pro 2 Lites |61 |3116 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/TINYTRUCK \- 2026 |27 |3394 |Fixed | | | | |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO2 20/20 fights |25 |1437 |Fixed |Kokomo Speedway |Sun, June 21 04:00PM EDT |Sun, June 21 09:00PM BST |Mon, June 22 06:00AM AEST |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO2 20/20 fights |25 |1424 |Fixed |Lanier National Speedway |Sun, June 28 04:00PM EDT |Sun, June 28 09:00PM BST |Mon, June 29 06:00AM AEST |
 
 ### Pro 2 Truck
 

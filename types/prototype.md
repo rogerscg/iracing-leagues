@@ -8,9 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|-------------|--------|------|------|
-|[J2iCS](https://members.iracing.com/membersite/member/LeagueView.do?league=3630){:target="_blank"} |Championship Season 12 |33 |2340 |Both | | | | |
-|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |12 |1355 | | | | | |
+|-------------------------------------------------------------------------------------------------------|----------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
+|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |12 |1355 | |Circuit de Spa-Francorchamps |Mon, June 29 09:15PM EDT |Tue, June 30 02:15AM BST |Tue, June 30 11:15AM AEST |
 
 ### Hosted All Cars Class
 
@@ -41,7 +40,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2026 |32 |3963 | |Nürburgring Grand-Prix-Strecke |Sun, June 28 02:00PM EDT |Sun, June 28 07:00PM BST |Mon, June 29 04:00AM AEST |
-|[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2026 |23 |2374 | |Road America |Sun, June 21 07:30PM EDT |Mon, June 22 12:30AM BST |Mon, June 22 09:30AM AEST |
+|[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2026 |25 |2430 | | | | | |
 
 ### Radical SR8
 
