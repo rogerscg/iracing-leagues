@@ -29,9 +29,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |05\. Sunday Night Lites \(May 2026 Season\) |25 |3632 | | | | | |
-|[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |04\. Sunday Night Lites \(April 2026 Season\) |23 |3501 | | | | | |
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |06\. Sunday Night Lites \(June 2026 Season\) |23 |3044 | |Lånkebanen (Hell RX) |Sun, June 28 08:45PM EDT |Mon, June 29 01:45AM BST |Mon, June 29 10:45AM AEST |
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |RallyCross Championship of Ukraine 2026 |14 |1581 |Both |Daytona Rallycross and Dirt Road |Sat, June 27 02:00PM EDT |Sat, June 27 07:00PM BST |Sun, June 28 04:00AM AEST |
 
