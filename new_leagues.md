@@ -3,23 +3,15 @@
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[3 Wide Motorsports Outlaw Street Stock](https://members.iracing.com/membersite/member/LeagueView.do?league=14683){:target="_blank"} |[Discord](https://discord.gg/etYhrPmQMz){:target="_blank"} |Dirt Street Stock |
-|[ARA League Season 8](https://members.iracing.com/membersite/member/LeagueView.do?league=14674){:target="_blank"} | | |
-|[Beer Barn Racing Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=14680){:target="_blank"} | |League for beer drinkers and \*\*\* raisers |
 |[C and T racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14696){:target="_blank"} | | |
-|[Fantastic Ultimate Club Klassic Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14677){:target="_blank"} | | |
 |[GTUKR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14693){:target="_blank"} | |Official page of GTUKR SimGrid community\. We feature races and championships |
 |[hunt](https://members.iracing.com/membersite/member/LeagueView.do?league=14684){:target="_blank"} | |sprit car |
-|[International EuroNASCAR Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14675){:target="_blank"} |[Discord](https://discord.gg/Bex9k36rPv){:target="_blank"} |The International EuroNASCAR Championship \- \*not affiliated with EuroNASCAR |
 |[Iron GT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14682){:target="_blank"} | | |
-|[Leman 24](https://members.iracing.com/membersite/member/LeagueView.do?league=14673){:target="_blank"} | |Hey everyone, this is an open tournament\. Anyone who wants to join can do so on Gyugotan for the iconic 24 Hours of Le Mans race, which will be shortened to 4 hours, plus the time trial and warm\-up\. |
 |[Major League Sim Racing \| Summer shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=14695){:target="_blank"} | |The MLSR Ideal Family LLC Summer Shootout is a four\-race superspeedway championship designed to bring racers together while Major League Sim Racing continues preparing for its inaugural season\. Featuring Daytona, Talladega, and Atlanta, the Summer Shootout offers competitive racing, live broadcast coverage, and a $100 championship prize—all with free entry |
 |[New Smyrna Speedway iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14686){:target="_blank"} | |The Official iRacing Series of New Smyrna Speedway\! |
 |[PROGRID \| GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14691){:target="_blank"} | |GT3 Challenge é um campeonato dedicado a pilotos iniciantes do Automobilismo Virtual |
 |[PROGRID \| GT3 Elite](https://members.iracing.com/membersite/member/LeagueView.do?league=14692){:target="_blank"} | |GT3 Elite, uma Liga para Pilotos Experientes |
 |[PROGRID \| IMSA Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14688){:target="_blank"} | |IMSA \- 90 Minutos |
-|[PROGRID \| Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14679){:target="_blank"} | |Porsche cup 2 baterias 30 minutos |
-|[Saturday Night Special](https://members.iracing.com/membersite/member/LeagueView.do?league=14678){:target="_blank"} | |Test League |
-|[SENEX Short Track Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14676){:target="_blank"} | |SENEX Short Track Championship is a 50\+ only iRacing league built for mature drivers who want clean, fair, drama‑free racing without the chaos of open lobbies\. We run two weekly series — Monday Masters of Dirt and Wild Wednesday Asphalt — both starting at 8 PM EST with structured sessions, respectful competition, and a hard cap of 2500iR to keep the field tight and competitive\. If you’re over 50 and still love to race hard, this is where you belong\. |
 |[Smokin' Thunder O'REILLYS](https://members.iracing.com/membersite/member/LeagueView.do?league=14689){:target="_blank"} | | |
 |[Southwest racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14681){:target="_blank"} | |dudududu\~ |
 |[The Boys Super Spedway](https://members.iracing.com/membersite/member/LeagueView.do?league=14694){:target="_blank"} | | |
@@ -74,4 +66,8 @@
 |[Iron Ram World Stock Series Powered By THDesigns](https://members.iracing.com/membersite/member/LeagueView.do?league=14747){:target="_blank"} |[Discord](https://discord.gg/PBTyJ84y3r){:target="_blank"} | |
 |[Open to change name](https://members.iracing.com/membersite/member/LeagueView.do?league=14749){:target="_blank"} | |Spirit 56 Fight |
 |[U\.S\.O\.R\.A ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14751){:target="_blank"} | | |
+|[Phoenix Sim Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=14753){:target="_blank"} |[Discord](https://discord.gg/HmM7VApAP){:target="_blank"} |Phoenix Sim Racing league |
+|[Smokin' Thunder Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=14755){:target="_blank"} | | |
+|[Test Test](https://members.iracing.com/membersite/member/LeagueView.do?league=14752){:target="_blank"} | | |
+|[Revenant Racing Truck League](https://members.iracing.com/membersite/member/LeagueView.do?league=14754){:target="_blank"} | | |
 
