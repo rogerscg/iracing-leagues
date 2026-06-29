@@ -8,9 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------|------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 2 |88 |3239 |Open |Portland International Raceway |Sun, June 28 03:45AM EDT |Sun, June 28 08:45AM BST |Sun, June 28 05:45PM AEST |
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 1 |75 |5245 |Open |Portland International Raceway |Sun, June 28 05:05AM EDT |Sun, June 28 10:05AM BST |Sun, June 28 07:05PM AEST |
+|----------------------------------------------------------------------------------------------------|------------|-------|----|-----|-------------|--------|------|------|
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 1 |88 |5151 |Open | | | | |
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 2 |88 |3228 |Open | | | | |
 
 ### NEC M2 Cup
 
@@ -20,7 +20,7 @@
 |--------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
 |[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 26S3 \- BMW M2 |40 |2398 |Open |Circuit de Nevers Magny-Cours |Mon, June 29 01:30PM EDT |Mon, June 29 06:30PM BST |Tue, June 30 03:30AM AEST |
 |[GHD M2 CUP SAISON 2](https://members.iracing.com/membersite/member/LeagueView.do?league=9677){:target="_blank"} |GHD M2 CUP Saison 2 |39 |2668 | |Hockenheimring Baden-Württemberg |Mon, June 29 02:00PM EDT |Mon, June 29 07:00PM BST |Tue, June 30 04:00AM AEST |
-|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2026 S3 BMW M2 Cup |22 |2989 |Both | | | | |
+|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2026 S3 BMW M2 Cup |22 |2989 |Both |Circuit de Nevers Magny-Cours |Mon, July 06 02:00PM EDT |Mon, July 06 07:00PM BST |Tue, July 07 04:00AM AEST |
 |[Mybroga Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=13580){:target="_blank"} |MYBROGA BMW M2 Racing \(G87\) \- Season 1 |20 |1370 |Fixed |Oulton Park Circuit |Mon, June 29 09:00PM EDT |Tue, June 30 02:00AM BST |Tue, June 30 11:00AM AEST |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Bananas Big Beautiful Badass Bonanza \- Season 1 |12 |1956 |Both |Circuito de Navarra |Tue, June 30 11:00PM EDT |Wed, July 01 04:00AM BST |Wed, July 01 01:00PM AEST |
 

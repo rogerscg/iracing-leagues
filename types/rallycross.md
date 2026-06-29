@@ -29,8 +29,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------|----|-----|--------------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |05\. Sunday Night Lites \(May 2026 Season\) |25 |3632 | | | | | |
-|[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |06\. Sunday Night Lites \(June 2026 Season\) |23 |3044 | |Lånkebanen (Hell RX) |Sun, June 28 08:45PM EDT |Mon, June 29 01:45AM BST |Mon, June 29 10:45AM AEST |
+|[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |06\. Sunday Night Lites \(June 2026 Season\) |24 |3055 | | | | | |
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |RallyCross Championship of Ukraine 2026 |14 |1619 |Both | | | | |
 

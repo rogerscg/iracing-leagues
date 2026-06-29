@@ -2,21 +2,13 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[3 Wide Motorsports Outlaw Street Stock](https://members.iracing.com/membersite/member/LeagueView.do?league=14683){:target="_blank"} |[Discord](https://discord.gg/etYhrPmQMz){:target="_blank"} |Dirt Street Stock |
 |[C and T racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14696){:target="_blank"} | | |
 |[GTUKR Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14693){:target="_blank"} | |Official page of GTUKR SimGrid community\. We feature races and championships |
-|[hunt](https://members.iracing.com/membersite/member/LeagueView.do?league=14684){:target="_blank"} | |sprit car |
-|[Iron GT Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14682){:target="_blank"} | | |
 |[Major League Sim Racing \| Summer shootout](https://members.iracing.com/membersite/member/LeagueView.do?league=14695){:target="_blank"} | |The MLSR Ideal Family LLC Summer Shootout is a four\-race superspeedway championship designed to bring racers together while Major League Sim Racing continues preparing for its inaugural season\. Featuring Daytona, Talladega, and Atlanta, the Summer Shootout offers competitive racing, live broadcast coverage, and a $100 championship prize—all with free entry |
-|[New Smyrna Speedway iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14686){:target="_blank"} | |The Official iRacing Series of New Smyrna Speedway\! |
 |[PROGRID \| GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14691){:target="_blank"} | |GT3 Challenge é um campeonato dedicado a pilotos iniciantes do Automobilismo Virtual |
 |[PROGRID \| GT3 Elite](https://members.iracing.com/membersite/member/LeagueView.do?league=14692){:target="_blank"} | |GT3 Elite, uma Liga para Pilotos Experientes |
-|[PROGRID \| IMSA Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14688){:target="_blank"} | |IMSA \- 90 Minutos |
-|[Smokin' Thunder O'REILLYS](https://members.iracing.com/membersite/member/LeagueView.do?league=14689){:target="_blank"} | | |
-|[Southwest racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14681){:target="_blank"} | |dudududu\~ |
 |[The Boys Super Spedway](https://members.iracing.com/membersite/member/LeagueView.do?league=14694){:target="_blank"} | | |
 |[Legacy Pickup League](https://members.iracing.com/membersite/member/LeagueView.do?league=14690){:target="_blank"} | |Legacy Trucks with fixed setups |
-|[Revenant Racing F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=14687){:target="_blank"} | | |
 |[CoT NightOwls](https://members.iracing.com/membersite/member/LeagueView.do?league=14703){:target="_blank"} | | |
 |[FIA Girls On Track Virtual 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14700){:target="_blank"} | | |
 |[GITGUD Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14709){:target="_blank"} | |GITGUD is one of the biggest coaching platforms on iRacing\. Welcome to our iRacing league\. Here you'll find various series catered to compliment our coaching environments and courses, whilst also creating fun races with no strings attached\. If you want to learn, you've come to the right place\. |
@@ -70,4 +62,9 @@
 |[Smokin' Thunder Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=14755){:target="_blank"} | | |
 |[Test Test](https://members.iracing.com/membersite/member/LeagueView.do?league=14752){:target="_blank"} | | |
 |[Revenant Racing Truck League](https://members.iracing.com/membersite/member/LeagueView.do?league=14754){:target="_blank"} | | |
+|[Apex Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14761){:target="_blank"} |[Discord](https://discord.gg/MhSawY267R){:target="_blank"} |A dirt oval iracing series that race Big Blocks, Super, and 360s\. We hope to be very competitive and have good fun racing in our league\. |
+|[Burnout Bacon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14760){:target="_blank"} | |Welcome to the digital headquarters of Burnout Bacon Racing\. We’re here to burn rubber, slide corners, and chase apexes\. If you smell tire smoke and breakfast, you’re in the right place\. |
+|[Hyperdrive Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=14758){:target="_blank"} | |Weekly Practice Sessions For Upcoming Special Events\!Every Saturday a 3 hour session at 7PM GMT\+1 |
+|[SPR \| Porsche CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=14757){:target="_blank"} | | |
+|[3\-D Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14759){:target="_blank"} | |Just having fun |
 
