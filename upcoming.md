@@ -10,9 +10,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|--------------------------------------------------------------------------------------------------------------|--------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[NARA ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14450){:target="_blank"} |Season 1 |Fixed |Daytona International Speedway |Mon, July 06 08:30PM EDT |Tue, July 07 01:30AM BST |Tue, July 07 10:30AM AEST |
-|[CFM Wednesday ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14713){:target="_blank"} |CFM ARCA  Pre\-season summer sessions | |New Smyrna Speedway |Wed, July 01 08:00PM EDT |Thu, July 02 01:00AM BST |Thu, July 02 10:00AM AEST |
 
 ### EURO NASCAR V8GP
 
@@ -47,13 +46,21 @@
 |-------------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Citadel NXT GENs](https://members.iracing.com/membersite/member/LeagueView.do?league=8260){:target="_blank"} |2026 Season 1 |Fixed |Daytona International Speedway |Sun, July 05 08:50AM EDT |Sun, July 05 01:50PM BST |Sun, July 05 10:50PM AEST |
 
+### NASCAR Legends 1987
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|[CHOP SHOP NATIONALS](https://members.iracing.com/membersite/member/LeagueView.do?league=14517){:target="_blank"} |Chop Shop Nationals Season 1 | |Daytona International Speedway |Thu, July 09 07:30PM EDT |Fri, July 10 12:30AM BST |Fri, July 10 09:30AM AEST |
+|[TIME TO RACE](https://members.iracing.com/membersite/member/LeagueView.do?league=12428){:target="_blank"} |2026 GraviPro The King Firecracker 400 | |Daytona International Speedway |Sat, July 04 12:30PM EDT |Sat, July 04 05:30PM BST |Sun, July 05 02:30AM AEST |
+
 ### NASCAR O'Reilly Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|--------------------|------------------------|------------------------|-------------------------|
-|[CJR Placeholder](https://members.iracing.com/membersite/member/LeagueView.do?league=10045){:target="_blank"} |2026 |Fixed |Sonoma Raceway |Thu, July 02 07:30PM EDT |Fri, July 03 12:30AM BST |Fri, July 03 09:30AM AEST |
+|------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|--------------------|------------------------|------------------------|-------------------------|
 |[ChristianRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=1068){:target="_blank"} |Monday Jimmy Young Series Summer / Fall 2026 |Fixed |Chicagoland Speedway |Mon, July 06 08:45PM EDT |Tue, July 07 01:45AM BST |Tue, July 07 10:45AM AEST |
 
 ### NASCAR Truck Series
@@ -99,7 +106,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
 |[Inferno EU F4 Stock Championship 250€ PRIZEPOOL\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14668){:target="_blank"} |Inferno Racing EU F4 fixed Championship \#1 |Fixed |Okayama International Circuit |Thu, July 02 01:00PM EDT |Thu, July 02 06:00PM BST |Fri, July 03 03:00AM AEST |
-|[FIA Girls On Track Virtual 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14700){:target="_blank"} |FIA Girls On Track Virtual 2026 | |Okayama International Circuit |Wed, July 01 07:00PM EDT |Thu, July 02 12:00AM BST |Thu, July 02 09:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -108,14 +114,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|--------------------------|------------------------|------------------------|-------------------------|
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |X\.1 Timeless IPS Summer Showdown |Fixed |USA International Speedway |Mon, July 06 09:00PM EDT |Tue, July 07 02:00AM BST |Tue, July 07 11:00AM AEST |
-
-### Ray FF1600
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|-----------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[ARA League Season 8](https://members.iracing.com/membersite/member/LeagueView.do?league=14674){:target="_blank"} |Official Practice | |Motorsport Arena Oschersleben |Wed, July 01 12:00PM EDT |Wed, July 01 05:00PM BST |Thu, July 02 02:00AM AEST |
 
 ### Super Formula SF23
 
@@ -135,6 +133,7 @@
 |--------------------------------------------------------------------------------------------------------------------------|-------------------------------------|-----|--------------------------------------------|------------------------|------------------------|-------------------------|
 |[NARL Porsche Cup \(AM Race\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7584){:target="_blank"} |NARL Porsche Cup Season 4 AM Division | |Hockenheimring Baden-Württemberg |Thu, July 02 07:00PM EDT |Fri, July 03 12:00AM BST |Fri, July 03 09:00AM AEST |
 |[PESC \- Europe](https://members.iracing.com/membersite/member/LeagueView.do?league=14358){:target="_blank"} |2026 PESC \- Europe | |Autodromo Internazionale Enzo e Dino Ferrari |Sat, July 04 02:30PM EDT |Sat, July 04 07:30PM BST |Sun, July 05 04:30AM AEST |
+|[LARL Porsche Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14632){:target="_blank"} |LARL PCup Season 1 |Open |Virginia International Raceway |Thu, July 09 08:00PM EDT |Fri, July 10 01:00AM BST |Fri, July 10 10:00AM AEST |
 |[PESC \- Asia\-Pacific](https://members.iracing.com/membersite/member/LeagueView.do?league=14360){:target="_blank"} |2026 PESC \- Asia\-Pacific | |Fuji International Speedway |Sat, July 04 03:30PM EDT |Sat, July 04 08:30PM BST |Sun, July 05 05:30AM AEST |
 |[CAS \- Porsche Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} |CAS\-Porsche Community Cup S5 | |Tsukuba Circuit |Thu, July 02 01:00PM EDT |Thu, July 02 06:00PM BST |Fri, July 03 03:00AM AEST |
 
@@ -159,8 +158,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
-|[SUPERCARS NZ PORSCHE CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=4353){:target="_blank"} |SUPERCARS NZ PORSCHE CUP WINTER 2026 |Both |Fuji International Speedway |Wed, July 01 03:00AM EDT |Wed, July 01 08:00AM BST |Wed, July 01 05:00PM AEST |
+|---------------------------------------------------------------------------------------------------------------|------------|-----|------------|------------------------|------------------------|-------------------------|
+|[Time Attack TAFun](https://members.iracing.com/membersite/member/LeagueView.do?league=14766){:target="_blank"} |TAFun 2026S3 | |Road America |Tue, July 07 11:59AM EDT |Tue, July 07 04:59PM BST |Wed, July 08 01:59AM AEST |
 
 ### Mazda MX-5 Cup 2016
 
@@ -178,6 +177,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------|---------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[West Coast Sim Racing \- GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12739){:target="_blank"} |GR Cup Season 5 |Both |Sebring International Raceway |Mon, July 06 09:30PM EDT |Tue, July 07 02:30AM BST |Tue, July 07 11:30AM AEST |
 |[Titan Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14483){:target="_blank"} |GR86CC |Fixed |Virginia International Raceway |Sat, July 04 02:00PM EDT |Sat, July 04 07:00PM BST |Sun, July 05 04:00AM AEST |
+|[3\-D Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14759){:target="_blank"} |Season \#01 | |Lime Rock Park |Tue, July 07 04:30PM EDT |Tue, July 07 09:30PM BST |Wed, July 08 06:30AM AEST |
 
 ### VW Jetta TDI Cup
 
@@ -207,13 +207,13 @@
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-------------------|------------------------|------------------------|-------------------------|
 |[midwest outlaws sunoco dirt series](https://members.iracing.com/membersite/member/LeagueView.do?league=14765){:target="_blank"} |sunoco dirt series season one | |Cedar Lake Speedway |Wed, July 08 03:44PM EDT |Wed, July 08 08:44PM BST |Thu, July 09 05:44AM AEST |
 
-### Dirt SprintCar - 360wingless
+### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-----------------|------------------------|------------------------|-------------------------|
-|[Wild & Wingless Winter Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14548){:target="_blank"} |Wild & Wingless Winter Series | |Knoxville Raceway |Wed, July 01 06:00AM EDT |Wed, July 01 11:00AM BST |Wed, July 01 08:00PM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----|------------------------|------------------------|------------------------|-------------------------|
+|[Hometown Heroes Dirt Series by Top Tier Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14594){:target="_blank"} |Heroes Season 1 2026 | |Lanier National Speedway |Thu, July 09 07:00PM EDT |Fri, July 10 12:00AM BST |Fri, July 10 09:00AM AEST |
 
 # Rallycross
 
@@ -236,7 +236,6 @@
 |[Americas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13481){:target="_blank"} |ARL GT3 Thursdays 2026, Season 3 |Open |Long Beach Street Circuit |Thu, July 02 08:00PM EDT |Fri, July 03 01:00AM BST |Fri, July 03 10:00AM AEST |
 |[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing GT3 World Challenge 2026 \- ELITE |Fixed |Suzuka International Racing Course |Mon, July 06 09:30PM EDT |Tue, July 07 02:30AM BST |Tue, July 07 11:30AM AEST |
 |[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing GT3 World Challenge 2026 \- PREMIER |Fixed |Suzuka International Racing Course |Mon, July 06 08:00PM EDT |Tue, July 07 01:00AM BST |Tue, July 07 10:00AM AEST |
-|[PROGRID \| GT3 Elite](https://members.iracing.com/membersite/member/LeagueView.do?league=14692){:target="_blank"} |PROGRID \| GT3 Elite \- Temp 2 | |Road Atlanta |Wed, July 01 07:10PM EDT |Thu, July 02 12:10AM BST |Thu, July 02 09:10AM AEST |
 
 ### Hosted All Cars Class
 
@@ -245,8 +244,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|-----------------------------------|------------------------|------------------------|-------------------------|
 |[Intl Touring Car Motorsport Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10229){:target="_blank"} |ITC GT3 Season 1 |Open |Sandown International Motor Raceway |Sun, July 05 03:00AM EDT |Sun, July 05 08:00AM BST |Sun, July 05 05:00PM AEST |
-|[Compétitions GOFiR](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |MCS |Open |Sebring International Raceway |Wed, July 01 02:40PM EDT |Wed, July 01 07:40PM BST |Thu, July 02 04:40AM AEST |
-|[Apex Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9523){:target="_blank"} |ASRL Trucks Season 6 | |Daytona International Speedway |Wed, July 01 08:00PM EDT |Thu, July 02 01:00AM BST |Thu, July 02 10:00AM AEST |
 |[Cars and Canards](https://members.iracing.com/membersite/member/LeagueView.do?league=12341){:target="_blank"} |2026 Cars and Canards GT3 & GT4 Series |Open |Circuit de Spa-Francorchamps |Sun, July 05 07:00PM EDT |Mon, July 06 12:00AM BST |Mon, July 06 09:00AM AEST |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |X\.0 Treadwell Endurance Series |Fixed |Circuit de Spa-Francorchamps |Sun, July 05 09:00PM EDT |Mon, July 06 02:00AM BST |Mon, July 06 11:00AM AEST |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |X\.3\.1 K\.A\.T\. King of Dirt |Fixed |Kokomo Speedway |Wed, July 08 08:15PM EDT |Thu, July 09 01:15AM BST |Thu, July 09 10:15AM AEST |
