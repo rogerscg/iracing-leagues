@@ -12,6 +12,14 @@
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |21 |1840 | |Canadian Tire Motorsports Park |Mon, July 06 08:30PM EDT |Tue, July 07 01:30AM BST |Tue, July 07 10:30AM AEST |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |16 |1354 | |Sebring International Raceway |Mon, July 06 09:15PM EDT |Tue, July 07 02:15AM BST |Tue, July 07 11:15AM AEST |
 
+### GTP
+
+[Back to Top](#)  
+
+| League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
+|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Miscellaneous One Off Events |10 |1351 |Fixed |Circuit de Spa-Francorchamps |Sun, July 05 12:55PM EDT |Sun, July 05 05:55PM BST |Mon, July 06 02:55AM AEST |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
