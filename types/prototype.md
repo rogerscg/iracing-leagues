@@ -17,8 +17,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|----------------------------|------------------------|------------------------|-------------------------|
-|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Miscellaneous One Off Events |10 |1351 |Fixed |Circuit de Spa-Francorchamps |Sun, July 05 12:55PM EDT |Sun, July 05 05:55PM BST |Mon, July 06 02:55AM AEST |
+|---------------------------------------------------------------------------------------------------------------------|----------------------------|-------|----|-----|-------------|--------|------|------|
+|[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Miscellaneous One Off Events |17 |1428 |Fixed | | | | |
 
 ### Hosted All Cars Class
 
