@@ -17,13 +17,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[GHD M2 CUP SAISON 2](https://members.iracing.com/membersite/member/LeagueView.do?league=9677){:target="_blank"} |GHD M2 CUP Saison 2 |43 |2712 | | | | | |
-|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 26S3 \- BMW M2 |41 |2419 |Open |Red Bull Ring |Mon, July 06 01:30PM EDT |Mon, July 06 06:30PM BST |Tue, July 07 03:30AM AEST |
-|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2026 S3 BMW M2 Cup |22 |2989 |Both |Circuit de Nevers Magny-Cours |Mon, July 06 02:00PM EDT |Mon, July 06 07:00PM BST |Tue, July 07 04:00AM AEST |
-|[Mybroga Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=13580){:target="_blank"} |MYBROGA BMW M2 Racing \(G87\) \- Season 1 |22 |1389 |Fixed |Circuito de Navarra |Mon, July 06 09:00PM EDT |Tue, July 07 02:00AM BST |Tue, July 07 11:00AM AEST |
-|[Americas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13481){:target="_blank"} |M2 Cup Fun Champ |15 |2202 |Open |Mid-Ohio Sports Car Course |Mon, July 06 08:00PM EDT |Tue, July 07 01:00AM BST |Tue, July 07 10:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[GHD M2 CUP SAISON 2](https://members.iracing.com/membersite/member/LeagueView.do?league=9677){:target="_blank"} |GHD M2 CUP Saison 2 |43 |2712 | |Okayama International Circuit |Tue, July 07 12:30PM EDT |Tue, July 07 05:30PM BST |Wed, July 08 02:30AM AEST |
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 26S3 \- BMW M2 |41 |2384 |Open |Oran Park Raceway |Mon, July 13 01:30PM EDT |Mon, July 13 06:30PM BST |Tue, July 14 03:30AM AEST |
+|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2026 S3 BMW M2 Cup |23 |3075 |Both | | | | |
+|[Mybroga Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=13580){:target="_blank"} |MYBROGA BMW M2 Racing \(G87\) \- Season 1 |23 |1404 |Fixed |Summit Point Raceway |Mon, July 13 09:00PM EDT |Tue, July 14 02:00AM BST |Tue, July 14 11:00AM AEST |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Bananas Big Beautiful Badass Bonanza \- Season 1 |13 |1889 |Both |Circuit de Spa-Francorchamps |Tue, July 07 11:00PM EDT |Wed, July 08 04:00AM BST |Wed, July 08 01:00PM AEST |
+|[E\-Sports SimRacing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=14064){:target="_blank"} |Summer League |11 |2064 |Open | | | | |
 
 ### SRX
 
@@ -45,8 +45,8 @@
 |[V8 Vets Supports](https://members.iracing.com/membersite/member/LeagueView.do?league=10129){:target="_blank"} |Mini Season 27\.5 |49 |1827 |Fixed | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |The UES OzOval Series 2026A |46 |2214 |Fixed | | | | |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation \- Supercars Championship \(2026\) |45 |1854 |Both | | | | |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints Season 28 |42 |1703 | |Shell V-Power Motorsport Park at The Bend |Wed, July 08 03:00AM EDT |Wed, July 08 08:00AM BST |Wed, July 08 05:00PM AEST |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday Aus Sprints Season 28 |42 |1500 | | | | | |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints Season 28 |38 |1703 | |Shell V-Power Motorsport Park at The Bend |Mon, July 06 03:00AM EDT |Mon, July 06 08:00AM BST |Mon, July 06 05:00PM AEST |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 18 |34 |3688 |Open | | | | |
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2026 \- V8 SUPERCARS SPÉCIAL OVALES |32 |1471 |Fixed | | | | |
 |[2Slo Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14393){:target="_blank"} |Send It Saturday V8 Supercar Series |27 |1619 |Open | | | | |

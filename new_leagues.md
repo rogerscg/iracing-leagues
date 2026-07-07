@@ -1,15 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Dad Bods Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=14730){:target="_blank"} | |Small League for Practicing and Racing Together |
-|[PitBox\.tv](https://members.iracing.com/membersite/member/LeagueView.do?league=14729){:target="_blank"} | |An iRacing dirt\-oval league\. Sideways, throttle pinned, since 2026\. Broadcasting Tool available @ pitbox\.tv |
-|[Friday Night Open Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14734){:target="_blank"} | | |
-|[jr2](https://members.iracing.com/membersite/member/LeagueView.do?league=14735){:target="_blank"} | | |
-|[rockin v race league](https://members.iracing.com/membersite/member/LeagueView.do?league=14728){:target="_blank"} | |SLM\-P |
-|[Dirt Bandits](https://members.iracing.com/membersite/member/LeagueView.do?league=14732){:target="_blank"} | |full Send Sliders |
-|[Sunday night Elite](https://members.iracing.com/membersite/member/LeagueView.do?league=14733){:target="_blank"} | | |
-|[XTI Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14731){:target="_blank"} | |110 HP Truck League start date 7/8/26 running on Wednesdays start time 8PM race time 845 |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Summit Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14736){:target="_blank"} | |Competitive formula style racing that focuses on clean race craft & respect |
 |[The Big Dance super series](https://members.iracing.com/membersite/member/LeagueView.do?league=14737){:target="_blank"} | |358 and big block racing with pro and super late model racing |
 |[SRU Nascar Road Racing Unleashed Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14738){:target="_blank"} | |Nascar Euro Car Road Racing, Fixed setup, Discord community upon acceptance to the league, Broadcasting provided by Pyrate Broadcasting on YouTube\(https://www\.youtube\.com/@PyrateBroadcastingCA\) "Road racing is where confidence meets reality\." |
@@ -38,7 +30,7 @@
 |[NW Sim July Monthly](https://members.iracing.com/membersite/member/LeagueView.do?league=14769){:target="_blank"} | |July Monthly Settings for PIR |
 |[NW Sim PIR Yearly](https://members.iracing.com/membersite/member/LeagueView.do?league=14768){:target="_blank"} | |Copy These settings for the PIR Test |
 |[Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=14767){:target="_blank"} | |late model stock |
-|[SimRacing International Transatlantic Trophi \- S1](https://members.iracing.com/membersite/member/LeagueView.do?league=14771){:target="_blank"} |[Discord](https://discord.gg/simracinginternational){:target="_blank"} |SimRacing International Transatlantic Trophi Series |
+|[SimRacing International Transatlantic Trophi \- S1](https://members.iracing.com/membersite/member/LeagueView.do?league=14771){:target="_blank"} |[Discord](https://discord.gg/simracinginternatio){:target="_blank"} |SimRacing International Transatlantic Trophi Series |
 |[Sons Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=14762){:target="_blank"} | |SRT \- League Racing |
 |[southern stock car series](https://members.iracing.com/membersite/member/LeagueView.do?league=14764){:target="_blank"} | |late model stock series |
 |[Time Attack TAFun](https://members.iracing.com/membersite/member/LeagueView.do?league=14766){:target="_blank"} | |6 Series \(FV,FF,SFL\-SRF,MX5,GT4\)  72 events each season\.  Each Time Attack "Series" and Car is comprised of 12 Sessions at 12 different tracks\. Each Series maintains a performance ranking\. The League will tally a Championship Ranking for the total times for all six Series\. We will host weekly races each Tuesday at 12:00Noon New York Time \(Each of the 6 series will have a race twice per 12 week season\) An online Race Reveiw Replay will be on Discord voice after each race\. |
@@ -64,4 +56,6 @@
 |[P9INE Motorsports Recreational League](https://members.iracing.com/membersite/member/LeagueView.do?league=14791){:target="_blank"} | |A wide array of fun events designed to help improve race craft, and have a good time doing it\. |
 |[Qualifiers](https://members.iracing.com/membersite/member/LeagueView.do?league=14789){:target="_blank"} | |League quali |
 |[Beltrix Factory Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14793){:target="_blank"} | | |
+|[Down South Racing League\(dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14796){:target="_blank"} | | |
+|[Virtual Paddock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14795){:target="_blank"} | | |
 
