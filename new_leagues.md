@@ -2,9 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Summit Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14736){:target="_blank"} | |Competitive formula style racing that focuses on clean race craft & respect |
-|[The Big Dance super series](https://members.iracing.com/membersite/member/LeagueView.do?league=14737){:target="_blank"} | |358 and big block racing with pro and super late model racing |
-|[SRU Nascar Road Racing Unleashed Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14738){:target="_blank"} | |Nascar Euro Car Road Racing, Fixed setup, Discord community upon acceptance to the league, Broadcasting provided by Pyrate Broadcasting on YouTube\(https://www\.youtube\.com/@PyrateBroadcastingCA\) "Road racing is where confidence meets reality\." |
 |[Apex Industries Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14744){:target="_blank"} | | |
 |[Coast 2 Coast Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14739){:target="_blank"} |[Discord](https://discord.gg/nypd8cqu6){:target="_blank"} |https://discord\.gg/nypd8cqu6 |
 |[Razor Speed League](https://members.iracing.com/membersite/member/LeagueView.do?league=14740){:target="_blank"} | |A competitive championship devoted to clean, hard racing\! Open to all iRatings above 1500\. |
@@ -40,7 +37,7 @@
 |[SRS Racing World Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14778){:target="_blank"} | |This championship is the flagship series of the SRS Racing Community, bringing together sports car drivers from around the world to compete in clean, fair, and competitive racing\. |
 |[Trenton Clark Raceing](https://members.iracing.com/membersite/member/LeagueView.do?league=14776){:target="_blank"} | | |
 |[湛江车友会](https://members.iracing.com/membersite/member/LeagueView.do?league=14774){:target="_blank"} | | |
-|[Busters Corner Gen 6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14780){:target="_blank"} |[Discord](https://discord.gg/bHhCEBWyaa){:target="_blank"} |Gen 6 Series |
+|[Busters Corner Gen 6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14780){:target="_blank"} |[Discord](https://discord.gg/ACmxhCu9nf){:target="_blank"} |Gen 6 Series |
 |[High Octane Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14782){:target="_blank"} | |Cup Series racing with the High Octane group\. |
 |[King Of Champions Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14781){:target="_blank"} |[Discord](https://discord.gg/fbJ5hyGg9W){:target="_blank"} |We Run Fixed Sets and we are a Beginner League and use Discord for Race Chats and schedule |
 |[SRC NOS SERIES SEASON XIV](https://members.iracing.com/membersite/member/LeagueView.do?league=14779){:target="_blank"} | | |
@@ -58,4 +55,11 @@
 |[Beltrix Factory Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14793){:target="_blank"} | | |
 |[Down South Racing League\(dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14796){:target="_blank"} | | |
 |[Virtual Paddock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14795){:target="_blank"} | | |
+|[802 Iracing Gen 6](https://members.iracing.com/membersite/member/LeagueView.do?league=14802){:target="_blank"} | | |
+|[Anthro Dirt Nationals Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14801){:target="_blank"} | |Get your paws dirty\! |
+|[Curm·WUDI CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=14797){:target="_blank"} | |无敌杯WUDICUP赛车模拟器比赛空降。由赛车手邓亿&curm racing联合举办，海选抖音全程直播，由邓亿，祈小智 Bruno联合解说，欢迎踊跃报名！详细及规则见二维码 |
+|[OTSS Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14803){:target="_blank"} |[Discord](https://discord.gg/6vqNPUfS){:target="_blank"} |The OTSS Contender Series is a fixed NASCAR O'Reilly Series league racing on Thursday nights at 9PM ET\. We run a 12 week custom schedule along side our Tuesday night truck series, the OTSS Select Series\! |
+|[RacingCockpits\.com Pacific Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14799){:target="_blank"} | |Championship Tour of the US West Coast in GT3 cars |
+|[Grid Gold Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14800){:target="_blank"} | |Special racing events, paved in Gold\! \*\*\* Yeah\! |
+|[Theta Indy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14798){:target="_blank"} | | |
 
