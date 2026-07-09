@@ -1,14 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Apex Industries Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14744){:target="_blank"} | | |
-|[Coast 2 Coast Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14739){:target="_blank"} |[Discord](https://discord.gg/nypd8cqu6){:target="_blank"} |https://discord\.gg/nypd8cqu6 |
-|[Razor Speed League](https://members.iracing.com/membersite/member/LeagueView.do?league=14740){:target="_blank"} | |A competitive championship devoted to clean, hard racing\! Open to all iRatings above 1500\. |
-|[United States Stockcar Association \(USSA\) \- SLM Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14741){:target="_blank"} |[Discord](https://discord.gg/RqKED5Ua23){:target="_blank"} |NASCAR Style Oval league\. See our Discord for all the latest information\. |
-|[Wheel Damage Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14745){:target="_blank"} | | |
-|[Whiskey River Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14742){:target="_blank"} | |bunch of \-\-\-\- |
-|[Goochlandia League](https://members.iracing.com/membersite/member/LeagueView.do?league=14743){:target="_blank"} | |Cleb and Gooches AI Experiment |
+|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Iron Ram World Stock Series Powered By THDesigns](https://members.iracing.com/membersite/member/LeagueView.do?league=14747){:target="_blank"} |[Discord](https://discord.gg/PBTyJ84y3r){:target="_blank"} | |
 |[Open to change name](https://members.iracing.com/membersite/member/LeagueView.do?league=14749){:target="_blank"} | |Spirit 56 Fight |
 |[U\.S\.O\.R\.A ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14751){:target="_blank"} | | |
@@ -37,7 +30,7 @@
 |[SRS Racing World Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14778){:target="_blank"} | |This championship is the flagship series of the SRS Racing Community, bringing together sports car drivers from around the world to compete in clean, fair, and competitive racing\. |
 |[Trenton Clark Raceing](https://members.iracing.com/membersite/member/LeagueView.do?league=14776){:target="_blank"} | | |
 |[湛江车友会](https://members.iracing.com/membersite/member/LeagueView.do?league=14774){:target="_blank"} | | |
-|[Busters Corner Gen 6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14780){:target="_blank"} |[Discord](https://discord.gg/ACmxhCu9nf){:target="_blank"} |Gen 6 Series |
+|[Busters Corner Gen 6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14780){:target="_blank"} |[Discord](https://discord.gg/bHhCEBWyaa){:target="_blank"} |Gen 6 Series |
 |[High Octane Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14782){:target="_blank"} | |Cup Series racing with the High Octane group\. |
 |[King Of Champions Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14781){:target="_blank"} |[Discord](https://discord.gg/fbJ5hyGg9W){:target="_blank"} |We Run Fixed Sets and we are a Beginner League and use Discord for Race Chats and schedule |
 |[SRC NOS SERIES SEASON XIV](https://members.iracing.com/membersite/member/LeagueView.do?league=14779){:target="_blank"} | | |
@@ -54,7 +47,7 @@
 |[Qualifiers](https://members.iracing.com/membersite/member/LeagueView.do?league=14789){:target="_blank"} | |League quali |
 |[Beltrix Factory Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14793){:target="_blank"} | | |
 |[Down South Racing League\(dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14796){:target="_blank"} | | |
-|[Virtual Paddock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14795){:target="_blank"} | | |
+|[Virtual Paddock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14795){:target="_blank"} | |https://virtualpaddock\.app/ |
 |[802 Iracing Gen 6](https://members.iracing.com/membersite/member/LeagueView.do?league=14802){:target="_blank"} | | |
 |[Anthro Dirt Nationals Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14801){:target="_blank"} | |Get your paws dirty\! |
 |[Curm·WUDI CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=14797){:target="_blank"} | |无敌杯WUDICUP赛车模拟器比赛空降。由赛车手邓亿&curm racing联合举办，海选抖音全程直播，由邓亿，祈小智 Bruno联合解说，欢迎踊跃报名！详细及规则见二维码 |
@@ -62,4 +55,11 @@
 |[RacingCockpits\.com Pacific Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14799){:target="_blank"} | |Championship Tour of the US West Coast in GT3 cars |
 |[Grid Gold Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14800){:target="_blank"} | |Special racing events, paved in Gold\! \*\*\* Yeah\! |
 |[Theta Indy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14798){:target="_blank"} | | |
+|[Below Average Joes](https://members.iracing.com/membersite/member/LeagueView.do?league=14807){:target="_blank"} | |weekend warriors |
+|[Formula 3 Sprint](https://members.iracing.com/membersite/member/LeagueView.do?league=14809){:target="_blank"} | | |
+|[Kinetic Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14808){:target="_blank"} |[Discord](https://discord.gg/5xEuS3tcZR){:target="_blank"} |Beginner iRacing asphalt league on Wednesday nights at 8:30 PM EST\. All members can be at any level, but it is specifically to be beginner friendly and welcoming to drivers just now learning\. The only expectation is to be respectful and clean\. Please join the Discord and grab the iRacing role if you would like to join\! |
+|[Nextline Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14806){:target="_blank"} | | |
+|[NSR Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14810){:target="_blank"} | |The NSR Challenge Series is a space for drivers from all disciplines to come together and battle it out\. |
+|[SRS Racing European Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14804){:target="_blank"} | |The SRS Racing European Championship brings together drivers from across Europe to compete in clean, fair, and competitive racing\. For Season 1, the Porsche Cup has been selected as the championship car by community vote\. |
+|[The National Association of Intercollegiate Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14805){:target="_blank"} | |The Official NAIR League |
 

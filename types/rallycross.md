@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|-------------|--------|------|------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Open 4WD \- 2026 \(Sat\) |20 |2517 |Fixed | | | | |
+|-------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|-----------------------------------|------------------------|------------------------|-------------------------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Open 4WD \- 2026 \(Sat\) |20 |2517 |Fixed |Lucas Oil Indianapolis Raceway Park |Sat, July 11 09:34PM EDT |Sun, July 12 02:34AM BST |Sun, July 12 11:34AM AEST |
 
 ### Rallycross
 
