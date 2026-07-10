@@ -13,6 +13,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Rollin Thunder Racing \- Asphalt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14190){:target="_blank"} |Rollin Thunder Racing Craftsman Trucks |Fixed |Daytona International Speedway |Sat, July 11 06:00PM EDT |Sat, July 11 11:00PM BST |Sun, July 12 08:00AM AEST |
 |[PCRL Official](https://members.iracing.com/membersite/member/LeagueView.do?league=8971){:target="_blank"} |Season 15 |Fixed |Dover Motor Speedway |Mon, July 13 07:58PM EDT |Tue, July 14 12:58AM BST |Tue, July 14 09:58AM AEST |
+|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL\- Wednesday ARCA Season 4 | |Daytona International Speedway |Wed, July 15 07:30PM EDT |Thu, July 16 12:30AM BST |Thu, July 16 09:30AM AEST |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |ARCA Summer 2026 |Both |Auto Club Speedway |Tue, July 14 09:00PM EDT |Wed, July 15 02:00AM BST |Wed, July 15 11:00AM AEST |
 |[\#0 Clean Racing League Arca Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12364){:target="_blank"} |CRL Arca Series Season 4 |Fixed |Daytona International Speedway |Wed, July 15 07:30PM EDT |Thu, July 16 12:30AM BST |Thu, July 16 09:30AM AEST |
 |[Max Tach Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13163){:target="_blank"} |2026 Oval Season \#2 |Both |Daytona International Speedway |Sun, July 12 08:00PM EDT |Mon, July 13 01:00AM BST |Mon, July 13 10:00AM AEST |
@@ -22,17 +23,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------|-----------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------|-----------------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
 |[CCL](https://members.iracing.com/membersite/member/LeagueView.do?league=12980){:target="_blank"} |Nascar Euro V8GP \(Season 1\) |Fixed |WeatherTech Raceway at Laguna Seca |Thu, July 16 08:58PM EDT |Fri, July 17 01:58AM BST |Fri, July 17 10:58AM AEST |
+|[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 14 \- EurOval Series | |Lanier National Speedway |Wed, July 15 09:15PM EDT |Thu, July 16 02:15AM BST |Thu, July 16 11:15AM AEST |
 
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-------------------------------|------------------------|------------------------|-------------------------|
+|[NASCAR CAS Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12634){:target="_blank"} |NCC \- Season 1 | |Michigan International Speedway |Fri, July 17 02:00PM EDT |Fri, July 17 07:00PM BST |Sat, July 18 04:00AM AEST |
 |[Bushwacker Race Team](https://members.iracing.com/membersite/member/LeagueView.do?league=9770){:target="_blank"} |Bushwacker Cup Series "Charcuterie Prelude" | |Daytona International Speedway |Fri, July 10 09:00PM EDT |Sat, July 11 02:00AM BST |Sat, July 11 11:00AM AEST |
-|[The BSC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3791){:target="_blank"} |BSC next gen season 13 |Fixed |Chicagoland Speedway |Thu, July 09 07:00PM EDT |Fri, July 10 12:00AM BST |Fri, July 10 09:00AM AEST |
 |[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL DEPgraphics Next Gen Series Season 5 | |Kansas Speedway |Sun, July 12 07:30PM EDT |Mon, July 13 12:30AM BST |Mon, July 13 09:30AM AEST |
 
 ### NASCAR Cup
@@ -42,14 +44,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|--------------------|-----|-------------------------|------------------------|------------------------|-------------------------|
 |[Busters Corner Gen 6 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14780){:target="_blank"} |Busters Gen 6 S32026 |Fixed |North Wilkesboro Speedway |Thu, July 16 07:00PM EDT |Fri, July 17 12:00AM BST |Fri, July 17 09:00AM AEST |
-
-### NASCAR Legends 1987
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[CHOP SHOP NATIONALS](https://members.iracing.com/membersite/member/LeagueView.do?league=14517){:target="_blank"} |Chop Shop Nationals Season 1 | |Daytona International Speedway |Thu, July 09 07:30PM EDT |Fri, July 10 12:30AM BST |Fri, July 10 09:30AM AEST |
 
 ### NASCAR O'Reilly Series
 
@@ -71,7 +65,7 @@
 |[Area 51 Thursday Night Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14264){:target="_blank"} |Area 51 2026 Season Two Thursday Nights Oval Series | |Talladega Superspeedway |Thu, July 16 08:00PM EDT |Fri, July 17 01:00AM BST |Fri, July 17 10:00AM AEST |
 |[///OGRL NASCAR Thunder Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12136){:target="_blank"} |Thunder Trucks S12 | |Auto Club Speedway |Thu, July 16 08:30PM EDT |Fri, July 17 01:30AM BST |Fri, July 17 10:30AM AEST |
 |[Vspeed NEPA Towing Contender Series Powered by NITRO](https://members.iracing.com/membersite/member/LeagueView.do?league=3520){:target="_blank"} |Vspeed NEPA Towing Contender Series Season16 |Open |North Wilkesboro Speedway |Wed, July 15 08:30PM EDT |Thu, July 16 01:30AM BST |Thu, July 16 10:30AM AEST |
-|[///OGRL NASCAR Thunder Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=12136){:target="_blank"} |PreSeason 2026 | |Richmond Raceway |Thu, July 09 08:30PM EDT |Fri, July 10 01:30AM BST |Fri, July 10 10:30AM AEST |
+|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Tuesday Trucks Season 5 | |Nashville Superspeedway |Tue, July 14 07:30PM EDT |Wed, July 15 12:30AM BST |Wed, July 15 09:30AM AEST |
 
 ### Whelen Modified
 
@@ -88,18 +82,26 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|-------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|----------------|------------------------|------------------------|-------------------------|
 |[Grease Monkey Racing League\-TM](https://members.iracing.com/membersite/member/LeagueView.do?league=12909){:target="_blank"} |GREASE THROTTLE TUESDAY LATE MODEL STOCK SERIES S2 |Fixed |Langley Speedway |Tue, July 14 06:30PM EDT |Tue, July 14 11:30PM BST |Wed, July 15 08:30AM AEST |
-|[H&H Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12307){:target="_blank"} |HHR Late Model Stock Season 2 |Both |New Smyrna Speedway |Thu, July 09 07:30PM EDT |Fri, July 10 12:30AM BST |Fri, July 10 09:30AM AEST |
+|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Monday Late Model Stock Season 5 | |Iowa Speedway |Mon, July 13 07:30PM EDT |Tue, July 14 12:30AM BST |Tue, July 14 09:30AM AEST |
+
+### Legends
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|--------------------|-----|-------------------------------|------------------------|------------------------|-------------------------|
+|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Legends season 2 | |[Legacy] Phoenix Raceway - 2008 |Fri, July 17 07:30PM EDT |Sat, July 18 12:30AM BST |Sat, July 18 09:30AM AEST |
 
 ### Street Stocks
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|-------------------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|-------------------------|------------------------|------------------------|-------------------------|
 |[Beer League Racing Network](https://members.iracing.com/membersite/member/LeagueView.do?league=14213){:target="_blank"} |Beer League Street Stock Series |Fixed |Charlotte Motor Speedway  |Sat, July 11 10:00PM EDT |Sun, July 12 03:00AM BST |Sun, July 12 12:00PM AEST |
-|[H&H Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12307){:target="_blank"} |HHR Summer Shootout |Both |Charlotte Motor Speedway  |Thu, July 09 09:00PM EDT |Fri, July 10 02:00AM BST |Fri, July 10 11:00AM AEST |
+|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Thursday Street Stock Season 2 | |Irwindale Speedway |Thu, July 16 07:30PM EDT |Fri, July 17 12:30AM BST |Fri, July 17 09:30AM AEST |
 
 # Open-wheel
 
@@ -124,16 +126,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|--------------------|------------------------|------------------------|-------------------------|
-|[Inferno EU F4 Stock Championship 250€ PRIZEPOOL\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14668){:target="_blank"} |Inferno Racing EU F4 fixed Championship \#1 |Fixed |Summit Point Raceway |Thu, July 09 01:00PM EDT |Thu, July 09 06:00PM BST |Fri, July 10 03:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|-------------------|------------------------|------------------------|-------------------------|
+|[Inferno EU F4 Stock Championship 250€ PRIZEPOOL\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14668){:target="_blank"} |Inferno Racing EU F4 fixed Championship \#1 |Fixed |Circuito de Navarra |Thu, July 16 01:00PM EDT |Thu, July 16 06:00PM BST |Fri, July 17 03:00AM AEST |
 
 ### Formula Vees - Base
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-----|-----------------------|------------------------|------------------------|-------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026C Formula Vee Sprint Series \- Disruptive Labs |Both |Adelaide Street Circuit |Thu, July 09 04:19AM EDT |Thu, July 09 09:19AM BST |Thu, July 09 06:19PM AEST |
+|--------------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|-------------------|------------------------|------------------------|-------------------------|
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Formula Vee S1 \- Rookie Formula |Both |Circuito de Navarra |Mon, July 13 09:00PM EDT |Tue, July 14 02:00AM BST |Tue, July 14 11:00AM AEST |
 
 # Sports Car
@@ -143,11 +144,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[LARL Porsche Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14632){:target="_blank"} |LARL PCup Season 1 |Open |Virginia International Raceway |Thu, July 09 08:00PM EDT |Fri, July 10 01:00AM BST |Fri, July 10 10:00AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|-------------------|------------------------|------------------------|-------------------------|
 |[Americas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13481){:target="_blank"} |Porsche Cup Mondays Season 3 |Open |Road America |Mon, July 13 09:30PM EDT |Tue, July 14 02:30AM BST |Tue, July 14 11:30AM AEST |
 |[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2026\-2 |Fixed |Silverstone Circuit |Mon, July 13 07:50PM EDT |Tue, July 14 12:50AM BST |Tue, July 14 09:50AM AEST |
-|[GSRC\.inc Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2026C Porsche Cup | |Mount Panorama Circuit |Thu, July 09 05:45AM EDT |Thu, July 09 10:45AM BST |Thu, July 09 07:45PM AEST |
 
 ### GT1 Class
 
@@ -225,19 +224,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
-|[Hometown Heroes Dirt Series by Top Tier Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14594){:target="_blank"} |Heroes Season 1 2026 | |Lanier National Speedway |Thu, July 09 07:00PM EDT |Fri, July 10 12:00AM BST |Fri, July 10 09:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------|--------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
 |[Monsters of Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=3310){:target="_blank"} |Summer Specials 2026 |Fixed |The Dirt Track at Charlotte |Thu, July 16 08:30PM EDT |Fri, July 17 01:30AM BST |Fri, July 17 10:30AM AEST |
 
 # Dirt Road
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks East \- 2026/Jul \(Thurs\) |Fixed |Crandon International Raceway |Thu, July 09 07:00PM EDT |Fri, July 10 12:00AM BST |Fri, July 10 09:00AM AEST |
 
 ### Pro 2 Truck
 
@@ -258,7 +248,6 @@
 |[XMS Racing's Ricmotech GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=3478){:target="_blank"} |Ricmotech GT3 Challenge \| Season 1 |Open |Road America |Sun, July 12 04:00PM EDT |Sun, July 12 09:00PM BST |Mon, July 13 06:00AM AEST |
 |[Skid Mark Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10396){:target="_blank"} |2026 Organised Chaos Season 8 \- GT3 |Fixed |Circuit de Spa-Francorchamps |Fri, July 10 06:00PM EDT |Fri, July 10 11:00PM BST |Sat, July 11 08:00AM AEST |
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |DHRL GTD Season 10 |Both |Canadian Tire Motorsports Park |Sun, July 12 07:30PM EDT |Mon, July 13 12:30AM BST |Mon, July 13 09:30AM AEST |
-|[CORE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3500){:target="_blank"} |GT Series Season 16 |Fixed |Canadian Tire Motorsports Park |Thu, July 09 08:30PM EDT |Fri, July 10 01:30AM BST |Fri, July 10 10:30AM AEST |
 |[LIGA FRS \- GT3 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=11825){:target="_blank"} |GT3 S3 | |Mount Panorama Circuit |Mon, July 13 05:00PM EDT |Mon, July 13 10:00PM BST |Tue, July 14 07:00AM AEST |
 |[MC Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=11035){:target="_blank"} |GT3 Pre\-Qualifying |Both |Red Bull Ring |Fri, July 10 03:00AM EDT |Fri, July 10 08:00AM BST |Fri, July 10 05:00PM AEST |
 
@@ -267,10 +256,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------------|----------------------|-----|---------------------------|------------------------|------------------------|-------------------------|
 |[Sim Racing Association 2\.0](https://members.iracing.com/membersite/member/LeagueView.do?league=10896){:target="_blank"} |Multi Car Series |Fixed |EchoPark Speedway (Atlanta) |Sat, July 11 07:00PM EDT |Sun, July 12 12:00AM BST |Sun, July 12 09:00AM AEST |
 |[Gold Crown Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14783){:target="_blank"} |Gold Crown \- Season 1 | |South Boston Speedway |Wed, July 15 08:00PM EDT |Thu, July 16 01:00AM BST |Thu, July 16 10:00AM AEST |
-|[KRBR \- Kart Racing Brasil](https://members.iracing.com/membersite/member/LeagueView.do?league=14086){:target="_blank"} |KRBR Multiclasse \(Season 2\) | |Mount Panorama Circuit |Thu, July 09 07:00PM EDT |Fri, July 10 12:00AM BST |Fri, July 10 09:00AM AEST |
 |[Manufacturer's Team Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14794){:target="_blank"} |MTC 2026 S1 |Open |Circuit Gilles Villeneuve |Tue, July 14 07:00PM EDT |Wed, July 15 12:00AM BST |Wed, July 15 09:00AM AEST |
 
 ### Touring Car

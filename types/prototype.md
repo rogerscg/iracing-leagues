@@ -25,11 +25,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|--------------------------------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |59 |4534 | | | | | |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |36 |2863 |Open | | | | |
 |[Ray Esports vRunoffs](https://members.iracing.com/membersite/member/LeagueView.do?league=14079){:target="_blank"} |2026S2 vRunoffs Sports Cars |31 |2789 | | | | | |
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 3 |20 |2499 |Open |Autodromo Internazionale Enzo e Dino Ferrari |Thu, July 09 02:15PM EDT |Thu, July 09 07:15PM BST |Fri, July 10 04:15AM AEST |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 3 |21 |2602 |Open |Road Atlanta |Thu, July 16 02:15PM EDT |Thu, July 16 07:15PM BST |Fri, July 17 04:15AM AEST |
 |[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 2: SR8 |12 |1146 |Fixed | | | | |
 
 ### Ligier JS P320
@@ -39,7 +39,6 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[Kansas City Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9275){:target="_blank"} |Dad's Racing Services LMP3 Challenge |64 |2130 |Both | | | | |
-|[Kansas City Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9275){:target="_blank"} |Qualifying |30 |None |Both | | | | |
 
 ### Radical SR10
 
@@ -64,7 +63,6 @@
 |[Malaka Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14727){:target="_blank"} |Radical SR8 cup |19 |1403 | |Winton Motor Raceway |Wed, July 15 07:00PM EDT |Thu, July 16 12:00AM BST |Thu, July 16 09:00AM AEST |
 |[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 2 |17 |1904 | |Road Atlanta |Tue, July 14 09:50PM EDT |Wed, July 15 02:50AM BST |Wed, July 15 11:50AM AEST |
 |[Compétitions GOFiR](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |RAC |15 |2055 |Open | | | | |
-|[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 1 |13 |1638 |Both | | | | |
 |[Apollo Racing Club \- RadARCl Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |Season 5 |13 |2078 |Fixed | | | | |
 |[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12301){:target="_blank"} |Radical Revolution \- May 2026 |12 |2888 | | | | | |
 

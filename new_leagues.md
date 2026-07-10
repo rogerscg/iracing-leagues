@@ -1,9 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Iron Ram World Stock Series Powered By THDesigns](https://members.iracing.com/membersite/member/LeagueView.do?league=14747){:target="_blank"} |[Discord](https://discord.gg/PBTyJ84y3r){:target="_blank"} | |
-|[Open to change name](https://members.iracing.com/membersite/member/LeagueView.do?league=14749){:target="_blank"} | |Spirit 56 Fight |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[U\.S\.O\.R\.A ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14751){:target="_blank"} | | |
 |[Phoenix Sim Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=14753){:target="_blank"} |[Discord](https://discord.gg/HmM7VApAP){:target="_blank"} |Phoenix Sim Racing league |
 |[Smokin' Thunder Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=14755){:target="_blank"} | | |
@@ -62,4 +60,9 @@
 |[NSR Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14810){:target="_blank"} | |The NSR Challenge Series is a space for drivers from all disciplines to come together and battle it out\. |
 |[SRS Racing European Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14804){:target="_blank"} | |The SRS Racing European Championship brings together drivers from across Europe to compete in clean, fair, and competitive racing\. For Season 1, the Porsche Cup has been selected as the championship car by community vote\. |
 |[The National Association of Intercollegiate Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14805){:target="_blank"} | |The Official NAIR League |
+|[DGN](https://members.iracing.com/membersite/member/LeagueView.do?league=14814){:target="_blank"} | | |
+|[National Open Wheel Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=14815){:target="_blank"} | |We race all kinds of dirt on here |
+|[United States Stockcar Association \(USSA\) \- Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14812){:target="_blank"} |[Discord](https://discord.gg/RqKED5Ua23){:target="_blank"} | |
+|[NLR FANATEC eMotorsport Series by IronDriver](https://members.iracing.com/membersite/member/LeagueView.do?league=14813){:target="_blank"} | | |
+|[Unity RDV Compétition](https://members.iracing.com/membersite/member/LeagueView.do?league=14811){:target="_blank"} | |Unity Racing est une team française sur iRacing en pleine expansion dédiée à l'endurance\.Notre structure regroupe 40 pilotes motivés par la progression collective, l’expertise technique et la compétition en Top Split\. |
 

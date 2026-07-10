@@ -15,13 +15,21 @@
 |[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |ERC RX Dev League \| S1 |12 |1388 |Both | | | | |
 |[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |ABP Rallycross the Troops |11 |1186 | | | | | |
 
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|--------------------------------|------------------------|------------------------|-------------------------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks East \- 2026/Jul \(Thurs\) |11 |2666 |Fixed |Bark River International Raceway |Thu, July 16 07:00PM EDT |Fri, July 17 12:00AM BST |Fri, July 17 09:00AM AEST |
+
 ### Pro 2 Lite Truck
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 12 \- Pro 2 Lites |61 |3116 | |Crandon International Raceway |Fri, July 10 08:30PM EDT |Sat, July 11 01:30AM BST |Sat, July 11 10:30AM AEST |
+|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 13 \- Pro 2 Lites |61 |3116 | |Crandon International Raceway |Fri, July 10 08:30PM EDT |Sat, July 11 01:30AM BST |Sat, July 11 10:30AM AEST |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO2 20/20 fights |29 |1415 |Fixed |Limaland Motorsports Park |Sun, July 12 04:00PM EDT |Sun, July 12 09:00PM BST |Mon, July 13 06:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/TINYTRUCK \- 2026 |27 |3394 |Fixed | | | | |
 
