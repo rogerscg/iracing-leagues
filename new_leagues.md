@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[U\.S\.O\.R\.A ARCA Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14751){:target="_blank"} | | |
-|[Phoenix Sim Racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=14753){:target="_blank"} |[Discord](https://discord.gg/HmM7VApAP){:target="_blank"} |Phoenix Sim Racing league |
-|[Smokin' Thunder Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=14755){:target="_blank"} | | |
-|[Test Test](https://members.iracing.com/membersite/member/LeagueView.do?league=14752){:target="_blank"} | | |
-|[Revenant Racing Truck League](https://members.iracing.com/membersite/member/LeagueView.do?league=14754){:target="_blank"} | | |
 |[Apex Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14761){:target="_blank"} |[Discord](https://discord.gg/MhSawY267R){:target="_blank"} |A dirt oval iracing series that race Big Blocks, Super, and 360s\. We hope to be very competitive and have good fun racing in our league\. |
 |[Burnout Bacon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14760){:target="_blank"} | |Welcome to the digital headquarters of Burnout Bacon Racing\. We’re here to burn rubber, slide corners, and chase apexes\. If you smell tire smoke and breakfast, you’re in the right place\. |
 |[Hyperdrive Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=14758){:target="_blank"} | |Weekly Practice Sessions For Upcoming Special Events\!Every Saturday a 3 hour session at 7PM GMT\+1 |
@@ -46,7 +41,7 @@
 |[Beltrix Factory Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14793){:target="_blank"} | | |
 |[Down South Racing League\(dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14796){:target="_blank"} | | |
 |[Virtual Paddock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14795){:target="_blank"} | |https://virtualpaddock\.app/ |
-|[802 Iracing Gen 6](https://members.iracing.com/membersite/member/LeagueView.do?league=14802){:target="_blank"} | | |
+|[802 Gen6 Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14802){:target="_blank"} | | |
 |[Anthro Dirt Nationals Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14801){:target="_blank"} | |Get your paws dirty\! |
 |[Curm·WUDI CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=14797){:target="_blank"} | |无敌杯WUDICUP赛车模拟器比赛空降。由赛车手邓亿&curm racing联合举办，海选抖音全程直播，由邓亿，祈小智 Bruno联合解说，欢迎踊跃报名！详细及规则见二维码 |
 |[OTSS Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14803){:target="_blank"} |[Discord](https://discord.gg/6vqNPUfS){:target="_blank"} |The OTSS Contender Series is a fixed NASCAR O'Reilly Series league racing on Thursday nights at 9PM ET\. We run a 12 week custom schedule along side our Tuesday night truck series, the OTSS Select Series\! |
@@ -65,4 +60,6 @@
 |[United States Stockcar Association \(USSA\) \- Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14812){:target="_blank"} |[Discord](https://discord.gg/RqKED5Ua23){:target="_blank"} | |
 |[NLR FANATEC eMotorsport Series by IronDriver](https://members.iracing.com/membersite/member/LeagueView.do?league=14813){:target="_blank"} | | |
 |[Unity RDV Compétition](https://members.iracing.com/membersite/member/LeagueView.do?league=14811){:target="_blank"} | |Unity Racing est une team française sur iRacing en pleine expansion dédiée à l'endurance\.Notre structure regroupe 40 pilotes motivés par la progression collective, l’expertise technique et la compétition en Top Split\. |
+|[Star City Summer Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=14816){:target="_blank"} | |A three race shoot\-out for racers from Roanoke or the surrounding areas\! |
+|[GoFast](https://members.iracing.com/membersite/member/LeagueView.do?league=14817){:target="_blank"} | |fast |
 
