@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Apex Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14761){:target="_blank"} |[Discord](https://discord.gg/MhSawY267R){:target="_blank"} |A dirt oval iracing series that race Big Blocks, Super, and 360s\. We hope to be very competitive and have good fun racing in our league\. |
-|[Burnout Bacon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14760){:target="_blank"} | |Welcome to the digital headquarters of Burnout Bacon Racing\. We’re here to burn rubber, slide corners, and chase apexes\. If you smell tire smoke and breakfast, you’re in the right place\. |
-|[Hyperdrive Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=14758){:target="_blank"} | |Weekly Practice Sessions For Upcoming Special Events\!Every Saturday a 3 hour session at 7PM GMT\+1 |
-|[SPR \| Porsche CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=14757){:target="_blank"} | | |
-|[3\-D Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14759){:target="_blank"} | |Just having fun |
 |[Busters Corner Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14772){:target="_blank"} | |Tues\. Night Truck Series |
 |[midwest outlaws sunoco dirt series](https://members.iracing.com/membersite/member/LeagueView.do?league=14765){:target="_blank"} | |pro dirt late models |
 |[Nocturnal NASCAR O'Reilly](https://members.iracing.com/membersite/member/LeagueView.do?league=14763){:target="_blank"} | |Welcome to the Nocturnal Nascar League\! We are a brand new league which is aimed at enabling a competitive learning platform for all skill sets of oval Drivers on Iracing\. We will focus on providing a friendly and competitive community experience tailored to sharpen your race craft while having FUN\! |
@@ -47,7 +42,7 @@
 |[OTSS Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14803){:target="_blank"} |[Discord](https://discord.gg/6vqNPUfS){:target="_blank"} |The OTSS Contender Series is a fixed NASCAR O'Reilly Series league racing on Thursday nights at 9PM ET\. We run a 12 week custom schedule along side our Tuesday night truck series, the OTSS Select Series\! |
 |[RacingCockpits\.com Pacific Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14799){:target="_blank"} | |Championship Tour of the US West Coast in GT3 cars |
 |[Grid Gold Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14800){:target="_blank"} | |Special racing events, paved in Gold\! \*\*\* Yeah\! |
-|[Theta Indy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14798){:target="_blank"} | | |
+|[Theta Indy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14798){:target="_blank"} |[Discord](https://discord.gg/9YEDAHpYbb){:target="_blank"} | |
 |[Below Average Joes](https://members.iracing.com/membersite/member/LeagueView.do?league=14807){:target="_blank"} | |weekend warriors |
 |[Formula 3 Sprint](https://members.iracing.com/membersite/member/LeagueView.do?league=14809){:target="_blank"} | | |
 |[Kinetic Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14808){:target="_blank"} |[Discord](https://discord.gg/5xEuS3tcZR){:target="_blank"} |Beginner iRacing asphalt league on Wednesday nights at 8:30 PM EST\. All members can be at any level, but it is specifically to be beginner friendly and welcoming to drivers just now learning\. The only expectation is to be respectful and clean\. Please join the Discord and grab the iRacing role if you would like to join\! |
@@ -62,4 +57,6 @@
 |[Unity RDV Compétition](https://members.iracing.com/membersite/member/LeagueView.do?league=14811){:target="_blank"} | |Unity Racing est une team française sur iRacing en pleine expansion dédiée à l'endurance\.Notre structure regroupe 40 pilotes motivés par la progression collective, l’expertise technique et la compétition en Top Split\. |
 |[Star City Summer Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=14816){:target="_blank"} | |A three race shoot\-out for racers from Roanoke or the surrounding areas\! |
 |[GoFast](https://members.iracing.com/membersite/member/LeagueView.do?league=14817){:target="_blank"} | |fast |
+|[IEC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14819){:target="_blank"} | |NASCAR focused league racing for 15\+ years on the Forza Motorsport platform making the transition to iRacing |
+|[Roar Before British F4](https://members.iracing.com/membersite/member/LeagueView.do?league=14818){:target="_blank"} | |Roar Before British F4 series |
 
