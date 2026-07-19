@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Mid\-Life Motorsport Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14788){:target="_blank"} | |Mildura Mid\-Life Motorsport Club |
-|[Velocity Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14787){:target="_blank"} | | |
 |[GT3 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14790){:target="_blank"} | | |
 |[Manufacturer's Team Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14794){:target="_blank"} | |We're a friendly iRacing league where Hypercars and GT3s join up for side\-by\-side team racing to crown a winning manufacturer\. Each season Acura, BMW, Ferrari, General Motors, and Porsche compete alongside privateer GT3s for 9 rounds of action\. We're excited to see you Tuesday nights at 7pm EST\! |
 |[P9INE Motorsports Official](https://members.iracing.com/membersite/member/LeagueView.do?league=14792){:target="_blank"} | |Competitive GT3 Racing |
@@ -68,4 +66,11 @@
 |[crab rangoon](https://members.iracing.com/membersite/member/LeagueView.do?league=14855){:target="_blank"} | |crabs goonin in rags |
 |[Grass Appreciation Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14850){:target="_blank"} | |Small cup, big send\. |
 |[Offline Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14856){:target="_blank"} | | |
+|[BYGAWD \*\*\* TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=14864){:target="_blank"} | |Bygawd \*\*\* tour is a league where there hard racing but only one champ 7 days 7  tracks |
+|[Dirt Royalty Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14862){:target="_blank"} | |Dirt Oval RacingSuper Late ModelsMicro Winged SprintsDirt Legends \(Special Sessions\)358 Mods |
+|[Mystic Triple Crown](https://members.iracing.com/membersite/member/LeagueView.do?league=14860){:target="_blank"} | | |
+|[\( ORCA \) Online Racing Championship Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14857){:target="_blank"} | |A multi\-class racing league launching in September 2026 with a GT3/TCR sprint series \(races between 30\-45 minutes\)\. |
+|[Rural Propane Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14863){:target="_blank"} | |Discord\> ligmanutz0849                  Street stock, prolates, supers, limiteds, ump |
+|[srm](https://members.iracing.com/membersite/member/LeagueView.do?league=14859){:target="_blank"} | | |
+|[SRN Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14861){:target="_blank"} | | |
 
