@@ -8,9 +8,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |22 |1790 | |Road America |Mon, July 20 08:30PM EDT |Tue, July 21 01:30AM BST |Tue, July 21 10:30AM AEST |
-|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |17 |1399 | |Canadian Tire Motorsports Park |Mon, July 20 09:15PM EDT |Tue, July 21 02:15AM BST |Tue, July 21 11:15AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|-------------------------|------------------------|------------------------|-------------------------|
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |23 |1790 | |Autodromo Nazionale Monza |Mon, July 27 08:30PM EDT |Tue, July 28 01:30AM BST |Tue, July 28 10:30AM AEST |
+|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |17 |1379 | |Autodromo Nazionale Monza |Mon, July 27 09:15PM EDT |Tue, July 28 02:15AM BST |Tue, July 28 11:15AM AEST |
 
 ### Hosted All Cars Class
 
