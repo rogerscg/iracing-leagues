@@ -22,13 +22,13 @@
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |PORSCHE CUP 2026 SAISON 2 |87 |1961 | | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S16 Euro/Global Porsche Cup Challenge |80 |2655 |Both | | | | |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S28 \- PCup \- Tuesday |77 |2128 |Both |Sebring International Raceway |Tue, July 28 07:00PM EDT |Wed, July 29 12:00AM BST |Wed, July 29 09:00AM AEST |
-|[GSRC\.inc Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2026C Porsche Cup |76 |2418 | |Watkins Glen International |Thu, July 23 05:38AM EDT |Thu, July 23 10:38AM BST |Thu, July 23 07:38PM AEST |
+|[GSRC\.inc Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5657){:target="_blank"} |2026C Porsche Cup |76 |2418 | |Watkins Glen International |Thu, July 23 05:43AM EDT |Thu, July 23 10:43AM BST |Thu, July 23 07:43PM AEST |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S16 The Americas Porsche Cup Challenge |74 |2100 |Both | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026B Porsche Open Cup |67 |1847 |Both | | | | |
 |[ARA Porsche Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=5015){:target="_blank"} |Season 16 |61 |4164 | |Watkins Glen International |Mon, July 27 01:00PM EDT |Mon, July 27 06:00PM BST |Tue, July 28 03:00AM AEST |
 |[F1BC 992 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |992 Cup 2026/2 |56 |2368 | | | | | |
 |[The Beer League](https://members.iracing.com/membersite/member/LeagueView.do?league=8579){:target="_blank"} |Season 15 |56 |2364 |Fixed | | | | |
-|[NARL Porsche Cup \(PRO Race\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7585){:target="_blank"} |NARL Porsche Cup Season 4 PRO Race |56 |5820 | | | | | |
+|[NARL Porsche Cup \(PRO Race\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7585){:target="_blank"} |NARL Porsche Cup Season 4 PRO Race |56 |5820 | |Circuit des 24 Heures du Mans |Thu, July 30 07:00PM EDT |Fri, July 31 12:00AM BST |Fri, July 31 09:00AM AEST |
 |[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |PCUP \- SUMMER 2026 |55 |1829 |Both |Miami International Autodrome |Mon, July 27 07:00PM EDT |Tue, July 28 12:00AM BST |Tue, July 28 09:00AM AEST |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S17 The Americas Porsche Cup Challenge |52 |2111 |Both |Watkins Glen International |Thu, July 23 08:00PM EDT |Fri, July 24 01:00AM BST |Fri, July 24 10:00AM AEST |
 |[F1BC 992 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9742){:target="_blank"} |992 Cup 2026/3 |50 |2161 | | | | | |
@@ -55,7 +55,7 @@
 |[X PCA \- Club](https://members.iracing.com/membersite/member/LeagueView.do?league=5374){:target="_blank"} |PCA \- 2026 ZGC \- Club |24 |1670 | | | | | |
 |[Billy Oirish Racing Porsche Cup 2026 Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=14143){:target="_blank"} |Billy Oirish Racing Porsche Cup 2026 Season 1 |22 |1927 | | | | | |
 |[X PCA \- Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=5373){:target="_blank"} |PCA \- 2026 ZGC \- Sport |22 |1394 | | | | | |
-|[PCGB Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4489){:target="_blank"} |PCGB Sim Racing Season 10 |22 |1608 | |Watkins Glen International |Wed, July 22 02:00PM EDT |Wed, July 22 07:00PM BST |Thu, July 23 04:00AM AEST |
+|[PCGB Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4489){:target="_blank"} |PCGB Sim Racing Season 10 |22 |1608 | | | | | |
 |[Kellymoss](https://members.iracing.com/membersite/member/LeagueView.do?league=1822){:target="_blank"} |May 2026 Special Event |22 |2314 | | | | | |
 |[NXTGPiRacing Powered by SRC \- Porsche Carrera Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12643){:target="_blank"} |NXTGP iRacing by Sim Racing Centre \- PSC Worlds |21 |3061 | | | | | |
 |[NARL Porsche Cup \(AM Race\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7584){:target="_blank"} |NARL Porsche Cup Season 4 AM Division |20 |2211 | | | | | |
@@ -64,7 +64,7 @@
 |[X PCA \- Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=5372){:target="_blank"} |PCA \- 2026 ZGC \- Challenge |18 |1178 | | | | | |
 |[Americas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13481){:target="_blank"} |Porsche Cup Mondays Season 3 |18 |1922 |Open |Qualcomm Circuit (Naval Base Coronado) |Mon, July 27 08:30PM EDT |Tue, July 28 01:30AM BST |Tue, July 28 10:30AM AEST |
 |[LARL Porsche Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14632){:target="_blank"} |LARL PCup Season 1 |17 |1889 |Open |Red Bull Ring |Thu, July 23 08:00PM EDT |Fri, July 24 01:00AM BST |Fri, July 24 10:00AM AEST |
-|[CAS \- Porsche Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} |CAS\-Porsche Community Cup S5 |17 |2107 | | | | | |
+|[CAS \- Porsche Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} |CAS\-Porsche Community Cup S5 |17 |2107 | |Nürburgring Grand-Prix-Strecke |Thu, July 30 01:00PM EDT |Thu, July 30 06:00PM BST |Fri, July 31 03:00AM AEST |
 |[VirtuoRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14499){:target="_blank"} |VRL \- Porsche Cup Championship \- Sezon 1 |16 |3156 | | | | | |
 |[CAS \- Porsche Community Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12124){:target="_blank"} |CAS Porsche Community Cup Deutschland Season 4 |15 |2025 | | | | | |
 |[Porsche Owners Club Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4172){:target="_blank"} |2026\-2 |15 |1559 |Fixed |Shell V-Power Motorsport Park at The Bend |Mon, July 27 07:50PM EDT |Tue, July 28 12:50AM BST |Tue, July 28 09:50AM AEST |
@@ -123,7 +123,7 @@
 |[Apex Chasers Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13929){:target="_blank"} |ACSR GT4 Championship |30 |1762 | |Circuit de Spa-Francorchamps |Sun, July 26 02:00PM EDT |Sun, July 26 07:00PM BST |Mon, July 27 04:00AM AEST |
 |[SCHERER eSPORT GT4 SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=10804){:target="_blank"} |SCHERER eSPORT GT4 SERIES \- Season VI |29 |4213 |Fixed |Willow Springs International Raceway |Sun, July 26 01:00PM EDT |Sun, July 26 06:00PM BST |Mon, July 27 03:00AM AEST |
 |[Sim Racing Magazine Events](https://members.iracing.com/membersite/member/LeagueView.do?league=7770){:target="_blank"} |SRM GT4 Challenge Season 8 |29 |2400 | | | | | |
-|[Road To Glory](https://members.iracing.com/membersite/member/LeagueView.do?league=14651){:target="_blank"} |Season:1 One Ring To Grid Them All |28 |2574 | |Nürburgring Grand-Prix-Strecke |Wed, July 22 01:30PM EDT |Wed, July 22 06:30PM BST |Thu, July 23 03:30AM AEST |
+|[Road To Glory](https://members.iracing.com/membersite/member/LeagueView.do?league=14651){:target="_blank"} |Season:1 One Ring To Grid Them All |28 |2574 | |Nürburgring Combined |Wed, July 29 01:30PM EDT |Wed, July 29 06:30PM BST |Thu, July 30 03:30AM AEST |
 |[SKF Racing Hub](https://members.iracing.com/membersite/member/LeagueView.do?league=13119){:target="_blank"} |SKF Sportscar Trophy |19 |2074 | | | | | |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} |gt4 slow shit |18 |1380 | | | | | |
 |[CSiRL \| Championship Sportscar iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11685){:target="_blank"} |GT4: Manufacturer Series |13 |1366 |Both | | | | |
@@ -133,9 +133,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|-----------------------|-------|----|-----|-------------|------------------------|------------------------|-------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------|-------|----|-----|-------------|--------|------|------|
 |[SRi GTE Championship Season 3](https://members.iracing.com/membersite/member/LeagueView.do?league=11112){:target="_blank"} |SRi GTE Season 2 |60 |2668 | | | | | |
-|[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |GTE REWIND |33 |2047 |Both |Road Atlanta |Wed, July 22 07:30PM EDT |Thu, July 23 12:30AM BST |Thu, July 23 09:30AM AEST |
+|[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |GTE REWIND |33 |2021 |Both | | | | |
 |[Motor City Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12105){:target="_blank"} |GTE Series |26 |2292 |Open | | | | |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S2 Session 2 |23 |1915 | | | | | |
 |[MPRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7919){:target="_blank"} |MoP GTE League |22 |2624 | | | | | |
@@ -148,14 +148,14 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|-------|----|-----|-----------------------------------------|------------------------|------------------------|-------------------------|
 |[PCA ENTRY](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |Entry Class A/B Group eDE |288 |1382 | | | | | |
+|[PCA \- 2026 Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |2026 PCA Summer Tour \(Enduro\) |91 |1580 | | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S10 MX5/GT4 Challenge |87 |1906 |Both | | | | |
-|[PCA \- 2026 Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |2026 PCA Summer Tour \(Enduro\) |87 |1575 | |Autodromo Nazionale Monza |Wed, July 22 08:45PM EDT |Thu, July 23 01:45AM BST |Thu, July 23 10:45AM AEST |
 |[PCA \- 2026 Main League](https://members.iracing.com/membersite/member/LeagueView.do?league=3167){:target="_blank"} |2026 PCA Summer Tour \(Heats\) |86 |1487 | | | | | |
 |[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S11 MX5/GT4 Challenge |76 |2066 |Both |Watkins Glen International |Tue, July 28 07:20PM EDT |Wed, July 29 12:20AM BST |Wed, July 29 09:20AM AEST |
 |[PCA ENTRY](https://members.iracing.com/membersite/member/LeagueView.do?league=7358){:target="_blank"} |PCA S15 Entry |62 |1292 | |Miami International Autodrome |Sun, July 26 09:00PM EDT |Mon, July 27 02:00AM BST |Mon, July 27 11:00AM AEST |
 |[Moza Pro Invitational Porsche Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11848){:target="_blank"} |2026 Moza Porsche Pro Invitational |58 |4708 | |Red Bull Ring |Wed, July 29 05:00AM EDT |Wed, July 29 10:00AM BST |Wed, July 29 07:00PM AEST |
 |[SRW \- Warren & Brown Tools Toyota GR86 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Season 2, 2026 |56 |2008 |Open | | | | |
-|[Porsche Carrera Cup Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11433){:target="_blank"} |PCCC \- Season 1 |51 |2767 |Open |Oulton Park Circuit |Wed, July 22 05:30AM EDT |Wed, July 22 10:30AM BST |Wed, July 22 07:30PM AEST |
+|[Porsche Carrera Cup Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11433){:target="_blank"} |PCCC \- Season 1 |51 |2767 |Open | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 4 GT4 |46 |2215 |Open | | | | |
 |[Ray ESports Club Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6236){:target="_blank"} |Season 2 Group 5B TCR |38 |2310 |Open | | | | |
 |[RES AUTOMOBILISMO VIRTUAL \- WWW\.RES\-AV\.COM\.BR](https://members.iracing.com/membersite/member/LeagueView.do?league=4916){:target="_blank"} |T2/2026 \- TURISMO CUP \- MX5 / CLIO CUP / GR86 \- WWW\.RES\-AV\.COM\.BR |37 |2159 | | | | | |
@@ -209,7 +209,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |Miata Championship S1 |98 |2137 |Both | | | | |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S27 \- Mazda MX5 \- Sunday |80 |2341 |Both | | | | |
-|[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |Road Development League \| 2026 Season 3 \| MX\-5 |63 |1478 |Both | | | | |
+|[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |Road Development League \| 2026 Season 3 \| MX\-5 |67 |1478 |Both | | | | |
 |[Broken Wing Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8158){:target="_blank"} |Miata Championship S2 |59 |2083 |Both |Winton Motor Raceway |Thu, July 23 07:30PM EDT |Fri, July 24 12:30AM BST |Fri, July 24 09:30AM AEST |
 |[SIM RACING\-SERIES SRS](https://members.iracing.com/membersite/member/LeagueView.do?league=12546){:target="_blank"} |SRS CHALLENGE FT GGBIT |57 |2147 | | | | | |
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S28 \- Mazda MX\-5 \- Sunday |56 |2257 |Both |Watkins Glen International |Sun, July 26 07:00PM EDT |Mon, July 27 12:00AM BST |Mon, July 27 09:00AM AEST |
@@ -223,7 +223,7 @@
 |[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} |Split 2 |43 |2076 | | | | | |
 |[F1BC MX5 Sport](https://members.iracing.com/membersite/member/LeagueView.do?league=9337){:target="_blank"} |MX5 Sport 2026/3 |43 |1500 | |Winton Motor Raceway |Mon, July 27 07:25PM EDT |Tue, July 28 12:25AM BST |Tue, July 28 09:25AM AEST |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Advanced MX\-5 |42 |1832 |Fixed | | | | |
-|[Federación de Automovilismo Deportivo Uruguayo](https://members.iracing.com/membersite/member/LeagueView.do?league=14372){:target="_blank"} |FADU MAZDA |41 |1506 | |Okayama International Circuit |Wed, July 22 07:00PM EDT |Thu, July 23 12:00AM BST |Thu, July 23 09:00AM AEST |
+|[Federación de Automovilismo Deportivo Uruguayo](https://members.iracing.com/membersite/member/LeagueView.do?league=14372){:target="_blank"} |FADU MAZDA |41 |1510 | | | | | |
 |[Maxx Bantz Open](https://members.iracing.com/membersite/member/LeagueView.do?league=2706){:target="_blank"} |Maxx Bantz \| Reglementation |41 |2515 |Fixed | | | | |
 |[ARA League Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=14153){:target="_blank"} |Split 4 |39 |1297 | | | | | |
 |[NASRS](https://members.iracing.com/membersite/member/LeagueView.do?league=14295){:target="_blank"} |Miata Cup S0 |39 |1638 | | | | | |
@@ -240,8 +240,8 @@
 |[BONECOS AO VOLANTE](https://members.iracing.com/membersite/member/LeagueView.do?league=13906){:target="_blank"} |🏁 CAMPEONATO BONECOS AO VOLANTE 🏁 |29 |1832 | | | | | |
 |[ESRA \- E\-Sports Racing Alliance](https://members.iracing.com/membersite/member/LeagueView.do?league=10373){:target="_blank"} |MX5 iRacers\.com\.br Cup |29 |2022 | | | | | |
 |[TRACKILICIOUS](https://members.iracing.com/membersite/member/LeagueView.do?league=10794){:target="_blank"} |iRacing MX\-5 Championship with Sim Gaming Expo \- Summer |27 |1680 | | | | | |
+|[Apex Motorclub MX\-5 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13483){:target="_blank"} |Season 3 |22 |2212 | |St. Petersburg Grand Prix |Wed, July 29 09:30PM EDT |Thu, July 30 02:30AM BST |Thu, July 30 11:30AM AEST |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |MX\-5 Sunday 2026\-S03 Summer |22 |1376 |Fixed |Oulton Park Circuit |Sun, July 26 11:00AM EDT |Sun, July 26 04:00PM BST |Mon, July 27 01:00AM AEST |
-|[Apex Motorclub MX\-5 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13483){:target="_blank"} |Season 3 |21 |2084 | |Indianapolis Motor Speedway |Wed, July 22 09:30PM EDT |Thu, July 23 02:30AM BST |Thu, July 23 11:30AM AEST |
 |[Rookie Sports Car Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11164){:target="_blank"} |2026 |21 |1424 | | | | | |
 |[F1BC MX5 Master](https://members.iracing.com/membersite/member/LeagueView.do?league=8629){:target="_blank"} |MX5 Master 2026/3 |20 |2911 | |Winton Motor Raceway |Mon, July 27 05:25PM EDT |Mon, July 27 10:25PM BST |Tue, July 28 07:25AM AEST |
 |[UK Sim Racers \- MX5 Tuesday Pro series](https://members.iracing.com/membersite/member/LeagueView.do?league=2378){:target="_blank"} |UKSR MX5 Pro Series \- Spring Season 26 |19 |2081 |Open | | | | |
@@ -251,7 +251,7 @@
 |[BrakeFast Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12301){:target="_blank"} |Mazda Monday Madness \| 2026 Season 1\-2 |15 |2495 | | | | | |
 |[American Appalachian E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=14042){:target="_blank"} |IMSA AAES Whelen Mazda MX5 Cup Championship |14 |1659 |Fixed |Circuito de Navarra |Sat, July 25 07:00PM EDT |Sun, July 26 12:00AM BST |Sun, July 26 09:00AM AEST |
 |[UK Sim Racers \- MX5 Tuesday Pro series](https://members.iracing.com/membersite/member/LeagueView.do?league=2378){:target="_blank"} |UKSR MX5 Pro Series \- Summer 2026 |11 |2163 |Open | | | | |
-|[OMSSA](https://members.iracing.com/membersite/member/LeagueView.do?league=14490){:target="_blank"} |OMSSA MX5 Cup |10 |1392 | |Snetterton Circuit |Wed, July 22 06:30AM EDT |Wed, July 22 11:30AM BST |Wed, July 22 08:30PM AEST |
+|[OMSSA](https://members.iracing.com/membersite/member/LeagueView.do?league=14490){:target="_blank"} |OMSSA MX5 Cup |10 |1387 | | | | | |
 
 ### Mercedes-AMG GT3 2020
 
@@ -318,14 +318,15 @@
 |[End Game Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10357){:target="_blank"} |EGR GR86 Challenge Season 1 |32 |1900 |Both | | | | |
 |[SRN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12912){:target="_blank"} |SRN Toyota GR86 Challenge \- 2026 Season 2 |30 |2792 | | | | | |
 |[Cars and Canards](https://members.iracing.com/membersite/member/LeagueView.do?league=12341){:target="_blank"} |2026 GR86 Cup |29 |1467 |Open | | | | |
-|[PRNZ Simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=7764){:target="_blank"} |PRNZ GR86 I |29 |4951 |Open |Circuito de Navarra |Wed, July 22 03:20AM EDT |Wed, July 22 08:20AM BST |Wed, July 22 05:20PM AEST |
+|[PRNZ Simracing](https://members.iracing.com/membersite/member/LeagueView.do?league=7764){:target="_blank"} |PRNZ GR86 I |29 |4932 |Open | | | | |
 |[AINO IMAGE Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14367){:target="_blank"} |AINO IMAGE Racing iR Cup 2026 |27 |1583 |Fixed | | | | |
 |[Mid\-Atlantic 86 Club iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8721){:target="_blank"} |Season 15 |27 |1865 |Open | | | | |
 |[West Coast Sim Racing \- GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12739){:target="_blank"} |GR Cup Season 5 |25 |2401 |Both |St. Petersburg Grand Prix |Mon, July 27 09:30PM EDT |Tue, July 28 02:30AM BST |Tue, July 28 11:30AM AEST |
-|[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 3 \- GR86 |23 |2654 | | | | | |
+|[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 3 \- GR86 |23 |2654 | |Autódromo Hermanos Rodríguez |Wed, July 29 03:00PM EDT |Wed, July 29 08:00PM BST |Thu, July 30 05:00AM AEST |
 |[7DRIVE Simracing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7875){:target="_blank"} |GR86 World Cup |21 |2415 |Both | | | | |
 |[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S5 |16 |1327 |Fixed | | | | |
 |[THE FAST EIGHT GR86 LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=14234){:target="_blank"} |GR86 INTERNATIONAL CHALLENEGE |15 |2271 | | | | | |
+|[NEXT](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |GR86 Cup \- Season 1 |14 |1389 |Both | | | | |
 |[Tachycardia Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11017){:target="_blank"} |Tachycardia Season 18 |12 |1442 | | | | | |
 |[Blackout Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11326){:target="_blank"} |GR Cup Champship |12 |902 | | | | | |
 |[THE FAST EIGHT GR86 LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=14234){:target="_blank"} |The fast eight season |12 |2220 | |Road America |Sun, July 26 02:00PM EDT |Sun, July 26 07:00PM BST |Mon, July 27 04:00AM AEST |
@@ -353,7 +354,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|--------------------|-------|----|-----|-------------|--------|------|------|
-|[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Winter E series 2026 |44 |1710 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|[Manawatu Car Club E series](https://members.iracing.com/membersite/member/LeagueView.do?league=12633){:target="_blank"} |Winter E series 2026 |44 |1710 | |Okayama International Circuit |Thu, July 30 03:30AM EDT |Thu, July 30 08:30AM BST |Thu, July 30 05:30PM AEST |
 |[Australian Sports Sedans Eseries](https://members.iracing.com/membersite/member/LeagueView.do?league=4153){:target="_blank"} |Sports Sedans S19 |16 |1818 |Both | | | | |
 

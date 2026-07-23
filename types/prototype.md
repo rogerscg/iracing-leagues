@@ -46,10 +46,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|-------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|------------------|------------------------|------------------------|-------------------------|
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season 8 |31 |2890 | | | | | |
 |[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 2 \- SR8 |25 |2754 | | | | | |
-|[Malaka Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14727){:target="_blank"} |Radical SR8 cup |20 |1433 | |Oulton Park Circuit |Wed, July 22 07:00PM EDT |Thu, July 23 12:00AM BST |Thu, July 23 09:00AM AEST |
+|[Malaka Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14727){:target="_blank"} |Radical SR8 cup |20 |1429 | |Snetterton Circuit |Wed, July 29 07:00PM EDT |Thu, July 30 12:00AM BST |Thu, July 30 09:00AM AEST |
 |[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 2 |17 |1931 | | | | | |
 |[Compétitions GOFiR](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |RAC |15 |2055 |Open | | | | |
 |[Apollo Racing Club \- Formula 4 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |Season 5 |13 |2078 |Fixed | | | | |
@@ -60,8 +60,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|----------------|-------|----|-----|-------------|--------|------|------|
-|[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |Wednesday Rileys |12 |1032 | | | | | |
+|-----------------------------------------------------------------------------------------------------------------------|----------------|-------|---|-----|-------------|--------|------|------|
+|[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |Wednesday Rileys |13 |975 | | | | | |
 
 ### Spec Racer Ford
 

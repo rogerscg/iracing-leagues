@@ -2,13 +2,6 @@
 
 | League Name | Discord | About |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Below Average Joes](https://members.iracing.com/membersite/member/LeagueView.do?league=14807){:target="_blank"} | |weekend warriors |
-|[Formula 3 Sprint](https://members.iracing.com/membersite/member/LeagueView.do?league=14809){:target="_blank"} | | |
-|[Kinetic Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14808){:target="_blank"} |[Discord](https://discord.gg/5xEuS3tcZR){:target="_blank"} |Beginner iRacing asphalt league on Wednesday nights at 8:30 PM EST\. All members can be at any level, but it is specifically to be beginner friendly and welcoming to drivers just now learning\. The only expectation is to be respectful and clean\. Please join the Discord and grab the iRacing role if you would like to join\! |
-|[Nextline Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14806){:target="_blank"} | | |
-|[NSR Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14810){:target="_blank"} | |The NSR Challenge Series is a space for drivers from all disciplines to come together and battle it out\. |
-|[SRS Racing European Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14804){:target="_blank"} | |The SRS Racing European Championship brings together drivers from across Europe to compete in clean, fair, and competitive racing\. For Season 1, the Porsche Cup has been selected as the championship car by community vote\. |
-|[The National Association of Intercollegiate Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14805){:target="_blank"} | |The Official NAIR League |
 |[DGN](https://members.iracing.com/membersite/member/LeagueView.do?league=14814){:target="_blank"} | | |
 |[National Open Wheel Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=14815){:target="_blank"} | |We race all kinds of dirt on here |
 |[United States Stockcar Association \(USSA\) \- Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14812){:target="_blank"} |[Discord](https://discord.gg/RqKED5Ua23){:target="_blank"} | |
@@ -74,4 +67,6 @@
 |[Foxtrot One\-Offs](https://members.iracing.com/membersite/member/LeagueView.do?league=14875){:target="_blank"} | | |
 |[American Dirt Pro Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14881){:target="_blank"} |[Discord](https://discord.gg/N9XwDjXHJ){:target="_blank"} |Are you looking for a competitive dirt pro late model league? Well you found it\! Here at American Dirt Pro Late Model Series we strive to have fun, clean, hard and exciting racing for every skill level\! |
 |[Blat](https://members.iracing.com/membersite/member/LeagueView.do?league=14880){:target="_blank"} | |Perth WA Sim Racers |
+|[Atomic Sands Racing GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=14883){:target="_blank"} | | |
+|[CTC ARC Music IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14882){:target="_blank"} | |Home of the IndyCar branch of the CTC Racing Leagues |
 
