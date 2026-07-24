@@ -67,16 +67,6 @@
 |------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Thursday Tour Mods Season 2 | |Nashville Fairgrounds Speedway |Thu, July 30 07:30PM EDT |Fri, July 31 12:30AM BST |Fri, July 31 09:30AM AEST |
 
-# Oval
-
-### Super Late Model
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------|-----|----------------------------------|------------------------|------------------------|-------------------------|
-|[Elite Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14556){:target="_blank"} |Elite Super Late Models | |Southern National Motorsports Park |Thu, July 23 06:00PM EDT |Thu, July 23 11:00PM BST |Fri, July 24 08:00AM AEST |
-
 # Open-wheel
 
 ### Dallara IR18
@@ -85,7 +75,6 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------|--------------------------------|-----|------------------------|------------------------|------------------------|-------------------------|
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Indy Car Series Season 4 | |Homestead Miami Speedway |Thu, July 23 08:00PM EDT |Fri, July 24 01:00AM BST |Fri, July 24 10:00AM AEST |
 |[Horizon Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11964){:target="_blank"} |2026B Season | |Homestead Miami Speedway |Wed, July 29 07:00PM EDT |Thu, July 30 12:00AM BST |Thu, July 30 09:00AM AEST |
 |[Votive Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |Votive INDY Oval Series Season 5 |Fixed |Kentucky Speedway |Sun, July 26 06:00PM EDT |Sun, July 26 11:00PM BST |Mon, July 27 08:00AM AEST |
 
@@ -94,8 +83,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|---------------------|------------------------|------------------------|-------------------------|
-|[Inferno EU F4 Stock Championship 250€ PRIZEPOOL\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14668){:target="_blank"} |Inferno Racing EU F4 fixed Championship \#1 |Fixed |Rudskogen Motorsenter |Thu, July 23 01:00PM EDT |Thu, July 23 06:00PM BST |Fri, July 24 03:00AM AEST |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|----------------------------|------------------------|------------------------|-------------------------|
+|[Inferno EU F4 Stock Championship 250€ PRIZEPOOL\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14668){:target="_blank"} |Inferno Racing EU F4 fixed Championship \#1 |Fixed |Circuit de Spa-Francorchamps |Thu, July 30 01:00PM EDT |Thu, July 30 06:00PM BST |Fri, July 31 03:00AM AEST |
 
 ### Super Formula Lights
 
@@ -121,13 +110,13 @@
 
 # Sports Car
 
-### GT4 Class
+### Ford Mustang GT4
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------|-----|-----------------------------|------------------------|------------------------|-------------------------|
-|[Late Apex Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12435){:target="_blank"} |Season 4 |Open |Motorsport Arena Oschersleben |Thu, July 23 07:00PM EDT |Fri, July 24 12:00AM BST |Fri, July 24 09:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------|-----------|-----|----------------------|------------------------|------------------------|-------------------------|
+|[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |Mustang Cup | |Phillip Island Circuit |Thu, July 30 03:30AM EDT |Thu, July 30 08:30AM BST |Thu, July 30 05:30PM AEST |
 
 ### Hosted All Cars Class
 
@@ -144,6 +133,16 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------|-------|-----|---------------|------------------------|------------------------|-------------------------|
 |[OMSSA](https://members.iracing.com/membersite/member/LeagueView.do?league=14490){:target="_blank"} |Testing | |Tsukuba Circuit |Wed, July 29 06:30AM EDT |Wed, July 29 11:30AM BST |Wed, July 29 08:30PM AEST |
+
+# Prototype
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|------------------------|--------------------------|---------------------------|
+|[Raging Radicals US TOUR by Odyssey Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13680){:target="_blank"} |Raging Radicals US Tour | |Virginia International Raceway |Fri, July 31 08:00PM EDT |Sat, August 01 01:00AM BST |Sat, August 01 10:00AM AEST |
 
 # Road
 
@@ -162,17 +161,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-----|--------------------------------------------|------------------------|------------------------|-------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------------|------------------------|------------------------|-------------------------|
 |[SOWEGA Challenge Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12948){:target="_blank"} |SOWEGA GT3 Challenge |Fixed |Algarve International Circuit |Tue, July 28 08:30PM EDT |Wed, July 29 01:30AM BST |Wed, July 29 10:30AM AEST |
-|[OVERDRIVE AUTOMOTIVE MEDIA SPECIAL EVENTS](https://members.iracing.com/membersite/member/LeagueView.do?league=14609){:target="_blank"} |OVERDRIVE CLASSIC | |Nashville Fairgrounds Speedway |Thu, July 23 07:10PM EDT |Fri, July 24 12:10AM BST |Fri, July 24 09:10AM AEST |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE '26 6/27 Rd\.3 スプリントレース④ 予備ホスト① | |Circuit des 24 Heures du Mans |Thu, July 30 11:00PM EDT |Fri, July 31 04:00AM BST |Fri, July 31 01:00PM AEST |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE '26 6/27 Rd\.3 スプリントレース④ 予備ホスト② | |Circuit des 24 Heures du Mans |Thu, July 30 11:00PM EDT |Fri, July 31 04:00AM BST |Fri, July 31 01:00PM AEST |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE '26 6/27 Rd\.3 スプリントレース⑤ 予備ホスト① | |Circuit des 24 Heures du Mans |Thu, July 30 11:00PM EDT |Fri, July 31 04:00AM BST |Fri, July 31 01:00PM AEST |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE '26 6/27 Rd\.3 スプリントレース⑤ 予備ホスト② | |Circuit des 24 Heures du Mans |Thu, July 30 11:00PM EDT |Fri, July 31 04:00AM BST |Fri, July 31 01:00PM AEST |
 |[FRITOSPORT Racing Series \- H\-Pattern Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10238){:target="_blank"} |H\-Pattern Series | |Mid-Ohio Sports Car Course |Mon, July 27 08:00PM EDT |Tue, July 28 01:00AM BST |Tue, July 28 10:00AM AEST |
-|[KRBR \- Kart Racing Brasil](https://members.iracing.com/membersite/member/LeagueView.do?league=14086){:target="_blank"} |KRBR Multiclasse \(Season 2\) | |Autódromo José Carlos Pace |Thu, July 23 07:00PM EDT |Fri, July 24 12:00AM BST |Fri, July 24 09:00AM AEST |
-|[IMSA Season 6 By High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13108){:target="_blank"} |IMSA Season 6 |Open |Autodromo Internazionale Enzo e Dino Ferrari |Thu, July 23 08:00PM EDT |Fri, July 24 01:00AM BST |Fri, July 24 10:00AM AEST |
 |[NEXT](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |Friday Fiasco |Both |Concord Speedway |Fri, July 24 09:00PM EDT |Sat, July 25 02:00AM BST |Sat, July 25 11:00AM AEST |
 |[SRW GT3 Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8996){:target="_blank"} |SRW GT3 Challenge Season 2 2026 | |Virginia International Raceway |Sun, July 26 04:00AM EDT |Sun, July 26 09:00AM BST |Sun, July 26 06:00PM AEST |
-|[SRW \- Warren & Brown Tools Toyota GR86 Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=8997){:target="_blank"} |Sim Racing World \- GR86 Nationals S3 2026 |Open |Canadian Tire Motorsports Park |Thu, July 23 04:00AM EDT |Thu, July 23 09:00AM BST |Thu, July 23 06:00PM AEST |
 

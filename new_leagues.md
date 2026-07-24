@@ -1,12 +1,7 @@
 ## New leagues!
 
 | League Name | Discord | About |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[DGN](https://members.iracing.com/membersite/member/LeagueView.do?league=14814){:target="_blank"} | | |
-|[National Open Wheel Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=14815){:target="_blank"} | |We race all kinds of dirt on here |
-|[United States Stockcar Association \(USSA\) \- Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14812){:target="_blank"} |[Discord](https://discord.gg/RqKED5Ua23){:target="_blank"} | |
-|[NLR FANATEC eMotorsport Series by IronDriver](https://members.iracing.com/membersite/member/LeagueView.do?league=14813){:target="_blank"} | | |
-|[Unity RDV Compétition](https://members.iracing.com/membersite/member/LeagueView.do?league=14811){:target="_blank"} | |Unity Racing est une team française sur iRacing en pleine expansion dédiée à l'endurance\.Notre structure regroupe 40 pilotes motivés par la progression collective, l’expertise technique et la compétition en Top Split\. |
+|-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[Star City Summer Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=14816){:target="_blank"} | |A three race shoot\-out for racers from Roanoke or the surrounding areas\! |
 |[GoFast](https://members.iracing.com/membersite/member/LeagueView.do?league=14817){:target="_blank"} | |fast |
 |[IEC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14819){:target="_blank"} | |NASCAR focused league racing for 15\+ years on the Forza Motorsport platform making the transition to iRacing |
@@ -69,4 +64,13 @@
 |[Blat](https://members.iracing.com/membersite/member/LeagueView.do?league=14880){:target="_blank"} | |Perth WA Sim Racers |
 |[Atomic Sands Racing GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=14883){:target="_blank"} | | |
 |[CTC ARC Music IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14882){:target="_blank"} | |Home of the IndyCar branch of the CTC Racing Leagues |
+|[AERA LMS TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=14889){:target="_blank"} | |AERA's LMS SERIES |
+|[Clay Killer Limited Lates Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14890){:target="_blank"} | |Clay Killer Racing late model\. Will be every Saturday\. |
+|[Clay Killers 358 Modified tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14885){:target="_blank"} | |season 1 of the clay killers tour |
+|[Enduroverse Multiclass Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=14891){:target="_blank"} | |This is the home of the Enduroverse 2\.4 Hour Multiclass Endurance Series\! |
+|[Lost Dog Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14884){:target="_blank"} | | |
+|[Morehouse Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14886){:target="_blank"} | | |
+|[OnlyCans Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14887){:target="_blank"} |[Discord](https://discord.gg/dzBXHnmQr){:target="_blank"} | |
+|[Sorrento Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14888){:target="_blank"} | |Sorrento Motorsports |
+|[Big Spoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14892){:target="_blank"} | |Mediocre drivers doing some mediocre racing |
 
