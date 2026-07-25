@@ -20,16 +20,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-------------|--------|------|------|
+|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks East \- 2026/Jul \(Thurs\) |23 |2914 |Fixed | | | | |
+|[TopBox off\-road racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |Test session |18 |2793 | | | | | |
 
 ### Pro 2 Lite Truck
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|------------------------------|------------------------|------------------------|-------------------------|
-|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 13 \- Pro 2 Lites |77 |3054 | |[Legacy] Pocono Raceway - 2009 |Fri, July 24 08:30PM EDT |Sat, July 25 01:30AM BST |Sat, July 25 10:30AM AEST |
+|-------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|------------------|------------------------|------------------------|-------------------------|
+|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 13 \- Pro 2 Lites |80 |3079 | | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO2 20/20 fights |36 |1421 |Fixed |Lucas Oil Speedway |Sun, July 26 04:00PM EDT |Sun, July 26 09:00PM BST |Mon, July 27 06:00AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/TINYTRUCK \- 2026 |29 |3399 |Fixed | | | | |
 
@@ -38,9 +39,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|--------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |PRO 2 ÉTÉ 2026 |24 |1730 | | | | | |
-|[CORE \- Championship Off\-Road Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 2 Championship |13 |3148 |Fixed |Lime Rock Park |Fri, July 24 09:30PM EDT |Sat, July 25 02:30AM BST |Sat, July 25 11:30AM AEST |
+|[CORE \- Championship Off\-Road Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 2 Championship |17 |3165 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |SLAMTRUCK Southwest Showdown \- 2026\-06 |12 |3392 |Fixed | | | | |
 
 ### Pro 4 Truck

@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Star City Summer Classic](https://members.iracing.com/membersite/member/LeagueView.do?league=14816){:target="_blank"} | |A three race shoot\-out for racers from Roanoke or the surrounding areas\! |
-|[GoFast](https://members.iracing.com/membersite/member/LeagueView.do?league=14817){:target="_blank"} | |fast |
 |[IEC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14819){:target="_blank"} | |NASCAR focused league racing for 15\+ years on the Forza Motorsport platform making the transition to iRacing |
 |[Roar Before British F4](https://members.iracing.com/membersite/member/LeagueView.do?league=14818){:target="_blank"} | |Roar Before British F4 series |
 |[JTR dirt oval motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14825){:target="_blank"} | |small race team here to have fun |
@@ -73,4 +71,5 @@
 |[OnlyCans Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14887){:target="_blank"} |[Discord](https://discord.gg/dzBXHnmQr){:target="_blank"} | |
 |[Sorrento Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14888){:target="_blank"} | |Sorrento Motorsports |
 |[Big Spoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14892){:target="_blank"} | |Mediocre drivers doing some mediocre racing |
+|[NASCUP S1](https://members.iracing.com/membersite/member/LeagueView.do?league=14893){:target="_blank"} | |YK |
 
