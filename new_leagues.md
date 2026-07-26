@@ -72,4 +72,5 @@
 |[Sorrento Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14888){:target="_blank"} | |Sorrento Motorsports |
 |[Big Spoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14892){:target="_blank"} | |Mediocre drivers doing some mediocre racing |
 |[NASCUP S1](https://members.iracing.com/membersite/member/LeagueView.do?league=14893){:target="_blank"} | |YK |
+|[Ghosts of Le Mans](https://members.iracing.com/membersite/member/LeagueView.do?league=14895){:target="_blank"} | |North American based Multi\-Class League centered around the mid\-2010's World Endurance Championship cars\. |
 
