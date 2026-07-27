@@ -2,19 +2,15 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[IEC Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14819){:target="_blank"} | |NASCAR focused league racing for 15\+ years on the Forza Motorsport platform making the transition to iRacing |
-|[Roar Before British F4](https://members.iracing.com/membersite/member/LeagueView.do?league=14818){:target="_blank"} | |Roar Before British F4 series |
 |[JTR dirt oval motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14825){:target="_blank"} | |small race team here to have fun |
 |[LayZboyGamingttv Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=14827){:target="_blank"} |[Discord](https://discord.gg/layzboygaming){:target="_blank"} |Trucks \- Fixed setups \- Tuesday Nights 9:30pm EST |
 |[nascar truck series](https://members.iracing.com/membersite/member/LeagueView.do?league=14829){:target="_blank"} | | |
 |[Porsche Championship NZ](https://members.iracing.com/membersite/member/LeagueView.do?league=14824){:target="_blank"} | |Porsche 911 series in NZ looking to grow and bring some good racing to NZ |
 |[The Black Flag Express GT World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14826){:target="_blank"} |[Discord](https://discord.gg/5fFBhBAUrK){:target="_blank"} |Welcome to the BFE GT World Series, we are a new league currently arranging our inaugural season\. We will be taking a trip thru Europe, down under in the Pacific, and finish right here in America\! If you're interested, looking for a fun, fair place to race, then go ahead and apply and join our Discord\. |
 |[United Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14830){:target="_blank"} |[Discord](https://discord.gg/X5K2fx8xY){:target="_blank"} |360 Sprint Car League |
-|[West Coast Sim Racing Trophy Truck Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=14822){:target="_blank"} | |Trophy Trucks for WCSR |
-|[PRNZ Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=14821){:target="_blank"} | |League for hosting PRNZ Special Events |
 |[Pyrate Broadcasting Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14831){:target="_blank"} | |Pyrate Broadcasting Special Events and Races |
 |[Revolution Racing Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=14823){:target="_blank"} | |Sponsored by Shieldcoat |
-|[RSS](https://members.iracing.com/membersite/member/LeagueView.do?league=14828){:target="_blank"} | | |
+|[Ronin\-sim\-sport\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=14828){:target="_blank"} | | |
 |[2016 Daytona 24](https://members.iracing.com/membersite/member/LeagueView.do?league=14837){:target="_blank"} | | |
 |[Auto Addict Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14834){:target="_blank"} |[Discord](https://discord.gg/7zwcT7yQ){:target="_blank"} | |
 |[Grassroots Racing \- INDYCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14835){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} |Grassroots Racing Indycar Series\. Sundays\.https://discord\.gg/grassrootsracing |
@@ -73,4 +69,7 @@
 |[Big Spoon Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14892){:target="_blank"} | |Mediocre drivers doing some mediocre racing |
 |[NASCUP S1](https://members.iracing.com/membersite/member/LeagueView.do?league=14893){:target="_blank"} | |YK |
 |[Ghosts of Le Mans](https://members.iracing.com/membersite/member/LeagueView.do?league=14895){:target="_blank"} | |North American based Multi\-Class League centered around the mid\-2010's World Endurance Championship cars\. |
+|[Corruption Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14896){:target="_blank"} | | |
+|[OPPO Race Club](https://members.iracing.com/membersite/member/LeagueView.do?league=14898){:target="_blank"} | |If you know, you know |
+|[TRCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=14897){:target="_blank"} | | |
 
