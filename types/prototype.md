@@ -8,10 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|-------------------------|------------------------|------------------------|---------------------------|
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |23 |1790 | |Autodromo Nazionale Monza |Mon, July 27 08:30PM EDT |Tue, July 28 01:30AM BST |Tue, July 28 10:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|---------------------------|--------------------------|--------------------------|---------------------------|
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |23 |1782 | |Fuji International Speedway |Mon, August 03 08:30PM EDT |Tue, August 04 01:30AM BST |Tue, August 04 10:30AM AEST |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN LMP2 Series |18 |2132 | |Circuito de Navarra |Fri, July 31 03:39PM EDT |Fri, July 31 08:39PM BST |Sat, August 01 05:39AM AEST |
-|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |17 |1379 | |Autodromo Nazionale Monza |Mon, July 27 09:15PM EDT |Tue, July 28 02:15AM BST |Tue, July 28 11:15AM AEST |
+|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |17 |1363 | |Road America |Mon, August 03 09:15PM EDT |Tue, August 04 02:15AM BST |Tue, August 04 11:15AM AEST |
 
 ### Hosted All Cars Class
 
