@@ -2,11 +2,6 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[LayZboyGamingttv Season 1](https://members.iracing.com/membersite/member/LeagueView.do?league=14827){:target="_blank"} |[Discord](https://discord.gg/layzboygaming){:target="_blank"} |Trucks \- Fixed setups \- Tuesday Nights 9:30pm EST |
-|[nascar truck series](https://members.iracing.com/membersite/member/LeagueView.do?league=14829){:target="_blank"} | | |
-|[United Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14830){:target="_blank"} |[Discord](https://discord.gg/X5K2fx8xY){:target="_blank"} |360 Sprint Car League |
-|[Pyrate Broadcasting Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14831){:target="_blank"} | |Pyrate Broadcasting Special Events and Races |
-|[Ronin\-sim\-sport\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=14828){:target="_blank"} | | |
 |[2016 Daytona 24](https://members.iracing.com/membersite/member/LeagueView.do?league=14837){:target="_blank"} | | |
 |[Auto Addict Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14834){:target="_blank"} |[Discord](https://discord.gg/7zwcT7yQ){:target="_blank"} | |
 |[Grassroots Racing \- INDYCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14835){:target="_blank"} |[Discord](https://discord.gg/grassrootsracing){:target="_blank"} |Grassroots Racing Indycar Series\. Sundays\.https://discord\.gg/grassrootsracing |
@@ -73,4 +68,7 @@
 |[KHR Driver Recruitment](https://members.iracing.com/membersite/member/LeagueView.do?league=14902){:target="_blank"} | | |
 |[PMS Classic Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14901){:target="_blank"} | |Average Sportsman |
 |[Created in Error](https://members.iracing.com/membersite/member/LeagueView.do?league=14900){:target="_blank"} |[Discord](https://discord.gg/6bf35DnWwQ){:target="_blank"} |Participate in DDORs bounties by joining the Discord |
+|[ASRA ARCA Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14907){:target="_blank"} | |20 week long ARCA season\. Full season long championship format |
+|[Malta National F4 Championship 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14904){:target="_blank"} | |Malta Motorsport Federation National F4 Sim Racing Championship, organised by World Pro Racing |
+|[Malta National GT3 Championship 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14905){:target="_blank"} | |Malta Motorsport Federation National GT3 Sim Racing Championship, organised by World Pro Racing |
 

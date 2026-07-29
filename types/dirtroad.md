@@ -10,8 +10,8 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|---------------------------|--------------------------|--------------------------|---------------------------|
 |[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |CMSC Esports Syren RCX Crosscar Cup |24 |1408 | | | | | |
+|[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |ERC RX Dev League \| S1 |19 |1397 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Cross Car \- 2026 \(Sat\) |18 |2515 |Fixed | | | | |
-|[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |ERC RX Dev League \| S1 |16 |1399 |Both | | | | |
 |[NASA Cross Car and Pro 4](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Crosscar 2026A |15 |3785 |Both |EchoPark Speedway (Atlanta) |Tue, August 04 08:45PM EDT |Wed, August 05 01:45AM BST |Wed, August 05 10:45AM AEST |
 |[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |ABP Rallycross the Troops |11 |1186 | | | | | |
 
@@ -49,9 +49,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|-----------------------------|------------------------|------------------------|-------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[CORE \- Championship Off\-Road Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |53 |3282 |Fixed | | | | |
-|[NASA Cross Car and Pro 4](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Pro 4 2026A |32 |3570 |Both |Crandon International Raceway |Tue, July 28 08:45PM EDT |Wed, July 29 01:45AM BST |Wed, July 29 10:45AM AEST |
+|[NASA Cross Car and Pro 4](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Pro 4 2026A |32 |3560 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Y2M x LIF/4x4 Rolling Thunder \- 2026 \(Sat\) |27 |2226 |Fixed | | | | |
 |[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S2 '26 Trucks |17 |1486 |Fixed | | | | |
 
