@@ -19,11 +19,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|------------------------------------|------------------------|------------------------|-------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|--------------|--------------------------|--------------------------|---------------------------|
 |[ARL Prototype Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=6332){:target="_blank"} |Season 10 |59 |4534 | | | | | |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 2 |36 |2863 |Open | | | | |
 |[Ray Esports vRunoffs](https://members.iracing.com/membersite/member/LeagueView.do?league=14079){:target="_blank"} |2026S2 vRunoffs Sports Cars |31 |2789 | | | | | |
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 3 |24 |2742 |Open |Willow Springs International Raceway |Thu, July 30 02:15PM EDT |Thu, July 30 07:15PM BST |Fri, July 31 04:15AM AEST |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 3 |24 |2719 |Open |Lime Rock Park |Thu, August 06 02:15PM EDT |Thu, August 06 07:15PM BST |Fri, August 07 04:15AM AEST |
 
 ### Ligier JS P320
 

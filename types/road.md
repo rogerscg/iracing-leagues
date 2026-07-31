@@ -48,15 +48,14 @@
 |------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------|-------|----|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |166 |None |Open | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026B V8SC Series \- Trophi\.AI |67 |2512 | | | | | |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints Season 28 |60 |1678 | | | | | |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints Season 28 |60 |1678 | |Oran Park Raceway |Fri, July 31 02:00AM EDT |Fri, July 31 07:00AM BST |Fri, July 31 04:00PM AEST |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026C V8SC Series \- Trophi\.AI |60 |2332 | |Sebring International Raceway |Wed, August 05 05:25AM EDT |Wed, August 05 10:25AM BST |Wed, August 05 07:25PM AEST |
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing V8 Champions Challenge |58 |1480 | |Brands Hatch Circuit |Thu, July 30 05:30AM EDT |Thu, July 30 10:30AM BST |Thu, July 30 07:30PM AEST |
+|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing V8 Champions Challenge |59 |1485 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Tuesday Aus Sprints Season 28 |50 |1545 | | | | | |
 |[V8 Vets Supports](https://members.iracing.com/membersite/member/LeagueView.do?league=10129){:target="_blank"} |Mini Season 27\.5 |49 |1827 |Fixed | | | | |
 |[Inside Lane Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12384){:target="_blank"} |The BMG 700 |48 |2248 | | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |The UES OzOval Series 2026A |46 |2214 |Fixed | | | | |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation \- Supercars Championship \(2026\) |45 |1854 |Both | | | | |
-|[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 18 |34 |3688 |Open | | | | |
 |[2Slo Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14393){:target="_blank"} |Send It Saturday V8 Supercar Series |27 |1619 |Open | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |2026B |27 |2032 |Fixed |[Legacy] Phoenix Raceway - 2008 |Sun, August 02 04:00AM EDT |Sun, August 02 09:00AM BST |Sun, August 02 06:00PM AEST |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 19 |19 |3916 |Open |Oran Park Raceway |Sat, August 01 01:00PM EDT |Sat, August 01 06:00PM BST |Sun, August 02 03:00AM AEST |
