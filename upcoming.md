@@ -41,6 +41,7 @@
 |[VMRA](https://members.iracing.com/membersite/member/LeagueView.do?league=11144){:target="_blank"} |Cup Series Season 1 | |Charlotte Motor Speedway  |Sun, August 02 07:15PM EDT |Mon, August 03 12:15AM BST |Mon, August 03 09:15AM AEST |
 |[DV8 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12804){:target="_blank"} |DV8 Season 3 | |Daytona International Speedway |Mon, August 03 08:00PM EDT |Tue, August 04 01:00AM BST |Tue, August 04 10:00AM AEST |
 |[House Party iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14836){:target="_blank"} |HP Racing Cup Series |Fixed |Daytona International Speedway |Sat, August 01 09:30PM EDT |Sun, August 02 02:30AM BST |Sun, August 02 11:30AM AEST |
+|[Majors Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1348){:target="_blank"} |26R8 |Open |Indianapolis Motor Speedway |Sat, August 01 03:00AM EDT |Sat, August 01 08:00AM BST |Sat, August 01 05:00PM AEST |
 
 ### NASCAR Cup
 
@@ -121,7 +122,6 @@
 |-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Inferno EU F4 Stock Championship 250€ PRIZEPOOL\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14668){:target="_blank"} |Inferno Racing EU F4 fixed Championship \#1 |Fixed |Oulton Park Circuit |Thu, August 06 01:00PM EDT |Thu, August 06 06:00PM BST |Fri, August 07 03:00AM AEST |
 |[NIX iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14371){:target="_blank"} |Formula Season 1 \- F4 |Fixed |Daytona International Speedway |Thu, August 06 07:30PM EDT |Fri, August 07 12:30AM BST |Fri, August 07 09:30AM AEST |
-|[Razor Speed League](https://members.iracing.com/membersite/member/LeagueView.do?league=14740){:target="_blank"} |RSL Pre\-Season |Fixed |Summit Point Raceway |Fri, July 31 08:00PM EDT |Sat, August 01 01:00AM BST |Sat, August 01 10:00AM AEST |
 
 ### Ray FF1600
 
@@ -140,16 +140,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Simsports Canada \- GT4](https://members.iracing.com/membersite/member/LeagueView.do?league=14410){:target="_blank"} |GT4 \- Fall 2026 season | |Canadian Tire Motorsports Park |Sat, August 01 09:30AM EDT |Sat, August 01 02:30PM BST |Sat, August 01 11:30PM AEST |
-
-# Prototype
-
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|------------------------------|------------------------|--------------------------|---------------------------|
-|[Raging Radicals US TOUR by Odyssey Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13680){:target="_blank"} |Raging Radicals US Tour | |Virginia International Raceway |Fri, July 31 08:00PM EDT |Sat, August 01 01:00AM BST |Sat, August 01 10:00AM AEST |
 
 # Road
 
@@ -192,14 +182,15 @@
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[OMFG League \+ more\!](https://members.iracing.com/membersite/member/LeagueView.do?league=13710){:target="_blank"} |Endurance Recruiting Season 1 |Open |Circuit des 24 Heures du Mans |Sat, August 01 10:20PM EDT |Sun, August 02 03:20AM BST |Sun, August 02 12:20PM AEST |
 |[Ultimate GT Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13150){:target="_blank"} |Ultimate GT Championship S3 |Both |Okayama International Circuit |Wed, August 05 08:15PM EDT |Thu, August 06 01:15AM BST |Thu, August 06 10:15AM AEST |
+|[IGTES](https://members.iracing.com/membersite/member/LeagueView.do?league=13738){:target="_blank"} |IGTES S1 |Open |Red Bull Ring |Sat, August 08 08:00AM EDT |Sat, August 08 01:00PM BST |Sat, August 08 10:00PM AEST |
 |[The Black Flag Express GT World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14826){:target="_blank"} |BFE GT World Series Season 1 |Fixed |Circuit de Spa-Francorchamps |Sat, August 01 11:00AM EDT |Sat, August 01 04:00PM BST |Sun, August 02 01:00AM AEST |
-|[DBS Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14736){:target="_blank"} |DBS Endurance Series | |Fuji International Speedway |Sat, August 01 10:00AM EDT |Sat, August 01 03:00PM BST |Sun, August 02 12:00AM AEST |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[European Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14851){:target="_blank"} |Season 1 |Fixed |Circuit de Barcelona Catalunya |Sat, August 08 08:00PM EDT |Sun, August 09 01:00AM BST |Sun, August 09 10:00AM AEST |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12764){:target="_blank"} |C2C GT3 2026 | |Autodromo Nazionale Monza |Wed, August 05 09:00PM EDT |Thu, August 06 02:00AM BST |Thu, August 06 11:00AM AEST |
 
