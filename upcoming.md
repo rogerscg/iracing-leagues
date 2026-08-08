@@ -10,68 +10,34 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|-------------------------|-----|---------------------------|--------------------------|--------------------------|---------------------------|
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Arca Series Season 3 | |EchoPark Speedway (Atlanta) |Tue, August 04 07:00PM EDT |Wed, August 05 12:00AM BST |Wed, August 05 09:00AM AEST |
-
-### EURO NASCAR V8GP
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|------------------|-----|----------------------|--------------------------|--------------------------|---------------------------|
-|[P2RL LFD Liveries Freaky Friday Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11116){:target="_blank"} |EURO FREAKY FRIDAY |Fixed |Bristol Motor Speedway |Fri, August 07 09:00PM EDT |Sat, August 08 02:00AM BST |Sat, August 08 11:00AM AEST |
-
-### NASCAR 2003 Gen 4
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|--------------------------|-----|--------------------|--------------------------|--------------------------|---------------------------|
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Gen 4 Series Season 3 | |Texas Motor Speedway |Wed, August 05 07:00PM EDT |Thu, August 06 12:00AM BST |Thu, August 06 09:00AM AEST |
+|----------------------------------------------------------------------------------------------------------------|----------------|-----|---------------|--------------------------|--------------------------|---------------------------|
+|[Misfit Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14496){:target="_blank"} |2026 ARCA Series | |Phoenix Raceway |Sat, August 15 07:15PM EDT |Sun, August 16 12:15AM BST |Sun, August 16 09:15AM AEST |
 
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|-------------|-----|---------------------------|--------------------------|--------------------------|---------------------------|
-|[Doghouse Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9994){:target="_blank"} |2026 Season 2 |Open |Indianapolis Motor Speedway |Thu, August 06 07:00PM EDT |Fri, August 07 12:00AM BST |Fri, August 07 09:00AM AEST |
-
-### NASCAR Cup
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|------------------------|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Cup Series Season 3 | |Michigan International Speedway |Thu, August 06 07:00PM EDT |Fri, August 07 12:00AM BST |Fri, August 07 09:00AM AEST |
-|[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |TRG Gen 6 Cup Season 1 |Fixed |Daytona International Speedway |Tue, August 04 08:00PM EDT |Wed, August 05 01:00AM BST |Wed, August 05 10:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[Average Joes Sim Racing League \- Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13561){:target="_blank"} |Season 1 \(Next Gen\) | |Daytona International Speedway |Wed, August 12 07:00PM EDT |Thu, August 13 12:00AM BST |Thu, August 13 09:00AM AEST |
+|[Average Joes Sim Racing League \- Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12575){:target="_blank"} |Season 4 \- Next Gen |Fixed |Daytona International Speedway |Thu, August 13 07:00PM EDT |Fri, August 14 12:00AM BST |Fri, August 14 09:00AM AEST |
 
 ### NASCAR O'Reilly Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------|-----|-------------|--------------------------|--------------------------|---------------------------|
-|[Friday Night O'Reilly's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13616){:target="_blank"} |Season 2 |Fixed |Iowa Speedway |Fri, August 07 09:30PM EDT |Sat, August 08 02:30AM BST |Sat, August 08 11:30AM AEST |
+|-------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------|--------------------------|--------------------------|---------------------------|
+|[OTSS Contender Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14803){:target="_blank"} |Season 1 | |Homestead Miami Speedway |Thu, August 13 08:00PM EDT |Fri, August 14 01:00AM BST |Fri, August 14 10:00AM AEST |
+|[Misfit Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14496){:target="_blank"} |2026 O'Reilley Series | |Phoenix Raceway |Sat, August 15 09:30PM EDT |Sun, August 16 02:30AM BST |Sun, August 16 11:30AM AEST |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|--------------------------------------|--------------------------|--------------------------|---------------------------|
-|[Road N' Plate Palm Rat Golf Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} |Road N' Plate Season 10 |Fixed |Qualcomm Circuit (Naval Base Coronado) |Thu, August 06 09:00PM EDT |Fri, August 07 02:00AM BST |Fri, August 07 11:00AM AEST |
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Truck Speedway Series Season 3 | |Daytona International Speedway |Fri, August 07 07:00PM EDT |Sat, August 08 12:00AM BST |Sat, August 08 09:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------------------------|---------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[FourWide MotorSports \(Monday Night League\)](https://members.iracing.com/membersite/member/LeagueView.do?league=14252){:target="_blank"} |Trucks Season 2 | |Daytona International Speedway |Mon, August 10 07:00PM EDT |Tue, August 11 12:00AM BST |Tue, August 11 09:00AM AEST |
-|[GLSR Mr\.Radiator Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5180){:target="_blank"} |GLSR Mr\. Radiator Truck Series \- Season 3 |Fixed |Daytona International Speedway |Wed, August 05 08:00PM EDT |Thu, August 06 01:00AM BST |Thu, August 06 10:00AM AEST |
-
-### SK Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|-------------|-----|----------------|--------------------------|--------------------------|---------------------------|
-|[252 Modified Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13677){:target="_blank"} |2026 Season 1 | |Langley Speedway |Tue, August 04 09:30PM EDT |Wed, August 05 02:30AM BST |Wed, August 05 11:30AM AEST |
 
 ### Whelen Modified
 
@@ -84,24 +50,30 @@
 
 # Oval
 
-### Super Late Model
+### Street Stocks
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------------|--------------------------|--------------------------|---------------------------|
-|[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |Super Late Models \(Season 2\) |Fixed |New Hampshire Motor Speedway |Fri, August 07 08:30PM EDT |Sat, August 08 01:30AM BST |Sat, August 08 10:30AM AEST |
+|------------------------------------------------------------------------------------------------|------------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2026 Street Stocks |Fixed |Limaland Motorsports Park |Thu, August 13 09:30PM EDT |Fri, August 14 02:30AM BST |Fri, August 14 11:30AM AEST |
 
 # Open-wheel
+
+### Dallara IR18
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------|--------------------------|--------------------------|---------------------------|
+|[HB & Friends IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14719){:target="_blank"} |HB&F Indycar Season 1 |Fixed |Pocono Raceway |Sat, August 15 07:00PM EDT |Sun, August 16 12:00AM BST |Sun, August 16 09:00AM AEST |
 
 ### FIA F4
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
-|[Inferno EU F4 Stock Championship 250€ PRIZEPOOL\!\!](https://members.iracing.com/membersite/member/LeagueView.do?league=14668){:target="_blank"} |Inferno Racing EU F4 fixed Championship \#1 |Fixed |Oulton Park Circuit |Thu, August 06 01:00PM EDT |Thu, August 06 06:00PM BST |Fri, August 07 03:00AM AEST |
-|[NIX iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14371){:target="_blank"} |Formula Season 1 \- F4 |Fixed |Daytona International Speedway |Thu, August 06 07:30PM EDT |Fri, August 07 12:30AM BST |Fri, August 07 09:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Kenaz SimSports \- racetheapex\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=12953){:target="_blank"} |Kenaz Sim Sports \- Summer 2 \- FIA F4 | |Summit Point Raceway |Tue, August 11 08:00PM EDT |Wed, August 12 01:00AM BST |Wed, August 12 10:00AM AEST |
 |[ATRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=12412){:target="_blank"} |Temporada 11 \- F4 \- European AutoCare |Both |Daytona International Speedway |Mon, August 10 08:30PM EDT |Tue, August 11 01:30AM BST |Tue, August 11 10:30AM AEST |
 
@@ -113,6 +85,22 @@
 |-------------------------------------------------------------------------------------------------------------|----------------------------|-----|-----------------|--------------------------|--------------------------|---------------------------|
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest/Formula 1300 \- 2026 |Fixed |Oran Park Raceway |Sat, August 08 09:00PM EDT |Sun, August 09 02:00AM BST |Sun, August 09 11:00AM AEST |
 
+### Ray FF1600
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------|-----------|-----|------------------|--------------------------|--------------------------|---------------------------|
+|[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2026 FF1600 |Fixed |Irwindale Speedway |Thu, August 13 08:30PM EDT |Fri, August 14 01:30AM BST |Fri, August 14 10:30AM AEST |
+
+### Super Formula Lights
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------|--------------------------|--------------------------|---------------------------|
+|[Fédération Internet de l'Automobile](https://members.iracing.com/membersite/member/LeagueView.do?league=12962){:target="_blank"} |SFL Season 2: Electric Boogaloo | |Snetterton Circuit |Tue, August 11 09:14PM EDT |Wed, August 12 02:14AM BST |Wed, August 12 11:14AM AEST |
+
 # Sports Car
 
 ### Crev PCup 2026
@@ -120,16 +108,25 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------|----------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|---------------------------------------------------------------------------------------------------------------|---------------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|[DWR: Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12507){:target="_blank"} |DWR Charity Race 2026 |Open |Silverstone Circuit |Sat, August 15 02:00AM EDT |Sat, August 15 07:00AM BST |Sat, August 15 04:00PM AEST |
 |[Rennsimulator\.ch](https://members.iracing.com/membersite/member/LeagueView.do?league=14238){:target="_blank"} |Season 2 Testing |Fixed |Autodromo Nazionale Monza |Sat, August 08 07:00AM EDT |Sat, August 08 12:00PM BST |Sat, August 08 09:00PM AEST |
+
+### GT4 Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[RWFWSAI](https://members.iracing.com/membersite/member/LeagueView.do?league=14266){:target="_blank"} |GT4 Summer 26 | |Daytona International Speedway |Thu, August 13 09:00PM EDT |Fri, August 14 02:00AM BST |Fri, August 14 11:00AM AEST |
 
 ### Toyota GR86
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------|------|-----|---------------|--------------------------|--------------------------|---------------------------|
-|[OMSSA](https://members.iracing.com/membersite/member/LeagueView.do?league=14490){:target="_blank"} |GR86 | |Tsukuba Circuit |Wed, August 05 06:30AM EDT |Wed, August 05 11:30AM BST |Wed, August 05 08:30PM AEST |
+|------------------------------------------------------------------------------------------------------------|-------------------------|-----|--------------|--------------------------|--------------------------|---------------------------|
+|[AUSNZ SimRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=8255){:target="_blank"} |Racing USA GR86 Challenge | |Lime Rock Park |Sat, August 15 05:29AM EDT |Sat, August 15 10:29AM BST |Sat, August 15 07:29PM AEST |
 
 # Prototype
 
@@ -141,26 +138,7 @@
 |-----------------------------------------------------------------------------------------------------------------------|--------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[NEXT Racing League x ELMS](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |LMP \- Season 1 ELMS |Both |Nürburgring Grand-Prix-Strecke |Tue, August 11 09:00PM EDT |Wed, August 12 02:00AM BST |Wed, August 12 11:00AM AEST |
 
-# Road
-
-### NEC M2 Cup
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|-----------------|-----|--------------------------|--------------------------|--------------------------|---------------------------|
-|[SDR BMW M2 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11908){:target="_blank"} |BMW M2 |Open |Charlotte Motor Speedway  |Tue, August 04 02:00PM EDT |Tue, August 04 07:00PM BST |Wed, August 05 04:00AM AEST |
-|[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC M2 World Tour |Both |Autódromo José Carlos Pace |Wed, August 05 08:00PM EDT |Thu, August 06 01:00AM BST |Thu, August 06 10:00AM AEST |
-
 # Dirt Oval
-
-### Dirt Late Model - Pro
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|------------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
-|[Integrity Stock Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14840){:target="_blank"} |ISCR Dirt season 1 |Fixed |Limaland Motorsports Park |Tue, August 04 08:15PM EDT |Wed, August 05 01:15AM BST |Wed, August 05 10:15AM AEST |
 
 ### Dirt UMP Modified
 
@@ -187,9 +165,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|---------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
-|[Ultimate GT Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13150){:target="_blank"} |Ultimate GT Championship S3 |Both |Okayama International Circuit |Wed, August 05 08:15PM EDT |Thu, August 06 01:15AM BST |Thu, August 06 10:15AM AEST |
-|[IGTES](https://members.iracing.com/membersite/member/LeagueView.do?league=13738){:target="_blank"} |IGTES S1 |Open |Red Bull Ring |Sat, August 08 08:00AM EDT |Sat, August 08 01:00PM BST |Sat, August 08 10:00PM AEST |
+|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|[DBS Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14736){:target="_blank"} |DBS Endurance Series | |Circuit de Spa-Francorchamps |Sat, August 15 10:00AM EDT |Sat, August 15 03:00PM BST |Sun, August 16 12:00AM AEST |
+|[ATRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=12412){:target="_blank"} |Temporada 12 \- GT3 \- Cristal Water Piscinas |Both |Daytona International Speedway |Wed, August 12 08:30PM EDT |Thu, August 13 01:30AM BST |Thu, August 13 10:30AM AEST |
 |[NEXT Racing League x ELMS](https://members.iracing.com/membersite/member/LeagueView.do?league=12944){:target="_blank"} |GT3 \- Season 1 ELMS |Both |Nürburgring Grand-Prix-Strecke |Mon, August 10 09:00PM EDT |Tue, August 11 02:00AM BST |Tue, August 11 11:00AM AEST |
 
 ### Hosted All Cars Class
@@ -197,9 +175,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[FastFriends \- Europe 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14777){:target="_blank"} |FastFriends \- Europe 2026 | |Hungaroring |Mon, August 10 06:00AM EDT |Mon, August 10 11:00AM BST |Mon, August 10 08:00PM AEST |
+|[Ozzie Thunder F4 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14554){:target="_blank"} |Ozzie Thunder C & M Consultation F4 Winter series | |WeatherTech Raceway at Laguna Seca |Sun, August 09 05:00AM EDT |Sun, August 09 10:00AM BST |Sun, August 09 07:00PM AEST |
 |[European Le Mans Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14851){:target="_blank"} |Season 1 |Fixed |Circuit de Barcelona Catalunya |Sat, August 08 08:00PM EDT |Sun, August 09 01:00AM BST |Sun, August 09 10:00AM AEST |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12764){:target="_blank"} |C2C GT3 2026 | |Autodromo Nazionale Monza |Wed, August 05 09:00PM EDT |Thu, August 06 02:00AM BST |Thu, August 06 11:00AM AEST |
-|[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |Efterårs Casual | |Rudskogen Motorsenter |Wed, August 05 01:00PM EDT |Wed, August 05 06:00PM BST |Thu, August 06 03:00AM AEST |
 

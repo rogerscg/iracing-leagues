@@ -27,7 +27,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|----------|-------|----|-----|-------------|--------|------|------|
-|[Rally Short\-Course](https://members.iracing.com/membersite/member/LeagueView.do?league=14866){:target="_blank"} |Season \#1 |12 |1573 | | | | | |
+|[Rally Short\-Course](https://members.iracing.com/membersite/member/LeagueView.do?league=14866){:target="_blank"} |Season \#1 |13 |1519 | | | | | |
 
 ### VW Beetle Lite
 
