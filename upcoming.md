@@ -28,18 +28,28 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[DSA Next Gen Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12813){:target="_blank"} |Next Gen Season 4 |Fixed |Daytona International Speedway |Tue, August 25 07:15PM EDT |Wed, August 26 12:15AM BST |Wed, August 26 09:15AM AEST |
 |[GLR CRUISIN CLASSICS/NASTY'S SPORTS BAR NEXT GEN SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=6838){:target="_blank"} |Cruisin Classics Next Gen Season 10 | |Las Vegas Motor Speedway |Tue, August 25 07:00PM EDT |Wed, August 26 12:00AM BST |Wed, August 26 09:00AM AEST |
+|[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |ACTION Racing Series Next Gen Season 1 |Fixed |Daytona International Speedway |Wed, August 19 07:30PM EDT |Thu, August 20 12:30AM BST |Thu, August 20 09:30AM AEST |
+
+### NASCAR Legends 1987
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------------|---------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|[Golden Racing Asphalt League](https://members.iracing.com/membersite/member/LeagueView.do?league=13778){:target="_blank"} |Asphalt 3 |Open |North Wilkesboro Speedway |Wed, August 19 08:00PM EDT |Thu, August 20 01:00AM BST |Thu, August 20 10:00AM AEST |
 
 ### NASCAR O'Reilly Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[AOLL Racing's Sportsman Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5052){:target="_blank"} |2026 O'Reilly Auto Parts Season |Fixed |Richmond Raceway |Wed, August 19 06:00PM EDT |Wed, August 19 11:00PM BST |Thu, August 20 08:00AM AEST |
 |[IORA \- International Online Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=6910){:target="_blank"} |IORA Cup Series Season 8 | |Daytona International Speedway |Thu, August 20 08:00PM EDT |Fri, August 21 01:00AM BST |Fri, August 21 10:00AM AEST |
+|[Association for Simulated Stock Car Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6106){:target="_blank"} |ASSCAR 2026 Season 16 \- O'Reilly |Fixed |Kentucky Speedway |Tue, August 25 08:15PM EDT |Wed, August 26 01:15AM BST |Wed, August 26 10:15AM AEST |
 
 ### NASCAR Truck Series
 
@@ -50,6 +60,14 @@
 |[American Appalachian E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=14042){:target="_blank"} |AAES TRUCK SEASON 2 |Fixed |Daytona International Speedway |Mon, August 24 07:00PM EDT |Tue, August 25 12:00AM BST |Tue, August 25 09:00AM AEST |
 
 # Oval
+
+### Dirt Mini Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------|------|-----|------------------------|--------------------------|--------------------------|---------------------------|
+|[Golden Racing Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12931){:target="_blank"} |Dirt 3 |Fixed |Lanier National Speedway |Thu, August 20 08:00PM EDT |Fri, August 21 01:00AM BST |Fri, August 21 10:00AM AEST |
 
 ### Late Model Stock
 
@@ -87,6 +105,14 @@
 |--------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|------------------|--------------------------|--------------------------|---------------------------|
 |[Digital Autosport of Ukraine](https://members.iracing.com/membersite/member/LeagueView.do?league=10060){:target="_blank"} |2026 Biathlon \- Independence Day of Ukraine |Both |Circuit de Lédenon |Sat, August 22 01:00PM EDT |Sat, August 22 06:00PM BST |Sun, August 23 03:00AM AEST |
 
+### Toyota GR86
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------|----------------------------|-----|-------------|--------------------------|--------------------------|---------------------------|
+|[Screen To Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=12238){:target="_blank"} |2026 Screen 2 Speed Season 2 | |Red Bull Ring |Sun, August 23 02:00PM EDT |Sun, August 23 07:00PM BST |Mon, August 24 04:00AM AEST |
+
 # Road
 
 ### NEC M2 Cup
@@ -107,14 +133,6 @@
 
 # Dirt Oval
 
-### Dirt Big Block Modified
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|------------------------------|-----|--------------------------|--------------------------|--------------------------|---------------------------|
-|[RPES Dirt Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11710){:target="_blank"} |2026 RPES Dirt Modified Series | |USA International Speedway |Tue, August 18 08:30PM EDT |Wed, August 19 01:30AM BST |Wed, August 19 10:30AM AEST |
-
 ### Dirt SprintCar - 360
 
 [Back to Top](#)  
@@ -123,6 +141,14 @@
 |-------------------------------------------------------------------------------------------------------------------|-------------|-----|-------------------|--------------------------|--------------------------|---------------------------|
 |[TadPole Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13116){:target="_blank"} |Dirt Season 3 | |Port Royal Speedway |Tue, August 25 07:58PM EDT |Wed, August 26 12:58AM BST |Wed, August 26 09:58AM AEST |
 
+### Dirt Street Stock
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----|-----------------|--------------------------|--------------------------|---------------------------|
+|[Dirt Warrior Racing League \(DWRL presented by DWR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2763){:target="_blank"} |Season 24 WNSF |Fixed |Knoxville Raceway |Wed, August 26 08:59PM EDT |Thu, August 27 01:59AM BST |Thu, August 27 10:59AM AEST |
+
 # Multi-class/Unclassified
 
 ### GT3 2025
@@ -130,22 +156,21 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|--------------------------------------------|--------------------------|--------------------------|---------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|--------------------------------------------|--------------------------|--------------------------|---------------------------|
 |[GTChampions Road](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |GT3 Open S3 x iCoaching |Both |Autodromo Internazionale Enzo e Dino Ferrari |Sat, August 22 12:10PM EDT |Sat, August 22 05:10PM BST |Sun, August 23 02:10AM AEST |
 |[Atomic Sands Racing GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=14883){:target="_blank"} |ASRL GT3 Season 1 |Open |Daytona International Speedway |Sat, August 22 07:00PM EDT |Sun, August 23 12:00AM BST |Sun, August 23 09:00AM AEST |
-|[Copa Magna](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} |Sports Cup 2026 \(GT3\) |Fixed |Virginia International Raceway |Tue, August 18 09:00PM EDT |Wed, August 19 02:00AM BST |Wed, August 19 11:00AM AEST |
+|[PROGRID  90 minutos  de DAYTONA](https://members.iracing.com/membersite/member/LeagueView.do?league=14198){:target="_blank"} |6 horas Daytona |Fixed |Daytona International Speedway |Thu, August 20 06:00PM EDT |Thu, August 20 11:00PM BST |Fri, August 21 08:00AM AEST |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
 |[Simsports Canada \- Multiclass](https://members.iracing.com/membersite/member/LeagueView.do?league=11319){:target="_blank"} |Multiclass \- Fall 2026 season | |Daytona International Speedway |Wed, August 19 06:00PM EDT |Wed, August 19 11:00PM BST |Thu, August 20 08:00AM AEST |
+|[CAS \- Combined Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10943){:target="_blank"} |CAS \- Combined Cup 11th Season | |Okayama International Circuit |Wed, August 26 01:00PM EDT |Wed, August 26 06:00PM BST |Thu, August 27 03:00AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |26S3 Dom Smash Up |Open |Sebring International Raceway |Wed, August 19 08:00PM EDT |Thu, August 20 01:00AM BST |Thu, August 20 10:00AM AEST |
-|[League of Extraordinarily Average Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=7272){:target="_blank"} |10\-We actually did it? | |Watkins Glen International |Tue, August 18 09:00PM EDT |Wed, August 19 02:00AM BST |Wed, August 19 11:00AM AEST |
-|[GM PDT Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6251){:target="_blank"} |The Taste of Racing 2026 | |Road Atlanta |Tue, August 18 07:15PM EDT |Wed, August 19 12:15AM BST |Wed, August 19 09:15AM AEST |
-|[I\-85 Asphalt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13238){:target="_blank"} |I\-85 \- Late Model Stock Div\. | |New Smyrna Speedway |Tue, August 18 08:29PM EDT |Wed, August 19 01:29AM BST |Wed, August 19 10:29AM AEST |
+|[MEC](https://members.iracing.com/membersite/member/LeagueView.do?league=9686){:target="_blank"} |Season 3 MEC Round 1 | |Suzuka International Racing Course |Sat, August 22 06:15AM EDT |Sat, August 22 11:15AM BST |Sat, August 22 08:15PM AEST |
 
 ### IMSA23
 
