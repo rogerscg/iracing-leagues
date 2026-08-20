@@ -12,7 +12,7 @@
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |24 |1767 | |Road Atlanta |Mon, August 24 08:30PM EDT |Tue, August 25 01:30AM BST |Tue, August 25 10:30AM AEST |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN LMP2 Series |22 |2234 | |Nürburgring Nordschleife |Fri, August 21 03:38PM EDT |Fri, August 21 08:38PM BST |Sat, August 22 05:38AM AEST |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |18 |1376 | |Watkins Glen International |Mon, August 24 09:15PM EDT |Tue, August 25 02:15AM BST |Tue, August 25 11:15AM AEST |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |10 |2652 |Both |Long Beach Street Circuit |Wed, August 19 08:30PM EDT |Thu, August 20 01:30AM BST |Thu, August 20 10:30AM AEST |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |11 |2788 |Both | | | | |
 
 ### GTP
 
