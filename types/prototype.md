@@ -29,7 +29,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[Raging Radicals US TOUR by Odyssey Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13680){:target="_blank"} |Raging Radicals US Tour |37 |2332 | |Daytona International Speedway |Fri, August 21 08:00PM EDT |Sat, August 22 01:00AM BST |Sat, August 22 10:00AM AEST |
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 3 |24 |2699 |Open |Phillip Island Circuit |Thu, August 20 02:15PM EDT |Thu, August 20 07:15PM BST |Fri, August 21 04:15AM AEST |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 3 |25 |2701 |Open |Canadian Tire Motorsports Park |Thu, August 27 02:15PM EDT |Thu, August 27 07:15PM BST |Fri, August 28 04:15AM AEST |
 
 ### Ligier JS P320
 

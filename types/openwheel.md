@@ -38,7 +38,7 @@
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Road to Indy \- Indy NXT \- 2026 Spring |22 |1255 |Fixed | | | | |
 |[ITA Open Wheel Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=3915){:target="_blank"} |OPEN WHEEL SUMMER SEASON 4 |22 |1590 |Open | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 39 \- OVAL Indy NXT |17 |1237 |Fixed |EchoPark Speedway (Atlanta) |Fri, August 21 12:00PM EDT |Fri, August 21 05:00PM BST |Sat, August 22 02:00AM AEST |
-|[Smaug Racing Xperience](https://members.iracing.com/membersite/member/LeagueView.do?league=14116){:target="_blank"} |Season 2 \(NXT\) |13 |1762 |Fixed |The Milwaukee Mile |Thu, August 20 08:40PM EDT |Fri, August 21 01:40AM BST |Fri, August 21 10:40AM AEST |
+|[Smaug Racing Xperience](https://members.iracing.com/membersite/member/LeagueView.do?league=14116){:target="_blank"} |Season 2 \(NXT\) |15 |1769 |Fixed |Road America |Thu, August 27 08:40PM EDT |Fri, August 28 01:40AM BST |Fri, August 28 10:40AM AEST |
 |[Friendly Sim Racing \(FSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2061){:target="_blank"} |Indy Road Season \#10 |10 |1310 |Both |Autodromo Internazionale Enzo e Dino Ferrari |Wed, August 26 06:00PM EDT |Wed, August 26 11:00PM BST |Thu, August 27 08:00AM AEST |
 
 ### Dallara IR18
@@ -49,7 +49,7 @@
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------|----|-----|---------------------------------------|--------------------------|--------------------------|---------------------------|
 |[Votive Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |VOTIVE PRACTICE |102 |1930 |Fixed | | | | |
 |[MRL \- KAYTEE INDYCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12350){:target="_blank"} |2026 NTT INDYCAR Series |76 |2001 | |Portland International Raceway |Tue, August 25 05:30PM EDT |Tue, August 25 10:30PM BST |Wed, August 26 07:30AM AEST |
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART IndyCar S5 |59 |2281 |Fixed |[Legacy] Phoenix Raceway - 2008 |Thu, August 20 07:00PM EDT |Fri, August 21 12:00AM BST |Fri, August 21 09:00AM AEST |
+|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART IndyCar S5 |60 |2283 |Fixed |Portland International Raceway |Thu, August 27 07:00PM EDT |Fri, August 28 12:00AM BST |Fri, August 28 09:00AM AEST |
 |[GODLEAGUE SRP](https://members.iracing.com/membersite/member/LeagueView.do?league=14380){:target="_blank"} |División Olimpo \- Temporada 1 |59 |3242 |Fixed | | | | |
 |[Votive Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |The Votive INDY Derby Open Qualifying |58 |None |Fixed | | | | |
 |[P1 Broadcasting Indycar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=3645){:target="_blank"} |2026B |55 |2214 | |Chicagoland Speedway |Thu, August 27 06:45PM EDT |Thu, August 27 11:45PM BST |Fri, August 28 08:45AM AEST |
@@ -61,13 +61,13 @@
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026C Indycar Road to Indy Series \- Disruptive Labs |45 |2477 |Both |Road America |Fri, August 21 05:50AM EDT |Fri, August 21 10:50AM BST |Fri, August 21 07:50PM AEST |
 |[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S18 WCR Open Wheel Monday by Trophi\.ai |36 |2083 |Open |Daytona International Speedway |Mon, August 24 09:00PM EDT |Tue, August 25 02:00AM BST |Tue, August 25 11:00AM AEST |
 |[CLN Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10527){:target="_blank"} |INDYCAR BY CLN PRO |33 |2180 |Fixed | | | | |
-|[Area 51 Indycar Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |2026 Area 51 Indycar Oval Season 21 |33 |3248 |Fixed |Phoenix Raceway |Tue, August 25 08:30PM EDT |Wed, August 26 01:30AM BST |Wed, August 26 10:30AM AEST |
+|[Area 51 Indycar Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |2026 Area 51 Indycar Oval Season 21 |33 |3248 |Fixed |[Legacy] Phoenix Raceway - 2008 |Tue, August 25 08:30PM EDT |Wed, August 26 01:30AM BST |Wed, August 26 10:30AM AEST |
 |[ABN Champ Car World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3837){:target="_blank"} |ABN Champ Car World Series Season 8 |31 |1907 |Fixed | | | | |
 |[2026 BiS IndyCar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=10578){:target="_blank"} |2026 BiS IndyCar Championship |31 |2248 | | | | | |
 |[HVRL Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12676){:target="_blank"} |HVRL Indy Car Season 1 |30 |1795 | |World Wide Technology Raceway (Gateway) |Wed, August 26 08:00PM EDT |Thu, August 27 01:00AM BST |Thu, August 27 10:00AM AEST |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Road to Indy \- IndyCar \- 2026 Summer |29 |1328 |Fixed |Sebring International Raceway |Wed, August 26 07:00PM EDT |Thu, August 27 12:00AM BST |Thu, August 27 09:00AM AEST |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |IndyCar Series |25 |1464 |Both |Michigan International Speedway |Sat, August 22 10:00PM EDT |Sun, August 23 03:00AM BST |Sun, August 23 12:00PM AEST |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S3 SECTRONIC INDY SILVER |25 |2390 |Both |Indianapolis Motor Speedway |Thu, August 20 06:00PM EDT |Thu, August 20 11:00PM BST |Fri, August 21 08:00AM AEST |
+|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S3 SECTRONIC INDY SILVER |25 |2398 |Both |The Milwaukee Mile |Thu, August 27 06:00PM EDT |Thu, August 27 11:00PM BST |Fri, August 28 08:00AM AEST |
 |[Nitro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5604){:target="_blank"} |Nitro IndyCar Off\-Season 2026 |25 |2826 |Fixed |Road America |Sat, August 22 08:00PM EDT |Sun, August 23 01:00AM BST |Sun, August 23 10:00AM AEST |
 |[CTC ARC Music IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14882){:target="_blank"} |ARC Music Season 2 |24 |2136 | | | | | |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Indy Car Series Season 4 |22 |1093 |Fixed | | | | |
@@ -117,7 +117,7 @@
 |[ATRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=12412){:target="_blank"} |Temporada 11 \- F4 \- European AutoCare |15 |1449 |Both |Watkins Glen International |Mon, August 24 08:30PM EDT |Tue, August 25 01:30AM BST |Tue, August 25 10:30AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |ZPM Formula 4 |14 |1463 |Open | | | | |
 |[Zaddy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} |Summer Season 2026 FIA F4 |13 |1504 |Open |Virginia International Raceway |Sat, August 22 08:30PM EDT |Sun, August 23 01:30AM BST |Sun, August 23 10:30AM AEST |
-|[SKADS Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14118){:target="_blank"} |FIA F4 \- Season 1 |12 |1301 | |Silverstone Circuit |Thu, August 20 06:00AM EDT |Thu, August 20 11:00AM BST |Thu, August 20 08:00PM AEST |
+|[SKADS Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14118){:target="_blank"} |FIA F4 \- Season 1 |12 |1304 | |Road America |Thu, August 27 06:00AM EDT |Thu, August 27 11:00AM BST |Thu, August 27 08:00PM AEST |
 |[Missed Apex](https://members.iracing.com/membersite/member/LeagueView.do?league=13827){:target="_blank"} |Season 3: Formula 4 |11 |1172 |Fixed | | | | |
 |[RWFWSAI](https://members.iracing.com/membersite/member/LeagueView.do?league=14266){:target="_blank"} |F4 Summer Season |11 |1193 | | | | | |
 |[Malta National Sim Racing F4 Championship 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14904){:target="_blank"} |Malta National F4 Championship 2026 |10 |2677 | | | | | |
@@ -135,8 +135,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026C Formula Vee Sprint Series \- Disruptive Labs |65 |2254 |Both |Virginia International Raceway |Thu, August 20 04:19AM EDT |Thu, August 20 09:19AM BST |Thu, August 20 06:19PM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|------------------------------------|--------------------------|--------------------------|---------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026C Formula Vee Sprint Series \- Disruptive Labs |69 |2241 |Both |Willow Springs International Raceway |Thu, August 27 04:19AM EDT |Thu, August 27 09:19AM BST |Thu, August 27 06:19PM AEST |
 |[Formula Vee Trophy by TGR NATION](https://members.iracing.com/membersite/member/LeagueView.do?league=13632){:target="_blank"} |Formula Vee Trophy S3 |31 |3099 |Fixed |Brands Hatch Circuit |Sun, August 23 06:59PM EDT |Sun, August 23 11:59PM BST |Mon, August 24 08:59AM AEST |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Formula Vee S1 \- Rookie Formula |21 |1518 |Both |Lime Rock Park |Mon, August 24 09:00PM EDT |Tue, August 25 02:00AM BST |Tue, August 25 11:00AM AEST |
 
@@ -189,8 +189,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------|----|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |04 \- WOR Sayre Bear Challenge |36 |1415 |Fixed |WeatherTech Raceway at Laguna Seca |Thu, August 20 07:55PM EDT |Fri, August 21 12:55AM BST |Fri, August 21 09:55AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |04 \- WOR Sayre Bear Challenge |36 |1442 |Fixed |Watkins Glen International |Thu, August 27 07:55PM EDT |Fri, August 28 12:55AM BST |Fri, August 28 09:55AM AEST |
 |[Triple Bypass](https://members.iracing.com/membersite/member/LeagueView.do?league=9479){:target="_blank"} |TBP Season 11 Road Heads Series |34 |1364 |Fixed |Motorsport Arena Oschersleben |Wed, August 26 08:00PM EDT |Thu, August 27 01:00AM BST |Thu, August 27 10:00AM AEST |
 |[Red Solo Cup Series \(LMSC & ARCA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=5280){:target="_blank"} |Pro Mazda S1 |22 |1371 |Fixed | | | | |
 |[Money Shift Lite](https://members.iracing.com/membersite/member/LeagueView.do?league=11008){:target="_blank"} |Pro? Mazda |14 |1369 | | | | | |
@@ -210,9 +210,9 @@
 |[ARA League Season 8](https://members.iracing.com/membersite/member/LeagueView.do?league=14674){:target="_blank"} |Split 3 |39 |1373 | | | | | |
 |[Limit of Adhesion \- Prime](https://members.iracing.com/membersite/member/LeagueView.do?league=3564){:target="_blank"} |Prime Season 13 \- FF1600 |32 |2065 |Both | | | | |
 |[ARA League Season 8](https://members.iracing.com/membersite/member/LeagueView.do?league=14674){:target="_blank"} |Official Practice |26 |None | | | | | |
+|[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |FF1600 Cup |22 |2025 | | | | | |
 |[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG \- T2/2026 \- RAY FF1600 |21 |1635 | | | | | |
 |[JWB British Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14433){:target="_blank"} |BFFS Season 1 |14 |2261 | | | | | |
-|[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |FF1600 Cup |14 |2216 | |Tsukuba Circuit |Thu, August 20 04:00AM EDT |Thu, August 20 09:00AM BST |Thu, August 20 06:00PM AEST |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2026\-S3\-FF1600 Monday |11 |1728 |Both |Winton Motor Raceway |Mon, August 24 08:00PM EDT |Tue, August 25 01:00AM BST |Tue, August 25 10:00AM AEST |
 
 ### Skip Barber Race Series
@@ -242,8 +242,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|-------------------------|--------------------------|--------------------------|---------------------------|
-|[League Zero: Super Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season 19 |23 |2947 |Fixed |Autodromo Nazionale Monza |Thu, August 20 08:00PM EDT |Fri, August 21 01:00AM BST |Fri, August 21 10:00AM AEST |
+|------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
+|[League Zero: Super Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season 19 |24 |2934 |Fixed |Algarve International Circuit |Thu, August 27 08:00PM EDT |Fri, August 28 01:00AM BST |Fri, August 28 10:00AM AEST |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE '26 6/27 Rd\.3 総合予選 本番ホスト |21 |None | | | | | |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |SF23 Season 2 |14 |2025 |Both | | | | |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE '26 6/27 Rd\.3 ゼッケン・リバリー確認 SF |13 |None | | | | | |

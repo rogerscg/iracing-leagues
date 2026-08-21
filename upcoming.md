@@ -15,6 +15,15 @@
 |[GLR Alexander PCs ARCA SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=9310){:target="_blank"} |Alexander PCs Arca PRO Season 5 | |Michigan International Speedway |Mon, August 24 07:00PM EDT |Tue, August 25 12:00AM BST |Tue, August 25 09:00AM AEST |
 |[Lucky Dog Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15091){:target="_blank"} |LDR Season 1 |Fixed |Daytona International Speedway |Sat, August 22 03:00PM EDT |Sat, August 22 08:00PM BST |Sun, August 23 05:00AM AEST |
 
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------------|------------------------------|-----|-------------------------------|--------------------------|--------------------------|---------------------------|
+|[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |Modern NASCAR Series |Both |Michigan International Speedway |Fri, August 28 08:30PM EDT |Sat, August 29 01:30AM BST |Sat, August 29 10:30AM AEST |
+|[GLR Foundation Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11390){:target="_blank"} |GLR Foundation Series Season 1 | |Charlotte Motor Speedway  |Fri, August 28 07:00PM EDT |Sat, August 29 12:00AM BST |Sat, August 29 09:00AM AEST |
+
 ### NASCAR 2003 Gen 4
 
 [Back to Top](#)  
@@ -45,8 +54,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
-|[IORA \- International Online Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=6910){:target="_blank"} |IORA Cup Series Season 8 | |Daytona International Speedway |Thu, August 20 08:00PM EDT |Fri, August 21 01:00AM BST |Fri, August 21 10:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|-----------------|--------------------------|--------------------------|---------------------------|
 |[Association for Simulated Stock Car Auto Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6106){:target="_blank"} |ASSCAR 2026 Season 16 \- O'Reilly |Fixed |Kentucky Speedway |Tue, August 25 08:15PM EDT |Wed, August 26 01:15AM BST |Wed, August 26 10:15AM AEST |
 
 ### NASCAR Truck Series
@@ -56,27 +64,25 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[American Appalachian E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=14042){:target="_blank"} |AAES TRUCK SEASON 2 |Fixed |Daytona International Speedway |Mon, August 24 07:00PM EDT |Tue, August 25 12:00AM BST |Tue, August 25 09:00AM AEST |
-|[Asphalt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13856){:target="_blank"} |ARL Season 0 |Fixed |Iowa Speedway |Thu, August 20 07:00PM EDT |Fri, August 21 12:00AM BST |Fri, August 21 09:00AM AEST |
 
 ### Whelen Modified
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|---------|-----|----------------------------|--------------------------|--------------------------|---------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|--------------------|-----|----------------------------|--------------------------|--------------------------|---------------------------|
 |[Red Light Racing Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3776){:target="_blank"} |Season 16 |Fixed |Kevin Harvick's Kern Raceway |Wed, August 26 06:00PM EDT |Wed, August 26 11:00PM BST |Thu, August 27 08:00AM AEST |
+|[DOOBIE BROS](https://members.iracing.com/membersite/member/LeagueView.do?league=14955){:target="_blank"} |DOOBIE BROS season 1 | |South Boston Speedway |Fri, August 28 08:00PM EDT |Sat, August 29 01:00AM BST |Sat, August 29 10:00AM AEST |
 
-# Oval
+# Open-wheel
 
-### Dirt Mini Stock
+### Dallara IL15
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|------|-----|------------------------|--------------------------|--------------------------|---------------------------|
-|[Golden Racing Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12931){:target="_blank"} |Dirt 3 |Fixed |Lanier National Speedway |Thu, August 20 08:00PM EDT |Fri, August 21 01:00AM BST |Fri, August 21 10:00AM AEST |
-
-# Open-wheel
+|----------------------------------------------------------------------------------------------------------|---------------------|-----|---------------------------------------|--------------------------|--------------------------|---------------------------|
+|[GLR Indy NXT](https://members.iracing.com/membersite/member/LeagueView.do?league=13724){:target="_blank"} |GLR Indy NXT Season 2 | |World Wide Technology Raceway (Gateway) |Wed, August 26 07:00PM EDT |Thu, August 27 12:00AM BST |Thu, August 27 09:00AM AEST |
 
 ### FIA F4
 
@@ -96,6 +102,15 @@
 
 # Sports Car
 
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|[SISU Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10546){:target="_blank"} |World Race Experience by PICME |Open |Knockhill Racing Circuit |Fri, August 28 03:00PM EDT |Fri, August 28 08:00PM BST |Sat, August 29 05:00AM AEST |
+|[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE '26 8/29 Rd\.4 総合予選 | |Suzuka International Racing Course |Fri, August 28 10:00PM EDT |Sat, August 29 03:00AM BST |Sat, August 29 12:00PM AEST |
+
 ### Mazda MX-5 Cup
 
 [Back to Top](#)  
@@ -109,8 +124,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|-----------------------------|--------------------------|--------------------------|---------------------------|
 |[CiL \- Collegiate Academy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9359){:target="_blank"} |Collegiate Academy Series Season 15 | |Charlotte Motor Speedway  |Thu, August 27 07:30PM EDT |Fri, August 28 12:30AM BST |Fri, August 28 09:30AM AEST |
+|[GLR MX\-5](https://members.iracing.com/membersite/member/LeagueView.do?league=13162){:target="_blank"} |MX\-5 Season 2 | |Motorsport Arena Oschersleben |Fri, August 28 07:00PM EDT |Sat, August 29 12:00AM BST |Sat, August 29 09:00AM AEST |
 
 ### Toyota GR86
 
@@ -130,23 +146,7 @@
 |-----------------------------------------------------------------------------------------------------------------------|-------|-----|--------------------|--------------------------|--------------------------|---------------------------|
 |[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S6 |Fixed |Summit Point Raceway |Fri, August 21 07:30PM EDT |Sat, August 22 12:30AM BST |Sat, August 22 09:30AM AEST |
 
-### Supercars Gen 3
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|----------------------|--------------------------|--------------------------|---------------------------|
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold V8 Thursdays \- Season 2 2026 | |Phillip Island Circuit |Thu, August 20 05:30AM EDT |Thu, August 20 10:30AM BST |Thu, August 20 07:30PM AEST |
-
 # Dirt Oval
-
-### Dirt Late Model - Super
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-----------------|-----|---------------------|--------------------------|--------------------------|---------------------------|
-|[Turn One Winners](https://members.iracing.com/membersite/member/LeagueView.do?league=14976){:target="_blank"} |Super Late Models |Fixed |Volusia Speedway Park |Thu, August 20 08:15PM EDT |Fri, August 21 01:15AM BST |Fri, August 21 10:15AM AEST |
 
 ### Dirt SprintCar - 360
 
@@ -155,14 +155,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|-------------|-----|-------------------|--------------------------|--------------------------|---------------------------|
 |[TadPole Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13116){:target="_blank"} |Dirt Season 3 | |Port Royal Speedway |Tue, August 25 07:58PM EDT |Wed, August 26 12:58AM BST |Wed, August 26 09:58AM AEST |
-
-### Dirt SprintCar - 410wingless
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|------------------|-----|------------------|--------------------------|--------------------------|---------------------------|
-|[Turn One Winners](https://members.iracing.com/membersite/member/LeagueView.do?league=14976){:target="_blank"} |USAC 410 Non\-Wing |Fixed |Lucas Oil Speedway |Thu, August 20 07:30PM EDT |Fri, August 21 12:30AM BST |Fri, August 21 09:30AM AEST |
 
 ### Dirt Street Stock
 
@@ -179,10 +171,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|--------------------------------------------|--------------------------|--------------------------|---------------------------|
+|--------------------------------------------------------------------------------------------------------------|-----------------------|-----|--------------------------------------------|--------------------------|--------------------------|---------------------------|
 |[GTChampions Road](https://members.iracing.com/membersite/member/LeagueView.do?league=10585){:target="_blank"} |GT3 Open S3 x iCoaching |Both |Autodromo Internazionale Enzo e Dino Ferrari |Sat, August 22 12:10PM EDT |Sat, August 22 05:10PM BST |Sun, August 23 02:10AM AEST |
-|[Atomic Sands Racing GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=14883){:target="_blank"} |ASRL GT3 Season 1 |Open |Daytona International Speedway |Sat, August 22 07:00PM EDT |Sun, August 23 12:00AM BST |Sun, August 23 09:00AM AEST |
-|[PROGRID  90 minutos  de DAYTONA](https://members.iracing.com/membersite/member/LeagueView.do?league=14198){:target="_blank"} |6 horas Daytona |Fixed |Daytona International Speedway |Thu, August 20 06:00PM EDT |Thu, August 20 11:00PM BST |Fri, August 21 08:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -193,14 +183,6 @@
 |[CAS \- Combined Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10943){:target="_blank"} |CAS \- Combined Cup 11th Season | |Okayama International Circuit |Wed, August 26 01:00PM EDT |Wed, August 26 06:00PM BST |Thu, August 27 03:00AM AEST |
 |[GLR GTR Simulators Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12070){:target="_blank"} |GTR Simulators Sports Cars Season 4 | |Daytona International Speedway |Thu, August 27 07:00PM EDT |Fri, August 28 12:00AM BST |Fri, August 28 09:00AM AEST |
 |[MEC](https://members.iracing.com/membersite/member/LeagueView.do?league=9686){:target="_blank"} |Season 3 MEC Round 1 | |Suzuka International Racing Course |Sat, August 22 06:15AM EDT |Sat, August 22 11:15AM BST |Sat, August 22 08:15PM AEST |
-
-### IMSA23
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|------------|-----|------------------------------------|--------------------------|--------------------------|---------------------------|
-|[GR86 Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |GT3 Season 1 | |Autodromo Internazionale del Mugello |Thu, August 20 03:00PM EDT |Thu, August 20 08:00PM BST |Fri, August 21 05:00AM AEST |
 
 ### Touring Car
 
