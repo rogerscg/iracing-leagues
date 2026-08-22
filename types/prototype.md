@@ -10,7 +10,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|--------------------------|--------------------------|--------------------------|---------------------------|
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |24 |1767 | |Road Atlanta |Mon, August 24 08:30PM EDT |Tue, August 25 01:30AM BST |Tue, August 25 10:30AM AEST |
-|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN LMP2 Series |22 |2234 | |Nürburgring Nordschleife |Fri, August 21 03:38PM EDT |Fri, August 21 08:38PM BST |Sat, August 22 05:38AM AEST |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN LMP2 Series |23 |2250 | |Snetterton Circuit |Fri, August 28 03:38PM EDT |Fri, August 28 08:38PM BST |Sat, August 29 05:38AM AEST |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |18 |1376 | |Watkins Glen International |Mon, August 24 09:15PM EDT |Tue, August 25 02:15AM BST |Tue, August 25 11:15AM AEST |
 |[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |11 |2788 |Both | | | | |
 
@@ -28,7 +28,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
-|[Raging Radicals US TOUR by Odyssey Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13680){:target="_blank"} |Raging Radicals US Tour |37 |2332 | |Daytona International Speedway |Fri, August 21 08:00PM EDT |Sat, August 22 01:00AM BST |Sat, August 22 10:00AM AEST |
+|[Raging Radicals US TOUR by Odyssey Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13680){:target="_blank"} |Raging Radicals US Tour |38 |2389 | | | | | |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 3 |25 |2701 |Open |Canadian Tire Motorsports Park |Thu, August 27 02:15PM EDT |Thu, August 27 07:15PM BST |Fri, August 28 04:15AM AEST |
 
 ### Ligier JS P320

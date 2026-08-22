@@ -49,6 +49,14 @@
 |-------------------------------------------------------------------------------------------------------------------|---------|-----|---------------|--------------------------|--------------------------|---------------------------|
 |[Thursday Night Thunder](https://members.iracing.com/membersite/member/LeagueView.do?league=7692){:target="_blank"} |Season 13 | |Kansas Speedway |Thu, August 27 07:30PM EDT |Fri, August 28 12:30AM BST |Fri, August 28 09:30AM AEST |
 
+### NASCAR Legends 1987
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|------------------------|-----|--------------------------|--------------------------|--------------------------|---------------------------|
+|[Dirt super stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=13060){:target="_blank"} |Monday Night SuperStocks | |USA International Speedway |Mon, August 24 07:30PM EDT |Tue, August 25 12:30AM BST |Tue, August 25 09:30AM AEST |
+
 ### NASCAR O'Reilly Series
 
 [Back to Top](#)  
@@ -64,6 +72,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[American Appalachian E\-Sports](https://members.iracing.com/membersite/member/LeagueView.do?league=14042){:target="_blank"} |AAES TRUCK SEASON 2 |Fixed |Daytona International Speedway |Mon, August 24 07:00PM EDT |Tue, August 25 12:00AM BST |Tue, August 25 09:00AM AEST |
+|[DTRL/ DIRT TRUCK RACE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=15083){:target="_blank"} |DTRL Season 1 | |Knoxville Raceway |Thu, August 27 09:00PM EDT |Fri, August 28 02:00AM BST |Fri, August 28 11:00AM AEST |
 
 ### Whelen Modified
 
@@ -84,6 +93,15 @@
 |----------------------------------------------------------------------------------------------------------|---------------------|-----|---------------------------------------|--------------------------|--------------------------|---------------------------|
 |[GLR Indy NXT](https://members.iracing.com/membersite/member/LeagueView.do?league=13724){:target="_blank"} |GLR Indy NXT Season 2 | |World Wide Technology Raceway (Gateway) |Wed, August 26 07:00PM EDT |Thu, August 27 12:00AM BST |Thu, August 27 09:00AM AEST |
 
+### Dallara IR18
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------------|------------------------------|-----|-------------------------|--------------------------|--------------------------|---------------------------|
+|[GLR Indy Car by Lincoln Tech](https://members.iracing.com/membersite/member/LeagueView.do?league=15020){:target="_blank"} |Lincoln Tech Indy Car Season 3 | |Phoenix Raceway |Sat, August 29 07:00PM EDT |Sun, August 30 12:00AM BST |Sun, August 30 09:00AM AEST |
+|[Majors Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1348){:target="_blank"} |26R9 |Open |Long Beach Street Circuit |Sat, August 22 03:00AM EDT |Sat, August 22 08:00AM BST |Sat, August 22 05:00PM AEST |
+
 ### FIA F4
 
 [Back to Top](#)  
@@ -102,12 +120,21 @@
 
 # Sports Car
 
+### Crev PCup 2026
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------|---------------------|-----|--------------------------|--------------------------|--------------------------|---------------------------|
+|[Simunation Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11242){:target="_blank"} |Porsche cup bajnokság |Both |Watkins Glen International |Sat, August 29 11:00AM EDT |Sat, August 29 04:00PM BST |Sun, August 30 01:00AM AEST |
+
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|-------------------------------------------------------------------------------------------------------------|-------------------------------|-----|----------------------------------|--------------------------|--------------------------|---------------------------|
+|[SISU Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10546){:target="_blank"} |Nürburgring Track Days by PICME |Open |Nürburgring Nordschleife |Sat, August 29 11:00AM EDT |Sat, August 29 04:00PM BST |Sun, August 30 01:00AM AEST |
 |[SISU Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=10546){:target="_blank"} |World Race Experience by PICME |Open |Knockhill Racing Circuit |Fri, August 28 03:00PM EDT |Fri, August 28 08:00PM BST |Sat, August 29 05:00AM AEST |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE '26 8/29 Rd\.4 総合予選 | |Suzuka International Racing Course |Fri, August 28 10:00PM EDT |Sat, August 29 03:00AM BST |Sat, August 29 12:00PM AEST |
 
@@ -128,23 +155,21 @@
 |[CiL \- Collegiate Academy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9359){:target="_blank"} |Collegiate Academy Series Season 15 | |Charlotte Motor Speedway  |Thu, August 27 07:30PM EDT |Fri, August 28 12:30AM BST |Fri, August 28 09:30AM AEST |
 |[GLR MX\-5](https://members.iracing.com/membersite/member/LeagueView.do?league=13162){:target="_blank"} |MX\-5 Season 2 | |Motorsport Arena Oschersleben |Fri, August 28 07:00PM EDT |Sat, August 29 12:00AM BST |Sat, August 29 09:00AM AEST |
 
+### Renault Clio
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------|--------------------|-----|--------------------|--------------------------|--------------------------|---------------------------|
+|[GLR CLIO Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8963){:target="_blank"} |CLIO Series Season 1 | |Summit Point Raceway |Sat, August 29 07:00PM EDT |Sun, August 30 12:00AM BST |Sun, August 30 09:00AM AEST |
+
 ### Toyota GR86
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------|----------------------------|-----|-------------|--------------------------|--------------------------|---------------------------|
-|[Screen To Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=12238){:target="_blank"} |2026 Screen 2 Speed Season 2 | |Red Bull Ring |Sun, August 23 02:00PM EDT |Sun, August 23 07:00PM BST |Mon, August 24 04:00AM AEST |
-
-# Road
-
-### NEC M2 Cup
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-------|-----|--------------------|--------------------------|--------------------------|---------------------------|
-|[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S6 |Fixed |Summit Point Raceway |Fri, August 21 07:30PM EDT |Sat, August 22 12:30AM BST |Sat, August 22 09:30AM AEST |
+|-------------------------------------------------------------------------------------------------------------|----------------------------|-----|-------------------|--------------------------|--------------------------|---------------------------|
+|[Screen To Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=12238){:target="_blank"} |2026 Screen 2 Speed Season 2 | |Oulton Park Circuit |Sun, August 23 02:00PM EDT |Sun, August 23 07:00PM BST |Mon, August 24 04:00AM AEST |
 
 # Dirt Oval
 
