@@ -8,19 +8,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|--------------------------|--------------------------|--------------------------|---------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|------------------------------------|--------------------------|--------------------------|---------------------------|
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |24 |1767 | |Road Atlanta |Mon, August 24 08:30PM EDT |Tue, August 25 01:30AM BST |Tue, August 25 10:30AM AEST |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN LMP2 Series |23 |2250 | |Snetterton Circuit |Fri, August 28 03:38PM EDT |Fri, August 28 08:38PM BST |Sat, August 29 05:38AM AEST |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |18 |1376 | |Watkins Glen International |Mon, August 24 09:15PM EDT |Tue, August 25 02:15AM BST |Tue, August 25 11:15AM AEST |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |11 |2788 |Both | | | | |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |11 |2788 |Both |Autodromo Internazionale del Mugello |Wed, August 26 08:30PM EDT |Thu, August 27 01:30AM BST |Thu, August 27 10:30AM AEST |
 
 ### GTP
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-----------------------|-------|---|-----|-------------|--------|------|------|
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Series Season 2 |11 |968 |Fixed | | | | |
+|--------------------------------------------------------------------------------------------------------------|-----------------------|-------|---|-----|-----------------------------|--------------------------|-----------------------------|------------------------------|
+|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Series Season 2 |11 |968 |Fixed |Circuit des 24 Heures du Mans |Mon, August 31 08:00PM EDT |Tue, September 01 01:00AM BST |Tue, September 01 10:00AM AEST |
 
 ### Hosted All Cars Class
 
