@@ -8,9 +8,6 @@
 |[Coast To Coast UMP](https://members.iracing.com/membersite/member/LeagueView.do?league=15076){:target="_blank"} | |We race acrposs the coast, rookies can practice with us but cannot race with us\. Mics will be needed to join and race |
 |[Deploy Friday Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=15084){:target="_blank"} | |Test |
 |[DTRL/ DIRT TRUCK RACE LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=15083){:target="_blank"} | |NASCAR TRUCKS DEDICATED TO DIRT TRACKS ONLY |
-|[Fast Lane Motorsports  "Modifieds"](https://members.iracing.com/membersite/member/LeagueView.do?league=15061){:target="_blank"} |[Discord](https://discord.gg/CKgjbZQEF9){:target="_blank"} |Sign up Discord Only\. 50 & Up Seniors\-Short Track Racing\. Running LMSC, Some SLM & Tour Mod\.   Discord Link https://discord\.gg/CKgjbZQEF9 |
-|[Fast Lane Motorsports  "Super Late"](https://members.iracing.com/membersite/member/LeagueView.do?league=15062){:target="_blank"} |[Discord](https://discord.gg/CKgjbZQEF9){:target="_blank"} |Sign up Discord Only\. 50 & Up Seniors\-Short Track Racing\. Running LMSC, Some SLM & Tour Mod\.   Discord Link https://discord\.gg/CKgjbZQEF9 |
-|[FFNAC Iracing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=15060){:target="_blank"} |[Discord](https://discord.gg/qchbaKKCPQ){:target="_blank"} |League de NASCAR Française |
 |[HLRN \(Monday\)](https://members.iracing.com/membersite/member/LeagueView.do?league=15066){:target="_blank"} | |Monday league |
 |[Indian iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15085){:target="_blank"} |[Discord](https://discord.gg/HGBKhFex7k){:target="_blank"} |A league for everyone\. |
 |[LIGA SERRUCHO](https://members.iracing.com/membersite/member/LeagueView.do?league=15092){:target="_blank"} | |ARGENTINA |
@@ -61,4 +58,12 @@
 |[Victory Lane Off\-Road Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15182){:target="_blank"} | | |
 |[Work Night Blue Collar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15177){:target="_blank"} |[Discord](https://discord.gg/ahyjPuEkv){:target="_blank"} |Weekly short track action featuring race control, broadcasting and Grid Gold trophies to the winner\. Newer racers encouraged\. Hone your skills as you work towards the Cup Series\! |
 |[XMS Racing German Touring Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15174){:target="_blank"} | |A fixed setup series featuring the Porsche 911 Cup and the BMW M2\. |
+|[Bronze Ducks D\.L\.E\.R\.C Gt3](https://members.iracing.com/membersite/member/LeagueView.do?league=15185){:target="_blank"} | |Dienstags Liga Slow |
+|[GEGLA26 Pool A Qualifier](https://members.iracing.com/membersite/member/LeagueView.do?league=15186){:target="_blank"} | | |
+|[GEGLA26 Pool B Qualifier](https://members.iracing.com/membersite/member/LeagueView.do?league=15187){:target="_blank"} | | |
+|[GEGLA26 Pool C Qualifier](https://members.iracing.com/membersite/member/LeagueView.do?league=15188){:target="_blank"} | | |
+|[Golden Ducks D\.L\.E\.R\.C Gt3](https://members.iracing.com/membersite/member/LeagueView.do?league=15184){:target="_blank"} | |Montags Liga Schnell |
+|[NASCA](https://members.iracing.com/membersite/member/LeagueView.do?league=15183){:target="_blank"} | |North American Stock Car Association |
+|[Three Wide Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=15190){:target="_blank"} | |Liga competitiva entre comunidades |
+|[VEC Endurance GT3](https://members.iracing.com/membersite/member/LeagueView.do?league=15189){:target="_blank"} | | |
 

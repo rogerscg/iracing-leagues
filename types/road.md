@@ -18,14 +18,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|----|-----|----------------------------------|--------------------------|--------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|----|-----|----------------------------------|--------------------------|-----------------------------|------------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026C BMW M\-Sport Cup |65 |2500 |Both |Suzuka International Racing Course |Wed, August 26 04:07AM EDT |Wed, August 26 09:07AM BST |Wed, August 26 06:07PM AEST |
-|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 26S3 \- BMW M2 |47 |2460 |Open |Rudskogen Motorsenter |Mon, August 24 01:30PM EDT |Mon, August 24 06:30PM BST |Tue, August 25 03:30AM AEST |
+|[GoT\-Racing\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 26S3 \- BMW M2 |48 |2445 |Open |Virginia International Raceway |Mon, August 31 01:30PM EDT |Mon, August 31 06:30PM BST |Tue, September 01 03:30AM AEST |
 |[GHD M2 CUP SAISON 2](https://members.iracing.com/membersite/member/LeagueView.do?league=9677){:target="_blank"} |GHD M2 CUP Saison 2 |44 |2704 | | | | | |
 |[AW Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11496){:target="_blank"} |AW Racing M2 |41 |1962 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2026 S3 BMW M2 Cup |34 |3199 |Both |Rudskogen Motorsenter |Mon, August 31 02:00PM EDT |Mon, August 31 07:00PM BST |Tue, September 01 04:00AM AEST |
-|[Mybroga Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=13580){:target="_blank"} |MYBROGA BMW M2 Racing \(G87\) \- Season 1 |30 |1401 |Fixed |Motorsport Arena Oschersleben |Mon, August 24 09:00PM EDT |Tue, August 25 02:00AM BST |Tue, August 25 11:00AM AEST |
-|[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |BMW M2 S1 \- Rookie Road |29 |1401 |Both |Lime Rock Park |Mon, August 24 08:00PM EDT |Tue, August 25 01:00AM BST |Tue, August 25 10:00AM AEST |
+|[Mybroga Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=13580){:target="_blank"} |MYBROGA BMW M2 Racing \(G87\) \- Season 1 |33 |1400 |Fixed |Oulton Park Circuit |Mon, August 31 09:00PM EDT |Tue, September 01 02:00AM BST |Tue, September 01 11:00AM AEST |
+|[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |BMW M2 S1 \- Rookie Road |33 |1389 |Both |Motorsport Arena Oschersleben |Mon, August 31 08:00PM EDT |Tue, September 01 01:00AM BST |Tue, September 01 10:00AM AEST |
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |M2 Cup Season 10 |24 |2117 |Both |Motorsport Arena Oschersleben |Tue, August 25 08:00PM EDT |Wed, August 26 01:00AM BST |Wed, August 26 10:00AM AEST |
 |[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC M2 World Tour |24 |1821 |Both |Oulton Park Circuit |Wed, August 26 08:00PM EDT |Thu, August 27 01:00AM BST |Thu, August 27 10:00AM AEST |
 |[LIGA FRS \- BMW M2R \- S3\-2026](https://members.iracing.com/membersite/member/LeagueView.do?league=14284){:target="_blank"} |BMW M2R \- Rookie to Pro |23 |2611 | | | | | |
@@ -33,8 +33,8 @@
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Bananas Big Beautiful Badass Bonanza \- Season 1 |17 |2045 |Both |Brands Hatch Circuit |Tue, August 25 11:00PM EDT |Wed, August 26 04:00AM BST |Wed, August 26 01:00PM AEST |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |GVM Season 4 |17 |1658 | |Mount Panorama Circuit |Tue, August 25 08:00PM EDT |Wed, August 26 01:00AM BST |Wed, August 26 10:00AM AEST |
 |[Federación de Automovilismo Deportivo Uruguayo](https://members.iracing.com/membersite/member/LeagueView.do?league=14372){:target="_blank"} |CAMPEONATO BMW M2 G87 |17 |1478 | |Charlotte Motor Speedway  |Tue, August 25 07:00PM EDT |Wed, August 26 12:00AM BST |Wed, August 26 09:00AM AEST |
+|[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG T3/2026 \- BMW M2 CUP |16 |1605 | | | | | |
 |[E\-Sports SimRacing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=14064){:target="_blank"} |Summer League |15 |2162 |Open | | | | |
-|[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG T3/2026 \- BMW M2 CUP |14 |1604 | |Motorsport Arena Oschersleben |Mon, August 24 07:00PM EDT |Tue, August 25 12:00AM BST |Tue, August 25 09:00AM AEST |
 |[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S6 |10 |1326 |Fixed | | | | |
 
 ### Supercars Gen 3
@@ -51,6 +51,6 @@
 |[Inside Lane Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12384){:target="_blank"} |The BMG 700 |48 |2248 | | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |2026B |36 |2157 |Fixed | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold V8 Thursdays \- Season 2 2026 |23 |1509 | | | | | |
-|[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 19 |22 |4069 |Open | | | | |
+|[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 19 |22 |4069 |Open |Circuit Gilles Villeneuve |Sat, August 29 01:00PM EDT |Sat, August 29 06:00PM BST |Sun, August 30 03:00AM AEST |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |VM i Sommer Casual 2026 |11 |1724 | | | | | |
 
