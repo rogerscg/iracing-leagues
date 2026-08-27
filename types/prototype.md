@@ -8,11 +8,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|------------------------------------|--------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|-----------------------------|--------------------------|-----------------------------|------------------------------|
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |25 |1749 | |Circuit des 24 Heures du Mans |Mon, August 31 08:30PM EDT |Tue, September 01 01:30AM BST |Tue, September 01 10:30AM AEST |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN LMP2 Series |23 |2250 | |Snetterton Circuit |Fri, August 28 03:38PM EDT |Fri, August 28 08:38PM BST |Sat, August 29 05:38AM AEST |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |18 |1384 | |Circuit Zandvoort |Mon, August 31 09:15PM EDT |Tue, September 01 02:15AM BST |Tue, September 01 11:15AM AEST |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |11 |2788 |Both |Autodromo Internazionale del Mugello |Wed, August 26 08:30PM EDT |Thu, August 27 01:30AM BST |Thu, August 27 10:30AM AEST |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |11 |2820 |Both | | | | |
 
 ### GTP
 
@@ -47,7 +47,7 @@
 |----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|------------------------------|--------------------------|--------------------------|---------------------------|
 |[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2026 \- RADICAL SR10 |50 |2130 |Fixed | | | | |
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2026 |34 |3977 | |Canadian Tire Motorsports Park |Sun, August 30 02:00PM EDT |Sun, August 30 07:00PM BST |Mon, August 31 04:00AM AEST |
-|[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2026 |26 |2503 | |Canadian Tire Motorsports Park |Sun, August 30 07:30PM EDT |Mon, August 31 12:30AM BST |Mon, August 31 09:30AM AEST |
+|[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2026 |26 |2503 | |Canadian Tire Motorsports Park |Sun, August 30 02:00PM EDT |Sun, August 30 07:00PM BST |Mon, August 31 04:00AM AEST |
 
 ### Radical SR8
 
