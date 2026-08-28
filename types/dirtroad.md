@@ -8,8 +8,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-------------|--------|------|------|
-|[Ceylon Motor Sports Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10819){:target="_blank"} |CMSC Esports Syren RCX Crosscar Cup |24 |1408 | | | | | |
+|---------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |ERC RX Dev League \| S1 |21 |1414 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Cross Car \- 2026 \(Sat\) |18 |2515 |Fixed | | | | |
 |[NASA Cross Car and Pro 4](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Crosscar 2026A |16 |3815 |Both | | | | |
@@ -41,10 +40,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|---------------------------|--------------------------|--------------------------|---------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|--------------------|-----------------------------|-----------------------------|------------------------------|
 |[La Série QUÉBEC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=10837){:target="_blank"} |PRO 2 ÉTÉ 2026 |32 |1766 | | | | | |
 |[CORE \- Championship Off\-Road Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 2 Championship |30 |3231 |Fixed | | | | |
-|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S3 '26 Pro2 |11 |1575 |Fixed |EchoPark Speedway (Atlanta) |Thu, August 27 09:20PM EDT |Fri, August 28 02:20AM BST |Fri, August 28 11:20AM AEST |
+|[Free Time Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11526){:target="_blank"} |Red, White, and Rallycross \- S3 '26 Pro2 |11 |1569 |Fixed |Brands Hatch Circuit |Thu, September 03 09:20PM EDT |Fri, September 04 02:20AM BST |Fri, September 04 11:20AM AEST |
 
 ### Pro 4 Truck
 

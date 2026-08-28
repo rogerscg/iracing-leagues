@@ -43,13 +43,13 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|-----------------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |170 |None |Open |Shell V-Power Motorsport Park at The Bend |Thu, August 27 05:00AM EDT |Thu, August 27 10:00AM BST |Thu, August 27 07:00PM AEST |
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |170 |None |Open |Shell V-Power Motorsport Park at The Bend |Fri, August 28 05:00AM EDT |Fri, August 28 10:00AM BST |Fri, August 28 07:00PM AEST |
 |[GSRC\.inc Trophi\.AI V8 Supercar Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026C V8SC Series \- Trophi\.AI |72 |2305 | |Road America |Wed, September 02 05:45AM EDT |Wed, September 02 10:45AM BST |Wed, September 02 07:45PM AEST |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints Season 28 |67 |1664 | | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold Racing V8 Champions Challenge |62 |1487 | | | | | |
 |[Inside Lane Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=12384){:target="_blank"} |The BMG 700 |48 |2248 | | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |2026B |36 |2157 |Fixed | | | | |
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold V8 Thursdays \- Season 2 2026 |23 |1509 | |Virginia International Raceway |Thu, August 27 05:30AM EDT |Thu, August 27 10:30AM BST |Thu, August 27 07:30PM AEST |
+|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold V8 Thursdays \- Season 2 2026 |26 |1553 | | | | | |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 19 |22 |4069 |Open |Circuit Gilles Villeneuve |Sat, August 29 01:00PM EDT |Sat, August 29 06:00PM BST |Sun, August 30 03:00AM AEST |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |VM i Sommer Casual 2026 |11 |1724 | | | | | |
 
