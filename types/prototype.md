@@ -8,19 +8,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|-----------------------------|--------------------------|-----------------------------|------------------------------|
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |25 |1749 | |Circuit des 24 Heures du Mans |Mon, August 31 08:30PM EDT |Tue, September 01 01:30AM BST |Tue, September 01 10:30AM AEST |
+|---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |25 |1739 | | | | | |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN LMP2 Series |24 |2282 | | | | | |
-|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |18 |1384 | |Circuit Zandvoort |Mon, August 31 09:15PM EDT |Tue, September 01 02:15AM BST |Tue, September 01 11:15AM AEST |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |11 |2820 |Both | | | | |
+|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |18 |1395 | | | | | |
+|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |11 |2820 |Both |Barber Motorsports Park |Tue, September 01 08:30PM EDT |Wed, September 02 01:30AM BST |Wed, September 02 10:30AM AEST |
 
 ### GTP
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-----------------------|-------|---|-----|-----------------------------|--------------------------|-----------------------------|------------------------------|
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Series Season 2 |11 |968 |Fixed |Circuit des 24 Heures du Mans |Mon, August 31 08:00PM EDT |Tue, September 01 01:00AM BST |Tue, September 01 10:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------|-----------------------|-------|---|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Series Season 2 |11 |968 |Fixed |Circuit des 24 Heures du Mans |Mon, September 07 08:00PM EDT |Tue, September 08 01:00AM BST |Tue, September 08 10:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -46,10 +46,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|------------------------------|--------------------------|--------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 MNL Season 8 |31 |2890 | | | | | |
 |[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 2 |17 |1931 | | | | | |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 9 |16 |2821 | |Nürburgring Grand-Prix-Strecke |Mon, August 31 02:50PM EDT |Mon, August 31 07:50PM BST |Tue, September 01 04:50AM AEST |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 9 |16 |2802 | |Circuit de Spa-Francorchamps |Mon, September 07 02:50PM EDT |Mon, September 07 07:50PM BST |Tue, September 08 04:50AM AEST |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 2 |13 |1554 |Both | | | | |
 
 ### Riley Daytona Prototype

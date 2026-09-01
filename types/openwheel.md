@@ -28,7 +28,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} |2026S3 NXT |48 |1754 |Both |WeatherTech Raceway at Laguna Seca |Mon, August 31 08:30PM EDT |Tue, September 01 01:30AM BST |Tue, September 01 10:30AM AEST |
+|[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} |2026S3 NXT |48 |1744 |Both | | | | |
 |[simRacingPR](https://members.iracing.com/membersite/member/LeagueView.do?league=4040){:target="_blank"} |SimRacingPR Indy NXT Series |41 |1747 |Both | | | | |
 |[Elite Lights Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3860){:target="_blank"} |2026A |33 |2097 | | | | | |
 |[GGR iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=6424){:target="_blank"} |Indy NXT S1 |27 |1832 |Fixed | | | | |
@@ -48,7 +48,7 @@
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Votive Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |VOTIVE PRACTICE |102 |1930 |Fixed | | | | |
 |[Majors Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1348){:target="_blank"} |26R9 |81 |None |Open | | | | |
-|[MRL \- KAYTEE INDYCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12350){:target="_blank"} |2026 NTT INDYCAR Series |80 |2030 | |Nashville Superspeedway |Tue, September 01 05:30PM EDT |Tue, September 01 10:30PM BST |Wed, September 02 07:30AM AEST |
+|[MRL \- KAYTEE INDYCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12350){:target="_blank"} |2026 NTT INDYCAR Series |80 |2057 | | | | | |
 |[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART IndyCar S5 |60 |2234 |Fixed |Auto Club Speedway |Thu, September 03 07:00PM EDT |Fri, September 04 12:00AM BST |Fri, September 04 09:00AM AEST |
 |[GODLEAGUE SRP](https://members.iracing.com/membersite/member/LeagueView.do?league=14380){:target="_blank"} |División Olimpo \- Temporada 1 |59 |3242 |Fixed | | | | |
 |[Votive Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |The Votive INDY Derby Open Qualifying |58 |None |Fixed | | | | |
@@ -58,17 +58,18 @@
 |[Indy Euro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13756){:target="_blank"} |Indy Euro Series Season 2 |49 |2546 |Fixed |Indianapolis Motor Speedway |Tue, September 01 02:00PM EDT |Tue, September 01 07:00PM BST |Wed, September 02 04:00AM AEST |
 |[INDY VIRTUAL CHALLENGE PRO SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2026 |48 |2655 | |The Milwaukee Mile |Tue, September 01 06:30PM EDT |Tue, September 01 11:30PM BST |Wed, September 02 08:30AM AEST |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026C Indycar Road to Indy Series \- Disruptive Labs |46 |2444 |Both |WeatherTech Raceway at Laguna Seca |Fri, September 04 05:50AM EDT |Fri, September 04 10:50AM BST |Fri, September 04 07:50PM AEST |
-|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S18 WCR Open Wheel Monday by Trophi\.ai |36 |2097 |Open |WeatherTech Raceway at Laguna Seca |Mon, August 31 09:00PM EDT |Tue, September 01 02:00AM BST |Tue, September 01 11:00AM AEST |
+|[West Coast Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=8093){:target="_blank"} |S18 WCR Open Wheel Monday by Trophi\.ai |37 |2106 |Open | | | | |
 |[Area 51 Indycar Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |2026 Area 51 Indycar Oval Season 21 |33 |3303 |Fixed | | | | |
 |[ABN Champ Car World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3837){:target="_blank"} |ABN Champ Car World Series Season 8 |31 |1907 |Fixed | | | | |
 |[Nitro Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=5604){:target="_blank"} |Nitro IndyCar Off\-Season 2026 |31 |3011 |Fixed |Indianapolis Motor Speedway |Sat, September 05 08:00PM EDT |Sun, September 06 01:00AM BST |Sun, September 06 10:00AM AEST |
 |[HVRL Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12676){:target="_blank"} |HVRL Indy Car Season 1 |30 |1807 | |Indianapolis Motor Speedway |Wed, September 02 08:00PM EDT |Thu, September 03 01:00AM BST |Thu, September 03 10:00AM AEST |
+|[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |INDYCAR S2\-26 |30 |2097 | | | | | |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Road to Indy \- IndyCar \- 2026 Summer |29 |1353 |Fixed |Michigan International Speedway |Wed, September 02 07:30PM EDT |Thu, September 03 12:30AM BST |Thu, September 03 09:30AM AEST |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |IndyCar Series |27 |1450 |Both |Pocono Raceway |Sat, September 05 10:00PM EDT |Sun, September 06 03:00AM BST |Sun, September 06 12:00PM AEST |
 |[Grassroots Racing \- INDYCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14835){:target="_blank"} |SEASON 1 |26 |1805 |Open | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S3 SECTRONIC INDY SILVER |25 |2407 |Both |Chicagoland Speedway |Thu, September 03 06:00PM EDT |Thu, September 03 11:00PM BST |Fri, September 04 08:00AM AEST |
-|[CTC ARC Music IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14882){:target="_blank"} |ARC Music Season 2 |24 |2136 | |Watkins Glen International |Mon, August 31 07:30PM EDT |Tue, September 01 12:30AM BST |Tue, September 01 09:30AM AEST |
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Indy Car Series Season 4 |22 |1093 |Fixed |Texas Motor Speedway |Thu, September 03 08:00PM EDT |Fri, September 04 01:00AM BST |Fri, September 04 10:00AM AEST |
+|[CTC ARC Music IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14882){:target="_blank"} |ARC Music Season 2 |24 |2136 | |Watkins Glen International |Tue, September 01 08:00PM EDT |Wed, September 02 01:00AM BST |Wed, September 02 10:00AM AEST |
+|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Indy Car Series Season 4 |22 |1093 |Fixed | | | | |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S3 SECTRONIC INDY GOLD |20 |3149 |Both |Chicagoland Speedway |Sun, September 06 06:00PM EDT |Sun, September 06 11:00PM BST |Mon, September 07 08:00AM AEST |
 |[Indy Racing World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9599){:target="_blank"} |Season 8 |19 |1493 |Fixed |The Milwaukee Mile |Tue, September 01 09:50PM EDT |Wed, September 02 02:50AM BST |Wed, September 02 11:50AM AEST |
 |[HB & Friends IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14719){:target="_blank"} |HB&F Indycar Season 1 |19 |2083 |Fixed | | | | |
@@ -86,14 +87,14 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[GODLEAGUE SRP](https://members.iracing.com/membersite/member/LeagueView.do?league=14380){:target="_blank"} |División Titanes \- Temporada 1 |63 |2489 |Fixed | | | | |
 |[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |ERC F4 Challenge Series \| Season 2 |51 |1819 |Both | | | | |
-|[La Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11004){:target="_blank"} |Copa F4 \- Season V |50 |1911 |Both |Okayama International Circuit |Mon, August 31 08:10PM EDT |Tue, September 01 01:10AM BST |Tue, September 01 10:10AM AEST |
+|[La Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11004){:target="_blank"} |Copa F4 \- Season V |50 |1899 |Both |Autodromo Nazionale Monza |Mon, September 07 08:10PM EDT |Tue, September 08 01:10AM BST |Tue, September 08 10:10AM AEST |
 |[Skip Barber Formula iRacing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8170){:target="_blank"} |2026 Skip Barber iRacing Series |35 |5017 | | | | | |
 |[iRacing Israel](https://members.iracing.com/membersite/member/LeagueView.do?league=3928){:target="_blank"} |2026S3 F4 |33 |1718 | |Autodromo Nazionale Monza |Mon, September 07 01:30PM EDT |Mon, September 07 06:30PM BST |Tue, September 08 03:30AM AEST |
 |[Joshimuz\.com F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=13507){:target="_blank"} |Season RGGM |31 |1696 | |Oulton Park Circuit |Tue, September 01 01:00PM EDT |Tue, September 01 06:00PM BST |Wed, September 02 03:00AM AEST |
 |[Sim Racers Group Tuesday Intermediate](https://members.iracing.com/membersite/member/LeagueView.do?league=11451){:target="_blank"} |2026 S3 \- Americas Series |29 |1466 |Fixed |WeatherTech Raceway at Laguna Seca |Tue, September 01 08:58PM EDT |Wed, September 02 01:58AM BST |Wed, September 02 10:58AM AEST |
 |[ATRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=12412){:target="_blank"} |Temporada 09 \- F4 \- Cristal Water Piscinas Cup |26 |1398 |Both | | | | |
 |[Aðalbón Racing Team](https://members.iracing.com/membersite/member/LeagueView.do?league=12488){:target="_blank"} |F4 2026 by Aðalbón |24 |1717 |Open | | | | |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 39 \- FIA F4 |21 |1671 |Fixed |WeatherTech Raceway at Laguna Seca |Mon, August 31 02:00PM EDT |Mon, August 31 07:00PM BST |Tue, September 01 04:00AM AEST |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 39 \- FIA F4 |22 |1666 |Fixed | | | | |
 |[CLUBE DA VELOCIDADE](https://members.iracing.com/membersite/member/LeagueView.do?league=14506){:target="_blank"} |CDV \- T1/2026 \- FIA F4 |19 |2098 | | | | | |
 |[Revenant Racing F4 League](https://members.iracing.com/membersite/member/LeagueView.do?league=14687){:target="_blank"} |Revenant F4 Season 1 |19 |1230 | |Silverstone Circuit |Fri, August 28 08:00PM EDT |Sat, August 29 01:00AM BST |Sat, August 29 10:00AM AEST |
 |[MSS Esports National Championship 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=11926){:target="_blank"} |MSS Esports National Championship 2026 |19 |1723 | | | | | |
@@ -103,7 +104,7 @@
 |[ACTION Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9837){:target="_blank"} |F4 Challenge |16 |1383 |Fixed |Phillip Island Circuit |Sat, September 05 07:30PM EDT |Sun, September 06 12:30AM BST |Sun, September 06 09:30AM AEST |
 |[Apollo Racing Club \- Formula 4 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |ARC F4 Season 1 |16 |1725 |Fixed | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2026\-S3\-F4 Tuesday |15 |1761 |Both |Autodromo Nazionale Monza |Tue, September 01 08:00PM EDT |Wed, September 02 01:00AM BST |Wed, September 02 10:00AM AEST |
-|[ATRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=12412){:target="_blank"} |Temporada 11 \- F4 \- European AutoCare |15 |1508 |Both |Suzuka International Racing Course |Mon, August 31 08:30PM EDT |Tue, September 01 01:30AM BST |Tue, September 01 10:30AM AEST |
+|[ATRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=12412){:target="_blank"} |Temporada 11 \- F4 \- European AutoCare |15 |1480 |Both |Autodromo Nazionale Monza |Mon, September 07 08:30PM EDT |Tue, September 08 01:30AM BST |Tue, September 08 10:30AM AEST |
 |[ZP Motorsports League](https://members.iracing.com/membersite/member/LeagueView.do?league=4618){:target="_blank"} |ZPM Formula 4 |14 |1463 |Open | | | | |
 |[Zaddy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12158){:target="_blank"} |Summer Season 2026 FIA F4 |13 |1487 |Open | | | | |
 |[SKADS Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14118){:target="_blank"} |FIA F4 \- Season 1 |12 |1304 | |Road America |Thu, September 03 06:00AM EDT |Thu, September 03 11:00AM BST |Thu, September 03 08:00PM AEST |
@@ -118,18 +119,18 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-------------|--------------------------|--------------------------|---------------------------|
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026C WnS Formula Renault 3\.5 \- Waste Options |58 |2375 |Both |Hungaroring |Mon, August 31 04:57AM EDT |Mon, August 31 09:57AM BST |Mon, August 31 06:57PM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026C WnS Formula Renault 3\.5 \- Waste Options |59 |2376 |Both |Suzuka International Racing Course |Mon, September 07 04:12AM EDT |Mon, September 07 09:12AM BST |Mon, September 07 06:12PM AEST |
 
 ### Formula Vees - Base
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026C Formula Vee Sprint Series \- Disruptive Labs |69 |2229 |Both |Tsukuba Circuit |Thu, September 03 04:19AM EDT |Thu, September 03 09:19AM BST |Thu, September 03 06:19PM AEST |
 |[Formula Vee Trophy by TGR NATION](https://members.iracing.com/membersite/member/LeagueView.do?league=13632){:target="_blank"} |Formula Vee Trophy S3 |34 |3101 |Fixed |Oulton Park Circuit |Sun, September 06 06:59PM EDT |Sun, September 06 11:59PM BST |Mon, September 07 08:59AM AEST |
-|[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Formula Vee S1 \- Rookie Formula |25 |1505 |Both |Motorsport Arena Oschersleben |Mon, August 31 09:00PM EDT |Tue, September 01 02:00AM BST |Tue, September 01 11:00AM AEST |
+|[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |Formula Vee S1 \- Rookie Formula |25 |1517 |Both |Oulton Park Circuit |Mon, September 07 09:00PM EDT |Tue, September 08 02:00AM BST |Tue, September 08 11:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -152,7 +153,6 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------|----------------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[The Daredevil Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9822){:target="_blank"} |SEASON 7 |30 |2476 | | | | | |
 |[Retro CART League](https://members.iracing.com/membersite/member/LeagueView.do?league=8719){:target="_blank"} |Season 16 \(Lotus 79\) |30 |1232 |Fixed |WeatherTech Raceway at Laguna Seca |Fri, September 04 07:00PM EDT |Sat, September 05 12:00AM BST |Sat, September 05 09:00AM AEST |
 |[BTR TV \- Historic F1 Masters](https://members.iracing.com/membersite/member/LeagueView.do?league=12110){:target="_blank"} |Season 2/2026 |20 |2338 | |Autodromo Nazionale Monza |Sat, September 05 02:30PM EDT |Sat, September 05 07:30PM BST |Sun, September 06 04:30AM AEST |
 
@@ -201,15 +201,15 @@
 |[ProLine Esports Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11771){:target="_blank"} |FF1600 Cup |22 |2025 | |Oran Park Raceway |Thu, September 03 04:00AM EDT |Thu, September 03 09:00AM BST |Thu, September 03 06:00PM AEST |
 |[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG \- T2/2026 \- RAY FF1600 |21 |1635 | | | | | |
 |[JWB British Touring Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14433){:target="_blank"} |BFFS Season 1 |14 |2261 | | | | | |
-|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2026\-S3\-FF1600 Monday |11 |1732 |Both |Oran Park Raceway |Mon, August 31 08:00PM EDT |Tue, September 01 01:00AM BST |Tue, September 01 10:00AM AEST |
+|[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2026\-S3\-FF1600 Monday |11 |1733 |Both | | | | |
 
 ### Skip Barber Race Series
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------------------|-------|----|-----|-------------|--------|------|------|
-|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 36 |40 |3019 |Both | | | | |
+|-----------------------------------------------------------------------------------------------------------------|--------------------|-------|----|-----|--------------------|-----------------------------|-----------------------------|------------------------------|
+|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 36 |40 |3026 |Both |Brands Hatch Circuit |Mon, September 07 02:00PM EDT |Mon, September 07 07:00PM BST |Tue, September 08 04:00AM AEST |
 
 ### Super Formula Lights
 

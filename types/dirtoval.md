@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 358 Dirt Mods OPEN |113 |2574 |Open |Federated Auto Parts Raceway at I-55 |Mon, August 31 06:30PM EDT |Mon, August 31 11:30PM BST |Tue, September 01 08:30AM AEST |
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|------------------|-----------------------------|-----------------------------|------------------------------|
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 358 Dirt Mods OPEN |113 |2573 |Open | | | | |
 |[Monsters of Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=3310){:target="_blank"} |2026 Summer Modified Madness |66 |3214 |Fixed | | | | |
 |[Rocket Dirt Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14572){:target="_blank"} |RDRA 358 Mods |35 |2497 |Open | | | | |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Summer 2026 358 Modifieds |24 |2242 |Fixed | | | | |
@@ -81,17 +81,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|------------------------------------|--------------------------|-----------------------------|------------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|-----------------|-----------------------------|-----------------------------|------------------------------|
 |[RDR Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12319){:target="_blank"} |RDR Midget Series Season 2 |93 |3667 | | | | | |
 |[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Midgets Championship 2026 |62 |3162 | | | | | |
 |[Wheels Up Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12227){:target="_blank"} |season 2 |50 |3896 | | | | | |
-|[Virtual Racing Aotearoa 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |2026 National Midget Series Presented by SimBlacks |49 |2874 | | | | | |
+|[Virtual Racing Aotearoa 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |2026 National Midget Series Presented by SimBlacks |49 |2900 | | | | | |
 |[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} |NZMR Midgets 2026 |34 |1820 | | | | | |
-|[Velocity Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14787){:target="_blank"} |velocity midget season 1 |29 |1737 | |Federated Auto Parts Raceway at I-55 |Mon, August 31 08:00PM EDT |Tue, September 01 01:00AM BST |Tue, September 01 10:00AM AEST |
+|[Velocity Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14787){:target="_blank"} |velocity midget season 1 |30 |1766 | |Fairbury Speedway |Mon, September 07 08:00PM EDT |Tue, September 08 01:00AM BST |Tue, September 08 10:00AM AEST |
 |[Dirt Thunder Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8819){:target="_blank"} |Clash on the Clay 2026 |24 |1810 | | | | | |
 |[CJP](https://members.iracing.com/membersite/member/LeagueView.do?league=13529){:target="_blank"} |CJP midgets |19 |2200 | | | | | |
+|[Trench Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14583){:target="_blank"} |Midget |17 |1801 | |Huset's Speedway |Sun, September 06 09:00PM EDT |Mon, September 07 02:00AM BST |Mon, September 07 11:00AM AEST |
 |[NMRA \|\| National Midget Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14022){:target="_blank"} |NMRA Weekly Racing Season \#1 |16 |1612 |Open | | | | |
-|[Trench Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14583){:target="_blank"} |Midget |13 |1768 | |Kevin Harvick's Kern Raceway |Mon, August 31 09:00PM EDT |Tue, September 01 02:00AM BST |Tue, September 01 11:00AM AEST |
 |[Rocket Dirt Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14572){:target="_blank"} |RDRA midgets Seaon 1 |12 |1693 |Open | | | | |
 |[schure built suspension racing all gas](https://members.iracing.com/membersite/member/LeagueView.do?league=14602){:target="_blank"} |midwest midgets |10 |1521 | | | | | |
 
@@ -101,7 +101,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[RPES 305 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11709){:target="_blank"} |2026 RPES Slide Job Syndicate 305 Sprint Car Series |23 |2364 | |Eldora Speedway |Mon, August 31 08:30PM EDT |Tue, September 01 01:30AM BST |Tue, September 01 10:30AM AEST |
+|[RPES 305 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11709){:target="_blank"} |2026 RPES Slide Job Syndicate 305 Sprint Car Series |25 |2370 | | | | | |
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |Silver Bullet 305 Sprints |17 |2413 |Both |Federated Auto Parts Raceway at I-55 |Thu, September 03 07:55PM EDT |Fri, September 04 12:55AM BST |Fri, September 04 09:55AM AEST |
 |[West Coast Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14390){:target="_blank"} |305 Season 1 |12 |1673 |Fixed | | | | |
 
@@ -111,7 +111,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |83 |2742 |Open |Federated Auto Parts Raceway at I-55 |Mon, August 31 07:30PM EDT |Tue, September 01 12:30AM BST |Tue, September 01 09:30AM AEST |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- Renegades "A" Division |84 |2740 |Open | | | | |
 |[Northwoods Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8706){:target="_blank"} |Season 2 Northwoods 360 Sprint Series |67 |4582 | | | | | |
 |[DOB 360 Nationals A&B\-Main](https://members.iracing.com/membersite/member/LeagueView.do?league=3679){:target="_blank"} |2026 360 Nats Prelim \#1 |54 |3831 |Fixed | | | | |
 |[DOB 410 Nationals Prelim Night \#1](https://members.iracing.com/membersite/member/LeagueView.do?league=2770){:target="_blank"} |2026 360 Nats Prelim \#2 |49 |3643 |Open | | | | |
@@ -119,7 +119,7 @@
 |[Afb Lounge Dirt Speedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=12924){:target="_blank"} |AFB 360 2026 |40 |3290 | | | | | |
 |[Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13441){:target="_blank"} |360 Sprints |37 |2573 |Fixed |Knoxville Raceway |Tue, September 01 09:15PM EDT |Wed, September 02 02:15AM BST |Wed, September 02 11:15AM AEST |
 |[C2C \- Knoxville Nationals CHARITY](https://members.iracing.com/membersite/member/LeagueView.do?league=3983){:target="_blank"} |Qualifying Night\#2 |25 |2072 | | | | | |
-|[Signature Esports Dirt Series Powered By Klosterman Engraving](https://members.iracing.com/membersite/member/LeagueView.do?league=14138){:target="_blank"} |Season 1 |24 |2754 | |Lincoln Speedway |Mon, August 31 08:10PM EDT |Tue, September 01 01:10AM BST |Tue, September 01 10:10AM AEST |
+|[Signature Esports Dirt Series Powered By Klosterman Engraving](https://members.iracing.com/membersite/member/LeagueView.do?league=14138){:target="_blank"} |Season 1 |24 |2794 | | | | | |
 |[C2C \- Knoxville Nationals CHARITY](https://members.iracing.com/membersite/member/LeagueView.do?league=3983){:target="_blank"} |Hard Knox |21 |2051 | | | | | |
 |[C2C \- Knoxville Nationals CHARITY](https://members.iracing.com/membersite/member/LeagueView.do?league=3983){:target="_blank"} |Qualifying Night\#1 |20 |2346 | | | | | |
 |[Chrome Horn Racing Experience](https://members.iracing.com/membersite/member/LeagueView.do?league=11824){:target="_blank"} |Dirt Nation \- Season 2 \(360 Sprint\) |17 |2711 |Fixed | | | | |
@@ -152,17 +152,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|------------------------------------|--------------------------|-----------------------------|------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|----------------|-----------------------------|-----------------------------|------------------------------|
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2026 Port Royal Speedway |82 |3953 |Open | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2026 Williams Grove Speedway |82 |4014 |Open | | | | |
 |[DOB Kings Royal](https://members.iracing.com/membersite/member/LeagueView.do?league=3835){:target="_blank"} |2026 Kings Royal |78 |4349 | | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2026 Lincoln Speedway |77 |4232 |Open | | | | |
 |[2026 Sprintcar Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2026 Sprintcar Pro Invitational Series |58 |5186 | | | | | |
 |[iRacing Pennsylvania Posse](https://members.iracing.com/membersite/member/LeagueView.do?league=1878){:target="_blank"} |2026 Speedweek |46 |3893 |Open | | | | |
+|[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL 410 Sprintcar Championship 2026 |43 |3859 | |Lincoln Speedway |Mon, September 07 07:00AM EDT |Mon, September 07 12:00PM BST |Mon, September 07 09:00PM AEST |
 |[Virtual Racing Aotearoa 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |2026 National Sprintcar Series |39 |3522 | | | | | |
-|[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL 410 Sprintcar Championship 2026 |35 |3842 | |Cedar Lake Speedway |Mon, August 31 07:00AM EDT |Mon, August 31 12:00PM BST |Mon, August 31 09:00PM AEST |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- fixed 410 |31 |2669 |Open | | | | |
 |[banger nation sprint car series](https://members.iracing.com/membersite/member/LeagueView.do?league=14467){:target="_blank"} |summer nationals |30 |1996 | | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- fixed 410 |29 |2682 |Open |Federated Auto Parts Raceway at I-55 |Mon, August 31 08:00PM EDT |Tue, September 01 01:00AM BST |Tue, September 01 10:00AM AEST |
 |[Speedway Alliance Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11952){:target="_blank"} |SARL Outlaw Winged Sprint Series |23 |2834 |Both | | | | |
 |[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} |NZMR Sprint Cars |19 |1959 | | | | | |
 
@@ -185,14 +185,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|---------------------|--------------------------|-----------------------------|------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------|----|-----|---------------|-----------------------------|-----------------------------|------------------------------|
 |[Lone Star Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14655){:target="_blank"} |Lone Star Modified Series Season 1 |62 |2487 | | | | | |
 |[GSRA](https://members.iracing.com/membersite/member/LeagueView.do?league=14196){:target="_blank"} |GSRA SEASON 2 |41 |2903 | | | | | |
 |[DIRTKARS A MODS SERIES powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7932){:target="_blank"} |DIRTKARS A MODS SEASON 12 |30 |1944 | | | | | |
 |[Content House Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14018){:target="_blank"} |CHDS Season 0 |21 |1486 |Fixed | | | | |
+|[Trench Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14583){:target="_blank"} |UMP |20 |2048 | |Kokomo Speedway |Sun, September 06 10:00PM EDT |Mon, September 07 03:00AM BST |Mon, September 07 12:00PM AEST |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |UMP Modifieds 2026\.2 |19 |3367 |Open | | | | |
 |[Right Rear Racing Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=11227){:target="_blank"} |UMP League Presented by Mike M Designs |19 |2274 | | | | | |
-|[Trench Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14583){:target="_blank"} |UMP |19 |2056 | |Volusia Speedway Park |Mon, August 31 10:00PM EDT |Tue, September 01 03:00AM BST |Tue, September 01 12:00PM AEST |
 |[Full Throttle Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=9454){:target="_blank"} |UMP Summer Series 2026 |15 |4090 |Both | | | | |
 |[West Coast Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14390){:target="_blank"} |UMP Season 2 |10 |1408 |Fixed | | | | |
 
@@ -201,8 +201,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|------------------------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
 |[DIRTcar eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2026 DIRTcar eSports |170 |4440 |Fixed | | | | |
+|[Dirt Sprint Car Championship Series \(DSCCS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2547){:target="_blank"} |2026 DSCCS 410 Tour |119 |4807 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |110 |2577 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- Limited LM |108 |2520 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |107 |2498 |Open | | | | |
@@ -211,7 +212,7 @@
 |[2026 Sprintcar Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2026 PRACTICES |73 |None | | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- MIDGET |69 |2307 |Open | | | | |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |60 |2062 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |57 |2051 |Open |Federated Auto Parts Raceway at I-55 |Mon, August 31 01:30PM EDT |Mon, August 31 06:30PM BST |Tue, September 01 03:30AM AEST |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |58 |2050 |Open | | | | |
 |[Rocket Dirt Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14572){:target="_blank"} |RDRA Ump Mods |52 |2436 |Open | | | | |
 |[Dirt Track Junkies](https://members.iracing.com/membersite/member/LeagueView.do?league=13031){:target="_blank"} |Dirt Track Junkies Season 3 \(2026\) |46 |2538 |Fixed |Limaland Motorsports Park |Thu, September 03 10:50PM EDT |Fri, September 04 03:50AM BST |Fri, September 04 12:50PM AEST |
 |[Monsters of Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=3310){:target="_blank"} |Summer Specials 2026 |44 |3642 |Fixed | | | | |
