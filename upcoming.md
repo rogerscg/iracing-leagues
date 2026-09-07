@@ -12,7 +12,6 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Racers United](https://members.iracing.com/membersite/member/LeagueView.do?league=14037){:target="_blank"} |ARCA season 1 |Fixed |Talladega Superspeedway |Sun, September 13 09:30PM EDT |Mon, September 14 02:30AM BST |Mon, September 14 11:30AM AEST |
-|[Bootleg Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14060){:target="_blank"} |2026 Fall ARCA Season | |Chicagoland Speedway |Sun, September 06 08:00PM EDT |Mon, September 07 01:00AM BST |Mon, September 07 10:00AM AEST |
 |[The Race Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8289){:target="_blank"} |East Coast web printers arca series | |Daytona International Speedway |Mon, September 07 06:30PM EDT |Mon, September 07 11:30PM BST |Tue, September 08 08:30AM AEST |
 |[DOB Pavement Division](https://members.iracing.com/membersite/member/LeagueView.do?league=3678){:target="_blank"} |ARCA Season 2 |Fixed |Kansas Speedway |Sun, September 13 08:20PM EDT |Mon, September 14 01:20AM BST |Mon, September 14 10:20AM AEST |
 |[ARCA 727/MRL Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15212){:target="_blank"} |ARCA 727/MRL Series | |Phoenix Raceway |Mon, September 07 10:00PM EDT |Tue, September 08 03:00AM BST |Tue, September 08 12:00PM AEST |
@@ -41,11 +40,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Cup Series Season 12 |Fixed |Texas Motor Speedway |Wed, September 09 07:30PM EDT |Thu, September 10 12:30AM BST |Thu, September 10 09:30AM AEST |
 |[Outcast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=7861){:target="_blank"} |Outcast Racing League Season 12 | |Bristol Motor Speedway |Sun, September 13 03:00PM EDT |Sun, September 13 08:00PM BST |Mon, September 14 05:00AM AEST |
-|[IRONCLAD CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=15208){:target="_blank"} |Pre\-Season |Fixed |Pocono Raceway |Sun, September 06 08:30PM EDT |Mon, September 07 01:30AM BST |Mon, September 07 10:30AM AEST |
 |[Red Diamond Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11899){:target="_blank"} |RDRL Cup Series 2026\.2 | |Daytona International Speedway |Tue, September 08 08:30PM EDT |Wed, September 09 01:30AM BST |Wed, September 09 10:30AM AEST |
+|[FTSR Victory Fuel Cup Series \(Mondays @ 9pm EST\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2485){:target="_blank"} |2026\-C |Open |Darlington Raceway |Mon, September 07 08:00PM EDT |Tue, September 08 01:00AM BST |Tue, September 08 10:00AM AEST |
 
 ### NASCAR Cup
 
@@ -60,8 +59,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------------|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
+|------------------------------------------------------------------------------------------------------------------|---------------------------------|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
 |[DART National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14872){:target="_blank"} |DART National Series S1 | |EchoPark Speedway (Atlanta) |Mon, September 07 07:30PM EDT |Tue, September 08 12:30AM BST |Tue, September 08 09:30AM AEST |
+|[GT Meister Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10095){:target="_blank"} |GTMR O'Reilly Auto Parts Season 1 |Both |Charlotte Motor Speedway  |Mon, September 14 08:00PM EDT |Tue, September 15 01:00AM BST |Tue, September 15 10:00AM AEST |
 |[DrummondSim](https://members.iracing.com/membersite/member/LeagueView.do?league=614){:target="_blank"} |DRS Automne 2026 |Fixed |Texas Motor Speedway |Tue, September 08 07:00PM EDT |Wed, September 09 12:00AM BST |Wed, September 09 09:00AM AEST |
 
 ### NASCAR Truck Series
@@ -85,6 +85,7 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------|-----------------|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Fast Lane Motorsports  "Modifieds"](https://members.iracing.com/membersite/member/LeagueView.do?league=15061){:target="_blank"} |Modified Practice | |Southern National Motorsports Park |Fri, September 11 09:03PM EDT |Sat, September 12 02:03AM BST |Sat, September 12 11:03AM AEST |
+|[Fast Lane Motorsports  "Modifieds"](https://members.iracing.com/membersite/member/LeagueView.do?league=15061){:target="_blank"} |Modified Series 1 | |Southern National Motorsports Park |Mon, September 14 07:59PM EDT |Tue, September 15 12:59AM BST |Tue, September 15 09:59AM AEST |
 
 # Oval
 
@@ -115,6 +116,14 @@
 |[Racers United](https://members.iracing.com/membersite/member/LeagueView.do?league=14037){:target="_blank"} |SLM Tour |Fixed |Martinsville Speedway |Sat, September 12 09:30PM EDT |Sun, September 13 02:30AM BST |Sun, September 13 11:30AM AEST |
 
 # Open-wheel
+
+### Dallara IR18
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------------|------------------|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Shake & Bake Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12406){:target="_blank"} |S&B Indycar Series |Open |St. Petersburg Grand Prix |Mon, September 14 08:30PM EDT |Tue, September 15 01:30AM BST |Tue, September 15 10:30AM AEST |
 
 ### Formula Renault 2.0
 
@@ -158,14 +167,6 @@
 |-----------------------------------------------------------------------------------------------------------|-------------------------|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Copa Martillo](https://members.iracing.com/membersite/member/LeagueView.do?league=13946){:target="_blank"} |Copa Martillo Porsche Cup |Fixed |Suzuka International Racing Course |Fri, September 11 03:30PM EDT |Fri, September 11 08:30PM BST |Sat, September 12 05:30AM AEST |
 
-### Ford Mustang GT3
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|----------------------|-----------------------------|-----------------------------|------------------------------|
-|[Tri\-Nations Esports Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=11318){:target="_blank"} |2026 Tri\-Nations Esports Cup | |Mount Panorama Circuit |Sun, September 06 04:00AM EDT |Sun, September 06 09:00AM BST |Sun, September 06 06:00PM AEST |
-
 ### Ford Mustang GT4
 
 [Back to Top](#)  
@@ -203,23 +204,13 @@
 
 # Prototype
 
-### Radical SR8
+### GTP
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-------------------------|-----|--------------|-----------------------------|-----------------------------|------------------------------|
-|[Drivers Choice SR8 League](https://members.iracing.com/membersite/member/LeagueView.do?league=14234){:target="_blank"} |Drivers Choice SR8 League | |Circuit Zolder |Sun, September 06 02:00PM EDT |Sun, September 06 07:00PM BST |Mon, September 07 04:00AM AEST |
-
-# Rallycross
-
-### VW Beetle Lite
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-----|--------------------|-----------------------------|-----------------------------|------------------------------|
-|[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |09\. Sunday Night Lites \(September 2026 Season\) | |Lånkebanen (Hell RX) |Sun, September 06 08:45PM EDT |Mon, September 07 01:45AM BST |Mon, September 07 10:45AM AEST |
+|-------------------------------------------------------------------------------------------------------|---------------------------|-----|------------|-----------------------------|-----------------------------|------------------------------|
+|[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} |GTP MOTHER BITCHS\!\!\!\!\! | |Road Atlanta |Mon, September 14 09:15PM EDT |Tue, September 15 02:15AM BST |Tue, September 15 11:15AM AEST |
 
 # Dirt Road
 
@@ -238,24 +229,25 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
+|----------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[EGT Canada \- GT3 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10487){:target="_blank"} |S14 GT3 Series \(2026\) | |Sonoma Raceway |Thu, September 10 07:30PM EDT |Fri, September 11 12:30AM BST |Fri, September 11 09:30AM AEST |
-|[DMSB SimRacing Championship Sprint Series 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=1390){:target="_blank"} |DSRC\-Sprint – FP 7 | |Hockenheimring Baden-Württemberg |Sun, September 06 10:00AM EDT |Sun, September 06 03:00PM BST |Mon, September 07 12:00AM AEST |
 |[Slow Poke MotorSports](https://members.iracing.com/membersite/member/LeagueView.do?league=12835){:target="_blank"} |Slow Poke MotorSports GT3 Season 5 | |Sebring International Raceway |Wed, September 09 07:00PM EDT |Thu, September 10 12:00AM BST |Thu, September 10 09:00AM AEST |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |Piston Cup Fall 26 |Both |Hockenheimring Baden-Württemberg |Sat, September 12 08:00PM EDT |Sun, September 13 01:00AM BST |Sun, September 13 10:00AM AEST |
+|[DSR Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=13587){:target="_blank"} |DSR Season 2026\-27 |Fixed |Okayama International Circuit |Sun, September 13 01:00PM EDT |Sun, September 13 06:00PM BST |Mon, September 14 03:00AM AEST |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|--------------------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Ricmotech Mazda MX\-5 Super Series\-Official](https://members.iracing.com/membersite/member/LeagueView.do?league=4544){:target="_blank"} |Test Season | |Adelaide Street Circuit |Mon, September 07 06:18PM EDT |Mon, September 07 11:18PM BST |Tue, September 08 08:18AM AEST |
 |[ORCA \- Online Racing Championship Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14857){:target="_blank"} |Dakins Design Touring Car Series \(2026\) |Open |Indianapolis Motor Speedway |Sun, September 13 11:30AM EDT |Sun, September 13 04:30PM BST |Mon, September 14 01:30AM AEST |
 |[Summit Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14495){:target="_blank"} |Summit Racing Series Season 2 |Fixed |Daytona International Speedway |Mon, September 07 07:30PM EDT |Tue, September 08 12:30AM BST |Tue, September 08 09:30AM AEST |
 |[Wild West Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12651){:target="_blank"} |SuperSpeedway Shootout |Fixed |Daytona International Speedway |Mon, September 07 08:30PM EDT |Tue, September 08 01:30AM BST |Tue, September 08 10:30AM AEST |
 |[Burnouts Racing Garage](https://members.iracing.com/membersite/member/LeagueView.do?league=13921){:target="_blank"} |In Between Season Fun | |Circuit de Spa-Francorchamps |Fri, September 11 07:57PM EDT |Sat, September 12 12:57AM BST |Sat, September 12 09:57AM AEST |
 |[SOAGs Go Faster](https://members.iracing.com/membersite/member/LeagueView.do?league=13319){:target="_blank"} |Season 4 | |Circuit de Spa-Francorchamps |Fri, September 11 01:55PM EDT |Fri, September 11 06:55PM BST |Sat, September 12 03:55AM AEST |
+|[GR86 Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |Multi\=Class GT4's & TCR's |Both |Autodromo Internazionale Enzo e Dino Ferrari |Tue, September 08 03:00PM EDT |Tue, September 08 08:00PM BST |Wed, September 09 05:00AM AEST |
 |[BNR Imsa](https://members.iracing.com/membersite/member/LeagueView.do?league=7582){:target="_blank"} |Season 2 | |Daytona International Speedway |Thu, September 10 07:00PM EDT |Fri, September 11 12:00AM BST |Fri, September 11 09:00AM AEST |
 |[Mid Atlantic Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10854){:target="_blank"} |MARS Season 8 \(Next Gen\) | |Daytona International Speedway |Tue, September 08 06:25PM EDT |Tue, September 08 11:25PM BST |Wed, September 09 08:25AM AEST |
 |[OTAe presented by HIP Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=5548){:target="_blank"} |OTAe 2026/27 \- Road |Fixed |Okayama International Circuit |Wed, September 09 07:00PM EDT |Thu, September 10 12:00AM BST |Thu, September 10 09:00AM AEST |

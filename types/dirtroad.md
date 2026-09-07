@@ -22,7 +22,7 @@
 |[TopBox off\-road racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |Season 1 2026 Pros Vs\. Joes \(Pro2 vs\. Pro 4 |39 |2859 | | | | | |
 |[TopBox off\-road racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |Test session |25 |3347 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks East \- 2026/Jul \(Thurs\) |23 |2914 |Fixed | | | | |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO 2/4 \- 20/20 Invert Championship |10 |1555 |Fixed |Knoxville Raceway |Sun, September 06 08:00PM EDT |Mon, September 07 01:00AM BST |Mon, September 07 10:00AM AEST |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO 2/4 \- 20/20 Invert Championship |15 |1525 |Fixed |Fairbury Speedway |Sun, September 13 08:00PM EDT |Mon, September 14 01:00AM BST |Mon, September 14 10:00AM AEST |
 
 ### Pro 2 Lite Truck
 
