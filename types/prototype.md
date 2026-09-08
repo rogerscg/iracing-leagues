@@ -19,8 +19,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------|-----------------------|-------|---|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Series Season 2 |11 |968 |Fixed |Circuit des 24 Heures du Mans |Mon, September 07 08:00PM EDT |Tue, September 08 01:00AM BST |Tue, September 08 10:00AM AEST |
+|--------------------------------------------------------------------------------------------------------------|-----------------------|-------|---|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR GTP Series Season 2 |11 |902 |Fixed |Watkins Glen International |Mon, September 14 08:00PM EDT |Tue, September 15 01:00AM BST |Tue, September 15 10:00AM AEST |
 
 ### Hosted All Cars Class
 
@@ -46,9 +46,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-------------|-----------------------------|-----------------------------|------------------------------|
 |[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 2 |17 |1931 | | | | | |
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 9 |16 |2802 | |Circuit de Spa-Francorchamps |Mon, September 07 02:50PM EDT |Mon, September 07 07:50PM BST |Tue, September 08 04:50AM AEST |
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 9 |16 |2790 | |Road America |Mon, September 14 02:50PM EDT |Mon, September 14 07:50PM BST |Tue, September 15 04:50AM AEST |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 2 |13 |1554 |Both | | | | |
 
 ### Riley Daytona Prototype

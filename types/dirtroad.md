@@ -9,6 +9,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-------|----|-----|-------------|--------|------|------|
+|[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2026 \- CROSSCAR YACHT45MTL |26 |2467 |Fixed | | | | |
 |[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |ERC RX Dev League \| S1 |23 |1420 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Mega Rallycross/Cross Car \- 2026 \(Sat\) |18 |2515 |Fixed | | | | |
 |[NASA Cross Car and Pro 4](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Crosscar 2026A |16 |3815 |Both | | | | |
@@ -29,12 +30,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-----------------------------|-----------------------------|-----------------------------|------------------------------|
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 13 \- Pro 2 Lites |85 |3080 | | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO2 20/20 fights |40 |1442 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/TINYTRUCK \- 2026 |30 |3312 |Fixed | | | | |
 |[RedLine Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14878){:target="_blank"} |Season one pro lite |16 |1928 | | | | | |
-|[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Street Truck Series |13 |1351 |Both |St. Petersburg Grand Prix |Mon, September 07 06:00AM EDT |Mon, September 07 11:00AM BST |Mon, September 07 08:00PM AEST |
+|[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Street Truck Series |13 |1337 |Both |Miami International Autodrome |Mon, September 14 06:00AM EDT |Mon, September 14 11:00AM BST |Mon, September 14 08:00PM AEST |
 
 ### Pro 2 Truck
 
