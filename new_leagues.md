@@ -2,10 +2,6 @@
 
 | League Name | Discord | About |
 |------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Intervarsity Motorsport Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=15201){:target="_blank"} | | |
-|[NAVF4](https://members.iracing.com/membersite/member/LeagueView.do?league=15199){:target="_blank"} | |F4 Series Offshoot of the North American Virtual Formula League |
-|[Put Your Money Where Your Mouth Is\!](https://members.iracing.com/membersite/member/LeagueView.do?league=15200){:target="_blank"} | |Let's make it interesting\! ENTRY FEE league with payouts every race and season end points\! Every driver pays small entry fee per race, and the top 5 get paid every race, and at seasons end\. 1st\- 36% of prize pool2nd\- 23%3rd\- 16%4th\- 10%5th\- 5%10% of every race purse will go towards season end Prize Purse and hosting\.\*\*\* ENTRY FEES \- $8 per race for FIXED Setup Races, $10 per race for OPEN Setup Races \*\*\*Got what it takes to race for CA$H?? |
-|[TRS](https://members.iracing.com/membersite/member/LeagueView.do?league=15198){:target="_blank"} | | |
 |[ARCA 727/MRL Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15212){:target="_blank"} |[Discord](https://discord.gg/nHNFdFUU6q){:target="_blank"} |Monday night 7PM PST\. Bringing it back to the classic local Saturday night short track racing\. Promoting some hard door to door battles and great finishes trying to make racing fun for the racers and fans\. |
 |[Gen\-4 Fury Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=15206){:target="_blank"} |[Discord](https://discord.gg/y67S6gBcDD){:target="_blank"} | |
 |[IRONCLAD CUP SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=15208){:target="_blank"} |[Discord](https://discord.gg/5ZApqVtVKF){:target="_blank"} |2500 IR CapFixed Setups75% Fuel3 GWC1 Fast Repair1 Stage Break at 25% Race Length |
@@ -79,4 +75,10 @@
 |[SIMmark Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15292){:target="_blank"} | |SIMmarkova iRacing liga |
 |[TZO Designs Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15295){:target="_blank"} |[Discord](https://discord.gg/7BfMNhQNB){:target="_blank"} |NASCAR Truck League |
 |[AFFINITY RACING Football League](https://members.iracing.com/membersite/member/LeagueView.do?league=15294){:target="_blank"} | |CTS\-V Oval/Road League Meets Football |
+|[Blackbucket Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15305){:target="_blank"} | | |
+|[DIRT BROSSS](https://members.iracing.com/membersite/member/LeagueView.do?league=15304){:target="_blank"} | |BUNCH OF FRIENDS AND GOOD RACEING |
+|[ESSEF 2026\-2027](https://members.iracing.com/membersite/member/LeagueView.do?league=15299){:target="_blank"} | |Official Race Series of the Empire State Scholastic Esports Federation |
+|[kaleb's playground test](https://members.iracing.com/membersite/member/LeagueView.do?league=15300){:target="_blank"} | | |
+|[Racetube Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15306){:target="_blank"} | |Late Model Stock |
+|[❂💫✨🌃](https://members.iracing.com/membersite/member/LeagueView.do?league=15301){:target="_blank"} | | |
 
