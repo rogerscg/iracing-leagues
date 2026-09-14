@@ -8,8 +8,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
-|[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2026 \- CROSSCAR YACHT45MTL |26 |2467 |Fixed |Charlotte Motor Speedway  |Sun, September 13 06:15PM EDT |Sun, September 13 11:15PM BST |Mon, September 14 08:15AM AEST |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------|-------|----|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[ALLTRACK CHALLENGE](https://members.iracing.com/membersite/member/LeagueView.do?league=7561){:target="_blank"} |2026 \- CROSSCAR YACHT45MTL |38 |2227 |Fixed |Bark River International Raceway |Sun, September 20 06:15PM EDT |Sun, September 20 11:15PM BST |Mon, September 21 08:15AM AEST |
 |[Esports Racing Canada](https://members.iracing.com/membersite/member/LeagueView.do?league=13095){:target="_blank"} |ERC RX Dev League \| S1 |23 |1420 |Both | | | | |
 |[NASA Cross Car and Pro 4](https://members.iracing.com/membersite/member/LeagueView.do?league=9773){:target="_blank"} |Crosscar 2026A |16 |3815 |Both | | | | |
 
@@ -18,11 +18,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|-----------------|-----------------------------|-----------------------------|------------------------------|
-|[TopBox off\-road racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |Season 1 2026 Pros Vs\. Joes \(Pro2 vs\. Pro 4 |39 |2859 | | | | | |
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
+|[TopBox off\-road racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |Season 1 2026 Pros Vs\. Joes \(Pro2 vs\. Pro 4 |41 |2809 | | | | | |
 |[TopBox off\-road racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |Test session |25 |3347 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2x4 Trucks East \- 2026/Jul \(Thurs\) |23 |2914 |Fixed | | | | |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO 2/4 \- 20/20 Invert Championship |15 |1525 |Fixed |Fairbury Speedway |Sun, September 13 08:00PM EDT |Mon, September 14 01:00AM BST |Mon, September 14 10:00AM AEST |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO 2/4 \- 20/20 Invert Championship |17 |1554 |Fixed |Kevin Harvick's Kern Raceway |Sun, September 20 08:00PM EDT |Mon, September 21 01:00AM BST |Mon, September 21 10:00AM AEST |
 
 ### Pro 2 Lite Truck
 

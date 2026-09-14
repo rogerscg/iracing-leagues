@@ -40,7 +40,6 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-------------|-----------------------------|-----------------------------|------------------------------|
-|[DriVR Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13922){:target="_blank"} |Season 2 |17 |1931 | | | | | |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 9 |16 |2790 | |Road America |Mon, September 14 02:50PM EDT |Mon, September 14 07:50PM BST |Tue, September 15 04:50AM AEST |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 2 |13 |1554 |Both | | | | |
 

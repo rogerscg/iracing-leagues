@@ -25,8 +25,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|-------------|--------|------|------|
+|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------|----|-----|--------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |07\. Sunday Night Lites \(July 2026 Season\) |20 |3444 | | | | | |
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |08\. Sunday Night Lites \(August 2026 Season\) |20 |3594 | | | | | |
+|[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |09\. Sunday Night Lites \(September 2026 Season\) |17 |3259 | |Daytona Rallycross and Dirt Road |Sun, September 20 08:45PM EDT |Mon, September 21 01:45AM BST |Mon, September 21 10:45AM AEST |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Freeplay/Class 11X \- 2026 |13 |3344 |Fixed | | | | |
 
