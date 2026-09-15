@@ -8,11 +8,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|--------------|-------|----|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------|----|-----|-----------------------|-----------------------------|-----------------------------|------------------------------|
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 2 |100 |3190 |Open | | | | |
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 1 |99 |4945 |Open | | | | |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Season 3, 2026 |40 |2435 |Open |Adelaide Street Circuit |Tue, September 15 04:00AM EDT |Tue, September 15 09:00AM BST |Tue, September 15 06:00PM AEST |
 |[Armenian Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13813){:target="_blank"} |BWW M2 CS CUP |10 |1439 | | | | | |
+|[FSRS Fun series](https://members.iracing.com/membersite/member/LeagueView.do?league=10179){:target="_blank"} |FSRS Caterham night |10 |2134 | | | | | |
 
 ### NEC M2 Cup
 
@@ -25,7 +26,7 @@
 |[GHD M2 CUP SAISON 2](https://members.iracing.com/membersite/member/LeagueView.do?league=9677){:target="_blank"} |GHD M2 CUP Saison 2 |44 |2704 | | | | | |
 |[AW Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11496){:target="_blank"} |AW Racing M2 |41 |1962 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2026 S3 BMW M2 Cup |37 |3179 |Both | | | | |
-|[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |BMW M2 S1 \- Rookie Road |37 |1376 |Both |Circuit de Lédenon |Mon, September 14 08:00PM EDT |Tue, September 15 01:00AM BST |Tue, September 15 10:00AM AEST |
+|[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |BMW M2 S1 \- Rookie Road |37 |1386 |Both | | | | |
 |[Mybroga Iracing](https://members.iracing.com/membersite/member/LeagueView.do?league=13580){:target="_blank"} |MYBROGA BMW M2 Racing \(G87\) \- Season 1 |33 |1404 |Fixed | | | | |
 |[TRC \- The Racing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=12484){:target="_blank"} |TRC M2 World Tour |27 |1774 |Both | | | | |
 |[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |M2 Cup Season 10 |24 |2298 |Both | | | | |
@@ -36,6 +37,7 @@
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |GVM Season 4 |17 |1667 | |Summit Point Raceway |Tue, September 15 08:00PM EDT |Wed, September 16 01:00AM BST |Wed, September 16 10:00AM AEST |
 |[Federación de Automovilismo Deportivo Uruguayo](https://members.iracing.com/membersite/member/LeagueView.do?league=14372){:target="_blank"} |CAMPEONATO BMW M2 G87 |17 |1495 | | | | | |
 |[E\-Sports SimRacing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=14064){:target="_blank"} |Summer League |15 |2162 |Open | | | | |
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |BMW M2 Cup 2026 |14 |2201 |Open | | | | |
 |[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S6 |13 |1316 |Fixed | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2026\-S3\-M2 Wednesday |10 |1968 |Both | | | | |
 
@@ -54,6 +56,5 @@
 |[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |V8 GEN 3 SUPERCARS SEASON 10 |37 |1760 |Both | | | | |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold V8 Thursdays \- Season 2 2026 |30 |1580 | |Circuit Zandvoort |Thu, September 17 05:30AM EDT |Thu, September 17 10:30AM BST |Thu, September 17 07:30PM AEST |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 19 |22 |4226 |Open | | | | |
-|[OZ\-E Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13131){:target="_blank"} |GT3 Challenge S6 |13 |None |Both | | | | |
 |[ESR Casual](https://members.iracing.com/membersite/member/LeagueView.do?league=3457){:target="_blank"} |VM i Sommer Casual 2026 |11 |1724 | | | | | |
 
