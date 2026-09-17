@@ -21,10 +21,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|-------------|--------|------|------|
+|-----------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
 |[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Xtreme Big Blocks Series 2026 |53 |3381 | | | | | |
 |[RPES Dirt Modified Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11710){:target="_blank"} |2026 RPES Dirt Modified Series |37 |3565 | | | | | |
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |SBRL Fixed Big Block Mod 26S2 |30 |3054 |Both | | | | |
+|[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB Big Blocks Season 9 |27 |3861 |Open |Limaland Motorsports Park |Wed, September 23 09:00PM EDT |Thu, September 24 02:00AM BST |Thu, September 24 11:00AM AEST |
 |[The Big Dance super series](https://members.iracing.com/membersite/member/LeagueView.do?league=14737){:target="_blank"} |2026 Big Block\`s Summer Show Down |16 |1825 |Fixed | | | | |
 
 ### Dirt Late Model - Limited
@@ -102,7 +103,7 @@
 |[RPES 305 Sprint Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11709){:target="_blank"} |2026 RPES Slide Job Syndicate 305 Sprint Car Series |27 |2388 | |Volusia Speedway Park |Mon, September 21 08:30PM EDT |Tue, September 22 01:30AM BST |Tue, September 22 10:30AM AEST |
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |Silver Bullet 305 Sprints |20 |2365 |Both |Huset's Speedway |Thu, September 17 07:55PM EDT |Fri, September 18 12:55AM BST |Fri, September 18 09:55AM AEST |
 |[West Coast Dirt Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14390){:target="_blank"} |305 Season 1 |12 |1673 |Fixed | | | | |
-|[SDC DIRT](https://members.iracing.com/membersite/member/LeagueView.do?league=15284){:target="_blank"} |SDC Dirt season 1 |10 |1273 | |Limaland Motorsports Park |Sun, September 20 04:00PM EDT |Sun, September 20 09:00PM BST |Mon, September 21 06:00AM AEST |
+|[SDC](https://members.iracing.com/membersite/member/LeagueView.do?league=15284){:target="_blank"} |SDC Dirt season 1 |10 |1273 | |Limaland Motorsports Park |Sun, September 20 04:00PM EDT |Sun, September 20 09:00PM BST |Mon, September 21 06:00AM AEST |
 
 ### Dirt SprintCar - 360
 
@@ -177,7 +178,7 @@
 |[JSI Just Send It Simsports](https://members.iracing.com/membersite/member/LeagueView.do?league=5187){:target="_blank"} |Bump & Burn Street Stock series |52 |3328 | |USA International Speedway |Sun, September 20 04:30AM EDT |Sun, September 20 09:30AM BST |Sun, September 20 06:30PM AEST |
 |[Dirty South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11933){:target="_blank"} |Sunday Night Show Down |42 |4266 |Fixed | | | | |
 |[Monsters of Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=3310){:target="_blank"} |MOD STREET STOCK \(Season 18\) |34 |4814 |Fixed |Huset's Speedway |Tue, September 22 07:30PM EDT |Wed, September 23 12:30AM BST |Wed, September 23 09:30AM AEST |
-|[Dirt Warrior Racing League \(DWRL presented by DWR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2763){:target="_blank"} |Season 24 WNSF |28 |4224 |Fixed | | | | |
+|[Dirt Warrior Racing League \(DWRL presented by DWR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2763){:target="_blank"} |Season 24 WNSF |32 |4230 |Fixed | | | | |
 |[DIRTKARS STREET STOCKS powered by RMRL](https://members.iracing.com/membersite/member/LeagueView.do?league=7157){:target="_blank"} |DIRTKARS STEET STOCKS SEASON 12 |24 |1933 | | | | | |
 |[SDS Race Night In America Hooked Super Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=14589){:target="_blank"} |Outlaw Street Stocks |22 |4226 | |Knoxville Raceway |Fri, September 18 09:00PM EDT |Sat, September 19 02:00AM BST |Sat, September 19 11:00AM AEST |
 |[Dirty South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11933){:target="_blank"} |Sunday Night Show Downs |21 |4443 |Fixed | | | | |
@@ -203,17 +204,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|-------------------|-----------------------------|-----------------------------|------------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------|----|-----|---------------------------|-----------------------------|-----------------------------|------------------------------|
 |[DIRTcar eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=10762){:target="_blank"} |2026 DIRTcar eSports |170 |4440 |Fixed |Oswego Speedway |Tue, September 22 09:00PM EDT |Wed, September 23 02:00AM BST |Wed, September 23 11:00AM AEST |
 |[Dirt Sprint Car Championship Series \(DSCCS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=2547){:target="_blank"} |2026 DSCCS 410 Tour |125 |4852 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |110 |2579 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- BIG  BLOCK MODS |110 |2579 |Open |Limaland Motorsports Park |Thu, September 17 07:30PM EDT |Fri, September 18 12:30AM BST |Fri, September 18 09:30AM AEST |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- Limited LM |108 |2529 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |107 |2502 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |105 |2663 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- 360 |107 |2510 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- PRO LATE MODELS |105 |2663 |Open |The Dirt Track at Charlotte |Thu, September 17 08:00PM EDT |Fri, September 18 01:00AM BST |Fri, September 18 10:00AM AEST |
 |[Monsters of Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=3310){:target="_blank"} |2026 Summer Touring UMP Modified Series |93 |3650 |Fixed | | | | |
 |[2026 Sprintcar Pro Invitational Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4900){:target="_blank"} |2026 PRACTICES |73 |None | | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- MIDGET |69 |2313 |Open | | | | |
-|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |60 |2066 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- HH \- MIDGET |69 |2316 |Open | | | | |
+|[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 358 DIRT MODS |60 |2066 |Open |Limaland Motorsports Park |Thu, September 17 01:30PM EDT |Thu, September 17 06:30PM BST |Fri, September 18 03:30AM AEST |
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- MATINEE 360 |58 |2051 |Open | | | | |
 |[Rocket Dirt Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14572){:target="_blank"} |RDRA Ump Mods |52 |2436 |Open | | | | |
 |[Virtual Racing Aotearoa 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=11054){:target="_blank"} |2026 National Midget Series Presented by SimBlacks |51 |2929 | | | | | |
@@ -221,7 +222,7 @@
 |[Monsters of Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=3310){:target="_blank"} |Summer Specials 2026 |44 |3642 |Fixed | | | | |
 |[Gray Fox Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10444){:target="_blank"} |Tuesday Night Dirt Series |35 |1730 |Fixed | | | | |
 |[banger nation sprint car series](https://members.iracing.com/membersite/member/LeagueView.do?league=14467){:target="_blank"} |fast lane racing 2 |31 |2138 | | | | | |
-|[Raging Idiot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11176){:target="_blank"} |Fast Fred Wrap Shop Dirt Series |31 |1979 |Fixed | | | | |
+|[Raging Idiot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11176){:target="_blank"} |Fast Fred Wrap Shop Dirt Series |31 |1979 |Fixed |Port Royal Speedway |Sun, September 20 07:00PM EDT |Mon, September 21 12:00AM BST |Mon, September 21 09:00AM AEST |
 |[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |X\.5 No Man's Land Dirt Series |30 |2288 |Fixed |Port Royal Speedway |Fri, September 18 09:00PM EDT |Sat, September 19 02:00AM BST |Sat, September 19 11:00AM AEST |
 |[Glenn Dirt Tour \[GDT\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13485){:target="_blank"} |GDT |29 |2440 | | | | | |
 |[Trench Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14583){:target="_blank"} |Micro Outlaws Season 1 |22 |1751 | | | | | |
