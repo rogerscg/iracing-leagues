@@ -11,8 +11,8 @@
 |---------------------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|--------------------------|-----------------------------|-----------------------------|------------------------------|
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |25 |1739 | | | | | |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN LMP2 Series |24 |2282 | | | | | |
+|[CRC Virtual Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=10980){:target="_blank"} |Season 4 |19 |2359 |Both |Watkins Glen International |Tue, September 22 08:00PM EDT |Wed, September 23 01:00AM BST |Wed, September 23 10:00AM AEST |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |18 |1395 | | | | | |
-|[CRC Virtual Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=10980){:target="_blank"} |Season 4 |16 |2359 |Both |Watkins Glen International |Tue, September 22 08:00PM EDT |Wed, September 23 01:00AM BST |Wed, September 23 10:00AM AEST |
 |[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |12 |2896 |Both | | | | |
 
 ### Hosted All Cars Class
@@ -40,8 +40,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-----------------|-----------------------------|-----------------------------|------------------------------|
-|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 9 |16 |2781 | |Circuit Zandvoort |Mon, September 21 02:50PM EDT |Mon, September 21 07:50PM BST |Tue, September 22 04:50AM AEST |
+|---------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-------------------------|-----------------------------|-----------------------------|------------------------------|
+|[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 9 |16 |2774 | |Autodromo Nazionale Monza |Mon, September 28 02:50PM EDT |Mon, September 28 07:50PM BST |Tue, September 29 04:50AM AEST |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |Radical SR8 Season 2 |13 |1554 |Both | | | | |
 
 ### Riley Daytona Prototype

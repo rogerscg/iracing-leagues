@@ -21,8 +21,8 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|-------|----|-----|-----------------------------------------------|-----------------------------|-----------------------------|------------------------------|
 |[FMA](https://members.iracing.com/membersite/member/LeagueView.do?league=11768){:target="_blank"} |FMA John Dobias Busch Series |23 |2062 |Fixed |Nashville Fairgrounds Speedway |Sun, September 27 08:30PM EDT |Mon, September 28 01:30AM BST |Mon, September 28 10:30AM AEST |
-|[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2026 \- OBRL Winter BUSCH SERIES \- Thursday |16 |2036 |Fixed | | | | |
-|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |01 \- Monday Fall Series |14 |1335 |Fixed |New Hampshire Motor Speedway |Mon, September 21 07:55PM EDT |Tue, September 22 12:55AM BST |Tue, September 22 09:55AM AEST |
+|[Worn Out Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=652){:target="_blank"} |01 \- Monday Fall Series |16 |1462 |Fixed | | | | |
+|[The OBRL presented by VctryLnSprts](https://members.iracing.com/membersite/member/LeagueView.do?league=2293){:target="_blank"} |2026 \- OBRL Winter BUSCH SERIES \- Thursday |16 |2036 |Fixed |Chicagoland Speedway |Thu, September 24 08:00PM EDT |Fri, September 25 01:00AM BST |Fri, September 25 10:00AM AEST |
 |[Ten10 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13434){:target="_blank"} |Oval Thursday \- Season 4 \- Gen 4 Grand National \(Legacy ARCA\) |11 |1986 |Fixed |[Legacy] Michigan International Speedway - 2009 |Thu, September 24 08:00PM EDT |Fri, September 25 01:00AM BST |Fri, September 25 10:00AM AEST |
 
 ### Hosted All Cars Class
@@ -36,7 +36,7 @@
 |[APEX THIS](https://members.iracing.com/membersite/member/LeagueView.do?league=3265){:target="_blank"} |S28 \- Oval Wednesday |33 |1971 |Both | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |2026 Summer CARS Tour |30 |1783 | | | | | |
 |[ACE Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11938){:target="_blank"} |2026 Ace Mini Stock Series Season 1 |19 |2240 |Fixed | | | | |
-|[Mystic Mini Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13666){:target="_blank"} |2026 Mystic Mini Stock Tour |16 |2249 | |Hickory Motor Speedway |Mon, September 21 07:30PM EDT |Tue, September 22 12:30AM BST |Tue, September 22 09:30AM AEST |
+|[Mystic Mini Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=13666){:target="_blank"} |2026 Mystic Mini Stock Tour |19 |2246 | |Langley Speedway |Mon, September 28 07:30PM EDT |Tue, September 29 12:30AM BST |Tue, September 29 09:30AM AEST |
 |[After Hours Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12460){:target="_blank"} |AHR s3 |14 |2137 | |Southern National Motorsports Park |Sun, September 27 07:58PM EDT |Mon, September 28 12:58AM BST |Mon, September 28 09:58AM AEST |
 |[Apex Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9523){:target="_blank"} |ASRL Mini Stocks Season 2 |13 |1709 | |Darlington Raceway |Thu, September 24 08:00PM EDT |Fri, September 25 01:00AM BST |Fri, September 25 10:00AM AEST |
 
@@ -45,19 +45,19 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------|----|-----|----------------------------------|-----------------------------|-----------------------------|------------------------------|
-|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Monday Late Model Stock Season 5 |67 |2002 | |Thompson Speedway Motorsports Park |Mon, September 21 07:30PM EDT |Tue, September 22 12:30AM BST |Tue, September 22 09:30AM AEST |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------|----|-----|------------------------------|-----------------------------|-----------------------------|------------------------------|
+|[Xcelerate Racing 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=5884){:target="_blank"} |XRL Monday Late Model Stock Season 5 |68 |2006 | |The Bullring |Mon, September 28 07:30PM EDT |Tue, September 29 12:30AM BST |Tue, September 29 09:30AM AEST |
 |[ASCA \- Alliance Stock Car Association](https://members.iracing.com/membersite/member/LeagueView.do?league=11125){:target="_blank"} |ASCA TorqueLabs Showdown |56 |3505 |Fixed | | | | |
 |[GSG Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=14546){:target="_blank"} |Season 1 |46 |1542 | | | | | |
 |[SFR LMS Series Season 2](https://members.iracing.com/membersite/member/LeagueView.do?league=13663){:target="_blank"} |SFR Season 2 |43 |2303 | | | | | |
 |[Freedom Racing Late Model Championship Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14559){:target="_blank"} |Freedom Racing Late Model Championship Series Season One |42 |1751 | | | | | |
-|[3 J's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12909){:target="_blank"} |GREASE THROTTLE TUESDAY LATE MODEL STOCK SERIES S2 |38 |1798 |Open | | | | |
+|[3 J's Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12909){:target="_blank"} |GREASE THROTTLE TUESDAY LATE MODEL STOCK SERIES S2 |38 |1798 |Both | | | | |
 |[Lead Foot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11831){:target="_blank"} |LFRL LMSC Tour Season 6 \(FSP Pro Series\) |37 |3744 |Fixed | | | | |
 |[Pro American Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9011){:target="_blank"} |Season 8 |36 |2728 |Fixed | | | | |
 |[Elite Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14556){:target="_blank"} |Tier 1 Summer series |36 |2582 | | | | | |
 |[Lead Foot Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11831){:target="_blank"} |LFRL LMSC Tour Season 6 \(ETD Challenger Series\) |34 |2023 |Fixed | | | | |
 |[Bushwacker Race Team](https://members.iracing.com/membersite/member/LeagueView.do?league=9770){:target="_blank"} |Bushwacker Late Model Season 2 |34 |2294 | | | | | |
-|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Late Model Stock THE RETURN |33 |2542 |Both | | | | |
+|[Crooked Line Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=3761){:target="_blank"} |Late Model Stock THE RETURN |33 |2556 |Both | | | | |
 |[National Outlaw Racing Association \| \(NORA\)](https://members.iracing.com/membersite/member/LeagueView.do?league=12407){:target="_blank"} |\(S1\) \| Outlaw Tour |33 |2033 |Fixed | | | | |
 |[Elite Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14556){:target="_blank"} |ERA Challenger Series S1 |32 |1759 | | | | | |
 |[Racers Elite \- Wednesday Late Model Stock Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9180){:target="_blank"} |Racers Elite \- Late Model Stock Fixed Series \(Season 1\) |31 |1848 |Fixed | | | | |
@@ -84,9 +84,9 @@
 |[Tobacco Road Late Model Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=14915){:target="_blank"} |Season 1 |14 |1622 | | | | | |
 |[Blue Collar Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15161){:target="_blank"} |BCRL LMSC |14 |1862 |Fixed | | | | |
 |[Reverb Series by Output Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10645){:target="_blank"} |2026 S2 Late Model Stocks |13 |3047 |Fixed |Bristol Motor Speedway |Thu, September 24 10:55PM EDT |Fri, September 25 03:55AM BST |Fri, September 25 12:55PM AEST |
-|[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |2026 Fall Short Track Series |12 |1395 | |South Boston Speedway |Mon, September 21 08:00PM EDT |Tue, September 22 01:00AM BST |Tue, September 22 10:00AM AEST |
+|[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |2026 Fall Short Track Series |12 |1416 | |Five Flags Speedway |Mon, September 28 08:00PM EDT |Tue, September 29 01:00AM BST |Tue, September 29 10:00AM AEST |
 |[SRA \- Pro Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11586){:target="_blank"} |SRA \- Pro Late Model Series \- Fall 2026 Season |12 |2205 |Fixed |Lanier National Speedway |Thu, September 24 08:00PM EDT |Fri, September 25 01:00AM BST |Fri, September 25 10:00AM AEST |
-|[Torque Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13963){:target="_blank"} |Hometown Series |10 |1330 | |The Bullring |Mon, September 21 08:00PM EDT |Tue, September 22 01:00AM BST |Tue, September 22 10:00AM AEST |
+|[Torque Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13963){:target="_blank"} |Hometown Series |10 |1326 | |The Bullring |Mon, September 28 08:00PM EDT |Tue, September 29 01:00AM BST |Tue, September 29 10:00AM AEST |
 
 ### Legends
 
@@ -120,10 +120,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|---------------------|-----------------------------|-----------------------------|------------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------|-------|----|-----|------------------|-----------------------------|-----------------------------|------------------------------|
 |[yourBIGplans\.com 500 Sprint Car Tour Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11626){:target="_blank"} |2026 yourBIGplans\.com 500 Sprint Car Tour Sim Series |46 |3748 | | | | | |
 |[K5 Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=8768){:target="_blank"} |Season 15 \- Sprint Series |42 |3646 | |The Milwaukee Mile |Wed, September 23 08:28PM EDT |Thu, September 24 01:28AM BST |Thu, September 24 10:28AM AEST |
-|[RDR Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12319){:target="_blank"} |RDR National Asphalt Sprint Series S1 |30 |1721 | |Myrtle Beach Speedway |Mon, September 21 09:14PM EDT |Tue, September 22 02:14AM BST |Tue, September 22 11:14AM AEST |
+|[RDR Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12319){:target="_blank"} |RDR National Asphalt Sprint Series S1 |32 |1650 | | | | | |
 
 ### Street Stocks
 
@@ -154,8 +154,8 @@
 |[GSG Street Stocks](https://members.iracing.com/membersite/member/LeagueView.do?league=14546){:target="_blank"} |Street Stocks Season 1 |15 |1499 | | | | | |
 |[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |1800 Rookie Run |13 |1486 |Fixed | | | | |
 |[SFR Racing Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12636){:target="_blank"} |Street Stocks season 1 |13 |2193 |Fixed |Southern National Motorsports Park |Tue, September 22 07:00PM EDT |Wed, September 23 12:00AM BST |Wed, September 23 09:00AM AEST |
-|[I\-44 Speedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=8633){:target="_blank"} |All star Race\! |12 |1829 |Fixed | | | | |
 |[SRA Street Stock Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=11360){:target="_blank"} |Kirkpatrick Construction Street Stocks Fall 2026 Season |12 |2205 | |Lanier National Speedway |Thu, September 24 08:00PM EDT |Fri, September 25 01:00AM BST |Fri, September 25 10:00AM AEST |
+|[Just Pixels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8441){:target="_blank"} |2026 Street Stock Season 1 |12 |2085 |Fixed |Southern National Motorsports Park |Mon, September 28 07:30PM EDT |Tue, September 29 12:30AM BST |Tue, September 29 09:30AM AEST |
 |[Kinetic Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14808){:target="_blank"} |KRL Season 1 |11 |1551 |Fixed | | | | |
 |[SMR](https://members.iracing.com/membersite/member/LeagueView.do?league=8725){:target="_blank"} |2026 Street Stocks |11 |2154 |Fixed |The Dirt Track at Charlotte |Thu, September 24 09:30PM EDT |Fri, September 25 02:30AM BST |Fri, September 25 11:30AM AEST |
 |[Integrity Stock Car Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14840){:target="_blank"} |Freebird Series brought to you by The ZipTie Bandits |11 |1366 |Fixed | | | | |
@@ -167,13 +167,13 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-------|----|-----|----------------------------|-----------------------------|-----------------------------|------------------------------|
-|[All Pro Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=97){:target="_blank"} |All Pro Sim Racing League 2026 Season |82 |2697 | |Kevin Harvick's Kern Raceway |Mon, September 21 08:00PM EDT |Tue, September 22 01:00AM BST |Tue, September 22 10:00AM AEST |
+|[All Pro Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=97){:target="_blank"} |All Pro Sim Racing League 2026 Season |82 |2705 | | | | | |
 |[Elite Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14556){:target="_blank"} |Elite Super Late Models |52 |2180 | | | | | |
 |[NASCAR Whelen Modified Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=12349){:target="_blank"} |2026 Mystic Super Late Model Tour |45 |2107 | | | | | |
 |[MRL \| Misfit Summer Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12182){:target="_blank"} |Season 3 |37 |3879 |Open | | | | |
 |[BRL Bushtalk Radio Super Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1642){:target="_blank"} |SLM S28 |31 |2165 |Fixed | | | | |
 |[VFW's Combat Tested Gaming's Weekly Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13101){:target="_blank"} |CTG Season 3 |30 |1239 |Fixed |Lanier National Speedway |Sun, September 27 07:15PM EDT |Mon, September 28 12:15AM BST |Mon, September 28 09:15AM AEST |
-|[United States Stockcar Association \(USSA\) \- SLM Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14741){:target="_blank"} |SLM Season 1 |22 |2082 | |Bristol Motor Speedway |Mon, September 21 07:00PM EDT |Tue, September 22 12:00AM BST |Tue, September 22 09:00AM AEST |
+|[United States Stockcar Association \(USSA\) \- SLM Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14741){:target="_blank"} |SLM Season 1 |24 |2030 | |Kevin Harvick's Kern Raceway |Mon, September 28 07:00PM EDT |Tue, September 29 12:00AM BST |Tue, September 29 09:00AM AEST |
 |[American Sim Racing Club \(Super Late Models\)](https://members.iracing.com/membersite/member/LeagueView.do?league=11734){:target="_blank"} |2026 FALL/WINTER SUPER LATE MODELS |22 |3250 |Fixed |LA Coliseum Raceway |Tue, September 22 08:15PM EDT |Wed, September 23 01:15AM BST |Wed, September 23 10:15AM AEST |
 |[Trackside Racing Group](https://members.iracing.com/membersite/member/LeagueView.do?league=11285){:target="_blank"} |Super Late Models \(Season 2\) |15 |1905 |Fixed |Richmond Raceway |Fri, September 25 08:30PM EDT |Sat, September 26 01:30AM BST |Sat, September 26 10:30AM AEST |
 |[Racers United](https://members.iracing.com/membersite/member/LeagueView.do?league=14037){:target="_blank"} |SLM Tour |14 |1638 |Fixed |Hickory Motor Speedway |Sat, September 26 09:30PM EDT |Sun, September 27 02:30AM BST |Sun, September 27 11:30AM AEST |
