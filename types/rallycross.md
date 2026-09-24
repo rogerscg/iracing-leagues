@@ -18,7 +18,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------|----------|-------|----|-----|-------------|--------|------|------|
-|[Rally Short\-Course](https://members.iracing.com/membersite/member/LeagueView.do?league=14866){:target="_blank"} |Season \#1 |17 |1775 | | | | | |
+|[Rally Short\-Course](https://members.iracing.com/membersite/member/LeagueView.do?league=14866){:target="_blank"} |Season \#1 |19 |1835 | | | | | |
 
 ### VW Beetle GRC
 
