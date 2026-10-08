@@ -16,9 +16,9 @@
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |CATERHAM CUP \- AUTOMNE 2026 |23 |2288 | | | | | |
 |[Sunday Night Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |Sunday Night Speed \- Caterham 420R \- Season 1 |21 |2586 |Fixed |Snetterton Circuit |Sun, October 11 06:00PM EDT |Sun, October 11 11:00PM BST |Mon, October 12 09:00AM AEDT |
 |[GRS Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |Caterham 420R |20 |1724 |Both |Snetterton Circuit |Fri, October 09 03:00PM EDT |Fri, October 09 08:00PM BST |Sat, October 10 06:00AM AEDT |
-|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Caterham Cup 2026 |19 |3358 |Both |Donington Park Racing Circuit |Wed, October 07 02:00PM EDT |Wed, October 07 07:00PM BST |Thu, October 08 05:00AM AEDT |
+|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Caterham Cup 2026 |19 |3011 |Both |Knockhill Racing Circuit |Wed, October 14 02:00PM EDT |Wed, October 14 07:00PM BST |Thu, October 15 05:00AM AEDT |
 |[Caterham Esports Powered by AiMotor\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=15379){:target="_blank"} |CE S1 |12 |2958 |Fixed |Donington Park Racing Circuit |Sun, October 11 01:00PM EDT |Sun, October 11 06:00PM BST |Mon, October 12 04:00AM AEDT |
-|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026 Season 4: Wednesday 420R |10 |2021 | |Snetterton Circuit |Wed, October 07 08:30PM EDT |Thu, October 08 01:30AM BST |Thu, October 08 11:30AM AEDT |
+|[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026 Season 4: Wednesday 420R |10 |2037 | |Rudskogen Motorsenter |Wed, October 14 08:30PM EDT |Thu, October 15 01:30AM BST |Thu, October 15 11:30AM AEDT |
 
 ### Caterham Academy
 
@@ -30,7 +30,7 @@
 |[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 1 |48 |2753 | | | | | |
 |[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 2 |48 |1891 | | | | | |
 |[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 3 |39 |1324 | | | | | |
-|[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Official Practice |23 |None | | | | | |
+|[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Official Practice |28 |None | | | | | |
 |[Racing League Romania](https://members.iracing.com/membersite/member/LeagueView.do?league=350){:target="_blank"} |RLR S9 \- Road To Pro \(Caterham\) |20 |2560 | | | | | |
 |[BearPope Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=897){:target="_blank"} |Bearpope Caterham Academy 2026 |15 |1942 |Open |Virginia International Raceway |Sun, October 11 03:40PM EDT |Sun, October 11 08:40PM BST |Mon, October 12 06:40AM AEDT |
 
@@ -44,6 +44,7 @@
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 1 |99 |4874 |Open | | | | |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Season 3, 2026 |40 |2446 |Open | | | | |
 |[FSRS Fun series](https://members.iracing.com/membersite/member/LeagueView.do?league=10179){:target="_blank"} |FSRS Caterham night |10 |2134 | | | | | |
+|[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |VRS \- Caterhams |10 |1107 | | | | | |
 
 ### NEC M2 Cup
 
@@ -66,12 +67,13 @@
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Bananas Big Beautiful Badass Bonanza \- Season 1 |17 |2007 |Both | | | | |
 |[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG T3/2026 \- BMW M2 CUP |17 |1620 | | | | | |
 |[Federación de Automovilismo Deportivo Uruguayo](https://members.iracing.com/membersite/member/LeagueView.do?league=14372){:target="_blank"} |CAMPEONATO BMW M2 G87 |17 |1495 | | | | | |
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |BMW Blast road course series |17 |1219 |Both |Okayama International Circuit |Wed, October 07 10:00PM EDT |Thu, October 08 03:00AM BST |Thu, October 08 01:00PM AEDT |
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |BMW Blast road course series |17 |1192 |Both |Road America |Wed, October 14 10:00PM EDT |Thu, October 15 03:00AM BST |Thu, October 15 01:00PM AEDT |
 |[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |BMW M2 Cup 2026 |17 |2210 |Open |Virginia International Raceway |Mon, October 12 12:00PM EDT |Mon, October 12 05:00PM BST |Tue, October 13 03:00AM AEDT |
 |[E\-Sports SimRacing ESR](https://members.iracing.com/membersite/member/LeagueView.do?league=14064){:target="_blank"} |Summer League |15 |2162 |Open | | | | |
 |[SKADS Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14118){:target="_blank"} |M2 Series |14 |1394 | | | | | |
 |[VoT Technician Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14522){:target="_blank"} |Special Events |14 |1336 | | | | | |
 |[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S6 |13 |1316 |Fixed |Chicago Street Course |Fri, October 09 07:30PM EDT |Sat, October 10 12:30AM BST |Sat, October 10 10:30AM AEDT |
+|[Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235){:target="_blank"} |ACiL Fall 2026 M2 Cup |13 |1866 | |Oulton Park Circuit |Tue, October 13 07:28PM EDT |Wed, October 14 12:28AM BST |Wed, October 14 10:28AM AEDT |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2026\-S3\-M2 Wednesday |10 |1968 |Both | | | | |
 
 ### Supercars Gen 3
@@ -79,15 +81,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|----------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-------------------------|---------------------------|---------------------------|----------------------------|
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |170 |None |Open | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Elite Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026C V8SC Series \- Trophi\.AI |80 |2323 | | | | | |
+|[GSRC\.inc Trophi\.AI V8 Supercar Elite Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026D V8SC Elite Series \- Trophi\.AI |71 |2566 | |St. Petersburg Grand Prix |Wed, October 14 04:53AM EDT |Wed, October 14 09:53AM BST |Wed, October 14 07:53PM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints Season 28 |67 |1664 | | | | | |
-|[GSRC\.inc Trophi\.AI V8 Supercar Elite Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026D V8SC Elite Series \- Trophi\.AI |62 |2376 | |Mount Panorama Circuit |Wed, October 07 05:00AM EDT |Wed, October 07 10:00AM BST |Wed, October 07 08:00PM AEDT |
-|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026D V8SC Development Series \- Trophi\.AI |47 |1887 |Both |Mount Panorama Circuit |Wed, October 07 05:00AM EDT |Wed, October 07 10:00AM BST |Wed, October 07 08:00PM AEDT |
+|[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026D V8SC Development Series \- Trophi\.AI |62 |1918 |Both |St. Petersburg Grand Prix |Wed, October 14 04:53AM EDT |Wed, October 14 09:53AM BST |Wed, October 14 07:53PM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Series Tuesday 29 |44 |1422 | | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |2026B |38 |2224 |Fixed | | | | |
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold V8 Thursdays \- Season 2 2026 |36 |1580 | | | | | |
+|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold V8 Thursdays \- Season 2 2026 |36 |1580 | |Adelaide Street Circuit |Thu, October 08 05:30AM EDT |Thu, October 08 10:30AM BST |Thu, October 08 08:30PM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints season 29 Saturday |33 |1468 | | | | | |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 19 |22 |4226 |Open | | | | |
 
