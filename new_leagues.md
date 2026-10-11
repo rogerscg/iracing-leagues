@@ -5,7 +5,6 @@
 |[Absurd Experimental Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15404){:target="_blank"} |[Discord](https://discord.gg/fNW5dMuhW){:target="_blank"} | |
 |[Bottom Split Bandits Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=15411){:target="_blank"} | |BSB Special Events\. Join us\! |
 |[BSK Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15396){:target="_blank"} | |UK\-based iRacing team hosting GT3, formula, and Multiclass races in the near future\. We are also recruiting for our endurance team\! |
-|[Campeonato NA iRacing 2026 \- Online](https://members.iracing.com/membersite/member/LeagueView.do?league=15388){:target="_blank"} | | |
 |[CCDG League](https://members.iracing.com/membersite/member/LeagueView.do?league=15393){:target="_blank"} | | |
 |[Content Creator League](https://members.iracing.com/membersite/member/LeagueView.do?league=15397){:target="_blank"} | | |
 |[Dirt & Asphalt Chaos League](https://members.iracing.com/membersite/member/LeagueView.do?league=15421){:target="_blank"} |[Discord](https://discord.gg/xxdncNTu72){:target="_blank"} |chaos,serious,fun |
@@ -21,7 +20,6 @@
 |[IARA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15419){:target="_blank"} |[Discord](https://discord.gg/join-iara){:target="_blank"} |IARA is all about clean, competitive racing in a welcoming community for drivers of every skill level\. Now expanding into iRacing and looking for new members—come join the grid\! |
 |[Iron Ram Racing One\-Offs](https://members.iracing.com/membersite/member/LeagueView.do?league=15390){:target="_blank"} | | |
 |[JP Alan Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15422){:target="_blank"} | |NASCAR Gen 4 Grand National Series — official, fixed‑setup\. |
-|[LTH Racing Lyga Qualifier](https://members.iracing.com/membersite/member/LeagueView.do?league=15389){:target="_blank"} | | |
 |[Meat Missile Mondays](https://members.iracing.com/membersite/member/LeagueView.do?league=15416){:target="_blank"} |[Discord](https://discord.gg/taCzhPZnKF){:target="_blank"} |Welcome to Meat Missile Mondays — a GT3 league built for drivers who want competitive, close, and clean racing without the nonsense\.  🏁 GT3 ONLY 🔧 FIXED SETUPS 📅 MONDAYS — 6:00 PM PST ⏱️ 30 MIN PRACTICE 🏎️ LONE QUALIFYING 🔥 40 MIN RACES ⛽ MANDATORY PIT STOP |
 |[MRC Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15400){:target="_blank"} | |This is the home of MRC's Sim Racing League on iRacing |
 |[Oceania Speedcar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=15406){:target="_blank"} |[Discord](https://discord.gg/RWCpjeHqDv){:target="_blank"} |Oceania Speedcar Championship \(OSC\)  Welcome to the Oceania Speedcar Championship, a dirt midget series on iRacing built for close, clean, side\-by\-side racing\.  Our first season is 7 rounds at some of the best short tracks on the service: Limaland, Kokomo, Millbridge, Lincoln and Cedar Lake\. Then comes our crown jewel at Eldora, and the championship is decided at the Chili Bowl\.  Race night format Every round runs like a real night at the dirt track: practice, qualifying, heats with inverts, a dash for the front rows, and a feature race for championship points\. Every race night is broadcast live with commentary\.  What we're about  Hard but fair racing\. Rubbing is racing, and wrecking isn't\. A full rulebook and a dedicated race steward reviewing every incident\. A friendly league for drivers of all experience levels, from dirt rookies to cushion\-hooking veterans\. |
@@ -42,7 +40,7 @@
 |[Clayton Boys 4 Life](https://members.iracing.com/membersite/member/LeagueView.do?league=15430){:target="_blank"} | |CYB |
 |[Little Duckies](https://members.iracing.com/membersite/member/LeagueView.do?league=15431){:target="_blank"} | | |
 |[Methaonal Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=15429){:target="_blank"} | | |
-|[ABC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15433){:target="_blank"} | |Twice weekly racing for the trendsetters |
+|[ABC Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15433){:target="_blank"} | |Weekly Races Once monthly Enduro |
 |[ARCA Road Course Association](https://members.iracing.com/membersite/member/LeagueView.do?league=15440){:target="_blank"} |[Discord](https://discord.gg/KnyTq6rQS){:target="_blank"} |Home of the North American based ARCA Road Course Association |
 |[Dirt Fest](https://members.iracing.com/membersite/member/LeagueView.do?league=15435){:target="_blank"} | | |
 |[Indy Car Enthusiasts](https://members.iracing.com/membersite/member/LeagueView.do?league=15437){:target="_blank"} | |Indy Car Oval Racing |
@@ -53,4 +51,6 @@
 |[TRS Trophy 2027](https://members.iracing.com/membersite/member/LeagueView.do?league=15434){:target="_blank"} | |Official iRacing league for the TRS Trophy 2027\. FROM SIM TO REAL\. |
 |[Freem eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=15443){:target="_blank"} | |Freem eSports/Sim Maranello |
 |[I\.O\.M\. iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=15444){:target="_blank"} | |A league for racers on the Isle of Man and invited guests |
+|[KNAF/SRVN test league](https://members.iracing.com/membersite/member/LeagueView.do?league=15445){:target="_blank"} | | |
+|[R\.B\.S Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=15446){:target="_blank"} | |Bienvenue dans la R\.B\.S NASCAR Cup Series 2027 \!  Un championnat NASCAR unique sur iRacing, réunissant les pilotes de la R\.B\.S Motorsport et les plus grands noms de la NASCAR, contrôlés par l'intelligence artificielle\.  40 voitures sur la grille, 36 courses, une seule ambition : devenir champion \!  Au programme : des courses disputées à 50 % de leur distance réelle, des stratégies de ravitaillement, des neutralisations, des points de segments et un Chase final de 10 courses pour désigner le grand champion de la saison\.  Entre vitesse, stratégie, rivalités et rebondissements, chaque point comptera jusqu'au dernier drapeau à damier \! |
 
