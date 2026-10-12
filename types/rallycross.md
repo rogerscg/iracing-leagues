@@ -33,8 +33,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------|----|-----|---------------------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |09\. Sunday Night Lites \(September 2026 Season\) |24 |3191 | | | | | |
-|[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |10\. Sunday Night Lites \(October 2026 Season\) |21 |3952 | |EchoPark Speedway (Atlanta) |Sun, October 11 08:45PM EDT |Mon, October 12 01:45AM BST |Mon, October 12 11:45AM AEDT |
+|[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |10\. Sunday Night Lites \(October 2026 Season\) |24 |3495 | |Circuit de Barcelona Catalunya |Sun, October 18 08:45PM EDT |Mon, October 19 01:45AM BST |Mon, October 19 11:45AM AEDT |
 |[NASA Rallycross "Sunday Night Lites"](https://members.iracing.com/membersite/member/LeagueView.do?league=9036){:target="_blank"} |08\. Sunday Night Lites \(August 2026 Season\) |20 |3594 | | | | | |
 
