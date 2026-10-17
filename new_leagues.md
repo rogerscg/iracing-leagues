@@ -2,23 +2,16 @@
 
 | League Name | Discord | About |
 |-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[Bottom Split Bandits Special Events](https://members.iracing.com/membersite/member/LeagueView.do?league=15411){:target="_blank"} | |BSB Special Events\. Join us\! |
 |[Dirt & Asphalt Chaos League](https://members.iracing.com/membersite/member/LeagueView.do?league=15421){:target="_blank"} |[Discord](https://discord.gg/xxdncNTu72){:target="_blank"} |chaos,serious,fun |
-|[Drive to Live Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=15417){:target="_blank"} | |A break off of the Kenaz league\. All races are just for fun with random combos\. Lets go\! |
 |[FSRL Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15427){:target="_blank"} |[Discord](https://discord.gg/u2vUWX9Dfa){:target="_blank"} |FSRL Road league come on over have some fun |
 |[GTE Sprint Week 13 Endurance Special](https://members.iracing.com/membersite/member/LeagueView.do?league=15420){:target="_blank"} |[Discord](https://discord.gg/yRGkeQCCV2){:target="_blank"} |GTE Endurance Special |
 |[IARA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15419){:target="_blank"} |[Discord](https://discord.gg/join-iara){:target="_blank"} |IARA is all about clean, competitive racing in a welcoming community for drivers of every skill level\. Now expanding into iRacing and looking for new members—come join the grid\! |
 |[JP Alan Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15422){:target="_blank"} | |NASCAR Gen 4 Grand National Series — official, fixed‑setup\. |
-|[Meat Missile Mondays](https://members.iracing.com/membersite/member/LeagueView.do?league=15416){:target="_blank"} |[Discord](https://discord.gg/taCzhPZnKF){:target="_blank"} |Welcome to Meat Missile Mondays — a GT3 league built for drivers who want competitive, close, and clean racing without the nonsense\.  🏁 GT3 ONLY 🔧 FIXED SETUPS 📅 MONDAYS — 6:00 PM PST ⏱️ 30 MIN PRACTICE 🏎️ LONE QUALIFYING 🔥 40 MIN RACES ⛽ MANDATORY PIT STOP |
-|[Plains Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15413){:target="_blank"} | |Midget league |
 |[QLG Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15423){:target="_blank"} | |Quantum Legion Gaming's Dirt Racing League |
 |[RBNL](https://members.iracing.com/membersite/member/LeagueView.do?league=15428){:target="_blank"} | |Race Brothers NL |
 |[SAAC Coast to Coast National Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15424){:target="_blank"} |[Discord](https://discord.gg/jmWj6VY8VU){:target="_blank"} |SAAC is bringing back the Coast to Coast National Series as a new feeder league into our invite\-only Cup Series\! This one's built to bring fresh faces into the SAAC ecosystem — all skill levels welcome\. |
 |[Two Fat Guys Sim Racing Promotions](https://members.iracing.com/membersite/member/LeagueView.do?league=15425){:target="_blank"} | |Two Fat Guys Sim Racing Promotions' Official League for 2026/2027 Sim Season |
-|[West Virginia Nationals](https://members.iracing.com/membersite/member/LeagueView.do?league=15414){:target="_blank"} | |Winter Sim Series |
-|[Engelke up de Muer](https://members.iracing.com/membersite/member/LeagueView.do?league=15412){:target="_blank"} | |Emden, Niedersachsen |
 |[Ensenada SimRacing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=15426){:target="_blank"} | |Competitive sim racing community based in Ensenada, Mexico\. Clean racing, organized championships and great competition\. |
-|[TP Race league By ADVANTUN](https://members.iracing.com/membersite/member/LeagueView.do?league=15418){:target="_blank"} | |Campeonato de Copa Porsche, auspiciado por Advantun |
 |[Clayton Boys 4 Life](https://members.iracing.com/membersite/member/LeagueView.do?league=15430){:target="_blank"} | |CYB |
 |[Little Duckies](https://members.iracing.com/membersite/member/LeagueView.do?league=15431){:target="_blank"} | | |
 |[Methaonal Madness](https://members.iracing.com/membersite/member/LeagueView.do?league=15429){:target="_blank"} | | |
@@ -53,10 +46,15 @@
 |[ProMod iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15463){:target="_blank"} | |Truck Series Season 1 |
 |[Canadian Racers Sim Series \- CRSS](https://members.iracing.com/membersite/member/LeagueView.do?league=15462){:target="_blank"} | |Invite Only Series |
 |[GitGud Academy Challenges](https://members.iracing.com/membersite/member/LeagueView.do?league=15464){:target="_blank"} | |Available for Academy Members of GITGUD Racing |
-|[F1 Formula1 \[BHQ\]](https://members.iracing.com/membersite/member/LeagueView.do?league=15469){:target="_blank"} |[Discord](https://discord.gg/9R7P4XYGa){:target="_blank"} |Formula1 |
+|[F1 Formula One \[BHQ\]](https://members.iracing.com/membersite/member/LeagueView.do?league=15469){:target="_blank"} |[Discord](https://discord.gg/9R7P4XYGa){:target="_blank"} |Formula1 |
 |[GT3 \[BHQ\]](https://members.iracing.com/membersite/member/LeagueView.do?league=15470){:target="_blank"} |[Discord](https://discord.gg/9R7P4XYGa){:target="_blank"} |GT3 Fun & Fairplay Liga |
 |[Matco super late model asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=15467){:target="_blank"} | |super late model series |
 |[NLML](https://members.iracing.com/membersite/member/LeagueView.do?league=15466){:target="_blank"} |[Discord](https://discord.gg/XHkbdD6d2C){:target="_blank"} |We Do Late model and Super Late model Asphalt we have a full season and playoffs\!\! |
 |[Scorsa Sprint Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15468){:target="_blank"} | | |
 |[Road to SIMCUP\.DK](https://members.iracing.com/membersite/member/LeagueView.do?league=15465){:target="_blank"} | |Vejen mod SIMCUP 2027 |
+|[Canisteo Valley](https://members.iracing.com/membersite/member/LeagueView.do?league=15474){:target="_blank"} | |Racing things |
+|[Cleetus McFarland Fans Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15475){:target="_blank"} | |ARCA Racing |
+|[Race Club](https://members.iracing.com/membersite/member/LeagueView.do?league=15472){:target="_blank"} | | |
+|[Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15471){:target="_blank"} | | |
+|[Steward for Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=15473){:target="_blank"} | |Liga de teste do Steward for Leagues |
 

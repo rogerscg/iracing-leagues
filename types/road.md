@@ -15,8 +15,8 @@
 |[Backfire Simsport TV Caterham 7Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=15357){:target="_blank"} |Season 1 |29 |3020 | | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 40 \- Caterham 420R |27 |1798 |Fixed |Brands Hatch Circuit |Mon, October 19 02:00PM EDT |Mon, October 19 07:00PM BST |Tue, October 20 05:00AM AEDT |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2026 Fall Season |27 |2411 |Both |Road Atlanta |Thu, October 22 07:00PM EDT |Fri, October 23 12:00AM BST |Fri, October 23 10:00AM AEDT |
+|[GRS Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |Caterham 420R |25 |1648 |Both |Brands Hatch Circuit |Fri, October 23 03:00PM EDT |Fri, October 23 08:00PM BST |Sat, October 24 06:00AM AEDT |
 |[Sunday Night Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |Sunday Night Speed \- Caterham 420R \- Season 1 |23 |2670 |Fixed | | | | |
-|[GRS Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |Caterham 420R |23 |1693 |Both |Rudskogen Motorsenter |Fri, October 16 03:00PM EDT |Fri, October 16 08:00PM BST |Sat, October 17 06:00AM AEDT |
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |CATERHAM CUP \- AUTOMNE 2026 |23 |2288 | |Brands Hatch Circuit |Wed, October 21 06:15PM EDT |Wed, October 21 11:15PM BST |Thu, October 22 09:15AM AEDT |
 |[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Caterham Cup 2026 |22 |2796 |Both |Snetterton Circuit |Wed, October 21 02:00PM EDT |Wed, October 21 07:00PM BST |Thu, October 22 05:00AM AEDT |
 |[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 4 \- Caterham 420R |21 |2807 | |Cadwell Park Circuit |Thu, October 22 03:00PM EDT |Thu, October 22 08:00PM BST |Fri, October 23 06:00AM AEDT |
@@ -45,7 +45,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------|----|-----|--------------------------------|---------------------------|---------------------------|----------------------------|
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 1 |99 |4874 |Open | | | | |
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 1 |99 |4874 |Open |Mount Panorama Circuit |Sat, October 17 03:15AM EDT |Sat, October 17 08:15AM BST |Sat, October 17 06:15PM AEDT |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Season 3, 2026 |40 |2446 |Open | | | | |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Season 4, 2026 |30 |2516 |Open |Detroit Grand Prix at Belle Isle |Tue, October 20 03:00AM EDT |Tue, October 20 08:00AM BST |Tue, October 20 06:00PM AEDT |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |GVM Season 4 |22 |1622 | | | | | |
@@ -88,7 +88,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |170 |None |Open |Mount Panorama Circuit |Fri, October 16 03:00AM EDT |Fri, October 16 08:00AM BST |Fri, October 16 06:00PM AEDT |
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |170 |None |Open | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Elite Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026C V8SC Series \- Trophi\.AI |80 |2323 | | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Elite Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026D V8SC Elite Series \- Trophi\.AI |79 |2612 | |Homestead Miami Speedway |Wed, October 21 04:40AM EDT |Wed, October 21 09:40AM BST |Wed, October 21 07:40PM AEDT |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints Season 28 |67 |1664 | | | | | |

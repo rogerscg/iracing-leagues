@@ -8,11 +8,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|------------------------------|-------|----|-----|-------------|--------|------|------|
 |[Coast2Coast Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=3418){:target="_blank"} |C2C \- 358 Dirt Mods OPEN |116 |2584 |Open | | | | |
 |[Monsters of Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=3310){:target="_blank"} |2026 Summer Modified Madness |66 |3214 |Fixed | | | | |
-|[Rocket Dirt Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14572){:target="_blank"} |RDRA 358 Mods |35 |2497 |Open | | | | |
-|[Dirt Track Junkies](https://members.iracing.com/membersite/member/LeagueView.do?league=13031){:target="_blank"} |DTJ Season 4 |28 |2192 |Fixed |Lernerville Speedway |Fri, October 16 09:00PM EDT |Sat, October 17 02:00AM BST |Sat, October 17 12:00PM AEDT |
+|[Dirt Track Junkies](https://members.iracing.com/membersite/member/LeagueView.do?league=13031){:target="_blank"} |DTJ Season 4 |34 |2032 |Fixed | | | | |
 |[Hales Corners Speedway SIM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4161){:target="_blank"} |Summer 2026 358 Modifieds |25 |2260 |Fixed | | | | |
 |[Full Throttle Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=9454){:target="_blank"} |Small Block Summer Series 2026 |22 |3823 |Both | | | | |
 |[The Big Dance super series](https://members.iracing.com/membersite/member/LeagueView.do?league=14737){:target="_blank"} |2026 358\`s Summer Show Down |20 |1852 |Fixed | | | | |
@@ -24,12 +23,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|-----------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|----------------|---------------------------|---------------------------|----------------------------|
 |[RPES Trash Panda Graphix Dirt Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11710){:target="_blank"} |2026 RPES Dirt Modified Series |39 |3515 | | | | | |
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB Big Blocks Season 9 |35 |3535 |Open |Huset's Speedway |Wed, October 21 09:00PM EDT |Thu, October 22 02:00AM BST |Thu, October 22 12:00PM AEDT |
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |SBRL Fixed Big Block Mod 26S2 |30 |3054 |Both | | | | |
+|[Afb Lounge Dirt Speedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=12924){:target="_blank"} |Big Block Season 2 |17 |3274 | | | | | |
 |[The Big Dance super series](https://members.iracing.com/membersite/member/LeagueView.do?league=14737){:target="_blank"} |2026 Big Block\`s Summer Show Down |16 |1825 |Fixed | | | | |
-|[Afb Lounge Dirt Speedway League](https://members.iracing.com/membersite/member/LeagueView.do?league=12924){:target="_blank"} |Big Block Season 2 |16 |3276 | |Fairbury Speedway |Fri, October 16 04:00AM EDT |Fri, October 16 09:00AM BST |Fri, October 16 07:00PM AEDT |
 |[Niagara Modified Mashup](https://members.iracing.com/membersite/member/LeagueView.do?league=14092){:target="_blank"} |Dirt Modifieds |10 |2175 | | | | | |
 
 ### Dirt Late Model - Limited
@@ -46,14 +45,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------|----|-----|-----------------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[Monsters of Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=3310){:target="_blank"} |Childers Home Improvement PRO LATE MODEL SERIES |72 |4197 |Fixed |Weedsport Speedway |Tue, October 20 08:30PM EDT |Wed, October 21 01:30AM BST |Wed, October 21 11:30AM AEDT |
+|[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Pro Late Models All Stars Tour 2026 |65 |3463 | |Port Royal Speedway |Fri, October 23 06:00AM EDT |Fri, October 23 11:00AM BST |Fri, October 23 09:00PM AEDT |
 |[World of Thunder Esports League](https://members.iracing.com/membersite/member/LeagueView.do?league=2329){:target="_blank"} |Pro late Model Mini  series |65 |5152 |Open | | | | |
-|[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Pro Late Models All Stars Tour 2026 |61 |3465 | |Williams Grove Speedway |Fri, October 16 06:00AM EDT |Fri, October 16 11:00AM BST |Fri, October 16 09:00PM AEDT |
 |[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |American Outlaw Pro late models season 9 |44 |4152 | | | | | |
 |[Rollin Thunder Racing \- Dirt Oval](https://members.iracing.com/membersite/member/LeagueView.do?league=14192){:target="_blank"} |Rollin Thunder Racing Dirt |29 |1238 |Fixed |Port Royal Speedway |Sat, October 17 06:00PM EDT |Sat, October 17 11:00PM BST |Sun, October 18 09:00AM AEDT |
+|[APPALACHIAN DIRT TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=14981){:target="_blank"} |PRO LATES SEASON 1 |28 |2158 | |Lernerville Speedway |Fri, October 23 08:58PM EDT |Sat, October 24 01:58AM BST |Sat, October 24 11:58AM AEDT |
 |[VapourTrail Speedway Series](https://members.iracing.com/membersite/member/LeagueView.do?league=6456){:target="_blank"} |Southern Cross Pro Late Model Tour |26 |2621 | |Eldora Speedway |Sun, October 18 05:30AM EDT |Sun, October 18 10:30AM BST |Sun, October 18 08:30PM AEDT |
-|[APPALACHIAN DIRT TOUR](https://members.iracing.com/membersite/member/LeagueView.do?league=14981){:target="_blank"} |PRO LATES SEASON 1 |26 |2240 | |Cedar Lake Speedway |Fri, October 16 08:58PM EDT |Sat, October 17 01:58AM BST |Sat, October 17 11:58AM AEDT |
 |[RPES Trash Panda Graphix Dirt Late Model Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11710){:target="_blank"} |2026 RPES Trash Panda Graphix Dirt Late Model Series |23 |3188 | |Fairbury Speedway |Wed, October 21 08:30PM EDT |Thu, October 22 01:30AM BST |Thu, October 22 11:30AM AEDT |
 |[Race Nation Official](https://members.iracing.com/membersite/member/LeagueView.do?league=14561){:target="_blank"} |Race Nation Official\-Southern Dirt Series |22 |2075 |Fixed | | | | |
 |[The Big Dance super series](https://members.iracing.com/membersite/member/LeagueView.do?league=14737){:target="_blank"} |2026 pro late model\`s Summer Show Down |20 |1910 |Fixed | | | | |
@@ -69,16 +68,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|---------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|-------|----|-----|-------------|--------|------|------|
 |[Monsters of Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=3310){:target="_blank"} |MOD Super Late Models \(Summer 2026\) |105 |4204 |Fixed | | | | |
 |[Monsters of Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=3310){:target="_blank"} |TRACKSIDE DYNAMICS NORTH TO SOUTH |55 |2701 |Fixed | | | | |
 |[Outlaw Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10832){:target="_blank"} |DLN Super Late Models Season 9 |37 |4324 | | | | | |
 |[Dirty Old Bastards Dirt Division](https://members.iracing.com/membersite/member/LeagueView.do?league=1898){:target="_blank"} |DOB Super Late Models Season 3 |36 |3253 |Open | | | | |
+|[SDS Race Night In America Hooked Super Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=14589){:target="_blank"} |Hooked up Super Lates Models |33 |4374 | | | | | |
 |[Silver Bullet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8704){:target="_blank"} |SBRL Fixed Super Late 26S2 |33 |3141 |Both | | | | |
-|[SDS Race Night In America Hooked Super Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=14589){:target="_blank"} |Hooked up Super Lates Models |31 |4333 | |Eldora Speedway |Fri, October 16 09:40PM EDT |Sat, October 17 02:40AM BST |Sat, October 17 12:40PM AEDT |
 |[Instigator Winter Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11652){:target="_blank"} |2026 Harrison Brothers Welding Super Lates |20 |2775 | | | | | |
 |[The Big Dance super series](https://members.iracing.com/membersite/member/LeagueView.do?league=14737){:target="_blank"} |2026 super late model\`s Summer Show Down |19 |1817 |Fixed | | | | |
-|[Turn One Winners](https://members.iracing.com/membersite/member/LeagueView.do?league=14976){:target="_blank"} |Super Late Models |16 |1987 |Fixed | | | | |
+|[Turn One Winners](https://members.iracing.com/membersite/member/LeagueView.do?league=14976){:target="_blank"} |Super Late Models |16 |2008 |Fixed | | | | |
 |[Over The Limit](https://members.iracing.com/membersite/member/LeagueView.do?league=6425){:target="_blank"} |Season 4 SLM |14 |2602 | | | | | |
 
 ### Dirt Midget
@@ -86,7 +85,7 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------|----|-----|-------------|--------|------|------|
 |[RDR Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=12319){:target="_blank"} |RDR National Midget Series S3 |95 |2428 | | | | | |
 |[New Zealand Motor Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13248){:target="_blank"} |NZMR Midgets 2026 |34 |1820 | | | | | |
 |[Velocity Midget Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14787){:target="_blank"} |velocity midget season 1 |32 |1829 | | | | | |
@@ -94,7 +93,7 @@
 |[WA Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8819){:target="_blank"} |Clash on the Clay 2026 |24 |1810 | | | | | |
 |[Ricasha Midget Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=15117){:target="_blank"} |RMC S1 |23 |1536 | | | | | |
 |[Elite Dirt Sim League](https://members.iracing.com/membersite/member/LeagueView.do?league=15195){:target="_blank"} |EDSL Nationals |22 |3213 |Fixed | | | | |
-|[WA Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8819){:target="_blank"} |WA Midget Series |15 |2344 | |Lanier National Speedway |Fri, October 23 08:30AM EDT |Fri, October 23 01:30PM BST |Fri, October 23 11:30PM AEDT |
+|[WA Sim Series](https://members.iracing.com/membersite/member/LeagueView.do?league=8819){:target="_blank"} |WA Midget Series |17 |2303 | | | | | |
 |[midwest dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=14602){:target="_blank"} |midwest dirt \(midgets\) |15 |1983 | | | | | |
 |[NMRA \|\| National Midget Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14022){:target="_blank"} |NMRA Weekly Racing Season \#1 |13 |2092 |Open | | | | |
 |[Rocket Dirt Racing Association](https://members.iracing.com/membersite/member/LeagueView.do?league=14572){:target="_blank"} |RDRA midgets Seaon 1 |12 |1693 |Open | | | | |
@@ -182,7 +181,7 @@
 |[Dirty South Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11933){:target="_blank"} |Sunday Night Show Downs |34 |4437 |Fixed |Lernerville Speedway |Sun, October 18 08:30PM EDT |Mon, October 19 01:30AM BST |Mon, October 19 11:30AM AEDT |
 |[RPES Six\-18 Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11709){:target="_blank"} |2026 RPES Six\-18 Street Stock Series |27 |3596 | |Fairbury Speedway |Mon, October 19 08:30PM EDT |Tue, October 20 01:30AM BST |Tue, October 20 11:30AM AEDT |
 |[DIRTKARS HOBBY STOCKS](https://members.iracing.com/membersite/member/LeagueView.do?league=7157){:target="_blank"} |DIRTKARS STEET STOCKS SEASON 12 |24 |1933 | | | | | |
-|[SDS Race Night In America Hooked Super Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=14589){:target="_blank"} |Outlaw Street Stocks |22 |4203 | |Eldora Speedway |Fri, October 16 09:00PM EDT |Sat, October 17 02:00AM BST |Sat, October 17 12:00PM AEDT |
+|[SDS Race Night In America Hooked Super Late Models](https://members.iracing.com/membersite/member/LeagueView.do?league=14589){:target="_blank"} |Outlaw Street Stocks |23 |4251 | | | | | |
 |[Over The Limit](https://members.iracing.com/membersite/member/LeagueView.do?league=6425){:target="_blank"} |Season 4 DSS |17 |2621 | |USA International Speedway |Sun, October 18 09:00PM EDT |Mon, October 19 02:00AM BST |Mon, October 19 12:00PM AEDT |
 
 ### Dirt UMP Modified
@@ -232,7 +231,6 @@
 |[Hometown Heroes Dirt Series by Top Tier Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14594){:target="_blank"} | Season 1 UMPs |21 |2059 | | | | | |
 |[QLG Dirt Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15423){:target="_blank"} |Fall 2026 Season 1 |20 |1976 |Open | | | | |
 |[National Auto Racing Club \(Dirt\)](https://members.iracing.com/membersite/member/LeagueView.do?league=4490){:target="_blank"} |All Star Sprint Cars \- 2026\.3 |18 |2980 |Open |USA International Speedway |Sun, October 18 09:00PM EDT |Mon, October 19 02:00AM BST |Mon, October 19 12:00PM AEDT |
-|[Ozark Mountain Dirt Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13791){:target="_blank"} |Ozark Mountain Dirt Series 2 |17 |1792 |Both | | | | |
 |[International Dirt Racing Association \- IDRA](https://members.iracing.com/membersite/member/LeagueView.do?league=15355){:target="_blank"} |IDRA Season 1 |16 |1294 | |Port Royal Speedway |Sun, October 18 04:00PM EDT |Sun, October 18 09:00PM BST |Mon, October 19 07:00AM AEDT |
 |[4 Stooges Outrageous Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12027){:target="_blank"} |Stooges Saturday Night Speedway |11 |1206 | |Volusia Speedway Park |Sat, October 17 07:00PM EDT |Sun, October 18 12:00AM BST |Sun, October 18 10:00AM AEDT |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |Fall Brawl Dirt Racing Tour |11 |1931 | | | | | |

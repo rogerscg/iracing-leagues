@@ -27,8 +27,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|------------------------|---------------------------|---------------------------|----------------------------|
-|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 14 \- Pro 2 Lites |104 |3087 | |Nürburgring Nordschleife |Fri, October 16 08:30PM EDT |Sat, October 17 01:30AM BST |Sat, October 17 11:30AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-------------|--------|------|------|
+|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 14 \- Pro 2 Lites |105 |3070 | | | | | |
 |[RedLine Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14878){:target="_blank"} |Season one pro lite |16 |2118 | | | | | |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Street Truck Series |13 |1322 |Both | | | | |
 
