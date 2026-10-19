@@ -13,29 +13,12 @@
 |-------------------------------------------------------------------------------------------------------------------|--------|-----|-------------------------|---------------------------|---------------------------|----------------------------|
 |[Unbound Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14986){:target="_blank"} |Season 1 |Open |Long Beach Street Circuit |Tue, October 20 08:00PM EDT |Wed, October 21 01:00AM BST |Wed, October 21 11:00AM AEDT |
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|-----------------------|-----|-----------------------|---------------------------|---------------------------|----------------------------|
-|[Cleetus McFarland Fans Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15475){:target="_blank"} |Fall 2026 Racing Season | |Talladega Superspeedway |Sat, October 17 01:00PM EDT |Sat, October 17 06:00PM BST |Sun, October 18 04:00AM AEDT |
-
-### NASCAR 2003 Gen 4
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------|---------------|-----|-----------------------|---------------------------|---------------------------|----------------------------|
-|[iRacing Superspeedway Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=15447){:target="_blank"} |TOUR SEASON ONE |Fixed |Talladega Superspeedway |Sat, October 17 10:00PM EDT |Sun, October 18 03:00AM BST |Sun, October 18 01:00PM AEDT |
-
 ### NASCAR 2022 NextGen
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[802 Winston Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5979){:target="_blank"} |Season 8 | |Daytona International Speedway |Sun, October 18 06:15PM EDT |Sun, October 18 11:15PM BST |Mon, October 19 09:15AM AEDT |
+|-----------------------------------------------------------------------------------------------------------|-------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[GEC Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9504){:target="_blank"} |GEC season 10 |Fixed |Daytona International Speedway |Thu, October 22 07:15PM EDT |Fri, October 23 12:15AM BST |Fri, October 23 10:15AM AEDT |
 
 ### NASCAR O'Reilly Series
@@ -55,18 +38,9 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-----------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[High Octane Trucks](https://members.iracing.com/membersite/member/LeagueView.do?league=5311){:target="_blank"} |High Octane Season 5 | |Indianapolis Motor Speedway |Sat, October 24 08:30PM EDT |Sun, October 25 01:30AM BST |Sun, October 25 11:30AM AEDT |
-|[SimRacing Expo \- eNASCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=15341){:target="_blank"} |2026 eNASCAR Euro Showcase | |Charlotte Motor Speedway |Sun, October 18 08:35AM EDT |Sun, October 18 01:35PM BST |Sun, October 18 11:35PM AEDT |
 |[FRC Joeguy's Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12950){:target="_blank"} |Season 15 \- FRC Joeguy's Truck Series |Fixed |Daytona International Speedway |Wed, October 21 06:59PM EDT |Wed, October 21 11:59PM BST |Thu, October 22 09:59AM AEDT |
 |[OUM Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15394){:target="_blank"} |2026 Season 1 \- Truck Series | |Charlotte Motor Speedway |Tue, October 20 09:00PM EDT |Wed, October 21 02:00AM BST |Wed, October 21 12:00PM AEDT |
 |[GEC Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9502){:target="_blank"} |CDSN Truck Series Season 10 |Fixed |Daytona International Speedway |Tue, October 20 07:15PM EDT |Wed, October 21 12:15AM BST |Wed, October 21 10:15AM AEDT |
-
-### Silverado
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|---------------------|-----|---------------|---------------------------|---------------------------|----------------------------|
-|[Brinz Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14558){:target="_blank"} |Super Truck Series S1 | |Oswego Speedway |Sun, October 18 08:00PM EDT |Mon, October 19 01:00AM BST |Mon, October 19 11:00AM AEDT |
 
 ### Whelen Modified
 
@@ -78,48 +52,39 @@
 
 # Oval
 
-### Hosted All Cars Class
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------------------|-----|-----------------------------------|---------------------------|---------------------------|----------------------------|
-|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |West Coast Tour Car Series |Both |Lucas Oil Indianapolis Raceway Park |Sat, October 17 04:00PM EDT |Sat, October 17 09:00PM BST |Sun, October 18 07:00AM AEDT |
-
 ### Late Model Stock
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|-----|---------------------|---------------------------|---------------------------|----------------------------|
-|[VFW's Combat Tested Gaming Jr Iracing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15368){:target="_blank"} |CTG Jr Iracing Late Model Season 1 |Fixed |South Boston Speedway |Sun, October 18 06:00PM EDT |Sun, October 18 11:00PM BST |Mon, October 19 09:00AM AEDT |
+|----------------------------------------------------------------------------------------------------------------------|--------------------------|-----|----------------------|---------------------------|---------------------------|----------------------------|
+|[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |West Coast Tour Car Series |Both |Bristol Motor Speedway |Sat, October 24 04:00PM EDT |Sat, October 24 09:00PM BST |Sun, October 25 07:00AM AEDT |
 
 ### Super Late Model
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|--------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[House Party iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14836){:target="_blank"} |HP Super Late Models |Fixed |Nashville Fairgrounds Speedway |Sat, October 17 10:00PM EDT |Sun, October 18 03:00AM BST |Sun, October 18 01:00PM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------|---------------|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[Matco super late model asphalt](https://members.iracing.com/membersite/member/LeagueView.do?league=15467){:target="_blank"} |getting started |Fixed |Dover Motor Speedway |Thu, October 22 06:30PM EDT |Thu, October 22 11:30PM BST |Fri, October 23 09:30AM AEDT |
 
 # Open-wheel
-
-### Dallara IR18
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|-------------------|-----|-------------------------|---------------------------|---------------------------|----------------------------|
-|[JPs Chump Kart](https://members.iracing.com/membersite/member/LeagueView.do?league=12775){:target="_blank"} |Chump Kart Season 4 | |St. Petersburg Grand Prix |Sat, October 17 08:50PM EDT |Sun, October 18 01:50AM BST |Sun, October 18 11:50AM AEDT |
 
 ### FIA F4
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------|---------|-----|----------------------------------|---------------------------|---------------------------|----------------------------|
-|[MX5練習会](https://members.iracing.com/membersite/member/LeagueView.do?league=14030){:target="_blank"} |eF4 Japan | |Suzuka International Racing Course |Sat, October 17 09:29AM EDT |Sat, October 17 02:29PM BST |Sun, October 18 12:29AM AEDT |
+|----------------------------------------------------------------------------------------------------------|---------------------------|-----|----------------------------|---------------------------|---------------------------|----------------------------|
+|[CYPRUS GOATS](https://members.iracing.com/membersite/member/LeagueView.do?league=15456){:target="_blank"} |Cyprus F4 Preseason Testing |Fixed |Circuit de Spa-Francorchamps |Sun, October 25 11:50AM EDT |Sun, October 25 03:50PM GMT |Mon, October 26 02:50AM AEDT |
+
+### Hosted All Cars Class
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------|----------------|-----|----------------------|---------------------------|---------------------------|----------------------------|
+|[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |SF23 \- Season 4 |Both |Mobility Resort Motegi |Wed, October 21 07:00PM EDT |Thu, October 22 12:00AM BST |Thu, October 22 10:00AM AEDT |
 
 ### Super Formula Lights
 
@@ -136,7 +101,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|-----------------------|-----|--------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing Porsche Cup NA 2026 \- ELITE |Fixed |Sebring International Raceway |Mon, October 26 09:30PM EDT |Tue, October 27 01:30AM GMT |Tue, October 27 12:30PM AEDT |
+|[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing Porsche Cup NA 2026 \- PREMIER |Fixed |Sebring International Raceway |Mon, October 26 08:00PM EDT |Tue, October 27 12:00AM GMT |Tue, October 27 11:00AM AEDT |
 |[Racing Club Nederland](https://members.iracing.com/membersite/member/LeagueView.do?league=15225){:target="_blank"} |RCN iRacing Porsche Cup | |Lime Rock Park |Sat, October 24 01:30PM EDT |Sat, October 24 06:30PM BST |Sun, October 25 04:30AM AEDT |
 
 ### Hosted All Cars Class
@@ -152,8 +119,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[SöndagsLigan by Iracing Only Sweden](https://members.iracing.com/membersite/member/LeagueView.do?league=15436){:target="_blank"} |Season 1, GR86 Cup | |Oulton Park Circuit |Sun, October 18 01:55PM EDT |Sun, October 18 06:55PM BST |Mon, October 19 04:55AM AEDT |
+|-----------------------------------------------------------------------------------------------------------------------------|---------------|-----|------------|---------------------------|---------------------------|----------------------------|
+|[West Coast Sim Racing \- GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12739){:target="_blank"} |GR Cup Season 6 |Both |Road Atlanta |Mon, October 26 09:30PM EDT |Tue, October 27 01:30AM GMT |Tue, October 27 12:30PM AEDT |
 
 # Prototype
 
@@ -166,6 +133,14 @@
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 10 | |Watkins Glen International |Mon, October 19 02:50PM EDT |Mon, October 19 07:50PM BST |Tue, October 20 05:50AM AEDT |
 
 # Road
+
+### Caterham 420R
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|------------------------------------------------------------------------------------------------------------------|---------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|[ESR SEVEN Trophy 2027](https://members.iracing.com/membersite/member/LeagueView.do?league=7945){:target="_blank"} |2026 ESR SEVEN Trophy | |Oulton Park Circuit |Mon, October 26 02:00PM EDT |Mon, October 26 06:00PM GMT |Tue, October 27 05:00AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -182,11 +157,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|-----------------------------|-----|-------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------|-----------------------------|-----|--------------------------|---------------------------|---------------------------|----------------------------|
 |[Dirt Fest Finals](https://members.iracing.com/membersite/member/LeagueView.do?league=12758){:target="_blank"} |358 final | |Oswego Speedway |Thu, October 22 08:00PM EDT |Fri, October 23 01:00AM BST |Fri, October 23 11:00AM AEDT |
 |[Dirt Fest Finals](https://members.iracing.com/membersite/member/LeagueView.do?league=12758){:target="_blank"} |Big Block Final | |Oswego Speedway |Thu, October 22 07:00PM EDT |Fri, October 23 12:00AM BST |Fri, October 23 10:00AM AEDT |
-|[Northwest Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7783){:target="_blank"} |Northwest Dirt Oval Series |Fixed |Limaland Motorsports Park |Sun, October 18 09:00PM EDT |Mon, October 19 02:00AM BST |Mon, October 19 12:00PM AEDT |
 |[Dirt Fest](https://members.iracing.com/membersite/member/LeagueView.do?league=15435){:target="_blank"} |Dirt Fest Night 1 358 Modifed | |Oswego Speedway |Wed, October 21 08:00PM EDT |Thu, October 22 01:00AM BST |Thu, October 22 11:00AM AEDT |
+|[Monsters of Dirt](https://members.iracing.com/membersite/member/LeagueView.do?league=3310){:target="_blank"} |JTS 358 Season 10 |Fixed |USA International Speedway |Mon, October 19 08:45PM EDT |Tue, October 20 01:45AM BST |Tue, October 20 11:45AM AEDT |
 
 ### Dirt Big Block Modified
 
@@ -196,21 +171,15 @@
 |-------------------------------------------------------------------------------------------------------|---------------------------|-----|---------------|---------------------------|---------------------------|----------------------------|
 |[Dirt Fest](https://members.iracing.com/membersite/member/LeagueView.do?league=15435){:target="_blank"} |Dirt Fest Night 1 Big Block | |Oswego Speedway |Tue, October 20 08:00PM EDT |Wed, October 21 01:00AM BST |Wed, October 21 11:00AM AEDT |
 
-### Dirt Late Model - Pro
+# Dirt Road
+
+### Pro 2 Lite Truck
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[Trench Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14583){:target="_blank"} |Season 3 PLM | |Cedar Lake Speedway |Sun, October 18 10:00PM EDT |Mon, October 19 03:00AM BST |Mon, October 19 01:00PM AEDT |
-
-### Dirt SprintCar - 360
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|--------------------|-----|-----------------------|---------------------------|---------------------------|----------------------------|
-|[Trench Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=14583){:target="_blank"} |Season 3 360 Sprints | |Williams Grove Speedway |Sun, October 18 09:00PM EDT |Mon, October 19 02:00AM BST |Mon, October 19 12:00PM AEDT |
+|-------------------------------------------------------------------------------------------------------------|--------------------------------|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2 Superlite \- 2026/Oct\-Nov |Fixed |Wild West Motorsports Park |Thu, October 22 07:00PM EDT |Fri, October 23 12:00AM BST |Fri, October 23 10:00AM AEDT |
 
 # Multi-class/Unclassified
 
@@ -219,24 +188,22 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|-----------------------------------------|---------------------------|---------------------------|----------------------------|
+|[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG T4/2026 \- GT3 | |Motorsport Arena Oschersleben |Mon, October 19 07:00PM EDT |Tue, October 20 12:00AM BST |Tue, October 20 10:00AM AEDT |
 |[Blueline Racing Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=15384){:target="_blank"} |Blueline Racing Championship \- Season 1 | |Red Bull Ring |Thu, October 22 01:14PM EDT |Thu, October 22 06:14PM BST |Fri, October 23 04:14AM AEDT |
 |[Compétitions GOFiR](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |TFR Endurance |Open |Circuit de Lédenon |Fri, October 23 01:25PM EDT |Fri, October 23 06:25PM BST |Sat, October 24 04:25AM AEDT |
 |[Compétitions GOFiR](https://members.iracing.com/membersite/member/LeagueView.do?league=10433){:target="_blank"} |TFR Practice |Open |Circuit de Lédenon |Thu, October 22 03:00PM EDT |Thu, October 22 08:00PM BST |Fri, October 23 06:00AM AEDT |
 |[Degenerate Race League](https://members.iracing.com/membersite/member/LeagueView.do?league=11156){:target="_blank"} |DRL GT3 Season 7 |Open |Daytona International Speedway |Mon, October 19 09:00PM EDT |Tue, October 20 02:00AM BST |Tue, October 20 12:00PM AEDT |
+|[IracingLs](https://members.iracing.com/membersite/member/LeagueView.do?league=14903){:target="_blank"} |Liga 2026 \#2 | |Shell V-Power Motorsport Park at The Bend |Wed, October 21 06:10PM EDT |Wed, October 21 11:10PM BST |Thu, October 22 09:10AM AEDT |
 
 ### Hosted All Cars Class
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|------------------------------------|---------------------------|---------------------------|----------------------------|
-|[G&R Racing League \- Euro Road Trip](https://members.iracing.com/membersite/member/LeagueView.do?league=15257){:target="_blank"} |Season 1 | |Donington Park Racing Circuit |Sat, October 17 06:00AM EDT |Sat, October 17 11:00AM BST |Sat, October 17 09:00PM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[JOHNCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12378){:target="_blank"} |Short Track Showdown S1 |Fixed |Hickory Motor Speedway |Tue, October 20 08:00PM EDT |Wed, October 21 01:00AM BST |Wed, October 21 11:00AM AEDT |
-|[6 Hours at Donington](https://members.iracing.com/membersite/member/LeagueView.do?league=13065){:target="_blank"} |6 hours at Donington 2026 | |Autodromo Internazionale del Mugello |Sat, October 17 03:00PM EDT |Sat, October 17 08:00PM BST |Sun, October 18 06:00AM AEDT |
 |[Kidbyers Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14072){:target="_blank"} |KRL Season 2\- Ford Mustang GT4 Cup |Fixed |Road America |Thu, October 22 04:40AM EDT |Thu, October 22 09:40AM BST |Thu, October 22 07:40PM AEDT |
-|[LeeOnTrack](https://members.iracing.com/membersite/member/LeagueView.do?league=14205){:target="_blank"} |LEEONTRACK Season 2 \- 2026 |Open |Circuit de Spa-Francorchamps |Sun, October 18 02:00PM EDT |Sun, October 18 07:00PM BST |Mon, October 19 05:00AM AEDT |
-|[WEC Historic series](https://members.iracing.com/membersite/member/LeagueView.do?league=15458){:target="_blank"} |WEC Historic series | |Circuit de Spa-Francorchamps |Sun, October 18 11:45AM EDT |Sun, October 18 04:45PM BST |Mon, October 19 02:45AM AEDT |
 |[IMSA Season 7 By High Point Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=13108){:target="_blank"} |Season 7 IMSA |Open |Daytona International Speedway |Thu, October 22 08:00PM EDT |Fri, October 23 01:00AM BST |Fri, October 23 11:00AM AEDT |
 
 ### IMSA23

@@ -17,10 +17,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|------------------------------------|---------------------------|---------------------------|----------------------------|
+|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|-------|----|-----|----------------|---------------------------|---------------------------|----------------------------|
 |[TopBox off\-road racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |Season 1 2026 Pros Vs\. Joes \(Pro2 vs\. Pro 4 |43 |2845 | | | | | |
+|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO 2/4 \- 20/20 Invert Championship |26 |1565 |Fixed |Huset's Speedway |Sun, October 25 08:00PM EDT |Mon, October 26 12:00AM GMT |Mon, October 26 11:00AM AEDT |
 |[TopBox off\-road racing series](https://members.iracing.com/membersite/member/LeagueView.do?league=5521){:target="_blank"} |Test session |25 |3347 | | | | | |
-|[Thunder Valley Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=11759){:target="_blank"} |PRO 2/4 \- 20/20 Invert Championship |23 |1567 |Fixed |Federated Auto Parts Raceway at I-55 |Sun, October 18 08:00PM EDT |Mon, October 19 01:00AM BST |Mon, October 19 11:00AM AEDT |
 
 ### Pro 2 Lite Truck
 
@@ -50,7 +50,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|-------------|--------|------|------|
-|[CORE \- Championship Off\-Road Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |68 |3343 |Fixed | | | | |
+|[CORE \- Championship Off\-Road Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |69 |3372 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Y2M x LIF/4x4 Rolling Thunder \- 2026 \(Sat\) |31 |2270 |Fixed | | | | |
 |[RPE @ The Big House](https://members.iracing.com/membersite/member/LeagueView.do?league=5964){:target="_blank"} |RPE @ The Big House |26 |2684 | | | | | |
 
