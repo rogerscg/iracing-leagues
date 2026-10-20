@@ -8,17 +8,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2026 S4 CSL Caterham Madness |59 |3224 |Both | | | | |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Caterham Season 1 |50 |2999 |Both |Brands Hatch Circuit |Tue, October 20 02:00PM EDT |Tue, October 20 07:00PM BST |Wed, October 21 05:00AM AEDT |
-|[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2026 S4 CSL Caterham Madness |49 |3177 |Both |Rudskogen Motorsenter |Mon, October 19 02:00PM EDT |Mon, October 19 07:00PM BST |Tue, October 20 05:00AM AEDT |
-|[GoT\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2026S4 Season Monday Tournament |49 |2636 |Open |Brands Hatch Circuit |Mon, October 19 01:30PM EDT |Mon, October 19 06:30PM BST |Tue, October 20 04:30AM AEDT |
+|[GoT\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2026S4 Season Monday Tournament |49 |2622 |Open |Motorsport Arena Oschersleben |Mon, October 26 02:30PM EDT |Mon, October 26 06:30PM GMT |Tue, October 27 05:30AM AEDT |
 |[Backfire Simsport TV Caterham 7Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=15357){:target="_blank"} |Season 1 |29 |3020 | | | | | |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 40 \- Caterham 420R |27 |1798 |Fixed |Brands Hatch Circuit |Mon, October 19 02:00PM EDT |Mon, October 19 07:00PM BST |Tue, October 20 05:00AM AEDT |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 40 \- Caterham 420R |28 |1761 |Fixed |Motorsport Arena Oschersleben |Mon, October 26 02:00PM EDT |Mon, October 26 06:00PM GMT |Tue, October 27 05:00AM AEDT |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2026 Fall Season |27 |2411 |Both |Road Atlanta |Thu, October 22 07:00PM EDT |Fri, October 23 12:00AM BST |Fri, October 23 10:00AM AEDT |
 |[GRS Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |Caterham 420R |25 |1648 |Both |Brands Hatch Circuit |Fri, October 23 03:00PM EDT |Fri, October 23 08:00PM BST |Sat, October 24 06:00AM AEDT |
 |[Sunday Night Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |Sunday Night Speed \- Caterham 420R \- Season 1 |24 |2607 |Fixed | | | | |
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |CATERHAM CUP \- AUTOMNE 2026 |23 |2288 | |Brands Hatch Circuit |Wed, October 21 06:15PM EDT |Wed, October 21 11:15PM BST |Thu, October 22 09:15AM AEDT |
-|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Caterham Cup 2026 |22 |2796 |Both |Snetterton Circuit |Wed, October 21 02:00PM EDT |Wed, October 21 07:00PM BST |Thu, October 22 05:00AM AEDT |
+|[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Caterham Cup 2026 |22 |2796 |Both |Snetterton Circuit |Tue, October 20 02:00PM EDT |Tue, October 20 07:00PM BST |Wed, October 21 05:00AM AEDT |
 |[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 4 \- Caterham 420R |21 |2807 | |Cadwell Park Circuit |Thu, October 22 03:00PM EDT |Thu, October 22 08:00PM BST |Fri, October 23 06:00AM AEDT |
 |[Caterham Esports Powered by AiMotor\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=15379){:target="_blank"} |CE S1 |16 |2876 |Fixed |Mobility Resort Motegi |Sun, October 25 01:00PM EDT |Sun, October 25 05:00PM GMT |Mon, October 26 04:00AM AEDT |
 |[UK Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=2378){:target="_blank"} |UKSR Caterham 420R Thursdays |16 |2252 |Open |Brands Hatch Circuit |Thu, October 22 01:00PM EDT |Thu, October 22 06:00PM BST |Fri, October 23 04:00AM AEDT |
@@ -52,7 +52,7 @@
 |[BillyOirish Caterham Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=15328){:target="_blank"} |Billy Oirish Caterham Challenge |20 |2186 | |Oran Park Raceway |Thu, October 22 04:00PM EDT |Thu, October 22 09:00PM BST |Fri, October 23 07:00AM AEDT |
 |[AXRL PC](https://members.iracing.com/membersite/member/LeagueView.do?league=14282){:target="_blank"} |AXRL PC Supercars \- Season 3 \- Formula Down1der |16 |1395 |Both |Circuit de Spa-Francorchamps |Tue, October 20 04:00AM EDT |Tue, October 20 09:00AM BST |Tue, October 20 07:00PM AEDT |
 |[FSRS Fun series](https://members.iracing.com/membersite/member/LeagueView.do?league=10179){:target="_blank"} |FSRS Caterham night |10 |2134 | | | | | |
-|[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |VRS \- Caterhams |10 |1103 | | | | | |
+|[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |VRS \- Caterhams |10 |1103 | |EchoPark Speedway (Atlanta) |Wed, October 21 09:55PM EDT |Thu, October 22 02:55AM BST |Thu, October 22 12:55PM AEDT |
 
 ### NEC M2 Cup
 
@@ -62,7 +62,6 @@
 |--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------|-------|----|-----|---------------------------------------|---------------------------|---------------------------|----------------------------|
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026C BMW M\-Sport Cup |69 |2498 |Both | | | | |
 |[GoT\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 26S3 \- BMW M2 |48 |2446 |Open | | | | |
-|[AW Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11496){:target="_blank"} |AW Racing M2 |41 |1962 | | | | | |
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2026 S3 BMW M2 Cup |37 |3179 |Both | | | | |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |BMW M2 S1 \- Rookie Road |37 |1386 |Both | | | | |
 |[Kansas City Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9275){:target="_blank"} |DLB Precision ///M Spec Tour |34 |1973 |Both |Watkins Glen International |Tue, October 20 07:15PM EDT |Wed, October 21 12:15AM BST |Wed, October 21 10:15AM AEDT |
@@ -72,6 +71,7 @@
 |[LIGA FRS \- 3](https://members.iracing.com/membersite/member/LeagueView.do?league=14284){:target="_blank"} |BMW M2R \- Rookie to Pro |23 |2571 | | | | | |
 |[SDR \- Endurance Tour \- Season 7](https://members.iracing.com/membersite/member/LeagueView.do?league=11908){:target="_blank"} |BMW M2 |21 |1894 |Open | | | | |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |BMW Blast road course series |18 |1140 |Both |World Wide Technology Raceway (Gateway) |Wed, October 21 10:00PM EDT |Thu, October 22 03:00AM BST |Thu, October 22 01:00PM AEDT |
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |BMW M2 Cup 2026 |18 |2181 |Open |Rudskogen Motorsenter |Mon, October 26 01:00PM EDT |Mon, October 26 05:00PM GMT |Tue, October 27 04:00AM AEDT |
 |[Penny Arcade](https://members.iracing.com/membersite/member/LeagueView.do?league=4778){:target="_blank"} |Bananas Big Beautiful Badass Bonanza \- Season 1 |17 |2007 |Both | | | | |
 |[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG T3/2026 \- BMW M2 CUP |17 |1620 | | | | | |
 |[Federación de Automovilismo Deportivo Uruguayo](https://members.iracing.com/membersite/member/LeagueView.do?league=14372){:target="_blank"} |CAMPEONATO BMW M2 G87 |17 |1495 | | | | | |
