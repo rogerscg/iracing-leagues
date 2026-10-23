@@ -30,6 +30,7 @@
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 14 \- Pro 2 Lites |105 |3070 | |Bark River International Raceway |Fri, October 23 08:30PM EDT |Sat, October 24 01:30AM BST |Sat, October 24 11:30AM AEDT |
 |[RedLine Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14878){:target="_blank"} |Season one pro lite |16 |2118 | | | | | |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Street Truck Series |13 |1322 |Both | | | | |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2 Superlite \- 2026/Oct\-Nov |13 |3172 |Fixed |Lucas Oil Speedway |Thu, October 29 07:00PM EDT |Thu, October 29 11:00PM GMT |Fri, October 30 10:00AM AEDT |
 
 ### Pro 2 Truck
 

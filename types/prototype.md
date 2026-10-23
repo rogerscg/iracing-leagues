@@ -11,7 +11,7 @@
 |---------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026S3 Second Session |25 |1739 | | | | | |
 |[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN LMP2 Series |24 |2282 | | | | | |
-|[CRC Virtual Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=10980){:target="_blank"} |Season 4 |23 |2476 |Both |Daytona International Speedway |Thu, October 22 08:00PM EDT |Fri, October 23 01:00AM BST |Fri, October 23 11:00AM AEDT |
+|[CRC Virtual Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=10980){:target="_blank"} |Season 4 |23 |2476 |Both |Daytona International Speedway |Tue, October 27 08:00PM EDT |Wed, October 28 12:00AM GMT |Wed, October 28 11:00AM AEDT |
 |[Go Time\!](https://members.iracing.com/membersite/member/LeagueView.do?league=12024){:target="_blank"} | LMP2 Season 10  |18 |1395 | | | | | |
 |[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Fall '26 Season |14 |2101 |Open |Circuit Gilles Villeneuve |Sun, October 25 02:00PM EDT |Sun, October 25 06:00PM GMT |Mon, October 26 05:00AM AEDT |
 |[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |12 |2896 |Both | | | | |
@@ -21,10 +21,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|--------------------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[Raging Radicals US TOUR by Odyssey Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13680){:target="_blank"} |Raging Radicals US Tour |38 |2429 | | | | | |
 |[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 3 |28 |2735 |Open | | | | |
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 4 |24 |2955 |Open |Detroit Grand Prix at Belle Isle |Thu, October 22 02:15PM EDT |Thu, October 22 07:15PM BST |Fri, October 23 05:15AM AEDT |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 4 |25 |2962 |Open |Summit Point Raceway |Thu, October 29 03:15PM EDT |Thu, October 29 07:15PM GMT |Fri, October 30 06:15AM AEDT |
 
 ### Radical SR10
 

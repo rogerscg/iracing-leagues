@@ -8,20 +8,20 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|------------------------------|---------------------------|---------------------------|----------------------------|
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2026 S4 CSL Caterham Madness |59 |3224 |Both | | | | |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Caterham Season 1 |52 |2967 |Both |Motorsport Arena Oschersleben |Tue, October 27 03:00PM EDT |Tue, October 27 07:00PM GMT |Wed, October 28 06:00AM AEDT |
 |[GoT\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2026S4 Season Monday Tournament |49 |2622 |Open |Motorsport Arena Oschersleben |Mon, October 26 02:30PM EDT |Mon, October 26 06:30PM GMT |Tue, October 27 05:30AM AEDT |
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |CATERHAM CUP \- AUTOMNE 2026 |31 |2155 | | | | | |
-|[Backfire Simsport TV Caterham 7Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=15357){:target="_blank"} |Season 1 |29 |3020 | | | | | |
+|[Backfire Simsport TV Caterham 7Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=15357){:target="_blank"} |Season 1 |29 |3020 | |Brands Hatch Circuit |Mon, October 26 02:30PM EDT |Mon, October 26 06:30PM GMT |Tue, October 27 05:30AM AEDT |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 40 \- Caterham 420R |28 |1761 |Fixed |Motorsport Arena Oschersleben |Mon, October 26 02:00PM EDT |Mon, October 26 06:00PM GMT |Tue, October 27 05:00AM AEDT |
-|[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2026 Fall Season |27 |2411 |Both |Road Atlanta |Thu, October 22 07:00PM EDT |Fri, October 23 12:00AM BST |Fri, October 23 10:00AM AEDT |
+|[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2026 Fall Season |28 |2320 |Both |Virginia International Raceway |Thu, October 29 07:00PM EDT |Thu, October 29 11:00PM GMT |Fri, October 30 10:00AM AEDT |
 |[GRS Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |Caterham 420R |25 |1648 |Both |Brands Hatch Circuit |Fri, October 23 03:00PM EDT |Fri, October 23 08:00PM BST |Sat, October 24 06:00AM AEDT |
 |[Sunday Night Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |Sunday Night Speed \- Caterham 420R \- Season 1 |24 |2607 |Fixed | | | | |
 |[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Caterham Cup 2026 |22 |2760 |Both |Charlotte Motor Speedway |Wed, October 28 02:00PM EDT |Wed, October 28 06:00PM GMT |Thu, October 29 05:00AM AEDT |
-|[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 4 \- Caterham 420R |21 |2807 | |Cadwell Park Circuit |Thu, October 22 03:00PM EDT |Thu, October 22 08:00PM BST |Fri, October 23 06:00AM AEDT |
+|[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 4 \- Caterham 420R |22 |2825 | |Knockhill Racing Circuit |Thu, October 29 04:00PM EDT |Thu, October 29 08:00PM GMT |Fri, October 30 07:00AM AEDT |
+|[UK Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=2378){:target="_blank"} |UKSR Caterham 420R Thursdays |17 |2268 |Open | | | | |
 |[Caterham Esports Powered by AiMotor\.eu](https://members.iracing.com/membersite/member/LeagueView.do?league=15379){:target="_blank"} |CE S1 |16 |2876 |Fixed |Mobility Resort Motegi |Sun, October 25 01:00PM EDT |Sun, October 25 05:00PM GMT |Mon, October 26 04:00AM AEDT |
-|[UK Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=2378){:target="_blank"} |UKSR Caterham 420R Thursdays |16 |2252 |Open |Brands Hatch Circuit |Thu, October 22 01:00PM EDT |Thu, October 22 06:00PM BST |Fri, October 23 04:00AM AEDT |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026 Season 4: Wednesday 420R |10 |2088 | |Motorsport Arena Oschersleben |Wed, October 28 08:30PM EDT |Thu, October 29 12:30AM GMT |Thu, October 29 11:30AM AEDT |
 
 ### Caterham Academy
@@ -48,9 +48,9 @@
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 1 |99 |4806 |Open | | | | |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Season 3, 2026 |40 |2446 |Open | | | | |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Season 4, 2026 |40 |2623 |Open |Sandown International Motor Raceway |Tue, October 27 03:00AM EDT |Tue, October 27 07:00AM GMT |Tue, October 27 06:00PM AEDT |
+|[BillyOirish Caterham Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=15328){:target="_blank"} |Billy Oirish Caterham Challenge |24 |2193 | |Circuit Zolder |Thu, October 29 05:00PM EDT |Thu, October 29 09:00PM GMT |Fri, October 30 08:00AM AEDT |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |GVM Season 4 |22 |1622 | | | | | |
-|[BillyOirish Caterham Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=15328){:target="_blank"} |Billy Oirish Caterham Challenge |20 |2186 | |Oran Park Raceway |Thu, October 22 04:00PM EDT |Thu, October 22 09:00PM BST |Fri, October 23 07:00AM AEDT |
-|[AXRL PC](https://members.iracing.com/membersite/member/LeagueView.do?league=14282){:target="_blank"} |AXRL PC Supercars \- Season 3 \- Formula Down1der |17 |1462 |Both | | | | |
+|[AXRL PC](https://members.iracing.com/membersite/member/LeagueView.do?league=14282){:target="_blank"} |AXRL PC Supercars \- Season 3 \- Formula Down1der |17 |1462 |Both |Phillip Island Circuit |Tue, October 27 04:00AM EDT |Tue, October 27 08:00AM GMT |Tue, October 27 07:00PM AEDT |
 |[FSRS Fun series](https://members.iracing.com/membersite/member/LeagueView.do?league=10179){:target="_blank"} |FSRS Caterham night |10 |2134 | | | | | |
 |[Velocity Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=11522){:target="_blank"} |VRS \- Caterhams |10 |1163 | | | | | |
 
@@ -86,16 +86,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|--------------------------|---------------------------|---------------------------|----------------------------|
+|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|----------------|---------------------------|---------------------------|----------------------------|
 |[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |170 |None |Open | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Elite Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026D V8SC Elite Series \- Trophi\.AI |82 |2671 | |Circuit Zolder |Wed, October 28 04:58AM EDT |Wed, October 28 08:58AM GMT |Wed, October 28 07:58PM AEDT |
 |[GSRC\.inc Trophi\.AI V8 Supercar Elite Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026C V8SC Series \- Trophi\.AI |80 |2323 | | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026D V8SC Development Series \- Trophi\.AI |72 |1925 |Both |Circuit Zolder |Wed, October 28 04:53AM EDT |Wed, October 28 08:53AM GMT |Wed, October 28 07:53PM AEDT |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Saturday Aus Sprints Season 28 |67 |1664 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Series Tuesday 29 |57 |1412 | | | | | |
 |[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints season 29 Saturday |54 |1475 | | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |2026B |41 |2213 |Fixed |Richmond Raceway |Sun, October 25 04:00AM EDT |Sun, October 25 08:00AM GMT |Sun, October 25 07:00PM AEDT |
-|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold V8 Thursdays \- Season 2 2026 |40 |1593 | |Autódromo José Carlos Pace |Thu, October 22 05:30AM EDT |Thu, October 22 10:30AM BST |Thu, October 22 08:30PM AEDT |
+|[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold V8 Thursdays \- Season 2 2026 |41 |1600 | | | | | |
 |[OZ\-E SIM RACING \- V8](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |V8  SUPERCARS GEN3 SEASON 10 |24 |None |Both | | | | |
 |[Backfire Simsport TV V8ESC](https://members.iracing.com/membersite/member/LeagueView.do?league=13172){:target="_blank"} |Season 19 |22 |4226 |Open | | | | |
 
