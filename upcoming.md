@@ -21,41 +21,41 @@
 |---------------------------------------------------------------------------------------------------------------|-------------------------|-----|---------------------|---------------------------|---------------------------|----------------------------|
 |[Great Lakes Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=4823){:target="_blank"} |Winter Series \- Season 6 |Fixed |South Boston Speedway |Tue, October 27 07:00PM EDT |Tue, October 27 11:00PM GMT |Wed, October 28 10:00AM AEDT |
 
-### Impala SS Class A
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
-|[MER No Limits Car of Tomorrow Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13685){:target="_blank"} |CoT Fall 26 Series | |Daytona International Speedway |Tue, October 27 07:30PM EDT |Tue, October 27 11:30PM GMT |Wed, October 28 10:30AM AEDT |
-
 ### NASCAR 2003 Gen 4
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------|--------------------------|-----|--------------------|---------------------------|---------------------------|----------------------------|
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Gen 4 Series Season 4 | |Texas Motor Speedway |Wed, October 28 07:00PM EDT |Wed, October 28 11:00PM GMT |Thu, October 29 10:00AM AEDT |
-|[Smokin' Thunder Gen4 Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=14755){:target="_blank"} |Gen4 Cup Series | |Daytona International Speedway |Mon, October 26 06:30PM EDT |Mon, October 26 10:30PM GMT |Tue, October 27 09:30AM AEDT |
 
 ### NASCAR O'Reilly Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|----------------------|-----|-------------------------------|---------------------------|---------------------------|----------------------------|
+|--------------------------------------------------------------------------------------------------------------------|-----------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 O'Reilly Season 4 | |Michigan International Speedway |Thu, October 29 07:00PM EDT |Thu, October 29 11:00PM GMT |Fri, October 30 10:00AM AEDT |
+|[Northwest Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2381){:target="_blank"} |NWOS Season 4 Practices | |Daytona International Speedway |Mon, November 02 12:00AM EST |Mon, November 02 05:00AM GMT |Mon, November 02 04:00PM AEDT |
 
 ### NASCAR Truck Series
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-----|------------------------------|---------------------------|---------------------------|----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Pats Fan Truck Series \- Powerd by ChopShop](https://members.iracing.com/membersite/member/LeagueView.do?league=9086){:target="_blank"} |SPEEDY TROPHIES SEASON 7 | |Daytona International Speedway |Tue, October 27 07:30PM EDT |Tue, October 27 11:30PM GMT |Wed, October 28 10:30AM AEDT |
-|[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Truck Series Season 4 | |Charlotte Motor Speedway |Mon, October 26 07:00PM EDT |Mon, October 26 11:00PM GMT |Tue, October 27 10:00AM AEDT |
+|[Valued Alliance Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14114){:target="_blank"} |VAR TRUCK Series | |Michigan International Speedway |Tue, November 03 07:30PM EST |Wed, November 04 12:30AM GMT |Wed, November 04 11:30AM AEDT |
 |[OLD FARTS SIM RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=314){:target="_blank"} |2026 Truck Speedway Series 4 | |Daytona International Speedway |Fri, October 30 07:00PM EDT |Fri, October 30 11:00PM GMT |Sat, October 31 10:00AM AEDT |
-|[WSL Truck Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9800){:target="_blank"} |WSL Truck Series Season 5 Fall Session |Fixed |Talladega Superspeedway |Mon, October 26 07:00PM EDT |Mon, October 26 11:00PM GMT |Tue, October 27 10:00AM AEDT |
+|[Northwest Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=2381){:target="_blank"} |NWTS Seasons 13 Practices | |Daytona International Speedway |Sun, November 01 10:00PM EST |Mon, November 02 03:00AM GMT |Mon, November 02 02:00PM AEDT |
+
+### Whelen Modified
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------|---------------|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
+|[WNY iRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=4158){:target="_blank"} |WNY MODS 26\-27 | |New Hampshire Motor Speedway |Tue, November 03 08:00PM EST |Wed, November 04 01:00AM GMT |Wed, November 04 12:00PM AEDT |
 
 # Oval
 
@@ -94,6 +94,7 @@
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-----|-----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[FIA F4 eSports Global Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=11277){:target="_blank"} |2026 FIA F4 eSports Global Championship | |[Legacy] Silverstone Circuit - 2008 |Sat, October 31 02:40PM EDT |Sat, October 31 06:40PM GMT |Sun, November 01 05:40AM AEDT |
 |[CYPRUS GOATS](https://members.iracing.com/membersite/member/LeagueView.do?league=15456){:target="_blank"} |Cyprus F4 Preseason Testing |Fixed |Circuit de Spa-Francorchamps |Sun, November 01 11:50AM EST |Sun, November 01 04:50PM GMT |Mon, November 02 03:50AM AEDT |
+|[GRS Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |FIA F4 Season 2 |Both |Silverstone Circuit |Tue, November 03 03:00PM EST |Tue, November 03 08:00PM GMT |Wed, November 04 07:00AM AEDT |
 
 ### Pro Mazda
 
@@ -115,15 +116,6 @@
 
 # Sports Car
 
-### Crev PCup 2026
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------|-----------------------------------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
-|[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing Porsche Cup NA 2026 \- ELITE |Fixed |Sebring International Raceway |Mon, October 26 09:30PM EDT |Tue, October 27 01:30AM GMT |Tue, October 27 12:30PM AEDT |
-|[MCM Racing Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=9442){:target="_blank"} |MCM Racing Porsche Cup NA 2026 \- PREMIER |Fixed |Sebring International Raceway |Mon, October 26 08:00PM EDT |Tue, October 27 12:00AM GMT |Tue, October 27 11:00AM AEDT |
-
 ### Mazda MX-5 Cup 2016
 
 [Back to Top](#)  
@@ -133,13 +125,13 @@
 |[NASRS](https://members.iracing.com/membersite/member/LeagueView.do?league=14295){:target="_blank"} |NASRS Season 2 \- Part 2 \- MX\-5 | |Okayama International Circuit |Mon, November 02 08:30PM EST |Tue, November 03 01:30AM GMT |Tue, November 03 12:30PM AEDT |
 |[Apex Motorclub MX\-5 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13483){:target="_blank"} |Apex Motorclub MX5 Series Season 6 | |Road America |Wed, October 28 09:30PM EDT |Thu, October 29 01:30AM GMT |Thu, October 29 12:30PM AEDT |
 
-### Toyota GR86
+### [Legacy] V8Supercars
 
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------|---------------|-----|------------|---------------------------|---------------------------|----------------------------|
-|[West Coast Sim Racing \- GR Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12739){:target="_blank"} |GR Cup Season 6 |Both |Road Atlanta |Mon, October 26 09:30PM EDT |Tue, October 27 01:30AM GMT |Tue, October 27 12:30PM AEDT |
+|------------------------------------------------------------------------------------------------------------------|------------------------|-----|------------|---------------------------|---------------------------|----------------------------|
+|[Skid Mark Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10396){:target="_blank"} |Supercar Saturday Series |Fixed |Road America |Fri, October 30 08:00PM EDT |Sat, October 31 12:00AM GMT |Sat, October 31 11:00AM AEDT |
 
 # Prototype
 
@@ -161,14 +153,6 @@
 
 # Road
 
-### Caterham 420R
-
-[Back to Top](#)  
-
-| League Name | Season | Setup | Season Start | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------|---------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
-|[ESR SEVEN Trophy 2027](https://members.iracing.com/membersite/member/LeagueView.do?league=7945){:target="_blank"} |2026 ESR SEVEN Trophy | |Oulton Park Circuit |Mon, October 26 02:00PM EDT |Mon, October 26 06:00PM GMT |Tue, October 27 05:00AM AEDT |
-
 ### Caterham Academy
 
 [Back to Top](#)  
@@ -176,6 +160,14 @@
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------------|-------------------------|-----|-----------------------------|---------------------------|---------------------------|----------------------------|
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Caterham Euro Academy |Open |Motorsport Arena Oschersleben |Tue, October 27 04:00PM EDT |Tue, October 27 08:00PM GMT |Wed, October 28 07:00AM AEDT |
+
+### NEC M2 Cup
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------------------------------|---------|-----|--------------|----------------------------|----------------------------|-----------------------------|
+|[Skip Barber Sim Racing Fall Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=15383){:target="_blank"} |Fall 2026 | |Lime Rock Park |Tue, November 03 06:00PM EST |Tue, November 03 11:00PM GMT |Wed, November 04 10:00AM AEDT |
 
 # Dirt Oval
 
@@ -213,9 +205,9 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|--------------------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Meat Missile Mondays](https://members.iracing.com/membersite/member/LeagueView.do?league=15416){:target="_blank"} |Meat Missile Mondays Season 1 | |Circuit de Spa-Francorchamps |Mon, November 02 09:00PM EST |Tue, November 03 02:00AM GMT |Tue, November 03 01:00PM AEDT |
 |[Kenaz SimSports \- racetheapex\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=12953){:target="_blank"} |Kenaz Sim Sports Fall 2027 \- GT3 league |Open |Brands Hatch Circuit |Tue, October 27 08:00PM EDT |Wed, October 28 12:00AM GMT |Wed, October 28 11:00AM AEDT |
-|[Modified Tour Gang](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Gang, GT3's | |Daytona International Speedway |Mon, November 02 07:30PM EST |Tue, November 03 12:30AM GMT |Tue, November 03 11:30AM AEDT |
+|[The Gang GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=11043){:target="_blank"} |The Gang, GT3's | |Daytona International Speedway |Mon, November 02 07:30PM EST |Tue, November 03 12:30AM GMT |Tue, November 03 11:30AM AEDT |
+|[Champion Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=185){:target="_blank"} |iRTSS Fall/Winter Wednesday Night Series |Both |WeatherTech Raceway at Laguna Seca |Tue, November 03 08:30PM EST |Wed, November 04 01:30AM GMT |Wed, November 04 12:30PM AEDT |
 |[SKR Development Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13265){:target="_blank"} |SKR Development League Season 3 \(2026\) | |Autodromo Internazionale Enzo e Dino Ferrari |Wed, October 28 05:40PM EDT |Wed, October 28 09:40PM GMT |Thu, October 29 08:40AM AEDT |
 
 ### Hosted All Cars Class
@@ -228,4 +220,12 @@
 |[West Coast Sim Racing GT\-M Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=12728){:target="_blank"} |GT\-M Series | |Canadian Tire Motorsports Park |Thu, October 29 09:30PM EDT |Fri, October 30 01:30AM GMT |Fri, October 30 12:30PM AEDT |
 |[Aspire Racing \- Sports Car Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10173){:target="_blank"} |ISL ASPIRE RACING SPORTSCAR LEAGUE \- SEASON 4 |Open |Circuit Gilles Villeneuve |Tue, October 27 02:00PM EDT |Tue, October 27 06:00PM GMT |Wed, October 28 05:00AM AEDT |
 |[B\-Roy's Florida Winter Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14146){:target="_blank"} |Season One |Fixed |Daytona International Speedway |Mon, November 02 07:30PM EST |Tue, November 03 12:30AM GMT |Tue, November 03 11:30AM AEDT |
+
+### Touring Car
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------|-----|-------------------|---------------------------|---------------------------|----------------------------|
+|[Club100 Sim Racing Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=6252){:target="_blank"} |2026/27 Club100 iRacing Championship |Fixed |Oulton Park Circuit |Tue, October 27 02:00PM EDT |Tue, October 27 06:00PM GMT |Wed, October 28 05:00AM AEDT |
 
