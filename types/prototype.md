@@ -10,8 +10,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[CRC Virtual Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=10980){:target="_blank"} |Season 4 |23 |2484 |Both |Sebring International Raceway |Tue, November 03 07:00PM EST |Wed, November 04 12:00AM GMT |Wed, November 04 11:00AM AEDT |
-|[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Fall '26 Season |14 |2157 |Open |Circuit des 24 Heures du Mans |Sun, November 01 01:00PM EST |Sun, November 01 06:00PM GMT |Mon, November 02 05:00AM AEDT |
-|[The System Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=10075){:target="_blank"} |LMP2 Mini Season |12 |2896 |Both | | | | |
+|[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Fall '26 Season |14 |2189 |Open |Autódromo Hermanos Rodríguez |Sun, November 08 01:00PM EST |Sun, November 08 06:00PM GMT |Mon, November 09 05:00AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -42,14 +41,14 @@
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 10 |28 |2550 | |Sebring International Raceway |Mon, November 02 02:50PM EST |Mon, November 02 07:50PM GMT |Tue, November 03 06:50AM AEDT |
 |[Secret Circuit Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15120){:target="_blank"} |SCS Season 1 \- Radical SR8 |19 |2598 | |Road Atlanta |Thu, November 05 01:00PM EST |Thu, November 05 06:00PM GMT |Fri, November 06 05:00AM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 9 |16 |2773 | | | | | |
-|[Farmen Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11807){:target="_blank"} |Farmen 2026 høst Radical |10 |999 | |Motorsport Arena Oschersleben |Sun, November 01 03:00PM EST |Sun, November 01 08:00PM GMT |Mon, November 02 07:00AM AEDT |
+|[Farmen Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11807){:target="_blank"} |Farmen 2026 høst Radical |10 |1009 | |MotorLand Aragón |Sun, November 08 03:00PM EST |Sun, November 08 08:00PM GMT |Mon, November 09 07:00AM AEDT |
 
 ### Spec Racer Ford
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------|------------------------|-------|----|-----|-------------------------------|----------------------------|----------------------------|-----------------------------|
-|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S4 SRF WW |58 |3087 |Open |[Legacy] Phoenix Raceway - 2008 |Sun, November 01 01:40PM EST |Sun, November 01 06:40PM GMT |Mon, November 02 05:40AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------|------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|[SRF Weekend Warriors](https://members.iracing.com/membersite/member/LeagueView.do?league=1566){:target="_blank"} |2026S4 SRF WW |61 |3109 |Open |Algarve International Circuit |Sun, November 08 01:40PM EST |Sun, November 08 06:40PM GMT |Mon, November 09 05:40AM AEDT |
 |[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |SRF Rookie Road Season 1 |16 |1664 |Both |Circuit de Lédenon |Mon, November 02 08:00PM EST |Tue, November 03 01:00AM GMT |Tue, November 03 12:00PM AEDT |
 
