@@ -28,49 +28,46 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[Sim Racers Group\- Wednesday Advanced](https://members.iracing.com/membersite/member/LeagueView.do?league=12445){:target="_blank"} |2026 S4 NXT |40 |1961 | |Brands Hatch Circuit |Wed, November 04 08:59PM EST |Thu, November 05 01:59AM GMT |Thu, November 05 12:59PM AEDT |
-|[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} |2026S4 NXT |32 |1905 |Both |Charlotte Motor Speedway |Mon, November 02 08:30PM EST |Tue, November 03 01:30AM GMT |Tue, November 03 12:30PM AEDT |
+|[Blue Flags & Dads](https://members.iracing.com/membersite/member/LeagueView.do?league=12713){:target="_blank"} |2026S4 NXT |32 |1911 |Both |Okayama International Circuit |Mon, November 09 08:30PM EST |Tue, November 10 01:30AM GMT |Tue, November 10 12:30PM AEDT |
 |[American Sim Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=36){:target="_blank"} |2026 Wednesday NXT Championship \- Season 8 |24 |1594 |Fixed | | | | |
 |[DRSCCA Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10649){:target="_blank"} |DRCCA fall Indy NXT |24 |1899 |Both |Mid-Ohio Sports Car Course |Tue, November 03 07:00PM EST |Wed, November 04 12:00AM GMT |Wed, November 04 11:00AM AEDT |
 |[ITA Open Wheel Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=3915){:target="_blank"} |ITA OPEN WHEEL CHALLENGE SEASON 5 |20 |1451 |Open | | | | |
 |[Elite Lights Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3860){:target="_blank"} |2026B |19 |1892 | | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 39 \- OVAL Indy NXT |18 |1171 |Fixed | | | | |
-|[Smaug Racing Xperience](https://members.iracing.com/membersite/member/LeagueView.do?league=14116){:target="_blank"} |Season 2 \(NXT\) |15 |1759 |Fixed | | | | |
 |[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 40 \- Oval Indy NXT |13 |1073 |Fixed |Irwindale Speedway |Fri, November 06 12:00PM EST |Fri, November 06 05:00PM GMT |Sat, November 07 04:00AM AEDT |
 |[GLR Indy NXT](https://members.iracing.com/membersite/member/LeagueView.do?league=13724){:target="_blank"} |GLR Indy NXT Season 2 |12 |1658 | |Road America |Wed, November 04 07:00PM EST |Thu, November 05 12:00AM GMT |Thu, November 05 11:00AM AEDT |
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |1\. Timeless INDY Series \(IL\-15\) |12 |1543 |Both |Richmond Raceway |Mon, November 02 09:00PM EST |Tue, November 03 02:00AM GMT |Tue, November 03 01:00PM AEDT |
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |1\. Timeless INDY Series \(IL\-15\) |12 |1511 |Both |Charlotte Motor Speedway |Mon, November 09 09:00PM EST |Tue, November 10 02:00AM GMT |Tue, November 10 01:00PM AEDT |
 
 ### Dallara IR18
 
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------|----|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Votive Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |VOTIVE PRACTICE |103 |1930 |Fixed | | | | |
-|[Crown Athletics Racing Tour](https://members.iracing.com/membersite/member/LeagueView.do?league=10372){:target="_blank"} |CART IndyCar S5 |61 |2256 |Fixed | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026C Indycar Road to Indy Series \- Disruptive Labs |58 |2396 |Both | | | | |
 |[Votive Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11184){:target="_blank"} |Votive INDY Oval Series \- Season 5 |58 |4751 |Fixed | | | | |
 |[Formula Indy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5389){:target="_blank"} |Formula Indy Series \- Season 9 |57 |3166 |Fixed | | | | |
 |[Indy Euro Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13756){:target="_blank"} |Indy Euro Series Season 2 |55 |2572 |Fixed | | | | |
-|[INDY VIRTUAL CHALLENGE PRO SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2026 |49 |2748 | | | | | |
+|[INDY VIRTUAL CHALLENGE PRO SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=5616){:target="_blank"} |2026 |49 |2748 | |Phoenix Raceway |Tue, November 10 05:30PM EST |Tue, November 10 10:30PM GMT |Wed, November 11 09:30AM AEDT |
 |[Svenska Eracingligan](https://members.iracing.com/membersite/member/LeagueView.do?league=5826){:target="_blank"} |Indycar |49 |2045 | | | | | |
-|[GODLEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=14380){:target="_blank"} |División Olimpo \- Temporada 2 |49 |3465 |Fixed |Long Beach Street Circuit |Thu, November 05 03:00PM EST |Thu, November 05 08:00PM GMT |Fri, November 06 07:00AM AEDT |
+|[GODLEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=14380){:target="_blank"} |División Olimpo \- Temporada 2 |49 |3465 |Fixed |WeatherTech Raceway at Laguna Seca |Thu, November 05 03:00PM EST |Thu, November 05 08:00PM GMT |Fri, November 06 07:00AM AEDT |
 |[Race Of The Week \- Training League](https://members.iracing.com/membersite/member/LeagueView.do?league=6227){:target="_blank"} |INDYCAR S2\-26 |42 |2250 | |St. Petersburg Grand Prix |Mon, November 09 01:00PM EST |Mon, November 09 06:00PM GMT |Tue, November 10 05:00AM AEDT |
 |[Nitro iRacing Cup Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5604){:target="_blank"} |Nitro IndyCar Off\-Season 2026 |36 |3235 |Fixed | | | | |
 |[Area 51 Indycar Oval Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5047){:target="_blank"} |2026 Area 51 Indycar Oval Season 21 |33 |3461 |Fixed | | | | |
 |[Grassroots Racing \- INDYCAR Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14835){:target="_blank"} |SEASON 1 |33 |1746 |Open | | | | |
-|[HVRL Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12676){:target="_blank"} |HVRL Indy Car Season 1 |32 |1831 | |Phoenix Raceway |Wed, November 04 08:00PM EST |Thu, November 05 01:00AM GMT |Thu, November 05 12:00PM AEDT |
-|[CTC ARC Music IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14882){:target="_blank"} |ARC Music Season 2 |32 |1898 | | | | | |
+|[HVRL Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12676){:target="_blank"} |HVRL Indy Car Season 1 |32 |1831 | |Darlington Raceway |Wed, November 04 08:00PM EST |Thu, November 05 01:00AM GMT |Thu, November 05 12:00PM AEDT |
+|[CTC ARC Music IndyCar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14882){:target="_blank"} |ARC Music Season 2 |32 |1898 | |Michigan International Speedway |Tue, November 10 08:00PM EST |Wed, November 11 01:00AM GMT |Wed, November 11 12:00PM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S4 SECTRONIC INDY SILVER |32 |2405 |Both |EchoPark Speedway (Atlanta) |Thu, November 05 05:00PM EST |Thu, November 05 10:00PM GMT |Fri, November 06 09:00AM AEDT |
 |[Home Motorsports \(HMS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=7888){:target="_blank"} |Road to Indy \- IndyCar \- 2026 Summer |31 |1330 |Fixed | | | | |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |IndyCar Series |28 |1442 |Both | | | | |
-|[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S3 SECTRONIC INDY SILVER |26 |2399 |Both | | | | |
 |[Prime Grid Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=6851){:target="_blank"} |PGR Indy Car Series Season 4 |23 |1018 |Fixed | | | | |
 |[Virtual Formula Oval Series \[VFOS\]](https://members.iracing.com/membersite/member/LeagueView.do?league=13873){:target="_blank"} |Virtual Formula Oval Series 2026 season |22 |2467 |Open | | | | |
 |[TDFW Dallara IR18 Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7487){:target="_blank"} |Fall Brawl |22 |1120 | | | | | |
 |[Theta Indy Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14798){:target="_blank"} |Winter Championship \- Season 0\.5 |21 |4617 | | | | | |
-|[Ten10 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13434){:target="_blank"} |Moonday Night Racing Season 4 \- Indycar |21 |1770 |Fixed |Circuit Zolder |Mon, November 02 09:00PM EST |Tue, November 03 02:00AM GMT |Tue, November 03 01:00PM AEDT |
+|[Ten10 Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13434){:target="_blank"} |Moonday Night Racing Season 4 \- Indycar |21 |1772 |Fixed |Long Beach Street Circuit |Mon, November 09 09:00PM EST |Tue, November 10 02:00AM GMT |Tue, November 10 01:00PM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S4 SECTRONIC INDY GOLD |21 |2910 |Both |EchoPark Speedway (Atlanta) |Sun, November 08 05:00PM EST |Sun, November 08 10:00PM GMT |Mon, November 09 09:00AM AEDT |
 |[TopOne AV](https://members.iracing.com/membersite/member/LeagueView.do?league=11990){:target="_blank"} |2026S3 SECTRONIC INDY GOLD |20 |3152 |Both | | | | |
 |[Indy Racing World Series](https://members.iracing.com/membersite/member/LeagueView.do?league=9599){:target="_blank"} |Season 8 |20 |1395 |Fixed | | | | |
@@ -78,11 +75,12 @@
 |[Snowflake Indycar Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=15269){:target="_blank"} |Season 1 |19 |3421 |Open | | | | |
 |[Next\-Level Gaming IndyCar League](https://members.iracing.com/membersite/member/LeagueView.do?league=10550){:target="_blank"} |IR18 Season 1 |18 |1509 |Fixed | | | | |
 |[GLR Indy Car by Lincoln Tech](https://members.iracing.com/membersite/member/LeagueView.do?league=15020){:target="_blank"} |Lincoln Tech Indy Car Season 3 |17 |1509 | |The Milwaukee Mile |Sat, November 07 07:00PM EST |Sun, November 08 12:00AM GMT |Sun, November 08 11:00AM AEDT |
-|[PRA Vision Corsa Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12888){:target="_blank"} |PRA IndyCar Season 5 |17 |1441 | | | | | |
+|[PRA Vision Corsa Indycar Series](https://members.iracing.com/membersite/member/LeagueView.do?league=12888){:target="_blank"} |PRA IndyCar Season 5 |17 |1441 | |Iowa Speedway - Oval - 2011 |Tue, November 10 08:30PM EST |Wed, November 11 01:30AM GMT |Wed, November 11 12:30PM AEDT |
 |[SGE Open\-Wheel Invitational](https://members.iracing.com/membersite/member/LeagueView.do?league=3960){:target="_blank"} |SGE 2026 GSI OW Invitational |17 |3762 | | | | | |
 |[JPs Chump Kart](https://members.iracing.com/membersite/member/LeagueView.do?league=12775){:target="_blank"} |Chump Kart Season 4 |15 |1254 | | | | | |
 |[Racing For Jesus Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=179){:target="_blank"} |Victory IndyCars October 2026 Championship |11 |1456 | | | | | |
 |[Shake & Bake Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12406){:target="_blank"} |S&B Indycar Season |10 |1301 |Open | | | | |
+|[TPL IndyCar](https://members.iracing.com/membersite/member/LeagueView.do?league=15287){:target="_blank"} |Season 1 IndyCar |10 |1074 | | | | | |
 
 ### FIA F4
 
@@ -94,8 +92,8 @@
 |[iGPFun](https://members.iracing.com/membersite/member/LeagueView.do?league=637){:target="_blank"} |F4 \- 2026 S4 |66 |2923 |Open |Autódromo José Carlos Pace |Sun, November 08 01:30PM EST |Sun, November 08 06:30PM GMT |Mon, November 09 05:30AM AEDT |
 |[GODLEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=14380){:target="_blank"} |División Titanes \- Temporada 2 |54 |2476 |Fixed |Autodromo Nazionale Monza |Wed, November 04 03:45PM EST |Wed, November 04 08:45PM GMT |Thu, November 05 07:45AM AEDT |
 |[La Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=11004){:target="_blank"} |Copa F4 \- Season V |50 |1913 |Both | | | | |
+|[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S11 F4 Challenge |48 |1972 |Both |Autódromo José Carlos Pace |Mon, November 09 07:30PM EST |Tue, November 10 12:30AM GMT |Tue, November 10 11:30AM AEDT |
 |[Nitro Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=10258){:target="_blank"} |Clasificatorios \- Colombia \- FIA ACC 2026 |47 |1897 | | | | | |
-|[Global Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8258){:target="_blank"} |S11 F4 Challenge |45 |1975 |Both |Autódromo Hermanos Rodríguez |Mon, November 02 07:30PM EST |Tue, November 03 12:30AM GMT |Tue, November 03 11:30AM AEDT |
 |[Missed Apex iRacing](https://members.iracing.com/membersite/member/LeagueView.do?league=10651){:target="_blank"} |Season 10 |35 |2107 | | | | | |
 |[British F4 Esports Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=9004){:target="_blank"} |2026 |35 |5689 | | | | | |
 |[Ozzie Thunder Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14554){:target="_blank"} |Ozzie Thunder & C&M Consulting F4 Spring Season 3 |34 |1784 | |Brands Hatch Circuit |Thu, November 05 02:30AM EST |Thu, November 05 07:30AM GMT |Thu, November 05 06:30PM AEDT |
@@ -118,7 +116,6 @@
 |[Apollo Racing Club \- Formula 4 Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5370){:target="_blank"} |Arc F4 Season 2 |17 |1780 |Fixed | | | | |
 |[ATRacers](https://members.iracing.com/membersite/member/LeagueView.do?league=12412){:target="_blank"} |Temporada 11 \- F4 \- European AutoCare |15 |1459 |Both | | | | |
 |[Canada Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=1689){:target="_blank"} |2026 \- S4 \- F4 \- Tuesday |13 |1928 |Both |Autódromo José Carlos Pace |Tue, November 03 07:00PM EST |Wed, November 04 12:00AM GMT |Wed, November 04 11:00AM AEDT |
-|[SKADS Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=14118){:target="_blank"} |FIA F4 \- Season 1 |12 |1296 | | | | | |
 |[GRS Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |GRS Formula 4 Week Pre\-Season  |12 |1604 |Both | | | | |
 |[DSM Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=12220){:target="_blank"} |2026 FALL F4 SEASON |12 |1514 |Both |Autódromo José Carlos Pace |Wed, November 04 10:35PM EST |Thu, November 05 03:35AM GMT |Thu, November 05 02:35PM AEDT |
 |[Kenaz SimSports \- racetheapex\.com](https://members.iracing.com/membersite/member/LeagueView.do?league=12953){:target="_blank"} |Kenaz Sim Sports \- Summer 2 \- FIA F4 |11 |1436 |Open | | | | |
@@ -224,9 +221,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|--------------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------|--------------------|-------|----|-----|----------------------------|----------------------------|----------------------------|-----------------------------|
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 36 |40 |3040 |Both | | | | |
-|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 37 |39 |3156 |Both |Brands Hatch Circuit |Mon, November 02 02:00PM EST |Mon, November 02 07:00PM GMT |Tue, November 03 06:00AM AEDT |
+|[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Skippy Cup Season 37 |40 |3199 |Both |Circuit de Spa-Francorchamps |Mon, November 09 02:00PM EST |Mon, November 09 07:00PM GMT |Tue, November 10 06:00AM AEDT |
 
 ### Super Formula Lights
 
@@ -237,11 +234,11 @@
 |[iGPFun](https://members.iracing.com/membersite/member/LeagueView.do?league=637){:target="_blank"} |SFL \- 2026 Season 3 |68 |3263 |Open | | | | |
 |[Global Open Wheel](https://members.iracing.com/membersite/member/LeagueView.do?league=15234){:target="_blank"} |2026 \- SFL Season 4 |38 |2784 |Open |Circuit of the Americas |Sun, November 08 02:30PM EST |Sun, November 08 07:30PM GMT |Mon, November 09 06:30AM AEDT |
 |[LAS Esport](https://members.iracing.com/membersite/member/LeagueView.do?league=8419){:target="_blank"} |SFL S03 |32 |2300 |Fixed |Algarve International Circuit |Thu, November 05 06:30PM EST |Thu, November 05 11:30PM GMT |Fri, November 06 10:30AM AEDT |
-|[LAS Esport](https://members.iracing.com/membersite/member/LeagueView.do?league=8419){:target="_blank"} |LAS Esport SFL Essais libre |26 |2743 |Fixed |Algarve International Circuit |Mon, November 02 06:30PM EST |Mon, November 02 11:30PM GMT |Tue, November 03 10:30AM AEDT |
-|[Americas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13481){:target="_blank"} |Super Formula Mondays |22 |1588 |Open |Circuit de Spa-Francorchamps |Mon, November 02 08:00PM EST |Tue, November 03 01:00AM GMT |Tue, November 03 12:00PM AEDT |
+|[LAS Esport](https://members.iracing.com/membersite/member/LeagueView.do?league=8419){:target="_blank"} |LAS Esport SFL Essais libre |27 |2743 |Fixed |Algarve International Circuit |Wed, November 04 06:30PM EST |Wed, November 04 11:30PM GMT |Thu, November 05 10:30AM AEDT |
+|[Americas Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=13481){:target="_blank"} |Super Formula Mondays |25 |1578 |Open | | | | |
+|[Copa Magna](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} |Formula Cup 2026 Segunda Div |23 |1407 |Fixed | | | | |
 |[CAS \- Super Formula Lights Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10716){:target="_blank"} |CAS \- Super Formula Lights Cup 8th Season |20 |1641 |Fixed | | | | |
 |[SMX CHAMPIONSHIP](https://members.iracing.com/membersite/member/LeagueView.do?league=14590){:target="_blank"} |SMX SFL CHAMPIONSHIP 2 |20 |1457 |Fixed | | | | |
-|[Copa Magna](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} |Formula Cup 2026 Segunda Div |19 |1355 |Fixed | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |SFL Strikes back |17 |1754 |Fixed | | | | |
 |[BSK Community Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15396){:target="_blank"} |BSK World Tour |14 |1379 | | | | | |
 |[RaceWerks](https://members.iracing.com/membersite/member/LeagueView.do?league=10330){:target="_blank"} |SFL Season 3 |11 |1338 |Both |Mobility Resort Motegi |Wed, November 04 08:00PM EST |Thu, November 05 01:00AM GMT |Thu, November 05 12:00PM AEDT |
@@ -255,10 +252,10 @@
 |[Majors Series](https://members.iracing.com/membersite/member/LeagueView.do?league=1348){:target="_blank"} |26R10 Miami |67 |None |Open | | | | |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026D WnS Super Formula SF23 |48 |2145 |Both |Hockenheimring Baden-Württemberg |Thu, November 05 03:40AM EST |Thu, November 05 08:40AM GMT |Thu, November 05 07:40PM AEDT |
 |[Copa Magna](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} |Time Trials Formula Cup 2026 |41 |1992 |Fixed | | | | |
-|[Simpleton Sim Racing \(SSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |The Simpleton Super Formula Championship \| Fall 2026 |35 |2807 |Fixed | | | | |
-|[Copa Magna](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} |Formula Cup 2026 |33 |2197 |Fixed | | | | |
+|[Simpleton Sim Racing \(SSR\)](https://members.iracing.com/membersite/member/LeagueView.do?league=9667){:target="_blank"} |The Simpleton Super Formula Championship \| Fall 2026 |35 |2807 |Fixed |Hockenheimring Baden-Württemberg |Sun, November 08 07:00PM EST |Mon, November 09 12:00AM GMT |Mon, November 09 11:00AM AEDT |
+|[Copa Magna](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} |FCUP pending |33 |2197 |Fixed | | | | |
 |[American Formula Series \(AFS\)](https://members.iracing.com/membersite/member/LeagueView.do?league=15352){:target="_blank"} |AFS Exhibition Series |31 |2812 | | | | | |
-|[League Zero: Super Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season 19 |25 |2890 |Fixed | | | | |
+|[Copa Magna](https://members.iracing.com/membersite/member/LeagueView.do?league=11110){:target="_blank"} |Formula Cup 2026 |28 |2547 |Fixed |Watkins Glen International |Tue, November 03 08:00PM EST |Wed, November 04 01:00AM GMT |Wed, November 04 12:00PM AEDT |
 |[Apex Hunter Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=13356){:target="_blank"} |SF23 Season 3 \- Street Track Attack |14 |1819 |Both | | | | |
 |[League Zero: Super Formula Series](https://members.iracing.com/membersite/member/LeagueView.do?league=4534){:target="_blank"} |Season 20 |13 |2678 |Fixed |Hockenheimring Baden-Württemberg |Thu, November 05 09:00PM EST |Fri, November 06 02:00AM GMT |Fri, November 06 01:00PM AEDT |
 |[UNIZONE](https://members.iracing.com/membersite/member/LeagueView.do?league=11512){:target="_blank"} |UNIZONE '26 10/31 Rd\.5 総合予選 |13 |None | | | | | |
