@@ -2,8 +2,6 @@
 
 | League Name | Discord | About |
 |-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|[SIMU BALCARCE](https://members.iracing.com/membersite/member/LeagueView.do?league=15510){:target="_blank"} | |🏁 SIMU BALCARCE RACING LEAGUE 🏁  ¡Bienvenidos a Simu Balcarce\! 🏎‍🟀💨  Somos una comunidad apasionada por el automovilismo y el simracing, donde la velocidad, la competitividad y el respeto en pista son protagonistas\.  Nuestro objetivo es crear campeonatos organizados en iRacing, ofreciendo carreras emocionantes, competencia limpia y un espacio para que pilotos de todos los niveles puedan medirse, mejorar y disfrutar de su pasión por las carreras\. |
-|[SimRaceSweden Esports League](https://members.iracing.com/membersite/member/LeagueView.do?league=15509){:target="_blank"} | |GTE ligan du behövde och saknade\! |
 |[Heatwave Firecracker 40\.0](https://members.iracing.com/membersite/member/LeagueView.do?league=15513){:target="_blank"} | | |
 |[P4 CUP](https://members.iracing.com/membersite/member/LeagueView.do?league=15511){:target="_blank"} | |P4 Track CUP V1\.0 |
 |[Win Your in B Main](https://members.iracing.com/membersite/member/LeagueView.do?league=15514){:target="_blank"} | | |
@@ -49,4 +47,10 @@
 |[MFN](https://members.iracing.com/membersite/member/LeagueView.do?league=15554){:target="_blank"} | |Endurance |
 |[RJ Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=15557){:target="_blank"} |[Discord](https://discord.com/invite/dDX9D9MVQm){:target="_blank"} |Nascar League ran by Racing veterans with years of experience on how to run a high quality league with NO FEES for you\. Great competition, High Quality Broadcasts and Community is our focus\! Join Today\! |
 |[Sprinkles Cup Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15555){:target="_blank"} | |GT3 Class Racing Open To All Skill Levels\! |
+|[ccj](https://members.iracing.com/membersite/member/LeagueView.do?league=15560){:target="_blank"} | |fun |
+|[HNG](https://members.iracing.com/membersite/member/LeagueView.do?league=15559){:target="_blank"} | | |
+|[RedgateSimRacingSeries](https://members.iracing.com/membersite/member/LeagueView.do?league=15558){:target="_blank"} | | |
+|[Saturday Night Open Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15562){:target="_blank"} | |Saturday night open setup racing |
+|[Switchback GT3 League](https://members.iracing.com/membersite/member/LeagueView.do?league=15563){:target="_blank"} |[Discord](https://discord.gg/ybA2Gcyc7m){:target="_blank"} |Welcome the the newest up\-and\-coming Australian GT3 League\! |
+|[TCR Race of Champions](https://members.iracing.com/membersite/member/LeagueView.do?league=15561){:target="_blank"} | | |
 

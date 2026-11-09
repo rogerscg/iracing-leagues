@@ -30,8 +30,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------|----------------------|-----|---------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------|-----------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |Modern NASCAR Season 2 |Both |EchoPark Speedway (Atlanta) |Fri, November 13 08:30PM EST |Sat, November 14 01:30AM GMT |Sat, November 14 12:30PM AEDT |
+|[Anywhere But Pocono](https://members.iracing.com/membersite/member/LeagueView.do?league=6601){:target="_blank"} |ABP Fall/Winter 2026 5 Track Series | |Daytona International Speedway |Mon, November 09 08:00PM EST |Tue, November 10 01:00AM GMT |Tue, November 10 12:00PM AEDT |
 
 ### Impala SS Class A
 
@@ -46,9 +47,8 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------|---------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------|----------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[BTG Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=10505){:target="_blank"} |BTG Cup Season 4 | |Daytona International Speedway |Sun, November 15 07:30PM EST |Mon, November 16 12:30AM GMT |Mon, November 16 11:30AM AEDT |
-|[ProMod iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15463){:target="_blank"} |ProMod Truck Season 1 |Fixed |Talladega Superspeedway |Sun, November 08 08:30PM EST |Mon, November 09 01:30AM GMT |Mon, November 09 12:30PM AEDT |
 
 # Oval
 
@@ -57,9 +57,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
 |[O'Leary Racing Productions SS Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14970){:target="_blank"} |O'Leary Racing Productions Street Stocks | |Slinger Speedway |Fri, November 13 07:00PM EST |Sat, November 14 12:00AM GMT |Sat, November 14 11:00AM AEDT |
 |[Street Stock Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15487){:target="_blank"} |Street Stock Series S1 | |Southern National Motorsports Park |Mon, November 09 06:00PM EST |Mon, November 09 11:00PM GMT |Tue, November 10 10:00AM AEDT |
+|[The E\-Motorsports Network Winter Exhibition Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15512){:target="_blank"} |2026\-2027 Season | |South Boston Speedway |Mon, November 09 07:30PM EST |Tue, November 10 12:30AM GMT |Tue, November 10 11:30AM AEDT |
 
 # Open-wheel
 
@@ -77,8 +78,16 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------|------|-----|--------------|----------------------------|----------------------------|-----------------------------|
-|[Oman Automobile Association](https://members.iracing.com/membersite/member/LeagueView.do?league=10531){:target="_blank"} |OAA S1 | |Lime Rock Park |Sun, November 08 12:00PM EST |Sun, November 08 05:00PM GMT |Mon, November 09 04:00AM AEDT |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|[FRITOSPORT Racing Series \- Open Wheel Ladder Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10238){:target="_blank"} |open wheel ladder series | |Brands Hatch Circuit |Mon, November 16 08:00PM EST |Tue, November 17 01:00AM GMT |Tue, November 17 12:00PM AEDT |
+
+### Super Formula Lights
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|--------------------------------------------------------------------------------------------------------------|------------|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
+|[ALPHA ONE RACING](https://members.iracing.com/membersite/member/LeagueView.do?league=11865){:target="_blank"} |Titan Series |Both |Circuit of the Americas |Mon, November 09 08:30PM EST |Tue, November 10 01:30AM GMT |Tue, November 10 12:30PM AEDT |
 
 # Sports Car
 
@@ -150,9 +159,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------|--------------------------|-----|----------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------|--------------------------|-----|------------------------|----------------------------|----------------------------|-----------------------------|
 |[Valued Alliance Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=14114){:target="_blank"} |Monday Night Mayhem | |Eldora Speedway |Mon, November 09 07:00PM EST |Tue, November 10 12:00AM GMT |Tue, November 10 11:00AM AEDT |
-|[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |nokhu season 3 dirt micros |Both |Langley Speedway |Mon, November 09 08:00PM EST |Tue, November 10 01:00AM GMT |Tue, November 10 12:00PM AEDT |
+|[VRA iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12976){:target="_blank"} |nokhu season 3 dirt micros |Both |Lanier National Speedway |Mon, November 09 08:00PM EST |Tue, November 10 01:00AM GMT |Tue, November 10 12:00PM AEDT |
+
+### Dirt Sprintcar - 410
+
+[Back to Top](#)  
+
+| League Name | Season | Setup | Season Start | New York | London | Sydney |
+|---------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------|-----|---------------------|----------------------------|----------------------------|-----------------------------|
+|[World of Outlaws Pro Series \- Sprint Cars](https://members.iracing.com/membersite/member/LeagueView.do?league=7280){:target="_blank"} |WoO Sprint Car Pro Series \- 2026 Season | |Volusia Speedway Park |Mon, November 16 07:45PM EST |Tue, November 17 12:45AM GMT |Tue, November 17 11:45AM AEDT |
 
 ### Dirt UMP Modified
 
@@ -179,9 +196,11 @@
 [Back to Top](#)  
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
-|-----------------------------------------------------------------------------------------------------------------|------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-----|------------------------------|----------------------------|----------------------------|-----------------------------|
 |[DNR test](https://members.iracing.com/membersite/member/LeagueView.do?league=14971){:target="_blank"} |GT3 \[TEST\] | |Daytona International Speedway |Wed, November 11 05:01PM EST |Wed, November 11 10:01PM GMT |Thu, November 12 09:01AM AEDT |
+|[Racers Elite \- Monday GT3 Series \(Fixed\)](https://members.iracing.com/membersite/member/LeagueView.do?league=13239){:target="_blank"} |Racers Elite \- Fixed GT3 Series \(Season 1\) | |Virginia International Raceway |Mon, November 16 05:35PM EST |Mon, November 16 10:35PM GMT |Tue, November 17 09:35AM AEDT |
 |[Crown Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13293){:target="_blank"} |Season 2 | |St. Petersburg Grand Prix |Sun, November 15 11:00AM EST |Sun, November 15 04:00PM GMT |Mon, November 16 03:00AM AEDT |
+|[Podium Wolves Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15482){:target="_blank"} |GT3 Inaugural |Both |Watkins Glen International |Fri, November 13 06:00PM EST |Fri, November 13 11:00PM GMT |Sat, November 14 10:00AM AEDT |
 
 ### Hosted All Cars Class
 
@@ -189,12 +208,10 @@
 
 | League Name | Season | Setup | Season Start | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
-|[Swinton Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=7790){:target="_blank"} |SRS 11/26\-03/27 |Fixed |Auto Club Speedway |Sun, November 08 07:00AM EST |Sun, November 08 12:00PM GMT |Sun, November 08 11:00PM AEDT |
 |[\(XSLR\) \- Cross Series League Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=5860){:target="_blank"} |Season 11 |Open |Talladega Superspeedway |Sun, November 15 07:30PM EST |Mon, November 16 12:30AM GMT |Mon, November 16 11:30AM AEDT |
 |[Into The Apex Sportscar Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=15375){:target="_blank"} |Season One |Open |Road Atlanta |Sat, November 14 01:15PM EST |Sat, November 14 06:15PM GMT |Sun, November 15 05:15AM AEDT |
 |[NxtLvl Racing\.](https://members.iracing.com/membersite/member/LeagueView.do?league=11085){:target="_blank"} |2026 KING OF THE CURVE | |Circuit de Spa-Francorchamps |Sun, November 15 04:00PM EST |Sun, November 15 09:00PM GMT |Mon, November 16 08:00AM AEDT |
 |[SOAR racing league](https://members.iracing.com/membersite/member/LeagueView.do?league=12802){:target="_blank"} |Orileys | |Dover Motor Speedway |Mon, November 09 08:00PM EST |Tue, November 10 01:00AM GMT |Tue, November 10 12:00PM AEDT |
-|[CMS Team Endurance Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5813){:target="_blank"} |iRacing Team Endurance Series Season 7 |Open |Okayama International Circuit |Sun, November 08 10:00AM EST |Sun, November 08 03:00PM GMT |Mon, November 09 02:00AM AEDT |
 |[Trackfusion Cup by MC Neuhausen München e\.V](https://members.iracing.com/membersite/member/LeagueView.do?league=15526){:target="_blank"} |Trackfusion Cup by MC Neuhausen München e\.V | |Nürburgring Grand-Prix-Strecke |Thu, November 12 12:30PM EST |Thu, November 12 05:30PM GMT |Fri, November 13 04:30AM AEDT |
 |[JOHNCAR](https://members.iracing.com/membersite/member/LeagueView.do?league=12378){:target="_blank"} |JOHNCAR Season 6 |Fixed |Daytona International Speedway |Tue, November 10 08:25PM EST |Wed, November 11 01:25AM GMT |Wed, November 11 12:25PM AEDT |
 |[Road N' Plate Palm Rat Golf Series](https://members.iracing.com/membersite/member/LeagueView.do?league=10236){:target="_blank"} |Winter Series 2026 |Fixed |Barber Motorsports Park |Thu, November 12 08:00PM EST |Fri, November 13 01:00AM GMT |Fri, November 13 12:00PM AEDT |
