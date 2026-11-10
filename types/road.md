@@ -8,17 +8,17 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|--------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Club Scandinavia League](https://members.iracing.com/membersite/member/LeagueView.do?league=1367){:target="_blank"} |2026 S4 CSL Caterham Madness |62 |3259 |Both |Silverstone Circuit |Mon, November 16 02:00PM EST |Mon, November 16 07:00PM GMT |Tue, November 17 06:00AM AEDT |
 |[DE\-AT\-CH Club Liga](https://members.iracing.com/membersite/member/LeagueView.do?league=2432){:target="_blank"} |Caterham Season 1 |56 |2906 |Both |Silverstone Circuit |Tue, November 10 02:00PM EST |Tue, November 10 07:00PM GMT |Wed, November 11 06:00AM AEDT |
-|[GoT\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2026S4 Season Monday Tournament |50 |2645 |Open |Silverstone Circuit |Mon, November 09 01:30PM EST |Mon, November 09 06:30PM GMT |Tue, November 10 05:30AM AEDT |
+|[GoT\-Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=164){:target="_blank"} |GoT \- 2026S4 Season Monday Tournament |51 |2640 |Open |Hockenheimring Baden-Württemberg |Mon, November 16 01:30PM EST |Mon, November 16 06:30PM GMT |Tue, November 17 05:30AM AEDT |
 |[Série Boost Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12195){:target="_blank"} |CATERHAM CUP \- AUTOMNE 2026 |36 |2387 | |Circuit Gilles Villeneuve |Sun, November 15 02:00PM EST |Sun, November 15 07:00PM GMT |Mon, November 16 06:00AM AEDT |
-|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 40 \- Caterham 420R |29 |1771 |Fixed |Silverstone Circuit |Mon, November 09 02:00PM EST |Mon, November 09 07:00PM GMT |Tue, November 10 06:00AM AEDT |
-|[Backfire Simsport TV Caterham 7Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=15357){:target="_blank"} |Season 1 |29 |3020 | |Knockhill Racing Circuit |Mon, November 09 01:30PM EST |Mon, November 09 06:30PM GMT |Tue, November 10 05:30AM AEDT |
+|[60PLUS Racing Adventures](https://members.iracing.com/membersite/member/LeagueView.do?league=2022){:target="_blank"} |60 Plus Season 40 \- Caterham 420R |31 |1782 |Fixed |Hockenheimring Baden-Württemberg |Mon, November 16 02:00PM EST |Mon, November 16 07:00PM GMT |Tue, November 17 06:00AM AEDT |
+|[Backfire Simsport TV Caterham 7Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=15357){:target="_blank"} |Season 1 |31 |3074 | | | | | |
 |[WDCR SCCA Virtual Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=2163){:target="_blank"} |2026 Fall Season |29 |2415 |Both |Mid-Ohio Sports Car Course |Thu, November 12 07:00PM EST |Fri, November 13 12:00AM GMT |Fri, November 13 11:00AM AEDT |
 |[Llama League](https://members.iracing.com/membersite/member/LeagueView.do?league=13581){:target="_blank"} |Season 4 \- Caterham 420R |29 |2836 | |Phillip Island Circuit |Thu, November 12 03:00PM EST |Thu, November 12 08:00PM GMT |Fri, November 13 07:00AM AEDT |
+|[ESR SEVEN Trophy 2027](https://members.iracing.com/membersite/member/LeagueView.do?league=7945){:target="_blank"} |2026 ESR SEVEN Trophy |29 |1842 | |Rudskogen Motorsenter |Mon, November 16 01:00PM EST |Mon, November 16 06:00PM GMT |Tue, November 17 05:00AM AEDT |
 |[GRS Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |Caterham 420R |28 |1602 |Both | | | | |
-|[ESR SEVEN Trophy 2027](https://members.iracing.com/membersite/member/LeagueView.do?league=7945){:target="_blank"} |2026 ESR SEVEN Trophy |27 |1905 | |Circuito de Navarra |Mon, November 09 01:00PM EST |Mon, November 09 06:00PM GMT |Tue, November 10 05:00AM AEDT |
 |[Sunday Night Speed](https://members.iracing.com/membersite/member/LeagueView.do?league=3824){:target="_blank"} |Sunday Night Speed \- Caterham 420R \- Season 1 |26 |2547 |Fixed | | | | |
 |[GTS Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=8857){:target="_blank"} |Caterham Cup 2026 |22 |2806 |Both | | | | |
 |[Official Caterham Esports Powered by Beachman Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15379){:target="_blank"} |CE S1 |20 |2905 |Fixed |Road America |Sun, November 15 01:00PM EST |Sun, November 15 06:00PM GMT |Mon, November 16 05:00AM AEDT |
@@ -34,14 +34,14 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Pre\-Qualifying |169 |1958 | | | | | |
 |[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 2 |56 |1924 | | | | | |
 |[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 1 |51 |2861 | | | | | |
 |[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 3 |43 |1372 | | | | | |
 |[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Official Practice |29 |None | | | | | |
 |[BearPope Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=897){:target="_blank"} |Bearpope Caterham Academy 2026 |16 |1892 |Open | | | | |
-|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Caterham back to school |14 |1681 |Fixed | | | | |
+|[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Caterham back to school |14 |1681 |Fixed |Donington Park Racing Circuit |Tue, November 10 03:30AM EST |Tue, November 10 08:30AM GMT |Tue, November 10 07:30PM AEDT |
 |[Vintage Racer Group \- Virtual Racer League](https://members.iracing.com/membersite/member/LeagueView.do?league=4210){:target="_blank"} |2026 \- Season 4 \- VRG VRL Caterham Series |12 |1543 |Fixed |Winton Motor Raceway |Tue, November 10 07:30PM EST |Wed, November 11 12:30AM GMT |Wed, November 11 11:30AM AEDT |
 |[CSR \- Community Sim Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10570){:target="_blank"} |CSR Caterham Euro Academy |12 |2038 |Open |Brands Hatch Circuit |Tue, November 10 03:00PM EST |Tue, November 10 08:00PM GMT |Wed, November 11 07:00AM AEDT |
 
@@ -73,7 +73,7 @@
 |[dmsj \- SimRacing\-Junior\-Cup 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=2529){:target="_blank"} |dmsj Race |30 |2547 |Fixed | | | | |
 |[LIGA FRS \- 3](https://members.iracing.com/membersite/member/LeagueView.do?league=14284){:target="_blank"} |BMW M2R \- Rookie to Pro |23 |2571 | | | | | |
 |[Midwest Racing Fun League](https://members.iracing.com/membersite/member/LeagueView.do?league=9851){:target="_blank"} |BMW Blast road course series |21 |1067 |Both |Daytona International Speedway |Wed, November 11 10:00PM EST |Thu, November 12 03:00AM GMT |Thu, November 12 02:00PM AEDT |
-|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |BMW M2 Cup 2026 |18 |2196 |Open |Tsukuba Circuit |Mon, November 09 12:00PM EST |Mon, November 09 05:00PM GMT |Tue, November 10 04:00AM AEDT |
+|[SIMCO](https://members.iracing.com/membersite/member/LeagueView.do?league=11871){:target="_blank"} |BMW M2 Cup 2026 |19 |2203 |Open | | | | |
 |[Atlantic Canada iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8235){:target="_blank"} |ACiL Fall 2026 M2 Cup |18 |1942 | |Circuito de Jerez - Ángel Nieto |Tue, November 10 07:28PM EST |Wed, November 11 12:28AM GMT |Wed, November 11 11:28AM AEDT |
 |[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG T3/2026 \- BMW M2 CUP |17 |1620 | | | | | |
 |[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S6 |14 |1351 |Fixed |Detroit Grand Prix at Belle Isle |Fri, November 13 07:30PM EST |Sat, November 14 12:30AM GMT |Sat, November 14 11:30AM AEDT |
