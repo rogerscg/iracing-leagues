@@ -9,7 +9,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|----------------------------------|----------------------------|----------------------------|-----------------------------|
-|[CRC Virtual Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=10980){:target="_blank"} |Season 4 |23 |2484 |Both |Sebring International Raceway |Tue, November 10 07:00PM EST |Wed, November 11 12:00AM GMT |Wed, November 11 11:00AM AEDT |
+|[CRC Virtual Velocity](https://members.iracing.com/membersite/member/LeagueView.do?league=10980){:target="_blank"} |Season 4 |23 |2463 |Both | | | | |
 |[Simpit Road Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=3859){:target="_blank"} |The Simpit Fall '26 Season |14 |2228 |Open |Suzuka International Racing Course |Sun, November 15 01:00PM EST |Sun, November 15 06:00PM GMT |Mon, November 16 05:00AM AEDT |
 
 ### Hosted All Cars Class
@@ -26,11 +26,12 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|--------------------|----------------------------|----------------------------|-----------------------------|
-|[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |77 |None |Fixed |Silverstone Circuit |Tue, November 10 07:00PM EST |Wed, November 11 12:00AM GMT |Wed, November 11 11:00AM AEDT |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
+|[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |Official Test |100 |None |Fixed | | | | |
+|[Radical Cup Canada Winter Series \- Presented by BiS](https://members.iracing.com/membersite/member/LeagueView.do?league=9196){:target="_blank"} |26/27 RCCWS |53 |3082 |Fixed | | | | |
 |[Radical SimRacing \- European Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9305){:target="_blank"} |European Championship 2026 |35 |4035 | | | | | |
 |[Radical SimRacing \- Americas Championships](https://members.iracing.com/membersite/member/LeagueView.do?league=9304){:target="_blank"} |Americas Championship 2026 |26 |2637 | | | | | |
-|[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |Radical SR10 Cup Season 11 |21 |1971 |Both |Summit Point Raceway |Tue, November 10 08:00PM EST |Wed, November 11 01:00AM GMT |Wed, November 11 12:00PM AEDT |
+|[Dark Helmet Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9172){:target="_blank"} |Radical SR10 Cup Season 11 |21 |1992 |Both |Road Atlanta |Tue, November 17 08:00PM EST |Wed, November 18 01:00AM GMT |Wed, November 18 12:00PM AEDT |
 
 ### Radical SR8
 
