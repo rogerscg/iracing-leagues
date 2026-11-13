@@ -25,13 +25,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
+|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 14 \- Pro 2 Lites |109 |3100 | |Wild West Motorsports Park |Fri, November 13 08:30PM EST |Sat, November 14 01:30AM GMT |Sat, November 14 12:30PM AEDT |
-|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2 Superlite \- 2026/Oct\-Nov |18 |3850 |Fixed |Crandon International Raceway |Thu, November 12 07:00PM EST |Fri, November 13 12:00AM GMT |Fri, November 13 11:00AM AEDT |
+|[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2 Superlite \- 2026/Oct\-Nov |23 |3854 |Fixed | | | | |
 |[Pro\-Circuit Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14878){:target="_blank"} |Season one pro lite |17 |2064 | | | | | |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Street Truck Series |13 |1322 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest/TINYTRUCK \(2026\) |12 |3214 |Fixed | | | | |
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |5\. No Man's Land Dirt Series \(Pro Lite 2\) |11 |1913 |Both | | | | |
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |5\. No Man's Land Dirt Series \(Pro Lite 2\) |11 |1913 |Both |Millbridge Speedway |Fri, November 13 09:15PM EST |Sat, November 14 02:15AM GMT |Sat, November 14 01:15PM AEDT |
 
 ### Pro 2 Truck
 

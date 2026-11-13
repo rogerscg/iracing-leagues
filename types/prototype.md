@@ -17,9 +17,9 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-------------|----------------------------|----------------------------|-----------------------------|
+|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[Raging Radicals US TOUR by Odyssey Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13680){:target="_blank"} |Raging Radicals US Tour |38 |2429 | | | | | |
-|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 4 |27 |3027 |Open |Red Bull Ring |Thu, November 12 02:15PM EST |Thu, November 12 07:15PM GMT |Fri, November 13 06:15AM AEDT |
+|[Radical Race Series](https://members.iracing.com/membersite/member/LeagueView.do?league=5547){:target="_blank"} |Radical Race Series 2026 Season 4 |30 |3022 |Open |Sebring International Raceway |Thu, November 19 02:15PM EST |Thu, November 19 07:15PM GMT |Fri, November 20 06:15AM AEDT |
 
 ### Radical SR10
 
@@ -40,7 +40,7 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |-------------------------------------------------------------------------------------------------------------------|----------------------------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 10 |29 |2544 | |Red Bull Ring |Mon, November 16 02:50PM EST |Mon, November 16 07:50PM GMT |Tue, November 17 06:50AM AEDT |
-|[Secret Circuit Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15120){:target="_blank"} |SCS Season 1 \- Radical SR8 |20 |2499 | |Road Atlanta |Thu, November 12 01:00PM EST |Thu, November 12 06:00PM GMT |Fri, November 13 05:00AM AEDT |
+|[Secret Circuit Series](https://members.iracing.com/membersite/member/LeagueView.do?league=15120){:target="_blank"} |SCS Season 1 \- Radical SR8 |22 |2585 | |Road Atlanta |Thu, November 19 01:00PM EST |Thu, November 19 06:00PM GMT |Fri, November 20 05:00AM AEDT |
 |[JPB Leagues](https://members.iracing.com/membersite/member/LeagueView.do?league=10467){:target="_blank"} |Radical SR8 Championship Season 9 |16 |2773 | | | | | |
 |[GRS Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |Radical SR8 Season 2 |15 |1616 |Both |Autódromo José Carlos Pace |Mon, November 16 03:00PM EST |Mon, November 16 08:00PM GMT |Tue, November 17 07:00AM AEDT |
 |[Farmen Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=11807){:target="_blank"} |Farmen 2026 høst Radical |10 |1010 | |Circuit Zandvoort |Sun, November 15 03:00PM EST |Sun, November 15 08:00PM GMT |Mon, November 16 07:00AM AEDT |

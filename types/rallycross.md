@@ -21,14 +21,6 @@
 |-----------------------------------------------------------------------------------------------------------------|----------|-------|----|-----|-------------|--------|------|------|
 |[Rally Short\-Course](https://members.iracing.com/membersite/member/LeagueView.do?league=14866){:target="_blank"} |Season \#1 |20 |1877 | | | | | |
 
-### VW Beetle GRC
-
-[Back to Top](#)  
-
-| League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------|---------------------|-------|----|-----|-------------|--------|------|------|
-|[Maxx Bantz Open](https://members.iracing.com/membersite/member/LeagueView.do?league=2706){:target="_blank"} |Maxx Bantz \| Reverie |17 |1836 |Fixed | | | | |
-
 ### VW Beetle Lite
 
 [Back to Top](#)  
