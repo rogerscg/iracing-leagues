@@ -24,9 +24,10 @@
 |[Official Caterham Esports Powered by Beachman Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=15379){:target="_blank"} |CE S1 |20 |2905 |Fixed |Road America |Sun, November 15 01:00PM EST |Sun, November 15 06:00PM GMT |Mon, November 16 05:00AM AEDT |
 |[UK Sim Racers](https://members.iracing.com/membersite/member/LeagueView.do?league=2378){:target="_blank"} |UKSR Caterham 420R Thursdays |19 |2310 |Open | | | | |
 |[Diode Cup](https://members.iracing.com/membersite/member/LeagueView.do?league=12886){:target="_blank"} |Diode Cup Season 5 |17 |2101 | | | | | |
+|[Potato Nation](https://members.iracing.com/membersite/member/LeagueView.do?league=8525){:target="_blank"} |PN 420R Trophy |16 |2102 | |Silverstone Circuit |Fri, November 20 03:38PM EST |Fri, November 20 08:38PM GMT |Sat, November 21 07:38AM AEDT |
+|[GRS Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |Caterham 420R Season 2 |14 |1465 |Both |Donington Park Racing Circuit |Fri, November 20 03:00PM EST |Fri, November 20 08:00PM GMT |Sat, November 21 07:00AM AEDT |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |GVM Season 5 |12 |1682 | |USA International Speedway |Tue, November 17 08:00PM EST |Wed, November 18 01:00AM GMT |Wed, November 18 12:00PM AEDT |
 |[BMWCCA Buckeye Chapter eSports](https://members.iracing.com/membersite/member/LeagueView.do?league=5084){:target="_blank"} |2026 Season 4: Wednesday 420R |11 |2103 | | | | | |
-|[GRS Road Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14973){:target="_blank"} |Caterham 420R Season 2 |11 |1441 |Both |Brands Hatch Circuit |Fri, November 13 03:00PM EST |Fri, November 13 08:00PM GMT |Sat, November 14 07:00AM AEDT |
 |[Direct Drive Motorsports](https://members.iracing.com/membersite/member/LeagueView.do?league=12413){:target="_blank"} |Caterham 420 R Series |11 |1400 |Open |Road Atlanta |Tue, November 17 07:30PM EST |Wed, November 18 12:30AM GMT |Wed, November 18 11:30AM AEDT |
 |[Retro Rebels Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=6553){:target="_blank"} |Caterham 420 Series |10 |1020 | | | | | |
 
@@ -37,9 +38,9 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-----------------------------|----------------------------|----------------------------|-----------------------------|
 |[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Pre\-Qualifying |169 |1958 | | | | | |
-|[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 2 |56 |1924 | | | | | |
-|[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 1 |51 |2861 | | | | | |
-|[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 3 |43 |1372 | | | | | |
+|[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 2 |56 |1929 | | | | | |
+|[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 1 |51 |2902 | | | | | |
+|[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Split 3 |43 |1380 | | | | | |
 |[ARA League Season 9](https://members.iracing.com/membersite/member/LeagueView.do?league=15317){:target="_blank"} |Official Practice |29 |None | | | | | |
 |[BearPope Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=897){:target="_blank"} |Bearpope Caterham Academy 2026 |16 |1892 |Open | | | | |
 |[Missed Apex Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=8693){:target="_blank"} |Caterham back to school |14 |1678 |Fixed | | | | |
@@ -51,10 +52,10 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------|----|-----|----------------------|----------------------------|----------------------------|-----------------------------|
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 1 |99 |4806 |Open | | | | |
+|------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 2 |100 |3190 |Open |Adelaide Street Circuit |Sun, November 15 01:45AM EST |Sun, November 15 06:45AM GMT |Sun, November 15 05:45PM AEDT |
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Split 1 |99 |4806 |Open |Adelaide Street Circuit |Sun, November 15 03:05AM EST |Sun, November 15 08:05AM GMT |Sun, November 15 07:05PM AEDT |
 |[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Season 4, 2026 |49 |2643 |Open |Oran Park Raceway |Tue, November 17 02:00AM EST |Tue, November 17 07:00AM GMT |Tue, November 17 06:00PM AEDT |
-|[SRW \- Warren & Brown Tools V8 Tuesdays](https://members.iracing.com/membersite/member/LeagueView.do?league=6517){:target="_blank"} |Season 3, 2026 |40 |2446 |Open | | | | |
 |[BillyOirish Caterham Challenge](https://members.iracing.com/membersite/member/LeagueView.do?league=15328){:target="_blank"} |Billy Oirish Caterham Challenge |26 |2176 | |Mount Panorama Circuit |Thu, November 19 04:00PM EST |Thu, November 19 09:00PM GMT |Fri, November 20 08:00AM AEDT |
 |[Racing League Romania](https://members.iracing.com/membersite/member/LeagueView.do?league=350){:target="_blank"} |RLR S9 \- Road To Pro \(Caterham\) |25 |2670 | | | | | |
 |[Green Villain Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=13613){:target="_blank"} |GVM Season 4 |22 |1622 | | | | | |
@@ -69,7 +70,6 @@
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |--------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|-------|----|-----|------------------------------------|----------------------------|----------------------------|-----------------------------|
 |[Race Place Simracing Club](https://members.iracing.com/membersite/member/LeagueView.do?league=13330){:target="_blank"} |RP M2 Cup \- Season 1 |54 |1953 |Fixed | | | | |
-|[///OGRL Old Guy Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9339){:target="_blank"} |BMW M2 S1 \- Rookie Road |37 |1386 |Both | | | | |
 |[Kansas City Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=9275){:target="_blank"} |DLB Precision ///M Spec Tour |36 |1957 |Both | | | | |
 |[dmsj \- SimRacing\-Junior\-Cup 2026](https://members.iracing.com/membersite/member/LeagueView.do?league=2529){:target="_blank"} |dmsj Race |30 |2547 |Fixed | | | | |
 |[LIGA FRS \- 3](https://members.iracing.com/membersite/member/LeagueView.do?league=14284){:target="_blank"} |BMW M2R \- Rookie to Pro |23 |2571 | | | | | |
@@ -79,7 +79,7 @@
 |[KYSCCA Winter League](https://members.iracing.com/membersite/member/LeagueView.do?league=11590){:target="_blank"} |KYSCCA Winter League 2026 |18 |1918 |Fixed | | | | |
 |[Liga VPG \- Virtual Pilots Group](https://members.iracing.com/membersite/member/LeagueView.do?league=13601){:target="_blank"} |VPG T3/2026 \- BMW M2 CUP |17 |1620 | | | | | |
 |[Positive Perception \- iRacing League](https://members.iracing.com/membersite/member/LeagueView.do?league=15451){:target="_blank"} |Positive Perception iRacing \- Season 1 |16 |2050 |Open | | | | |
-|[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S6 |14 |1351 |Fixed |Detroit Grand Prix at Belle Isle |Fri, November 13 07:30PM EST |Sat, November 14 12:30AM GMT |Sat, November 14 11:30AM AEDT |
+|[Skitter Creek Drivers Club](https://members.iracing.com/membersite/member/LeagueView.do?league=8870){:target="_blank"} |Club S6 |14 |1341 |Fixed | | | | |
 |[VoT Technician Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=14522){:target="_blank"} |Special Events |14 |1336 | | | | | |
 |[Skip Barber Sim Racing Fall Championship](https://members.iracing.com/membersite/member/LeagueView.do?league=15383){:target="_blank"} |Fall 2026 |14 |1930 | |Summit Point Raceway |Tue, November 17 06:00PM EST |Tue, November 17 11:00PM GMT |Wed, November 18 10:00AM AEDT |
 |[Slow & Sweaty Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12249){:target="_blank"} |SZN 11 \- RETURN TO THE THUNDERDOME |10 |2252 | |[Legacy] Texas Motor Speedway - 2009 |Tue, November 17 10:00PM EST |Wed, November 18 03:00AM GMT |Wed, November 18 02:00PM AEDT |
@@ -89,14 +89,15 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-----------------------|----------------------------|----------------------------|-----------------------------|
-|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |172 |None |Open |Adelaide Street Circuit |Fri, November 13 03:00AM EST |Fri, November 13 08:00AM GMT |Fri, November 13 07:00PM AEDT |
+|------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|-------|----|-----|-----------------------------------|----------------------------|----------------------------|-----------------------------|
+|[V8SCOPS](https://members.iracing.com/membersite/member/LeagueView.do?league=9964){:target="_blank"} |2026 Pre\-Qualifying |176 |None |Open | | | | |
 |[GSRC\.inc Trophi\.AI V8 Supercar Elite Seires](https://members.iracing.com/membersite/member/LeagueView.do?league=5308){:target="_blank"} |2026D V8SC Elite Series \- Trophi\.AI |91 |2771 | |Mobility Resort Motegi |Wed, November 18 03:40AM EST |Wed, November 18 08:40AM GMT |Wed, November 18 07:40PM AEDT |
 |[The Gentlemen's Sim Racing Club Inc](https://members.iracing.com/membersite/member/LeagueView.do?league=3143){:target="_blank"} |2026D V8SC Development Series \- Trophi\.AI |82 |1932 |Both |Mobility Resort Motegi |Wed, November 18 03:40AM EST |Wed, November 18 08:40AM GMT |Wed, November 18 07:40PM AEDT |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Series Tuesday 29 |72 |1416 | | | | | |
-|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints season 29 Saturday |66 |1500 | | | | | |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints Series Tuesday 29 |74 |1416 | | | | | |
+|[AUS SPRINT SERIES](https://members.iracing.com/membersite/member/LeagueView.do?league=8178){:target="_blank"} |Aus Sprints season 29 Saturday |69 |1502 | | | | | |
 |[OzOval V8SC Oval Racing](https://members.iracing.com/membersite/member/LeagueView.do?league=10491){:target="_blank"} |2026B |45 |2202 |Fixed |Chicagoland Speedway |Sun, November 15 03:00AM EST |Sun, November 15 08:00AM GMT |Sun, November 15 07:00PM AEDT |
 |[STONECOLD RACING LEAGUE](https://members.iracing.com/membersite/member/LeagueView.do?league=5970){:target="_blank"} |Stonecold V8 Thursdays \- Season 2 2026 |43 |1642 | | | | | |
 |[OZ\-E SIM RACING \- V8](https://members.iracing.com/membersite/member/LeagueView.do?league=11564){:target="_blank"} |V8  SUPERCARS GEN3 SEASON 10 |35 |1860 |Both | | | | |
 |[Tasman Racing League \- Supercars Series](https://members.iracing.com/membersite/member/LeagueView.do?league=13772){:target="_blank"} |Season 1 \(SC\) |33 |1651 | |Mount Panorama Circuit |Tue, November 17 02:30AM EST |Tue, November 17 07:30AM GMT |Tue, November 17 06:30PM AEDT |
+|[TRL Super League](https://members.iracing.com/membersite/member/LeagueView.do?league=5340){:target="_blank"} |TRL Supercars Super Series 2026 |26 |1220 | |Sandown International Motor Raceway |Fri, November 20 05:00AM EST |Fri, November 20 10:00AM GMT |Fri, November 20 09:00PM AEDT |
 

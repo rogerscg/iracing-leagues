@@ -25,13 +25,13 @@
 [Back to Top](#)  
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
-|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|--------------------------|----------------------------|----------------------------|-----------------------------|
-|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 14 \- Pro 2 Lites |109 |3100 | |Wild West Motorsports Park |Fri, November 13 08:30PM EST |Sat, November 14 01:30AM GMT |Sat, November 14 12:30PM AEDT |
+|----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|-------|----|-----|-------------------------|----------------------------|----------------------------|-----------------------------|
+|[Special Stage](https://members.iracing.com/membersite/member/LeagueView.do?league=11820){:target="_blank"} |Season 14 \- Pro 2 Lites |111 |3091 | | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Pro 2 Superlite \- 2026/Oct\-Nov |23 |3854 |Fixed | | | | |
-|[Pro\-Circuit Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14878){:target="_blank"} |Season one pro lite |17 |2064 | | | | | |
+|[Pro\-Circuit Sim Racing Series](https://members.iracing.com/membersite/member/LeagueView.do?league=14878){:target="_blank"} |Season one pro lite |17 |2092 | | | | | |
 |[APEX eSports League](https://members.iracing.com/membersite/member/LeagueView.do?league=5168){:target="_blank"} |Pagnian Advanced Simulation Street Truck Series |13 |1322 |Both | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |YesFest/TINYTRUCK \(2026\) |12 |3214 |Fixed | | | | |
-|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |5\. No Man's Land Dirt Series \(Pro Lite 2\) |11 |1913 |Both |Millbridge Speedway |Fri, November 13 09:15PM EST |Sat, November 14 02:15AM GMT |Sat, November 14 01:15PM AEDT |
+|[Giggity Racing League](https://members.iracing.com/membersite/member/LeagueView.do?league=12677){:target="_blank"} |5\. No Man's Land Dirt Series \(Pro Lite 2\) |12 |2059 |Both |Limaland Motorsports Park |Fri, November 20 09:15PM EST |Sat, November 21 02:15AM GMT |Sat, November 21 01:15PM AEDT |
 
 ### Pro 2 Truck
 
@@ -50,7 +50,7 @@
 
 | League Name | Season | Drivers | SoF | Setup | Upcoming Race | New York | London | Sydney |
 |------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|-------|----|-----|-------------|--------|------|------|
-|[CORE \- Championship Off\-Road Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |70 |3421 |Fixed | | | | |
+|[CORE \- Championship Off\-Road Esports](https://members.iracing.com/membersite/member/LeagueView.do?league=13731){:target="_blank"} |Pro 4 Championship |70 |3445 |Fixed | | | | |
 |[\#Yes2Motorsport](https://members.iracing.com/membersite/member/LeagueView.do?league=5789){:target="_blank"} |Y2M x LIF/4x4 Rolling Thunder \- 2026 \(Sat\) |31 |2270 |Fixed | | | | |
 |[RPE @ The Big House](https://members.iracing.com/membersite/member/LeagueView.do?league=5964){:target="_blank"} |RPE @ The Big House |26 |2684 | | | | | |
 
